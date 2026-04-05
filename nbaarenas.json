@@ -36,7 +36,7 @@
   },
   {
     "team_name": "Cleveland Cavaliers",
-    "arena_name": "Rocket Mortgage Fieldhouse",
+    "arena_name": "Rocket Mortgage FieldHouse",
     "arena_location": "Cleveland, Ohio",
     "seating_capacity": 19432,
     "opening_year": 1994
@@ -85,10 +85,10 @@
   },
   {
     "team_name": "Los Angeles Clippers",
-    "arena_name": "Crypto.com Arena",
-    "arena_location": "Los Angeles, California",
-    "seating_capacity": 19079,
-    "opening_year": 1999
+    "arena_name": "Intuit Dome",
+    "arena_location": "Inglewood, California",
+    "seating_capacity": 18300,
+    "opening_year": 2024
   },
   {
     "team_name": "Los Angeles Lakers",
@@ -154,4 +154,59 @@
     "opening_year": 2010
   },
   {
-    "team_
+    "team_name": "Philadelphia 76ers",
+    "arena_name": "Wells Fargo Center",
+    "arena_location": "Philadelphia, Pennsylvania",
+    "seating_capacity": 20478,
+    "opening_year": 1996
+  },
+  {
+    "team_name": "Phoenix Suns",
+    "arena_name": "Footprint Center",
+    "arena_location": "Phoenix, Arizona",
+    "seating_capacity": 17071,
+    "opening_year": 1992
+  },
+  {
+    "team_name": "Portland Trail Blazers",
+    "arena_name": "Moda Center",
+    "arena_location": "Portland, Oregon",
+    "seating_capacity": 19393,
+    "opening_year": 1995
+  },
+  {
+    "team_name": "Sacramento Kings",
+    "arena_name": "Golden 1 Center",
+    "arena_location": "Sacramento, California",
+    "seating_capacity": 17608,
+    "opening_year": 2016
+  },
+  {
+    "team_name": "San Antonio Spurs",
+    "arena_name": "Frost Bank Center",
+    "arena_location": "San Antonio, Texas",
+    "seating_capacity": 18418,
+    "opening_year": 2002
+  },
+  {
+    "team_name": "Toronto Raptors",
+    "arena_name": "Scotiabank Arena",
+    "arena_location": "Toronto, Ontario",
+    "seating_capacity": 19800,
+    "opening_year": 1999
+  },
+  {
+    "team_name": "Utah Jazz",
+    "arena_name": "Delta Center",
+    "arena_location": "Salt Lake City, Utah",
+    "seating_capacity": 18306,
+    "opening_year": 1991
+  },
+  {
+    "team_name": "Washington Wizards",
+    "arena_name": "Capital One Arena",
+    "arena_location": "Washington, D.C.",
+    "seating_capacity": 20356,
+    "opening_year": 1997
+  }
+]
