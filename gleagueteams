@@ -1,0 +1,349 @@
+{
+  "nba_g_league_teams": {
+    "eastern_conference": [
+      {
+        "team": "Birmingham Squadron",
+        "city": "Birmingham, Alabama",
+        "pod": "South",
+        "arena": "Legacy Arena",
+        "capacity": 17654,
+        "founded": "2019",
+        "joined": "2019",
+        "head_coach": "Joe Barrer",
+        "nba_affiliate": "New Orleans Pelicans"
+      },
+      {
+        "team": "Capital City Go-Go",
+        "city": "Washington, D.C.",
+        "pod": "East",
+        "arena": "CareFirst Arena",
+        "capacity": 4200,
+        "founded": "2018",
+        "joined": "2018",
+        "head_coach": "Cody Toppert",
+        "nba_affiliate": "Washington Wizards"
+      },
+      {
+        "team": "Cleveland Charge",
+        "city": "Cleveland, Ohio",
+        "pod": "Central",
+        "arena": "Public Auditorium",
+        "capacity": 10000,
+        "founded": "2001",
+        "joined": "2001",
+        "head_coach": "Eli Kell-Abrams",
+        "nba_affiliate": "Cleveland Cavaliers"
+      },
+      {
+        "team": "College Park Skyhawks",
+        "city": "College Park, Georgia",
+        "pod": "East",
+        "arena": "Gateway Center Arena",
+        "capacity": 3500,
+        "founded": "2017",
+        "joined": "2017",
+        "head_coach": "Steve Klei",
+        "nba_affiliate": "Atlanta Hawks"
+      },
+      {
+        "team": "Delaware Blue Coats",
+        "city": "Wilmington, Delaware",
+        "pod": "East",
+        "arena": "Chase Fieldhouse",
+        "capacity": 2500,
+        "founded": "2007",
+        "joined": "2007",
+        "head_coach": "JP Clark",
+        "nba_affiliate": "Philadelphia 76ers"
+      },
+      {
+        "team": "Grand Rapids Gold",
+        "city": "Grand Rapids, Michigan",
+        "pod": "Central",
+        "arena": "Van Andel Arena",
+        "capacity": 11500,
+        "founded": "2006",
+        "joined": "2006",
+        "head_coach": "Ryan Bowen",
+        "nba_affiliate": "Denver Nuggets"
+      },
+      {
+        "team": "Greensboro Swarm",
+        "city": "Greensboro, North Carolina",
+        "pod": "South",
+        "arena": "Novant Health Fieldhouse",
+        "capacity": 2500,
+        "founded": "2016",
+        "joined": "2016",
+        "head_coach": "D.J. Bakker",
+        "nba_affiliate": "Charlotte Hornets"
+      },
+      {
+        "team": "Long Island Nets",
+        "city": "Uniondale, New York",
+        "pod": "East",
+        "arena": "Nassau Coliseum",
+        "capacity": 13500,
+        "founded": "2016",
+        "joined": "2016",
+        "head_coach": "Mfon Udofia",
+        "nba_affiliate": "Brooklyn Nets"
+      },
+      {
+        "team": "Maine Celtics",
+        "city": "Portland, Maine",
+        "pod": "East",
+        "arena": "Portland Exposition Building",
+        "capacity": 3100,
+        "founded": "2009",
+        "joined": "2009",
+        "head_coach": "Phil Pressey",
+        "nba_affiliate": "Boston Celtics"
+      },
+      {
+        "team": "Motor City Cruise",
+        "city": "Detroit, Michigan",
+        "pod": "Central",
+        "arena": "Wayne State Fieldhouse",
+        "capacity": 3000,
+        "founded": "2003",
+        "joined": "2006",
+        "head_coach": "Jamelle McMillan",
+        "nba_affiliate": "Detroit Pistons"
+      },
+      {
+        "team": "Noblesville Boom",
+        "city": "Noblesville, Indiana",
+        "pod": "Central",
+        "arena": "Riverview Health Arena at Innovation Mile",
+        "capacity": 3400,
+        "founded": "2007",
+        "joined": "2007",
+        "head_coach": "Tom Hankins",
+        "nba_affiliate": "Indiana Pacers"
+      },
+      {
+        "team": "Osceola Magic",
+        "city": "Kissimmee, Florida",
+        "pod": "South",
+        "arena": "Silver Spurs Arena",
+        "capacity": 8000,
+        "founded": "2008",
+        "joined": "2008",
+        "head_coach": "Dylan Murphy",
+        "nba_affiliate": "Orlando Magic"
+      },
+      {
+        "team": "Raptors 905",
+        "city": "Mississauga, Ontario",
+        "pod": "East",
+        "arena": "Paramount Fine Foods Centre",
+        "capacity": 5000,
+        "founded": "2015",
+        "joined": "2015",
+        "head_coach": "Drew Jones",
+        "nba_affiliate": "Toronto Raptors"
+      },
+      {
+        "team": "Westchester Knicks",
+        "city": "White Plains, New York",
+        "pod": "East",
+        "arena": "Westchester County Center",
+        "capacity": 5000,
+        "founded": "2014",
+        "joined": "2014",
+        "head_coach": "DeSagana Diop",
+        "nba_affiliate": "New York Knicks"
+      },
+      {
+        "team": "Windy City Bulls",
+        "city": "Hoffman Estates, Illinois",
+        "pod": "Central",
+        "arena": "Now Arena",
+        "capacity": 10000,
+        "founded": "2016",
+        "joined": "2016",
+        "head_coach": "William Donovan III",
+        "nba_affiliate": "Chicago Bulls"
+      },
+      {
+        "team": "Wisconsin Herd",
+        "city": "Oshkosh, Wisconsin",
+        "pod": "Central",
+        "arena": "Oshkosh Arena",
+        "capacity": 3500,
+        "founded": "2017",
+        "joined": "2017",
+        "head_coach": "Beno Udrih",
+        "nba_affiliate": "Milwaukee Bucks"
+      }
+    ],
+    "western_conference": [
+      {
+        "team": "Austin Spurs",
+        "city": "Cedar Park, Texas",
+        "pod": "South",
+        "arena": "H-E-B Center at Cedar Park",
+        "capacity": 7200,
+        "founded": "2001",
+        "joined": "2001",
+        "head_coach": "Mahmoud Abdelfattah",
+        "nba_affiliate": "San Antonio Spurs"
+      },
+      {
+        "team": "Iowa Wolves",
+        "city": "Des Moines, Iowa",
+        "pod": "Central",
+        "arena": "Casey's Center",
+        "capacity": 16110,
+        "founded": "2007",
+        "joined": "2007",
+        "head_coach": "Ernest Scott",
+        "nba_affiliate": "Minnesota Timberwolves"
+      },
+      {
+        "team": "Memphis Hustle",
+        "city": "Southaven, Mississippi",
+        "pod": "South",
+        "arena": "Landers Center",
+        "capacity": 8362,
+        "founded": "2017",
+        "joined": "2017",
+        "head_coach": "Rob Sanicola",
+        "nba_affiliate": "Memphis Grizzlies"
+      },
+      {
+        "team": "Mexico City Capitanes",
+        "city": "Mexico City, Mexico",
+        "pod": "South",
+        "arena": "Mexico City Arena",
+        "capacity": 22300,
+        "founded": "2017",
+        "joined": "2021",
+        "head_coach": "Vitor Galvani",
+        "nba_affiliate": "None"
+      },
+      {
+        "team": "Oklahoma City Blue",
+        "city": "Oklahoma City, Oklahoma",
+        "pod": "West",
+        "arena": "Paycom Center",
+        "capacity": 18203,
+        "founded": "2001",
+        "joined": "2001",
+        "head_coach": "Daniel Dixon",
+        "nba_affiliate": "Oklahoma City Thunder"
+      },
+      {
+        "team": "Rio Grande Valley Vipers",
+        "city": "Edinburg, Texas",
+        "pod": "South",
+        "arena": "Bert Ogden Arena",
+        "capacity": 9000,
+        "founded": "2007",
+        "joined": "2007",
+        "head_coach": "Joseph Blair",
+        "nba_affiliate": "Houston Rockets"
+      },
+      {
+        "team": "Rip City Remix",
+        "city": "Portland, Oregon",
+        "pod": "West",
+        "arena": "Chiles Center",
+        "capacity": 4852,
+        "founded": "2023",
+        "joined": "2023",
+        "head_coach": "Jonah Herscu",
+        "nba_affiliate": "Portland Trail Blazers"
+      },
+      {
+        "team": "Salt Lake City Stars",
+        "city": "West Valley City, Utah",
+        "pod": "West",
+        "arena": "Maverik Center",
+        "capacity": 12500,
+        "founded": "1997",
+        "joined": "2006",
+        "head_coach": "Rick Higgins",
+        "nba_affiliate": "Utah Jazz"
+      },
+      {
+        "team": "San Diego Clippers",
+        "city": "Oceanside, California",
+        "pod": "West",
+        "arena": "Frontwave Arena",
+        "capacity": 7500,
+        "founded": "2017",
+        "joined": "2017",
+        "head_coach": "Paul Hewitt",
+        "nba_affiliate": "Los Angeles Clippers"
+      },
+      {
+        "team": "Santa Cruz Warriors",
+        "city": "Santa Cruz, California",
+        "pod": "West",
+        "arena": "Kaiser Permanente Arena",
+        "capacity": 2505,
+        "founded": "1995",
+        "joined": "2006",
+        "head_coach": "Lainn Wilson",
+        "nba_affiliate": "Golden State Warriors"
+      },
+      {
+        "team": "Sioux Falls Skyforce",
+        "city": "Sioux Falls, South Dakota",
+        "pod": "Central",
+        "arena": "Sanford Pentagon",
+        "capacity": 3250,
+        "founded": "1989",
+        "joined": "2006",
+        "head_coach": "Dan Bisaccio",
+        "nba_affiliate": "Miami Heat"
+      },
+      {
+        "team": "South Bay Lakers",
+        "city": "El Segundo, California",
+        "pod": "West",
+        "arena": "UCLA Health Training Center",
+        "capacity": 750,
+        "founded": "2006",
+        "joined": "2006",
+        "head_coach": "Zach Guthrie",
+        "nba_affiliate": "Los Angeles Lakers"
+      },
+      {
+        "team": "Stockton Kings",
+        "city": "Stockton, California",
+        "pod": "West",
+        "arena": "Adventist Health Arena",
+        "capacity": 11193,
+        "founded": "2008",
+        "joined": "2008",
+        "head_coach": "Will Scott",
+        "nba_affiliate": "Sacramento Kings"
+      },
+      {
+        "team": "Texas Legends",
+        "city": "Frisco, Texas",
+        "pod": "South",
+        "arena": "Comerica Center",
+        "capacity": 4500,
+        "founded": "2006",
+        "joined": "2006",
+        "head_coach": "Max Hooper",
+        "nba_affiliate": "Dallas Mavericks"
+      },
+      {
+        "team": "Valley Suns",
+        "city": "Tempe, Arizona",
+        "pod": "West",
+        "arena": "Mullett Arena",
+        "capacity": 5000,
+        "founded": "2024",
+        "joined": "2024",
+        "head_coach": "Paul Jesperson",
+        "nba_affiliate": "Phoenix Suns"
+      }
+    ]
+  }
+}
