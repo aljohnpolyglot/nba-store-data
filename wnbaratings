@@ -1,0 +1,6379 @@
+{
+  "version": 66,
+  "startingSeason": 2025,
+  "confs": [
+    {
+      "cid": 0,
+      "name": "East"
+    },
+    {
+      "cid": 1,
+      "name": "West"
+    }
+  ],
+  "divs": [
+    {
+      "did": 0,
+      "cid": 0,
+      "name": "A"
+    },
+    {
+      "did": 1,
+      "cid": 0,
+      "name": "B"
+    },
+    {
+      "did": 2,
+      "cid": 1,
+      "name": "C"
+    },
+    {
+      "did": 3,
+      "cid": 1,
+      "name": "D"
+    }
+  ],
+  "teams": [
+    {
+      "tid": 0,
+      "cid": 0,
+      "did": 0,
+      "region": "Atlanta",
+      "name": "Dream",
+      "abbrev": "ATL",
+      "imgURL": "https://www.proballers.com/api/getTeamLogo?id=2860&width=300"
+    },
+    {
+      "tid": 1,
+      "cid": 0,
+      "did": 0,
+      "region": "Chicago",
+      "name": "Sky",
+      "abbrev": "CHI",
+      "imgURL": "https://www.proballers.com/api/getTeamLogo?id=2861&width=300"
+    },
+    {
+      "tid": 2,
+      "cid": 0,
+      "did": 0,
+      "region": "Connecticut",
+      "name": "Sun",
+      "abbrev": "CON",
+      "imgURL": "https://www.proballers.com/api/getTeamLogo?id=2858&width=300"
+    },
+    {
+      "tid": 3,
+      "cid": 0,
+      "did": 0,
+      "region": "Dallas",
+      "name": "Wings",
+      "abbrev": "DAL",
+      "imgURL": "https://www.proballers.com/api/getTeamLogo?id=2869&width=300"
+    },
+    {
+      "tid": 4,
+      "cid": 0,
+      "did": 0,
+      "region": "Golden",
+      "name": "State Valkyries",
+      "abbrev": "GOL",
+      "imgURL": "https://www.proballers.com/api/getTeamLogo?id=15473&width=300"
+    },
+    {
+      "tid": 5,
+      "cid": 0,
+      "did": 0,
+      "region": "Indiana",
+      "name": "Fever",
+      "abbrev": "IND",
+      "imgURL": "https://www.proballers.com/api/getTeamLogo?id=2859&width=300"
+    },
+    {
+      "tid": 6,
+      "cid": 0,
+      "did": 0,
+      "region": "Las",
+      "name": "Vegas Aces",
+      "abbrev": "LAS",
+      "imgURL": "https://www.proballers.com/api/getTeamLogo?id=2866&width=300"
+    },
+    {
+      "tid": 7,
+      "cid": 0,
+      "did": 1,
+      "region": "Los",
+      "name": "Angeles Sparks",
+      "abbrev": "LOS",
+      "imgURL": "https://www.proballers.com/api/getTeamLogo?id=2865&width=300"
+    },
+    {
+      "tid": 8,
+      "cid": 0,
+      "did": 1,
+      "region": "Minnesota",
+      "name": "Lynx",
+      "abbrev": "MIN",
+      "imgURL": "https://www.proballers.com/api/getTeamLogo?id=2864&width=300"
+    },
+    {
+      "tid": 9,
+      "cid": 0,
+      "did": 1,
+      "region": "New",
+      "name": "York Liberty",
+      "abbrev": "NEW",
+      "imgURL": "https://www.proballers.com/api/getTeamLogo?id=2862&width=300"
+    },
+    {
+      "tid": 10,
+      "cid": 0,
+      "did": 1,
+      "region": "Phoenix",
+      "name": "Mercury",
+      "abbrev": "PHO",
+      "imgURL": "https://www.proballers.com/api/getTeamLogo?id=2868&width=300"
+    },
+    {
+      "tid": 11,
+      "cid": 0,
+      "did": 1,
+      "region": "Seattle",
+      "name": "Storm",
+      "abbrev": "SEA",
+      "imgURL": "https://www.proballers.com/api/getTeamLogo?id=2867&width=300"
+    },
+    {
+      "tid": 12,
+      "cid": 0,
+      "did": 1,
+      "region": "Washington",
+      "name": "Mystics",
+      "abbrev": "WAS",
+      "imgURL": "https://www.proballers.com/api/getTeamLogo?id=2863&width=300"
+    }
+  ],
+  "players": [
+    {
+      "firstName": "Monique",
+      "lastName": "Akoa Makani",
+      "tid": 10,
+      "pos": "SG",
+      "age": 25,
+      "hgt": 70,
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 36,
+          "spd": 73,
+          "jmp": 59,
+          "endu": 73,
+          "ins": 47,
+          "dnk": 33,
+          "fg": 40,
+          "tp": 49,
+          "ft": 77,
+          "pss": 24,
+          "reb": 23,
+          "drb": 51,
+          "oiq": 34,
+          "diq": 15
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/1-1f0c61da-8213-6d0a-b0fe-9790ff10136c.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "France",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Julie",
+      "lastName": "Allemand",
+      "tid": 7,
+      "pos": "PG",
+      "age": 29,
+      "hgt": 68,
+      "ratings": [
+        {
+          "hgt": 36,
+          "stre": 35,
+          "spd": 81,
+          "jmp": 66,
+          "endu": 85,
+          "ins": 43,
+          "dnk": 30,
+          "fg": 36,
+          "tp": 24,
+          "ft": 60,
+          "pss": 40,
+          "reb": 29,
+          "drb": 62,
+          "oiq": 37,
+          "diq": 31
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/julie-allemand-1f05849d-8ddf-686c-9ae6-dde0866575a7.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Belgium",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Rebecca",
+      "lastName": "Allen",
+      "tid": 1,
+      "pos": "PG",
+      "age": 33,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 36,
+          "spd": 71,
+          "jmp": 58,
+          "endu": 56,
+          "ins": 42,
+          "dnk": 29,
+          "fg": 36,
+          "tp": 43,
+          "ft": 39,
+          "pss": 10,
+          "reb": 26,
+          "drb": 42,
+          "oiq": 23,
+          "diq": 27
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/2-1ed39238-9106-610a-993e-3d6a213f18f6.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Australia",
+        "year": 1993
+      }
+    },
+    {
+      "firstName": "Lindsay",
+      "lastName": "Allen",
+      "tid": 2,
+      "pos": "PG",
+      "age": 31,
+      "hgt": 68,
+      "ratings": [
+        {
+          "hgt": 36,
+          "stre": 32,
+          "spd": 67,
+          "jmp": 55,
+          "endu": 43,
+          "ins": 36,
+          "dnk": 25,
+          "fg": 30,
+          "tp": 0,
+          "ft": 64,
+          "pss": 16,
+          "reb": 13,
+          "drb": 46,
+          "oiq": 18,
+          "diq": 16
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1995
+      }
+    },
+    {
+      "firstName": "Laeticia",
+      "lastName": "Amihere",
+      "tid": 4,
+      "pos": "GF",
+      "age": 24,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 88,
+          "spd": 22,
+          "jmp": 18,
+          "endu": 12,
+          "ins": 30,
+          "dnk": 21,
+          "fg": 25,
+          "tp": 0,
+          "ft": 15,
+          "pss": 16,
+          "reb": 18,
+          "drb": 31,
+          "oiq": 15,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/laeticia-amihere-copie-1ef5367f-5550-6536-ad40-8523b953c663.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Canada",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Yvonne",
+      "lastName": "Anderson",
+      "tid": 8,
+      "pos": "PG",
+      "age": 36,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 31,
+          "spd": 83,
+          "jmp": 68,
+          "endu": 36,
+          "ins": 30,
+          "dnk": 21,
+          "fg": 25,
+          "tp": 0,
+          "ft": 15,
+          "pss": 22,
+          "reb": 18,
+          "drb": 35,
+          "oiq": 17,
+          "diq": 25
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/167536-unknown-12-yvonne-anderso-1f10d12a-db6b-6af6-8e77-090112bf7ec6.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Serbia",
+        "year": 1990
+      }
+    },
+    {
+      "firstName": "Ariel",
+      "lastName": "Atkins",
+      "tid": 1,
+      "pos": "PG",
+      "age": 29,
+      "hgt": 68,
+      "ratings": [
+        {
+          "hgt": 36,
+          "stre": 35,
+          "spd": 84,
+          "jmp": 68,
+          "endu": 85,
+          "ins": 62,
+          "dnk": 43,
+          "fg": 53,
+          "tp": 72,
+          "ft": 68,
+          "pss": 28,
+          "reb": 27,
+          "drb": 54,
+          "oiq": 54,
+          "diq": 54
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/2-1ed3ab63-fe71-6cfa-9e95-39c66c56e7eb.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Shakira",
+      "lastName": "Austin",
+      "tid": 12,
+      "pos": "PF",
+      "age": 25,
+      "hgt": 77,
+      "ratings": [
+        {
+          "hgt": 72,
+          "stre": 66,
+          "spd": 60,
+          "jmp": 49,
+          "endu": 69,
+          "ins": 61,
+          "dnk": 43,
+          "fg": 52,
+          "tp": 0,
+          "ft": 45,
+          "pss": 14,
+          "reb": 52,
+          "drb": 44,
+          "oiq": 46,
+          "diq": 54
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/2-1ed3ab6a-a466-64c0-9996-1fbe34e6a351.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Marieme",
+      "lastName": "Badiane",
+      "tid": 8,
+      "pos": "PF",
+      "age": 31,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 51,
+          "spd": 50,
+          "jmp": 41,
+          "endu": 11,
+          "ins": 30,
+          "dnk": 21,
+          "fg": 25,
+          "tp": 0,
+          "ft": 0,
+          "pss": 0,
+          "reb": 14,
+          "drb": 35,
+          "oiq": 5,
+          "diq": 19
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/marieme-badiane-1f058488-2225-601e-8de4-d369b99805f8.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "France",
+        "year": 1995
+      }
+    },
+    {
+      "firstName": "Rachel",
+      "lastName": "Banham",
+      "tid": 1,
+      "pos": "SG",
+      "age": 32,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 36,
+          "spd": 74,
+          "jmp": 60,
+          "endu": 73,
+          "ins": 52,
+          "dnk": 36,
+          "fg": 44,
+          "tp": 60,
+          "ft": 71,
+          "pss": 21,
+          "reb": 18,
+          "drb": 49,
+          "oiq": 39,
+          "diq": 24
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1994
+      }
+    },
+    {
+      "firstName": "Ashlee",
+      "lastName": "Barker Sarah",
+      "tid": 7,
+      "pos": "SG",
+      "age": 24,
+      "hgt": 72,
+      "ratings": [
+        {
+          "hgt": 49,
+          "stre": 33,
+          "spd": 67,
+          "jmp": 55,
+          "endu": 42,
+          "ins": 37,
+          "dnk": 26,
+          "fg": 32,
+          "tp": 32,
+          "ft": 50,
+          "pss": 7,
+          "reb": 21,
+          "drb": 39,
+          "oiq": 16,
+          "diq": 13
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Kierstan",
+      "lastName": "Bell",
+      "tid": 6,
+      "pos": "SG",
+      "age": 26,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 32,
+          "spd": 65,
+          "jmp": 53,
+          "endu": 30,
+          "ins": 36,
+          "dnk": 25,
+          "fg": 30,
+          "tp": 25,
+          "ft": 0,
+          "pss": 2,
+          "reb": 16,
+          "drb": 36,
+          "oiq": 12,
+          "diq": 16
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2000
+      }
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Berger",
+      "tid": 7,
+      "pos": "PG",
+      "age": 26,
+      "hgt": 72,
+      "ratings": [
+        {
+          "hgt": 49,
+          "stre": 37,
+          "spd": 76,
+          "jmp": 62,
+          "endu": 67,
+          "ins": 39,
+          "dnk": 27,
+          "fg": 33,
+          "tp": 0,
+          "ft": 45,
+          "pss": 25,
+          "reb": 30,
+          "drb": 52,
+          "oiq": 26,
+          "diq": 31
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2000
+      }
+    },
+    {
+      "firstName": "Chloe",
+      "lastName": "Bibby",
+      "tid": 4,
+      "pos": "PF",
+      "age": 27,
+      "hgt": 72,
+      "ratings": [
+        {
+          "hgt": 49,
+          "stre": 51,
+          "spd": 52,
+          "jmp": 43,
+          "endu": 29,
+          "ins": 39,
+          "dnk": 27,
+          "fg": 33,
+          "tp": 75,
+          "ft": 68,
+          "pss": 3,
+          "reb": 17,
+          "drb": 37,
+          "oiq": 17,
+          "diq": 19
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Australia",
+        "year": 1999
+      }
+    },
+    {
+      "firstName": "Monique",
+      "lastName": "Billings",
+      "tid": 4,
+      "pos": "SF",
+      "age": 29,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 60,
+          "spd": 54,
+          "jmp": 44,
+          "endu": 43,
+          "ins": 42,
+          "dnk": 29,
+          "fg": 36,
+          "tp": 0,
+          "ft": 70,
+          "pss": 8,
+          "reb": 23,
+          "drb": 33,
+          "oiq": 24,
+          "diq": 23
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Dewanna",
+      "lastName": "Bonner",
+      "tid": 5,
+      "pos": "SF",
+      "age": 38,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 65,
+          "spd": 60,
+          "jmp": 49,
+          "endu": 78,
+          "ins": 52,
+          "dnk": 36,
+          "fg": 44,
+          "tp": 32,
+          "ft": 55,
+          "pss": 8,
+          "reb": 54,
+          "drb": 40,
+          "oiq": 33,
+          "diq": 40
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/44188-1-5f134d9687b812.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1988
+      }
+    },
+    {
+      "firstName": "Aliyah",
+      "lastName": "Boston",
+      "tid": 5,
+      "pos": "PF, C",
+      "age": 24,
+      "hgt": 77,
+      "ratings": [
+        {
+          "hgt": 72,
+          "stre": 66,
+          "spd": 57,
+          "jmp": 47,
+          "endu": 94,
+          "ins": 61,
+          "dnk": 70,
+          "fg": 52,
+          "tp": 0,
+          "ft": 47,
+          "pss": 32,
+          "reb": 82,
+          "drb": 57,
+          "oiq": 54,
+          "diq": 25
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Crystal",
+      "lastName": "Bradford",
+      "tid": 6,
+      "pos": "SG",
+      "age": 32,
+      "hgt": 72,
+      "ratings": [
+        {
+          "hgt": 49,
+          "stre": 30,
+          "spd": 65,
+          "jmp": 53,
+          "endu": 18,
+          "ins": 32,
+          "dnk": 22,
+          "fg": 27,
+          "tp": 0,
+          "ft": 0,
+          "pss": 2,
+          "reb": 17,
+          "drb": 36,
+          "oiq": 8,
+          "diq": 15
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1994
+      }
+    },
+    {
+      "firstName": "Cameron",
+      "lastName": "Brink",
+      "tid": 7,
+      "pos": "GF",
+      "age": 24,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 100,
+          "spd": 26,
+          "jmp": 21,
+          "endu": 38,
+          "ins": 42,
+          "dnk": 29,
+          "fg": 36,
+          "tp": 32,
+          "ft": 57,
+          "pss": 4,
+          "reb": 39,
+          "drb": 37,
+          "oiq": 21,
+          "diq": 50
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Jaelyn",
+      "lastName": "Brown",
+      "tid": 2,
+      "pos": "SF",
+      "age": 27,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 55,
+          "spd": 53,
+          "jmp": 43,
+          "endu": 39,
+          "ins": 39,
+          "dnk": 27,
+          "fg": 33,
+          "tp": 99,
+          "ft": 25,
+          "pss": 0,
+          "reb": 18,
+          "drb": 35,
+          "oiq": 15,
+          "diq": 20
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1999
+      }
+    },
+    {
+      "firstName": "Kalani",
+      "lastName": "Brown",
+      "tid": 10,
+      "pos": "C",
+      "age": 29,
+      "hgt": 79,
+      "ratings": [
+        {
+          "hgt": 81,
+          "stre": 100,
+          "spd": 25,
+          "jmp": 21,
+          "endu": 24,
+          "ins": 40,
+          "dnk": 46,
+          "fg": 34,
+          "tp": 0,
+          "ft": 68,
+          "pss": 0,
+          "reb": 26,
+          "drb": 35,
+          "oiq": 16,
+          "diq": 36
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Lexie",
+      "lastName": "Brown",
+      "tid": 11,
+      "pos": "PG",
+      "age": 31,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 29,
+          "spd": 61,
+          "jmp": 50,
+          "endu": 21,
+          "ins": 34,
+          "dnk": 23,
+          "fg": 29,
+          "tp": 41,
+          "ft": 15,
+          "pss": 16,
+          "reb": 18,
+          "drb": 31,
+          "oiq": 19,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/72968-1-6197ae251e55Sans-titre-2.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1995
+      }
+    },
+    {
+      "firstName": "Paige",
+      "lastName": "Bueckers",
+      "tid": 3,
+      "pos": "GF",
+      "age": 24,
+      "hgt": 72,
+      "ratings": [
+        {
+          "hgt": 49,
+          "stre": 100,
+          "spd": 31,
+          "jmp": 26,
+          "endu": 99,
+          "ins": 78,
+          "dnk": 54,
+          "fg": 66,
+          "tp": 48,
+          "ft": 72,
+          "pss": 43,
+          "reb": 33,
+          "drb": 64,
+          "oiq": 92,
+          "diq": 51
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Kennedy",
+      "lastName": "Burke",
+      "tid": 9,
+      "pos": "SG",
+      "age": 29,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 35,
+          "spd": 68,
+          "jmp": 56,
+          "endu": 51,
+          "ins": 41,
+          "dnk": 29,
+          "fg": 35,
+          "tp": 0,
+          "ft": 55,
+          "pss": 2,
+          "reb": 24,
+          "drb": 36,
+          "oiq": 19,
+          "diq": 28
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/0000s-0010-burke-kennedy-1-1ee68376-b4e0-6f34-b875-efc781d8bb9c.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Rae",
+      "lastName": "Burrell",
+      "tid": 7,
+      "pos": "SF",
+      "age": 25,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 60,
+          "spd": 56,
+          "jmp": 46,
+          "endu": 55,
+          "ins": 48,
+          "dnk": 34,
+          "fg": 41,
+          "tp": 47,
+          "ft": 54,
+          "pss": 9,
+          "reb": 25,
+          "drb": 41,
+          "oiq": 30,
+          "diq": 22
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Veronica",
+      "lastName": "Burton",
+      "tid": 4,
+      "pos": "PG",
+      "age": 25,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 36,
+          "spd": 100,
+          "jmp": 84,
+          "endu": 100,
+          "ins": 52,
+          "dnk": 36,
+          "fg": 44,
+          "tp": 59,
+          "ft": 70,
+          "pss": 51,
+          "reb": 34,
+          "drb": 62,
+          "oiq": 63,
+          "diq": 72
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Maya",
+      "lastName": "Caldwell",
+      "tid": 0,
+      "pos": "SF",
+      "age": 27,
+      "hgt": 71,
+      "ratings": [
+        {
+          "hgt": 45,
+          "stre": 52,
+          "spd": 52,
+          "jmp": 43,
+          "endu": 39,
+          "ins": 35,
+          "dnk": 25,
+          "fg": 30,
+          "tp": 49,
+          "ft": 0,
+          "pss": 5,
+          "reb": 21,
+          "drb": 38,
+          "oiq": 13,
+          "diq": 18
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/132830-1-6202695d0b772.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1999
+      }
+    },
+    {
+      "firstName": "Jordin",
+      "lastName": "Canada",
+      "tid": 0,
+      "pos": "PG",
+      "age": 30,
+      "hgt": 67,
+      "ratings": [
+        {
+          "hgt": 32,
+          "stre": 34,
+          "spd": 78,
+          "jmp": 63,
+          "endu": 81,
+          "ins": 50,
+          "dnk": 35,
+          "fg": 42,
+          "tp": 0,
+          "ft": 0,
+          "pss": 53,
+          "reb": 20,
+          "drb": 71,
+          "oiq": 50,
+          "diq": 32
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/72982-1-62053ddb84861.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1996
+      }
+    },
+    {
+      "firstName": "Emma",
+      "lastName": "Cannon",
+      "tid": 7,
+      "pos": "SF",
+      "age": 36,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 54,
+          "spd": 52,
+          "jmp": 42,
+          "endu": 30,
+          "ins": 41,
+          "dnk": 28,
+          "fg": 34,
+          "tp": 74,
+          "ft": 43,
+          "pss": 3,
+          "reb": 22,
+          "drb": 37,
+          "oiq": 18,
+          "diq": 15
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1990
+      }
+    },
+    {
+      "firstName": "Kamilla",
+      "lastName": "Cardoso",
+      "tid": 1,
+      "pos": "C",
+      "age": 24,
+      "hgt": 79,
+      "ratings": [
+        {
+          "hgt": 81,
+          "stre": 100,
+          "spd": 28,
+          "jmp": 23,
+          "endu": 82,
+          "ins": 64,
+          "dnk": 73,
+          "fg": 54,
+          "tp": 100,
+          "ft": 52,
+          "pss": 20,
+          "reb": 67,
+          "drb": 48,
+          "oiq": 51,
+          "diq": 43
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Brazil",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Bridget",
+      "lastName": "Carleton",
+      "tid": 8,
+      "pos": "SF",
+      "age": 28,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 61,
+          "spd": 58,
+          "jmp": 47,
+          "endu": 84,
+          "ins": 42,
+          "dnk": 29,
+          "fg": 36,
+          "tp": 65,
+          "ft": 85,
+          "pss": 12,
+          "reb": 36,
+          "drb": 43,
+          "oiq": 24,
+          "diq": 26
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/bridget-carleton-copie-1ef5368f-372e-6eda-9804-61586f7083e3.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Canada",
+        "year": 1998
+      }
+    },
+    {
+      "firstName": "DiJonai",
+      "lastName": "Carrington",
+      "tid": 3,
+      "pos": "SF",
+      "age": 28,
+      "hgt": 71,
+      "ratings": [
+        {
+          "hgt": 45,
+          "stre": 52,
+          "spd": 53,
+          "jmp": 43,
+          "endu": 37,
+          "ins": 44,
+          "dnk": 30,
+          "fg": 37,
+          "tp": 100,
+          "ft": 30,
+          "pss": 13,
+          "reb": 16,
+          "drb": 37,
+          "oiq": 28,
+          "diq": 23
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1998
+      }
+    },
+    {
+      "firstName": "Tina",
+      "lastName": "Charles",
+      "tid": 2,
+      "pos": "C",
+      "age": 37,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 100,
+          "spd": 29,
+          "jmp": 24,
+          "endu": 85,
+          "ins": 70,
+          "dnk": 81,
+          "fg": 60,
+          "tp": 17,
+          "ft": 68,
+          "pss": 13,
+          "reb": 48,
+          "drb": 44,
+          "oiq": 56,
+          "diq": 31
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/44135-1-61008313ae7dSans-titre-1.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1989
+      }
+    },
+    {
+      "firstName": "Kaila",
+      "lastName": "Charles",
+      "tid": 3,
+      "pos": "SF",
+      "age": 28,
+      "hgt": 71,
+      "ratings": [
+        {
+          "hgt": 45,
+          "stre": 58,
+          "spd": 62,
+          "jmp": 51,
+          "endu": 69,
+          "ins": 35,
+          "dnk": 25,
+          "fg": 30,
+          "tp": 83,
+          "ft": 0,
+          "pss": 19,
+          "reb": 22,
+          "drb": 40,
+          "oiq": 21,
+          "diq": 36
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1998
+      }
+    },
+    {
+      "firstName": "Kaitlyn",
+      "lastName": "Chen",
+      "tid": 4,
+      "pos": "PG, SG",
+      "age": 24,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 27,
+          "spd": 59,
+          "jmp": 49,
+          "endu": 12,
+          "ins": 31,
+          "dnk": 22,
+          "fg": 26,
+          "tp": 0,
+          "ft": 15,
+          "pss": 19,
+          "reb": 18,
+          "drb": 33,
+          "oiq": 18,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Sonia",
+      "lastName": "Citron",
+      "tid": 12,
+      "pos": "PG",
+      "age": 22,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 38,
+          "spd": 81,
+          "jmp": 66,
+          "endu": 96,
+          "ins": 67,
+          "dnk": 47,
+          "fg": 57,
+          "tp": 100,
+          "ft": 70,
+          "pss": 19,
+          "reb": 34,
+          "drb": 48,
+          "oiq": 55,
+          "diq": 41
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2004
+      }
+    },
+    {
+      "firstName": "Caitlin",
+      "lastName": "Clark",
+      "tid": 5,
+      "pos": "PG",
+      "age": 24,
+      "hgt": 71,
+      "ratings": [
+        {
+          "hgt": 45,
+          "stre": 36,
+          "spd": 84,
+          "jmp": 68,
+          "endu": 93,
+          "ins": 71,
+          "dnk": 49,
+          "fg": 60,
+          "tp": 60,
+          "ft": 63,
+          "pss": 70,
+          "reb": 39,
+          "drb": 83,
+          "oiq": 97,
+          "diq": 51
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/1-1ef5da7f-a82b-663a-978b-f731747047a3.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Alysha",
+      "lastName": "Clark",
+      "tid": 11,
+      "pos": "PF",
+      "age": 38,
+      "hgt": 71,
+      "ratings": [
+        {
+          "hgt": 45,
+          "stre": 58,
+          "spd": 57,
+          "jmp": 47,
+          "endu": 68,
+          "ins": 41,
+          "dnk": 28,
+          "fg": 35,
+          "tp": 9,
+          "ft": 39,
+          "pss": 12,
+          "reb": 30,
+          "drb": 43,
+          "oiq": 22,
+          "diq": 17
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/44220-1-5da7a7d6ce02CLARK.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States, Israel",
+        "year": 1988
+      }
+    },
+    {
+      "firstName": "Natasha",
+      "lastName": "Cloud",
+      "tid": 9,
+      "pos": "PG",
+      "age": 34,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 36,
+          "spd": 95,
+          "jmp": 77,
+          "endu": 100,
+          "ins": 61,
+          "dnk": 43,
+          "fg": 52,
+          "tp": 100,
+          "ft": 68,
+          "pss": 24,
+          "reb": 30,
+          "drb": 51,
+          "oiq": 51,
+          "diq": 66
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1992
+      }
+    },
+    {
+      "firstName": "Nia",
+      "lastName": "Coffey",
+      "tid": 0,
+      "pos": "SF",
+      "age": 30,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 50,
+          "spd": 47,
+          "jmp": 39,
+          "endu": 17,
+          "ins": 31,
+          "dnk": 22,
+          "fg": 26,
+          "tp": 0,
+          "ft": 0,
+          "pss": 0,
+          "reb": 16,
+          "drb": 35,
+          "oiq": 6,
+          "diq": 5
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/72914-1-61813a796fb1Sans-titre-3.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1996
+      }
+    },
+    {
+      "firstName": "Napheesa",
+      "lastName": "Collier",
+      "tid": 8,
+      "pos": "PF",
+      "age": 29,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 61,
+          "spd": 60,
+          "jmp": 49,
+          "endu": 100,
+          "ins": 81,
+          "dnk": 57,
+          "fg": 69,
+          "tp": 60,
+          "ft": 51,
+          "pss": 19,
+          "reb": 51,
+          "drb": 48,
+          "oiq": 86,
+          "diq": 51
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/napheesa-collier-copie-1ef53694-a14e-6e5a-a82e-f9db21e5eb8d.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Sydney",
+      "lastName": "Colson",
+      "tid": 5,
+      "pos": "PG",
+      "age": 36,
+      "hgt": 68,
+      "ratings": [
+        {
+          "hgt": 36,
+          "stre": 31,
+          "spd": 69,
+          "jmp": 56,
+          "endu": 40,
+          "ins": 36,
+          "dnk": 25,
+          "fg": 30,
+          "tp": 24,
+          "ft": 68,
+          "pss": 16,
+          "reb": 12,
+          "drb": 46,
+          "oiq": 18,
+          "diq": 20
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1990
+      }
+    },
+    {
+      "firstName": "Zia",
+      "lastName": "Cooke",
+      "tid": 11,
+      "pos": "PG",
+      "age": 25,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 29,
+          "spd": 61,
+          "jmp": 50,
+          "endu": 21,
+          "ins": 32,
+          "dnk": 22,
+          "fg": 27,
+          "tp": 0,
+          "ft": 35,
+          "pss": 19,
+          "reb": 16,
+          "drb": 33,
+          "oiq": 18,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Kahleah",
+      "lastName": "Copper",
+      "tid": 10,
+      "pos": "SF",
+      "age": 31,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 61,
+          "spd": 57,
+          "jmp": 46,
+          "endu": 100,
+          "ins": 74,
+          "dnk": 52,
+          "fg": 63,
+          "tp": 62,
+          "ft": 74,
+          "pss": 6,
+          "reb": 31,
+          "drb": 39,
+          "oiq": 57,
+          "diq": 18
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/kahleah-copper-copie-1ef536e8-5386-6e76-8b0f-d943c6b3e3ac.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1995
+      }
+    },
+    {
+      "firstName": "Sophie",
+      "lastName": "Cunningham",
+      "tid": 5,
+      "pos": "SF",
+      "age": 29,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 61,
+          "spd": 60,
+          "jmp": 49,
+          "endu": 75,
+          "ins": 51,
+          "dnk": 36,
+          "fg": 43,
+          "tp": 94,
+          "ft": 70,
+          "pss": 9,
+          "reb": 31,
+          "drb": 41,
+          "oiq": 33,
+          "diq": 27
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Damiris",
+      "lastName": "Dantas",
+      "tid": 5,
+      "pos": "C",
+      "age": 33,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 100,
+          "spd": 25,
+          "jmp": 20,
+          "endu": 34,
+          "ins": 41,
+          "dnk": 47,
+          "fg": 35,
+          "tp": 18,
+          "ft": 68,
+          "pss": 5,
+          "reb": 27,
+          "drb": 38,
+          "oiq": 20,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Brazil",
+        "year": 1993
+      }
+    },
+    {
+      "firstName": "Marquesha",
+      "lastName": "Davis",
+      "tid": 9,
+      "pos": "GF",
+      "age": 24,
+      "hgt": 71,
+      "ratings": [
+        {
+          "hgt": 45,
+          "stre": 90,
+          "spd": 24,
+          "jmp": 19,
+          "endu": 31,
+          "ins": 31,
+          "dnk": 22,
+          "fg": 26,
+          "tp": 0,
+          "ft": 0,
+          "pss": 8,
+          "reb": 16,
+          "drb": 33,
+          "oiq": 11,
+          "diq": 16
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Kariata",
+      "lastName": "Diaby",
+      "tid": 2,
+      "pos": "C",
+      "age": 30,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 98,
+          "spd": 25,
+          "jmp": 20,
+          "endu": 23,
+          "ins": 34,
+          "dnk": 39,
+          "fg": 29,
+          "tp": 0,
+          "ft": 59,
+          "pss": 3,
+          "reb": 19,
+          "drb": 37,
+          "oiq": 11,
+          "diq": 17
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/sans-titre-1-0000s-0010-kariata-diaby-1f09ee2c-ae3d-63d2-a977-4bc1402fe65d.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Ivory Coast",
+        "year": 1996
+      }
+    },
+    {
+      "firstName": "Skylar",
+      "lastName": "Diggins-Smith",
+      "tid": 11,
+      "pos": "PG",
+      "age": 35,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 36,
+          "spd": 85,
+          "jmp": 69,
+          "endu": 96,
+          "ins": 72,
+          "dnk": 50,
+          "fg": 61,
+          "tp": 100,
+          "ft": 55,
+          "pss": 40,
+          "reb": 22,
+          "drb": 62,
+          "oiq": 85,
+          "diq": 58
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/72943-1-61008269465eSans-titre-1.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1991
+      }
+    },
+    {
+      "firstName": "Stefanie",
+      "lastName": "Dolson",
+      "tid": 12,
+      "pos": "C",
+      "age": 34,
+      "hgt": 77,
+      "ratings": [
+        {
+          "hgt": 72,
+          "stre": 100,
+          "spd": 26,
+          "jmp": 21,
+          "endu": 45,
+          "ins": 39,
+          "dnk": 45,
+          "fg": 33,
+          "tp": 61,
+          "ft": 49,
+          "pss": 11,
+          "reb": 28,
+          "drb": 42,
+          "oiq": 20,
+          "diq": 18
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1992
+      }
+    },
+    {
+      "firstName": "Aaliyah",
+      "lastName": "Edwards",
+      "tid": 12,
+      "pos": "GF",
+      "age": 23,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 100,
+          "spd": 28,
+          "jmp": 23,
+          "endu": 51,
+          "ins": 41,
+          "dnk": 29,
+          "fg": 35,
+          "tp": 0,
+          "ft": 46,
+          "pss": 5,
+          "reb": 37,
+          "drb": 38,
+          "oiq": 20,
+          "diq": 35
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/aaliyah-edwards-copie-1ef536ef-8fcc-6866-bafe-f99fd6d39f83.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Canada",
+        "year": 2003
+      }
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Engstler",
+      "tid": 12,
+      "pos": "SF",
+      "age": 25,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 54,
+          "spd": 54,
+          "jmp": 44,
+          "endu": 38,
+          "ins": 39,
+          "dnk": 27,
+          "fg": 33,
+          "tp": 14,
+          "ft": 45,
+          "pss": 12,
+          "reb": 30,
+          "drb": 43,
+          "oiq": 20,
+          "diq": 36
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Dana",
+      "lastName": "Evans",
+      "tid": 6,
+      "pos": "PG",
+      "age": 27,
+      "hgt": 66,
+      "ratings": [
+        {
+          "hgt": 27,
+          "stre": 33,
+          "spd": 73,
+          "jmp": 59,
+          "endu": 59,
+          "ins": 51,
+          "dnk": 35,
+          "fg": 43,
+          "tp": 100,
+          "ft": 85,
+          "pss": 23,
+          "reb": 11,
+          "drb": 50,
+          "oiq": 38,
+          "diq": 17
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/125372-1-6202e48c4dc51.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1999
+      }
+    },
+    {
+      "firstName": "Temi",
+      "lastName": "Fagbenle",
+      "tid": 4,
+      "pos": "PF",
+      "age": 33,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 63,
+          "spd": 54,
+          "jmp": 44,
+          "endu": 60,
+          "ins": 40,
+          "dnk": 28,
+          "fg": 34,
+          "tp": 0,
+          "ft": 35,
+          "pss": 24,
+          "reb": 23,
+          "drb": 37,
+          "oiq": 29,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/temi-fagbenle-1f058473-35c2-69e2-8429-9fff5c715d21.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United-Kingdom",
+        "year": 1993
+      }
+    },
+    {
+      "firstName": "Sania",
+      "lastName": "Feagin",
+      "tid": 7,
+      "pos": "SF",
+      "age": 23,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 52,
+          "spd": 47,
+          "jmp": 38,
+          "endu": 14,
+          "ins": 33,
+          "dnk": 23,
+          "fg": 28,
+          "tp": 0,
+          "ft": 0,
+          "pss": 2,
+          "reb": 16,
+          "drb": 36,
+          "oiq": 9,
+          "diq": 15
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2003
+      }
+    },
+    {
+      "firstName": "Leonie",
+      "lastName": "Fiebich",
+      "tid": 9,
+      "pos": "C",
+      "age": 26,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 100,
+          "spd": 27,
+          "jmp": 22,
+          "endu": 90,
+          "ins": 42,
+          "dnk": 48,
+          "fg": 36,
+          "tp": 12,
+          "ft": 85,
+          "pss": 10,
+          "reb": 35,
+          "drb": 42,
+          "oiq": 23,
+          "diq": 18
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/leonie-fiebich-1f05847c-8577-65ec-b23c-eddbb1233061.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Germany",
+        "year": 2000
+      }
+    },
+    {
+      "firstName": "Rebekah",
+      "lastName": "Gardner",
+      "tid": 9,
+      "pos": "SF",
+      "age": 35,
+      "hgt": 72,
+      "ratings": [
+        {
+          "hgt": 49,
+          "stre": 48,
+          "spd": 47,
+          "jmp": 38,
+          "endu": 15,
+          "ins": 32,
+          "dnk": 22,
+          "fg": 27,
+          "tp": 100,
+          "ft": 0,
+          "pss": 0,
+          "reb": 11,
+          "drb": 35,
+          "oiq": 7,
+          "diq": 5
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1991
+      }
+    },
+    {
+      "firstName": "Luisa",
+      "lastName": "Geiselsoder",
+      "tid": 3,
+      "pos": "PF",
+      "age": 26,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 65,
+          "spd": 59,
+          "jmp": 48,
+          "endu": 67,
+          "ins": 47,
+          "dnk": 33,
+          "fg": 40,
+          "tp": 48,
+          "ft": 63,
+          "pss": 12,
+          "reb": 42,
+          "drb": 43,
+          "oiq": 29,
+          "diq": 38
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/luisa-geiselsoder-1f05847b-da3d-63e8-9a61-89571e5b882d.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Germany",
+        "year": 2000
+      }
+    },
+    {
+      "firstName": "Allisha",
+      "lastName": "Gray",
+      "tid": 0,
+      "pos": "SG",
+      "age": 31,
+      "hgt": 72,
+      "ratings": [
+        {
+          "hgt": 49,
+          "stre": 37,
+          "spd": 78,
+          "jmp": 63,
+          "endu": 99,
+          "ins": 70,
+          "dnk": 49,
+          "fg": 59,
+          "tp": 60,
+          "ft": 73,
+          "pss": 18,
+          "reb": 59,
+          "drb": 47,
+          "oiq": 57,
+          "diq": 42
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1995
+      }
+    },
+    {
+      "firstName": "Chelsea",
+      "lastName": "Gray",
+      "tid": 6,
+      "pos": "PG",
+      "age": 33,
+      "hgt": 71,
+      "ratings": [
+        {
+          "hgt": 45,
+          "stre": 36,
+          "spd": 91,
+          "jmp": 74,
+          "endu": 100,
+          "ins": 58,
+          "dnk": 40,
+          "fg": 49,
+          "tp": 99,
+          "ft": 56,
+          "pss": 58,
+          "reb": 29,
+          "drb": 75,
+          "oiq": 61,
+          "diq": 83
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/chelsea-gray-copie-1ef536ff-dc55-681c-92d0-7564bdf5dfb0.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1993
+      }
+    },
+    {
+      "firstName": "Brittney",
+      "lastName": "Griner",
+      "tid": 0,
+      "pos": "C",
+      "age": 35,
+      "hgt": 80,
+      "ratings": [
+        {
+          "hgt": 85,
+          "stre": 100,
+          "spd": 24,
+          "jmp": 20,
+          "endu": 32,
+          "ins": 41,
+          "dnk": 48,
+          "fg": 35,
+          "tp": 0,
+          "ft": 45,
+          "pss": 10,
+          "reb": 23,
+          "drb": 42,
+          "oiq": 22,
+          "diq": 12
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/brittney-griner-copie-1ef53700-ea6a-67f8-9eef-a7cbd2c03077.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1991
+      }
+    },
+    {
+      "firstName": "Megan",
+      "lastName": "Gustafson",
+      "tid": 6,
+      "pos": "PF",
+      "age": 29,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 55,
+          "spd": 50,
+          "jmp": 41,
+          "endu": 30,
+          "ins": 35,
+          "dnk": 24,
+          "fg": 30,
+          "tp": 12,
+          "ft": 85,
+          "pss": 2,
+          "reb": 20,
+          "drb": 36,
+          "oiq": 12,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/megan-gustafson-copie-1ef53703-f899-622c-8d2c-3306cbb0b480.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Bree",
+      "lastName": "Hall",
+      "tid": 4,
+      "pos": "SG",
+      "age": 22,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 29,
+          "spd": 59,
+          "jmp": 48,
+          "endu": 6,
+          "ins": 33,
+          "dnk": 23,
+          "fg": 28,
+          "tp": 0,
+          "ft": 25,
+          "pss": 0,
+          "reb": 15,
+          "drb": 35,
+          "oiq": 9,
+          "diq": 5
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2004
+      }
+    },
+    {
+      "firstName": "Dearica",
+      "lastName": "Hamby",
+      "tid": 7,
+      "pos": "SF",
+      "age": 32,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 63,
+          "spd": 63,
+          "jmp": 51,
+          "endu": 93,
+          "ins": 76,
+          "dnk": 53,
+          "fg": 64,
+          "tp": 60,
+          "ft": 40,
+          "pss": 26,
+          "reb": 60,
+          "drb": 53,
+          "oiq": 83,
+          "diq": 51
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1994
+      }
+    },
+    {
+      "firstName": "Tyasha",
+      "lastName": "Harris",
+      "tid": 3,
+      "pos": "PG",
+      "age": 27,
+      "hgt": 70,
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 33,
+          "spd": 69,
+          "jmp": 56,
+          "endu": 49,
+          "ins": 41,
+          "dnk": 29,
+          "fg": 35,
+          "tp": 100,
+          "ft": 85,
+          "pss": 20,
+          "reb": 14,
+          "drb": 49,
+          "oiq": 26,
+          "diq": 23
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1999
+      }
+    },
+    {
+      "firstName": "Isabelle",
+      "lastName": "Harrison",
+      "tid": 9,
+      "pos": "SF",
+      "age": 32,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 53,
+          "spd": 58,
+          "jmp": 47,
+          "endu": 21,
+          "ins": 33,
+          "dnk": 23,
+          "fg": 28,
+          "tp": 0,
+          "ft": 15,
+          "pss": 16,
+          "reb": 21,
+          "drb": 31,
+          "oiq": 18,
+          "diq": 25
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/72934-1-5f145179c3ae13.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1994
+      }
+    },
+    {
+      "firstName": "Bria",
+      "lastName": "Hartley",
+      "tid": 2,
+      "pos": "GF",
+      "age": 33,
+      "hgt": 68,
+      "ratings": [
+        {
+          "hgt": 36,
+          "stre": 96,
+          "spd": 29,
+          "jmp": 24,
+          "endu": 68,
+          "ins": 52,
+          "dnk": 36,
+          "fg": 44,
+          "tp": 65,
+          "ft": 58,
+          "pss": 24,
+          "reb": 19,
+          "drb": 52,
+          "oiq": 40,
+          "diq": 21
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/67603-1-5d075912ddeb01.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States, France",
+        "year": 1993
+      }
+    },
+    {
+      "firstName": "Tiffany",
+      "lastName": "Hayes",
+      "tid": 4,
+      "pos": "PG, SG",
+      "age": 36,
+      "hgt": 70,
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 36,
+          "spd": 73,
+          "jmp": 59,
+          "endu": 80,
+          "ins": 59,
+          "dnk": 41,
+          "fg": 50,
+          "tp": 92,
+          "ft": 61,
+          "pss": 24,
+          "reb": 30,
+          "drb": 51,
+          "oiq": 48,
+          "diq": 20
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/44121-1-6201859d11c61.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1990
+      }
+    },
+    {
+      "firstName": "Alexa",
+      "lastName": "Held",
+      "tid": 10,
+      "pos": "GF",
+      "age": 26,
+      "hgt": 70,
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 98,
+          "spd": 33,
+          "jmp": 27,
+          "endu": 66,
+          "ins": 39,
+          "dnk": 27,
+          "fg": 33,
+          "tp": 4,
+          "ft": 41,
+          "pss": 24,
+          "reb": 20,
+          "drb": 37,
+          "oiq": 28,
+          "diq": 25
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2000
+      }
+    },
+    {
+      "firstName": "Lexi",
+      "lastName": "Held",
+      "tid": 10,
+      "pos": "SG",
+      "age": 26,
+      "hgt": 70,
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 28,
+          "spd": 60,
+          "jmp": 49,
+          "endu": 18,
+          "ins": 32,
+          "dnk": 22,
+          "fg": 27,
+          "tp": 83,
+          "ft": 0,
+          "pss": 8,
+          "reb": 16,
+          "drb": 33,
+          "oiq": 12,
+          "diq": 8
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2000
+      }
+    },
+    {
+      "firstName": "Natisha",
+      "lastName": "Hiedeman",
+      "tid": 8,
+      "pos": "PG",
+      "age": 29,
+      "hgt": 68,
+      "ratings": [
+        {
+          "hgt": 36,
+          "stre": 34,
+          "spd": 75,
+          "jmp": 61,
+          "endu": 62,
+          "ins": 49,
+          "dnk": 34,
+          "fg": 42,
+          "tp": 0,
+          "ft": 61,
+          "pss": 28,
+          "reb": 17,
+          "drb": 54,
+          "oiq": 39,
+          "diq": 28
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/72927-1-620500e097181.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Naz",
+      "lastName": "Hillmon",
+      "tid": 0,
+      "pos": "SF",
+      "age": 26,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 62,
+          "spd": 56,
+          "jmp": 46,
+          "endu": 100,
+          "ins": 57,
+          "dnk": 40,
+          "fg": 48,
+          "tp": 48,
+          "ft": 51,
+          "pss": 18,
+          "reb": 63,
+          "drb": 47,
+          "oiq": 43,
+          "diq": 36
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2000
+      }
+    },
+    {
+      "firstName": "Myisha",
+      "lastName": "Hines-Allen",
+      "tid": 3,
+      "pos": "SF",
+      "age": 29,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 61,
+          "spd": 59,
+          "jmp": 48,
+          "endu": 66,
+          "ins": 49,
+          "dnk": 34,
+          "fg": 41,
+          "tp": 20,
+          "ft": 55,
+          "pss": 23,
+          "reb": 46,
+          "drb": 50,
+          "oiq": 36,
+          "diq": 33
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/72987-1-6207b5c208112.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Joyner",
+      "lastName": "Holmes",
+      "tid": 6,
+      "pos": "SF",
+      "age": 28,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 52,
+          "spd": 47,
+          "jmp": 38,
+          "endu": 15,
+          "ins": 33,
+          "dnk": 23,
+          "fg": 28,
+          "tp": 0,
+          "ft": 0,
+          "pss": 0,
+          "reb": 18,
+          "drb": 35,
+          "oiq": 8,
+          "diq": 5
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/78325-1-620504dadf151.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1998
+      }
+    },
+    {
+      "firstName": "Mackenzie",
+      "lastName": "Holmes",
+      "tid": 11,
+      "pos": "SF",
+      "age": 25,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 52,
+          "spd": 47,
+          "jmp": 38,
+          "endu": 15,
+          "ins": 30,
+          "dnk": 21,
+          "fg": 25,
+          "tp": 0,
+          "ft": 15,
+          "pss": 16,
+          "reb": 19,
+          "drb": 31,
+          "oiq": 15,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Rhyne",
+      "lastName": "Howard",
+      "tid": 0,
+      "pos": "SG",
+      "age": 25,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 38,
+          "spd": 85,
+          "jmp": 69,
+          "endu": 100,
+          "ins": 68,
+          "dnk": 47,
+          "fg": 58,
+          "tp": 60,
+          "ft": 52,
+          "pss": 21,
+          "reb": 33,
+          "drb": 49,
+          "oiq": 57,
+          "diq": 46
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Natasha",
+      "lastName": "Howard",
+      "tid": 5,
+      "pos": "SG",
+      "age": 34,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 40,
+          "spd": 74,
+          "jmp": 60,
+          "endu": 73,
+          "ins": 53,
+          "dnk": 37,
+          "fg": 45,
+          "tp": 0,
+          "ft": 63,
+          "pss": 16,
+          "reb": 51,
+          "drb": 46,
+          "oiq": 38,
+          "diq": 19
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/72980-1-6203c27be2351.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1992
+      }
+    },
+    {
+      "firstName": "Lexie",
+      "lastName": "Hull",
+      "tid": 5,
+      "pos": "SG",
+      "age": 26,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 38,
+          "spd": 77,
+          "jmp": 63,
+          "endu": 100,
+          "ins": 55,
+          "dnk": 39,
+          "fg": 47,
+          "tp": 42,
+          "ft": 52,
+          "pss": 16,
+          "reb": 40,
+          "drb": 46,
+          "oiq": 40,
+          "diq": 38
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2000
+      }
+    },
+    {
+      "firstName": "Sabrina",
+      "lastName": "Ionescu",
+      "tid": 9,
+      "pos": "SG",
+      "age": 28,
+      "hgt": 71,
+      "ratings": [
+        {
+          "hgt": 45,
+          "stre": 36,
+          "spd": 71,
+          "jmp": 58,
+          "endu": 100,
+          "ins": 69,
+          "dnk": 48,
+          "fg": 58,
+          "tp": 60,
+          "ft": 37,
+          "pss": 37,
+          "reb": 40,
+          "drb": 60,
+          "oiq": 80,
+          "diq": 37
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/sabrina-ionescu-copie-1ef53709-4670-6626-8546-771d7b43aa28.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1998
+      }
+    },
+    {
+      "firstName": "Kiki",
+      "lastName": "Iriafen",
+      "tid": 12,
+      "pos": "PF",
+      "age": 23,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 63,
+          "spd": 58,
+          "jmp": 47,
+          "endu": 81,
+          "ins": 63,
+          "dnk": 44,
+          "fg": 53,
+          "tp": 0,
+          "ft": 59,
+          "pss": 12,
+          "reb": 63,
+          "drb": 43,
+          "oiq": 47,
+          "diq": 22
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2003
+      }
+    },
+    {
+      "firstName": "Rickea",
+      "lastName": "Jackson",
+      "tid": 7,
+      "pos": "GF",
+      "age": 25,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 100,
+          "spd": 28,
+          "jmp": 23,
+          "endu": 92,
+          "ins": 66,
+          "dnk": 46,
+          "fg": 56,
+          "tp": 56,
+          "ft": 67,
+          "pss": 13,
+          "reb": 30,
+          "drb": 44,
+          "oiq": 52,
+          "diq": 27
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Aziaha",
+      "lastName": "James",
+      "tid": 3,
+      "pos": "SG",
+      "age": 23,
+      "hgt": 70,
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 34,
+          "spd": 72,
+          "jmp": 59,
+          "endu": 53,
+          "ins": 48,
+          "dnk": 34,
+          "fg": 41,
+          "tp": 28,
+          "ft": 54,
+          "pss": 12,
+          "reb": 25,
+          "drb": 43,
+          "oiq": 31,
+          "diq": 22
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2003
+      }
+    },
+    {
+      "firstName": "Moriah",
+      "lastName": "Jefferson",
+      "tid": 1,
+      "pos": "PG",
+      "age": 32,
+      "hgt": 66,
+      "ratings": [
+        {
+          "hgt": 27,
+          "stre": 27,
+          "spd": 61,
+          "jmp": 50,
+          "endu": 21,
+          "ins": 33,
+          "dnk": 23,
+          "fg": 28,
+          "tp": 49,
+          "ft": 0,
+          "pss": 14,
+          "reb": 11,
+          "drb": 44,
+          "oiq": 15,
+          "diq": 5
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1994
+      }
+    },
+    {
+      "firstName": "Marine",
+      "lastName": "Johannes",
+      "tid": 9,
+      "pos": "SG",
+      "age": 31,
+      "hgt": 70,
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 30,
+          "spd": 62,
+          "jmp": 51,
+          "endu": 30,
+          "ins": 32,
+          "dnk": 22,
+          "fg": 27,
+          "tp": 0,
+          "ft": 55,
+          "pss": 16,
+          "reb": 20,
+          "drb": 31,
+          "oiq": 17,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/marine-johannes-copie-1ef5370d-6c37-664e-88e9-dd7b27a1c824.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "France",
+        "year": 1995
+      }
+    },
+    {
+      "firstName": "Brionna",
+      "lastName": "Jones",
+      "tid": 0,
+      "pos": "PF",
+      "age": 30,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 63,
+          "spd": 65,
+          "jmp": 53,
+          "endu": 84,
+          "ins": 56,
+          "dnk": 39,
+          "fg": 48,
+          "tp": 100,
+          "ft": 55,
+          "pss": 21,
+          "reb": 40,
+          "drb": 49,
+          "oiq": 44,
+          "diq": 52
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/72929-1-6203cb1057dd1.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1996
+      }
+    },
+    {
+      "firstName": "Haley",
+      "lastName": "Jones",
+      "tid": 10,
+      "pos": "SF, SG",
+      "age": 24,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 38,
+          "spd": 76,
+          "jmp": 62,
+          "endu": 68,
+          "ins": 50,
+          "dnk": 35,
+          "fg": 42,
+          "tp": 33,
+          "ft": 41,
+          "pss": 20,
+          "reb": 33,
+          "drb": 48,
+          "oiq": 36,
+          "diq": 43
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Jonquel",
+      "lastName": "Jones",
+      "tid": 9,
+      "pos": "C",
+      "age": 32,
+      "hgt": 78,
+      "ratings": [
+        {
+          "hgt": 76,
+          "stre": 100,
+          "spd": 27,
+          "jmp": 22,
+          "endu": 90,
+          "ins": 44,
+          "dnk": 50,
+          "fg": 37,
+          "tp": 0,
+          "ft": 25,
+          "pss": 18,
+          "reb": 81,
+          "drb": 47,
+          "oiq": 29,
+          "diq": 55
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/72922-1-5f1333809a3410.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1994
+      }
+    },
+    {
+      "firstName": "Liatu",
+      "lastName": "King",
+      "tid": 7,
+      "pos": "PF",
+      "age": 24,
+      "hgt": 72,
+      "ratings": [
+        {
+          "hgt": 49,
+          "stre": 50,
+          "spd": 48,
+          "jmp": 39,
+          "endu": 24,
+          "ins": 31,
+          "dnk": 22,
+          "fg": 26,
+          "tp": 0,
+          "ft": 0,
+          "pss": 8,
+          "reb": 21,
+          "drb": 33,
+          "oiq": 11,
+          "diq": 8
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Elizabeth",
+      "lastName": "Kitley",
+      "tid": 6,
+      "pos": "C",
+      "age": 24,
+      "hgt": 78,
+      "ratings": [
+        {
+          "hgt": 76,
+          "stre": 100,
+          "spd": 24,
+          "jmp": 20,
+          "endu": 24,
+          "ins": 33,
+          "dnk": 38,
+          "fg": 28,
+          "tp": 0,
+          "ft": 25,
+          "pss": 0,
+          "reb": 23,
+          "drb": 35,
+          "oiq": 8,
+          "diq": 23
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Kliundikova",
+      "tid": 8,
+      "pos": "SF",
+      "age": 27,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 57,
+          "spd": 51,
+          "jmp": 42,
+          "endu": 30,
+          "ins": 37,
+          "dnk": 25,
+          "fg": 31,
+          "tp": 0,
+          "ft": 0,
+          "pss": 9,
+          "reb": 35,
+          "drb": 41,
+          "oiq": 17,
+          "diq": 38
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Russia",
+        "year": 1999
+      }
+    },
+    {
+      "firstName": "Sika",
+      "lastName": "Kone",
+      "tid": 12,
+      "pos": "PF",
+      "age": 23,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 49,
+          "spd": 45,
+          "jmp": 37,
+          "endu": 4,
+          "ins": 30,
+          "dnk": 21,
+          "fg": 25,
+          "tp": 0,
+          "ft": 0,
+          "pss": 8,
+          "reb": 17,
+          "drb": 33,
+          "oiq": 10,
+          "diq": 8
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/128391-1-611a3e73e88e4.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Mali",
+        "year": 2003
+      }
+    },
+    {
+      "firstName": "Anastasiia",
+      "lastName": "Kosu",
+      "tid": 8,
+      "pos": "SF",
+      "age": 20,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 48,
+          "spd": 46,
+          "jmp": 37,
+          "endu": 8,
+          "ins": 35,
+          "dnk": 24,
+          "fg": 29,
+          "tp": 0,
+          "ft": 0,
+          "pss": 2,
+          "reb": 12,
+          "drb": 36,
+          "oiq": 11,
+          "diq": 5
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/125930-1-6203c24dd7d81.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Russia",
+        "year": 2006
+      }
+    },
+    {
+      "firstName": "Leila",
+      "lastName": "Lacan",
+      "tid": 2,
+      "pos": "PG",
+      "age": 21,
+      "hgt": 71,
+      "ratings": [
+        {
+          "hgt": 45,
+          "stre": 36,
+          "spd": 90,
+          "jmp": 73,
+          "endu": 79,
+          "ins": 56,
+          "dnk": 39,
+          "fg": 47,
+          "tp": 10,
+          "ft": 68,
+          "pss": 29,
+          "reb": 23,
+          "drb": 55,
+          "oiq": 47,
+          "diq": 54
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/sans-titre-1-0000s-0005-leila-lacan-1f09ee1a-44f9-66a8-a7c0-55cf548714a2.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "France",
+        "year": 2005
+      }
+    },
+    {
+      "firstName": "Kitija",
+      "lastName": "Laksa",
+      "tid": 10,
+      "pos": "SF",
+      "age": 29,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 49,
+          "spd": 47,
+          "jmp": 38,
+          "endu": 13,
+          "ins": 32,
+          "dnk": 22,
+          "fg": 27,
+          "tp": 33,
+          "ft": 0,
+          "pss": 8,
+          "reb": 17,
+          "drb": 33,
+          "oiq": 12,
+          "diq": 8
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/76732-1-5f1309914a0e11.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Latvia",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Kyra",
+      "lastName": "Lambert",
+      "tid": 5,
+      "pos": "PG",
+      "age": 29,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 26,
+          "spd": 58,
+          "jmp": 47,
+          "endu": 3,
+          "ins": 30,
+          "dnk": 21,
+          "fg": 25,
+          "tp": 0,
+          "ft": 15,
+          "pss": 16,
+          "reb": 16,
+          "drb": 31,
+          "oiq": 15,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/0050-lbwl-kyra-lambert-lattes-montpellier-1f12217c-6ec0-64c6-87ea-bfa25f618a5c.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Carla",
+      "lastName": "Leite",
+      "tid": 4,
+      "pos": "PG",
+      "age": 21,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 29,
+          "spd": 61,
+          "jmp": 50,
+          "endu": 24,
+          "ins": 33,
+          "dnk": 23,
+          "fg": 28,
+          "tp": 0,
+          "ft": 70,
+          "pss": 11,
+          "reb": 16,
+          "drb": 35,
+          "oiq": 14,
+          "diq": 8
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/carla-leite-1ef7b369-bd40-697a-8d2e-e1acba81f20a.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "France",
+        "year": 2005
+      }
+    },
+    {
+      "firstName": "Yueru",
+      "lastName": "Li",
+      "tid": 11,
+      "pos": "C",
+      "age": 27,
+      "hgt": 79,
+      "ratings": [
+        {
+          "hgt": 81,
+          "stre": 100,
+          "spd": 27,
+          "jmp": 22,
+          "endu": 60,
+          "ins": 48,
+          "dnk": 55,
+          "fg": 41,
+          "tp": 58,
+          "ft": 66,
+          "pss": 8,
+          "reb": 51,
+          "drb": 40,
+          "oiq": 29,
+          "diq": 23
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/yueru-li-copie-1ef53716-495b-6982-a15d-1fd2b89264ce.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "China",
+        "year": 1999
+      }
+    },
+    {
+      "firstName": "Kyara",
+      "lastName": "Linskens",
+      "tid": 4,
+      "pos": "C",
+      "age": 29,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 97,
+          "spd": 24,
+          "jmp": 20,
+          "endu": 20,
+          "ins": 32,
+          "dnk": 37,
+          "fg": 27,
+          "tp": 0,
+          "ft": 0,
+          "pss": 2,
+          "reb": 22,
+          "drb": 36,
+          "oiq": 8,
+          "diq": 31
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/kyara-linskens-1f05849b-a340-647e-a7ba-11d2e8b9848a.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Belgium",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Jewell",
+      "lastName": "Loyd",
+      "tid": 6,
+      "pos": "PG",
+      "age": 32,
+      "hgt": 70,
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 36,
+          "spd": 78,
+          "jmp": 63,
+          "endu": 87,
+          "ins": 53,
+          "dnk": 37,
+          "fg": 45,
+          "tp": 85,
+          "ft": 69,
+          "pss": 6,
+          "reb": 31,
+          "drb": 39,
+          "oiq": 34,
+          "diq": 40
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/jewell-loyd-copie-1ef5371a-3eff-6f3e-982f-ad59a4cb3c3f.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1994
+      }
+    },
+    {
+      "firstName": "Marina",
+      "lastName": "Mabrey",
+      "tid": 2,
+      "pos": "PG",
+      "age": 29,
+      "hgt": 71,
+      "ratings": [
+        {
+          "hgt": 45,
+          "stre": 36,
+          "spd": 75,
+          "jmp": 61,
+          "endu": 94,
+          "ins": 66,
+          "dnk": 46,
+          "fg": 56,
+          "tp": 41,
+          "ft": 69,
+          "pss": 32,
+          "reb": 34,
+          "drb": 57,
+          "oiq": 59,
+          "diq": 26
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/72966-1-5f130954ebf711.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Natasha",
+      "lastName": "Mack",
+      "tid": 10,
+      "pos": "PF",
+      "age": 28,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 59,
+          "spd": 53,
+          "jmp": 43,
+          "endu": 41,
+          "ins": 37,
+          "dnk": 26,
+          "fg": 31,
+          "tp": 0,
+          "ft": 85,
+          "pss": 5,
+          "reb": 36,
+          "drb": 38,
+          "oiq": 15,
+          "diq": 30
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1998
+      }
+    },
+    {
+      "firstName": "Ezi",
+      "lastName": "Magbegor",
+      "tid": 11,
+      "pos": "C",
+      "age": 26,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 100,
+          "spd": 30,
+          "jmp": 24,
+          "endu": 72,
+          "ins": 42,
+          "dnk": 48,
+          "fg": 36,
+          "tp": 0,
+          "ft": 0,
+          "pss": 18,
+          "reb": 39,
+          "drb": 47,
+          "oiq": 27,
+          "diq": 50
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/ezi-magbegor-copie-1ef5371d-7f94-62f4-88c8-432a469331f7.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Australia",
+        "year": 2000
+      }
+    },
+    {
+      "firstName": "Dominique",
+      "lastName": "Malonga",
+      "tid": 11,
+      "pos": "C",
+      "age": 20,
+      "hgt": 78,
+      "ratings": [
+        {
+          "hgt": 76,
+          "stre": 100,
+          "spd": 29,
+          "jmp": 23,
+          "endu": 69,
+          "ins": 51,
+          "dnk": 59,
+          "fg": 43,
+          "tp": 100,
+          "ft": 68,
+          "pss": 10,
+          "reb": 67,
+          "drb": 42,
+          "oiq": 33,
+          "diq": 61
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/dominique-malonga-1ef7b459-01a1-698a-9b57-a57a3df2a8f1.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "France",
+        "year": 2006
+      }
+    },
+    {
+      "firstName": "Rayah",
+      "lastName": "Marshall",
+      "tid": 2,
+      "pos": "C, PF",
+      "age": 22,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 54,
+          "spd": 48,
+          "jmp": 39,
+          "endu": 18,
+          "ins": 34,
+          "dnk": 39,
+          "fg": 29,
+          "tp": 0,
+          "ft": 35,
+          "pss": 2,
+          "reb": 23,
+          "drb": 36,
+          "oiq": 10,
+          "diq": 12
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2004
+      }
+    },
+    {
+      "firstName": "Kate",
+      "lastName": "Martin",
+      "tid": 4,
+      "pos": "SG",
+      "age": 25,
+      "hgt": 72,
+      "ratings": [
+        {
+          "hgt": 49,
+          "stre": 34,
+          "spd": 65,
+          "jmp": 53,
+          "endu": 48,
+          "ins": 43,
+          "dnk": 30,
+          "fg": 36,
+          "tp": 45,
+          "ft": 47,
+          "pss": 13,
+          "reb": 19,
+          "drb": 37,
+          "oiq": 27,
+          "diq": 16
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Kayla",
+      "lastName": "McBride",
+      "tid": 8,
+      "pos": "PG",
+      "age": 33,
+      "hgt": 71,
+      "ratings": [
+        {
+          "hgt": 45,
+          "stre": 36,
+          "spd": 80,
+          "jmp": 65,
+          "endu": 100,
+          "ins": 80,
+          "dnk": 56,
+          "fg": 68,
+          "tp": 100,
+          "ft": 85,
+          "pss": 21,
+          "reb": 31,
+          "drb": 49,
+          "oiq": 85,
+          "diq": 38
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1993
+      }
+    },
+    {
+      "firstName": "Megan",
+      "lastName": "McConnell",
+      "tid": 10,
+      "pos": "SG",
+      "age": 24,
+      "hgt": 67,
+      "ratings": [
+        {
+          "hgt": 32,
+          "stre": 30,
+          "spd": 73,
+          "jmp": 60,
+          "endu": 39,
+          "ins": 32,
+          "dnk": 22,
+          "fg": 27,
+          "tp": 41,
+          "ft": 15,
+          "pss": 24,
+          "reb": 17,
+          "drb": 37,
+          "oiq": 21,
+          "diq": 18
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Teaira",
+      "lastName": "McCowan",
+      "tid": 3,
+      "pos": "C",
+      "age": 29,
+      "hgt": 80,
+      "ratings": [
+        {
+          "hgt": 85,
+          "stre": 100,
+          "spd": 25,
+          "jmp": 21,
+          "endu": 38,
+          "ins": 44,
+          "dnk": 50,
+          "fg": 37,
+          "tp": 100,
+          "ft": 56,
+          "pss": 4,
+          "reb": 44,
+          "drb": 38,
+          "oiq": 22,
+          "diq": 28
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/teaira-mccowa-1f0583df-3e4b-63fa-8186-c70e35398213.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Aari",
+      "lastName": "McDonald",
+      "tid": 5,
+      "pos": "PG",
+      "age": 27,
+      "hgt": 66,
+      "ratings": [
+        {
+          "hgt": 27,
+          "stre": 34,
+          "spd": 81,
+          "jmp": 66,
+          "endu": 78,
+          "ins": 54,
+          "dnk": 38,
+          "fg": 46,
+          "tp": 38,
+          "ft": 59,
+          "pss": 37,
+          "reb": 19,
+          "drb": 60,
+          "oiq": 48,
+          "diq": 36
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1999
+      }
+    },
+    {
+      "firstName": "Emma",
+      "lastName": "Meesseman",
+      "tid": 9,
+      "pos": "C",
+      "age": 32,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 100,
+          "spd": 25,
+          "jmp": 20,
+          "endu": 39,
+          "ins": 40,
+          "dnk": 46,
+          "fg": 34,
+          "tp": 0,
+          "ft": 25,
+          "pss": 16,
+          "reb": 45,
+          "drb": 46,
+          "oiq": 24,
+          "diq": 5
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/emma-meessema-1f058499-fd9d-6ffe-a57b-27bcf7f2bd69.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Belgium",
+        "year": 1994
+      }
+    },
+    {
+      "firstName": "Jade",
+      "lastName": "Melbourne",
+      "tid": 12,
+      "pos": "PG",
+      "age": 23,
+      "hgt": 70,
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 36,
+          "spd": 74,
+          "jmp": 60,
+          "endu": 70,
+          "ins": 44,
+          "dnk": 31,
+          "fg": 38,
+          "tp": 23,
+          "ft": 46,
+          "pss": 23,
+          "reb": 19,
+          "drb": 50,
+          "oiq": 31,
+          "diq": 22
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/jade-melbourne-copie-1ef53726-232f-64c4-83e2-ff844ccfe512.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Australia",
+        "year": 2003
+      }
+    },
+    {
+      "firstName": "Diamond",
+      "lastName": "Miller",
+      "tid": 8,
+      "pos": "SF",
+      "age": 25,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 57,
+          "spd": 52,
+          "jmp": 42,
+          "endu": 37,
+          "ins": 39,
+          "dnk": 27,
+          "fg": 33,
+          "tp": 0,
+          "ft": 30,
+          "pss": 8,
+          "reb": 24,
+          "drb": 41,
+          "oiq": 19,
+          "diq": 16
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/236227-unknown-11-diamond-miller-1f111921-71de-646e-8e1f-fd7af1d2caa5.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Kelsey",
+      "lastName": "Mitchell",
+      "tid": 5,
+      "pos": "SG",
+      "age": 30,
+      "hgt": 68,
+      "ratings": [
+        {
+          "hgt": 36,
+          "stre": 35,
+          "spd": 78,
+          "jmp": 63,
+          "endu": 97,
+          "ins": 85,
+          "dnk": 60,
+          "fg": 72,
+          "tp": 100,
+          "ft": 69,
+          "pss": 24,
+          "reb": 16,
+          "drb": 51,
+          "oiq": 92,
+          "diq": 34
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1996
+      }
+    },
+    {
+      "firstName": "Tiffany",
+      "lastName": "Mitchell",
+      "tid": 6,
+      "pos": "PG",
+      "age": 31,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 31,
+          "spd": 63,
+          "jmp": 52,
+          "endu": 36,
+          "ins": 35,
+          "dnk": 24,
+          "fg": 29,
+          "tp": 0,
+          "ft": 55,
+          "pss": 22,
+          "reb": 18,
+          "drb": 35,
+          "oiq": 22,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1995
+      }
+    },
+    {
+      "firstName": "Aneesah",
+      "lastName": "Morrow",
+      "tid": 2,
+      "pos": "SF",
+      "age": 23,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 59,
+          "spd": 57,
+          "jmp": 47,
+          "endu": 56,
+          "ins": 49,
+          "dnk": 34,
+          "fg": 41,
+          "tp": 7,
+          "ft": 56,
+          "pss": 4,
+          "reb": 52,
+          "drb": 37,
+          "oiq": 28,
+          "diq": 31
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2003
+      }
+    },
+    {
+      "firstName": "Liman",
+      "lastName": "Musa Murjanatu",
+      "tid": 10,
+      "pos": "PF",
+      "age": 25,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 54,
+          "spd": 51,
+          "jmp": 41,
+          "endu": 30,
+          "ins": 38,
+          "dnk": 26,
+          "fg": 32,
+          "tp": 100,
+          "ft": 41,
+          "pss": 4,
+          "reb": 27,
+          "drb": 38,
+          "oiq": 16,
+          "diq": 16
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/sans-titre-1-0000s-0002-murjanatu-musa-1f09ee19-5e18-6220-805d-d160a64dba25.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Nigeria",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Olivia",
+      "lastName": "Nelson-Ododa",
+      "tid": 2,
+      "pos": "C",
+      "age": 25,
+      "hgt": 77,
+      "ratings": [
+        {
+          "hgt": 72,
+          "stre": 100,
+          "spd": 29,
+          "jmp": 23,
+          "endu": 64,
+          "ins": 50,
+          "dnk": 58,
+          "fg": 42,
+          "tp": 100,
+          "ft": 49,
+          "pss": 7,
+          "reb": 44,
+          "drb": 39,
+          "oiq": 31,
+          "diq": 49
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Kia",
+      "lastName": "Nurse",
+      "tid": 1,
+      "pos": "GF",
+      "age": 30,
+      "hgt": 72,
+      "ratings": [
+        {
+          "hgt": 49,
+          "stre": 100,
+          "spd": 27,
+          "jmp": 22,
+          "endu": 65,
+          "ins": 48,
+          "dnk": 33,
+          "fg": 40,
+          "tp": 50,
+          "ft": 60,
+          "pss": 10,
+          "reb": 23,
+          "drb": 42,
+          "oiq": 29,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/kia-nurse-copie-1ef5372d-8ac2-6d1e-978c-8f0e28ebb9f3.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Canada",
+        "year": 1996
+      }
+    },
+    {
+      "firstName": "Aaliyah",
+      "lastName": "Nye",
+      "tid": 6,
+      "pos": "SG, SF",
+      "age": 23,
+      "hgt": 72,
+      "ratings": [
+        {
+          "hgt": 49,
+          "stre": 28,
+          "spd": 59,
+          "jmp": 48,
+          "endu": 7,
+          "ins": 30,
+          "dnk": 21,
+          "fg": 25,
+          "tp": 0,
+          "ft": 0,
+          "pss": 0,
+          "reb": 11,
+          "drb": 35,
+          "oiq": 5,
+          "diq": 5
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2003
+      }
+    },
+    {
+      "firstName": "Arike",
+      "lastName": "Ogunbowale",
+      "tid": 3,
+      "pos": "PG",
+      "age": 29,
+      "hgt": 68,
+      "ratings": [
+        {
+          "hgt": 36,
+          "stre": 35,
+          "spd": 81,
+          "jmp": 66,
+          "endu": 99,
+          "ins": 68,
+          "dnk": 48,
+          "fg": 58,
+          "tp": 60,
+          "ft": 77,
+          "pss": 32,
+          "reb": 22,
+          "drb": 57,
+          "oiq": 62,
+          "diq": 36
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/72931-1-6203c1cc10cd1.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Nneka",
+      "lastName": "Ogwumike",
+      "tid": 11,
+      "pos": "PF",
+      "age": 35,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 62,
+          "spd": 58,
+          "jmp": 47,
+          "endu": 93,
+          "ins": 72,
+          "dnk": 50,
+          "fg": 61,
+          "tp": 100,
+          "ft": 73,
+          "pss": 21,
+          "reb": 65,
+          "drb": 49,
+          "oiq": 62,
+          "diq": 19
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Nigeria, United States",
+        "year": 1991
+      }
+    },
+    {
+      "firstName": "Amy",
+      "lastName": "Okonkwo",
+      "tid": 3,
+      "pos": "GF",
+      "age": 29,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 100,
+          "spd": 30,
+          "jmp": 25,
+          "endu": 58,
+          "ins": 57,
+          "dnk": 40,
+          "fg": 48,
+          "tp": 49,
+          "ft": 73,
+          "pss": 6,
+          "reb": 30,
+          "drb": 39,
+          "oiq": 38,
+          "diq": 35
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/270784-unknown-0-amy-okonkwo-1f111953-cb0d-686e-abf8-fbf147ad8cbf.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Nigeria",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Lucy",
+      "lastName": "Olsen",
+      "tid": 12,
+      "pos": "SG",
+      "age": 22,
+      "hgt": 70,
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 31,
+          "spd": 67,
+          "jmp": 55,
+          "endu": 37,
+          "ins": 40,
+          "dnk": 28,
+          "fg": 34,
+          "tp": 21,
+          "ft": 64,
+          "pss": 9,
+          "reb": 15,
+          "drb": 41,
+          "oiq": 20,
+          "diq": 15
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2004
+      }
+    },
+    {
+      "firstName": "Michaela",
+      "lastName": "Onyenwere",
+      "tid": 1,
+      "pos": "PF",
+      "age": 26,
+      "hgt": 72,
+      "ratings": [
+        {
+          "hgt": 49,
+          "stre": 56,
+          "spd": 54,
+          "jmp": 44,
+          "endu": 50,
+          "ins": 44,
+          "dnk": 31,
+          "fg": 37,
+          "tp": 58,
+          "ft": 66,
+          "pss": 8,
+          "reb": 19,
+          "drb": 41,
+          "oiq": 25,
+          "diq": 15
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2000
+      }
+    },
+    {
+      "firstName": "Te-Hina",
+      "lastName": "Paopao",
+      "tid": 0,
+      "pos": "PG",
+      "age": 23,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 30,
+          "spd": 65,
+          "jmp": 53,
+          "endu": 29,
+          "ins": 45,
+          "dnk": 32,
+          "fg": 38,
+          "tp": 68,
+          "ft": 0,
+          "pss": 2,
+          "reb": 18,
+          "drb": 36,
+          "oiq": 23,
+          "diq": 18
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2003
+      }
+    },
+    {
+      "firstName": "Cheyenne",
+      "lastName": "Parker",
+      "tid": 6,
+      "pos": "SF",
+      "age": 33,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 54,
+          "spd": 47,
+          "jmp": 39,
+          "endu": 18,
+          "ins": 35,
+          "dnk": 24,
+          "fg": 29,
+          "tp": 49,
+          "ft": 55,
+          "pss": 1,
+          "reb": 19,
+          "drb": 36,
+          "oiq": 11,
+          "diq": 10
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/70920-1-5f96d4d09a6511.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1993
+      }
+    },
+    {
+      "firstName": "Robyn",
+      "lastName": "Parks",
+      "tid": 2,
+      "pos": "GF",
+      "age": 33,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 94,
+          "spd": 25,
+          "jmp": 20,
+          "endu": 30,
+          "ins": 30,
+          "dnk": 21,
+          "fg": 26,
+          "tp": 0,
+          "ft": 0,
+          "pss": 2,
+          "reb": 19,
+          "drb": 36,
+          "oiq": 6,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/213717-unknown-24-robyn-parks-1f1118e1-b9d0-621c-8f49-a9a2b1755d0a.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1993
+      }
+    },
+    {
+      "firstName": "Sheylani",
+      "lastName": "Peddy",
+      "tid": 7,
+      "pos": "SG",
+      "age": 37,
+      "hgt": 70,
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 33,
+          "spd": 71,
+          "jmp": 58,
+          "endu": 49,
+          "ins": 43,
+          "dnk": 30,
+          "fg": 36,
+          "tp": 58,
+          "ft": 85,
+          "pss": 8,
+          "reb": 17,
+          "drb": 40,
+          "oiq": 23,
+          "diq": 19
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1989
+      }
+    },
+    {
+      "firstName": "Haley",
+      "lastName": "Peters",
+      "tid": 2,
+      "pos": "PF",
+      "age": 33,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 56,
+          "spd": 51,
+          "jmp": 42,
+          "endu": 34,
+          "ins": 35,
+          "dnk": 24,
+          "fg": 29,
+          "tp": 0,
+          "ft": 57,
+          "pss": 6,
+          "reb": 25,
+          "drb": 39,
+          "oiq": 13,
+          "diq": 13
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/whatsapp-image-2024-11-29-at-16-30-25-2-1efb00f3-6f91-6654-9fee-6705c0a7b1a2.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1993
+      }
+    },
+    {
+      "firstName": "Ajae",
+      "lastName": "Petty",
+      "tid": 3,
+      "pos": "C",
+      "age": 23,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 87,
+          "spd": 22,
+          "jmp": 18,
+          "endu": 9,
+          "ins": 30,
+          "dnk": 34,
+          "fg": 25,
+          "tp": 0,
+          "ft": 0,
+          "pss": 8,
+          "reb": 15,
+          "drb": 33,
+          "oiq": 10,
+          "diq": 8
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2003
+      }
+    },
+    {
+      "firstName": "Alissa",
+      "lastName": "Pili",
+      "tid": 8,
+      "pos": "GF",
+      "age": 24,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 88,
+          "spd": 22,
+          "jmp": 18,
+          "endu": 10,
+          "ins": 38,
+          "dnk": 26,
+          "fg": 32,
+          "tp": 0,
+          "ft": 74,
+          "pss": 0,
+          "reb": 13,
+          "drb": 35,
+          "oiq": 13,
+          "diq": 10
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Kelsey",
+      "lastName": "Plum",
+      "tid": 7,
+      "pos": "PG",
+      "age": 31,
+      "hgt": 68,
+      "ratings": [
+        {
+          "hgt": 36,
+          "stre": 35,
+          "spd": 80,
+          "jmp": 65,
+          "endu": 100,
+          "ins": 78,
+          "dnk": 55,
+          "fg": 66,
+          "tp": 89,
+          "ft": 72,
+          "pss": 45,
+          "reb": 25,
+          "drb": 66,
+          "oiq": 94,
+          "diq": 33
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/kelsey-plum-copie-1ef53733-c23a-643a-a7f2-3565e23be03b.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1995
+      }
+    },
+    {
+      "firstName": "Aerial",
+      "lastName": "Powers",
+      "tid": 4,
+      "pos": "SF",
+      "age": 32,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 49,
+          "spd": 51,
+          "jmp": 42,
+          "endu": 31,
+          "ins": 35,
+          "dnk": 24,
+          "fg": 29,
+          "tp": 0,
+          "ft": 30,
+          "pss": 2,
+          "reb": 17,
+          "drb": 36,
+          "oiq": 11,
+          "diq": 15
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1994
+      }
+    },
+    {
+      "firstName": "Alexis",
+      "lastName": "Prince",
+      "tid": 10,
+      "pos": "SF",
+      "age": 32,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 62,
+          "spd": 55,
+          "jmp": 45,
+          "endu": 66,
+          "ins": 31,
+          "dnk": 22,
+          "fg": 26,
+          "tp": 0,
+          "ft": 15,
+          "pss": 19,
+          "reb": 33,
+          "drb": 33,
+          "oiq": 18,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/181626-unknown-23-alexis-prince-1f10d153-c1e3-6ef2-9dda-cf4e0c68959f.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1994
+      }
+    },
+    {
+      "firstName": "JJ",
+      "lastName": "Quinerly",
+      "tid": 3,
+      "pos": "PG",
+      "age": 23,
+      "hgt": 68,
+      "ratings": [
+        {
+          "hgt": 36,
+          "stre": 32,
+          "spd": 74,
+          "jmp": 60,
+          "endu": 47,
+          "ins": 46,
+          "dnk": 32,
+          "fg": 39,
+          "tp": 74,
+          "ft": 69,
+          "pss": 18,
+          "reb": 18,
+          "drb": 47,
+          "oiq": 31,
+          "diq": 28
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2003
+      }
+    },
+    {
+      "firstName": "Angel",
+      "lastName": "Reese",
+      "tid": 1,
+      "pos": "PF",
+      "age": 23,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 63,
+          "spd": 62,
+          "jmp": 51,
+          "endu": 94,
+          "ins": 66,
+          "dnk": 46,
+          "fg": 56,
+          "tp": 1,
+          "ft": 56,
+          "pss": 29,
+          "reb": 88,
+          "drb": 55,
+          "oiq": 59,
+          "diq": 52
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2003
+      }
+    },
+    {
+      "firstName": "Saniya",
+      "lastName": "Rivers",
+      "tid": 2,
+      "pos": "SG",
+      "age": 23,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 38,
+          "spd": 83,
+          "jmp": 68,
+          "endu": 78,
+          "ins": 52,
+          "dnk": 36,
+          "fg": 44,
+          "tp": 53,
+          "ft": 55,
+          "pss": 21,
+          "reb": 27,
+          "drb": 49,
+          "oiq": 39,
+          "diq": 57
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2003
+      }
+    },
+    {
+      "firstName": "Iliana",
+      "lastName": "Rupert",
+      "tid": 4,
+      "pos": "PF, C",
+      "age": 24,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 65,
+          "spd": 55,
+          "jmp": 45,
+          "endu": 73,
+          "ins": 36,
+          "dnk": 42,
+          "fg": 31,
+          "tp": 33,
+          "ft": 0,
+          "pss": 24,
+          "reb": 25,
+          "drb": 44,
+          "oiq": 24,
+          "diq": 25
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/iliana-rupert-1f058484-1ae4-66d2-93c8-4b4f5e8d0427.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "France",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Mercedes",
+      "lastName": "Russell",
+      "tid": 7,
+      "pos": "C",
+      "age": 30,
+      "hgt": 78,
+      "ratings": [
+        {
+          "hgt": 76,
+          "stre": 100,
+          "spd": 24,
+          "jmp": 20,
+          "endu": 24,
+          "ins": 34,
+          "dnk": 39,
+          "fg": 29,
+          "tp": 0,
+          "ft": 51,
+          "pss": 4,
+          "reb": 22,
+          "drb": 38,
+          "oiq": 11,
+          "diq": 16
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1996
+      }
+    },
+    {
+      "firstName": "Nyara",
+      "lastName": "Sabally",
+      "tid": 9,
+      "pos": "PF",
+      "age": 26,
+      "hgt": 77,
+      "ratings": [
+        {
+          "hgt": 72,
+          "stre": 56,
+          "spd": 53,
+          "jmp": 43,
+          "endu": 21,
+          "ins": 30,
+          "dnk": 21,
+          "fg": 26,
+          "tp": 0,
+          "ft": 35,
+          "pss": 19,
+          "reb": 20,
+          "drb": 33,
+          "oiq": 17,
+          "diq": 18
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/nyara-sabally-copie-1ef5373d-7091-6dae-93b2-5f2396e65d70.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Germany",
+        "year": 2000
+      }
+    },
+    {
+      "firstName": "Satou",
+      "lastName": "Sabally",
+      "tid": 10,
+      "pos": "PF",
+      "age": 27,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 65,
+          "spd": 60,
+          "jmp": 49,
+          "endu": 98,
+          "ins": 77,
+          "dnk": 54,
+          "fg": 65,
+          "tp": 79,
+          "ft": 69,
+          "pss": 20,
+          "reb": 55,
+          "drb": 48,
+          "oiq": 81,
+          "diq": 33
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/satou-sabally-copie-1ef5373e-2b51-6cd4-8f52-733f9791802d.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1999
+      }
+    },
+    {
+      "firstName": "Janelle",
+      "lastName": "Salaun",
+      "tid": 4,
+      "pos": "PF",
+      "age": 24,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 62,
+          "spd": 57,
+          "jmp": 47,
+          "endu": 100,
+          "ins": 52,
+          "dnk": 36,
+          "fg": 44,
+          "tp": 76,
+          "ft": 54,
+          "pss": 11,
+          "reb": 34,
+          "drb": 35,
+          "oiq": 36,
+          "diq": 15
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/janelle-salau-1f058483-8aa6-67a0-b8df-7d525b1bc8a5.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "France",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Karlie",
+      "lastName": "Samuelson",
+      "tid": 8,
+      "pos": "SG",
+      "age": 30,
+      "hgt": 72,
+      "ratings": [
+        {
+          "hgt": 49,
+          "stre": 33,
+          "spd": 68,
+          "jmp": 56,
+          "endu": 42,
+          "ins": 38,
+          "dnk": 26,
+          "fg": 32,
+          "tp": 58,
+          "ft": 77,
+          "pss": 8,
+          "reb": 17,
+          "drb": 41,
+          "oiq": 18,
+          "diq": 15
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/72942-1-6119804957be1.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1996
+      }
+    },
+    {
+      "firstName": "Madison",
+      "lastName": "Scott",
+      "tid": 12,
+      "pos": "GF",
+      "age": 24,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 91,
+          "spd": 23,
+          "jmp": 19,
+          "endu": 15,
+          "ins": 34,
+          "dnk": 23,
+          "fg": 28,
+          "tp": 0,
+          "ft": 85,
+          "pss": 1,
+          "reb": 12,
+          "drb": 36,
+          "oiq": 10,
+          "diq": 9
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/391693-unknown-10-madison-scott-1f111a58-657d-600c-a641-699ae4d2bae0.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Jacy",
+      "lastName": "Sheldon",
+      "tid": 2,
+      "pos": "GF",
+      "age": 25,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 92,
+          "spd": 25,
+          "jmp": 20,
+          "endu": 46,
+          "ins": 40,
+          "dnk": 28,
+          "fg": 34,
+          "tp": 0,
+          "ft": 54,
+          "pss": 11,
+          "reb": 18,
+          "drb": 35,
+          "oiq": 23,
+          "diq": 8
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Jessica",
+      "lastName": "Shepard",
+      "tid": 8,
+      "pos": "PF",
+      "age": 29,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 61,
+          "spd": 56,
+          "jmp": 46,
+          "endu": 53,
+          "ins": 43,
+          "dnk": 30,
+          "fg": 36,
+          "tp": 0,
+          "ft": 70,
+          "pss": 14,
+          "reb": 42,
+          "drb": 44,
+          "oiq": 25,
+          "diq": 19
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/jessica-shepard-1f058410-dd3c-653c-8e96-8ddce60d04ac.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Jaylyn",
+      "lastName": "Sherrod",
+      "tid": 9,
+      "pos": "SG",
+      "age": 24,
+      "hgt": 67,
+      "ratings": [
+        {
+          "hgt": 32,
+          "stre": 25,
+          "spd": 59,
+          "jmp": 48,
+          "endu": 7,
+          "ins": 30,
+          "dnk": 21,
+          "fg": 25,
+          "tp": 0,
+          "ft": 0,
+          "pss": 11,
+          "reb": 12,
+          "drb": 35,
+          "oiq": 11,
+          "diq": 8
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Maddy",
+      "lastName": "Siegrist",
+      "tid": 3,
+      "pos": "SF",
+      "age": 25,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 62,
+          "spd": 58,
+          "jmp": 47,
+          "endu": 81,
+          "ins": 61,
+          "dnk": 43,
+          "fg": 52,
+          "tp": 54,
+          "ft": 48,
+          "pss": 6,
+          "reb": 37,
+          "drb": 39,
+          "oiq": 43,
+          "diq": 34
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Odyssey",
+      "lastName": "Sims",
+      "tid": 7,
+      "pos": "GF",
+      "age": 33,
+      "hgt": 68,
+      "ratings": [
+        {
+          "hgt": 36,
+          "stre": 96,
+          "spd": 31,
+          "jmp": 25,
+          "endu": 88,
+          "ins": 65,
+          "dnk": 45,
+          "fg": 55,
+          "tp": 49,
+          "ft": 68,
+          "pss": 35,
+          "reb": 21,
+          "drb": 59,
+          "oiq": 59,
+          "diq": 33
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1993
+      }
+    },
+    {
+      "firstName": "Kamiah",
+      "lastName": "Smalls",
+      "tid": 0,
+      "pos": "SG, SF",
+      "age": 27,
+      "hgt": 70,
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 26,
+          "spd": 58,
+          "jmp": 47,
+          "endu": 3,
+          "ins": 30,
+          "dnk": 21,
+          "fg": 25,
+          "tp": 0,
+          "ft": 0,
+          "pss": 0,
+          "reb": 8,
+          "drb": 35,
+          "oiq": 5,
+          "diq": 5
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/0000s-0001-smalls-kamiah-1-1ee6836c-104f-6ed4-8f0a-3b9b60ef1691.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1999
+      }
+    },
+    {
+      "firstName": "NaLyssa",
+      "lastName": "Smith",
+      "tid": 3,
+      "pos": "PF",
+      "age": 25,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 65,
+          "spd": 59,
+          "jmp": 48,
+          "endu": 69,
+          "ins": 47,
+          "dnk": 33,
+          "fg": 40,
+          "tp": 0,
+          "ft": 14,
+          "pss": 4,
+          "reb": 43,
+          "drb": 37,
+          "oiq": 26,
+          "diq": 46
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Alanna",
+      "lastName": "Smith",
+      "tid": 8,
+      "pos": "SF",
+      "age": 29,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 65,
+          "spd": 60,
+          "jmp": 49,
+          "endu": 71,
+          "ins": 45,
+          "dnk": 31,
+          "fg": 38,
+          "tp": 0,
+          "ft": 34,
+          "pss": 16,
+          "reb": 44,
+          "drb": 46,
+          "oiq": 28,
+          "diq": 62
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/alanna-smith-copie-1ef53742-5a91-62b6-bb48-598d5559c093.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Australia",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Azura",
+      "lastName": "Stevens",
+      "tid": 7,
+      "pos": "C",
+      "age": 30,
+      "hgt": 78,
+      "ratings": [
+        {
+          "hgt": 76,
+          "stre": 100,
+          "spd": 30,
+          "jmp": 25,
+          "endu": 85,
+          "ins": 62,
+          "dnk": 71,
+          "fg": 52,
+          "tp": 71,
+          "ft": 60,
+          "pss": 16,
+          "reb": 63,
+          "drb": 46,
+          "oiq": 48,
+          "diq": 56
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1996
+      }
+    },
+    {
+      "firstName": "Breanna",
+      "lastName": "Stewart",
+      "tid": 9,
+      "pos": "PF",
+      "age": 31,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 65,
+          "spd": 61,
+          "jmp": 50,
+          "endu": 95,
+          "ins": 75,
+          "dnk": 52,
+          "fg": 63,
+          "tp": 100,
+          "ft": 58,
+          "pss": 24,
+          "reb": 47,
+          "drb": 51,
+          "oiq": 80,
+          "diq": 57
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/breanna-stewart-copie-1ef53744-87c6-652c-abd7-7553d65e1f41.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1995
+      }
+    },
+    {
+      "firstName": "Kiah",
+      "lastName": "Stokes",
+      "tid": 6,
+      "pos": "C",
+      "age": 33,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 91,
+          "spd": 22,
+          "jmp": 18,
+          "endu": 5,
+          "ins": 30,
+          "dnk": 34,
+          "fg": 25,
+          "tp": 0,
+          "ft": 0,
+          "pss": 0,
+          "reb": 13,
+          "drb": 35,
+          "oiq": 5,
+          "diq": 5
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/73022-1-5f121c8eed8011.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1993
+      }
+    },
+    {
+      "firstName": "Serena",
+      "lastName": "Sundell",
+      "tid": 3,
+      "pos": "SG",
+      "age": 22,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 31,
+          "spd": 61,
+          "jmp": 50,
+          "endu": 21,
+          "ins": 30,
+          "dnk": 21,
+          "fg": 25,
+          "tp": 0,
+          "ft": 0,
+          "pss": 0,
+          "reb": 12,
+          "drb": 35,
+          "oiq": 5,
+          "diq": 5
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2004
+      }
+    },
+    {
+      "firstName": "Sug",
+      "lastName": "Sutton",
+      "tid": 12,
+      "pos": "PG",
+      "age": 27,
+      "hgt": 68,
+      "ratings": [
+        {
+          "hgt": 36,
+          "stre": 35,
+          "spd": 76,
+          "jmp": 62,
+          "endu": 78,
+          "ins": 48,
+          "dnk": 33,
+          "fg": 41,
+          "tp": 58,
+          "ft": 58,
+          "pss": 31,
+          "reb": 18,
+          "drb": 56,
+          "oiq": 39,
+          "diq": 23
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1999
+      }
+    },
+    {
+      "firstName": "Brittney",
+      "lastName": "Sykes",
+      "tid": 12,
+      "pos": "PG",
+      "age": 32,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 36,
+          "spd": 68,
+          "jmp": 55,
+          "endu": 66,
+          "ins": 40,
+          "dnk": 28,
+          "fg": 34,
+          "tp": 0,
+          "ft": 25,
+          "pss": 5,
+          "reb": 22,
+          "drb": 38,
+          "oiq": 19,
+          "diq": 12
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/72910-1-5eebd019d82e8.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1994
+      }
+    },
+    {
+      "firstName": "Stephanie",
+      "lastName": "Talbot",
+      "tid": 4,
+      "pos": "SF",
+      "age": 31,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 53,
+          "spd": 49,
+          "jmp": 40,
+          "endu": 27,
+          "ins": 30,
+          "dnk": 21,
+          "fg": 25,
+          "tp": 0,
+          "ft": 15,
+          "pss": 16,
+          "reb": 17,
+          "drb": 31,
+          "oiq": 15,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/steph-talbot-copie-1ef53748-1811-6f5c-94bd-7fb29145dea3.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "France",
+        "year": 1995
+      }
+    },
+    {
+      "firstName": "Camryn",
+      "lastName": "Taylor",
+      "tid": 8,
+      "pos": "C",
+      "age": 26,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 89,
+          "spd": 22,
+          "jmp": 18,
+          "endu": 7,
+          "ins": 30,
+          "dnk": 34,
+          "fg": 25,
+          "tp": 0,
+          "ft": 0,
+          "pss": 8,
+          "reb": 16,
+          "drb": 33,
+          "oiq": 10,
+          "diq": 8
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/taylor-camryn-2-1f0cc5cb-5188-6c26-bc84-877267784e24.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2000
+      }
+    },
+    {
+      "firstName": "Taylor",
+      "lastName": "Thierry",
+      "tid": 0,
+      "pos": "SG, SF",
+      "age": 23,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 29,
+          "spd": 58,
+          "jmp": 48,
+          "endu": 6,
+          "ins": 30,
+          "dnk": 21,
+          "fg": 25,
+          "tp": 0,
+          "ft": 15,
+          "pss": 16,
+          "reb": 16,
+          "drb": 31,
+          "oiq": 15,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2003
+      }
+    },
+    {
+      "firstName": "Alyssa",
+      "lastName": "Thomas",
+      "tid": 10,
+      "pos": "PF",
+      "age": 33,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 62,
+          "spd": 63,
+          "jmp": 52,
+          "endu": 100,
+          "ins": 72,
+          "dnk": 50,
+          "fg": 61,
+          "tp": 0,
+          "ft": 43,
+          "pss": 70,
+          "reb": 65,
+          "drb": 83,
+          "oiq": 98,
+          "diq": 50
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/alyssa-thomas-copie-1ef53749-787d-658e-90e3-2fb5856426d3.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1993
+      }
+    },
+    {
+      "firstName": "Kayla",
+      "lastName": "Thornton",
+      "tid": 4,
+      "pos": "PF",
+      "age": 33,
+      "hgt": 73,
+      "ratings": [
+        {
+          "hgt": 54,
+          "stre": 61,
+          "spd": 61,
+          "jmp": 50,
+          "endu": 90,
+          "ins": 65,
+          "dnk": 45,
+          "fg": 55,
+          "tp": 36,
+          "ft": 65,
+          "pss": 12,
+          "reb": 52,
+          "drb": 43,
+          "oiq": 49,
+          "diq": 36
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1993
+      }
+    },
+    {
+      "firstName": "Makayla",
+      "lastName": "Timpson",
+      "tid": 5,
+      "pos": "PF, C",
+      "age": 23,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 51,
+          "spd": 49,
+          "jmp": 40,
+          "endu": 19,
+          "ins": 35,
+          "dnk": 41,
+          "fg": 30,
+          "tp": 0,
+          "ft": 55,
+          "pss": 0,
+          "reb": 23,
+          "drb": 35,
+          "oiq": 11,
+          "diq": 21
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2003
+      }
+    },
+    {
+      "firstName": "Mamignan",
+      "lastName": "Toure",
+      "tid": 2,
+      "pos": "SG",
+      "age": 31,
+      "hgt": 72,
+      "ratings": [
+        {
+          "hgt": 49,
+          "stre": 31,
+          "spd": 65,
+          "jmp": 53,
+          "endu": 24,
+          "ins": 35,
+          "dnk": 24,
+          "fg": 29,
+          "tp": 63,
+          "ft": 0,
+          "pss": 4,
+          "reb": 12,
+          "drb": 37,
+          "oiq": 12,
+          "diq": 13
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/migna-toure-1f058482-f9fc-64b6-af65-59202ad3c2b2.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "France",
+        "year": 1995
+      }
+    },
+    {
+      "firstName": "Brianna",
+      "lastName": "Turner",
+      "tid": 5,
+      "pos": "SF",
+      "age": 29,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 60,
+          "spd": 57,
+          "jmp": 47,
+          "endu": 52,
+          "ins": 36,
+          "dnk": 25,
+          "fg": 30,
+          "tp": 0,
+          "ft": 55,
+          "pss": 4,
+          "reb": 33,
+          "drb": 38,
+          "oiq": 13,
+          "diq": 35
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Sevgi",
+      "lastName": "Uzun",
+      "tid": 10,
+      "pos": "SG",
+      "age": 28,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 34,
+          "spd": 71,
+          "jmp": 58,
+          "endu": 56,
+          "ins": 39,
+          "dnk": 27,
+          "fg": 33,
+          "tp": 0,
+          "ft": 49,
+          "pss": 21,
+          "reb": 16,
+          "drb": 49,
+          "oiq": 24,
+          "diq": 15
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/sevgi-uzu-1f0583da-7636-6c2e-b6d1-875e302fa9e4.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Turkey",
+        "year": 1998
+      }
+    },
+    {
+      "firstName": "Hailey",
+      "lastName": "Van Lith",
+      "tid": 1,
+      "pos": "PG",
+      "age": 24,
+      "hgt": 69,
+      "ratings": [
+        {
+          "hgt": 41,
+          "stre": 31,
+          "spd": 67,
+          "jmp": 55,
+          "endu": 37,
+          "ins": 38,
+          "dnk": 27,
+          "fg": 32,
+          "tp": 0,
+          "ft": 54,
+          "pss": 12,
+          "reb": 14,
+          "drb": 43,
+          "oiq": 20,
+          "diq": 15
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Courtney",
+      "lastName": "Vandersloot",
+      "tid": 1,
+      "pos": "PG",
+      "age": 37,
+      "hgt": 67,
+      "ratings": [
+        {
+          "hgt": 32,
+          "stre": 34,
+          "spd": 84,
+          "jmp": 68,
+          "endu": 82,
+          "ins": 56,
+          "dnk": 39,
+          "fg": 48,
+          "tp": 7,
+          "ft": 67,
+          "pss": 42,
+          "reb": 25,
+          "drb": 64,
+          "oiq": 53,
+          "diq": 44
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/43623-1-6203b99656821.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1989
+      }
+    },
+    {
+      "firstName": "Julie",
+      "lastName": "Vanloo",
+      "tid": 4,
+      "pos": "PG",
+      "age": 33,
+      "hgt": 67,
+      "ratings": [
+        {
+          "hgt": 32,
+          "stre": 29,
+          "spd": 65,
+          "jmp": 53,
+          "endu": 30,
+          "ins": 35,
+          "dnk": 24,
+          "fg": 30,
+          "tp": 41,
+          "ft": 55,
+          "pss": 9,
+          "reb": 10,
+          "drb": 41,
+          "oiq": 15,
+          "diq": 11
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/159422-julie-vanloo-1f10d123-ac1b-6c76-bc93-71d1b1846bd6.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Belgium",
+        "year": 1993
+      }
+    },
+    {
+      "firstName": "Shatori",
+      "lastName": "Walker-Kimbrough",
+      "tid": 0,
+      "pos": "PG",
+      "age": 30,
+      "hgt": 71,
+      "ratings": [
+        {
+          "hgt": 45,
+          "stre": 28,
+          "spd": 69,
+          "jmp": 56,
+          "endu": 9,
+          "ins": 30,
+          "dnk": 21,
+          "fg": 25,
+          "tp": 0,
+          "ft": 0,
+          "pss": 11,
+          "reb": 14,
+          "drb": 35,
+          "oiq": 11,
+          "diq": 30
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1996
+      }
+    },
+    {
+      "firstName": "Maddy",
+      "lastName": "Westbeld",
+      "tid": 1,
+      "pos": "SF",
+      "age": 24,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 58,
+          "spd": 53,
+          "jmp": 44,
+          "endu": 41,
+          "ins": 40,
+          "dnk": 28,
+          "fg": 34,
+          "tp": 77,
+          "ft": 70,
+          "pss": 7,
+          "reb": 27,
+          "drb": 39,
+          "oiq": 19,
+          "diq": 22
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2002
+      }
+    },
+    {
+      "firstName": "Kathryn",
+      "lastName": "Westbeld",
+      "tid": 10,
+      "pos": "SF",
+      "age": 30,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 56,
+          "spd": 53,
+          "jmp": 44,
+          "endu": 34,
+          "ins": 38,
+          "dnk": 26,
+          "fg": 32,
+          "tp": 68,
+          "ft": 0,
+          "pss": 4,
+          "reb": 27,
+          "drb": 37,
+          "oiq": 15,
+          "diq": 21
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1996
+      }
+    },
+    {
+      "firstName": "Erica",
+      "lastName": "Wheeler",
+      "tid": 11,
+      "pos": "PG",
+      "age": 34,
+      "hgt": 67,
+      "ratings": [
+        {
+          "hgt": 32,
+          "stre": 34,
+          "spd": 78,
+          "jmp": 63,
+          "endu": 80,
+          "ins": 60,
+          "dnk": 42,
+          "fg": 51,
+          "tp": 42,
+          "ft": 85,
+          "pss": 24,
+          "reb": 18,
+          "drb": 51,
+          "oiq": 49,
+          "diq": 25
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1992
+      }
+    },
+    {
+      "firstName": "Samantha",
+      "lastName": "Whitcomb",
+      "tid": 10,
+      "pos": "SG, SF",
+      "age": 37,
+      "hgt": 70,
+      "ratings": [
+        {
+          "hgt": 40,
+          "stre": 36,
+          "spd": 80,
+          "jmp": 65,
+          "endu": 68,
+          "ins": 44,
+          "dnk": 31,
+          "fg": 38,
+          "tp": 8,
+          "ft": 45,
+          "pss": 20,
+          "reb": 19,
+          "drb": 48,
+          "oiq": 30,
+          "diq": 34
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/sami-whitcomb-copie-1ef53752-c80c-68bc-bcc9-b171aee8b50e.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States, Australia",
+        "year": 1989
+      }
+    },
+    {
+      "firstName": "Elizabeth",
+      "lastName": "Williams",
+      "tid": 1,
+      "pos": "PF",
+      "age": 32,
+      "hgt": 75,
+      "ratings": [
+        {
+          "hgt": 63,
+          "stre": 63,
+          "spd": 58,
+          "jmp": 47,
+          "endu": 62,
+          "ins": 51,
+          "dnk": 35,
+          "fg": 43,
+          "tp": 0,
+          "ft": 39,
+          "pss": 14,
+          "reb": 43,
+          "drb": 44,
+          "oiq": 35,
+          "diq": 41
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/72911-1-6202e43396301.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1994
+      }
+    },
+    {
+      "firstName": "Christyn",
+      "lastName": "Williams",
+      "tid": 3,
+      "pos": "SG",
+      "age": 25,
+      "hgt": 71,
+      "ratings": [
+        {
+          "hgt": 45,
+          "stre": 31,
+          "spd": 63,
+          "jmp": 51,
+          "endu": 33,
+          "ins": 40,
+          "dnk": 28,
+          "fg": 34,
+          "tp": 12,
+          "ft": 45,
+          "pss": 6,
+          "reb": 15,
+          "drb": 39,
+          "oiq": 19,
+          "diq": 5
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 2001
+      }
+    },
+    {
+      "firstName": "Courtney",
+      "lastName": "Williams",
+      "tid": 8,
+      "pos": "PG",
+      "age": 31,
+      "hgt": 68,
+      "ratings": [
+        {
+          "hgt": 36,
+          "stre": 35,
+          "spd": 95,
+          "jmp": 77,
+          "endu": 96,
+          "ins": 69,
+          "dnk": 48,
+          "fg": 58,
+          "tp": 60,
+          "ft": 61,
+          "pss": 48,
+          "reb": 39,
+          "drb": 68,
+          "oiq": 84,
+          "diq": 65
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1995
+      }
+    },
+    {
+      "firstName": "Kiana",
+      "lastName": "Williams",
+      "tid": 10,
+      "pos": "PG",
+      "age": 27,
+      "hgt": 68,
+      "ratings": [
+        {
+          "hgt": 36,
+          "stre": 27,
+          "spd": 59,
+          "jmp": 48,
+          "endu": 10,
+          "ins": 31,
+          "dnk": 22,
+          "fg": 26,
+          "tp": 0,
+          "ft": 0,
+          "pss": 8,
+          "reb": 13,
+          "drb": 33,
+          "oiq": 11,
+          "diq": 8
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/legacy/vue/static/img/head-par-defaut.jpg",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1999
+      }
+    },
+    {
+      "firstName": "Gabby",
+      "lastName": "Williams",
+      "tid": 11,
+      "pos": "PF",
+      "age": 29,
+      "hgt": 71,
+      "ratings": [
+        {
+          "hgt": 45,
+          "stre": 58,
+          "spd": 61,
+          "jmp": 50,
+          "endu": 90,
+          "ins": 54,
+          "dnk": 37,
+          "fg": 46,
+          "tp": 0,
+          "ft": 85,
+          "pss": 16,
+          "reb": 28,
+          "drb": 46,
+          "oiq": 39,
+          "diq": 31
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/gabby-williams-copie-1ef53754-416a-65c8-9ff7-4b51e9244eb2.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States, France",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "A’ja",
+      "lastName": "Wilson",
+      "tid": 6,
+      "pos": "PF",
+      "age": 29,
+      "hgt": 76,
+      "ratings": [
+        {
+          "hgt": 67,
+          "stre": 65,
+          "spd": 65,
+          "jmp": 53,
+          "endu": 100,
+          "ins": 97,
+          "dnk": 67,
+          "fg": 82,
+          "tp": 100,
+          "ft": 59,
+          "pss": 26,
+          "reb": 73,
+          "drb": 53,
+          "oiq": 100,
+          "diq": 100
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/a-ja-wilson-copie-1ef53754-e74b-6e06-9e81-1130524d1b2d.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1997
+      }
+    },
+    {
+      "firstName": "Jackie",
+      "lastName": "Young",
+      "tid": 6,
+      "pos": "SG",
+      "age": 28,
+      "hgt": 72,
+      "ratings": [
+        {
+          "hgt": 49,
+          "stre": 37,
+          "spd": 82,
+          "jmp": 67,
+          "endu": 100,
+          "ins": 81,
+          "dnk": 56,
+          "fg": 68,
+          "tp": 68,
+          "ft": 78,
+          "pss": 44,
+          "reb": 38,
+          "drb": 65,
+          "oiq": 96,
+          "diq": 34
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/jackie-young-copie-1ef53758-520c-66e8-b139-0b5e6ffa4f3b.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "United States",
+        "year": 1998
+      }
+    },
+    {
+      "firstName": "Cecilia",
+      "lastName": "Zandalasini",
+      "tid": 4,
+      "pos": "SF",
+      "age": 30,
+      "hgt": 74,
+      "ratings": [
+        {
+          "hgt": 58,
+          "stre": 62,
+          "spd": 60,
+          "jmp": 49,
+          "endu": 93,
+          "ins": 53,
+          "dnk": 37,
+          "fg": 45,
+          "tp": 39,
+          "ft": 60,
+          "pss": 21,
+          "reb": 32,
+          "drb": 42,
+          "oiq": 41,
+          "diq": 21
+        }
+      ],
+      "imgURL": "https://www.proballers.com/media/cache/resize_600_png/https---www.proballers.com/ul/player/cecilia-zandalasini-1f058448-e6bf-696e-beb9-637802eea5a0.png",
+      "notes": "",
+      "college": "",
+      "born": {
+        "loc": "Italy",
+        "year": 1996
+      }
+    }
+  ]
+}
