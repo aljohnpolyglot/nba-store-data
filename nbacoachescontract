@@ -2130,5 +2130,21 @@
         "is_salary_estimate": true
       }
     ]
+  },
+{
+    "name": "J.J. Redick",
+    "total_exp_years": 2,
+    "current_team_2026": "LAL",
+    "history": [
+      {
+        "team": "LAL",
+        "contract_length": 4,
+        "start_year": 2024,
+        "end_year": 2028,
+        "annual_salary": 8000000,
+        "total_value": 32000000,
+        "is_estimate": false
+      }
+    ]
   }
 ]
