@@ -2146,5 +2146,30 @@
         "is_estimate": false
       }
     ]
+  },
+{
+    "name": "J.B. Bickerstaff",
+    "total_exp_years": 8,
+    "current_team_2026": "DET",
+    "history": [
+      {
+        "team": "DET",
+        "contract_length": 5,
+        "start_year": 2024,
+        "end_year": 2029,
+        "annual_salary": 9200000,
+        "total_value": 46000000,
+        "is_estimate": true
+      },
+      {
+        "team": "CLE",
+        "contract_length": 4,
+        "start_year": 2020,
+        "end_year": 2024,
+        "annual_salary": 5200000,
+        "total_value": 20800000,
+        "is_estimate": true
+      }
+    ]
   }
 ]
