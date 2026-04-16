@@ -1,0 +1,2134 @@
+[
+  {
+    "name": "James Borrego",
+    "total_exp_years": 5,
+    "current_team_2026": "NOP",
+    "history": [
+      {
+        "team": "NOP",
+        "contract_length": 3,
+        "start_year": 2026,
+        "end_year": 2026,
+        "annual_salary": 4000000,
+        "total_value": 12000000,
+        "signing_timestamp": 1763182800,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "CHA",
+        "contract_length": 4,
+        "start_year": 2019,
+        "end_year": 2022,
+        "annual_salary": 4000000,
+        "total_value": 16000000,
+        "signing_timestamp": 1525924800,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Tiago Splitter",
+    "total_exp_years": 1,
+    "current_team_2026": "POR",
+    "history": [
+      {
+        "team": "POR",
+        "contract_length": 3,
+        "start_year": 2026,
+        "end_year": 2026,
+        "annual_salary": 2400000,
+        "total_value": 7200000,
+        "signing_timestamp": 1761192000,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Billy Donovan",
+    "total_exp_years": 11,
+    "current_team_2026": "CHI",
+    "history": [
+      {
+        "team": "CHI",
+        "contract_length": 5,
+        "start_year": 2027,
+        "end_year": 2026,
+        "annual_salary": 6400000,
+        "total_value": 32000000,
+        "signing_timestamp": 1753588800,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "CHI",
+        "contract_length": 4,
+        "start_year": 2023,
+        "end_year": 2026,
+        "annual_salary": 6000000,
+        "total_value": 24000000,
+        "signing_timestamp": 1600747200
+      },
+      {
+        "team": "OKC",
+        "contract_length": 7,
+        "start_year": 2016,
+        "end_year": 2022,
+        "annual_salary": 6000000,
+        "total_value": 42000000,
+        "signing_timestamp": 1430366400
+      }
+    ]
+  },
+  {
+    "name": "Mike Brown",
+    "total_exp_years": 16,
+    "current_team_2026": "NYK",
+    "history": [
+      {
+        "team": "NYK",
+        "contract_length": 4,
+        "start_year": 2026,
+        "end_year": 2029,
+        "annual_salary": 10000000,
+        "total_value": 40000000,
+        "signing_timestamp": 1751428800
+      },
+      {
+        "team": "SAC",
+        "contract_length": 2,
+        "start_year": 2026,
+        "end_year": 2027,
+        "annual_salary": 8400000,
+        "total_value": 16800000,
+        "signing_timestamp": 1717214400,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "SAC",
+        "contract_length": 3,
+        "start_year": 2023,
+        "end_year": 2025,
+        "annual_salary": 8400000,
+        "total_value": 25200000,
+        "signing_timestamp": 1652068800,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "CLE",
+        "contract_length": 4,
+        "start_year": 2014,
+        "end_year": 2017,
+        "annual_salary": 5000000,
+        "total_value": 20000000,
+        "signing_timestamp": 1366776000
+      },
+      {
+        "team": "LAL",
+        "contract_length": 4,
+        "start_year": 2012,
+        "end_year": 2015,
+        "annual_salary": 4500000,
+        "total_value": 18000000,
+        "signing_timestamp": 1306296000
+      },
+      {
+        "team": "CLE",
+        "contract_length": 2,
+        "start_year": 2010,
+        "end_year": 2011,
+        "annual_salary": 8400000,
+        "total_value": 16800000,
+        "signing_timestamp": 1200286800,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "CLE",
+        "contract_length": 4,
+        "start_year": 2006,
+        "end_year": 2009,
+        "annual_salary": 2500000,
+        "total_value": 10000000,
+        "signing_timestamp": 1117598400
+      }
+    ]
+  },
+  {
+    "name": "Ime Udoka",
+    "total_exp_years": 5,
+    "current_team_2026": "HOU",
+    "history": [
+      {
+        "team": "HOU",
+        "contract_length": 3,
+        "start_year": 2028,
+        "end_year": 2026,
+        "annual_salary": 6000000,
+        "total_value": 18000000,
+        "signing_timestamp": 1750305600,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "HOU",
+        "contract_length": 4,
+        "start_year": 2024,
+        "end_year": 2027,
+        "annual_salary": 6000000,
+        "total_value": 24000000,
+        "signing_timestamp": 1682222400,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "BOS",
+        "contract_length": 3,
+        "start_year": 2022,
+        "end_year": 2026,
+        "annual_salary": 4000000,
+        "total_value": 12000000,
+        "signing_timestamp": 1624852800,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Jordan Ott",
+    "total_exp_years": 1,
+    "current_team_2026": "PHX",
+    "history": [
+      {
+        "team": "PHX",
+        "contract_length": 3,
+        "start_year": 2026,
+        "end_year": 2026,
+        "annual_salary": 2400000,
+        "total_value": 7200000,
+        "signing_timestamp": 1749009600,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Will Hardy",
+    "total_exp_years": 4,
+    "current_team_2026": "UTA",
+    "history": [
+      {
+        "team": "UTA",
+        "contract_length": 6,
+        "start_year": 2026,
+        "end_year": 2031,
+        "annual_salary": 3600000,
+        "total_value": 21600000,
+        "signing_timestamp": 1746417600,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "UTA",
+        "contract_length": 5,
+        "start_year": 2023,
+        "end_year": 2027,
+        "annual_salary": 3600000,
+        "total_value": 18000000,
+        "signing_timestamp": 1656388800,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Mitch Johnson",
+    "total_exp_years": 1,
+    "current_team_2026": "SAS",
+    "history": [
+      {
+        "team": "SAS",
+        "contract_length": 3,
+        "start_year": 2026,
+        "end_year": 2026,
+        "annual_salary": 6400000,
+        "total_value": 19200000,
+        "signing_timestamp": 1746158400,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Tuomas Iisalo",
+    "total_exp_years": 1,
+    "current_team_2026": "MEM",
+    "history": [
+      {
+        "team": "MEM",
+        "contract_length": 3,
+        "start_year": 2026,
+        "end_year": 2026,
+        "annual_salary": 2400000,
+        "total_value": 7200000,
+        "signing_timestamp": 1746158400,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Chauncey Billups",
+    "total_exp_years": 5,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "POR",
+        "contract_length": 3,
+        "start_year": 2026,
+        "end_year": 2026,
+        "annual_salary": 4000000,
+        "total_value": 12000000,
+        "signing_timestamp": 1744603200,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "POR",
+        "contract_length": 5,
+        "start_year": 2022,
+        "end_year": 2026,
+        "annual_salary": 2000000,
+        "total_value": 10000000,
+        "signing_timestamp": 1624766400
+      }
+    ]
+  },
+  {
+    "name": "David Adelman",
+    "total_exp_years": 2,
+    "current_team_2026": "DEN",
+    "history": [
+      {
+        "team": "DEN",
+        "contract_length": 3,
+        "start_year": 2025,
+        "end_year": 2026,
+        "annual_salary": 4800000,
+        "total_value": 14400000,
+        "signing_timestamp": 1744084800,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Doug Christie",
+    "total_exp_years": 2,
+    "current_team_2026": "SAC",
+    "history": [
+      {
+        "team": "SAC",
+        "contract_length": 3,
+        "start_year": 2025,
+        "end_year": 2026,
+        "annual_salary": 2800000,
+        "total_value": 8400000,
+        "signing_timestamp": 1735362000,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Tom Thibodeau",
+    "total_exp_years": 16,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "NYK",
+        "contract_length": 3,
+        "start_year": 2026,
+        "end_year": 2028,
+        "annual_salary": 8400000,
+        "total_value": 25200000,
+        "signing_timestamp": 1721793600,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "NYK",
+        "contract_length": 5,
+        "start_year": 2021,
+        "end_year": 2025,
+        "annual_salary": 8000000,
+        "total_value": 40000000,
+        "signing_timestamp": 1595649600
+      },
+      {
+        "team": "MIN",
+        "contract_length": 4,
+        "start_year": 2017,
+        "end_year": 2020,
+        "annual_salary": 10000000,
+        "total_value": 40000000,
+        "signing_timestamp": 1461124800
+      },
+      {
+        "team": "CHI",
+        "contract_length": 4,
+        "start_year": 2014,
+        "end_year": 2017,
+        "annual_salary": 4375000,
+        "total_value": 17500000,
+        "signing_timestamp": 1349064000
+      },
+      {
+        "team": "CHI",
+        "contract_length": 3,
+        "start_year": 2011,
+        "end_year": 2013,
+        "annual_salary": 3333333,
+        "total_value": 9999999,
+        "signing_timestamp": 1275969600
+      }
+    ]
+  },
+  {
+    "name": "J.B. Bickerstaff",
+    "total_exp_years": 6,
+    "current_team_2026": "DET",
+    "history": [
+      {
+        "team": "DET",
+        "contract_length": 5,
+        "start_year": 2025,
+        "end_year": 2029,
+        "annual_salary": 8400000,
+        "total_value": 42000000,
+        "signing_timestamp": 1719720000,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "CLE",
+        "contract_length": 3,
+        "start_year": 2025,
+        "end_year": 2027,
+        "annual_salary": 4400000,
+        "total_value": 13200000,
+        "signing_timestamp": 1640408400,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "CLE",
+        "contract_length": 4,
+        "start_year": 2021,
+        "end_year": 2024,
+        "annual_salary": 4400000,
+        "total_value": 17600000,
+        "signing_timestamp": 1583812800,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Kenny Atkinson",
+    "total_exp_years": 2,
+    "current_team_2026": "CLE",
+    "history": [
+      {
+        "team": "CLE",
+        "contract_length": 5,
+        "start_year": 2025,
+        "end_year": 2029,
+        "annual_salary": 4800000,
+        "total_value": 24000000,
+        "signing_timestamp": 1719201600,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Chris Finch",
+    "total_exp_years": 6,
+    "current_team_2026": "MIN",
+    "history": [
+      {
+        "team": "MIN",
+        "contract_length": 4,
+        "start_year": 2025,
+        "end_year": 2028,
+        "annual_salary": 4400000,
+        "total_value": 17600000,
+        "signing_timestamp": 1719201600,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "MIN",
+        "contract_length": 4,
+        "start_year": 2023,
+        "end_year": 2026,
+        "annual_salary": 4400000,
+        "total_value": 17600000,
+        "signing_timestamp": 1649649600,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "MIN",
+        "contract_length": 2,
+        "start_year": 2021,
+        "end_year": 2022,
+        "annual_salary": 4400000,
+        "total_value": 8800000,
+        "signing_timestamp": 1613970000,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "J.J. Redick",
+    "total_exp_years": 2,
+    "current_team_2026": "LAL",
+    "history": [
+      {
+        "team": "LAL",
+        "contract_length": 4,
+        "start_year": 2025,
+        "end_year": 2028,
+        "annual_salary": 8000000,
+        "total_value": 32000000,
+        "signing_timestamp": 1718856000
+      }
+    ]
+  },
+  {
+    "name": "Brian Keefe",
+    "total_exp_years": 3,
+    "current_team_2026": "WAS",
+    "history": [
+      {
+        "team": "WAS",
+        "contract_length": 3,
+        "start_year": 2025,
+        "end_year": 2026,
+        "annual_salary": 3200000,
+        "total_value": 9600000,
+        "signing_timestamp": 1716955200,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "WAS",
+        "contract_length": 3,
+        "start_year": 2024,
+        "end_year": 2026,
+        "annual_salary": 3200000,
+        "total_value": 9600000,
+        "signing_timestamp": 1706158800,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Tyronn Lue",
+    "total_exp_years": 6,
+    "current_team_2026": "LAC",
+    "history": [
+      {
+        "team": "LAC",
+        "contract_length": 3,
+        "start_year": 2026,
+        "end_year": 2028,
+        "annual_salary": 14000000,
+        "total_value": 42000000,
+        "signing_timestamp": 1716955200
+      },
+      {
+        "team": "LAC",
+        "contract_length": 5,
+        "start_year": 2021,
+        "end_year": 2025,
+        "annual_salary": 7000000,
+        "total_value": 35000000,
+        "signing_timestamp": 1602734400
+      }
+    ]
+  },
+  {
+    "name": "Mike Budenholzer",
+    "total_exp_years": 8,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "PHX",
+        "contract_length": 5,
+        "start_year": 2025,
+        "end_year": 2029,
+        "annual_salary": 10000000,
+        "total_value": 50000000,
+        "signing_timestamp": 1715400000
+      },
+      {
+        "team": "MIL",
+        "contract_length": 3,
+        "start_year": 2023,
+        "end_year": 2025,
+        "annual_salary": 5200000,
+        "total_value": 15600000,
+        "signing_timestamp": 1629777600,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "MIL",
+        "contract_length": 4,
+        "start_year": 2019,
+        "end_year": 2022,
+        "annual_salary": 5200000,
+        "total_value": 20800000,
+        "signing_timestamp": 1526529600,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Charles Lee",
+    "total_exp_years": 2,
+    "current_team_2026": "CHA",
+    "history": [
+      {
+        "team": "CHA",
+        "contract_length": 4,
+        "start_year": 2025,
+        "end_year": 2028,
+        "annual_salary": 2800000,
+        "total_value": 11200000,
+        "signing_timestamp": 1715227200,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Jordi Fernandez",
+    "total_exp_years": 2,
+    "current_team_2026": "BKN",
+    "history": [
+      {
+        "team": "BKN",
+        "contract_length": 3,
+        "start_year": 2025,
+        "end_year": 2026,
+        "annual_salary": 2800000,
+        "total_value": 8400000,
+        "signing_timestamp": 1713758400,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Willie Green",
+    "total_exp_years": 5,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "NOP",
+        "contract_length": 3,
+        "start_year": 2025,
+        "end_year": 2026,
+        "annual_salary": 4000000,
+        "total_value": 12000000,
+        "signing_timestamp": 1713153600,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "NOP",
+        "contract_length": 3,
+        "start_year": 2022,
+        "end_year": 2024,
+        "annual_salary": 1200000,
+        "total_value": 3600000,
+        "signing_timestamp": 1626926400
+      }
+    ]
+  },
+  {
+    "name": "Jamahl Mosley",
+    "total_exp_years": 5,
+    "current_team_2026": "ORL",
+    "history": [
+      {
+        "team": "ORL",
+        "contract_length": 4,
+        "start_year": 2025,
+        "end_year": 2028,
+        "annual_salary": 4000000,
+        "total_value": 16000000,
+        "signing_timestamp": 1710216000,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "ORL",
+        "contract_length": 3,
+        "start_year": 2022,
+        "end_year": 2024,
+        "annual_salary": 4000000,
+        "total_value": 12000000,
+        "signing_timestamp": 1625976000,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Steve Kerr",
+    "total_exp_years": 12,
+    "current_team_2026": "GSW",
+    "history": [
+      {
+        "team": "GSW",
+        "contract_length": 2,
+        "start_year": 2025,
+        "end_year": 2026,
+        "annual_salary": 17500000,
+        "total_value": 35000000,
+        "signing_timestamp": 1709010000
+      },
+      {
+        "team": "GSW",
+        "contract_length": 5,
+        "start_year": 2020,
+        "end_year": 2024,
+        "annual_salary": 9500000,
+        "total_value": 47500000,
+        "signing_timestamp": 1531800000
+      },
+      {
+        "team": "GSW",
+        "contract_length": 5,
+        "start_year": 2015,
+        "end_year": 2019,
+        "annual_salary": 5000000,
+        "total_value": 25000000,
+        "signing_timestamp": 1400040000
+      }
+    ]
+  },
+  {
+    "name": "Kevin Ollie",
+    "total_exp_years": 3,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "BKN",
+        "contract_length": 3,
+        "start_year": 2024,
+        "end_year": 2026,
+        "annual_salary": 3200000,
+        "total_value": 9600000,
+        "signing_timestamp": 1708405200,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Doc Rivers",
+    "total_exp_years": 27,
+    "current_team_2026": "MIL",
+    "history": [
+      {
+        "team": "MIL",
+        "contract_length": 4,
+        "start_year": 2024,
+        "end_year": 2027,
+        "annual_salary": 10000000,
+        "total_value": 40000000,
+        "signing_timestamp": 1706072400
+      },
+      {
+        "team": "PHI",
+        "contract_length": 5,
+        "start_year": 2021,
+        "end_year": 2025,
+        "annual_salary": 8000000,
+        "total_value": 40000000,
+        "signing_timestamp": 1601524800
+      },
+      {
+        "team": "LAC",
+        "contract_length": 5,
+        "start_year": 2020,
+        "end_year": 2026,
+        "annual_salary": 10000000,
+        "total_value": 50000000,
+        "signing_timestamp": 1556337600,
+        "is_length_estimate": true
+      },
+      {
+        "team": "LAC",
+        "contract_length": 5,
+        "start_year": 2015,
+        "end_year": 2019,
+        "annual_salary": 10000000,
+        "total_value": 50000000,
+        "signing_timestamp": 1409112000
+      },
+      {
+        "team": "LAC",
+        "contract_length": 1,
+        "start_year": 2014,
+        "end_year": 2014,
+        "annual_salary": 12800000,
+        "total_value": 12800000,
+        "signing_timestamp": 1372132800,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "BOS",
+        "contract_length": 5,
+        "start_year": 2012,
+        "end_year": 2016,
+        "annual_salary": 7000000,
+        "total_value": 35000000,
+        "signing_timestamp": 1305259200
+      },
+      {
+        "team": "BOS",
+        "contract_length": 3,
+        "start_year": 2009,
+        "end_year": 2011,
+        "annual_salary": 5333333,
+        "total_value": 15999999,
+        "signing_timestamp": 1221019200
+      },
+      {
+        "team": "BOS",
+        "contract_length": 1,
+        "start_year": 2008,
+        "end_year": 2008,
+        "annual_salary": 12800000,
+        "total_value": 12800000,
+        "signing_timestamp": 1178769600,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "BOS",
+        "contract_length": 3,
+        "start_year": 2005,
+        "end_year": 2007,
+        "annual_salary": 12800000,
+        "total_value": 38400000,
+        "signing_timestamp": 1083211200,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "ORL",
+        "contract_length": 2,
+        "start_year": 2004,
+        "end_year": 2005,
+        "annual_salary": 5000000,
+        "total_value": 10000000,
+        "signing_timestamp": 987739200
+      },
+      {
+        "team": "ORL",
+        "contract_length": 4,
+        "start_year": 2000,
+        "end_year": 2003,
+        "annual_salary": 2000000,
+        "total_value": 8000000,
+        "signing_timestamp": 928728000
+      }
+    ]
+  },
+  {
+    "name": "Erik Spoelstra",
+    "total_exp_years": 18,
+    "current_team_2026": "MIA",
+    "history": [
+      {
+        "team": "MIA",
+        "contract_length": 8,
+        "start_year": 2026,
+        "end_year": 2033,
+        "annual_salary": 15000000,
+        "total_value": 120000000,
+        "signing_timestamp": 1704776400
+      },
+      {
+        "team": "MIA",
+        "contract_length": 5,
+        "start_year": 2021,
+        "end_year": 2025,
+        "annual_salary": 8500000,
+        "total_value": 42500000,
+        "signing_timestamp": 1569643200
+      },
+      {
+        "team": "MIA",
+        "contract_length": 6,
+        "start_year": 2015,
+        "end_year": 2020,
+        "annual_salary": 3000000,
+        "total_value": 18000000,
+        "signing_timestamp": 1380427200
+      },
+      {
+        "team": "MIA",
+        "contract_length": 2,
+        "start_year": 2013,
+        "end_year": 2014,
+        "annual_salary": 2875000,
+        "total_value": 5750000,
+        "signing_timestamp": 1324011600
+      },
+      {
+        "team": "MIA",
+        "contract_length": 4,
+        "start_year": 2009,
+        "end_year": 2012,
+        "annual_salary": 9200000,
+        "total_value": 36800000,
+        "signing_timestamp": 1209355200,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Rick Carlisle",
+    "total_exp_years": 18,
+    "current_team_2026": "IND",
+    "history": [
+      {
+        "team": "IND",
+        "contract_length": 5,
+        "start_year": 2026,
+        "end_year": 2026,
+        "annual_salary": 9200000,
+        "total_value": 46000000,
+        "signing_timestamp": 1698292800,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "IND",
+        "contract_length": 4,
+        "start_year": 2022,
+        "end_year": 2025,
+        "annual_salary": 7250000,
+        "total_value": 29000000,
+        "signing_timestamp": 1624507200
+      },
+      {
+        "team": "DAL",
+        "contract_length": 7,
+        "start_year": 2017,
+        "end_year": 2023,
+        "annual_salary": 7000000,
+        "total_value": 49000000,
+        "signing_timestamp": 1446699600
+      },
+      {
+        "team": "DAL",
+        "contract_length": 4,
+        "start_year": 2013,
+        "end_year": 2016,
+        "annual_salary": 4600000,
+        "total_value": 18400000,
+        "signing_timestamp": 1337054400
+      },
+      {
+        "team": "DAL",
+        "contract_length": 4,
+        "start_year": 2009,
+        "end_year": 2012,
+        "annual_salary": 4375000,
+        "total_value": 17500000,
+        "signing_timestamp": 1210392000
+      }
+    ]
+  },
+  {
+    "name": "Mark Daigneault",
+    "total_exp_years": 6,
+    "current_team_2026": "OKC",
+    "history": [
+      {
+        "team": "OKC",
+        "contract_length": 3,
+        "start_year": 2024,
+        "end_year": 2026,
+        "annual_salary": 8400000,
+        "total_value": 25200000,
+        "signing_timestamp": 1689739200,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "OKC",
+        "contract_length": 3,
+        "start_year": 2021,
+        "end_year": 2026,
+        "annual_salary": 8400000,
+        "total_value": 25200000,
+        "signing_timestamp": 1605070800,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Gregg Popovich",
+    "total_exp_years": 21,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "SAS",
+        "contract_length": 5,
+        "start_year": 2024,
+        "end_year": 2028,
+        "annual_salary": 16000000,
+        "total_value": 80000000,
+        "signing_timestamp": 1688788800
+      },
+      {
+        "team": "SAS",
+        "contract_length": 3,
+        "start_year": 2021,
+        "end_year": 2023,
+        "annual_salary": 11000000,
+        "total_value": 33000000,
+        "signing_timestamp": 1556596800
+      },
+      {
+        "team": "SAS",
+        "contract_length": 6,
+        "start_year": 2015,
+        "end_year": 2020,
+        "annual_salary": 11000000,
+        "total_value": 66000000,
+        "signing_timestamp": 1404878400
+      },
+      {
+        "team": "SAS",
+        "contract_length": 6,
+        "start_year": 2007,
+        "end_year": 2012,
+        "annual_salary": 10400000,
+        "total_value": 62400000,
+        "signing_timestamp": 1211947200,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "SAS",
+        "contract_length": 2,
+        "start_year": 2007,
+        "end_year": 2008,
+        "annual_salary": 10400000,
+        "total_value": 20800000,
+        "signing_timestamp": 1071550800,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "SAS",
+        "contract_length": 3,
+        "start_year": 2004,
+        "end_year": 2006,
+        "annual_salary": 10400000,
+        "total_value": 31200000,
+        "signing_timestamp": 1001908800,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Darko Rajakovic",
+    "total_exp_years": 3,
+    "current_team_2026": "TOR",
+    "history": [
+      {
+        "team": "TOR",
+        "contract_length": 3,
+        "start_year": 2024,
+        "end_year": 2026,
+        "annual_salary": 3200000,
+        "total_value": 9600000,
+        "signing_timestamp": 1686628800,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Adrian Griffin",
+    "total_exp_years": 3,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "MIL",
+        "contract_length": 3,
+        "start_year": 2024,
+        "end_year": 2026,
+        "annual_salary": 4000000,
+        "total_value": 12000000,
+        "signing_timestamp": 1685937600,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Frank Vogel",
+    "total_exp_years": 6,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "PHX",
+        "contract_length": 5,
+        "start_year": 2024,
+        "end_year": 2028,
+        "annual_salary": 6200000,
+        "total_value": 31000000,
+        "signing_timestamp": 1685678400
+      },
+      {
+        "team": "LAL",
+        "contract_length": 3,
+        "start_year": 2020,
+        "end_year": 2022,
+        "annual_salary": 4400000,
+        "total_value": 13200000,
+        "signing_timestamp": 1557547200,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Monty Williams",
+    "total_exp_years": 14,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "PHX",
+        "contract_length": 2,
+        "start_year": 2025,
+        "end_year": 2026,
+        "annual_salary": 7600000,
+        "total_value": 15200000,
+        "signing_timestamp": 1658548800,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "DET",
+        "contract_length": 8,
+        "start_year": 2024,
+        "end_year": 2031,
+        "annual_salary": 7600000,
+        "total_value": 60800000,
+        "signing_timestamp": 1685505600,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "PHX",
+        "contract_length": 5,
+        "start_year": 2020,
+        "end_year": 2024,
+        "annual_salary": 7600000,
+        "total_value": 38000000,
+        "signing_timestamp": 1556856000,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "NOP",
+        "contract_length": 4,
+        "start_year": 2014,
+        "end_year": 2017,
+        "annual_salary": 7600000,
+        "total_value": 30400000,
+        "signing_timestamp": 1345262400,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "NOP",
+        "contract_length": 3,
+        "start_year": 2011,
+        "end_year": 2013,
+        "annual_salary": 7600000,
+        "total_value": 22800000,
+        "signing_timestamp": 1275883200,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Nick Nurse",
+    "total_exp_years": 8,
+    "current_team_2026": "PHI",
+    "history": [
+      {
+        "team": "PHI",
+        "contract_length": 3,
+        "start_year": 2024,
+        "end_year": 2026,
+        "annual_salary": 5200000,
+        "total_value": 15600000,
+        "signing_timestamp": 1685332800,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "TOR",
+        "contract_length": 3,
+        "start_year": 2022,
+        "end_year": 2026,
+        "annual_salary": 8000000,
+        "total_value": 24000000,
+        "signing_timestamp": 1600142400,
+        "is_length_estimate": true
+      },
+      {
+        "team": "TOR",
+        "contract_length": 3,
+        "start_year": 2019,
+        "end_year": 2021,
+        "annual_salary": 5200000,
+        "total_value": 15600000,
+        "signing_timestamp": 1528776000,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Quin Snyder",
+    "total_exp_years": 12,
+    "current_team_2026": "ATL",
+    "history": [
+      {
+        "team": "ATL",
+        "contract_length": 5,
+        "start_year": 2023,
+        "end_year": 2027,
+        "annual_salary": 8000000,
+        "total_value": 40000000,
+        "signing_timestamp": 1677387600
+      },
+      {
+        "team": "UTA",
+        "contract_length": 5,
+        "start_year": 2022,
+        "end_year": 2026,
+        "annual_salary": 6800000,
+        "total_value": 34000000,
+        "signing_timestamp": 1571457600,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "UTA",
+        "contract_length": 4,
+        "start_year": 2018,
+        "end_year": 2021,
+        "annual_salary": 6800000,
+        "total_value": 27200000,
+        "signing_timestamp": 1462507200,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "UTA",
+        "contract_length": 3,
+        "start_year": 2015,
+        "end_year": 2017,
+        "annual_salary": 6800000,
+        "total_value": 20400000,
+        "signing_timestamp": 1402027200,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Joe Prunty",
+    "total_exp_years": 4,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "ATL",
+        "contract_length": 3,
+        "start_year": 2023,
+        "end_year": 2026,
+        "annual_salary": 3600000,
+        "total_value": 10800000,
+        "signing_timestamp": 1676955600,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Jacque Vaughn",
+    "total_exp_years": 6,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "BKN",
+        "contract_length": 4,
+        "start_year": 2024,
+        "end_year": 2027,
+        "annual_salary": 4400000,
+        "total_value": 17600000,
+        "signing_timestamp": 1676869200,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "BKN",
+        "contract_length": 1,
+        "start_year": 2023,
+        "end_year": 2023,
+        "annual_salary": 4400000,
+        "total_value": 4400000,
+        "signing_timestamp": 1667970000,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "BKN",
+        "contract_length": 3,
+        "start_year": 2021,
+        "end_year": 2026,
+        "annual_salary": 4400000,
+        "total_value": 13200000,
+        "signing_timestamp": 1583557200,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Joe Mazzulla",
+    "total_exp_years": 4,
+    "current_team_2026": "BOS",
+    "history": [
+      {
+        "team": "BOS",
+        "contract_length": 4,
+        "start_year": 2023,
+        "end_year": 2026,
+        "annual_salary": 5600000,
+        "total_value": 22400000,
+        "signing_timestamp": 1676523600,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "BOS",
+        "contract_length": 3,
+        "start_year": 2023,
+        "end_year": 2026,
+        "annual_salary": 5600000,
+        "total_value": 16800000,
+        "signing_timestamp": 1663905600,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Steve Clifford",
+    "total_exp_years": 12,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "CHA",
+        "contract_length": 3,
+        "start_year": 2023,
+        "end_year": 2025,
+        "annual_salary": 6800000,
+        "total_value": 20400000,
+        "signing_timestamp": 1656043200,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "ORL",
+        "contract_length": 4,
+        "start_year": 2019,
+        "end_year": 2022,
+        "annual_salary": 6800000,
+        "total_value": 27200000,
+        "signing_timestamp": 1527652800,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "CHA",
+        "contract_length": 3,
+        "start_year": 2016,
+        "end_year": 2018,
+        "annual_salary": 6800000,
+        "total_value": 20400000,
+        "signing_timestamp": 1448427600,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "CHA",
+        "contract_length": 3,
+        "start_year": 2014,
+        "end_year": 2016,
+        "annual_salary": 6800000,
+        "total_value": 20400000,
+        "signing_timestamp": 1369627200,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Taylor Jenkins",
+    "total_exp_years": 7,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "MEM",
+        "contract_length": 3,
+        "start_year": 2024,
+        "end_year": 2026,
+        "annual_salary": 4800000,
+        "total_value": 14400000,
+        "signing_timestamp": 1655092800,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "MEM",
+        "contract_length": 3,
+        "start_year": 2020,
+        "end_year": 2026,
+        "annual_salary": 4800000,
+        "total_value": 14400000,
+        "signing_timestamp": 1560225600,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Darvin Ham",
+    "total_exp_years": 4,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "LAL",
+        "contract_length": 4,
+        "start_year": 2023,
+        "end_year": 2026,
+        "annual_salary": 3600000,
+        "total_value": 14400000,
+        "signing_timestamp": 1653624000,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Mike Malone",
+    "total_exp_years": 11,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "DEN",
+        "contract_length": 3,
+        "start_year": 2024,
+        "end_year": 2026,
+        "annual_salary": 2000000,
+        "total_value": 6000000,
+        "signing_timestamp": 1648008000
+      },
+      {
+        "team": "DEN",
+        "contract_length": 2,
+        "start_year": 2022,
+        "end_year": 2023,
+        "annual_salary": 6400000,
+        "total_value": 12800000,
+        "signing_timestamp": 1577163600,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "DEN",
+        "contract_length": 2,
+        "start_year": 2020,
+        "end_year": 2021,
+        "annual_salary": 6400000,
+        "total_value": 12800000,
+        "signing_timestamp": 1539748800,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "DEN",
+        "contract_length": 4,
+        "start_year": 2016,
+        "end_year": 2019,
+        "annual_salary": 6400000,
+        "total_value": 25600000,
+        "signing_timestamp": 1434340800,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Wes Unseld Jr.",
+    "total_exp_years": 4,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "WAS",
+        "contract_length": 4,
+        "start_year": 2022,
+        "end_year": 2025,
+        "annual_salary": 7000000,
+        "total_value": 28000000,
+        "signing_timestamp": 1626494400
+      }
+    ]
+  },
+  {
+    "name": "Nate McMillan",
+    "total_exp_years": 21,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "ATL",
+        "contract_length": 4,
+        "start_year": 2022,
+        "end_year": 2025,
+        "annual_salary": 10400000,
+        "total_value": 41600000,
+        "signing_timestamp": 1625457600,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "ATL",
+        "contract_length": 5,
+        "start_year": 2021,
+        "end_year": 2026,
+        "annual_salary": 10400000,
+        "total_value": 52000000,
+        "signing_timestamp": 1614574800,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "IND",
+        "contract_length": 5,
+        "start_year": 2020,
+        "end_year": 2026,
+        "annual_salary": 10400000,
+        "total_value": 52000000,
+        "signing_timestamp": 1536033600,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "IND",
+        "contract_length": 3,
+        "start_year": 2017,
+        "end_year": 2019,
+        "annual_salary": 10400000,
+        "total_value": 31200000,
+        "signing_timestamp": 1463371200,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "POR",
+        "contract_length": 2,
+        "start_year": 2012,
+        "end_year": 2013,
+        "annual_salary": 10400000,
+        "total_value": 20800000,
+        "signing_timestamp": 1299560400,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "POR",
+        "contract_length": 5,
+        "start_year": 2011,
+        "end_year": 2026,
+        "annual_salary": 10400000,
+        "total_value": 52000000,
+        "signing_timestamp": 1247198400,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "POR",
+        "contract_length": 5,
+        "start_year": 2006,
+        "end_year": 2010,
+        "annual_salary": 10400000,
+        "total_value": 52000000,
+        "signing_timestamp": 1120622400,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Jason Kidd",
+    "total_exp_years": 4,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "DAL",
+        "contract_length": 4,
+        "start_year": 2022,
+        "end_year": 2025,
+        "annual_salary": 8500000,
+        "total_value": 34000000,
+        "signing_timestamp": 1624852800
+      }
+    ]
+  },
+  {
+    "name": "Stephen Silas",
+    "total_exp_years": 6,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "HOU",
+        "contract_length": 3,
+        "start_year": 2021,
+        "end_year": 2026,
+        "annual_salary": 4400000,
+        "total_value": 13200000,
+        "signing_timestamp": 1603857600,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Stan Van Gundy",
+    "total_exp_years": 4,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "NOP",
+        "contract_length": 4,
+        "start_year": 2021,
+        "end_year": 2024,
+        "annual_salary": 3600000,
+        "total_value": 14400000,
+        "signing_timestamp": 1603252800,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Nate Bjorkgren",
+    "total_exp_years": 7,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "IND",
+        "contract_length": 3,
+        "start_year": 2020,
+        "end_year": 2026,
+        "annual_salary": 4800000,
+        "total_value": 14400000,
+        "signing_timestamp": 1603166400,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Steve Nash",
+    "total_exp_years": 4,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "BKN",
+        "contract_length": 4,
+        "start_year": 2021,
+        "end_year": 2024,
+        "annual_salary": 3600000,
+        "total_value": 14400000,
+        "signing_timestamp": 1599105600,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Terry Stotts",
+    "total_exp_years": 23,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "POR",
+        "contract_length": 2,
+        "start_year": 2021,
+        "end_year": 2022,
+        "annual_salary": 11200000,
+        "total_value": 22400000,
+        "signing_timestamp": 1558411200,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "POR",
+        "contract_length": 3,
+        "start_year": 2018,
+        "end_year": 2020,
+        "annual_salary": 5000000,
+        "total_value": 15000000,
+        "signing_timestamp": 1463371200
+      },
+      {
+        "team": "POR",
+        "contract_length": 2,
+        "start_year": 2016,
+        "end_year": 2017,
+        "annual_salary": 11200000,
+        "total_value": 22400000,
+        "signing_timestamp": 1400126400,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "POR",
+        "contract_length": 3,
+        "start_year": 2013,
+        "end_year": 2015,
+        "annual_salary": 11200000,
+        "total_value": 33600000,
+        "signing_timestamp": 1344312000,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "MIL",
+        "contract_length": 5,
+        "start_year": 2006,
+        "end_year": 2026,
+        "annual_salary": 11200000,
+        "total_value": 56000000,
+        "signing_timestamp": 1120795200,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "ATL",
+        "contract_length": 2,
+        "start_year": 2004,
+        "end_year": 2005,
+        "annual_salary": 11200000,
+        "total_value": 22400000,
+        "signing_timestamp": 1060574400,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Ryan Saunders",
+    "total_exp_years": 7,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "MIN",
+        "contract_length": 3,
+        "start_year": 2020,
+        "end_year": 2026,
+        "annual_salary": 4800000,
+        "total_value": 14400000,
+        "signing_timestamp": 1558324800,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Jim Boylen",
+    "total_exp_years": 3,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "CHI",
+        "contract_length": 3,
+        "start_year": 2020,
+        "end_year": 2022,
+        "annual_salary": 3200000,
+        "total_value": 9600000,
+        "signing_timestamp": 1556856000,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Luke Walton",
+    "total_exp_years": 10,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "SAC",
+        "contract_length": 3,
+        "start_year": 2020,
+        "end_year": 2026,
+        "annual_salary": 6000000,
+        "total_value": 18000000,
+        "signing_timestamp": 1555128000,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "SAC",
+        "contract_length": 3,
+        "start_year": 2020,
+        "end_year": 2026,
+        "annual_salary": 6000000,
+        "total_value": 18000000,
+        "signing_timestamp": 1555128000,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "ATL",
+        "contract_length": 5,
+        "start_year": 2017,
+        "end_year": 2021,
+        "annual_salary": 6000000,
+        "total_value": 30000000,
+        "signing_timestamp": 1461902400,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Mike D'Antoni",
+    "total_exp_years": 25,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "HOU",
+        "contract_length": 5,
+        "start_year": 2020,
+        "end_year": 2026,
+        "annual_salary": 12000000,
+        "total_value": 60000000,
+        "signing_timestamp": 1530072000,
+        "is_salary_estimate": true,
+        "is_length_estimate": true
+      },
+      {
+        "team": "HOU",
+        "contract_length": 4,
+        "start_year": 2017,
+        "end_year": 2020,
+        "annual_salary": 4000000,
+        "total_value": 16000000,
+        "signing_timestamp": 1464753600
+      },
+      {
+        "team": "LAL",
+        "contract_length": 3,
+        "start_year": 2013,
+        "end_year": 2015,
+        "annual_salary": 4000000,
+        "total_value": 12000000,
+        "signing_timestamp": 1352696400
+      },
+      {
+        "team": "PHX",
+        "contract_length": 1,
+        "start_year": 2010,
+        "end_year": 2010,
+        "annual_salary": 12000000,
+        "total_value": 12000000,
+        "signing_timestamp": 1141966800,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "NYK",
+        "contract_length": 4,
+        "start_year": 2009,
+        "end_year": 2012,
+        "annual_salary": 6000000,
+        "total_value": 24000000,
+        "signing_timestamp": 1210651200
+      },
+      {
+        "team": "PHX",
+        "contract_length": 2,
+        "start_year": 2008,
+        "end_year": 2009,
+        "annual_salary": 12000000,
+        "total_value": 24000000,
+        "signing_timestamp": 1124942400,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "PHX",
+        "contract_length": 2,
+        "start_year": 2006,
+        "end_year": 2007,
+        "annual_salary": 12000000,
+        "total_value": 24000000,
+        "signing_timestamp": 1084334400,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "PHX",
+        "contract_length": 2,
+        "start_year": 2004,
+        "end_year": 2005,
+        "annual_salary": 12000000,
+        "total_value": 24000000,
+        "signing_timestamp": 1071032400,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "DEN",
+        "contract_length": 3,
+        "start_year": 1999,
+        "end_year": 2001,
+        "annual_salary": 2750000,
+        "total_value": 8250000,
+        "signing_timestamp": 906436800
+      }
+    ]
+  },
+  {
+    "name": "Dwane Casey",
+    "total_exp_years": 12,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "DET",
+        "contract_length": 5,
+        "start_year": 2019,
+        "end_year": 2023,
+        "annual_salary": 6800000,
+        "total_value": 34000000,
+        "signing_timestamp": 1528689600,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "TOR",
+        "contract_length": 3,
+        "start_year": 2017,
+        "end_year": 2019,
+        "annual_salary": 5333333,
+        "total_value": 15999999,
+        "signing_timestamp": 1464840000
+      },
+      {
+        "team": "TOR",
+        "contract_length": 3,
+        "start_year": 2015,
+        "end_year": 2017,
+        "annual_salary": 6800000,
+        "total_value": 20400000,
+        "signing_timestamp": 1399262400,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "TOR",
+        "contract_length": 3,
+        "start_year": 2012,
+        "end_year": 2014,
+        "annual_salary": 6800000,
+        "total_value": 20400000,
+        "signing_timestamp": 1308628800,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Alvin Gentry",
+    "total_exp_years": 15,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "NOP",
+        "contract_length": 2,
+        "start_year": 2020,
+        "end_year": 2021,
+        "annual_salary": 8000000,
+        "total_value": 16000000,
+        "signing_timestamp": 1528344000,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "NOP",
+        "contract_length": 1,
+        "start_year": 2019,
+        "end_year": 2019,
+        "annual_salary": 4000000,
+        "total_value": 4000000,
+        "signing_timestamp": 1524456000
+      },
+      {
+        "team": "NOP",
+        "contract_length": 3,
+        "start_year": 2016,
+        "end_year": 2018,
+        "annual_salary": 3437500,
+        "total_value": 10312500,
+        "signing_timestamp": 1432958400
+      },
+      {
+        "team": "PHX",
+        "contract_length": 1,
+        "start_year": 2013,
+        "end_year": 2013,
+        "annual_salary": 8000000,
+        "total_value": 8000000,
+        "signing_timestamp": 1285214400,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "PHX",
+        "contract_length": 2,
+        "start_year": 2011,
+        "end_year": 2012,
+        "annual_salary": 8000000,
+        "total_value": 16000000,
+        "signing_timestamp": 1277438400,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "LAC",
+        "contract_length": 4,
+        "start_year": 2001,
+        "end_year": 2004,
+        "annual_salary": 8000000,
+        "total_value": 32000000,
+        "signing_timestamp": 965880000,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "DET",
+        "contract_length": 2,
+        "start_year": 1999,
+        "end_year": 2000,
+        "annual_salary": 8000000,
+        "total_value": 16000000,
+        "signing_timestamp": 893736000,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Brett Brown",
+    "total_exp_years": 9,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "PHI",
+        "contract_length": 3,
+        "start_year": 2020,
+        "end_year": 2022,
+        "annual_salary": 5600000,
+        "total_value": 16800000,
+        "signing_timestamp": 1527566400,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "PHI",
+        "contract_length": 2,
+        "start_year": 2018,
+        "end_year": 2019,
+        "annual_salary": 5600000,
+        "total_value": 11200000,
+        "signing_timestamp": 1449810000,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "PHI",
+        "contract_length": 4,
+        "start_year": 2014,
+        "end_year": 2017,
+        "annual_salary": 5600000,
+        "total_value": 22400000,
+        "signing_timestamp": 1376452800,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Lloyd Pierce",
+    "total_exp_years": 3,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "ATL",
+        "contract_length": 3,
+        "start_year": 2019,
+        "end_year": 2021,
+        "annual_salary": 3200000,
+        "total_value": 9600000,
+        "signing_timestamp": 1526011200,
+        "is_salary_estimate": true
+      }
+    ]
+  },
+  {
+    "name": "Scott Brooks",
+    "total_exp_years": 5,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "WAS",
+        "contract_length": 5,
+        "start_year": 2017,
+        "end_year": 2021,
+        "annual_salary": 7000000,
+        "total_value": 35000000,
+        "signing_timestamp": 1471665600
+      }
+    ]
+  },
+  {
+    "name": "Brad Stevens",
+    "total_exp_years": 8,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "BOS",
+        "contract_length": 3,
+        "start_year": 2019,
+        "end_year": 2021,
+        "annual_salary": 5200000,
+        "total_value": 15600000,
+        "signing_timestamp": 1464753600,
+        "is_salary_estimate": true
+      },
+      {
+        "team": "BOS",
+        "contract_length": 6,
+        "start_year": 2014,
+        "end_year": 2019,
+        "annual_salary": 3666667,
+        "total_value": 22000002,
+        "signing_timestamp": 1372824000
+      }
+    ]
+  },
+  {
+    "name": "Lionel Hollins",
+    "total_exp_years": 4,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "BKN",
+        "contract_length": 4,
+        "start_year": 2015,
+        "end_year": 2018,
+        "annual_salary": 5000000,
+        "total_value": 20000000,
+        "signing_timestamp": 1404273600
+      }
+    ]
+  },
+  {
+    "name": "Jeff Bzdelik",
+    "total_exp_years": 3,
+    "current_team_2026": "Inactive/Fired",
+    "history": [
+      {
+        "team": "DEN",
+        "contract_length": 3,
+        "start_year": 2003,
+        "end_year": 2005,
+        "annual_salary": 3200000,
+        "total_value": 9600000,
+        "signing_timestamp": 1029902400,
+        "is_salary_estimate": true
+      }
+    ]
+  }
+]
