@@ -1100,15 +1100,14 @@
   },
   {
     "year": 1998,
-    "teams": [],
-    "winner": "TBD",
-    "final_score": {},
-    "host_arena": "Madison Square Garden*",
-    "host_city": "New York City, New York",
-    "host_teams": [
-      "New York Knicks",
-      "Brooklyn Nets"
-    ],
+    "teams": ["East", "West"],
+    "winner": "East",
+    "final_score": { "East": 135, "West": 114 },
+    "host_arena": "Madison Square Garden",
+    "host_city": "New York City, NY",
+    "host_teams": ["New York Knicks", "Brooklyn Nets"],
+    "mvps": [{ "name": "Michael Jordan", "team": "Chicago Bulls" }]
+  },
     "mvps": [
       {
         "name": "Michael Jordan (3)",
@@ -1704,25 +1703,18 @@
       }
     ]
   },
-  {
+ {
     "year": 2025,
-     "teams": ["Shaq's OGs", "Chuck's Global Stars"],
-  "winner": "Shaq's OGs",
-     "final_score": {
-    "Shaq's OGs": 41,
-    "Chuck's Global Stars": 25
-  },
-    "host_arena": "Chase Center[26][6]",
+    "teams": ["Shaq's OGs", "Chuck's Global Stars"],
+    "winner": "Shaq's OGs",
+    "final_score": {
+      "Shaq's OGs": 41,
+      "Chuck's Global Stars": 25
+    },
+    "host_arena": "Chase Center",
     "host_city": "San Francisco, CA",
-    "host_teams": [
-      "Golden State Warriors"
-    ],
-    "mvps": [
-      {
-        "name": "Stephen Curry (2)",
-        "team": "Golden State Warriors"
-      }
-    ]
+    "host_teams": ["Golden State Warriors"],
+    "mvps": [{ "name": "Stephen Curry", "team": "Golden State Warriors" }]
   },
   {
     "year": 2026,
