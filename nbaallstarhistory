@@ -1706,9 +1706,12 @@
   },
   {
     "year": 2025,
-    "teams": [],
-    "winner": "TBD",
-    "final_score": {},
+     "teams": ["Shaq's OGs", "Chuck's Global Stars"],
+  "winner": "Shaq's OGs",
+     "final_score": {
+    "Shaq's OGs": 41,
+    "Chuck's Global Stars": 25
+  },
     "host_arena": "Chase Center[26][6]",
     "host_city": "San Francisco, CA",
     "host_teams": [
