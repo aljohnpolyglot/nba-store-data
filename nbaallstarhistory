@@ -70,15 +70,9 @@
   },
   {
     "year": 1954,
-    "teams": [
-      "East",
-      "West"
-    ],
-    "winner": "East",
-    "final_score": {
-      "East": 98,
-      "West": 93
-    },
+    "teams": [],
+    "winner": "TBD",
+    "final_score": {},
     "host_arena": "Madison Square Garden III",
     "host_city": "New York City, NY",
     "host_teams": [
@@ -157,7 +151,7 @@
     ],
     "mvps": [
       {
-        "name": "Bob Cousy (2)",
+        "name": "Bob Cousy",
         "team": "Boston Celtics"
       }
     ]
@@ -180,7 +174,7 @@
     ],
     "mvps": [
       {
-        "name": "Bob Pettit (2)",
+        "name": "Bob Pettit",
         "team": "St. Louis Hawks"
       }
     ]
@@ -207,7 +201,7 @@
         "team": "Minneapolis Lakers"
       },
       {
-        "name": "Bob Pettit (3)",
+        "name": "Bob Pettit",
         "team": "St. Louis Hawks"
       }
     ]
@@ -277,7 +271,7 @@
     ],
     "mvps": [
       {
-        "name": "Bob Pettit (4)",
+        "name": "Bob Pettit",
         "team": "St. Louis Hawks"
       }
     ]
@@ -440,7 +434,7 @@
     ],
     "mvps": [
       {
-        "name": "Oscar Robertson (3)",
+        "name": "Oscar Robertson",
         "team": "Cincinnati Royals"
       }
     ]
@@ -680,15 +674,9 @@
   },
   {
     "year": 1980,
-    "teams": [
-      "East",
-      "West"
-    ],
-    "winner": "East",
-    "final_score": {
-      "East": 144,
-      "West": 136
-    },
+    "teams": [],
+    "winner": "TBD",
+    "final_score": {},
     "host_arena": "Capital Centre",
     "host_city": "Landover, MD",
     "host_teams": [
@@ -766,22 +754,16 @@
     ],
     "mvps": [
       {
-        "name": "Julius Erving (2)",
+        "name": "Julius Erving",
         "team": "Philadelphia 76ers"
       }
     ]
   },
   {
     "year": 1984,
-    "teams": [
-      "East",
-      "West"
-    ],
-    "winner": "East",
-    "final_score": {
-      "East": 154,
-      "West": 145
-    },
+    "teams": [],
+    "winner": "TBD",
+    "final_score": {},
     "host_arena": "McNichols Sports Arena",
     "host_city": "Denver, CO",
     "host_teams": [
@@ -805,7 +787,7 @@
       "West": 140,
       "East": 129
     },
-    "host_arena": "Hoosier Dome[a]",
+    "host_arena": "Hoosier Dome",
     "host_city": "Indianapolis, IN †",
     "host_teams": [
       "Indiana Pacers"
@@ -835,23 +817,17 @@
     ],
     "mvps": [
       {
-        "name": "Isiah Thomas (2)",
+        "name": "Isiah Thomas",
         "team": "Detroit Pistons"
       }
     ]
   },
   {
     "year": 1987,
-    "teams": [
-      "West",
-      "East"
-    ],
-    "winner": "West",
-    "final_score": {
-      "West": 154,
-      "East": 149
-    },
-    "host_arena": "Kingdome[b]",
+    "teams": [],
+    "winner": "TBD",
+    "final_score": {},
+    "host_arena": "Kingdome",
     "host_city": "Seattle, WA †",
     "host_teams": [
       "Seattle SuperSonics"
@@ -897,7 +873,7 @@
       "West": 143,
       "East": 134
     },
-    "host_arena": "Astrodome[c]",
+    "host_arena": "Astrodome",
     "host_city": "Houston, TX †",
     "host_teams": [
       "Houston Rockets"
@@ -973,22 +949,16 @@
     ],
     "mvps": [
       {
-        "name": "Magic Johnson (2)",
+        "name": "Magic Johnson",
         "team": "Los Angeles Lakers"
       }
     ]
   },
   {
     "year": 1993,
-    "teams": [
-      "West",
-      "East"
-    ],
-    "winner": "West",
-    "final_score": {
-      "West": 135,
-      "East": 132
-    },
+    "teams": [],
+    "winner": "TBD",
+    "final_score": {},
     "host_arena": "Delta Center§",
     "host_city": "Salt Lake City, UT",
     "host_teams": [
@@ -996,7 +966,7 @@
     ],
     "mvps": [
       {
-        "name": "Karl Malone (2)",
+        "name": "Karl Malone",
         "team": "Utah Jazz"
       },
       {
@@ -1070,7 +1040,7 @@
     ],
     "mvps": [
       {
-        "name": "Michael Jordan (2)",
+        "name": "Michael Jordan",
         "team": "Chicago Bulls"
       }
     ]
@@ -1100,17 +1070,18 @@
   },
   {
     "year": 1998,
-    "teams": ["East", "West"],
-    "winner": "East",
-    "final_score": { "East": 135, "West": 114 },
+    "teams": [],
+    "winner": "TBD",
+    "final_score": {},
     "host_arena": "Madison Square Garden",
-    "host_city": "New York City, NY",
-    "host_teams": ["New York Knicks", "Brooklyn Nets"],
-    "mvps": [{ "name": "Michael Jordan", "team": "Chicago Bulls" }]
-  },
+    "host_city": "New York City, New York",
+    "host_teams": [
+      "New York Knicks",
+      "Brooklyn Nets"
+    ],
     "mvps": [
       {
-        "name": "Michael Jordan (3)",
+        "name": "Michael Jordan",
         "team": "Chicago Bulls"
       }
     ]
@@ -1191,15 +1162,9 @@
   },
   {
     "year": 2003,
-    "teams": [
-      "West",
-      "East"
-    ],
-    "winner": "West",
-    "final_score": {
-      "West": 155,
-      "East": 145
-    },
+    "teams": [],
+    "winner": "TBD",
+    "final_score": {},
     "host_arena": "Philips Arena§",
     "host_city": "Atlanta, GA",
     "host_teams": [
@@ -1223,7 +1188,7 @@
       "West": 136,
       "East": 132
     },
-    "host_arena": "Staples Center[d]",
+    "host_arena": "Staples Center",
     "host_city": "Los Angeles, CA",
     "host_teams": [
       "Los Angeles Lakers",
@@ -1231,7 +1196,7 @@
     ],
     "mvps": [
       {
-        "name": "Shaquille O'Neal (2)",
+        "name": "Shaquille O'Neal",
         "team": "Los Angeles Lakers"
       }
     ]
@@ -1254,7 +1219,7 @@
     ],
     "mvps": [
       {
-        "name": "Allen Iverson (2)",
+        "name": "Allen Iverson",
         "team": "Philadelphia 76ers"
       }
     ]
@@ -1300,7 +1265,7 @@
     ],
     "mvps": [
       {
-        "name": "Kobe Bryant (2)",
+        "name": "Kobe Bryant",
         "team": "Los Angeles Lakers"
       }
     ]
@@ -1323,7 +1288,7 @@
     ],
     "mvps": [
       {
-        "name": "LeBron James (2)",
+        "name": "LeBron James",
         "team": "Cleveland Cavaliers"
       }
     ]
@@ -1346,11 +1311,11 @@
     ],
     "mvps": [
       {
-        "name": "Kobe Bryant (3)",
+        "name": "Kobe Bryant",
         "team": "Los Angeles Lakers"
       },
       {
-        "name": "Shaquille O'Neal (3)",
+        "name": "Shaquille O'Neal",
         "team": "Phoenix Suns"
       }
     ]
@@ -1366,7 +1331,7 @@
       "East": 141,
       "West": 139
     },
-    "host_arena": "Cowboys Stadium[e]",
+    "host_arena": "Cowboys Stadium",
     "host_city": "Arlington, TX #†",
     "host_teams": [
       "Dallas Mavericks"
@@ -1389,7 +1354,7 @@
       "West": 148,
       "East": 143
     },
-    "host_arena": "Staples Center (2)[f]",
+    "host_arena": "Staples Center (2)",
     "host_city": "Los Angeles, CA",
     "host_teams": [
       "Los Angeles Lakers",
@@ -1397,7 +1362,7 @@
     ],
     "mvps": [
       {
-        "name": "Kobe Bryant (4)",
+        "name": "Kobe Bryant",
         "team": "Los Angeles Lakers"
       }
     ]
@@ -1482,7 +1447,7 @@
       "West": 163,
       "East": 158
     },
-    "host_arena": "Madison Square Garden (2)* [g]",
+    "host_arena": "Madison Square Garden (2)***",
     "host_city": "New York City, NY",
     "host_teams": [
       "New York Knicks",
@@ -1513,7 +1478,7 @@
     ],
     "mvps": [
       {
-        "name": "Russell Westbrook (2)",
+        "name": "Russell Westbrook",
         "team": "Oklahoma City Thunder"
       }
     ]
@@ -1542,7 +1507,7 @@
     ]
   },
   {
-    "year": 2018,
+    "year": 20185,
     "teams": [
       "Team LeBron",
       "Team Stephen"
@@ -1552,7 +1517,7 @@
       "Team LeBron": 148,
       "Team Stephen": 145
     },
-    "host_arena": "Staples Center (3)[h]",
+    "host_arena": "Staples Center (3)",
     "host_city": "Los Angeles, CA",
     "host_teams": [
       "Los Angeles Lakers",
@@ -1560,7 +1525,7 @@
     ],
     "mvps": [
       {
-        "name": "LeBron James (3)",
+        "name": "LeBron James",
         "team": "Cleveland Cavaliers"
       }
     ]
@@ -1583,7 +1548,7 @@
     ],
     "mvps": [
       {
-        "name": "Kevin Durant (2)",
+        "name": "Kevin Durant",
         "team": "Golden State Warriors"
       }
     ]
@@ -1592,12 +1557,12 @@
     "year": 2020,
     "teams": [
       "Team LeBron",
-      "Team Giannis ‡"
+      "Team Giannis"
     ],
     "winner": "Team LeBron",
     "final_score": {
       "Team LeBron": 157,
-      "Team Giannis ‡": 155
+      "Team Giannis": 155
     },
     "host_arena": "United Center",
     "host_city": "Chicago, IL",
@@ -1635,7 +1600,7 @@
     ]
   },
   {
-    "year": 2022,
+    "year": 202223,
     "teams": [
       "Team LeBron",
       "Team Durant"
@@ -1658,7 +1623,7 @@
     ]
   },
   {
-    "year": 2023,
+    "year": 202324,
     "teams": [
       "Team Giannis",
       "Team LeBron"
@@ -1691,7 +1656,7 @@
       "East": 211,
       "West": 186
     },
-    "host_arena": "Gainbridge Fieldhouse[25][i]",
+    "host_arena": "Gainbridge Fieldhouse",
     "host_city": "Indianapolis, IN",
     "host_teams": [
       "Indiana Pacers"
@@ -1703,9 +1668,12 @@
       }
     ]
   },
- {
+  {
     "year": 2025,
-    "teams": ["Shaq's OGs", "Chuck's Global Stars"],
+    "teams": [
+      "Shaq's OGs",
+      "Chuck's Global Stars"
+    ],
     "winner": "Shaq's OGs",
     "final_score": {
       "Shaq's OGs": 41,
@@ -1713,15 +1681,28 @@
     },
     "host_arena": "Chase Center",
     "host_city": "San Francisco, CA",
-    "host_teams": ["Golden State Warriors"],
-    "mvps": [{ "name": "Stephen Curry", "team": "Golden State Warriors" }]
+    "host_teams": [
+      "Golden State Warriors"
+    ],
+    "mvps": [
+      {
+        "name": "Stephen Curry",
+        "team": "Golden State Warriors"
+      }
+    ]
   },
   {
     "year": 2026,
-    "teams": [],
-    "winner": "TBD",
-    "final_score": {},
-    "host_arena": "Intuit Dome[27]",
+    "teams": [
+      "USA Stars",
+      "USA Stripes"
+    ],
+    "winner": "USA Stars",
+    "final_score": {
+      "USA Stars": 47,
+      "USA Stripes": 21
+    },
+    "host_arena": "Intuit Dome",
     "host_city": "Inglewood, CA",
     "host_teams": [
       "Los Angeles Clippers",
@@ -1739,7 +1720,7 @@
     "teams": [],
     "winner": "TBD",
     "final_score": {},
-    "host_arena": "Mortgage Matchup Center (3)[28]",
+    "host_arena": "Mortgage Matchup Center (3)",
     "host_city": "Phoenix, AZ",
     "host_teams": [
       "Phoenix Suns"
