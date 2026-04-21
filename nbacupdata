@@ -43,403 +43,405 @@
                 "is_mvp": false
             }
         ],
-        "groups": {
+        "group_standings": {
             "East group A": [
                 {
                     "rank": "1",
                     "team": "Indiana Pacers",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "546",
                     "pa": "507",
-                    "pd": "+39"
+                    "pd": "+39",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Cleveland Cavaliers",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "474",
                     "pa": "445",
-                    "pd": "+29"
+                    "pd": "+29",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Philadelphia 76ers",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "485",
                     "pa": "476",
-                    "pd": "+9"
+                    "pd": "+9",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Atlanta Hawks",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "499",
                     "pa": "531",
-                    "pd": "-32"
+                    "pd": "-32",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "Detroit Pistons",
-                    "pld": "4",
                     "w": "0",
                     "l": "4",
                     "pf": "439",
                     "pa": "484",
-                    "pd": "-45"
+                    "pd": "-45",
+                    "pld": "4"
                 }
             ],
             "East group B": [
                 {
                     "rank": "1",
                     "team": "Milwaukee Bucks",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "502",
                     "pa": "456",
-                    "pd": "+46"
+                    "pd": "+46",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "New York Knicks",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "440",
                     "pa": "398",
-                    "pd": "+42"
+                    "pd": "+42",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Miami Heat",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "454",
                     "pa": "450",
-                    "pd": "+4"
+                    "pd": "+4",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Charlotte Hornets",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "419",
                     "pa": "473",
-                    "pd": "-54"
+                    "pd": "-54",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "Washington Wizards",
-                    "pld": "4",
                     "w": "0",
                     "l": "4",
                     "pf": "458",
                     "pa": "496",
-                    "pd": "-38"
+                    "pd": "-38",
+                    "pld": "4"
                 }
             ],
             "East group C": [
                 {
                     "rank": "1",
                     "team": "Boston Celtics",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "449",
                     "pa": "422",
-                    "pd": "+27"
+                    "pd": "+27",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Orlando Magic",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "446",
                     "pa": "424",
-                    "pd": "+22"
+                    "pd": "+22",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Brooklyn Nets",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "455",
                     "pa": "435",
-                    "pd": "+20"
+                    "pd": "+20",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Toronto Raptors",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "436",
                     "pa": "457",
-                    "pd": "-21"
+                    "pd": "-21",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "Chicago Bulls",
-                    "pld": "4",
                     "w": "0",
                     "l": "4",
                     "pf": "409",
                     "pa": "457",
-                    "pd": "-48"
+                    "pd": "-48",
+                    "pld": "4"
                 }
             ],
             "West group A": [
                 {
                     "rank": "1",
                     "team": "Los Angeles Lakers",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "494",
                     "pa": "420",
-                    "pd": "+74"
+                    "pd": "+74",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Phoenix Suns",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "480",
                     "pa": "446",
-                    "pd": "+34"
+                    "pd": "+34",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Utah Jazz",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "469",
                     "pa": "482",
-                    "pd": "-13"
+                    "pd": "-13",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Portland Trail Blazers",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "416",
                     "pa": "455",
-                    "pd": "-39"
+                    "pd": "-39",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "Memphis Grizzlies",
-                    "pld": "4",
                     "w": "0",
                     "l": "4",
                     "pf": "430",
                     "pa": "486",
-                    "pd": "-56"
+                    "pd": "-56",
+                    "pld": "4"
                 }
             ],
             "West group B": [
                 {
                     "rank": "1",
                     "team": "New Orleans Pelicans",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "463",
                     "pa": "430",
-                    "pd": "+33"
+                    "pd": "+33",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Houston Rockets",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "424",
                     "pa": "414",
-                    "pd": "+10"
+                    "pd": "+10",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Dallas Mavericks",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "489",
                     "pa": "497",
-                    "pd": "-8"
+                    "pd": "-8",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Denver Nuggets",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "432",
                     "pa": "442",
-                    "pd": "-10"
+                    "pd": "-10",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "Los Angeles Clippers",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "446",
                     "pa": "471",
-                    "pd": "-25"
+                    "pd": "-25",
+                    "pld": "4"
                 }
             ],
             "West group C": [
                 {
                     "rank": "1",
                     "team": "Sacramento Kings",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "482",
                     "pa": "452",
-                    "pd": "+30"
+                    "pd": "+30",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Minnesota Timberwolves",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "438",
                     "pa": "438",
-                    "pd": "0"
+                    "pd": "0",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Golden State Warriors",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "483",
                     "pa": "479",
-                    "pd": "+4"
+                    "pd": "+4",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Oklahoma City Thunder",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "463",
                     "pa": "439",
-                    "pd": "+24"
+                    "pd": "+24",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "San Antonio Spurs",
-                    "pld": "4",
                     "w": "0",
                     "l": "4",
                     "pf": "429",
                     "pa": "487",
-                    "pd": "-58"
+                    "pd": "-58",
+                    "pld": "4"
                 }
             ],
-            "Eastern Conference": [],
-            "Western Conference": [],
-            "Unknown Group": [
+            "Unknown": [
                 {
                     "rank": "1",
                     "team": "Milwaukee Bucks",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "502",
                     "pa": "456",
-                    "pd": "+46"
+                    "pd": "+46",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Indiana Pacers",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "546",
                     "pa": "507",
-                    "pd": "+39"
+                    "pd": "+39",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Boston Celtics",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "449",
                     "pa": "422",
-                    "pd": "+27"
+                    "pd": "+27",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "New York Knicks",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "440",
                     "pa": "398",
-                    "pd": "+42"
+                    "pd": "+42",
+                    "pld": "4"
                 },
                 {
                     "rank": "1",
                     "team": "Los Angeles Lakers",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "494",
                     "pa": "420",
-                    "pd": "+74"
+                    "pd": "+74",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Sacramento Kings",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "482",
                     "pa": "452",
-                    "pd": "+30"
+                    "pd": "+30",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "New Orleans Pelicans",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "463",
                     "pa": "430",
-                    "pd": "+33"
+                    "pd": "+33",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Phoenix Suns",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "480",
                     "pa": "446",
-                    "pd": "+34"
+                    "pd": "+34",
+                    "pld": "4"
                 }
             ]
+        },
+        "wildcards": {
+            "eastern_conference": [],
+            "western_conference": []
         },
         "bracket": [
             {
@@ -558,465 +560,469 @@
                 "is_mvp": false
             }
         ],
-        "groups": {
+        "group_standings": {
             "East group A": [
                 {
                     "rank": "1",
                     "team": "New York Knicks",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "455",
                     "pa": "425",
-                    "pd": "+30"
+                    "pd": "+30",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Orlando Magic",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "441",
                     "pa": "396",
-                    "pd": "+45"
+                    "pd": "+45",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Philadelphia 76ers",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "408",
                     "pa": "411",
-                    "pd": "-3"
+                    "pd": "-3",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Brooklyn Nets",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "436",
                     "pa": "475",
-                    "pd": "-39"
+                    "pd": "-39",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "Charlotte Hornets",
-                    "pld": "4",
                     "w": "0",
                     "l": "4",
                     "pf": "406",
                     "pa": "439",
-                    "pd": "-33"
+                    "pd": "-33",
+                    "pld": "4"
                 }
             ],
             "East group B": [
                 {
                     "rank": "1",
                     "team": "Milwaukee Bucks",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "462",
                     "pa": "412",
-                    "pd": "+50"
+                    "pd": "+50",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Detroit Pistons",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "447",
                     "pa": "440",
-                    "pd": "+7"
+                    "pd": "+7",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Miami Heat",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "459",
                     "pa": "439",
-                    "pd": "+20"
+                    "pd": "+20",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Toronto Raptors",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "413",
                     "pa": "430",
-                    "pd": "-17"
+                    "pd": "-17",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "Indiana Pacers",
-                    "pld": "4",
                     "w": "0",
                     "l": "4",
                     "pf": "445",
                     "pa": "505",
-                    "pd": "-60"
+                    "pd": "-60",
+                    "pld": "4"
                 }
             ],
             "East group C": [
                 {
                     "rank": "1",
                     "team": "Atlanta Hawks",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "485",
                     "pa": "470",
-                    "pd": "+15"
+                    "pd": "+15",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Boston Celtics",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "482",
                     "pa": "459",
-                    "pd": "+23"
+                    "pd": "+23",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Cleveland Cavaliers",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "480",
                     "pa": "450",
-                    "pd": "+30"
+                    "pd": "+30",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Chicago Bulls",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "518",
                     "pa": "512",
-                    "pd": "+6"
+                    "pd": "+6",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "Washington Wizards",
-                    "pld": "4",
                     "w": "0",
                     "l": "4",
                     "pf": "408",
                     "pa": "482",
-                    "pd": "-74"
+                    "pd": "-74",
+                    "pld": "4"
                 }
             ],
             "West group A": [
                 {
                     "rank": "1",
                     "team": "Houston Rockets",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "454",
                     "pa": "414",
-                    "pd": "+40"
+                    "pd": "+40",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Los Angeles Clippers",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "427",
                     "pa": "411",
-                    "pd": "+16"
+                    "pd": "+16",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Minnesota Timberwolves",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "418",
                     "pa": "431",
-                    "pd": "-13"
+                    "pd": "-13",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Portland Trail Blazers",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "430",
                     "pa": "457",
-                    "pd": "-27"
+                    "pd": "-27",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "Sacramento Kings",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "429",
                     "pa": "445",
-                    "pd": "-16"
+                    "pd": "-16",
+                    "pld": "4"
                 }
             ],
             "West group B": [
                 {
                     "rank": "1",
                     "team": "Oklahoma City Thunder",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "437",
                     "pa": "392",
-                    "pd": "+45"
+                    "pd": "+45",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Phoenix Suns",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "434",
                     "pa": "404",
-                    "pd": "+30"
+                    "pd": "+30",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Los Angeles Lakers",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "437",
                     "pa": "461",
-                    "pd": "-24"
+                    "pd": "-24",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "San Antonio Spurs",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "446",
                     "pa": "443",
-                    "pd": "+3"
+                    "pd": "+3",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "Utah Jazz",
-                    "pld": "4",
                     "w": "0",
                     "l": "4",
                     "pf": "451",
                     "pa": "505",
-                    "pd": "-54"
+                    "pd": "-54",
+                    "pld": "4"
                 }
             ],
             "West group C": [
                 {
                     "rank": "1",
                     "team": "Golden State Warriors",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "470",
                     "pa": "462",
-                    "pd": "+8"
+                    "pd": "+8",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Dallas Mavericks",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "493",
                     "pa": "447",
-                    "pd": "+46"
+                    "pd": "+46",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Denver Nuggets",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "455",
                     "pa": "449",
-                    "pd": "+6"
+                    "pd": "+6",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Memphis Grizzlies",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "464",
                     "pa": "475",
-                    "pd": "-11"
+                    "pd": "-11",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "New Orleans Pelicans",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "409",
                     "pa": "458",
-                    "pd": "-49"
+                    "pd": "-49",
+                    "pld": "4"
                 }
             ],
             "Eastern Conference": [
                 {
                     "rank": "1",
                     "team": "Orlando Magic",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "441",
                     "pa": "396",
-                    "pd": "+45"
+                    "pd": "+45",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Boston Celtics",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "482",
                     "pa": "459",
-                    "pd": "+23"
+                    "pd": "+23",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Detroit Pistons",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "447",
                     "pa": "440",
-                    "pd": "+7"
+                    "pd": "+7",
+                    "pld": "4"
                 }
             ],
             "Western Conference": [
                 {
                     "rank": "1",
                     "team": "Dallas Mavericks",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "493",
                     "pa": "447",
-                    "pd": "+46"
+                    "pd": "+46",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Phoenix Suns",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "434",
                     "pa": "404",
-                    "pd": "+30"
+                    "pd": "+30",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Los Angeles Clippers",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "427",
                     "pa": "411",
-                    "pd": "+16"
+                    "pd": "+16",
+                    "pld": "4"
                 }
             ],
-            "Unknown Group": [
+            "Unknown": [
                 {
                     "rank": "1",
                     "team": "Milwaukee Bucks",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "462",
                     "pa": "412",
-                    "pd": "+50"
+                    "pd": "+50",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "New York Knicks",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "455",
                     "pa": "425",
-                    "pd": "+30"
+                    "pd": "+30",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Atlanta Hawks",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "485",
                     "pa": "470",
-                    "pd": "+15"
+                    "pd": "+15",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Orlando Magic",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "441",
                     "pa": "396",
-                    "pd": "+45"
+                    "pd": "+45",
+                    "pld": "4"
                 },
                 {
                     "rank": "1",
                     "team": "Oklahoma City Thunder",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "437",
                     "pa": "392",
-                    "pd": "+45"
+                    "pd": "+45",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Houston Rockets",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "454",
                     "pa": "414",
-                    "pd": "+40"
+                    "pd": "+40",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Golden State Warriors",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "470",
                     "pa": "462",
-                    "pd": "+8"
+                    "pd": "+8",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Dallas Mavericks",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "493",
                     "pa": "447",
-                    "pd": "+46"
+                    "pd": "+46",
+                    "pld": "4"
                 }
             ]
+        },
+        "wildcards": {
+            "eastern_conference": [],
+            "western_conference": []
         },
         "bracket": [
             {
@@ -1135,465 +1141,469 @@
                 "is_mvp": false
             }
         ],
-        "groups": {
+        "group_standings": {
             "East group A": [
                 {
                     "rank": "1",
                     "team": "Toronto Raptors",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "458",
                     "pa": "403",
-                    "pd": "+55"
+                    "pd": "+55",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Atlanta Hawks",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "468",
                     "pa": "472",
-                    "pd": "-4"
+                    "pd": "-4",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Cleveland Cavaliers",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "492",
                     "pa": "466",
-                    "pd": "+26"
+                    "pd": "+26",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Indiana Pacers",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "431",
                     "pa": "431",
-                    "pd": "0"
+                    "pd": "0",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "Washington Wizards",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "443",
                     "pa": "520",
-                    "pd": "-77"
+                    "pd": "-77",
+                    "pld": "4"
                 }
             ],
             "East group B": [
                 {
                     "rank": "1",
                     "team": "Orlando Magic",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "484",
                     "pa": "420",
-                    "pd": "+64"
+                    "pd": "+64",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Boston Celtics",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "441",
                     "pa": "458",
-                    "pd": "-17"
+                    "pd": "-17",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Detroit Pistons",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "462",
                     "pa": "441",
-                    "pd": "+21"
+                    "pd": "+21",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Philadelphia 76ers",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "431",
                     "pa": "470",
-                    "pd": "-39"
+                    "pd": "-39",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "Brooklyn Nets",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "421",
                     "pa": "450",
-                    "pd": "-29"
+                    "pd": "-29",
+                    "pld": "4"
                 }
             ],
             "East group C": [
                 {
                     "rank": "1",
                     "team": "New York Knicks",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "512",
                     "pa": "477",
-                    "pd": "+35"
+                    "pd": "+35",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Miami Heat",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "507",
                     "pa": "458",
-                    "pd": "+49"
+                    "pd": "+49",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Milwaukee Bucks",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "467",
                     "pa": "463",
-                    "pd": "+4"
+                    "pd": "+4",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Charlotte Hornets",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "461",
                     "pa": "500",
-                    "pd": "-39"
+                    "pd": "-39",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "Chicago Bulls",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "468",
                     "pa": "517",
-                    "pd": "-49"
+                    "pd": "-49",
+                    "pld": "4"
                 }
             ],
             "West group A": [
                 {
                     "rank": "1",
                     "team": "Oklahoma City Thunder",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "512",
                     "pa": "437",
-                    "pd": "+75"
+                    "pd": "+75",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Phoenix Suns",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "463",
                     "pa": "432",
-                    "pd": "+31"
+                    "pd": "+31",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Minnesota Timberwolves",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "479",
                     "pa": "434",
-                    "pd": "+45"
+                    "pd": "+45",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Utah Jazz",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "433",
                     "pa": "518",
-                    "pd": "-85"
+                    "pd": "-85",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "Sacramento Kings",
-                    "pld": "4",
                     "w": "0",
                     "l": "4",
                     "pf": "430",
                     "pa": "496",
-                    "pd": "-66"
+                    "pd": "-66",
+                    "pld": "4"
                 }
             ],
             "West group B": [
                 {
                     "rank": "1",
                     "team": "Los Angeles Lakers",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "499",
                     "pa": "453",
-                    "pd": "+46"
+                    "pd": "+46",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Memphis Grizzlies",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "464",
                     "pa": "450",
-                    "pd": "+14"
+                    "pd": "+14",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Los Angeles Clippers",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "465",
                     "pa": "485",
-                    "pd": "-20"
+                    "pd": "-20",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Dallas Mavericks",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "455",
                     "pa": "476",
-                    "pd": "-21"
+                    "pd": "-21",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "New Orleans Pelicans",
-                    "pld": "4",
                     "w": "0",
                     "l": "4",
                     "pf": "465",
                     "pa": "484",
-                    "pd": "-19"
+                    "pd": "-19",
+                    "pld": "4"
                 }
             ],
             "West group C": [
                 {
                     "rank": "1",
                     "team": "San Antonio Spurs",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "483",
                     "pa": "457",
-                    "pd": "+26"
+                    "pd": "+26",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Denver Nuggets",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "484",
                     "pa": "461",
-                    "pd": "+23"
+                    "pd": "+23",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Houston Rockets",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "463",
                     "pa": "449",
-                    "pd": "+14"
+                    "pd": "+14",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Portland Trail Blazers",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "454",
                     "pa": "485",
-                    "pd": "-31"
+                    "pd": "-31",
+                    "pld": "4"
                 },
                 {
                     "rank": "5",
                     "team": "Golden State Warriors",
-                    "pld": "4",
                     "w": "1",
                     "l": "3",
                     "pf": "436",
                     "pa": "468",
-                    "pd": "-32"
+                    "pd": "-32",
+                    "pld": "4"
                 }
             ],
             "Eastern Conference": [
                 {
                     "rank": "1",
                     "team": "Miami Heat",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "507",
                     "pa": "458",
-                    "pd": "+49"
+                    "pd": "+49",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Atlanta Hawks",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "468",
                     "pa": "472",
-                    "pd": "-4"
+                    "pd": "-4",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Boston Celtics",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "441",
                     "pa": "458",
-                    "pd": "-17"
+                    "pd": "-17",
+                    "pld": "4"
                 }
             ],
             "Western Conference": [
                 {
                     "rank": "1",
                     "team": "Phoenix Suns",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "463",
                     "pa": "432",
-                    "pd": "+31"
+                    "pd": "+31",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Memphis Grizzlies",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "464",
                     "pa": "450",
-                    "pd": "+14"
+                    "pd": "+14",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "Denver Nuggets",
-                    "pld": "4",
                     "w": "2",
                     "l": "2",
                     "pf": "484",
                     "pa": "461",
-                    "pd": "+23"
+                    "pd": "+23",
+                    "pld": "4"
                 }
             ],
-            "Unknown Group": [
+            "Unknown": [
                 {
                     "rank": "1",
                     "team": "Orlando Magic",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "484",
                     "pa": "420",
-                    "pd": "+64"
+                    "pd": "+64",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Toronto Raptors",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "458",
                     "pa": "403",
-                    "pd": "+55"
+                    "pd": "+55",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "New York Knicks",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "512",
                     "pa": "477",
-                    "pd": "+35"
+                    "pd": "+35",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Miami Heat",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "507",
                     "pa": "458",
-                    "pd": "+49"
+                    "pd": "+49",
+                    "pld": "4"
                 },
                 {
                     "rank": "1",
                     "team": "Oklahoma City Thunder",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "512",
                     "pa": "437",
-                    "pd": "+75"
+                    "pd": "+75",
+                    "pld": "4"
                 },
                 {
                     "rank": "2",
                     "team": "Los Angeles Lakers",
-                    "pld": "4",
                     "w": "4",
                     "l": "0",
                     "pf": "499",
                     "pa": "453",
-                    "pd": "+46"
+                    "pd": "+46",
+                    "pld": "4"
                 },
                 {
                     "rank": "3",
                     "team": "San Antonio Spurs",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "483",
                     "pa": "457",
-                    "pd": "+26"
+                    "pd": "+26",
+                    "pld": "4"
                 },
                 {
                     "rank": "4",
                     "team": "Phoenix Suns",
-                    "pld": "4",
                     "w": "3",
                     "l": "1",
                     "pf": "463",
                     "pa": "432",
-                    "pd": "+31"
+                    "pd": "+31",
+                    "pld": "4"
                 }
             ]
+        },
+        "wildcards": {
+            "eastern_conference": [],
+            "western_conference": []
         },
         "bracket": [
             {
