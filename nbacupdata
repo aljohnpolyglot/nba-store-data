@@ -1527,7 +1527,54 @@
         ]
       }
     ],
-    "bracket": "QuarterfinalsSemifinalsChampionship game December 5 – Milwaukee, WI 1Milwaukee146 December 7 – Las Vegas, NV 4New York122 1Milwaukee119 December 4 – Indianapolis, IN 2Indiana128 2Indiana122 December 9 – Las Vegas, NV 3Boston112 E2Indiana109 December 5 – Los Angeles, CA W1LA Lakers123 1LA Lakers106 December 7 – Las Vegas, NV 4Phoenix103 1LA Lakers133 December 4 – Sacramento, CA 3New Orleans89 2Sacramento117 3New Orleans127"
+    "bracket": {
+      "quarterfinals": [
+        {
+          "team1": "1Milwaukee",
+          "team2": "4New York",
+          "score1": 146,
+          "score2": 122
+        },
+        {
+          "team1": "4New York",
+          "team2": "1Milwaukee",
+          "score1": 122,
+          "score2": 119
+        },
+        {
+          "team1": "1Milwaukee",
+          "team2": "2Indiana",
+          "score1": 119,
+          "score2": 128
+        },
+        {
+          "team1": "2Indiana",
+          "team2": "2Indiana",
+          "score1": 128,
+          "score2": 122
+        }
+      ],
+      "semifinals": [
+        {
+          "team1": "2Indiana",
+          "team2": "3Boston",
+          "score1": 122,
+          "score2": 112
+        },
+        {
+          "team1": "3Boston",
+          "team2": "E2Indiana",
+          "score1": 112,
+          "score2": 109
+        }
+      ],
+      "final": {
+        "team1": "E2Indiana",
+        "team2": "W1LA Lakers",
+        "score1": 109,
+        "score2": 123
+      }
+    }
   },
   {
     "season": "2024_NBA_Cup",
@@ -2825,7 +2872,54 @@
         ]
       }
     ],
-    "bracket": "QuarterfinalsSemifinalsChampionship game December 10 – Milwaukee, WI 1Milwaukee114 December 14 – Las Vegas, NV 4Orlando109 1Milwaukee110 December 11 – New York, NY 3Atlanta102 2New York100 December 17 – Las Vegas, NV 3Atlanta108 E1 Milwaukee97 December 10 – Oklahoma City, OK W1 Oklahoma City81 1Oklahoma City118 December 14 – Las Vegas, NV 4Dallas104 1Oklahoma City111 December 11 – Houston, TX 2Houston96 2Houston91 3Golden State90"
+    "bracket": {
+      "quarterfinals": [
+        {
+          "team1": "1Milwaukee",
+          "team2": "4Orlando",
+          "score1": 114,
+          "score2": 109
+        },
+        {
+          "team1": "4Orlando",
+          "team2": "1Milwaukee",
+          "score1": 109,
+          "score2": 110
+        },
+        {
+          "team1": "1Milwaukee",
+          "team2": "3Atlanta",
+          "score1": 110,
+          "score2": 102
+        },
+        {
+          "team1": "3Atlanta",
+          "team2": "2New York",
+          "score1": 102,
+          "score2": 100
+        }
+      ],
+      "semifinals": [
+        {
+          "team1": "2New York",
+          "team2": "3Atlanta",
+          "score1": 100,
+          "score2": 108
+        },
+        {
+          "team1": "3Atlanta",
+          "team2": "E1 Milwaukee",
+          "score1": 108,
+          "score2": 97
+        }
+      ],
+      "final": {
+        "team1": "E1 Milwaukee",
+        "team2": "W1 Oklahoma City",
+        "score1": 97,
+        "score2": 81
+      }
+    }
   },
   {
     "season": "2025_NBA_Cup",
@@ -4197,6 +4291,53 @@
         ]
       }
     ],
-    "bracket": "QuarterfinalsSemifinalsChampionship game December 9 – Orlando, FL 1Orlando117 December 13 – Las Vegas, NV 4Miami108 1Orlando120 December 9 – Toronto, ON 3New York132 2Toronto101 December 16 – Las Vegas, NV 3New York117 3New York124 December 10 – Oklahoma City, OK 3San Antonio113 1Oklahoma City138 December 13 – Las Vegas, NV 4Phoenix89 1Oklahoma City109 December 10 – Los Angeles, CA 3San Antonio111 2LA Lakers119 3San Antonio132"
+    "bracket": {
+      "quarterfinals": [
+        {
+          "team1": "1Orlando",
+          "team2": "4Miami",
+          "score1": 117,
+          "score2": 108
+        },
+        {
+          "team1": "4Miami",
+          "team2": "1Orlando",
+          "score1": 108,
+          "score2": 120
+        },
+        {
+          "team1": "1Orlando",
+          "team2": "3New York",
+          "score1": 120,
+          "score2": 132
+        },
+        {
+          "team1": "3New York",
+          "team2": "2Toronto",
+          "score1": 132,
+          "score2": 101
+        }
+      ],
+      "semifinals": [
+        {
+          "team1": "2Toronto",
+          "team2": "3New York",
+          "score1": 101,
+          "score2": 117
+        },
+        {
+          "team1": "3New York",
+          "team2": "3New York",
+          "score1": 117,
+          "score2": 124
+        }
+      ],
+      "final": {
+        "team1": "3New York",
+        "team2": "3San Antonio",
+        "score1": 124,
+        "score2": 113
+      }
+    }
   }
 ]
