@@ -1,1681 +1,4202 @@
 [
-    {
-        "year": "2023",
-        "summary": {
-            "location": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li\nLocal NBA cities (group stage and quarterfinals)\nLas Vegas Strip (semifinals and championship game)",
-            "date": "November 3 – December 9, 2023",
-            "venues": "Local NBA arenas (group stage and quarterfinals)\nT-Mobile Arena (semifinals and championship game)",
-            "teams": "30",
-            "purse": "See prize money",
-            "champions": "Los Angeles Lakers (1st title)",
-            "runner-up": "Indiana Pacers",
-            "mvp": "LeBron James (Los Angeles Lakers)"
-        },
-        "all_tournament_team": [
-            {
-                "pos": "G",
-                "player": "Tyrese Haliburton",
-                "team": "Indiana Pacers",
-                "is_mvp": false
-            },
-            {
-                "pos": "F",
-                "player": "Giannis Antetokounmpo",
-                "team": "Milwaukee Bucks",
-                "is_mvp": false
-            },
-            {
-                "pos": "F",
-                "player": "Kevin Durant",
-                "team": "Phoenix Suns",
-                "is_mvp": false
-            },
-            {
-                "pos": "F",
-                "player": "LeBron James",
-                "team": "Los Angeles Lakers",
-                "is_mvp": true
-            },
-            {
-                "pos": "C",
-                "player": "Anthony Davis",
-                "team": "Los Angeles Lakers",
-                "is_mvp": false
-            }
-        ],
-        "group_standings": {
-            "East group A": [
-                {
-                    "rank": "1",
-                    "team": "Indiana Pacers",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "546",
-                    "pa": "507",
-                    "pd": "+39",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Cleveland Cavaliers",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "474",
-                    "pa": "445",
-                    "pd": "+29",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Philadelphia 76ers",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "485",
-                    "pa": "476",
-                    "pd": "+9",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Atlanta Hawks",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "499",
-                    "pa": "531",
-                    "pd": "-32",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "Detroit Pistons",
-                    "w": "0",
-                    "l": "4",
-                    "pf": "439",
-                    "pa": "484",
-                    "pd": "-45",
-                    "pld": "4"
-                }
-            ],
-            "East group B": [
-                {
-                    "rank": "1",
-                    "team": "Milwaukee Bucks",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "502",
-                    "pa": "456",
-                    "pd": "+46",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "New York Knicks",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "440",
-                    "pa": "398",
-                    "pd": "+42",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Miami Heat",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "454",
-                    "pa": "450",
-                    "pd": "+4",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Charlotte Hornets",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "419",
-                    "pa": "473",
-                    "pd": "-54",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "Washington Wizards",
-                    "w": "0",
-                    "l": "4",
-                    "pf": "458",
-                    "pa": "496",
-                    "pd": "-38",
-                    "pld": "4"
-                }
-            ],
-            "East group C": [
-                {
-                    "rank": "1",
-                    "team": "Boston Celtics",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "449",
-                    "pa": "422",
-                    "pd": "+27",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Orlando Magic",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "446",
-                    "pa": "424",
-                    "pd": "+22",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Brooklyn Nets",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "455",
-                    "pa": "435",
-                    "pd": "+20",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Toronto Raptors",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "436",
-                    "pa": "457",
-                    "pd": "-21",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "Chicago Bulls",
-                    "w": "0",
-                    "l": "4",
-                    "pf": "409",
-                    "pa": "457",
-                    "pd": "-48",
-                    "pld": "4"
-                }
-            ],
-            "West group A": [
-                {
-                    "rank": "1",
-                    "team": "Los Angeles Lakers",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "494",
-                    "pa": "420",
-                    "pd": "+74",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Phoenix Suns",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "480",
-                    "pa": "446",
-                    "pd": "+34",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Utah Jazz",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "469",
-                    "pa": "482",
-                    "pd": "-13",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Portland Trail Blazers",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "416",
-                    "pa": "455",
-                    "pd": "-39",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "Memphis Grizzlies",
-                    "w": "0",
-                    "l": "4",
-                    "pf": "430",
-                    "pa": "486",
-                    "pd": "-56",
-                    "pld": "4"
-                }
-            ],
-            "West group B": [
-                {
-                    "rank": "1",
-                    "team": "New Orleans Pelicans",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "463",
-                    "pa": "430",
-                    "pd": "+33",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Houston Rockets",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "424",
-                    "pa": "414",
-                    "pd": "+10",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Dallas Mavericks",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "489",
-                    "pa": "497",
-                    "pd": "-8",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Denver Nuggets",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "432",
-                    "pa": "442",
-                    "pd": "-10",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "Los Angeles Clippers",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "446",
-                    "pa": "471",
-                    "pd": "-25",
-                    "pld": "4"
-                }
-            ],
-            "West group C": [
-                {
-                    "rank": "1",
-                    "team": "Sacramento Kings",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "482",
-                    "pa": "452",
-                    "pd": "+30",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Minnesota Timberwolves",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "438",
-                    "pa": "438",
-                    "pd": "0",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Golden State Warriors",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "483",
-                    "pa": "479",
-                    "pd": "+4",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Oklahoma City Thunder",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "463",
-                    "pa": "439",
-                    "pd": "+24",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "San Antonio Spurs",
-                    "w": "0",
-                    "l": "4",
-                    "pf": "429",
-                    "pa": "487",
-                    "pd": "-58",
-                    "pld": "4"
-                }
-            ],
-            "Unknown": [
-                {
-                    "rank": "1",
-                    "team": "Milwaukee Bucks",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "502",
-                    "pa": "456",
-                    "pd": "+46",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Indiana Pacers",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "546",
-                    "pa": "507",
-                    "pd": "+39",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Boston Celtics",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "449",
-                    "pa": "422",
-                    "pd": "+27",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "New York Knicks",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "440",
-                    "pa": "398",
-                    "pd": "+42",
-                    "pld": "4"
-                },
-                {
-                    "rank": "1",
-                    "team": "Los Angeles Lakers",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "494",
-                    "pa": "420",
-                    "pd": "+74",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Sacramento Kings",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "482",
-                    "pa": "452",
-                    "pd": "+30",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "New Orleans Pelicans",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "463",
-                    "pa": "430",
-                    "pd": "+33",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Phoenix Suns",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "480",
-                    "pa": "446",
-                    "pd": "+34",
-                    "pld": "4"
-                }
-            ]
-        },
-        "wildcards": {
-            "eastern_conference": [],
-            "western_conference": []
-        },
-        "bracket": [
-            {
-                "seed": "1",
-                "team": "Milwaukee",
-                "score": 146
-            },
-            {
-                "seed": "4",
-                "team": "New York",
-                "score": 122
-            },
-            {
-                "seed": "1",
-                "team": "Milwaukee",
-                "score": 119
-            },
-            {
-                "seed": "2",
-                "team": "Indiana",
-                "score": 128
-            },
-            {
-                "seed": "2",
-                "team": "Indiana",
-                "score": 122
-            },
-            {
-                "seed": "3",
-                "team": "Boston",
-                "score": 112
-            },
-            {
-                "seed": "E2",
-                "team": "Indiana",
-                "score": 109
-            },
-            {
-                "seed": "W1",
-                "team": "LA Lakers",
-                "score": 123
-            },
-            {
-                "seed": "1",
-                "team": "LA Lakers",
-                "score": 106
-            },
-            {
-                "seed": "4",
-                "team": "Phoenix",
-                "score": 103
-            },
-            {
-                "seed": "1",
-                "team": "LA Lakers",
-                "score": 133
-            },
-            {
-                "seed": "3",
-                "team": "New Orleans",
-                "score": 89
-            },
-            {
-                "seed": "2",
-                "team": "Sacramento",
-                "score": 117
-            },
-            {
-                "seed": "3",
-                "team": "New Orleans",
-                "score": 127
-            }
-        ]
+  {
+    "season": "2023_NBA_In-Season_Tournament",
+    "url": "https://en.wikipedia.org/wiki/2023_NBA_In-Season_Tournament",
+    "infobox": {
+      "Location": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0} Local NBA cities (group stage and quarterfinals) Las Vegas Strip (semifinals and championship game)",
+      "Date": "November 3 – December 9, 2023",
+      "Venues": "Local NBA arenas (group stage and quarterfinals) T-Mobile Arena (semifinals and championship game)",
+      "Teams": "30",
+      "Purse": "See prize money",
+      "Champions": "Los Angeles Lakers (1st title)",
+      "Runner-up": "Indiana Pacers",
+      "MVP": "LeBron James (Los Angeles Lakers)"
     },
-    {
-        "year": "2024",
-        "summary": {
-            "location": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li\nLocal NBA cities (group stage and quarterfinals)\nLas Vegas Strip (semifinals and championship game)",
-            "date": "November 12 – December 17, 2024",
-            "venues": "Local NBA arenas (group stage and quarterfinals)\nT-Mobile Arena (semifinals and championship game)",
-            "teams": "30",
-            "purse": "See prize money",
-            "champions": "Milwaukee Bucks (1st title)",
-            "runner-up": "Oklahoma City Thunder",
-            "mvp": "Giannis Antetokounmpo (Milwaukee Bucks)"
-        },
-        "all_tournament_team": [
-            {
-                "pos": "G",
-                "player": "Trae Young",
-                "team": "Atlanta Hawks",
-                "is_mvp": false
-            },
-            {
-                "pos": "G",
-                "player": "Shai Gilgeous-Alexander",
-                "team": "Oklahoma City Thunder",
-                "is_mvp": false
-            },
-            {
-                "pos": "G",
-                "player": "Damian Lillard",
-                "team": "Milwaukee Bucks",
-                "is_mvp": false
-            },
-            {
-                "pos": "F",
-                "player": "Giannis Antetokounmpo",
-                "team": "Milwaukee Bucks",
-                "is_mvp": true
-            },
-            {
-                "pos": "C",
-                "player": "Alperen Şengün",
-                "team": "Houston Rockets",
-                "is_mvp": false
-            }
+    "tables": [
+      {
+        "caption": "Eastern Conference in the 2023 NBA In-Season Tournament",
+        "headers": [
+          "Pot",
+          "#",
+          "Team",
+          "Record"
         ],
-        "group_standings": {
-            "East group A": [
-                {
-                    "rank": "1",
-                    "team": "New York Knicks",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "455",
-                    "pa": "425",
-                    "pd": "+30",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Orlando Magic",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "441",
-                    "pa": "396",
-                    "pd": "+45",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Philadelphia 76ers",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "408",
-                    "pa": "411",
-                    "pd": "-3",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Brooklyn Nets",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "436",
-                    "pa": "475",
-                    "pd": "-39",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "Charlotte Hornets",
-                    "w": "0",
-                    "l": "4",
-                    "pf": "406",
-                    "pa": "439",
-                    "pd": "-33",
-                    "pld": "4"
-                }
-            ],
-            "East group B": [
-                {
-                    "rank": "1",
-                    "team": "Milwaukee Bucks",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "462",
-                    "pa": "412",
-                    "pd": "+50",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Detroit Pistons",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "447",
-                    "pa": "440",
-                    "pd": "+7",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Miami Heat",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "459",
-                    "pa": "439",
-                    "pd": "+20",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Toronto Raptors",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "413",
-                    "pa": "430",
-                    "pd": "-17",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "Indiana Pacers",
-                    "w": "0",
-                    "l": "4",
-                    "pf": "445",
-                    "pa": "505",
-                    "pd": "-60",
-                    "pld": "4"
-                }
-            ],
-            "East group C": [
-                {
-                    "rank": "1",
-                    "team": "Atlanta Hawks",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "485",
-                    "pa": "470",
-                    "pd": "+15",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Boston Celtics",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "482",
-                    "pa": "459",
-                    "pd": "+23",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Cleveland Cavaliers",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "480",
-                    "pa": "450",
-                    "pd": "+30",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Chicago Bulls",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "518",
-                    "pa": "512",
-                    "pd": "+6",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "Washington Wizards",
-                    "w": "0",
-                    "l": "4",
-                    "pf": "408",
-                    "pa": "482",
-                    "pd": "-74",
-                    "pld": "4"
-                }
-            ],
-            "West group A": [
-                {
-                    "rank": "1",
-                    "team": "Houston Rockets",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "454",
-                    "pa": "414",
-                    "pd": "+40",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Los Angeles Clippers",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "427",
-                    "pa": "411",
-                    "pd": "+16",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Minnesota Timberwolves",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "418",
-                    "pa": "431",
-                    "pd": "-13",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Portland Trail Blazers",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "430",
-                    "pa": "457",
-                    "pd": "-27",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "Sacramento Kings",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "429",
-                    "pa": "445",
-                    "pd": "-16",
-                    "pld": "4"
-                }
-            ],
-            "West group B": [
-                {
-                    "rank": "1",
-                    "team": "Oklahoma City Thunder",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "437",
-                    "pa": "392",
-                    "pd": "+45",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Phoenix Suns",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "434",
-                    "pa": "404",
-                    "pd": "+30",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Los Angeles Lakers",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "437",
-                    "pa": "461",
-                    "pd": "-24",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "San Antonio Spurs",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "446",
-                    "pa": "443",
-                    "pd": "+3",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "Utah Jazz",
-                    "w": "0",
-                    "l": "4",
-                    "pf": "451",
-                    "pa": "505",
-                    "pd": "-54",
-                    "pld": "4"
-                }
-            ],
-            "West group C": [
-                {
-                    "rank": "1",
-                    "team": "Golden State Warriors",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "470",
-                    "pa": "462",
-                    "pd": "+8",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Dallas Mavericks",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "493",
-                    "pa": "447",
-                    "pd": "+46",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Denver Nuggets",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "455",
-                    "pa": "449",
-                    "pd": "+6",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Memphis Grizzlies",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "464",
-                    "pa": "475",
-                    "pd": "-11",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "New Orleans Pelicans",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "409",
-                    "pa": "458",
-                    "pd": "-49",
-                    "pld": "4"
-                }
-            ],
-            "Eastern Conference": [
-                {
-                    "rank": "1",
-                    "team": "Orlando Magic",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "441",
-                    "pa": "396",
-                    "pd": "+45",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Boston Celtics",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "482",
-                    "pa": "459",
-                    "pd": "+23",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Detroit Pistons",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "447",
-                    "pa": "440",
-                    "pd": "+7",
-                    "pld": "4"
-                }
-            ],
-            "Western Conference": [
-                {
-                    "rank": "1",
-                    "team": "Dallas Mavericks",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "493",
-                    "pa": "447",
-                    "pd": "+46",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Phoenix Suns",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "434",
-                    "pa": "404",
-                    "pd": "+30",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Los Angeles Clippers",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "427",
-                    "pa": "411",
-                    "pd": "+16",
-                    "pld": "4"
-                }
-            ],
-            "Unknown": [
-                {
-                    "rank": "1",
-                    "team": "Milwaukee Bucks",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "462",
-                    "pa": "412",
-                    "pd": "+50",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "New York Knicks",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "455",
-                    "pa": "425",
-                    "pd": "+30",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Atlanta Hawks",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "485",
-                    "pa": "470",
-                    "pd": "+15",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Orlando Magic",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "441",
-                    "pa": "396",
-                    "pd": "+45",
-                    "pld": "4"
-                },
-                {
-                    "rank": "1",
-                    "team": "Oklahoma City Thunder",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "437",
-                    "pa": "392",
-                    "pd": "+45",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Houston Rockets",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "454",
-                    "pa": "414",
-                    "pd": "+40",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Golden State Warriors",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "470",
-                    "pa": "462",
-                    "pd": "+8",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Dallas Mavericks",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "493",
-                    "pa": "447",
-                    "pd": "+46",
-                    "pld": "4"
-                }
-            ]
-        },
-        "wildcards": {
-            "eastern_conference": [],
-            "western_conference": []
-        },
-        "bracket": [
-            {
-                "seed": "1",
-                "team": "Milwaukee",
-                "score": 114
-            },
-            {
-                "seed": "4",
-                "team": "Orlando",
-                "score": 109
-            },
-            {
-                "seed": "1",
-                "team": "Milwaukee",
-                "score": 110
-            },
-            {
-                "seed": "3",
-                "team": "Atlanta",
-                "score": 102
-            },
-            {
-                "seed": "2",
-                "team": "New York",
-                "score": 100
-            },
-            {
-                "seed": "3",
-                "team": "Atlanta",
-                "score": 108
-            },
-            {
-                "seed": "E1",
-                "team": "Milwaukee",
-                "score": 97
-            },
-            {
-                "seed": "W1",
-                "team": "Oklahoma City",
-                "score": 81
-            },
-            {
-                "seed": "1",
-                "team": "Oklahoma City",
-                "score": 118
-            },
-            {
-                "seed": "4",
-                "team": "Dallas",
-                "score": 104
-            },
-            {
-                "seed": "1",
-                "team": "Oklahoma City",
-                "score": 111
-            },
-            {
-                "seed": "2",
-                "team": "Houston",
-                "score": 96
-            },
-            {
-                "seed": "2",
-                "team": "Houston",
-                "score": 91
-            },
-            {
-                "seed": "3",
-                "team": "Golden State",
-                "score": 90
-            }
+        "rows": [
+          [
+            "W",
+            "L"
+          ],
+          [
+            "1",
+            "1",
+            "Milwaukee Bucks",
+            "58",
+            "24"
+          ],
+          [
+            "2",
+            "Boston Celtics",
+            "57",
+            "25"
+          ],
+          [
+            "3",
+            "Philadelphia 76ers",
+            "54",
+            "28"
+          ],
+          [
+            "2",
+            "4",
+            "Cleveland Cavaliers",
+            "51",
+            "31"
+          ],
+          [
+            "5",
+            "New York Knicks",
+            "47",
+            "35"
+          ],
+          [
+            "6",
+            "Brooklyn Nets",
+            "45",
+            "37"
+          ],
+          [
+            "3",
+            "7",
+            "Miami Heat",
+            "44",
+            "38"
+          ],
+          [
+            "8",
+            "Atlanta Hawks",
+            "41",
+            "41"
+          ],
+          [
+            "9",
+            "Toronto Raptors",
+            "41",
+            "41"
+          ],
+          [
+            "4",
+            "10",
+            "Chicago Bulls",
+            "40",
+            "42"
+          ],
+          [
+            "11",
+            "Indiana Pacers",
+            "35",
+            "47"
+          ],
+          [
+            "12",
+            "Washington Wizards",
+            "35",
+            "47"
+          ],
+          [
+            "5",
+            "13",
+            "Orlando Magic",
+            "34",
+            "48"
+          ],
+          [
+            "14",
+            "Charlotte Hornets",
+            "27",
+            "55"
+          ],
+          [
+            "15",
+            "Detroit Pistons",
+            "17",
+            "65"
+          ]
         ]
+      },
+      {
+        "caption": "Western Conference in the 2023 NBA In-Season Tournament",
+        "headers": [
+          "Pot",
+          "#",
+          "Team",
+          "Record"
+        ],
+        "rows": [
+          [
+            "W",
+            "L"
+          ],
+          [
+            "1",
+            "1",
+            "Denver Nuggets",
+            "53",
+            "29"
+          ],
+          [
+            "2",
+            "Memphis Grizzlies",
+            "51",
+            "31"
+          ],
+          [
+            "3",
+            "Sacramento Kings",
+            "48",
+            "34"
+          ],
+          [
+            "2",
+            "4",
+            "Phoenix Suns",
+            "45",
+            "37"
+          ],
+          [
+            "5",
+            "Los Angeles Clippers",
+            "44",
+            "38"
+          ],
+          [
+            "6",
+            "Golden State Warriors",
+            "44",
+            "38"
+          ],
+          [
+            "3",
+            "7",
+            "Los Angeles Lakers",
+            "43",
+            "39"
+          ],
+          [
+            "8",
+            "Minnesota Timberwolves",
+            "42",
+            "40"
+          ],
+          [
+            "9",
+            "New Orleans Pelicans",
+            "42",
+            "40"
+          ],
+          [
+            "4",
+            "10",
+            "Oklahoma City Thunder",
+            "40",
+            "42"
+          ],
+          [
+            "11",
+            "Dallas Mavericks",
+            "38",
+            "44"
+          ],
+          [
+            "12",
+            "Utah Jazz",
+            "37",
+            "45"
+          ],
+          [
+            "5",
+            "13",
+            "Portland Trail Blazers",
+            "33",
+            "49"
+          ],
+          [
+            "14",
+            "Houston Rockets",
+            "22",
+            "60"
+          ],
+          [
+            "15",
+            "San Antonio Spurs",
+            "22",
+            "60"
+          ]
+        ]
+      },
+      {
+        "caption": "Eastern Conference",
+        "headers": [
+          "Group A",
+          "Group B",
+          "Group C"
+        ],
+        "rows": [
+          [
+            "Philadelphia 76ers (3)Cleveland Cavaliers (4)Atlanta Hawks (8)Indiana Pacers (11)Detroit Pistons (15)",
+            "Milwaukee Bucks (1)New York Knicks (5)Miami Heat (7)Washington Wizards (12)Charlotte Hornets (14)",
+            "Boston Celtics (2)Brooklyn Nets (6)Toronto Raptors (9)Chicago Bulls (10)Orlando Magic (13)"
+          ]
+        ]
+      },
+      {
+        "caption": "Western Conference",
+        "headers": [
+          "Group A",
+          "Group B",
+          "Group C"
+        ],
+        "rows": [
+          [
+            "Memphis Grizzlies (2)Phoenix Suns (4)Los Angeles Lakers (7)Utah Jazz (12)Portland Trail Blazers (13)",
+            "Denver Nuggets (1)Los Angeles Clippers (5)New Orleans Pelicans (9)Dallas Mavericks (11)Houston Rockets (14)",
+            "Sacramento Kings (3)Golden State Warriors (6)Minnesota Timberwolves (8)Oklahoma City Thunder (10)San Antonio Spurs (15)"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification",
+          "",
+          "IND",
+          "CLE",
+          "PHI",
+          "ATL",
+          "DET"
+        ],
+        "rows": [
+          [
+            "1",
+            "Indiana Pacers",
+            "4",
+            "4",
+            "0",
+            "546",
+            "507",
+            "+39",
+            "Advance to knockout stage",
+            "",
+            "—",
+            "121–116",
+            "132–126",
+            "157–152",
+            "136–113"
+          ],
+          [
+            "2",
+            "Cleveland Cavaliers",
+            "4",
+            "3",
+            "1",
+            "474",
+            "445",
+            "+29",
+            "",
+            "",
+            "116–121",
+            "—",
+            "122–119 (OT)",
+            "128–105",
+            "108–100"
+          ],
+          [
+            "3",
+            "Philadelphia 76ers",
+            "4",
+            "2",
+            "2",
+            "485",
+            "476",
+            "+9",
+            "",
+            "126–132",
+            "119–122 (OT)",
+            "—",
+            "126–116",
+            "114–106"
+          ],
+          [
+            "4",
+            "Atlanta Hawks",
+            "4",
+            "1",
+            "3",
+            "499",
+            "531",
+            "−32",
+            "",
+            "152–157",
+            "105–128",
+            "116–126",
+            "—",
+            "126–120"
+          ],
+          [
+            "5",
+            "Detroit Pistons",
+            "4",
+            "0",
+            "4",
+            "439",
+            "484",
+            "−45",
+            "",
+            "113–136",
+            "100–108",
+            "106–114",
+            "120–126",
+            "—"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification",
+          "",
+          "MIL",
+          "NYK",
+          "MIA",
+          "CHA",
+          "WAS"
+        ],
+        "rows": [
+          [
+            "1",
+            "Milwaukee Bucks",
+            "4",
+            "4",
+            "0",
+            "502",
+            "456",
+            "+46",
+            "Advance to knockout stage",
+            "",
+            "—",
+            "110–105",
+            "131–124",
+            "130–99",
+            "131–128"
+          ],
+          [
+            "2",
+            "New York Knicks",
+            "4",
+            "3",
+            "1",
+            "440",
+            "398",
+            "+42",
+            "",
+            "105–110",
+            "—",
+            "100–98",
+            "115–91",
+            "120–99"
+          ],
+          [
+            "3",
+            "Miami Heat",
+            "4",
+            "2",
+            "2",
+            "454",
+            "450",
+            "+4",
+            "",
+            "",
+            "124–131",
+            "98–100",
+            "—",
+            "111–105",
+            "121–114"
+          ],
+          [
+            "4",
+            "Charlotte Hornets",
+            "4",
+            "1",
+            "3",
+            "419",
+            "473",
+            "−54",
+            "",
+            "99–130",
+            "91–115",
+            "105–111",
+            "—",
+            "124–117"
+          ],
+          [
+            "5",
+            "Washington Wizards",
+            "4",
+            "0",
+            "4",
+            "458",
+            "496",
+            "−38",
+            "",
+            "128–131",
+            "99–120",
+            "114–121",
+            "117–124",
+            "—"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification",
+          "",
+          "BOS",
+          "ORL",
+          "BKN",
+          "TOR",
+          "CHI"
+        ],
+        "rows": [
+          [
+            "1",
+            "Boston Celtics",
+            "4",
+            "3[a]",
+            "1",
+            "449",
+            "422",
+            "+27",
+            "Advance to knockout stage",
+            "",
+            "—",
+            "96–113",
+            "121–107",
+            "108–105",
+            "124–97"
+          ],
+          [
+            "2",
+            "Orlando Magic",
+            "4",
+            "3[a]",
+            "1",
+            "446",
+            "424",
+            "+22",
+            "",
+            "",
+            "113–96",
+            "—",
+            "104–124",
+            "126–107",
+            "103–97"
+          ],
+          [
+            "3",
+            "Brooklyn Nets",
+            "4",
+            "3[a]",
+            "1",
+            "455",
+            "435",
+            "+20",
+            "",
+            "107–121",
+            "124–104",
+            "—",
+            "115–103",
+            "109–107"
+          ],
+          [
+            "4",
+            "Toronto Raptors",
+            "4",
+            "1",
+            "3",
+            "436",
+            "457",
+            "−21",
+            "",
+            "105–108",
+            "107–126",
+            "103–115",
+            "—",
+            "121–108"
+          ],
+          [
+            "5",
+            "Chicago Bulls",
+            "4",
+            "0",
+            "4",
+            "409",
+            "457",
+            "−48",
+            "",
+            "97–124",
+            "97–103",
+            "107–109",
+            "108–121",
+            "—"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification",
+          "",
+          "LAL",
+          "PHX",
+          "UTA",
+          "POR",
+          "MEM"
+        ],
+        "rows": [
+          [
+            "1",
+            "Los Angeles Lakers",
+            "4",
+            "4",
+            "0",
+            "494",
+            "420",
+            "+74",
+            "Advance to knockout stage",
+            "",
+            "—",
+            "122–119",
+            "131–99",
+            "107–95",
+            "134–107"
+          ],
+          [
+            "2",
+            "Phoenix Suns",
+            "4",
+            "3",
+            "1",
+            "480",
+            "446",
+            "+34",
+            "",
+            "119–122",
+            "—",
+            "131–128",
+            "120–107",
+            "110–89"
+          ],
+          [
+            "3",
+            "Utah Jazz",
+            "4",
+            "2",
+            "2",
+            "469",
+            "482",
+            "−13",
+            "",
+            "",
+            "99–131",
+            "128–131",
+            "—",
+            "115–99",
+            "127–121"
+          ],
+          [
+            "4",
+            "Portland Trail Blazers",
+            "4",
+            "1",
+            "3",
+            "416",
+            "455",
+            "−39",
+            "",
+            "95–107",
+            "107–120",
+            "99–115",
+            "—",
+            "115–113 (OT)"
+          ],
+          [
+            "5",
+            "Memphis Grizzlies",
+            "4",
+            "0",
+            "4",
+            "430",
+            "486",
+            "−56",
+            "",
+            "107–134",
+            "89–110",
+            "121–127",
+            "113–115 (OT)",
+            "—"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification",
+          "",
+          "NOP",
+          "HOU",
+          "DAL",
+          "DEN",
+          "LAC"
+        ],
+        "rows": [
+          [
+            "1",
+            "New Orleans Pelicans",
+            "4",
+            "3",
+            "1",
+            "463",
+            "430",
+            "+33",
+            "Advance to knockout stage",
+            "",
+            "—",
+            "101–104",
+            "131–110",
+            "115–110",
+            "116–106"
+          ],
+          [
+            "2",
+            "Houston Rockets",
+            "4",
+            "2[a]",
+            "2",
+            "424",
+            "414",
+            "+10",
+            "",
+            "",
+            "104–101",
+            "—",
+            "115–121",
+            "105–86",
+            "100–106"
+          ],
+          [
+            "3",
+            "Dallas Mavericks",
+            "4",
+            "2[a]",
+            "2",
+            "489",
+            "497",
+            "−8",
+            "",
+            "110–131",
+            "121–115",
+            "—",
+            "114–125",
+            "144–126"
+          ],
+          [
+            "4",
+            "Denver Nuggets",
+            "4",
+            "2[a]",
+            "2",
+            "432",
+            "442",
+            "−10",
+            "",
+            "110–115",
+            "86–105",
+            "125–114",
+            "—",
+            "111–108"
+          ],
+          [
+            "5",
+            "Los Angeles Clippers",
+            "4",
+            "1",
+            "3",
+            "446",
+            "471",
+            "−25",
+            "",
+            "106–116",
+            "106–100",
+            "126–144",
+            "108–111",
+            "—"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification",
+          "",
+          "SAC",
+          "MIN",
+          "GSW",
+          "OKC",
+          "SAS"
+        ],
+        "rows": [
+          [
+            "1",
+            "Sacramento Kings",
+            "4",
+            "4",
+            "0",
+            "482",
+            "452",
+            "+30",
+            "Advance to knockout stage",
+            "",
+            "—",
+            "124–111",
+            "124–123",
+            "105–98",
+            "129–120"
+          ],
+          [
+            "2",
+            "Minnesota Timberwolves",
+            "4",
+            "3",
+            "1",
+            "438",
+            "438",
+            "0",
+            "",
+            "",
+            "111–124",
+            "—",
+            "104–101",
+            "106–103",
+            "117–110"
+          ],
+          [
+            "3",
+            "Golden State Warriors",
+            "4",
+            "2",
+            "2",
+            "483",
+            "479",
+            "+4",
+            "",
+            "123–124",
+            "101–104",
+            "—",
+            "141–139",
+            "118–112"
+          ],
+          [
+            "4",
+            "Oklahoma City Thunder",
+            "4",
+            "1",
+            "3",
+            "463",
+            "439",
+            "+24",
+            "",
+            "98–105",
+            "103–106",
+            "139–141",
+            "—",
+            "123–87"
+          ],
+          [
+            "5",
+            "San Antonio Spurs",
+            "4",
+            "0",
+            "4",
+            "429",
+            "487",
+            "−58",
+            "",
+            "120–129",
+            "110–117",
+            "112–118",
+            "87–123",
+            "—"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Grp",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "B",
+            "New York Knicks",
+            "4",
+            "3",
+            "1",
+            "440",
+            "398",
+            "+42",
+            "Advance to knockout stage"
+          ],
+          [
+            "2",
+            "A",
+            "Cleveland Cavaliers",
+            "4",
+            "3",
+            "1",
+            "474",
+            "445",
+            "+29",
+            ""
+          ],
+          [
+            "3",
+            "C",
+            "Orlando Magic",
+            "4",
+            "3",
+            "1",
+            "446",
+            "424",
+            "+22"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Grp",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "A",
+            "Phoenix Suns",
+            "4",
+            "3",
+            "1",
+            "480",
+            "446",
+            "+34",
+            "Advance to knockout stage"
+          ],
+          [
+            "2",
+            "C",
+            "Minnesota Timberwolves",
+            "4",
+            "3",
+            "1",
+            "438",
+            "438",
+            "0",
+            ""
+          ],
+          [
+            "3",
+            "B",
+            "Houston Rockets",
+            "4",
+            "2",
+            "2",
+            "424",
+            "414",
+            "+10"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD"
+        ],
+        "rows": [
+          [
+            "1",
+            "Milwaukee Bucks",
+            "4",
+            "4",
+            "0",
+            "502",
+            "456",
+            "+46"
+          ],
+          [
+            "2",
+            "Indiana Pacers",
+            "4",
+            "4",
+            "0",
+            "546",
+            "507",
+            "+39"
+          ],
+          [
+            "3",
+            "Boston Celtics",
+            "4",
+            "3",
+            "1",
+            "449",
+            "422",
+            "+27"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "4",
+            "New York Knicks",
+            "4",
+            "3",
+            "1",
+            "440",
+            "398",
+            "+42"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD"
+        ],
+        "rows": [
+          [
+            "1",
+            "Los Angeles Lakers",
+            "4",
+            "4",
+            "0",
+            "494",
+            "420",
+            "+74"
+          ],
+          [
+            "2",
+            "Sacramento Kings",
+            "4",
+            "4",
+            "0",
+            "482",
+            "452",
+            "+30"
+          ],
+          [
+            "3",
+            "New Orleans Pelicans",
+            "4",
+            "3",
+            "1",
+            "463",
+            "430",
+            "+33"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "4",
+            "Phoenix Suns",
+            "4",
+            "3",
+            "1",
+            "480",
+            "446",
+            "+34"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Starters:",
+          "Pts",
+          "Reb",
+          "Ast"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "G",
+            "0",
+            "Tyrese Haliburton",
+            "20",
+            "1",
+            "11"
+          ],
+          [
+            "G",
+            "11",
+            "Bruce Brown Jr.",
+            "4",
+            "2",
+            "1"
+          ],
+          [
+            "F",
+            "7",
+            "Buddy Hield",
+            "8",
+            "5",
+            "4"
+          ],
+          [
+            "F",
+            "1",
+            "Obi Toppin",
+            "13",
+            "2",
+            "0"
+          ],
+          [
+            "C",
+            "33",
+            "Myles Turner",
+            "10",
+            "7",
+            "1"
+          ],
+          [
+            "Reserves:",
+            "",
+            "",
+            ""
+          ],
+          [
+            "G/F",
+            "00",
+            "Bennedict Mathurin",
+            "20",
+            "2",
+            "0"
+          ],
+          [
+            "F",
+            "22",
+            "Isaiah Jackson",
+            "10",
+            "5",
+            "0"
+          ],
+          [
+            "G/F",
+            "23",
+            "Aaron Nesmith",
+            "15",
+            "3",
+            "1"
+          ],
+          [
+            "G",
+            "9",
+            "T. J. McConnell",
+            "8",
+            "4",
+            "9"
+          ],
+          [
+            "F",
+            "5",
+            "Jarace Walker",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "G",
+            "21",
+            "Isaiah Wong",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "G/F",
+            "10",
+            "Kendall Brown",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "G",
+            "26",
+            "Ben Sheppard",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "C",
+            "44",
+            "Oscar Tshiebwe",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "F",
+            "13",
+            "Jordan Nwora",
+            "DNP"
+          ],
+          [
+            "Head coach:"
+          ],
+          [
+            "Rick Carlisle"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Indiana",
+          "Statistics",
+          "Los Angeles"
+        ],
+        "rows": [
+          [
+            "",
+            ""
+          ],
+          [
+            "35/96 (36.8%)",
+            "Field goals",
+            "47/88 (53.4%)"
+          ],
+          [
+            "10/41 (24.4%)",
+            "3-point field goals",
+            "2/13 (15.4%)"
+          ],
+          [
+            "29/33 (87.9%)",
+            "Free throws",
+            "27/35 (77.1%)"
+          ],
+          [
+            "9",
+            "Offensive rebounds",
+            "12"
+          ],
+          [
+            "23",
+            "Defensive rebounds",
+            "43"
+          ],
+          [
+            "32",
+            "Total rebounds",
+            "55"
+          ],
+          [
+            "27",
+            "Assists",
+            "25"
+          ],
+          [
+            "7",
+            "Turnovers",
+            "18"
+          ],
+          [
+            "10",
+            "Steals",
+            "5"
+          ],
+          [
+            "7",
+            "Blocks",
+            "10"
+          ],
+          [
+            "33",
+            "Fouls",
+            "25"
+          ],
+          [
+            "44",
+            "Points in the paint",
+            "86"
+          ],
+          [
+            "18",
+            "Fast break points",
+            "21"
+          ],
+          [
+            "3",
+            "Biggest lead",
+            "16"
+          ],
+          [
+            "54",
+            "Bench points",
+            "30"
+          ],
+          [
+            "8",
+            "Points off turnovers",
+            "21"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Starters:",
+          "Pts",
+          "Reb",
+          "Ast"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "G",
+            "1",
+            "D'Angelo Russell",
+            "13",
+            "4",
+            "7"
+          ],
+          [
+            "G",
+            "12",
+            "Taurean Prince",
+            "6",
+            "3",
+            "2"
+          ],
+          [
+            "F",
+            "5",
+            "Cam Reddish",
+            "9",
+            "3",
+            "1"
+          ],
+          [
+            "F",
+            "23",
+            "LeBron James",
+            "24",
+            "11",
+            "4"
+          ],
+          [
+            "C",
+            "3",
+            "Anthony Davis",
+            "41",
+            "20",
+            "5"
+          ],
+          [
+            "Reserves:",
+            "",
+            "",
+            ""
+          ],
+          [
+            "F",
+            "28",
+            "Rui Hachimura",
+            "0",
+            "2",
+            "0"
+          ],
+          [
+            "F",
+            "2",
+            "Jarred Vanderbilt",
+            "0",
+            "4",
+            "1"
+          ],
+          [
+            "G",
+            "15",
+            "Austin Reaves",
+            "28",
+            "2",
+            "3"
+          ],
+          [
+            "G",
+            "10",
+            "Max Christie",
+            "2",
+            "2",
+            "1"
+          ],
+          [
+            "F/C",
+            "11",
+            "Jaxson Hayes",
+            "0",
+            "4",
+            "1"
+          ],
+          [
+            "G",
+            "0",
+            "Jalen Hood-Schifino",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "F",
+            "21",
+            "Maxwell Lewis",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "F/C",
+            "35",
+            "Christian Wood",
+            "DNP"
+          ],
+          [
+            "Head coach:"
+          ],
+          [
+            "Darvin Ham"
+          ]
+        ]
+      },
+      {
+        "caption": "All-NBA In-Season Tournament Team",
+        "headers": [
+          "Pos.",
+          "Player",
+          "Team"
+        ],
+        "rows": [
+          [
+            "G",
+            "Tyrese Haliburton",
+            "Indiana Pacers"
+          ],
+          [
+            "F",
+            "Giannis Antetokounmpo",
+            "Milwaukee Bucks"
+          ],
+          [
+            "F",
+            "Kevin Durant",
+            "Phoenix Suns"
+          ],
+          [
+            "F",
+            "LeBron James (MVP)",
+            "Los Angeles Lakers"
+          ],
+          [
+            "C",
+            "Anthony Davis",
+            "Los Angeles Lakers"
+          ]
+        ]
+      }
+    ],
+    "bracket": "QuarterfinalsSemifinalsChampionship game December 5 – Milwaukee, WI 1Milwaukee146 December 7 – Las Vegas, NV 4New York122 1Milwaukee119 December 4 – Indianapolis, IN 2Indiana128 2Indiana122 December 9 – Las Vegas, NV 3Boston112 E2Indiana109 December 5 – Los Angeles, CA W1LA Lakers123 1LA Lakers106 December 7 – Las Vegas, NV 4Phoenix103 1LA Lakers133 December 4 – Sacramento, CA 3New Orleans89 2Sacramento117 3New Orleans127"
+  },
+  {
+    "season": "2024_NBA_Cup",
+    "url": "https://en.wikipedia.org/wiki/2024_NBA_Cup",
+    "infobox": {
+      "Location": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0} Local NBA cities (group stage and quarterfinals) Las Vegas Strip (semifinals and championship game)",
+      "Date": "November 12 – December 17, 2024",
+      "Venues": "Local NBA arenas (group stage and quarterfinals) T-Mobile Arena (semifinals and championship game)",
+      "Teams": "30",
+      "Purse": "See prize money",
+      "Champions": "Milwaukee Bucks (1st title)",
+      "Runner-up": "Oklahoma City Thunder",
+      "MVP": "Giannis Antetokounmpo (Milwaukee Bucks)"
     },
-    {
-        "year": "2025",
-        "summary": {
-            "location": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li\nLocal NBA cities (group stage and quarterfinals)\nLas Vegas Strip (semifinals and championship game)",
-            "date": "October 31 – December 16, 2025",
-            "venues": "Local NBA arenas (group stage and quarterfinals)\nT-Mobile Arena (semifinals and championship game)",
-            "teams": "30",
-            "purse": "See prize money",
-            "champions": "New York Knicks (1st title)",
-            "runner-up": "San Antonio Spurs",
-            "mvp": "Jalen Brunson (New York Knicks)"
-        },
-        "all_tournament_team": [
-            {
-                "pos": "G",
-                "player": "Jalen Brunson",
-                "team": "New York Knicks",
-                "is_mvp": true
-            },
-            {
-                "pos": "G",
-                "player": "Luka Dončić",
-                "team": "Los Angeles Lakers",
-                "is_mvp": false
-            },
-            {
-                "pos": "G",
-                "player": "De'Aaron Fox",
-                "team": "San Antonio Spurs",
-                "is_mvp": false
-            },
-            {
-                "pos": "G",
-                "player": "Shai Gilgeous-Alexander",
-                "team": "Oklahoma City Thunder",
-                "is_mvp": false
-            },
-            {
-                "pos": "C",
-                "player": "Karl-Anthony Towns",
-                "team": "New York Knicks",
-                "is_mvp": false
-            }
+    "tables": [
+      {
+        "caption": "Eastern Conference in the 2024 NBA Cup",
+        "headers": [
+          "Pot",
+          "#",
+          "Team",
+          "Record"
         ],
-        "group_standings": {
-            "East group A": [
-                {
-                    "rank": "1",
-                    "team": "Toronto Raptors",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "458",
-                    "pa": "403",
-                    "pd": "+55",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Atlanta Hawks",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "468",
-                    "pa": "472",
-                    "pd": "-4",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Cleveland Cavaliers",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "492",
-                    "pa": "466",
-                    "pd": "+26",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Indiana Pacers",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "431",
-                    "pa": "431",
-                    "pd": "0",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "Washington Wizards",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "443",
-                    "pa": "520",
-                    "pd": "-77",
-                    "pld": "4"
-                }
-            ],
-            "East group B": [
-                {
-                    "rank": "1",
-                    "team": "Orlando Magic",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "484",
-                    "pa": "420",
-                    "pd": "+64",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Boston Celtics",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "441",
-                    "pa": "458",
-                    "pd": "-17",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Detroit Pistons",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "462",
-                    "pa": "441",
-                    "pd": "+21",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Philadelphia 76ers",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "431",
-                    "pa": "470",
-                    "pd": "-39",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "Brooklyn Nets",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "421",
-                    "pa": "450",
-                    "pd": "-29",
-                    "pld": "4"
-                }
-            ],
-            "East group C": [
-                {
-                    "rank": "1",
-                    "team": "New York Knicks",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "512",
-                    "pa": "477",
-                    "pd": "+35",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Miami Heat",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "507",
-                    "pa": "458",
-                    "pd": "+49",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Milwaukee Bucks",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "467",
-                    "pa": "463",
-                    "pd": "+4",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Charlotte Hornets",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "461",
-                    "pa": "500",
-                    "pd": "-39",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "Chicago Bulls",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "468",
-                    "pa": "517",
-                    "pd": "-49",
-                    "pld": "4"
-                }
-            ],
-            "West group A": [
-                {
-                    "rank": "1",
-                    "team": "Oklahoma City Thunder",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "512",
-                    "pa": "437",
-                    "pd": "+75",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Phoenix Suns",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "463",
-                    "pa": "432",
-                    "pd": "+31",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Minnesota Timberwolves",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "479",
-                    "pa": "434",
-                    "pd": "+45",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Utah Jazz",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "433",
-                    "pa": "518",
-                    "pd": "-85",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "Sacramento Kings",
-                    "w": "0",
-                    "l": "4",
-                    "pf": "430",
-                    "pa": "496",
-                    "pd": "-66",
-                    "pld": "4"
-                }
-            ],
-            "West group B": [
-                {
-                    "rank": "1",
-                    "team": "Los Angeles Lakers",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "499",
-                    "pa": "453",
-                    "pd": "+46",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Memphis Grizzlies",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "464",
-                    "pa": "450",
-                    "pd": "+14",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Los Angeles Clippers",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "465",
-                    "pa": "485",
-                    "pd": "-20",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Dallas Mavericks",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "455",
-                    "pa": "476",
-                    "pd": "-21",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "New Orleans Pelicans",
-                    "w": "0",
-                    "l": "4",
-                    "pf": "465",
-                    "pa": "484",
-                    "pd": "-19",
-                    "pld": "4"
-                }
-            ],
-            "West group C": [
-                {
-                    "rank": "1",
-                    "team": "San Antonio Spurs",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "483",
-                    "pa": "457",
-                    "pd": "+26",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Denver Nuggets",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "484",
-                    "pa": "461",
-                    "pd": "+23",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Houston Rockets",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "463",
-                    "pa": "449",
-                    "pd": "+14",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Portland Trail Blazers",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "454",
-                    "pa": "485",
-                    "pd": "-31",
-                    "pld": "4"
-                },
-                {
-                    "rank": "5",
-                    "team": "Golden State Warriors",
-                    "w": "1",
-                    "l": "3",
-                    "pf": "436",
-                    "pa": "468",
-                    "pd": "-32",
-                    "pld": "4"
-                }
-            ],
-            "Eastern Conference": [
-                {
-                    "rank": "1",
-                    "team": "Miami Heat",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "507",
-                    "pa": "458",
-                    "pd": "+49",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Atlanta Hawks",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "468",
-                    "pa": "472",
-                    "pd": "-4",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Boston Celtics",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "441",
-                    "pa": "458",
-                    "pd": "-17",
-                    "pld": "4"
-                }
-            ],
-            "Western Conference": [
-                {
-                    "rank": "1",
-                    "team": "Phoenix Suns",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "463",
-                    "pa": "432",
-                    "pd": "+31",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Memphis Grizzlies",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "464",
-                    "pa": "450",
-                    "pd": "+14",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "Denver Nuggets",
-                    "w": "2",
-                    "l": "2",
-                    "pf": "484",
-                    "pa": "461",
-                    "pd": "+23",
-                    "pld": "4"
-                }
-            ],
-            "Unknown": [
-                {
-                    "rank": "1",
-                    "team": "Orlando Magic",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "484",
-                    "pa": "420",
-                    "pd": "+64",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Toronto Raptors",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "458",
-                    "pa": "403",
-                    "pd": "+55",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "New York Knicks",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "512",
-                    "pa": "477",
-                    "pd": "+35",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Miami Heat",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "507",
-                    "pa": "458",
-                    "pd": "+49",
-                    "pld": "4"
-                },
-                {
-                    "rank": "1",
-                    "team": "Oklahoma City Thunder",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "512",
-                    "pa": "437",
-                    "pd": "+75",
-                    "pld": "4"
-                },
-                {
-                    "rank": "2",
-                    "team": "Los Angeles Lakers",
-                    "w": "4",
-                    "l": "0",
-                    "pf": "499",
-                    "pa": "453",
-                    "pd": "+46",
-                    "pld": "4"
-                },
-                {
-                    "rank": "3",
-                    "team": "San Antonio Spurs",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "483",
-                    "pa": "457",
-                    "pd": "+26",
-                    "pld": "4"
-                },
-                {
-                    "rank": "4",
-                    "team": "Phoenix Suns",
-                    "w": "3",
-                    "l": "1",
-                    "pf": "463",
-                    "pa": "432",
-                    "pd": "+31",
-                    "pld": "4"
-                }
-            ]
-        },
-        "wildcards": {
-            "eastern_conference": [],
-            "western_conference": []
-        },
-        "bracket": [
-            {
-                "seed": "1",
-                "team": "Orlando",
-                "score": 117
-            },
-            {
-                "seed": "4",
-                "team": "Miami",
-                "score": 108
-            },
-            {
-                "seed": "1",
-                "team": "Orlando",
-                "score": 120
-            },
-            {
-                "seed": "3",
-                "team": "New York",
-                "score": 132
-            },
-            {
-                "seed": "2",
-                "team": "Toronto",
-                "score": 101
-            },
-            {
-                "seed": "3",
-                "team": "New York",
-                "score": 117
-            },
-            {
-                "seed": "3",
-                "team": "New York",
-                "score": 124
-            },
-            {
-                "seed": "3",
-                "team": "San Antonio",
-                "score": 113
-            },
-            {
-                "seed": "1",
-                "team": "Oklahoma City",
-                "score": 138
-            },
-            {
-                "seed": "4",
-                "team": "Phoenix",
-                "score": 89
-            },
-            {
-                "seed": "1",
-                "team": "Oklahoma City",
-                "score": 109
-            },
-            {
-                "seed": "3",
-                "team": "San Antonio",
-                "score": 111
-            },
-            {
-                "seed": "2",
-                "team": "LA Lakers",
-                "score": 119
-            },
-            {
-                "seed": "3",
-                "team": "San Antonio",
-                "score": 132
-            }
+        "rows": [
+          [
+            "W",
+            "L"
+          ],
+          [
+            "1",
+            "1",
+            "Boston Celtics",
+            "64",
+            "18"
+          ],
+          [
+            "2",
+            "New York Knicks",
+            "50",
+            "32"
+          ],
+          [
+            "3",
+            "Milwaukee Bucks",
+            "49",
+            "33"
+          ],
+          [
+            "2",
+            "4",
+            "Cleveland Cavaliers",
+            "48",
+            "34"
+          ],
+          [
+            "5",
+            "Orlando Magic",
+            "47",
+            "35"
+          ],
+          [
+            "6",
+            "Indiana Pacers",
+            "47",
+            "35"
+          ],
+          [
+            "3",
+            "7",
+            "Philadelphia 76ers",
+            "47",
+            "35"
+          ],
+          [
+            "8",
+            "Miami Heat",
+            "46",
+            "36"
+          ],
+          [
+            "9",
+            "Chicago Bulls",
+            "39",
+            "43"
+          ],
+          [
+            "4",
+            "10",
+            "Atlanta Hawks",
+            "36",
+            "46"
+          ],
+          [
+            "11",
+            "Brooklyn Nets",
+            "32",
+            "50"
+          ],
+          [
+            "12",
+            "Toronto Raptors",
+            "25",
+            "57"
+          ],
+          [
+            "5",
+            "13",
+            "Charlotte Hornets",
+            "21",
+            "61"
+          ],
+          [
+            "14",
+            "Washington Wizards",
+            "15",
+            "67"
+          ],
+          [
+            "15",
+            "Detroit Pistons",
+            "14",
+            "68"
+          ]
         ]
-    }
+      },
+      {
+        "caption": "Western Conference in the 2024 NBA Cup",
+        "headers": [
+          "Pot",
+          "#",
+          "Team",
+          "Record"
+        ],
+        "rows": [
+          [
+            "W",
+            "L"
+          ],
+          [
+            "1",
+            "1",
+            "Oklahoma City Thunder",
+            "57",
+            "25"
+          ],
+          [
+            "2",
+            "Denver Nuggets",
+            "57",
+            "25"
+          ],
+          [
+            "3",
+            "Minnesota Timberwolves",
+            "56",
+            "26"
+          ],
+          [
+            "2",
+            "4",
+            "Los Angeles Clippers",
+            "51",
+            "31"
+          ],
+          [
+            "5",
+            "Dallas Mavericks",
+            "50",
+            "32"
+          ],
+          [
+            "6",
+            "Phoenix Suns",
+            "49",
+            "33"
+          ],
+          [
+            "3",
+            "7",
+            "New Orleans Pelicans",
+            "49",
+            "33"
+          ],
+          [
+            "8",
+            "Los Angeles Lakers",
+            "47",
+            "35"
+          ],
+          [
+            "9",
+            "Sacramento Kings",
+            "46",
+            "36"
+          ],
+          [
+            "4",
+            "10",
+            "Golden State Warriors",
+            "46",
+            "36"
+          ],
+          [
+            "11",
+            "Houston Rockets",
+            "41",
+            "41"
+          ],
+          [
+            "12",
+            "Utah Jazz",
+            "31",
+            "51"
+          ],
+          [
+            "5",
+            "13",
+            "Memphis Grizzlies",
+            "27",
+            "55"
+          ],
+          [
+            "14",
+            "San Antonio Spurs",
+            "22",
+            "60"
+          ],
+          [
+            "15",
+            "Portland Trail Blazers",
+            "21",
+            "61"
+          ]
+        ]
+      },
+      {
+        "caption": "Eastern Conference",
+        "headers": [
+          "Group A",
+          "Group B",
+          "Group C"
+        ],
+        "rows": [
+          [
+            "New York Knicks (2)Orlando Magic (5)Philadelphia 76ers (7)Brooklyn Nets (11)Charlotte Hornets (13)",
+            "Milwaukee Bucks (3)Indiana Pacers (6)Miami Heat (8)Toronto Raptors (12)Detroit Pistons (15)",
+            "Boston Celtics (1)Cleveland Cavaliers (4)Chicago Bulls (9)Atlanta Hawks (10)Washington Wizards (14)"
+          ]
+        ]
+      },
+      {
+        "caption": "Western Conference",
+        "headers": [
+          "Group A",
+          "Group B",
+          "Group C"
+        ],
+        "rows": [
+          [
+            "Minnesota Timberwolves (3)Los Angeles Clippers (4)Sacramento Kings (9)Houston Rockets (11)Portland Trail Blazers (15)",
+            "Oklahoma City Thunder (1)Phoenix Suns (6)Los Angeles Lakers (8)Utah Jazz (12)San Antonio Spurs (14)",
+            "Denver Nuggets (2)Dallas Mavericks (5)New Orleans Pelicans (7)Golden State Warriors (10)Memphis Grizzlies (13)"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "New York Knicks",
+            "4",
+            "4",
+            "0",
+            "455",
+            "425",
+            "+30",
+            "Advance to knockout stage"
+          ],
+          [
+            "2",
+            "Orlando Magic",
+            "4",
+            "3",
+            "1",
+            "441",
+            "396",
+            "+45"
+          ],
+          [
+            "3",
+            "Philadelphia 76ers",
+            "4",
+            "2",
+            "2",
+            "408",
+            "411",
+            "−3",
+            ""
+          ],
+          [
+            "4",
+            "Brooklyn Nets",
+            "4",
+            "1",
+            "3",
+            "436",
+            "475",
+            "−39"
+          ],
+          [
+            "5",
+            "Charlotte Hornets",
+            "4",
+            "0",
+            "4",
+            "406",
+            "439",
+            "−33"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "Milwaukee Bucks",
+            "4",
+            "4",
+            "0",
+            "462",
+            "412",
+            "+50",
+            "Advance to knockout stage"
+          ],
+          [
+            "2",
+            "Detroit Pistons",
+            "4",
+            "3",
+            "1",
+            "447",
+            "440",
+            "+7",
+            ""
+          ],
+          [
+            "3",
+            "Miami Heat",
+            "4",
+            "2",
+            "2",
+            "459",
+            "439",
+            "+20"
+          ],
+          [
+            "4",
+            "Toronto Raptors",
+            "4",
+            "1",
+            "3",
+            "413",
+            "430",
+            "−17"
+          ],
+          [
+            "5",
+            "Indiana Pacers",
+            "4",
+            "0",
+            "4",
+            "445",
+            "505",
+            "−60"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "Atlanta Hawks",
+            "4",
+            "3",
+            "1",
+            "485",
+            "470",
+            "+15",
+            "Advance to knockout stage"
+          ],
+          [
+            "2",
+            "Boston Celtics",
+            "4",
+            "3",
+            "1",
+            "482",
+            "459",
+            "+23",
+            ""
+          ],
+          [
+            "3",
+            "Cleveland Cavaliers",
+            "4",
+            "2",
+            "2",
+            "480",
+            "450",
+            "+30"
+          ],
+          [
+            "4",
+            "Chicago Bulls",
+            "4",
+            "2",
+            "2",
+            "518",
+            "512",
+            "+6"
+          ],
+          [
+            "5",
+            "Washington Wizards",
+            "4",
+            "0",
+            "4",
+            "408",
+            "482",
+            "−74"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "Houston Rockets",
+            "4",
+            "3",
+            "1",
+            "454",
+            "414",
+            "+40",
+            "Advance to knockout stage"
+          ],
+          [
+            "2",
+            "Los Angeles Clippers",
+            "4",
+            "2",
+            "2",
+            "427",
+            "411",
+            "+16",
+            ""
+          ],
+          [
+            "3",
+            "Minnesota Timberwolves",
+            "4",
+            "2",
+            "2",
+            "418",
+            "431",
+            "−13"
+          ],
+          [
+            "4",
+            "Portland Trail Blazers",
+            "4",
+            "2",
+            "2",
+            "430",
+            "457",
+            "−27"
+          ],
+          [
+            "5",
+            "Sacramento Kings",
+            "4",
+            "1",
+            "3",
+            "429",
+            "445",
+            "−16"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "Oklahoma City Thunder",
+            "4",
+            "3",
+            "1",
+            "437",
+            "392",
+            "+45",
+            "Advance to knockout stage"
+          ],
+          [
+            "2",
+            "Phoenix Suns",
+            "4",
+            "3",
+            "1",
+            "434",
+            "404",
+            "+30",
+            ""
+          ],
+          [
+            "3",
+            "Los Angeles Lakers",
+            "4",
+            "2",
+            "2",
+            "437",
+            "461",
+            "−24"
+          ],
+          [
+            "4",
+            "San Antonio Spurs",
+            "4",
+            "2",
+            "2",
+            "446",
+            "443",
+            "+3"
+          ],
+          [
+            "5",
+            "Utah Jazz",
+            "4",
+            "0",
+            "4",
+            "451",
+            "505",
+            "−54"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "Golden State Warriors",
+            "4",
+            "3",
+            "1",
+            "470",
+            "462",
+            "+8",
+            "Advance to knockout stage"
+          ],
+          [
+            "2",
+            "Dallas Mavericks",
+            "4",
+            "3",
+            "1",
+            "493",
+            "447",
+            "+46"
+          ],
+          [
+            "3",
+            "Denver Nuggets",
+            "4",
+            "2",
+            "2",
+            "455",
+            "449",
+            "+6",
+            ""
+          ],
+          [
+            "4",
+            "Memphis Grizzlies",
+            "4",
+            "1",
+            "3",
+            "464",
+            "475",
+            "−11"
+          ],
+          [
+            "5",
+            "New Orleans Pelicans",
+            "4",
+            "1",
+            "3",
+            "409",
+            "458",
+            "−49"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "Orlando Magic",
+            "4",
+            "3",
+            "1",
+            "441",
+            "396",
+            "+45",
+            "Advance to knockout stage"
+          ],
+          [
+            "2",
+            "Boston Celtics",
+            "4",
+            "3",
+            "1",
+            "482",
+            "459",
+            "+23",
+            ""
+          ],
+          [
+            "3",
+            "Detroit Pistons",
+            "4",
+            "3",
+            "1",
+            "447",
+            "440",
+            "+7"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "Dallas Mavericks",
+            "4",
+            "3",
+            "1",
+            "493",
+            "447",
+            "+46",
+            "Advance to knockout stage"
+          ],
+          [
+            "2",
+            "Phoenix Suns",
+            "4",
+            "3",
+            "1",
+            "434",
+            "404",
+            "+30",
+            ""
+          ],
+          [
+            "3",
+            "Los Angeles Clippers",
+            "4",
+            "2",
+            "2",
+            "427",
+            "411",
+            "+16"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD"
+        ],
+        "rows": [
+          [
+            "1",
+            "Milwaukee Bucks",
+            "4",
+            "4",
+            "0",
+            "462",
+            "412",
+            "+50"
+          ],
+          [
+            "2",
+            "New York Knicks",
+            "4",
+            "4",
+            "0",
+            "455",
+            "425",
+            "+30"
+          ],
+          [
+            "3",
+            "Atlanta Hawks",
+            "4",
+            "3",
+            "1",
+            "485",
+            "470",
+            "+15"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "4",
+            "Orlando Magic",
+            "4",
+            "3",
+            "1",
+            "441",
+            "396",
+            "+45"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD"
+        ],
+        "rows": [
+          [
+            "1",
+            "Oklahoma City Thunder",
+            "4",
+            "3",
+            "1",
+            "437",
+            "392",
+            "+45"
+          ],
+          [
+            "2",
+            "Houston Rockets",
+            "4",
+            "3",
+            "1",
+            "454",
+            "414",
+            "+40"
+          ],
+          [
+            "3",
+            "Golden State Warriors",
+            "4",
+            "3",
+            "1",
+            "470",
+            "462",
+            "+8"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "4",
+            "Dallas Mavericks",
+            "4",
+            "3",
+            "1",
+            "493",
+            "447",
+            "+46"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Starters:",
+          "Pts",
+          "Reb",
+          "Ast"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "G",
+            "0",
+            "Damian Lillard",
+            "23",
+            "4",
+            "4"
+          ],
+          [
+            "G",
+            "44",
+            "Andre Jackson Jr.",
+            "2",
+            "3",
+            "1"
+          ],
+          [
+            "F",
+            "12",
+            "Taurean Prince",
+            "6",
+            "2",
+            "2"
+          ],
+          [
+            "F",
+            "34",
+            "Giannis Antetokounmpo",
+            "26",
+            "19",
+            "10"
+          ],
+          [
+            "C",
+            "11",
+            "Brook Lopez",
+            "13",
+            "9",
+            "1"
+          ],
+          [
+            "Reserves:",
+            "",
+            "",
+            ""
+          ],
+          [
+            "F",
+            "9",
+            "Bobby Portis",
+            "5",
+            "9",
+            "3"
+          ],
+          [
+            "G",
+            "20",
+            "A. J. Green",
+            "9",
+            "1",
+            "2"
+          ],
+          [
+            "G",
+            "24",
+            "Pat Connaughton",
+            "0",
+            "0",
+            "1"
+          ],
+          [
+            "G",
+            "5",
+            "Gary Trent Jr.",
+            "13",
+            "3",
+            "1"
+          ],
+          [
+            "F",
+            "3",
+            "MarJon Beauchamp",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "G",
+            "77",
+            "AJ Johnson",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "F",
+            "7",
+            "Chris Livingston",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "F",
+            "21",
+            "Tyler Smith",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "G",
+            "13",
+            "Ryan Rollins",
+            "DNP"
+          ],
+          [
+            "G",
+            "55",
+            "Delon Wright",
+            "DNP"
+          ],
+          [
+            "Head coach:"
+          ],
+          [
+            "Doc Rivers"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Milwaukee",
+          "Statistics",
+          "Oklahoma City"
+        ],
+        "rows": [
+          [
+            "",
+            ""
+          ],
+          [
+            "34/81 (42.0%)",
+            "Field goals",
+            "29/87 (33.3%)"
+          ],
+          [
+            "17/40 (42.5%)",
+            "3-point field goals",
+            "5/32 (15.6%)"
+          ],
+          [
+            "12/18 (66.7%)",
+            "Free throws",
+            "18/22 (81.8%)"
+          ],
+          [
+            "9",
+            "Offensive rebounds",
+            "7"
+          ],
+          [
+            "43",
+            "Defensive rebounds",
+            "36"
+          ],
+          [
+            "52",
+            "Total rebounds",
+            "43"
+          ],
+          [
+            "25",
+            "Assists",
+            "13"
+          ],
+          [
+            "19",
+            "Turnovers",
+            "10"
+          ],
+          [
+            "6",
+            "Steals",
+            "10"
+          ],
+          [
+            "4",
+            "Blocks",
+            "5"
+          ],
+          [
+            "20",
+            "Fouls",
+            "14"
+          ],
+          [
+            "28",
+            "Points in the paint",
+            "34"
+          ],
+          [
+            "9",
+            "Fast break points",
+            "11"
+          ],
+          [
+            "20",
+            "Biggest lead",
+            "7"
+          ],
+          [
+            "27",
+            "Bench points",
+            "15"
+          ],
+          [
+            "11",
+            "Points off turnovers",
+            "12"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Starters:",
+          "Pts",
+          "Reb",
+          "Ast"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "G",
+            "2",
+            "Shai Gilgeous-Alexander",
+            "21",
+            "4",
+            "2"
+          ],
+          [
+            "G",
+            "11",
+            "Isaiah Joe",
+            "7",
+            "3",
+            "1"
+          ],
+          [
+            "F",
+            "5",
+            "Luguentz Dort",
+            "4",
+            "8",
+            "1"
+          ],
+          [
+            "F",
+            "8",
+            "Jalen Williams",
+            "18",
+            "4",
+            "3"
+          ],
+          [
+            "C",
+            "55",
+            "Isaiah Hartenstein",
+            "16",
+            "12",
+            "2"
+          ],
+          [
+            "Reserves:",
+            "",
+            "",
+            ""
+          ],
+          [
+            "G",
+            "22",
+            "Cason Wallace",
+            "5",
+            "1",
+            "1"
+          ],
+          [
+            "G/F",
+            "34",
+            "Kenrich Williams",
+            "3",
+            "2",
+            "1"
+          ],
+          [
+            "G",
+            "9",
+            "Alex Caruso",
+            "2",
+            "3",
+            "0"
+          ],
+          [
+            "G/F",
+            "21",
+            "Aaron Wiggins",
+            "0",
+            "3",
+            "0"
+          ],
+          [
+            "G",
+            "25",
+            "Ajay Mitchell",
+            "5",
+            "2",
+            "2"
+          ],
+          [
+            "C",
+            "15",
+            "Branden Carlson",
+            "0",
+            "1",
+            "0"
+          ],
+          [
+            "F",
+            "3",
+            "Dillon Jones",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "Head coach:"
+          ],
+          [
+            "Mark Daigneault"
+          ]
+        ]
+      },
+      {
+        "caption": "All-NBA Cup Tournament Team",
+        "headers": [
+          "Pos.",
+          "Player",
+          "Team"
+        ],
+        "rows": [
+          [
+            "G",
+            "Trae Young",
+            "Atlanta Hawks"
+          ],
+          [
+            "G",
+            "Shai Gilgeous-Alexander",
+            "Oklahoma City Thunder"
+          ],
+          [
+            "G",
+            "Damian Lillard",
+            "Milwaukee Bucks"
+          ],
+          [
+            "F",
+            "Giannis Antetokounmpo (MVP)",
+            "Milwaukee Bucks"
+          ],
+          [
+            "C",
+            "Alperen Şengün",
+            "Houston Rockets"
+          ]
+        ]
+      }
+    ],
+    "bracket": "QuarterfinalsSemifinalsChampionship game December 10 – Milwaukee, WI 1Milwaukee114 December 14 – Las Vegas, NV 4Orlando109 1Milwaukee110 December 11 – New York, NY 3Atlanta102 2New York100 December 17 – Las Vegas, NV 3Atlanta108 E1 Milwaukee97 December 10 – Oklahoma City, OK W1 Oklahoma City81 1Oklahoma City118 December 14 – Las Vegas, NV 4Dallas104 1Oklahoma City111 December 11 – Houston, TX 2Houston96 2Houston91 3Golden State90"
+  },
+  {
+    "season": "2025_NBA_Cup",
+    "url": "https://en.wikipedia.org/wiki/2025_NBA_Cup",
+    "infobox": {
+      "Location": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0} Local NBA cities (group stage and quarterfinals) Las Vegas Strip (semifinals and championship game)",
+      "Date": "October 31 – December 16, 2025",
+      "Venues": "Local NBA arenas (group stage and quarterfinals) T-Mobile Arena (semifinals and championship game)",
+      "Teams": "30",
+      "Purse": "See prize money",
+      "Champions": "New York Knicks (1st title)",
+      "Runner-up": "San Antonio Spurs",
+      "MVP": "Jalen Brunson (New York Knicks)"
+    },
+    "tables": [
+      {
+        "caption": "Eastern Conference in the 2025 NBA Cup",
+        "headers": [
+          "Pot",
+          "#",
+          "Team",
+          "Record"
+        ],
+        "rows": [
+          [
+            "W",
+            "L"
+          ],
+          [
+            "1",
+            "1",
+            "Cleveland Cavaliers",
+            "64",
+            "18"
+          ],
+          [
+            "2",
+            "Boston Celtics",
+            "61",
+            "21"
+          ],
+          [
+            "3",
+            "New York Knicks",
+            "51",
+            "31"
+          ],
+          [
+            "2",
+            "4",
+            "Indiana Pacers",
+            "50",
+            "32"
+          ],
+          [
+            "5",
+            "Milwaukee Bucks",
+            "48",
+            "34"
+          ],
+          [
+            "6",
+            "Detroit Pistons",
+            "44",
+            "38"
+          ],
+          [
+            "3",
+            "7",
+            "Orlando Magic",
+            "41",
+            "41"
+          ],
+          [
+            "8",
+            "Atlanta Hawks",
+            "40",
+            "42"
+          ],
+          [
+            "9",
+            "Chicago Bulls",
+            "39",
+            "43"
+          ],
+          [
+            "4",
+            "10",
+            "Miami Heat",
+            "37",
+            "45"
+          ],
+          [
+            "11",
+            "Toronto Raptors",
+            "30",
+            "52"
+          ],
+          [
+            "12",
+            "Brooklyn Nets",
+            "26",
+            "56"
+          ],
+          [
+            "5",
+            "13",
+            "Philadelphia 76ers",
+            "24",
+            "58"
+          ],
+          [
+            "14",
+            "Charlotte Hornets",
+            "19",
+            "63"
+          ],
+          [
+            "15",
+            "Washington Wizards",
+            "18",
+            "64"
+          ]
+        ]
+      },
+      {
+        "caption": "Western Conference in the 2025 NBA Cup",
+        "headers": [
+          "Pot",
+          "#",
+          "Team",
+          "Record"
+        ],
+        "rows": [
+          [
+            "W",
+            "L"
+          ],
+          [
+            "1",
+            "1",
+            "Oklahoma City Thunder",
+            "68",
+            "14"
+          ],
+          [
+            "2",
+            "Houston Rockets",
+            "52",
+            "30"
+          ],
+          [
+            "3",
+            "Los Angeles Lakers",
+            "50",
+            "32"
+          ],
+          [
+            "2",
+            "4",
+            "Denver Nuggets",
+            "50",
+            "32"
+          ],
+          [
+            "5",
+            "Los Angeles Clippers",
+            "50",
+            "32"
+          ],
+          [
+            "6",
+            "Minnesota Timberwolves",
+            "49",
+            "33"
+          ],
+          [
+            "3",
+            "7",
+            "Golden State Warriors",
+            "48",
+            "34"
+          ],
+          [
+            "8",
+            "Memphis Grizzlies",
+            "48",
+            "34"
+          ],
+          [
+            "9",
+            "Sacramento Kings",
+            "40",
+            "42"
+          ],
+          [
+            "4",
+            "10",
+            "Dallas Mavericks",
+            "39",
+            "43"
+          ],
+          [
+            "11",
+            "Phoenix Suns",
+            "36",
+            "46"
+          ],
+          [
+            "12",
+            "Portland Trail Blazers",
+            "36",
+            "46"
+          ],
+          [
+            "5",
+            "13",
+            "San Antonio Spurs",
+            "34",
+            "48"
+          ],
+          [
+            "14",
+            "New Orleans Pelicans",
+            "21",
+            "61"
+          ],
+          [
+            "15",
+            "Utah Jazz",
+            "17",
+            "65"
+          ]
+        ]
+      },
+      {
+        "caption": "Eastern Conference",
+        "headers": [
+          "Group A",
+          "Group B",
+          "Group C"
+        ],
+        "rows": [
+          [
+            "1",
+            "Cleveland Cavaliers",
+            "2",
+            "Boston Celtics",
+            "3",
+            "New York Knicks"
+          ],
+          [
+            "4",
+            "Indiana Pacers",
+            "6",
+            "Detroit Pistons",
+            "5",
+            "Milwaukee Bucks"
+          ],
+          [
+            "8",
+            "Atlanta Hawks",
+            "7",
+            "Orlando Magic",
+            "9",
+            "Chicago Bulls"
+          ],
+          [
+            "11",
+            "Toronto Raptors",
+            "12",
+            "Brooklyn Nets",
+            "10",
+            "Miami Heat"
+          ],
+          [
+            "15",
+            "Washington Wizards",
+            "13",
+            "Philadelphia 76ers",
+            "14",
+            "Charlotte Hornets"
+          ]
+        ]
+      },
+      {
+        "caption": "Western Conference",
+        "headers": [
+          "Group A",
+          "Group B",
+          "Group C"
+        ],
+        "rows": [
+          [
+            "1",
+            "Oklahoma City Thunder",
+            "3",
+            "Los Angeles Lakers",
+            "2",
+            "Houston Rockets"
+          ],
+          [
+            "6",
+            "Minnesota Timberwolves",
+            "5",
+            "Los Angeles Clippers",
+            "4",
+            "Denver Nuggets"
+          ],
+          [
+            "9",
+            "Sacramento Kings",
+            "8",
+            "Memphis Grizzlies",
+            "7",
+            "Golden State Warriors"
+          ],
+          [
+            "11",
+            "Phoenix Suns",
+            "10",
+            "Dallas Mavericks",
+            "12",
+            "Portland Trail Blazers"
+          ],
+          [
+            "15",
+            "Utah Jazz",
+            "14",
+            "New Orleans Pelicans",
+            "13",
+            "San Antonio Spurs"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "Toronto Raptors",
+            "4",
+            "4",
+            "0",
+            "458",
+            "403",
+            "+55",
+            "Advanced to knockout rounds"
+          ],
+          [
+            "2",
+            "Atlanta Hawks",
+            "4",
+            "2",
+            "2",
+            "468",
+            "472",
+            "−4",
+            ""
+          ],
+          [
+            "3",
+            "Cleveland Cavaliers",
+            "4",
+            "2",
+            "2",
+            "492",
+            "466",
+            "+26"
+          ],
+          [
+            "4",
+            "Indiana Pacers",
+            "4",
+            "1",
+            "3",
+            "431",
+            "431",
+            "0"
+          ],
+          [
+            "5",
+            "Washington Wizards",
+            "4",
+            "1",
+            "3",
+            "443",
+            "520",
+            "−77"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "Orlando Magic",
+            "4",
+            "4",
+            "0",
+            "484",
+            "420",
+            "+64",
+            "Advanced to knockout rounds"
+          ],
+          [
+            "2",
+            "Boston Celtics",
+            "4",
+            "2",
+            "2",
+            "441",
+            "458",
+            "−17",
+            ""
+          ],
+          [
+            "3",
+            "Detroit Pistons",
+            "4",
+            "2",
+            "2",
+            "462",
+            "441",
+            "+21"
+          ],
+          [
+            "4",
+            "Philadelphia 76ers",
+            "4",
+            "1",
+            "3",
+            "431",
+            "470",
+            "−39"
+          ],
+          [
+            "5",
+            "Brooklyn Nets",
+            "4",
+            "1",
+            "3",
+            "421",
+            "450",
+            "−29"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "New York Knicks",
+            "4",
+            "3",
+            "1",
+            "512",
+            "477",
+            "+35",
+            "Advanced to knockout rounds"
+          ],
+          [
+            "2",
+            "Miami Heat",
+            "4",
+            "3",
+            "1",
+            "507",
+            "458",
+            "+49"
+          ],
+          [
+            "3",
+            "Milwaukee Bucks",
+            "4",
+            "2",
+            "2",
+            "467",
+            "463",
+            "+4",
+            ""
+          ],
+          [
+            "4",
+            "Charlotte Hornets",
+            "4",
+            "1",
+            "3",
+            "461",
+            "500",
+            "−39"
+          ],
+          [
+            "5",
+            "Chicago Bulls",
+            "4",
+            "1",
+            "3",
+            "468",
+            "517",
+            "−49"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "Oklahoma City Thunder",
+            "4",
+            "4",
+            "0",
+            "512",
+            "437",
+            "+75",
+            "Advanced to knockout rounds"
+          ],
+          [
+            "2",
+            "Phoenix Suns",
+            "4",
+            "3",
+            "1",
+            "463",
+            "432",
+            "+31"
+          ],
+          [
+            "3",
+            "Minnesota Timberwolves",
+            "4",
+            "2",
+            "2",
+            "479",
+            "434",
+            "+45",
+            ""
+          ],
+          [
+            "4",
+            "Utah Jazz",
+            "4",
+            "1",
+            "3",
+            "433",
+            "518",
+            "−85"
+          ],
+          [
+            "5",
+            "Sacramento Kings",
+            "4",
+            "0",
+            "4",
+            "430",
+            "496",
+            "−66"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "Los Angeles Lakers",
+            "4",
+            "4",
+            "0",
+            "499",
+            "453",
+            "+46",
+            "Advanced to knockout rounds"
+          ],
+          [
+            "2",
+            "Memphis Grizzlies",
+            "4",
+            "3",
+            "1",
+            "464",
+            "450",
+            "+14",
+            ""
+          ],
+          [
+            "3",
+            "Los Angeles Clippers",
+            "4",
+            "2",
+            "2",
+            "465",
+            "485",
+            "−20"
+          ],
+          [
+            "4",
+            "Dallas Mavericks",
+            "4",
+            "1",
+            "3",
+            "455",
+            "476",
+            "−21"
+          ],
+          [
+            "5",
+            "New Orleans Pelicans",
+            "4",
+            "0",
+            "4",
+            "465",
+            "484",
+            "−19"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "San Antonio Spurs",
+            "4",
+            "3",
+            "1",
+            "483",
+            "457",
+            "+26",
+            "Advanced to knockout rounds"
+          ],
+          [
+            "2",
+            "Denver Nuggets",
+            "4",
+            "2",
+            "2",
+            "484",
+            "461",
+            "+23",
+            ""
+          ],
+          [
+            "3",
+            "Houston Rockets",
+            "4",
+            "2",
+            "2",
+            "463",
+            "449",
+            "+14"
+          ],
+          [
+            "4",
+            "Portland Trail Blazers",
+            "4",
+            "2",
+            "2",
+            "454",
+            "485",
+            "−31"
+          ],
+          [
+            "5",
+            "Golden State Warriors",
+            "4",
+            "1",
+            "3",
+            "436",
+            "468",
+            "−32"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "Miami Heat",
+            "4",
+            "3",
+            "1",
+            "507",
+            "458",
+            "+49",
+            "Advanced to knockout rounds"
+          ],
+          [
+            "2",
+            "Atlanta Hawks",
+            "4",
+            "2",
+            "2",
+            "468",
+            "472",
+            "−4",
+            ""
+          ],
+          [
+            "3",
+            "Boston Celtics",
+            "4",
+            "2",
+            "2",
+            "441",
+            "458",
+            "−17"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD",
+          "Qualification"
+        ],
+        "rows": [
+          [
+            "1",
+            "Phoenix Suns",
+            "4",
+            "3",
+            "1",
+            "463",
+            "432",
+            "+31",
+            "Advanced to knockout rounds"
+          ],
+          [
+            "2",
+            "Memphis Grizzlies",
+            "4",
+            "3",
+            "1",
+            "464",
+            "450",
+            "+14",
+            ""
+          ],
+          [
+            "3",
+            "Denver Nuggets",
+            "4",
+            "2",
+            "2",
+            "484",
+            "461",
+            "+23"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD"
+        ],
+        "rows": [
+          [
+            "1",
+            "Orlando Magic",
+            "4",
+            "4",
+            "0",
+            "484",
+            "420",
+            "+64"
+          ],
+          [
+            "2",
+            "Toronto Raptors",
+            "4",
+            "4",
+            "0",
+            "458",
+            "403",
+            "+55"
+          ],
+          [
+            "3",
+            "New York Knicks",
+            "4",
+            "3",
+            "1",
+            "512",
+            "477",
+            "+35"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "4",
+            "Miami Heat",
+            "4",
+            "3",
+            "1",
+            "507",
+            "458",
+            "+49"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Pos",
+          "Team",
+          "Pld",
+          "W",
+          "L",
+          "PF",
+          "PA",
+          "PD"
+        ],
+        "rows": [
+          [
+            "1",
+            "Oklahoma City Thunder",
+            "4",
+            "4",
+            "0",
+            "512",
+            "437",
+            "+75"
+          ],
+          [
+            "2",
+            "Los Angeles Lakers",
+            "4",
+            "4",
+            "0",
+            "499",
+            "453",
+            "+46"
+          ],
+          [
+            "3",
+            "San Antonio Spurs",
+            "4",
+            "3",
+            "1",
+            "483",
+            "457",
+            "+26"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "4",
+            "Phoenix Suns",
+            "4",
+            "3",
+            "1",
+            "463",
+            "432",
+            "+31"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Starters:",
+          "Pts",
+          "Reb",
+          "Ast"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "G",
+            "1",
+            "Jalen Brunson",
+            "25",
+            "4",
+            "8"
+          ],
+          [
+            "G",
+            "25",
+            "Mikal Bridges",
+            "11",
+            "5",
+            "5"
+          ],
+          [
+            "F",
+            "3",
+            "Josh Hart",
+            "11",
+            "8",
+            "3"
+          ],
+          [
+            "F",
+            "8",
+            "OG Anunoby",
+            "28",
+            "9",
+            "3"
+          ],
+          [
+            "C",
+            "32",
+            "Karl-Anthony Towns",
+            "16",
+            "11",
+            "1"
+          ],
+          [
+            "Reserves:",
+            "",
+            "",
+            ""
+          ],
+          [
+            "G",
+            "00",
+            "Jordan Clarkson",
+            "15",
+            "2",
+            "0"
+          ],
+          [
+            "F",
+            "23",
+            "Mitchell Robinson",
+            "4",
+            "15",
+            "2"
+          ],
+          [
+            "G",
+            "13",
+            "Tyler Kolek",
+            "14",
+            "5",
+            "5"
+          ],
+          [
+            "C",
+            "55",
+            "Ariel Hukporti",
+            "0",
+            "0",
+            "0"
+          ],
+          [
+            "F",
+            "4",
+            "Pacôme Dadiet",
+            "DNP"
+          ],
+          [
+            "F",
+            "51",
+            "Mohamed Diawara",
+            "DNP"
+          ],
+          [
+            "G",
+            "12",
+            "Tosan Evbuomwan",
+            "DNP"
+          ],
+          [
+            "C",
+            "50",
+            "Trey Jemison",
+            "DNP"
+          ],
+          [
+            "G",
+            "9",
+            "Kevin McCullar Jr.",
+            "DNP"
+          ],
+          [
+            "F",
+            "28",
+            "Guerschon Yabusele",
+            "DNP"
+          ],
+          [
+            "Head coach:"
+          ],
+          [
+            "Mike Brown"
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "New York",
+          "Statistics",
+          "San Antonio"
+        ],
+        "rows": [
+          [
+            "",
+            ""
+          ],
+          [
+            "49/105 (46.7%)",
+            "Field goals",
+            "41/99 (41.4%)"
+          ],
+          [
+            "15/40 (37.5%)",
+            "3-point field goals",
+            "14/39 (35.9%)"
+          ],
+          [
+            "11/15 (73.3%)",
+            "Free throws",
+            "17/22 (77.3%)"
+          ],
+          [
+            "23",
+            "Offensive rebounds",
+            "18"
+          ],
+          [
+            "36",
+            "Defensive rebounds",
+            "24"
+          ],
+          [
+            "59",
+            "Total rebounds",
+            "42"
+          ],
+          [
+            "27",
+            "Assists",
+            "29"
+          ],
+          [
+            "10",
+            "Turnovers",
+            "8"
+          ],
+          [
+            "7",
+            "Steals",
+            "4"
+          ],
+          [
+            "6",
+            "Blocks",
+            "5"
+          ],
+          [
+            "20",
+            "Fouls",
+            "13"
+          ],
+          [
+            "56",
+            "Points in the paint",
+            "44"
+          ],
+          [
+            "13",
+            "Fast break points",
+            "10"
+          ],
+          [
+            "12",
+            "Biggest lead",
+            "11"
+          ],
+          [
+            "33",
+            "Bench points",
+            "45"
+          ],
+          [
+            "",
+            "Points off turnovers",
+            ""
+          ]
+        ]
+      },
+      {
+        "caption": "",
+        "headers": [
+          "Starters:",
+          "Pts",
+          "Reb",
+          "Ast"
+        ],
+        "rows": [
+          [
+            "",
+            "",
+            ""
+          ],
+          [
+            "G",
+            "4",
+            "De'Aaron Fox",
+            "16",
+            "2",
+            "9"
+          ],
+          [
+            "G",
+            "5",
+            "Stephon Castle",
+            "15",
+            "7",
+            "12"
+          ],
+          [
+            "F",
+            "24",
+            "Devin Vassell",
+            "12",
+            "5",
+            "3"
+          ],
+          [
+            "F",
+            "40",
+            "Harrison Barnes",
+            "11",
+            "3",
+            "2"
+          ],
+          [
+            "C",
+            "7",
+            "Luke Kornet",
+            "14",
+            "6",
+            "1"
+          ],
+          [
+            "Reserves:",
+            "",
+            "",
+            ""
+          ],
+          [
+            "C",
+            "1",
+            "Victor Wembanyama",
+            "18",
+            "6",
+            "1"
+          ],
+          [
+            "G",
+            "2",
+            "Dylan Harper",
+            "21",
+            "7",
+            "0"
+          ],
+          [
+            "F",
+            "30",
+            "Julian Champagnie",
+            "3",
+            "2",
+            "1"
+          ],
+          [
+            "G/F",
+            "3",
+            "Keldon Johnson",
+            "3",
+            "4",
+            "0"
+          ],
+          [
+            "C",
+            "18",
+            "Bismack Biyombo",
+            "DNP"
+          ],
+          [
+            "F",
+            "11",
+            "Carter Bryant",
+            "DNP"
+          ],
+          [
+            "G",
+            "0",
+            "Jordan McLaughlin",
+            "DNP"
+          ],
+          [
+            "F/C",
+            "8",
+            "Kelly Olynyk",
+            "DNP"
+          ],
+          [
+            "F",
+            "10",
+            "Jeremy Sochan",
+            "DNP"
+          ],
+          [
+            "F",
+            "43",
+            "Lindy Waters III",
+            "DNP"
+          ],
+          [
+            "Head coach:"
+          ],
+          [
+            "Mitch Johnson"
+          ]
+        ]
+      },
+      {
+        "caption": "All-NBA Cup Tournament Team",
+        "headers": [
+          "Pos.",
+          "Player",
+          "Team"
+        ],
+        "rows": [
+          [
+            "G",
+            "Jalen Brunson (MVP)",
+            "New York Knicks"
+          ],
+          [
+            "G",
+            "Luka Dončić",
+            "Los Angeles Lakers"
+          ],
+          [
+            "G",
+            "De'Aaron Fox",
+            "San Antonio Spurs"
+          ],
+          [
+            "G",
+            "Shai Gilgeous-Alexander",
+            "Oklahoma City Thunder"
+          ],
+          [
+            "C",
+            "Karl-Anthony Towns",
+            "New York Knicks"
+          ]
+        ]
+      }
+    ],
+    "bracket": "QuarterfinalsSemifinalsChampionship game December 9 – Orlando, FL 1Orlando117 December 13 – Las Vegas, NV 4Miami108 1Orlando120 December 9 – Toronto, ON 3New York132 2Toronto101 December 16 – Las Vegas, NV 3New York117 3New York124 December 10 – Oklahoma City, OK 3San Antonio113 1Oklahoma City138 December 13 – Las Vegas, NV 4Phoenix89 1Oklahoma City109 December 10 – Los Angeles, CA 3San Antonio111 2LA Lakers119 3San Antonio132"
+  }
 ]
