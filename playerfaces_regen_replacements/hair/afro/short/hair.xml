@@ -1,0 +1,907 @@
+<!-- 
+	 Colours: blonde, lightbrown, darkbrown, black, red, grey, bald
+	 Ethnicities: afro - African
+				  euro - European
+				  hisp - Hispanic
+				  eind - East Indian
+				  asia - Asian 
+	 Lengths: short, medium, long
+-->
+
+<properties>
+	<list id="hair">
+	
+
+<!-- black-->		
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3001"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3002"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3003"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3004"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3005"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3006"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3007"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3008"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3009"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3010"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3011"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3012"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3013"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3014"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3015"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3016"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3017"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3018"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3019"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3020"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3021"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3022"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3023"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3024"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3025"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3026"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3027"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3028"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3029"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3030"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3031"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3032"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3033"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3034"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3035"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3036"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3037"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3038"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3039"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3040"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3041"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3042"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3043"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3044"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3045"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3046"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3047"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3048"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3049"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3050"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3051"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3052"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3053"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3054"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3055"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3056"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3057"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3058"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3059"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3060"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3061"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3062"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3063"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3064"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3065"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3066"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/black_3067"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+	
+<!-- blond-->		
+		<record>
+			<string id="name" value="facegen/hair/afro/short/blond_3001"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="blonde"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/blond_3002"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="blonde"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/blond_3003"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="blonde"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/blond_3004"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="blonde"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/blond_3005"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="blonde"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/blond_3006"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="blonde"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/blond_3007"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="blonde"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+
+<!-- darkbrown-->		
+		<record>
+			<string id="name" value="facegen/hair/afro/short/darkbrown_3001"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>		
+		<record>
+			<string id="name" value="facegen/hair/afro/short/darkbrown_3002"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>		
+		<record>
+			<string id="name" value="facegen/hair/afro/short/darkbrown_3003"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>		
+		<record>
+			<string id="name" value="facegen/hair/afro/short/darkbrown_3004"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>		
+		<record>
+			<string id="name" value="facegen/hair/afro/short/darkbrown_3005"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>		
+		<record>
+			<string id="name" value="facegen/hair/afro/short/darkbrown_3006"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>		
+		<record>
+			<string id="name" value="facegen/hair/afro/short/darkbrown_3007"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/darkbrown_3008"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>		
+		<record>
+			<string id="name" value="facegen/hair/afro/short/darkbrown_3009"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/darkbrown_3010"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>		
+		<record>
+			<string id="name" value="facegen/hair/afro/short/darkbrown_3011"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+
+<!-- lightbrown-->		
+		<record>
+			<string id="name" value="facegen/hair/afro/short/lightbrown_3001"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="lightbrown"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+
+<!-- red-->		
+		<record>
+			<string id="name" value="facegen/hair/afro/short/red_3001"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="red"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+
+<!-- bald-->		
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3001"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3002"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3003"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3004"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3005"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3006"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3007"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3008"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3009"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3010"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3011"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3012"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3013"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3014"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3015"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3016"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3017"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3018"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3019"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3020"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3021"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3022"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/afro/short/bald_3023"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="bald"/>
+			<flags id="length" value="short"/>
+			<integer id="chance" value="1"/>
+			<boolean id="afro" value="true"/>
+		</record>
+	</list>
+</properties>

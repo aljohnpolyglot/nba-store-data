@@ -1,0 +1,41 @@
+<record>
+	<!-- resource manager options -->
+
+	<!-- dont preload anything in this folder -->
+	<boolean id="preload" value="false"/>
+
+	<!-- turn off auto mapping -->
+	<boolean id="amap" value="false"/>
+
+	<!-- logo mappings -->
+	<!-- the following XML maps pictures inside this folder into other positions
+	in the resource system, which allows this folder to be dropped into any
+	place in the graphics folder and still have the game pick up the graphics
+	files from the correct places
+	-->
+
+	<list id="maps">
+		
+		<!-- black-->
+		<record from="black_3001" to="graphics/facegen/hair/asia/long/black_3001"/>
+		<record from="black_3002" to="graphics/facegen/hair/asia/long/black_3002"/>
+		<record from="black_3003" to="graphics/facegen/hair/asia/long/black_3003"/>
+		<record from="black_3004" to="graphics/facegen/hair/asia/long/black_3004"/>
+		<record from="black_3005" to="graphics/facegen/hair/asia/long/black_3005"/>
+		<record from="black_3006" to="graphics/facegen/hair/asia/long/black_3006"/>
+		<record from="black_3007" to="graphics/facegen/hair/asia/long/black_3007"/>
+		<record from="black_3008" to="graphics/facegen/hair/asia/long/black_3008"/>
+
+		<!-- darkbrown-->
+		<record from="darkbrown_3001" to="graphics/facegen/hair/asia/long/darkbrown_3001"/>
+		<record from="darkbrown_3002" to="graphics/facegen/hair/asia/long/darkbrown_3002"/>
+		<record from="darkbrown_3003" to="graphics/facegen/hair/asia/long/darkbrown_3003"/>
+		<record from="darkbrown_3004" to="graphics/facegen/hair/asia/long/darkbrown_3004"/>
+		<record from="darkbrown_3005" to="graphics/facegen/hair/asia/long/darkbrown_3005"/>
+		<record from="darkbrown_3006" to="graphics/facegen/hair/asia/long/darkbrown_3006"/>
+		<record from="darkbrown_3007" to="graphics/facegen/hair/asia/long/darkbrown_3007"/>
+		<record from="darkbrown_3008" to="graphics/facegen/hair/asia/long/darkbrown_3008"/>
+		<record from="darkbrown_3009" to="graphics/facegen/hair/asia/long/darkbrown_3009"/>
+
+	</list>
+</record>

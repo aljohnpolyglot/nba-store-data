@@ -1,0 +1,530 @@
+<!-- 
+	 Colours: blonde, lightbrown, darkbrown, black, red, grey, bald
+	 Ethnicities: afro - African
+				  euro - european
+				  hisp - Hispanic
+				  asia - East Indian
+				  asia - Asian 
+	 Lengths: short, medium, long
+-->
+
+<properties>
+	<list id="hair">
+
+<!-- black -->
+
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3001"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+			
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3002"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3003"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3004"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+			
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3005"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3006"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3007"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+			
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3008"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3009"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3010"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3011"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3012"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3013"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3014"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3015"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3016"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3017"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3018"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3019"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3020"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3021"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3022"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3023"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3024"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3025"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3026"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3027"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3028"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/black_3029"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="black"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+<!-- darkbrown -->
+
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3001"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+			
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3002"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3003"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3004"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+			
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3005"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3006"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3007"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+			
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3008"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3009"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3010"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3011"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3012"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3013"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3014"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3015"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3016"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3017"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3018"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3019"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3020"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3021"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3022"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3023"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3024"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3025"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3026"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3027"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+		
+		<record>
+			<string id="name" value="facegen/hair/asia/medium/darkbrown_3028"/>
+			<integer id="age" value="20"/>
+			<flags id="colour" value="darkbrown"/>
+			<flags id="length" value="medium"/>
+			<integer id="chance" value="1"/>
+			<boolean id="asia" value="true"/>
+		</record>
+
+	</list>
+</properties>

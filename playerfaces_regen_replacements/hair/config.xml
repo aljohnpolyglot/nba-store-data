@@ -1,0 +1,9 @@
+<record>
+	<!-- resource manager options -->
+
+	<!-- don't need to cache this stuff as the media manager keeps its own copy -->
+	<boolean id="cache" value="false"/>
+	
+    <!-- need to build a list of all the resources in this folder -->
+    <boolean id="store_resource_list" value="true"/>
+</record>

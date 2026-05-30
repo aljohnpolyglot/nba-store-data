@@ -1,0 +1,92 @@
+<record>
+	<!-- resource manager options -->
+
+	<!-- dont preload anything in this folder -->
+	<boolean id="preload" value="false"/>
+
+	<!-- turn off auto mapping -->
+	<boolean id="amap" value="false"/>
+
+	<!-- logo mappings -->
+	<!-- the following XML maps pictures inside this folder into other positions
+	in the resource system, which allows this folder to be dropped into any
+	place in the graphics folder and still have the game pick up the graphics
+	files from the correct places
+	-->
+
+	<list id="maps">
+		
+		<!-- black-->
+		<record from="black_3001" to="graphics/facegen/hair/euro/long/black_3001"/>
+		<record from="black_3002" to="graphics/facegen/hair/euro/long/black_3002"/>
+		<record from="black_3003" to="graphics/facegen/hair/euro/long/black_3003"/>
+		<record from="black_3004" to="graphics/facegen/hair/euro/long/black_3004"/>
+		<record from="black_3005" to="graphics/facegen/hair/euro/long/black_3005"/>
+		<record from="black_3006" to="graphics/facegen/hair/euro/long/black_3006"/>
+		<record from="black_3007" to="graphics/facegen/hair/euro/long/black_3007"/>
+		<record from="black_3008" to="graphics/facegen/hair/euro/long/black_3008"/>
+		<record from="black_3009" to="graphics/facegen/hair/euro/long/black_3009"/>
+		<record from="black_3010" to="graphics/facegen/hair/euro/long/black_3010"/>
+		<record from="black_3011" to="graphics/facegen/hair/euro/long/black_3011"/>
+		<record from="black_3012" to="graphics/facegen/hair/euro/long/black_3012"/>
+		<record from="black_3013" to="graphics/facegen/hair/euro/long/black_3013"/>
+		<record from="black_3014" to="graphics/facegen/hair/euro/long/black_3014"/>
+		<record from="black_3015" to="graphics/facegen/hair/euro/long/black_3015"/>
+
+		<!-- blonde-->
+		<record from="blonde_3001" to="graphics/facegen/hair/euro/long/blonde_3001"/>
+		<record from="blonde_3002" to="graphics/facegen/hair/euro/long/blonde_3002"/>
+		<record from="blonde_3003" to="graphics/facegen/hair/euro/long/blonde_3003"/>
+		<record from="blonde_3004" to="graphics/facegen/hair/euro/long/blonde_3004"/>
+		<record from="blonde_3005" to="graphics/facegen/hair/euro/long/blonde_3005"/>
+		<record from="blonde_3006" to="graphics/facegen/hair/euro/long/blonde_3006"/>
+		<record from="blonde_3007" to="graphics/facegen/hair/euro/long/blonde_3007"/>
+		<record from="blonde_3008" to="graphics/facegen/hair/euro/long/blonde_3008"/>
+		<record from="blonde_3009" to="graphics/facegen/hair/euro/long/blonde_3009"/>
+		<record from="blonde_3010" to="graphics/facegen/hair/euro/long/blonde_3010"/>
+		<record from="blonde_3011" to="graphics/facegen/hair/euro/long/blonde_3011"/>
+
+		<!-- darkbrown-->
+		<record from="darkbrown_3001" to="graphics/facegen/hair/euro/long/darkbrown_3001"/>
+		<record from="darkbrown_3002" to="graphics/facegen/hair/euro/long/darkbrown_3002"/>
+		<record from="darkbrown_3003" to="graphics/facegen/hair/euro/long/darkbrown_3003"/>
+		<record from="darkbrown_3004" to="graphics/facegen/hair/euro/long/darkbrown_3004"/>
+		<record from="darkbrown_3005" to="graphics/facegen/hair/euro/long/darkbrown_3005"/>
+		<record from="darkbrown_3006" to="graphics/facegen/hair/euro/long/darkbrown_3006"/>
+		<record from="darkbrown_3007" to="graphics/facegen/hair/euro/long/darkbrown_3007"/>
+		<record from="darkbrown_3008" to="graphics/facegen/hair/euro/long/darkbrown_3008"/>
+		<record from="darkbrown_3009" to="graphics/facegen/hair/euro/long/darkbrown_3009"/>
+		<record from="darkbrown_3010" to="graphics/facegen/hair/euro/long/darkbrown_3010"/>
+		<record from="darkbrown_3011" to="graphics/facegen/hair/euro/long/darkbrown_3011"/>
+		<record from="darkbrown_3012" to="graphics/facegen/hair/euro/long/darkbrown_3012"/>
+		<record from="darkbrown_3013" to="graphics/facegen/hair/euro/long/darkbrown_3013"/>
+		<record from="darkbrown_3014" to="graphics/facegen/hair/euro/long/darkbrown_3014"/>
+		<record from="darkbrown_3015" to="graphics/facegen/hair/euro/long/darkbrown_3015"/>
+		
+		<!-- lightbrown-->
+		<record from="lightbrown_3001" to="graphics/facegen/hair/euro/long/lightbrown_3001"/>
+		<record from="lightbrown_3002" to="graphics/facegen/hair/euro/long/lightbrown_3002"/>
+		<record from="lightbrown_3003" to="graphics/facegen/hair/euro/long/lightbrown_3003"/>
+		<record from="lightbrown_3004" to="graphics/facegen/hair/euro/long/lightbrown_3004"/>
+		<record from="lightbrown_3005" to="graphics/facegen/hair/euro/long/lightbrown_3005"/>
+		<record from="lightbrown_3006" to="graphics/facegen/hair/euro/long/lightbrown_3006"/>
+		<record from="lightbrown_3007" to="graphics/facegen/hair/euro/long/lightbrown_3007"/>
+		<record from="lightbrown_3008" to="graphics/facegen/hair/euro/long/lightbrown_3008"/>
+		<record from="lightbrown_3009" to="graphics/facegen/hair/euro/long/lightbrown_3009"/>
+		<record from="lightbrown_3010" to="graphics/facegen/hair/euro/long/lightbrown_3010"/>
+		<record from="lightbrown_3011" to="graphics/facegen/hair/euro/long/lightbrown_3011"/>
+		<record from="lightbrown_3012" to="graphics/facegen/hair/euro/long/lightbrown_3012"/>
+		<record from="lightbrown_3013" to="graphics/facegen/hair/euro/long/lightbrown_3013"/>
+		<record from="lightbrown_3014" to="graphics/facegen/hair/euro/long/lightbrown_3014"/>
+		
+		<!-- red-->
+		<record from="red_3001" to="graphics/facegen/hair/euro/long/red_3001"/>
+		<record from="red_3002" to="graphics/facegen/hair/euro/long/red_3002"/>
+		<record from="red_3003" to="graphics/facegen/hair/euro/long/red_3003"/>
+		
+		<!-- grey-->
+		<record from="grey_3001" to="graphics/facegen/hair/euro/long/grey_3001"/>
+		<record from="grey_3002" to="graphics/facegen/hair/euro/long/grey_3002"/>
+
+	</list>
+</record>
