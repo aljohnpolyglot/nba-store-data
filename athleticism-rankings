@@ -1,0 +1,2903 @@
+{
+  "metadata": {
+    "source": "World Athletics men's overall world rankings",
+    "sourceUrl": "https://worldathletics.org/world-rankings/overall-ranking/men?regionType=world&page=1&rankDate=2026-07-14&limitByCountry=0",
+    "rankDate": "2026-07-14",
+    "pagesScraped": [
+      1,
+      10
+    ],
+    "generatedAt": "2026-07-17T16:23:20.817056+08:00",
+    "totalRankingRowsParsed": 1000,
+    "totalQualifyingAthletes": 450,
+    "countriesRepresented": 76,
+    "methodology": "Scrape pages 1-10 of the men's worldwide overall ranking, retain athletes whose event list includes at least one selected explosive event, count each athlete once for their country, then convert country counts to midpoint percentiles. athleticismRating is the rounded percentile from 1 to 100.",
+    "includedEvents": [
+      "100m",
+      "100mH",
+      "110mH",
+      "200m",
+      "300m",
+      "300mH",
+      "400m",
+      "400mH",
+      "60m",
+      "60mH",
+      "Decathlon",
+      "Heptathlon",
+      "High Jump",
+      "Long Jump",
+      "Pole Vault",
+      "Triple Jump"
+    ]
+  },
+  "countries": [
+    {
+      "countryCode": "USA",
+      "countryName": "USA",
+      "qualifyingAthleteCount": 97,
+      "percentile": 100,
+      "athleticismRating": 100,
+      "eventBreakdown": {
+        "100m": 23,
+        "110mH": 22,
+        "200m": 20,
+        "300m": 2,
+        "300mH": 2,
+        "400m": 21,
+        "400mH": 7,
+        "60m": 7,
+        "60mH": 13,
+        "Decathlon": 5,
+        "High Jump": 2,
+        "Long Jump": 2,
+        "Pole Vault": 14,
+        "Triple Jump": 2
+      },
+      "rank": 1,
+      "rawWeightedScore": 109.03,
+      "randomFactor": 0.9993,
+      "weightedAthleticismScore": 108.948,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 23,
+          "weight": 1.0,
+          "weightedScore": 23.0
+        },
+        "110mH": {
+          "count": 22,
+          "weight": 0.8,
+          "weightedScore": 17.6
+        },
+        "200m": {
+          "count": 20,
+          "weight": 0.9,
+          "weightedScore": 18.0
+        },
+        "300m": {
+          "count": 2,
+          "weight": 0.65,
+          "weightedScore": 1.3
+        },
+        "300mH": {
+          "count": 2,
+          "weight": 0.62,
+          "weightedScore": 1.24
+        },
+        "400m": {
+          "count": 21,
+          "weight": 0.72,
+          "weightedScore": 15.12
+        },
+        "400mH": {
+          "count": 7,
+          "weight": 0.68,
+          "weightedScore": 4.76
+        },
+        "60m": {
+          "count": 7,
+          "weight": 0.85,
+          "weightedScore": 5.95
+        },
+        "60mH": {
+          "count": 13,
+          "weight": 0.75,
+          "weightedScore": 9.75
+        },
+        "Decathlon": {
+          "count": 5,
+          "weight": 0.75,
+          "weightedScore": 3.75
+        },
+        "High Jump": {
+          "count": 2,
+          "weight": 0.72,
+          "weightedScore": 1.44
+        },
+        "Long Jump": {
+          "count": 2,
+          "weight": 0.78,
+          "weightedScore": 1.56
+        },
+        "Pole Vault": {
+          "count": 14,
+          "weight": 0.3,
+          "weightedScore": 4.2
+        },
+        "Triple Jump": {
+          "count": 2,
+          "weight": 0.68,
+          "weightedScore": 1.36
+        }
+      }
+    },
+    {
+      "countryCode": "JAM",
+      "countryName": "JAM",
+      "qualifyingAthleteCount": 32,
+      "percentile": 98.67,
+      "athleticismRating": 99.0,
+      "eventBreakdown": {
+        "100m": 10,
+        "110mH": 7,
+        "200m": 6,
+        "400m": 3,
+        "400mH": 3,
+        "60m": 7,
+        "60mH": 3,
+        "High Jump": 1,
+        "Long Jump": 4,
+        "Triple Jump": 1
+      },
+      "rank": 2,
+      "rawWeightedScore": 37.92,
+      "randomFactor": 1.0488,
+      "weightedAthleticismScore": 39.771,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 10,
+          "weight": 1.0,
+          "weightedScore": 10.0
+        },
+        "110mH": {
+          "count": 7,
+          "weight": 0.8,
+          "weightedScore": 5.6
+        },
+        "200m": {
+          "count": 6,
+          "weight": 0.9,
+          "weightedScore": 5.4
+        },
+        "400m": {
+          "count": 3,
+          "weight": 0.72,
+          "weightedScore": 2.16
+        },
+        "400mH": {
+          "count": 3,
+          "weight": 0.68,
+          "weightedScore": 2.04
+        },
+        "60m": {
+          "count": 7,
+          "weight": 0.85,
+          "weightedScore": 5.95
+        },
+        "60mH": {
+          "count": 3,
+          "weight": 0.75,
+          "weightedScore": 2.25
+        },
+        "High Jump": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "Long Jump": {
+          "count": 4,
+          "weight": 0.78,
+          "weightedScore": 3.12
+        },
+        "Triple Jump": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        }
+      }
+    },
+    {
+      "countryCode": "RSA",
+      "countryName": "RSA",
+      "qualifyingAthleteCount": 21,
+      "percentile": 97.33,
+      "athleticismRating": 97.0,
+      "eventBreakdown": {
+        "100m": 10,
+        "110mH": 5,
+        "200m": 6,
+        "300m": 1,
+        "300mH": 1,
+        "400m": 4,
+        "400mH": 1,
+        "60mH": 1,
+        "Long Jump": 1
+      },
+      "rank": 3,
+      "rawWeightedScore": 25.76,
+      "randomFactor": 1.0258,
+      "weightedAthleticismScore": 26.424,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 10,
+          "weight": 1.0,
+          "weightedScore": 10.0
+        },
+        "110mH": {
+          "count": 5,
+          "weight": 0.8,
+          "weightedScore": 4.0
+        },
+        "200m": {
+          "count": 6,
+          "weight": 0.9,
+          "weightedScore": 5.4
+        },
+        "300m": {
+          "count": 1,
+          "weight": 0.65,
+          "weightedScore": 0.65
+        },
+        "300mH": {
+          "count": 1,
+          "weight": 0.62,
+          "weightedScore": 0.62
+        },
+        "400m": {
+          "count": 4,
+          "weight": 0.72,
+          "weightedScore": 2.88
+        },
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        },
+        "60mH": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        },
+        "Long Jump": {
+          "count": 1,
+          "weight": 0.78,
+          "weightedScore": 0.78
+        }
+      }
+    },
+    {
+      "countryCode": "FRA",
+      "countryName": "FRA",
+      "qualifyingAthleteCount": 26,
+      "percentile": 96.0,
+      "athleticismRating": 96.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "110mH": 8,
+        "200m": 1,
+        "400m": 2,
+        "400mH": 1,
+        "60mH": 4,
+        "Decathlon": 2,
+        "Pole Vault": 9,
+        "Triple Jump": 3
+      },
+      "rank": 4,
+      "rawWeightedScore": 19.66,
+      "randomFactor": 0.9509,
+      "weightedAthleticismScore": 18.694,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "110mH": {
+          "count": 8,
+          "weight": 0.8,
+          "weightedScore": 6.4
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        },
+        "400m": {
+          "count": 2,
+          "weight": 0.72,
+          "weightedScore": 1.44
+        },
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        },
+        "60mH": {
+          "count": 4,
+          "weight": 0.75,
+          "weightedScore": 3.0
+        },
+        "Decathlon": {
+          "count": 2,
+          "weight": 0.75,
+          "weightedScore": 1.5
+        },
+        "Pole Vault": {
+          "count": 9,
+          "weight": 0.3,
+          "weightedScore": 2.7
+        },
+        "Triple Jump": {
+          "count": 3,
+          "weight": 0.68,
+          "weightedScore": 2.04
+        }
+      }
+    },
+    {
+      "countryCode": "GBR",
+      "countryName": "GBR",
+      "qualifyingAthleteCount": 17,
+      "percentile": 94.67,
+      "athleticismRating": 95.0,
+      "eventBreakdown": {
+        "100m": 6,
+        "110mH": 2,
+        "200m": 1,
+        "300m": 1,
+        "400m": 2,
+        "400mH": 5,
+        "60m": 3,
+        "High Jump": 1,
+        "Pole Vault": 1
+      },
+      "rank": 5,
+      "rawWeightedScore": 17.56,
+      "randomFactor": 0.922,
+      "weightedAthleticismScore": 16.191,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 6,
+          "weight": 1.0,
+          "weightedScore": 6.0
+        },
+        "110mH": {
+          "count": 2,
+          "weight": 0.8,
+          "weightedScore": 1.6
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        },
+        "300m": {
+          "count": 1,
+          "weight": 0.65,
+          "weightedScore": 0.65
+        },
+        "400m": {
+          "count": 2,
+          "weight": 0.72,
+          "weightedScore": 1.44
+        },
+        "400mH": {
+          "count": 5,
+          "weight": 0.68,
+          "weightedScore": 3.4
+        },
+        "60m": {
+          "count": 3,
+          "weight": 0.85,
+          "weightedScore": 2.55
+        },
+        "High Jump": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        }
+      }
+    },
+    {
+      "countryCode": "AUS",
+      "countryName": "AUS",
+      "qualifyingAthleteCount": 13,
+      "percentile": 93.33,
+      "athleticismRating": 93.0,
+      "eventBreakdown": {
+        "100m": 5,
+        "200m": 4,
+        "400m": 4,
+        "400mH": 1,
+        "Long Jump": 2,
+        "Pole Vault": 1
+      },
+      "rank": 6,
+      "rawWeightedScore": 14.02,
+      "randomFactor": 1.0251,
+      "weightedAthleticismScore": 14.371,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 5,
+          "weight": 1.0,
+          "weightedScore": 5.0
+        },
+        "200m": {
+          "count": 4,
+          "weight": 0.9,
+          "weightedScore": 3.6
+        },
+        "400m": {
+          "count": 4,
+          "weight": 0.72,
+          "weightedScore": 2.88
+        },
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        },
+        "Long Jump": {
+          "count": 2,
+          "weight": 0.78,
+          "weightedScore": 1.56
+        },
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        }
+      }
+    },
+    {
+      "countryCode": "JPN",
+      "countryName": "JPN",
+      "qualifyingAthleteCount": 17,
+      "percentile": 92.0,
+      "athleticismRating": 92.0,
+      "eventBreakdown": {
+        "100m": 2,
+        "110mH": 5,
+        "200m": 1,
+        "400m": 2,
+        "400mH": 4,
+        "60m": 1,
+        "60mH": 1,
+        "High Jump": 2,
+        "Long Jump": 1
+      },
+      "rank": 7,
+      "rawWeightedScore": 14.88,
+      "randomFactor": 0.9522,
+      "weightedAthleticismScore": 14.169,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 2,
+          "weight": 1.0,
+          "weightedScore": 2.0
+        },
+        "110mH": {
+          "count": 5,
+          "weight": 0.8,
+          "weightedScore": 4.0
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        },
+        "400m": {
+          "count": 2,
+          "weight": 0.72,
+          "weightedScore": 1.44
+        },
+        "400mH": {
+          "count": 4,
+          "weight": 0.68,
+          "weightedScore": 2.72
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        },
+        "60mH": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        },
+        "High Jump": {
+          "count": 2,
+          "weight": 0.72,
+          "weightedScore": 1.44
+        },
+        "Long Jump": {
+          "count": 1,
+          "weight": 0.78,
+          "weightedScore": 0.78
+        }
+      }
+    },
+    {
+      "countryCode": "BRA",
+      "countryName": "BRA",
+      "qualifyingAthleteCount": 10,
+      "percentile": 90.67,
+      "athleticismRating": 91.0,
+      "eventBreakdown": {
+        "100m": 2,
+        "110mH": 3,
+        "300mH": 2,
+        "400mH": 3,
+        "60m": 2,
+        "60mH": 2,
+        "Triple Jump": 2
+      },
+      "rank": 8,
+      "rawWeightedScore": 12.24,
+      "randomFactor": 1.0318,
+      "weightedAthleticismScore": 12.629,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 2,
+          "weight": 1.0,
+          "weightedScore": 2.0
+        },
+        "110mH": {
+          "count": 3,
+          "weight": 0.8,
+          "weightedScore": 2.4
+        },
+        "300mH": {
+          "count": 2,
+          "weight": 0.62,
+          "weightedScore": 1.24
+        },
+        "400mH": {
+          "count": 3,
+          "weight": 0.68,
+          "weightedScore": 2.04
+        },
+        "60m": {
+          "count": 2,
+          "weight": 0.85,
+          "weightedScore": 1.7
+        },
+        "60mH": {
+          "count": 2,
+          "weight": 0.75,
+          "weightedScore": 1.5
+        },
+        "Triple Jump": {
+          "count": 2,
+          "weight": 0.68,
+          "weightedScore": 1.36
+        }
+      }
+    },
+    {
+      "countryCode": "NED",
+      "countryName": "NED",
+      "qualifyingAthleteCount": 10,
+      "percentile": 89.33,
+      "athleticismRating": 89.0,
+      "eventBreakdown": {
+        "100m": 2,
+        "110mH": 3,
+        "200m": 2,
+        "400m": 4,
+        "60m": 1,
+        "60mH": 1,
+        "Pole Vault": 1
+      },
+      "rank": 9,
+      "rawWeightedScore": 10.98,
+      "randomFactor": 1.0555,
+      "weightedAthleticismScore": 11.589,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 2,
+          "weight": 1.0,
+          "weightedScore": 2.0
+        },
+        "110mH": {
+          "count": 3,
+          "weight": 0.8,
+          "weightedScore": 2.4
+        },
+        "200m": {
+          "count": 2,
+          "weight": 0.9,
+          "weightedScore": 1.8
+        },
+        "400m": {
+          "count": 4,
+          "weight": 0.72,
+          "weightedScore": 2.88
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        },
+        "60mH": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        },
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        }
+      }
+    },
+    {
+      "countryCode": "CHN",
+      "countryName": "CHN",
+      "qualifyingAthleteCount": 12,
+      "percentile": 88.0,
+      "athleticismRating": 88.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "110mH": 4,
+        "60m": 1,
+        "60mH": 1,
+        "Long Jump": 3,
+        "Pole Vault": 2,
+        "Triple Jump": 2
+      },
+      "rank": 10,
+      "rawWeightedScore": 10.1,
+      "randomFactor": 1.0367,
+      "weightedAthleticismScore": 10.471,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "110mH": {
+          "count": 4,
+          "weight": 0.8,
+          "weightedScore": 3.2
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        },
+        "60mH": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        },
+        "Long Jump": {
+          "count": 3,
+          "weight": 0.78,
+          "weightedScore": 2.34
+        },
+        "Pole Vault": {
+          "count": 2,
+          "weight": 0.3,
+          "weightedScore": 0.6
+        },
+        "Triple Jump": {
+          "count": 2,
+          "weight": 0.68,
+          "weightedScore": 1.36
+        }
+      }
+    },
+    {
+      "countryCode": "ITA",
+      "countryName": "ITA",
+      "qualifyingAthleteCount": 12,
+      "percentile": 86.67,
+      "athleticismRating": 87.0,
+      "eventBreakdown": {
+        "100m": 2,
+        "110mH": 1,
+        "200m": 1,
+        "400m": 1,
+        "400mH": 1,
+        "60mH": 1,
+        "Decathlon": 1,
+        "High Jump": 1,
+        "Long Jump": 1,
+        "Pole Vault": 1,
+        "Triple Jump": 2
+      },
+      "rank": 11,
+      "rawWeightedScore": 9.76,
+      "randomFactor": 1.0602,
+      "weightedAthleticismScore": 10.348,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 2,
+          "weight": 1.0,
+          "weightedScore": 2.0
+        },
+        "110mH": {
+          "count": 1,
+          "weight": 0.8,
+          "weightedScore": 0.8
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        },
+        "400m": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        },
+        "60mH": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        },
+        "Decathlon": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        },
+        "High Jump": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "Long Jump": {
+          "count": 1,
+          "weight": 0.78,
+          "weightedScore": 0.78
+        },
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        },
+        "Triple Jump": {
+          "count": 2,
+          "weight": 0.68,
+          "weightedScore": 1.36
+        }
+      }
+    },
+    {
+      "countryCode": "BEL",
+      "countryName": "BEL",
+      "qualifyingAthleteCount": 10,
+      "percentile": 85.33,
+      "athleticismRating": 85.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "110mH": 2,
+        "200m": 1,
+        "400m": 4,
+        "60m": 1,
+        "60mH": 1,
+        "Decathlon": 1,
+        "High Jump": 1,
+        "Pole Vault": 1
+      },
+      "rank": 12,
+      "rawWeightedScore": 9.75,
+      "randomFactor": 0.9947,
+      "weightedAthleticismScore": 9.699,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "110mH": {
+          "count": 2,
+          "weight": 0.8,
+          "weightedScore": 1.6
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        },
+        "400m": {
+          "count": 4,
+          "weight": 0.72,
+          "weightedScore": 2.88
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        },
+        "60mH": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        },
+        "Decathlon": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        },
+        "High Jump": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        }
+      }
+    },
+    {
+      "countryCode": "NGR",
+      "countryName": "NGR",
+      "qualifyingAthleteCount": 6,
+      "percentile": 84.0,
+      "athleticismRating": 84.0,
+      "eventBreakdown": {
+        "100m": 3,
+        "200m": 2,
+        "400m": 1,
+        "400mH": 1,
+        "60m": 2
+      },
+      "rank": 13,
+      "rawWeightedScore": 7.9,
+      "randomFactor": 0.9972,
+      "weightedAthleticismScore": 7.878,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 3,
+          "weight": 1.0,
+          "weightedScore": 3.0
+        },
+        "200m": {
+          "count": 2,
+          "weight": 0.9,
+          "weightedScore": 1.8
+        },
+        "400m": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        },
+        "60m": {
+          "count": 2,
+          "weight": 0.85,
+          "weightedScore": 1.7
+        }
+      }
+    },
+    {
+      "countryCode": "GER",
+      "countryName": "GER",
+      "qualifyingAthleteCount": 11,
+      "percentile": 82.67,
+      "athleticismRating": 83.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "400m": 1,
+        "400mH": 3,
+        "60m": 1,
+        "Decathlon": 3,
+        "Long Jump": 1,
+        "Pole Vault": 2
+      },
+      "rank": 14,
+      "rawWeightedScore": 8.24,
+      "randomFactor": 0.9301,
+      "weightedAthleticismScore": 7.664,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "400m": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "400mH": {
+          "count": 3,
+          "weight": 0.68,
+          "weightedScore": 2.04
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        },
+        "Decathlon": {
+          "count": 3,
+          "weight": 0.75,
+          "weightedScore": 2.25
+        },
+        "Long Jump": {
+          "count": 1,
+          "weight": 0.78,
+          "weightedScore": 0.78
+        },
+        "Pole Vault": {
+          "count": 2,
+          "weight": 0.3,
+          "weightedScore": 0.6
+        }
+      }
+    },
+    {
+      "countryCode": "ESP",
+      "countryName": "ESP",
+      "qualifyingAthleteCount": 6,
+      "percentile": 81.33,
+      "athleticismRating": 81.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "110mH": 2,
+        "400mH": 1,
+        "60m": 1,
+        "60mH": 1,
+        "Long Jump": 2
+      },
+      "rank": 15,
+      "rawWeightedScore": 6.44,
+      "randomFactor": 1.0774,
+      "weightedAthleticismScore": 6.938,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "110mH": {
+          "count": 2,
+          "weight": 0.8,
+          "weightedScore": 1.6
+        },
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        },
+        "60mH": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        },
+        "Long Jump": {
+          "count": 2,
+          "weight": 0.78,
+          "weightedScore": 1.56
+        }
+      }
+    },
+    {
+      "countryCode": "BOT",
+      "countryName": "BOT",
+      "qualifyingAthleteCount": 8,
+      "percentile": 80.0,
+      "athleticismRating": 80.0,
+      "eventBreakdown": {
+        "200m": 3,
+        "400m": 4,
+        "400mH": 2
+      },
+      "rank": 16,
+      "rawWeightedScore": 6.94,
+      "randomFactor": 0.9984,
+      "weightedAthleticismScore": 6.929,
+      "weightedEventBreakdown": {
+        "200m": {
+          "count": 3,
+          "weight": 0.9,
+          "weightedScore": 2.7
+        },
+        "400m": {
+          "count": 4,
+          "weight": 0.72,
+          "weightedScore": 2.88
+        },
+        "400mH": {
+          "count": 2,
+          "weight": 0.68,
+          "weightedScore": 1.36
+        }
+      }
+    },
+    {
+      "countryCode": "CAN",
+      "countryName": "CAN",
+      "qualifyingAthleteCount": 6,
+      "percentile": 78.67,
+      "athleticismRating": 79.0,
+      "eventBreakdown": {
+        "100m": 3,
+        "200m": 3,
+        "400m": 1,
+        "Decathlon": 1
+      },
+      "rank": 17,
+      "rawWeightedScore": 7.17,
+      "randomFactor": 0.9654,
+      "weightedAthleticismScore": 6.922,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 3,
+          "weight": 1.0,
+          "weightedScore": 3.0
+        },
+        "200m": {
+          "count": 3,
+          "weight": 0.9,
+          "weightedScore": 2.7
+        },
+        "400m": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "Decathlon": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        }
+      }
+    },
+    {
+      "countryCode": "POL",
+      "countryName": "POL",
+      "qualifyingAthleteCount": 5,
+      "percentile": 77.33,
+      "athleticismRating": 77.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "110mH": 2,
+        "60m": 1,
+        "60mH": 2,
+        "High Jump": 1,
+        "Pole Vault": 1
+      },
+      "rank": 18,
+      "rawWeightedScore": 5.97,
+      "randomFactor": 1.0639,
+      "weightedAthleticismScore": 6.351,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "110mH": {
+          "count": 2,
+          "weight": 0.8,
+          "weightedScore": 1.6
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        },
+        "60mH": {
+          "count": 2,
+          "weight": 0.75,
+          "weightedScore": 1.5
+        },
+        "High Jump": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        }
+      }
+    },
+    {
+      "countryCode": "GHA",
+      "countryName": "GHA",
+      "qualifyingAthleteCount": 4,
+      "percentile": 76.0,
+      "athleticismRating": 76.0,
+      "eventBreakdown": {
+        "100m": 4,
+        "200m": 2,
+        "60m": 1
+      },
+      "rank": 19,
+      "rawWeightedScore": 6.65,
+      "randomFactor": 0.9487,
+      "weightedAthleticismScore": 6.309,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 4,
+          "weight": 1.0,
+          "weightedScore": 4.0
+        },
+        "200m": {
+          "count": 2,
+          "weight": 0.9,
+          "weightedScore": 1.8
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        }
+      }
+    },
+    {
+      "countryCode": "IND",
+      "countryName": "IND",
+      "qualifyingAthleteCount": 6,
+      "percentile": 74.67,
+      "athleticismRating": 75.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "110mH": 1,
+        "200m": 1,
+        "400m": 1,
+        "High Jump": 1,
+        "Long Jump": 1,
+        "Triple Jump": 1
+      },
+      "rank": 20,
+      "rawWeightedScore": 5.6,
+      "randomFactor": 0.964,
+      "weightedAthleticismScore": 5.398,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "110mH": {
+          "count": 1,
+          "weight": 0.8,
+          "weightedScore": 0.8
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        },
+        "400m": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "High Jump": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "Long Jump": {
+          "count": 1,
+          "weight": 0.78,
+          "weightedScore": 0.78
+        },
+        "Triple Jump": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        }
+      }
+    },
+    {
+      "countryCode": "ZIM",
+      "countryName": "ZIM",
+      "qualifyingAthleteCount": 7,
+      "percentile": 73.33,
+      "athleticismRating": 73.0,
+      "eventBreakdown": {
+        "200m": 3,
+        "400m": 3,
+        "Long Jump": 1
+      },
+      "rank": 21,
+      "rawWeightedScore": 5.64,
+      "randomFactor": 0.9529,
+      "weightedAthleticismScore": 5.374,
+      "weightedEventBreakdown": {
+        "200m": {
+          "count": 3,
+          "weight": 0.9,
+          "weightedScore": 2.7
+        },
+        "400m": {
+          "count": 3,
+          "weight": 0.72,
+          "weightedScore": 2.16
+        },
+        "Long Jump": {
+          "count": 1,
+          "weight": 0.78,
+          "weightedScore": 0.78
+        }
+      }
+    },
+    {
+      "countryCode": "PUR",
+      "countryName": "PUR",
+      "qualifyingAthleteCount": 4,
+      "percentile": 72.0,
+      "athleticismRating": 72.0,
+      "eventBreakdown": {
+        "100m": 2,
+        "200m": 2,
+        "60m": 1,
+        "Decathlon": 1
+      },
+      "rank": 22,
+      "rawWeightedScore": 5.4,
+      "randomFactor": 0.9226,
+      "weightedAthleticismScore": 4.982,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 2,
+          "weight": 1.0,
+          "weightedScore": 2.0
+        },
+        "200m": {
+          "count": 2,
+          "weight": 0.9,
+          "weightedScore": 1.8
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        },
+        "Decathlon": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        }
+      }
+    },
+    {
+      "countryCode": "CZE",
+      "countryName": "CZE",
+      "qualifyingAthleteCount": 7,
+      "percentile": 70.67,
+      "athleticismRating": 71.0,
+      "eventBreakdown": {
+        "400m": 1,
+        "400mH": 2,
+        "Decathlon": 3,
+        "High Jump": 1,
+        "Pole Vault": 1
+      },
+      "rank": 23,
+      "rawWeightedScore": 5.35,
+      "randomFactor": 0.9248,
+      "weightedAthleticismScore": 4.948,
+      "weightedEventBreakdown": {
+        "400m": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "400mH": {
+          "count": 2,
+          "weight": 0.68,
+          "weightedScore": 1.36
+        },
+        "Decathlon": {
+          "count": 3,
+          "weight": 0.75,
+          "weightedScore": 2.25
+        },
+        "High Jump": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        }
+      }
+    },
+    {
+      "countryCode": "CAY",
+      "countryName": "CAY",
+      "qualifyingAthleteCount": 3,
+      "percentile": 69.33,
+      "athleticismRating": 69.0,
+      "eventBreakdown": {
+        "100m": 2,
+        "110mH": 1,
+        "200m": 1,
+        "60m": 1
+      },
+      "rank": 24,
+      "rawWeightedScore": 4.55,
+      "randomFactor": 1.0706,
+      "weightedAthleticismScore": 4.871,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 2,
+          "weight": 1.0,
+          "weightedScore": 2.0
+        },
+        "110mH": {
+          "count": 1,
+          "weight": 0.8,
+          "weightedScore": 0.8
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        }
+      }
+    },
+    {
+      "countryCode": "BAH",
+      "countryName": "BAH",
+      "qualifyingAthleteCount": 3,
+      "percentile": 68.0,
+      "athleticismRating": 68.0,
+      "eventBreakdown": {
+        "100m": 2,
+        "200m": 1,
+        "60m": 1,
+        "Decathlon": 1
+      },
+      "rank": 25,
+      "rawWeightedScore": 4.5,
+      "randomFactor": 1.0744,
+      "weightedAthleticismScore": 4.835,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 2,
+          "weight": 1.0,
+          "weightedScore": 2.0
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        },
+        "Decathlon": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        }
+      }
+    },
+    {
+      "countryCode": "SUI",
+      "countryName": "SUI",
+      "qualifyingAthleteCount": 5,
+      "percentile": 66.67,
+      "athleticismRating": 67.0,
+      "eventBreakdown": {
+        "110mH": 1,
+        "200m": 1,
+        "400m": 1,
+        "400mH": 1,
+        "Decathlon": 1,
+        "Long Jump": 1
+      },
+      "rank": 26,
+      "rawWeightedScore": 4.63,
+      "randomFactor": 1.0194,
+      "weightedAthleticismScore": 4.72,
+      "weightedEventBreakdown": {
+        "110mH": {
+          "count": 1,
+          "weight": 0.8,
+          "weightedScore": 0.8
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        },
+        "400m": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        },
+        "Decathlon": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        },
+        "Long Jump": {
+          "count": 1,
+          "weight": 0.78,
+          "weightedScore": 0.78
+        }
+      }
+    },
+    {
+      "countryCode": "CUB",
+      "countryName": "CUB",
+      "qualifyingAthleteCount": 5,
+      "percentile": 65.33,
+      "athleticismRating": 65.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "110mH": 1,
+        "200m": 1,
+        "60m": 1,
+        "Long Jump": 1,
+        "Triple Jump": 1
+      },
+      "rank": 27,
+      "rawWeightedScore": 5.01,
+      "randomFactor": 0.922,
+      "weightedAthleticismScore": 4.619,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "110mH": {
+          "count": 1,
+          "weight": 0.8,
+          "weightedScore": 0.8
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        },
+        "Long Jump": {
+          "count": 1,
+          "weight": 0.78,
+          "weightedScore": 0.78
+        },
+        "Triple Jump": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        }
+      }
+    },
+    {
+      "countryCode": "IRL",
+      "countryName": "IRL",
+      "qualifyingAthleteCount": 2,
+      "percentile": 64.0,
+      "athleticismRating": 64.0,
+      "eventBreakdown": {
+        "100m": 2,
+        "200m": 1,
+        "60m": 1
+      },
+      "rank": 28,
+      "rawWeightedScore": 3.75,
+      "randomFactor": 1.0301,
+      "weightedAthleticismScore": 3.863,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 2,
+          "weight": 1.0,
+          "weightedScore": 2.0
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        }
+      }
+    },
+    {
+      "countryCode": "VEN",
+      "countryName": "VEN",
+      "qualifyingAthleteCount": 4,
+      "percentile": 62.67,
+      "athleticismRating": 63.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "200m": 1,
+        "400m": 2,
+        "Pole Vault": 1
+      },
+      "rank": 29,
+      "rawWeightedScore": 3.64,
+      "randomFactor": 0.9787,
+      "weightedAthleticismScore": 3.562,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        },
+        "400m": {
+          "count": 2,
+          "weight": 0.72,
+          "weightedScore": 1.44
+        },
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        }
+      }
+    },
+    {
+      "countryCode": "DOM",
+      "countryName": "DOM",
+      "qualifyingAthleteCount": 4,
+      "percentile": 61.33,
+      "athleticismRating": 61.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "200m": 1,
+        "400m": 1,
+        "400mH": 1
+      },
+      "rank": 30,
+      "rawWeightedScore": 3.3,
+      "randomFactor": 1.0674,
+      "weightedAthleticismScore": 3.523,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        },
+        "400m": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        }
+      }
+    },
+    {
+      "countryCode": "QAT",
+      "countryName": "QAT",
+      "qualifyingAthleteCount": 5,
+      "percentile": 60.0,
+      "athleticismRating": 60.0,
+      "eventBreakdown": {
+        "110mH": 1,
+        "400m": 1,
+        "400mH": 2,
+        "Pole Vault": 1
+      },
+      "rank": 31,
+      "rawWeightedScore": 3.18,
+      "randomFactor": 0.9569,
+      "weightedAthleticismScore": 3.043,
+      "weightedEventBreakdown": {
+        "110mH": {
+          "count": 1,
+          "weight": 0.8,
+          "weightedScore": 0.8
+        },
+        "400m": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "400mH": {
+          "count": 2,
+          "weight": 0.68,
+          "weightedScore": 1.36
+        },
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        }
+      }
+    },
+    {
+      "countryCode": "SEN",
+      "countryName": "SEN",
+      "qualifyingAthleteCount": 2,
+      "percentile": 58.67,
+      "athleticismRating": 59.0,
+      "eventBreakdown": {
+        "110mH": 1,
+        "60mH": 1,
+        "Long Jump": 1,
+        "Triple Jump": 1
+      },
+      "rank": 32,
+      "rawWeightedScore": 3.01,
+      "randomFactor": 0.9956,
+      "weightedAthleticismScore": 2.997,
+      "weightedEventBreakdown": {
+        "110mH": {
+          "count": 1,
+          "weight": 0.8,
+          "weightedScore": 0.8
+        },
+        "60mH": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        },
+        "Long Jump": {
+          "count": 1,
+          "weight": 0.78,
+          "weightedScore": 0.78
+        },
+        "Triple Jump": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        }
+      }
+    },
+    {
+      "countryCode": "IVB",
+      "countryName": "IVB",
+      "qualifyingAthleteCount": 2,
+      "percentile": 57.33,
+      "athleticismRating": 57.0,
+      "eventBreakdown": {
+        "100m": 2,
+        "200m": 1
+      },
+      "rank": 33,
+      "rawWeightedScore": 2.9,
+      "randomFactor": 0.9322,
+      "weightedAthleticismScore": 2.703,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 2,
+          "weight": 1.0,
+          "weightedScore": 2.0
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        }
+      }
+    },
+    {
+      "countryCode": "NOR",
+      "countryName": "NOR",
+      "qualifyingAthleteCount": 4,
+      "percentile": 56.0,
+      "athleticismRating": 56.0,
+      "eventBreakdown": {
+        "300mH": 1,
+        "400mH": 1,
+        "Decathlon": 1,
+        "Pole Vault": 2
+      },
+      "rank": 34,
+      "rawWeightedScore": 2.65,
+      "randomFactor": 0.996,
+      "weightedAthleticismScore": 2.639,
+      "weightedEventBreakdown": {
+        "300mH": {
+          "count": 1,
+          "weight": 0.62,
+          "weightedScore": 0.62
+        },
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        },
+        "Decathlon": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        },
+        "Pole Vault": {
+          "count": 2,
+          "weight": 0.3,
+          "weightedScore": 0.6
+        }
+      }
+    },
+    {
+      "countryCode": "BUL",
+      "countryName": "BUL",
+      "qualifyingAthleteCount": 2,
+      "percentile": 54.67,
+      "athleticismRating": 55.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "60m": 1,
+        "Long Jump": 1
+      },
+      "rank": 35,
+      "rawWeightedScore": 2.63,
+      "randomFactor": 0.9812,
+      "weightedAthleticismScore": 2.581,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        },
+        "Long Jump": {
+          "count": 1,
+          "weight": 0.78,
+          "weightedScore": 0.78
+        }
+      }
+    },
+    {
+      "countryCode": "SWE",
+      "countryName": "SWE",
+      "qualifyingAthleteCount": 4,
+      "percentile": 53.33,
+      "athleticismRating": 53.0,
+      "eventBreakdown": {
+        "400mH": 2,
+        "Long Jump": 1,
+        "Pole Vault": 1
+      },
+      "rank": 36,
+      "rawWeightedScore": 2.44,
+      "randomFactor": 1.0363,
+      "weightedAthleticismScore": 2.528,
+      "weightedEventBreakdown": {
+        "400mH": {
+          "count": 2,
+          "weight": 0.68,
+          "weightedScore": 1.36
+        },
+        "Long Jump": {
+          "count": 1,
+          "weight": 0.78,
+          "weightedScore": 0.78
+        },
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        }
+      }
+    },
+    {
+      "countryCode": "TPE",
+      "countryName": "TPE",
+      "qualifyingAthleteCount": 2,
+      "percentile": 52.0,
+      "athleticismRating": 52.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "400mH": 1,
+        "60m": 1
+      },
+      "rank": 37,
+      "rawWeightedScore": 2.53,
+      "randomFactor": 0.9664,
+      "weightedAthleticismScore": 2.445,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        }
+      }
+    },
+    {
+      "countryCode": "MAR",
+      "countryName": "MAR",
+      "qualifyingAthleteCount": 2,
+      "percentile": 50.67,
+      "athleticismRating": 51.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "200m": 1,
+        "400m": 1
+      },
+      "rank": 38,
+      "rawWeightedScore": 2.62,
+      "randomFactor": 0.9289,
+      "weightedAthleticismScore": 2.434,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        },
+        "400m": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        }
+      }
+    },
+    {
+      "countryCode": "AUT",
+      "countryName": "AUT",
+      "qualifyingAthleteCount": 2,
+      "percentile": 49.33,
+      "athleticismRating": 49.0,
+      "eventBreakdown": {
+        "110mH": 1,
+        "400mH": 1,
+        "60mH": 1
+      },
+      "rank": 39,
+      "rawWeightedScore": 2.23,
+      "randomFactor": 1.0535,
+      "weightedAthleticismScore": 2.349,
+      "weightedEventBreakdown": {
+        "110mH": {
+          "count": 1,
+          "weight": 0.8,
+          "weightedScore": 0.8
+        },
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        },
+        "60mH": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        }
+      }
+    },
+    {
+      "countryCode": "TTO",
+      "countryName": "TTO",
+      "qualifyingAthleteCount": 2,
+      "percentile": 48.0,
+      "athleticismRating": 48.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "300m": 1,
+        "400m": 1
+      },
+      "rank": 40,
+      "rawWeightedScore": 2.37,
+      "randomFactor": 0.9208,
+      "weightedAthleticismScore": 2.182,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "300m": {
+          "count": 1,
+          "weight": 0.65,
+          "weightedScore": 0.65
+        },
+        "400m": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        }
+      }
+    },
+    {
+      "countryCode": "ISR",
+      "countryName": "ISR",
+      "qualifyingAthleteCount": 1,
+      "percentile": 46.67,
+      "athleticismRating": 47.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "200m": 1
+      },
+      "rank": 41,
+      "rawWeightedScore": 1.9,
+      "randomFactor": 1.0763,
+      "weightedAthleticismScore": 2.045,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        }
+      }
+    },
+    {
+      "countryCode": "THA",
+      "countryName": "THA",
+      "qualifyingAthleteCount": 1,
+      "percentile": 45.33,
+      "athleticismRating": 45.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "200m": 1
+      },
+      "rank": 42,
+      "rawWeightedScore": 1.9,
+      "randomFactor": 1.0505,
+      "weightedAthleticismScore": 1.996,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        }
+      }
+    },
+    {
+      "countryCode": "POR",
+      "countryName": "POR",
+      "qualifyingAthleteCount": 3,
+      "percentile": 44.0,
+      "athleticismRating": 44.0,
+      "eventBreakdown": {
+        "Long Jump": 1,
+        "Pole Vault": 1,
+        "Triple Jump": 1
+      },
+      "rank": 43,
+      "rawWeightedScore": 1.76,
+      "randomFactor": 1.043,
+      "weightedAthleticismScore": 1.836,
+      "weightedEventBreakdown": {
+        "Long Jump": {
+          "count": 1,
+          "weight": 0.78,
+          "weightedScore": 0.78
+        },
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        },
+        "Triple Jump": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        }
+      }
+    },
+    {
+      "countryCode": "BAR",
+      "countryName": "BAR",
+      "qualifyingAthleteCount": 1,
+      "percentile": 42.67,
+      "athleticismRating": 43.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "200m": 1
+      },
+      "rank": 44,
+      "rawWeightedScore": 1.9,
+      "randomFactor": 0.9415,
+      "weightedAthleticismScore": 1.789,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        }
+      }
+    },
+    {
+      "countryCode": "OMA",
+      "countryName": "OMA",
+      "qualifyingAthleteCount": 1,
+      "percentile": 41.33,
+      "athleticismRating": 41.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "60m": 1
+      },
+      "rank": 45,
+      "rawWeightedScore": 1.85,
+      "randomFactor": 0.9658,
+      "weightedAthleticismScore": 1.787,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        }
+      }
+    },
+    {
+      "countryCode": "PAN",
+      "countryName": "PAN",
+      "qualifyingAthleteCount": 1,
+      "percentile": 40.0,
+      "athleticismRating": 40.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "200m": 1
+      },
+      "rank": 46,
+      "rawWeightedScore": 1.9,
+      "randomFactor": 0.9357,
+      "weightedAthleticismScore": 1.778,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        }
+      }
+    },
+    {
+      "countryCode": "NZL",
+      "countryName": "NZL",
+      "qualifyingAthleteCount": 2,
+      "percentile": 38.67,
+      "athleticismRating": 39.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "High Jump": 1
+      },
+      "rank": 47,
+      "rawWeightedScore": 1.72,
+      "randomFactor": 1.0282,
+      "weightedAthleticismScore": 1.768,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "High Jump": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        }
+      }
+    },
+    {
+      "countryCode": "KEN",
+      "countryName": "KEN",
+      "qualifyingAthleteCount": 2,
+      "percentile": 37.33,
+      "athleticismRating": 37.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "400m": 1
+      },
+      "rank": 48,
+      "rawWeightedScore": 1.72,
+      "randomFactor": 1.0224,
+      "weightedAthleticismScore": 1.759,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "400m": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        }
+      }
+    },
+    {
+      "countryCode": "CMR",
+      "countryName": "CMR",
+      "qualifyingAthleteCount": 1,
+      "percentile": 36.0,
+      "athleticismRating": 36.0,
+      "eventBreakdown": {
+        "100m": 1,
+        "60m": 1
+      },
+      "rank": 49,
+      "rawWeightedScore": 1.85,
+      "randomFactor": 0.9357,
+      "weightedAthleticismScore": 1.731,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        },
+        "60m": {
+          "count": 1,
+          "weight": 0.85,
+          "weightedScore": 0.85
+        }
+      }
+    },
+    {
+      "countryCode": "RUS",
+      "countryName": "RUS",
+      "qualifyingAthleteCount": 3,
+      "percentile": 34.67,
+      "athleticismRating": 35.0,
+      "eventBreakdown": {
+        "400mH": 1,
+        "High Jump": 1,
+        "Pole Vault": 1
+      },
+      "rank": 50,
+      "rawWeightedScore": 1.7,
+      "randomFactor": 1.0006,
+      "weightedAthleticismScore": 1.701,
+      "weightedEventBreakdown": {
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        },
+        "High Jump": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        }
+      }
+    },
+    {
+      "countryCode": "ECU",
+      "countryName": "ECU",
+      "qualifyingAthleteCount": 1,
+      "percentile": 33.33,
+      "athleticismRating": 33.0,
+      "eventBreakdown": {
+        "110mH": 1,
+        "60mH": 1
+      },
+      "rank": 51,
+      "rawWeightedScore": 1.55,
+      "randomFactor": 1.0127,
+      "weightedAthleticismScore": 1.57,
+      "weightedEventBreakdown": {
+        "110mH": {
+          "count": 1,
+          "weight": 0.8,
+          "weightedScore": 0.8
+        },
+        "60mH": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        }
+      }
+    },
+    {
+      "countryCode": "TUR",
+      "countryName": "TUR",
+      "qualifyingAthleteCount": 3,
+      "percentile": 32.0,
+      "athleticismRating": 32.0,
+      "eventBreakdown": {
+        "400mH": 2,
+        "Pole Vault": 1
+      },
+      "rank": 52,
+      "rawWeightedScore": 1.66,
+      "randomFactor": 0.9225,
+      "weightedAthleticismScore": 1.531,
+      "weightedEventBreakdown": {
+        "400mH": {
+          "count": 2,
+          "weight": 0.68,
+          "weightedScore": 1.36
+        },
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        }
+      }
+    },
+    {
+      "countryCode": "CYP",
+      "countryName": "CYP",
+      "qualifyingAthleteCount": 1,
+      "percentile": 30.67,
+      "athleticismRating": 31.0,
+      "eventBreakdown": {
+        "110mH": 1,
+        "60mH": 1
+      },
+      "rank": 53,
+      "rawWeightedScore": 1.55,
+      "randomFactor": 0.9789,
+      "weightedAthleticismScore": 1.517,
+      "weightedEventBreakdown": {
+        "110mH": {
+          "count": 1,
+          "weight": 0.8,
+          "weightedScore": 0.8
+        },
+        "60mH": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        }
+      }
+    },
+    {
+      "countryCode": "HUN",
+      "countryName": "HUN",
+      "qualifyingAthleteCount": 2,
+      "percentile": 29.33,
+      "athleticismRating": 29.0,
+      "eventBreakdown": {
+        "400m": 2
+      },
+      "rank": 54,
+      "rawWeightedScore": 1.44,
+      "randomFactor": 1.0459,
+      "weightedAthleticismScore": 1.506,
+      "weightedEventBreakdown": {
+        "400m": {
+          "count": 2,
+          "weight": 0.72,
+          "weightedScore": 1.44
+        }
+      }
+    },
+    {
+      "countryCode": "EST",
+      "countryName": "EST",
+      "qualifyingAthleteCount": 2,
+      "percentile": 28.0,
+      "athleticismRating": 28.0,
+      "eventBreakdown": {
+        "Decathlon": 2
+      },
+      "rank": 55,
+      "rawWeightedScore": 1.5,
+      "randomFactor": 0.9902,
+      "weightedAthleticismScore": 1.485,
+      "weightedEventBreakdown": {
+        "Decathlon": {
+          "count": 2,
+          "weight": 0.75,
+          "weightedScore": 1.5
+        }
+      }
+    },
+    {
+      "countryCode": "GRE",
+      "countryName": "GRE",
+      "qualifyingAthleteCount": 3,
+      "percentile": 26.67,
+      "athleticismRating": 27.0,
+      "eventBreakdown": {
+        "Long Jump": 1,
+        "Pole Vault": 2
+      },
+      "rank": 56,
+      "rawWeightedScore": 1.38,
+      "randomFactor": 1.0659,
+      "weightedAthleticismScore": 1.471,
+      "weightedEventBreakdown": {
+        "Long Jump": {
+          "count": 1,
+          "weight": 0.78,
+          "weightedScore": 0.78
+        },
+        "Pole Vault": {
+          "count": 2,
+          "weight": 0.3,
+          "weightedScore": 0.6
+        }
+      }
+    },
+    {
+      "countryCode": "CHI",
+      "countryName": "CHI",
+      "qualifyingAthleteCount": 1,
+      "percentile": 25.33,
+      "athleticismRating": 25.0,
+      "eventBreakdown": {
+        "110mH": 1,
+        "60mH": 1
+      },
+      "rank": 57,
+      "rawWeightedScore": 1.55,
+      "randomFactor": 0.928,
+      "weightedAthleticismScore": 1.438,
+      "weightedEventBreakdown": {
+        "110mH": {
+          "count": 1,
+          "weight": 0.8,
+          "weightedScore": 0.8
+        },
+        "60mH": {
+          "count": 1,
+          "weight": 0.75,
+          "weightedScore": 0.75
+        }
+      }
+    },
+    {
+      "countryCode": "SVK",
+      "countryName": "SVK",
+      "qualifyingAthleteCount": 2,
+      "percentile": 24.0,
+      "athleticismRating": 24.0,
+      "eventBreakdown": {
+        "400mH": 2
+      },
+      "rank": 58,
+      "rawWeightedScore": 1.36,
+      "randomFactor": 1.0058,
+      "weightedAthleticismScore": 1.368,
+      "weightedEventBreakdown": {
+        "400mH": {
+          "count": 2,
+          "weight": 0.68,
+          "weightedScore": 1.36
+        }
+      }
+    },
+    {
+      "countryCode": "SLO",
+      "countryName": "SLO",
+      "qualifyingAthleteCount": 1,
+      "percentile": 22.67,
+      "athleticismRating": 23.0,
+      "eventBreakdown": {
+        "300mH": 1,
+        "400mH": 1
+      },
+      "rank": 59,
+      "rawWeightedScore": 1.3,
+      "randomFactor": 1.0362,
+      "weightedAthleticismScore": 1.347,
+      "weightedEventBreakdown": {
+        "300mH": {
+          "count": 1,
+          "weight": 0.62,
+          "weightedScore": 0.62
+        },
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        }
+      }
+    },
+    {
+      "countryCode": "FIN",
+      "countryName": "FIN",
+      "qualifyingAthleteCount": 1,
+      "percentile": 21.33,
+      "athleticismRating": 21.0,
+      "eventBreakdown": {
+        "300mH": 1,
+        "400mH": 1
+      },
+      "rank": 60,
+      "rawWeightedScore": 1.3,
+      "randomFactor": 0.9291,
+      "weightedAthleticismScore": 1.208,
+      "weightedEventBreakdown": {
+        "300mH": {
+          "count": 1,
+          "weight": 0.62,
+          "weightedScore": 0.62
+        },
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        }
+      }
+    },
+    {
+      "countryCode": "COL",
+      "countryName": "COL",
+      "qualifyingAthleteCount": 1,
+      "percentile": 20.0,
+      "athleticismRating": 20.0,
+      "eventBreakdown": {
+        "100m": 1
+      },
+      "rank": 61,
+      "rawWeightedScore": 1.0,
+      "randomFactor": 1.075,
+      "weightedAthleticismScore": 1.075,
+      "weightedEventBreakdown": {
+        "100m": {
+          "count": 1,
+          "weight": 1.0,
+          "weightedScore": 1.0
+        }
+      }
+    },
+    {
+      "countryCode": "UKR",
+      "countryName": "UKR",
+      "qualifyingAthleteCount": 2,
+      "percentile": 18.67,
+      "athleticismRating": 19.0,
+      "eventBreakdown": {
+        "High Jump": 1,
+        "Pole Vault": 1
+      },
+      "rank": 62,
+      "rawWeightedScore": 1.02,
+      "randomFactor": 0.9575,
+      "weightedAthleticismScore": 0.977,
+      "weightedEventBreakdown": {
+        "High Jump": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        },
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        }
+      }
+    },
+    {
+      "countryCode": "CIV",
+      "countryName": "CIV",
+      "qualifyingAthleteCount": 1,
+      "percentile": 17.33,
+      "athleticismRating": 17.0,
+      "eventBreakdown": {
+        "200m": 1
+      },
+      "rank": 63,
+      "rawWeightedScore": 0.9,
+      "randomFactor": 0.95,
+      "weightedAthleticismScore": 0.855,
+      "weightedEventBreakdown": {
+        "200m": {
+          "count": 1,
+          "weight": 0.9,
+          "weightedScore": 0.9
+        }
+      }
+    },
+    {
+      "countryCode": "NIG",
+      "countryName": "NIG",
+      "qualifyingAthleteCount": 1,
+      "percentile": 16.0,
+      "athleticismRating": 16.0,
+      "eventBreakdown": {
+        "110mH": 1
+      },
+      "rank": 64,
+      "rawWeightedScore": 0.8,
+      "randomFactor": 0.994,
+      "weightedAthleticismScore": 0.795,
+      "weightedEventBreakdown": {
+        "110mH": {
+          "count": 1,
+          "weight": 0.8,
+          "weightedScore": 0.8
+        }
+      }
+    },
+    {
+      "countryCode": "UZB",
+      "countryName": "UZB",
+      "qualifyingAthleteCount": 1,
+      "percentile": 14.67,
+      "athleticismRating": 15.0,
+      "eventBreakdown": {
+        "Long Jump": 1
+      },
+      "rank": 65,
+      "rawWeightedScore": 0.78,
+      "randomFactor": 0.9728,
+      "weightedAthleticismScore": 0.759,
+      "weightedEventBreakdown": {
+        "Long Jump": {
+          "count": 1,
+          "weight": 0.78,
+          "weightedScore": 0.78
+        }
+      }
+    },
+    {
+      "countryCode": "CRC",
+      "countryName": "CRC",
+      "qualifyingAthleteCount": 1,
+      "percentile": 13.33,
+      "athleticismRating": 13.0,
+      "eventBreakdown": {
+        "400mH": 1
+      },
+      "rank": 66,
+      "rawWeightedScore": 0.68,
+      "randomFactor": 1.0778,
+      "weightedAthleticismScore": 0.733,
+      "weightedEventBreakdown": {
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        }
+      }
+    },
+    {
+      "countryCode": "ARG",
+      "countryName": "ARG",
+      "qualifyingAthleteCount": 1,
+      "percentile": 12.0,
+      "athleticismRating": 12.0,
+      "eventBreakdown": {
+        "400m": 1
+      },
+      "rank": 67,
+      "rawWeightedScore": 0.72,
+      "randomFactor": 1.0099,
+      "weightedAthleticismScore": 0.727,
+      "weightedEventBreakdown": {
+        "400m": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        }
+      }
+    },
+    {
+      "countryCode": "DMA",
+      "countryName": "DMA",
+      "qualifyingAthleteCount": 1,
+      "percentile": 10.67,
+      "athleticismRating": 11.0,
+      "eventBreakdown": {
+        "400mH": 1
+      },
+      "rank": 68,
+      "rawWeightedScore": 0.68,
+      "randomFactor": 1.0661,
+      "weightedAthleticismScore": 0.725,
+      "weightedEventBreakdown": {
+        "400mH": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        }
+      }
+    },
+    {
+      "countryCode": "KOR",
+      "countryName": "KOR",
+      "qualifyingAthleteCount": 1,
+      "percentile": 9.33,
+      "athleticismRating": 9.0,
+      "eventBreakdown": {
+        "High Jump": 1
+      },
+      "rank": 69,
+      "rawWeightedScore": 0.72,
+      "randomFactor": 0.9884,
+      "weightedAthleticismScore": 0.712,
+      "weightedEventBreakdown": {
+        "High Jump": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        }
+      }
+    },
+    {
+      "countryCode": "ALG",
+      "countryName": "ALG",
+      "qualifyingAthleteCount": 1,
+      "percentile": 8.0,
+      "athleticismRating": 8.0,
+      "eventBreakdown": {
+        "Triple Jump": 1
+      },
+      "rank": 70,
+      "rawWeightedScore": 0.68,
+      "randomFactor": 1.0388,
+      "weightedAthleticismScore": 0.706,
+      "weightedEventBreakdown": {
+        "Triple Jump": {
+          "count": 1,
+          "weight": 0.68,
+          "weightedScore": 0.68
+        }
+      }
+    },
+    {
+      "countryCode": "GRN",
+      "countryName": "GRN",
+      "qualifyingAthleteCount": 1,
+      "percentile": 6.67,
+      "athleticismRating": 7.0,
+      "eventBreakdown": {
+        "400m": 1
+      },
+      "rank": 71,
+      "rawWeightedScore": 0.72,
+      "randomFactor": 0.97,
+      "weightedAthleticismScore": 0.698,
+      "weightedEventBreakdown": {
+        "400m": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        }
+      }
+    },
+    {
+      "countryCode": "MEX",
+      "countryName": "MEX",
+      "qualifyingAthleteCount": 1,
+      "percentile": 5.33,
+      "athleticismRating": 5.0,
+      "eventBreakdown": {
+        "High Jump": 1
+      },
+      "rank": 72,
+      "rawWeightedScore": 0.72,
+      "randomFactor": 0.9596,
+      "weightedAthleticismScore": 0.691,
+      "weightedEventBreakdown": {
+        "High Jump": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        }
+      }
+    },
+    {
+      "countryCode": "ZAM",
+      "countryName": "ZAM",
+      "qualifyingAthleteCount": 1,
+      "percentile": 4.0,
+      "athleticismRating": 4.0,
+      "eventBreakdown": {
+        "400m": 1
+      },
+      "rank": 73,
+      "rawWeightedScore": 0.72,
+      "randomFactor": 0.9306,
+      "weightedAthleticismScore": 0.67,
+      "weightedEventBreakdown": {
+        "400m": {
+          "count": 1,
+          "weight": 0.72,
+          "weightedScore": 0.72
+        }
+      }
+    },
+    {
+      "countryCode": "PHI",
+      "countryName": "PHI",
+      "qualifyingAthleteCount": 1,
+      "percentile": 2.67,
+      "athleticismRating": 3.0,
+      "eventBreakdown": {
+        "Pole Vault": 1
+      },
+      "rank": 74,
+      "rawWeightedScore": 0.3,
+      "randomFactor": 1.0738,
+      "weightedAthleticismScore": 0.322,
+      "weightedEventBreakdown": {
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        }
+      }
+    },
+    {
+      "countryCode": "LAT",
+      "countryName": "LAT",
+      "qualifyingAthleteCount": 1,
+      "percentile": 1.33,
+      "athleticismRating": 1.0,
+      "eventBreakdown": {
+        "Pole Vault": 1
+      },
+      "rank": 75,
+      "rawWeightedScore": 0.3,
+      "randomFactor": 1.0291,
+      "weightedAthleticismScore": 0.309,
+      "weightedEventBreakdown": {
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        }
+      }
+    },
+    {
+      "countryCode": "BLR",
+      "countryName": "BLR",
+      "qualifyingAthleteCount": 1,
+      "percentile": 0.0,
+      "athleticismRating": 0.0,
+      "eventBreakdown": {
+        "Pole Vault": 1
+      },
+      "rank": 76,
+      "rawWeightedScore": 0.3,
+      "randomFactor": 0.9479,
+      "weightedAthleticismScore": 0.284,
+      "weightedEventBreakdown": {
+        "Pole Vault": {
+          "count": 1,
+          "weight": 0.3,
+          "weightedScore": 0.3
+        }
+      }
+    }
+  ],
+  "athleticismMethodology": {
+    "method": "Weighted elite-athlete representation with deterministic country variation",
+    "pagesScraped": 10,
+    "randomnessRange": "0.92-1.08",
+    "randomnessIsStable": true,
+    "eventWeights": {
+      "300mH": 0.62,
+      "110mH": 0.8,
+      "Triple Jump": 0.68,
+      "400m": 0.72,
+      "Pole Vault": 0.3,
+      "Decathlon": 0.75,
+      "Long Jump": 0.78,
+      "300m": 0.65,
+      "200m": 0.9,
+      "Heptathlon": 0.7,
+      "400mH": 0.68,
+      "High Jump": 0.72,
+      "60mH": 0.75,
+      "100m": 1.0,
+      "60m": 0.85,
+      "100mH": 0.8
+    },
+    "recalculatedAt": "2026-07-17T16:31:54.2077614+08:00"
+  },
+  "paginationFollowUp": {
+    "completedAt": "2026-07-17T16:47:58.3975425+08:00",
+    "rankDate": "2026-07-14",
+    "startPage": 11,
+    "detectedLastPage": 250.0,
+    "countriesAdded": 0,
+    "method": "First relevant athlete found while scanning the world ranking pagination",
+    "firstAthleteIsHighestRanked": true,
+    "existingCountriesRescraped": false,
+    "eventWeights": {
+      "100m": 1.0,
+      "200m": 0.9,
+      "60m": 0.85,
+      "110mH": 0.8,
+      "100mH": 0.8,
+      "Long Jump": 0.78,
+      "60mH": 0.75,
+      "Decathlon": 0.75,
+      "400m": 0.72,
+      "High Jump": 0.72,
+      "Heptathlon": 0.7,
+      "400mH": 0.68,
+      "Triple Jump": 0.68,
+      "300m": 0.65,
+      "300mH": 0.62,
+      "Pole Vault": 0.3
+    }
+  }
+}
