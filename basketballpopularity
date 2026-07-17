@@ -1,0 +1,6357 @@
+{
+  "metadata": {
+    "metric": "Basketball popularity",
+    "baseline": "Standalone Basketball Google Trends interest",
+    "terminologyAdjustment": "Comparison files used only for a capped search-term bonus",
+    "recentWeight": 0.7,
+    "longTermWeight": 0.3,
+    "maximumTerminologyBonus": 15.0,
+    "finalScale": "Country percentile from 0 to 100",
+    "generatedAt": "2026-07-17T17:10:06.4283291+08:00",
+    "countryCount": 232
+  },
+  "countries": [
+    {
+      "country": "Bahamas",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 47.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 97.4,
+        "longTermBasePercentile": null,
+        "baseScore": 97.4026,
+        "alternativeSearchRatio": 0.8706,
+        "terminologyBonus": 13.0597,
+        "adjustedScore": 100.0,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 13.0,
+          "nba": 76.0,
+          "euroleague": 0.5,
+          "lakers": 11.0
+        }
+      }
+    },
+    {
+      "country": "Bosnia & Herzegovina",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 41.0,
+        "longTermRawScore": 35.0,
+        "recentBasePercentile": 96.54,
+        "longTermBasePercentile": 91.38,
+        "baseScore": 94.9896,
+        "alternativeSearchRatio": 0.407,
+        "terminologyBonus": 6.105,
+        "adjustedScore": 100.0,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 62.0,
+          "nba": 29.0,
+          "euroleague": 8.0,
+          "lakers": 1.0
+        },
+        "longTerm": {
+          "Basketball": 53.0,
+          "nba": 38.0,
+          "euroleague": 8.0,
+          "lakers": 1.0
+        }
+      }
+    },
+    {
+      "country": "British Virgin Islands",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 38.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 95.24,
+        "longTermBasePercentile": null,
+        "baseScore": 95.2381,
+        "alternativeSearchRatio": 0.8308,
+        "terminologyBonus": 12.4627,
+        "adjustedScore": 100.0,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 17.0,
+          "nba": 76.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Cayman Islands",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 29.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 88.53,
+        "longTermBasePercentile": null,
+        "baseScore": 88.5281,
+        "alternativeSearchRatio": 0.7811,
+        "terminologyBonus": 11.7164,
+        "adjustedScore": 100.0,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 22.0,
+          "nba": 68.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Dominican Republic",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 35.0,
+        "longTermRawScore": 38.0,
+        "recentBasePercentile": 94.81,
+        "longTermBasePercentile": 93.1,
+        "baseScore": 94.2947,
+        "alternativeSearchRatio": 0.8716,
+        "terminologyBonus": 13.0746,
+        "adjustedScore": 100.0,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 12.0,
+          "nba": 84.0,
+          "euroleague": 0.5,
+          "lakers": 4.0
+        },
+        "longTerm": {
+          "Basketball": 15.0,
+          "nba": 81.0,
+          "euroleague": 0.5,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Greece",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 81.0,
+        "longTermRawScore": 57.0,
+        "recentBasePercentile": 99.57,
+        "longTermBasePercentile": 94.83,
+        "baseScore": 98.1452,
+        "alternativeSearchRatio": 0.352,
+        "terminologyBonus": 5.28,
+        "adjustedScore": 100.0,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 66.0,
+          "nba": 16.0,
+          "euroleague": 17.0,
+          "lakers": 1.0
+        },
+        "longTerm": {
+          "Basketball": 62.0,
+          "nba": 21.0,
+          "euroleague": 16.0,
+          "lakers": 1.0
+        }
+      }
+    },
+    {
+      "country": "Guam",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 30.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 90.04,
+        "longTermBasePercentile": null,
+        "baseScore": 90.0433,
+        "alternativeSearchRatio": 0.85,
+        "terminologyBonus": 12.75,
+        "adjustedScore": 100.0,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 15.0,
+          "nba": 74.0,
+          "euroleague": null,
+          "lakers": 11.0
+        }
+      }
+    },
+    {
+      "country": "Lithuania",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 100.0,
+        "longTermRawScore": 100.0,
+        "recentBasePercentile": 100.0,
+        "longTermBasePercentile": 100.0,
+        "baseScore": 100.0,
+        "alternativeSearchRatio": 0.3174,
+        "terminologyBonus": 4.7612,
+        "adjustedScore": 100.0,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 68.0,
+          "nba": 15.0,
+          "euroleague": 17.0,
+          "lakers": 0.5
+        },
+        "longTerm": {
+          "Basketball": 70.0,
+          "nba": 19.0,
+          "euroleague": 11.0,
+          "lakers": 0.5
+        }
+      }
+    },
+    {
+      "country": "Macao",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 39.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 95.67,
+        "longTermBasePercentile": null,
+        "baseScore": 95.671,
+        "alternativeSearchRatio": 0.7811,
+        "terminologyBonus": 11.7164,
+        "adjustedScore": 100.0,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 22.0,
+          "nba": 75.0,
+          "euroleague": 0.5,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "Marshall Islands",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 40.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 96.1,
+        "longTermBasePercentile": null,
+        "baseScore": 96.1039,
+        "alternativeSearchRatio": 0.95,
+        "terminologyBonus": 14.25,
+        "adjustedScore": 100.0,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 5.0,
+          "nba": 91.0,
+          "euroleague": null,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Micronesia",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 31.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 91.13,
+        "longTermBasePercentile": null,
+        "baseScore": 91.1255,
+        "alternativeSearchRatio": 0.91,
+        "terminologyBonus": 13.65,
+        "adjustedScore": 100.0,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 9.0,
+          "nba": 80.0,
+          "euroleague": null,
+          "lakers": 11.0
+        }
+      }
+    },
+    {
+      "country": "Montenegro",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 65.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 98.27,
+        "longTermBasePercentile": null,
+        "baseScore": 98.2684,
+        "alternativeSearchRatio": 0.42,
+        "terminologyBonus": 6.3,
+        "adjustedScore": 100.0,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 58.0,
+          "nba": 32.0,
+          "euroleague": 9.0,
+          "lakers": 1.0
+        }
+      }
+    },
+    {
+      "country": "Montserrat",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 32.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 92.21,
+        "longTermBasePercentile": null,
+        "baseScore": 92.2078,
+        "alternativeSearchRatio": 0.82,
+        "terminologyBonus": 12.3,
+        "adjustedScore": 100.0,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 18.0,
+          "nba": 74.0,
+          "euroleague": null,
+          "lakers": 8.0
+        }
+      }
+    },
+    {
+      "country": "Northern Mariana Islands",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 29.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 88.53,
+        "longTermBasePercentile": null,
+        "baseScore": 88.5281,
+        "alternativeSearchRatio": 0.86,
+        "terminologyBonus": 12.9,
+        "adjustedScore": 100.0,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 14.0,
+          "nba": 75.0,
+          "euroleague": null,
+          "lakers": 11.0
+        }
+      }
+    },
+    {
+      "country": "Palau",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 30.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 90.04,
+        "longTermBasePercentile": null,
+        "baseScore": 90.0433,
+        "alternativeSearchRatio": 0.91,
+        "terminologyBonus": 13.65,
+        "adjustedScore": 100.0,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 9.0,
+          "nba": 81.0,
+          "euroleague": null,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Philippines",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 31.0,
+        "longTermRawScore": 33.0,
+        "recentBasePercentile": 91.13,
+        "longTermBasePercentile": 89.66,
+        "baseScore": 90.6844,
+        "alternativeSearchRatio": 0.9045,
+        "terminologyBonus": 13.5672,
+        "adjustedScore": 100.0,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 9.0,
+          "nba": 81.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        },
+        "longTerm": {
+          "Basketball": 11.0,
+          "nba": 80.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Puerto Rico",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 34.0,
+        "longTermRawScore": 31.0,
+        "recentBasePercentile": 93.94,
+        "longTermBasePercentile": 87.93,
+        "baseScore": 92.1369,
+        "alternativeSearchRatio": 0.8209,
+        "terminologyBonus": 12.3134,
+        "adjustedScore": 100.0,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 18.0,
+          "nba": 74.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        },
+        "longTerm": {
+          "Basketball": 18.0,
+          "nba": 75.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Serbia",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 72.0,
+        "longTermRawScore": 58.0,
+        "recentBasePercentile": 98.7,
+        "longTermBasePercentile": 96.55,
+        "baseScore": 98.0564,
+        "alternativeSearchRatio": 0.433,
+        "terminologyBonus": 6.495,
+        "adjustedScore": 100.0,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 57.0,
+          "nba": 28.0,
+          "euroleague": 14.0,
+          "lakers": 1.0
+        },
+        "longTerm": {
+          "Basketball": 56.0,
+          "nba": 31.0,
+          "euroleague": 12.0,
+          "lakers": 1.0
+        }
+      }
+    },
+    {
+      "country": "Turks & Caicos Islands",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 45.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 96.97,
+        "longTermBasePercentile": null,
+        "baseScore": 96.9697,
+        "alternativeSearchRatio": 0.8209,
+        "terminologyBonus": 12.3134,
+        "adjustedScore": 100.0,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 18.0,
+          "nba": 74.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        }
+      }
+    },
+    {
+      "country": "U.S. Virgin Islands",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 52.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 97.84,
+        "longTermBasePercentile": null,
+        "baseScore": 97.8355,
+        "alternativeSearchRatio": 0.74,
+        "terminologyBonus": 11.1,
+        "adjustedScore": 100.0,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 26.0,
+          "nba": 64.0,
+          "euroleague": null,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "United States",
+      "rank": 1,
+      "popularity": 96,
+      "popularityPercentile": 95.67,
+      "scoring": {
+        "recentRawScore": 74.0,
+        "longTermRawScore": 62.0,
+        "recentBasePercentile": 99.13,
+        "longTermBasePercentile": 98.28,
+        "baseScore": 98.8767,
+        "alternativeSearchRatio": 0.5423,
+        "terminologyBonus": 8.1343,
+        "adjustedScore": 100.0,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 46.0,
+          "nba": 46.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        },
+        "longTerm": {
+          "Basketball": 46.0,
+          "nba": 46.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        }
+      }
+    },
+    {
+      "country": "Slovenia",
+      "rank": 22,
+      "popularity": 91,
+      "popularityPercentile": 90.91,
+      "scoring": {
+        "recentRawScore": 33.0,
+        "longTermRawScore": 28.0,
+        "recentBasePercentile": 93.07,
+        "longTermBasePercentile": 83.62,
+        "baseScore": 90.2377,
+        "alternativeSearchRatio": 0.625,
+        "terminologyBonus": 9.375,
+        "adjustedScore": 99.6127,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 36.0,
+          "nba": 54.0,
+          "euroleague": 1.0,
+          "lakers": 9.0
+        },
+        "longTerm": {
+          "Basketball": 41.0,
+          "nba": 51.0,
+          "euroleague": 3.0,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Andorra",
+      "rank": 23,
+      "popularity": 90,
+      "popularityPercentile": 90.48,
+      "scoring": {
+        "recentRawScore": 32.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 92.21,
+        "longTermBasePercentile": null,
+        "baseScore": 92.2078,
+        "alternativeSearchRatio": 0.4,
+        "terminologyBonus": 6.0,
+        "adjustedScore": 98.2078,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 60.0,
+          "nba": 35.0,
+          "euroleague": 2.0,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "Eritrea",
+      "rank": 24,
+      "popularity": 90,
+      "popularityPercentile": 90.04,
+      "scoring": {
+        "recentRawScore": 32.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 92.21,
+        "longTermBasePercentile": null,
+        "baseScore": 92.2078,
+        "alternativeSearchRatio": 0.38,
+        "terminologyBonus": 5.7,
+        "adjustedScore": 97.9078,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 62.0,
+          "nba": 32.0,
+          "euroleague": null,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Spain",
+      "rank": 25,
+      "popularity": 90,
+      "popularityPercentile": 89.61,
+      "scoring": {
+        "recentRawScore": 34.0,
+        "longTermRawScore": 29.0,
+        "recentBasePercentile": 93.94,
+        "longTermBasePercentile": 86.21,
+        "baseScore": 91.6196,
+        "alternativeSearchRatio": 0.412,
+        "terminologyBonus": 6.18,
+        "adjustedScore": 97.7996,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 60.0,
+          "nba": 36.0,
+          "euroleague": 1.0,
+          "lakers": 3.0
+        },
+        "longTerm": {
+          "Basketball": 56.0,
+          "nba": 40.0,
+          "euroleague": 1.0,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "St. Martin",
+      "rank": 26,
+      "popularity": 89,
+      "popularityPercentile": 89.18,
+      "scoring": {
+        "recentRawScore": 26.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 85.5,
+        "longTermBasePercentile": null,
+        "baseScore": 85.4978,
+        "alternativeSearchRatio": 0.81,
+        "terminologyBonus": 12.15,
+        "adjustedScore": 97.6478,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 19.0,
+          "nba": 73.0,
+          "euroleague": null,
+          "lakers": 8.0
+        }
+      }
+    },
+    {
+      "country": "Uruguay",
+      "rank": 27,
+      "popularity": 89,
+      "popularityPercentile": 88.74,
+      "scoring": {
+        "recentRawScore": 34.0,
+        "longTermRawScore": 28.0,
+        "recentBasePercentile": 93.94,
+        "longTermBasePercentile": 83.62,
+        "baseScore": 90.8438,
+        "alternativeSearchRatio": 0.4498,
+        "terminologyBonus": 6.7463,
+        "adjustedScore": 97.59,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 55.0,
+          "nba": 39.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        },
+        "longTerm": {
+          "Basketball": 56.0,
+          "nba": 39.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "St. Kitts & Nevis",
+      "rank": 28,
+      "popularity": 88,
+      "popularityPercentile": 88.31,
+      "scoring": {
+        "recentRawScore": 25.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 84.2,
+        "longTermBasePercentile": null,
+        "baseScore": 84.1991,
+        "alternativeSearchRatio": 0.88,
+        "terminologyBonus": 13.2,
+        "adjustedScore": 97.3991,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 12.0,
+          "nba": 78.0,
+          "euroleague": null,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Sint Maarten",
+      "rank": 29,
+      "popularity": 88,
+      "popularityPercentile": 87.88,
+      "scoring": {
+        "recentRawScore": 25.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 84.2,
+        "longTermBasePercentile": null,
+        "baseScore": 84.1991,
+        "alternativeSearchRatio": 0.8706,
+        "terminologyBonus": 13.0597,
+        "adjustedScore": 97.2588,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 13.0,
+          "nba": 78.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Latvia",
+      "rank": 30,
+      "popularity": 87,
+      "popularityPercentile": 87.45,
+      "scoring": {
+        "recentRawScore": 30.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 90.04,
+        "longTermBasePercentile": null,
+        "baseScore": 90.0433,
+        "alternativeSearchRatio": 0.45,
+        "terminologyBonus": 6.75,
+        "adjustedScore": 96.7933,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 55.0,
+          "nba": 42.0,
+          "euroleague": 2.0,
+          "lakers": 1.0
+        }
+      }
+    },
+    {
+      "country": "Senegal",
+      "rank": 31,
+      "popularity": 87,
+      "popularityPercentile": 87.01,
+      "scoring": {
+        "recentRawScore": 26.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 85.5,
+        "longTermBasePercentile": null,
+        "baseScore": 85.4978,
+        "alternativeSearchRatio": 0.7313,
+        "terminologyBonus": 10.9701,
+        "adjustedScore": 96.468,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 27.0,
+          "nba": 63.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Kosovo",
+      "rank": 32,
+      "popularity": 87,
+      "popularityPercentile": 86.58,
+      "scoring": {
+        "recentRawScore": 29.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 88.53,
+        "longTermBasePercentile": null,
+        "baseScore": 88.5281,
+        "alternativeSearchRatio": 0.51,
+        "terminologyBonus": 7.65,
+        "adjustedScore": 96.1781,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 49.0,
+          "nba": 41.0,
+          "euroleague": 5.0,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Lebanon",
+      "rank": 33,
+      "popularity": 86,
+      "popularityPercentile": 86.15,
+      "scoring": {
+        "recentRawScore": 29.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 88.53,
+        "longTermBasePercentile": null,
+        "baseScore": 88.5281,
+        "alternativeSearchRatio": 0.4925,
+        "terminologyBonus": 7.3881,
+        "adjustedScore": 95.9162,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 51.0,
+          "nba": 42.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Mongolia",
+      "rank": 34,
+      "popularity": 86,
+      "popularityPercentile": 85.71,
+      "scoring": {
+        "recentRawScore": 24.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 82.03,
+        "longTermBasePercentile": null,
+        "baseScore": 82.0346,
+        "alternativeSearchRatio": 0.8507,
+        "terminologyBonus": 12.7612,
+        "adjustedScore": 94.7958,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 15.0,
+          "nba": 79.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Mayotte",
+      "rank": 35,
+      "popularity": 85,
+      "popularityPercentile": 85.28,
+      "scoring": {
+        "recentRawScore": 27.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 86.36,
+        "longTermBasePercentile": null,
+        "baseScore": 86.3636,
+        "alternativeSearchRatio": 0.55,
+        "terminologyBonus": 8.25,
+        "adjustedScore": 94.6136,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 45.0,
+          "nba": 50.0,
+          "euroleague": null,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Madagascar",
+      "rank": 36,
+      "popularity": 85,
+      "popularityPercentile": 84.85,
+      "scoring": {
+        "recentRawScore": 25.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 84.2,
+        "longTermBasePercentile": null,
+        "baseScore": 84.1991,
+        "alternativeSearchRatio": 0.6915,
+        "terminologyBonus": 10.3731,
+        "adjustedScore": 94.5723,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 31.0,
+          "nba": 62.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "South Sudan",
+      "rank": 37,
+      "popularity": 84,
+      "popularityPercentile": 84.42,
+      "scoring": {
+        "recentRawScore": 28.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 87.23,
+        "longTermBasePercentile": null,
+        "baseScore": 87.2294,
+        "alternativeSearchRatio": 0.4627,
+        "terminologyBonus": 6.9403,
+        "adjustedScore": 94.1697,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 54.0,
+          "nba": 40.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Cyprus",
+      "rank": 38,
+      "popularity": 84,
+      "popularityPercentile": 83.98,
+      "scoring": {
+        "recentRawScore": 27.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 86.36,
+        "longTermBasePercentile": null,
+        "baseScore": 86.3636,
+        "alternativeSearchRatio": 0.48,
+        "terminologyBonus": 7.2,
+        "adjustedScore": 93.5636,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 52.0,
+          "nba": 33.0,
+          "euroleague": 12.0,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "North Macedonia",
+      "rank": 39,
+      "popularity": 84,
+      "popularityPercentile": 83.55,
+      "scoring": {
+        "recentRawScore": 25.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 84.2,
+        "longTermBasePercentile": null,
+        "baseScore": 84.1991,
+        "alternativeSearchRatio": 0.58,
+        "terminologyBonus": 8.7,
+        "adjustedScore": 92.8991,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 42.0,
+          "nba": 50.0,
+          "euroleague": 4.0,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "American Samoa",
+      "rank": 40,
+      "popularity": 83,
+      "popularityPercentile": 83.12,
+      "scoring": {
+        "recentRawScore": 23.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 79.65,
+        "longTermBasePercentile": null,
+        "baseScore": 79.6537,
+        "alternativeSearchRatio": 0.87,
+        "terminologyBonus": 13.05,
+        "adjustedScore": 92.7037,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 13.0,
+          "nba": 68.0,
+          "euroleague": null,
+          "lakers": 19.0
+        }
+      }
+    },
+    {
+      "country": "Antigua & Barbuda",
+      "rank": 41,
+      "popularity": 83,
+      "popularityPercentile": 82.68,
+      "scoring": {
+        "recentRawScore": 23.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 79.65,
+        "longTermBasePercentile": null,
+        "baseScore": 79.6537,
+        "alternativeSearchRatio": 0.8607,
+        "terminologyBonus": 12.9105,
+        "adjustedScore": 92.5641,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 14.0,
+          "nba": 75.0,
+          "euroleague": 0.5,
+          "lakers": 11.0
+        }
+      }
+    },
+    {
+      "country": "Israel",
+      "rank": 42,
+      "popularity": 82,
+      "popularityPercentile": 82.25,
+      "scoring": {
+        "recentRawScore": 28.0,
+        "longTermRawScore": 22.0,
+        "recentBasePercentile": 87.23,
+        "longTermBasePercentile": 81.03,
+        "baseScore": 85.371,
+        "alternativeSearchRatio": 0.473,
+        "terminologyBonus": 7.095,
+        "adjustedScore": 92.466,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 53.0,
+          "nba": 42.0,
+          "euroleague": 3.0,
+          "lakers": 2.0
+        },
+        "longTerm": {
+          "Basketball": 52.0,
+          "nba": 43.0,
+          "euroleague": 3.0,
+          "lakers": 2.0
+        }
+      }
+    },
+    {
+      "country": "Angola",
+      "rank": 43,
+      "popularity": 82,
+      "popularityPercentile": 81.82,
+      "scoring": {
+        "recentRawScore": 24.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 82.03,
+        "longTermBasePercentile": null,
+        "baseScore": 82.0346,
+        "alternativeSearchRatio": 0.6816,
+        "terminologyBonus": 10.2239,
+        "adjustedScore": 92.2585,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 32.0,
+          "nba": 61.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Australia",
+      "rank": 44,
+      "popularity": 81,
+      "popularityPercentile": 81.39,
+      "scoring": {
+        "recentRawScore": 24.0,
+        "longTermRawScore": 21.0,
+        "recentBasePercentile": 82.03,
+        "longTermBasePercentile": 78.45,
+        "baseScore": 80.9587,
+        "alternativeSearchRatio": 0.7383,
+        "terminologyBonus": 11.0746,
+        "adjustedScore": 92.0334,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 26.0,
+          "nba": 70.0,
+          "euroleague": 0.5,
+          "lakers": 4.0
+        },
+        "longTerm": {
+          "Basketball": 27.0,
+          "nba": 70.0,
+          "euroleague": 0.5,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "Belize",
+      "rank": 45,
+      "popularity": 81,
+      "popularityPercentile": 80.95,
+      "scoring": {
+        "recentRawScore": 22.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 77.49,
+        "longTermBasePercentile": null,
+        "baseScore": 77.4892,
+        "alternativeSearchRatio": 0.8905,
+        "terminologyBonus": 13.3582,
+        "adjustedScore": 90.8474,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 11.0,
+          "nba": 73.0,
+          "euroleague": 0.5,
+          "lakers": 16.0
+        }
+      }
+    },
+    {
+      "country": "San Marino",
+      "rank": 46,
+      "popularity": 81,
+      "popularityPercentile": 80.52,
+      "scoring": {
+        "recentRawScore": 24.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 82.03,
+        "longTermBasePercentile": null,
+        "baseScore": 82.0346,
+        "alternativeSearchRatio": 0.5423,
+        "terminologyBonus": 8.1343,
+        "adjustedScore": 90.169,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 46.0,
+          "nba": 51.0,
+          "euroleague": 0.5,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "Gabon",
+      "rank": 47,
+      "popularity": 80,
+      "popularityPercentile": 80.09,
+      "scoring": {
+        "recentRawScore": 23.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 79.65,
+        "longTermBasePercentile": null,
+        "baseScore": 79.6537,
+        "alternativeSearchRatio": 0.6915,
+        "terminologyBonus": 10.3731,
+        "adjustedScore": 90.0268,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 31.0,
+          "nba": 57.0,
+          "euroleague": 0.5,
+          "lakers": 12.0
+        }
+      }
+    },
+    {
+      "country": "Cape Verde",
+      "rank": 48,
+      "popularity": 80,
+      "popularityPercentile": 79.65,
+      "scoring": {
+        "recentRawScore": 23.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 79.65,
+        "longTermBasePercentile": null,
+        "baseScore": 79.6537,
+        "alternativeSearchRatio": 0.6418,
+        "terminologyBonus": 9.6269,
+        "adjustedScore": 89.2805,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 36.0,
+          "nba": 58.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Venezuela",
+      "rank": 49,
+      "popularity": 79,
+      "popularityPercentile": 79.22,
+      "scoring": {
+        "recentRawScore": 22.0,
+        "longTermRawScore": 18.0,
+        "recentBasePercentile": 77.49,
+        "longTermBasePercentile": 70.69,
+        "baseScore": 75.4493,
+        "alternativeSearchRatio": 0.8706,
+        "terminologyBonus": 13.0597,
+        "adjustedScore": 88.509,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 13.0,
+          "nba": 84.0,
+          "euroleague": 0.5,
+          "lakers": 3.0
+        },
+        "longTerm": {
+          "Basketball": 13.0,
+          "nba": 85.0,
+          "euroleague": 0.5,
+          "lakers": 2.0
+        }
+      }
+    },
+    {
+      "country": "Canada",
+      "rank": 50,
+      "popularity": 79,
+      "popularityPercentile": 78.79,
+      "scoring": {
+        "recentRawScore": 22.0,
+        "longTermRawScore": 20.0,
+        "recentBasePercentile": 77.49,
+        "longTermBasePercentile": 75.0,
+        "baseScore": 76.7424,
+        "alternativeSearchRatio": 0.7552,
+        "terminologyBonus": 11.3284,
+        "adjustedScore": 88.0708,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 24.0,
+          "nba": 70.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        },
+        "longTerm": {
+          "Basketball": 26.0,
+          "nba": 69.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Anguilla",
+      "rank": 51,
+      "popularity": 78,
+      "popularityPercentile": 78.35,
+      "scoring": {
+        "recentRawScore": 21.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 75.32,
+        "longTermBasePercentile": null,
+        "baseScore": 75.3247,
+        "alternativeSearchRatio": 0.82,
+        "terminologyBonus": 12.3,
+        "adjustedScore": 87.6247,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 18.0,
+          "nba": 75.0,
+          "euroleague": null,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Aruba",
+      "rank": 52,
+      "popularity": 78,
+      "popularityPercentile": 77.71,
+      "scoring": {
+        "recentRawScore": 21.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 75.32,
+        "longTermBasePercentile": null,
+        "baseScore": 75.3247,
+        "alternativeSearchRatio": 0.791,
+        "terminologyBonus": 11.8657,
+        "adjustedScore": 87.1904,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 21.0,
+          "nba": 73.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Bermuda",
+      "rank": 52,
+      "popularity": 78,
+      "popularityPercentile": 77.71,
+      "scoring": {
+        "recentRawScore": 21.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 75.32,
+        "longTermBasePercentile": null,
+        "baseScore": 75.3247,
+        "alternativeSearchRatio": 0.791,
+        "terminologyBonus": 11.8657,
+        "adjustedScore": 87.1904,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 21.0,
+          "nba": 72.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Eswatini",
+      "rank": 54,
+      "popularity": 77,
+      "popularityPercentile": 77.06,
+      "scoring": {
+        "recentRawScore": 22.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 77.49,
+        "longTermBasePercentile": null,
+        "baseScore": 77.4892,
+        "alternativeSearchRatio": 0.5721,
+        "terminologyBonus": 8.5821,
+        "adjustedScore": 86.0713,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 43.0,
+          "nba": 44.0,
+          "euroleague": 0.5,
+          "lakers": 13.0
+        }
+      }
+    },
+    {
+      "country": "Italy",
+      "rank": 55,
+      "popularity": 77,
+      "popularityPercentile": 76.62,
+      "scoring": {
+        "recentRawScore": 24.0,
+        "longTermRawScore": 19.0,
+        "recentBasePercentile": 82.03,
+        "longTermBasePercentile": 72.41,
+        "baseScore": 79.1484,
+        "alternativeSearchRatio": 0.4488,
+        "terminologyBonus": 6.7313,
+        "adjustedScore": 85.8797,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 56.0,
+          "nba": 39.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        },
+        "longTerm": {
+          "Basketball": 54.0,
+          "nba": 43.0,
+          "euroleague": 0.5,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "North Korea",
+      "rank": 56,
+      "popularity": 76,
+      "popularityPercentile": 76.19,
+      "scoring": {
+        "recentRawScore": 22.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 77.49,
+        "longTermBasePercentile": null,
+        "baseScore": 77.4892,
+        "alternativeSearchRatio": 0.54,
+        "terminologyBonus": 8.1,
+        "adjustedScore": 85.5892,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 46.0,
+          "nba": 54.0,
+          "euroleague": null,
+          "lakers": null
+        }
+      }
+    },
+    {
+      "country": "Côte d’Ivoire",
+      "rank": 57,
+      "popularity": 76,
+      "popularityPercentile": 75.76,
+      "scoring": {
+        "recentRawScore": 21.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 75.32,
+        "longTermBasePercentile": null,
+        "baseScore": 75.3247,
+        "alternativeSearchRatio": 0.6816,
+        "terminologyBonus": 10.2239,
+        "adjustedScore": 85.5486,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 32.0,
+          "nba": 56.0,
+          "euroleague": 0.5,
+          "lakers": 12.0
+        }
+      }
+    },
+    {
+      "country": "Rwanda",
+      "rank": 58,
+      "popularity": 75,
+      "popularityPercentile": 75.32,
+      "scoring": {
+        "recentRawScore": 20.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 73.38,
+        "longTermBasePercentile": null,
+        "baseScore": 73.3766,
+        "alternativeSearchRatio": 0.7313,
+        "terminologyBonus": 10.9701,
+        "adjustedScore": 84.3468,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 27.0,
+          "nba": 63.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "France",
+      "rank": 59,
+      "popularity": 75,
+      "popularityPercentile": 74.89,
+      "scoring": {
+        "recentRawScore": 24.0,
+        "longTermRawScore": 17.0,
+        "recentBasePercentile": 82.03,
+        "longTermBasePercentile": 67.24,
+        "baseScore": 77.5967,
+        "alternativeSearchRatio": 0.4358,
+        "terminologyBonus": 6.5369,
+        "adjustedScore": 84.1335,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 58.0,
+          "nba": 37.0,
+          "euroleague": 1.0,
+          "lakers": 4.0
+        },
+        "longTerm": {
+          "Basketball": 53.0,
+          "nba": 44.0,
+          "euroleague": 0.5,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "Guadeloupe",
+      "rank": 60,
+      "popularity": 74,
+      "popularityPercentile": 74.46,
+      "scoring": {
+        "recentRawScore": 20.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 73.38,
+        "longTermBasePercentile": null,
+        "baseScore": 73.3766,
+        "alternativeSearchRatio": 0.6617,
+        "terminologyBonus": 9.9254,
+        "adjustedScore": 83.302,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 34.0,
+          "nba": 62.0,
+          "euroleague": 0.5,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Croatia",
+      "rank": 61,
+      "popularity": 74,
+      "popularityPercentile": 74.03,
+      "scoring": {
+        "recentRawScore": 20.0,
+        "longTermRawScore": 21.0,
+        "recentBasePercentile": 73.38,
+        "longTermBasePercentile": 78.45,
+        "baseScore": 74.8981,
+        "alternativeSearchRatio": 0.535,
+        "terminologyBonus": 8.025,
+        "adjustedScore": 82.9231,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 48.0,
+          "nba": 47.0,
+          "euroleague": 2.0,
+          "lakers": 3.0
+        },
+        "longTerm": {
+          "Basketball": 43.0,
+          "nba": 52.0,
+          "euroleague": 3.0,
+          "lakers": 2.0
+        }
+      }
+    },
+    {
+      "country": "Estonia",
+      "rank": 62,
+      "popularity": 74,
+      "popularityPercentile": 73.59,
+      "scoring": {
+        "recentRawScore": 21.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 75.32,
+        "longTermBasePercentile": null,
+        "baseScore": 75.3247,
+        "alternativeSearchRatio": 0.48,
+        "terminologyBonus": 7.2,
+        "adjustedScore": 82.5247,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 52.0,
+          "nba": 39.0,
+          "euroleague": 7.0,
+          "lakers": 2.0
+        }
+      }
+    },
+    {
+      "country": "Panama",
+      "rank": 63,
+      "popularity": 73,
+      "popularityPercentile": 73.16,
+      "scoring": {
+        "recentRawScore": 19.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 71.21,
+        "longTermBasePercentile": null,
+        "baseScore": 71.2121,
+        "alternativeSearchRatio": 0.7313,
+        "terminologyBonus": 10.9701,
+        "adjustedScore": 82.1823,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 27.0,
+          "nba": 64.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Equatorial Guinea",
+      "rank": 64,
+      "popularity": 73,
+      "popularityPercentile": 72.73,
+      "scoring": {
+        "recentRawScore": 19.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 71.21,
+        "longTermBasePercentile": null,
+        "baseScore": 71.2121,
+        "alternativeSearchRatio": 0.7214,
+        "terminologyBonus": 10.8209,
+        "adjustedScore": 82.033,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 28.0,
+          "nba": 63.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "St. Barthélemy",
+      "rank": 65,
+      "popularity": 72,
+      "popularityPercentile": 72.29,
+      "scoring": {
+        "recentRawScore": 19.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 71.21,
+        "longTermBasePercentile": null,
+        "baseScore": 71.2121,
+        "alternativeSearchRatio": 0.6915,
+        "terminologyBonus": 10.3731,
+        "adjustedScore": 81.5853,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 31.0,
+          "nba": 63.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Taiwan",
+      "rank": 66,
+      "popularity": 72,
+      "popularityPercentile": 71.86,
+      "scoring": {
+        "recentRawScore": 19.0,
+        "longTermRawScore": 16.0,
+        "recentBasePercentile": 71.21,
+        "longTermBasePercentile": 62.93,
+        "baseScore": 68.7278,
+        "alternativeSearchRatio": 0.8507,
+        "terminologyBonus": 12.7612,
+        "adjustedScore": 81.489,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 15.0,
+          "nba": 84.0,
+          "euroleague": 0.5,
+          "lakers": 1.0
+        },
+        "longTerm": {
+          "Basketball": 15.0,
+          "nba": 84.0,
+          "euroleague": 0.5,
+          "lakers": 1.0
+        }
+      }
+    },
+    {
+      "country": "Japan",
+      "rank": 67,
+      "popularity": 71,
+      "popularityPercentile": 71.43,
+      "scoring": {
+        "recentRawScore": 23.0,
+        "longTermRawScore": 17.0,
+        "recentBasePercentile": 79.65,
+        "longTermBasePercentile": 67.24,
+        "baseScore": 75.93,
+        "alternativeSearchRatio": 0.3129,
+        "terminologyBonus": 4.6931,
+        "adjustedScore": 80.6231,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 70.0,
+          "nba": 30.0,
+          "euroleague": 0.5,
+          "lakers": 0.5
+        },
+        "longTerm": {
+          "Basketball": 68.0,
+          "nba": 32.0,
+          "euroleague": 0.5,
+          "lakers": 0.5
+        }
+      }
+    },
+    {
+      "country": "New Zealand",
+      "rank": 68,
+      "popularity": 71,
+      "popularityPercentile": 71.0,
+      "scoring": {
+        "recentRawScore": 19.0,
+        "longTermRawScore": 16.0,
+        "recentBasePercentile": 71.21,
+        "longTermBasePercentile": 62.93,
+        "baseScore": 68.7278,
+        "alternativeSearchRatio": 0.7751,
+        "terminologyBonus": 11.6269,
+        "adjustedScore": 80.3547,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 22.0,
+          "nba": 72.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        },
+        "longTerm": {
+          "Basketball": 24.0,
+          "nba": 71.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Burundi",
+      "rank": 69,
+      "popularity": 71,
+      "popularityPercentile": 70.56,
+      "scoring": {
+        "recentRawScore": 18.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 68.83,
+        "longTermBasePercentile": null,
+        "baseScore": 68.8312,
+        "alternativeSearchRatio": 0.7015,
+        "terminologyBonus": 10.5224,
+        "adjustedScore": 79.3536,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 30.0,
+          "nba": 58.0,
+          "euroleague": 0.5,
+          "lakers": 12.0
+        }
+      }
+    },
+    {
+      "country": "Grenada",
+      "rank": 70,
+      "popularity": 70,
+      "popularityPercentile": 70.13,
+      "scoring": {
+        "recentRawScore": 17.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 65.58,
+        "longTermBasePercentile": null,
+        "baseScore": 65.5844,
+        "alternativeSearchRatio": 0.9,
+        "terminologyBonus": 13.5,
+        "adjustedScore": 79.0844,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 10.0,
+          "nba": 80.0,
+          "euroleague": null,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Martinique",
+      "rank": 71,
+      "popularity": 70,
+      "popularityPercentile": 69.7,
+      "scoring": {
+        "recentRawScore": 18.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 68.83,
+        "longTermBasePercentile": null,
+        "baseScore": 68.8312,
+        "alternativeSearchRatio": 0.6816,
+        "terminologyBonus": 10.2239,
+        "adjustedScore": 79.055,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 32.0,
+          "nba": 61.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Haiti",
+      "rank": 72,
+      "popularity": 69,
+      "popularityPercentile": 69.26,
+      "scoring": {
+        "recentRawScore": 17.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 65.58,
+        "longTermBasePercentile": null,
+        "baseScore": 65.5844,
+        "alternativeSearchRatio": 0.8905,
+        "terminologyBonus": 13.3582,
+        "adjustedScore": 78.9426,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 11.0,
+          "nba": 71.0,
+          "euroleague": 0.5,
+          "lakers": 18.0
+        }
+      }
+    },
+    {
+      "country": "Bolivia",
+      "rank": 73,
+      "popularity": 69,
+      "popularityPercentile": 68.83,
+      "scoring": {
+        "recentRawScore": 20.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 73.38,
+        "longTermBasePercentile": null,
+        "baseScore": 73.3766,
+        "alternativeSearchRatio": 0.3522,
+        "terminologyBonus": 5.2836,
+        "adjustedScore": 78.6602,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 66.0,
+          "nba": 29.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        },
+        "longTerm": {
+          "Basketball": 63.0,
+          "nba": 32.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Barbados",
+      "rank": 74,
+      "popularity": 68,
+      "popularityPercentile": 68.4,
+      "scoring": {
+        "recentRawScore": 17.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 65.58,
+        "longTermBasePercentile": null,
+        "baseScore": 65.5844,
+        "alternativeSearchRatio": 0.8706,
+        "terminologyBonus": 13.0597,
+        "adjustedScore": 78.6441,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 13.0,
+          "nba": 78.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Gibraltar",
+      "rank": 75,
+      "popularity": 68,
+      "popularityPercentile": 67.97,
+      "scoring": {
+        "recentRawScore": 18.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 68.83,
+        "longTermBasePercentile": null,
+        "baseScore": 68.8312,
+        "alternativeSearchRatio": 0.56,
+        "terminologyBonus": 8.4,
+        "adjustedScore": 77.2312,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 44.0,
+          "nba": 49.0,
+          "euroleague": 2.0,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Luxembourg",
+      "rank": 76,
+      "popularity": 68,
+      "popularityPercentile": 67.53,
+      "scoring": {
+        "recentRawScore": 18.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 68.83,
+        "longTermBasePercentile": null,
+        "baseScore": 68.8312,
+        "alternativeSearchRatio": 0.53,
+        "terminologyBonus": 7.95,
+        "adjustedScore": 76.7812,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 47.0,
+          "nba": 47.0,
+          "euroleague": 2.0,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Thailand",
+      "rank": 77,
+      "popularity": 67,
+      "popularityPercentile": 67.1,
+      "scoring": {
+        "recentRawScore": 19.0,
+        "longTermRawScore": 20.0,
+        "recentBasePercentile": 71.21,
+        "longTermBasePercentile": 75.0,
+        "baseScore": 72.3485,
+        "alternativeSearchRatio": 0.2796,
+        "terminologyBonus": 4.194,
+        "adjustedScore": 76.5425,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 70.0,
+          "nba": 29.0,
+          "euroleague": 0.5,
+          "lakers": 1.0
+        },
+        "longTerm": {
+          "Basketball": 78.0,
+          "nba": 21.0,
+          "euroleague": 0.5,
+          "lakers": 1.0
+        }
+      }
+    },
+    {
+      "country": "Liberia",
+      "rank": 78,
+      "popularity": 67,
+      "popularityPercentile": 66.67,
+      "scoring": {
+        "recentRawScore": 17.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 65.58,
+        "longTermBasePercentile": null,
+        "baseScore": 65.5844,
+        "alternativeSearchRatio": 0.7114,
+        "terminologyBonus": 10.6716,
+        "adjustedScore": 76.2561,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 29.0,
+          "nba": 62.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "French Guiana",
+      "rank": 79,
+      "popularity": 66,
+      "popularityPercentile": 66.23,
+      "scoring": {
+        "recentRawScore": 17.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 65.58,
+        "longTermBasePercentile": null,
+        "baseScore": 65.5844,
+        "alternativeSearchRatio": 0.7015,
+        "terminologyBonus": 10.5224,
+        "adjustedScore": 76.1068,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 30.0,
+          "nba": 65.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Iceland",
+      "rank": 80,
+      "popularity": 66,
+      "popularityPercentile": 65.8,
+      "scoring": {
+        "recentRawScore": 17.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 65.58,
+        "longTermBasePercentile": null,
+        "baseScore": 65.5844,
+        "alternativeSearchRatio": 0.66,
+        "terminologyBonus": 9.9,
+        "adjustedScore": 75.4844,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 34.0,
+          "nba": 60.0,
+          "euroleague": 1.0,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Hong Kong",
+      "rank": 81,
+      "popularity": 65,
+      "popularityPercentile": 65.37,
+      "scoring": {
+        "recentRawScore": 17.0,
+        "longTermRawScore": 14.0,
+        "recentBasePercentile": 65.58,
+        "longTermBasePercentile": 58.62,
+        "baseScore": 63.4953,
+        "alternativeSearchRatio": 0.798,
+        "terminologyBonus": 11.9701,
+        "adjustedScore": 75.4654,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 20.0,
+          "nba": 77.0,
+          "euroleague": 0.5,
+          "lakers": 3.0
+        },
+        "longTerm": {
+          "Basketball": 21.0,
+          "nba": 76.0,
+          "euroleague": 0.5,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "São Tomé & Príncipe",
+      "rank": 82,
+      "popularity": 65,
+      "popularityPercentile": 64.94,
+      "scoring": {
+        "recentRawScore": 18.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 68.83,
+        "longTermBasePercentile": null,
+        "baseScore": 68.8312,
+        "alternativeSearchRatio": 0.4,
+        "terminologyBonus": 6.0,
+        "adjustedScore": 74.8312,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 60.0,
+          "nba": 34.0,
+          "euroleague": null,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Congo - Brazzaville",
+      "rank": 83,
+      "popularity": 65,
+      "popularityPercentile": 64.5,
+      "scoring": {
+        "recentRawScore": 17.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 65.58,
+        "longTermBasePercentile": null,
+        "baseScore": 65.5844,
+        "alternativeSearchRatio": 0.6119,
+        "terminologyBonus": 9.1791,
+        "adjustedScore": 74.7635,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 39.0,
+          "nba": 53.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        }
+      }
+    },
+    {
+      "country": "St. Lucia",
+      "rank": 84,
+      "popularity": 64,
+      "popularityPercentile": 64.07,
+      "scoring": {
+        "recentRawScore": 15.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 61.04,
+        "longTermBasePercentile": null,
+        "baseScore": 61.039,
+        "alternativeSearchRatio": 0.88,
+        "terminologyBonus": 13.2,
+        "adjustedScore": 74.239,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 12.0,
+          "nba": 75.0,
+          "euroleague": null,
+          "lakers": 13.0
+        }
+      }
+    },
+    {
+      "country": "Cameroon",
+      "rank": 85,
+      "popularity": 64,
+      "popularityPercentile": 63.64,
+      "scoring": {
+        "recentRawScore": 16.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 62.77,
+        "longTermBasePercentile": null,
+        "baseScore": 62.7706,
+        "alternativeSearchRatio": 0.6915,
+        "terminologyBonus": 10.3731,
+        "adjustedScore": 73.1437,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 31.0,
+          "nba": 59.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Central African Republic",
+      "rank": 86,
+      "popularity": 63,
+      "popularityPercentile": 63.2,
+      "scoring": {
+        "recentRawScore": 17.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 65.58,
+        "longTermBasePercentile": null,
+        "baseScore": 65.5844,
+        "alternativeSearchRatio": 0.5,
+        "terminologyBonus": 7.5,
+        "adjustedScore": 73.0844,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 50.0,
+          "nba": 41.0,
+          "euroleague": null,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Türkiye",
+      "rank": 87,
+      "popularity": 63,
+      "popularityPercentile": 62.77,
+      "scoring": {
+        "recentRawScore": 17.0,
+        "longTermRawScore": 17.0,
+        "recentBasePercentile": 65.58,
+        "longTermBasePercentile": 67.24,
+        "baseScore": 66.0815,
+        "alternativeSearchRatio": 0.444,
+        "terminologyBonus": 6.66,
+        "adjustedScore": 72.7415,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 55.0,
+          "nba": 26.0,
+          "euroleague": 17.0,
+          "lakers": 2.0
+        },
+        "longTerm": {
+          "Basketball": 57.0,
+          "nba": 30.0,
+          "euroleague": 11.0,
+          "lakers": 2.0
+        }
+      }
+    },
+    {
+      "country": "Guyana",
+      "rank": 88,
+      "popularity": 62,
+      "popularityPercentile": 62.34,
+      "scoring": {
+        "recentRawScore": 14.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 58.01,
+        "longTermBasePercentile": null,
+        "baseScore": 58.0087,
+        "alternativeSearchRatio": 0.9104,
+        "terminologyBonus": 13.6567,
+        "adjustedScore": 71.6654,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 9.0,
+          "nba": 80.0,
+          "euroleague": 0.5,
+          "lakers": 11.0
+        }
+      }
+    },
+    {
+      "country": "Dominica",
+      "rank": 89,
+      "popularity": 62,
+      "popularityPercentile": 61.9,
+      "scoring": {
+        "recentRawScore": 14.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 58.01,
+        "longTermBasePercentile": null,
+        "baseScore": 58.0087,
+        "alternativeSearchRatio": 0.88,
+        "terminologyBonus": 13.2,
+        "adjustedScore": 71.2087,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 12.0,
+          "nba": 77.0,
+          "euroleague": null,
+          "lakers": 11.0
+        }
+      }
+    },
+    {
+      "country": "Réunion",
+      "rank": 90,
+      "popularity": 61,
+      "popularityPercentile": 61.47,
+      "scoring": {
+        "recentRawScore": 16.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 62.77,
+        "longTermBasePercentile": null,
+        "baseScore": 62.7706,
+        "alternativeSearchRatio": 0.5323,
+        "terminologyBonus": 7.9851,
+        "adjustedScore": 70.7556,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 47.0,
+          "nba": 49.0,
+          "euroleague": 0.5,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Comoros",
+      "rank": 91,
+      "popularity": 61,
+      "popularityPercentile": 61.04,
+      "scoring": {
+        "recentRawScore": 15.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 61.04,
+        "longTermBasePercentile": null,
+        "baseScore": 61.039,
+        "alternativeSearchRatio": 0.64,
+        "terminologyBonus": 9.6,
+        "adjustedScore": 70.639,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 36.0,
+          "nba": 52.0,
+          "euroleague": null,
+          "lakers": 12.0
+        }
+      }
+    },
+    {
+      "country": "Cook Islands",
+      "rank": 92,
+      "popularity": 61,
+      "popularityPercentile": 60.61,
+      "scoring": {
+        "recentRawScore": 14.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 58.01,
+        "longTermBasePercentile": null,
+        "baseScore": 58.0087,
+        "alternativeSearchRatio": 0.84,
+        "terminologyBonus": 12.6,
+        "adjustedScore": 70.6087,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 16.0,
+          "nba": 76.0,
+          "euroleague": null,
+          "lakers": 8.0
+        }
+      }
+    },
+    {
+      "country": "Kiribati",
+      "rank": 93,
+      "popularity": 60,
+      "popularityPercentile": 60.17,
+      "scoring": {
+        "recentRawScore": 14.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 58.01,
+        "longTermBasePercentile": null,
+        "baseScore": 58.0087,
+        "alternativeSearchRatio": 0.82,
+        "terminologyBonus": 12.3,
+        "adjustedScore": 70.3087,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 18.0,
+          "nba": 71.0,
+          "euroleague": null,
+          "lakers": 11.0
+        }
+      }
+    },
+    {
+      "country": "Ecuador",
+      "rank": 94,
+      "popularity": 60,
+      "popularityPercentile": 59.74,
+      "scoring": {
+        "recentRawScore": 16.0,
+        "longTermRawScore": 14.0,
+        "recentBasePercentile": 62.77,
+        "longTermBasePercentile": 58.62,
+        "baseScore": 61.5256,
+        "alternativeSearchRatio": 0.5483,
+        "terminologyBonus": 8.2239,
+        "adjustedScore": 69.7495,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 43.0,
+          "nba": 49.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        },
+        "longTerm": {
+          "Basketball": 51.0,
+          "nba": 42.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Benin",
+      "rank": 95,
+      "popularity": 59,
+      "popularityPercentile": 59.31,
+      "scoring": {
+        "recentRawScore": 15.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 61.04,
+        "longTermBasePercentile": null,
+        "baseScore": 61.039,
+        "alternativeSearchRatio": 0.5721,
+        "terminologyBonus": 8.5821,
+        "adjustedScore": 69.621,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 43.0,
+          "nba": 49.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        }
+      }
+    },
+    {
+      "country": "Guinea",
+      "rank": 96,
+      "popularity": 59,
+      "popularityPercentile": 58.87,
+      "scoring": {
+        "recentRawScore": 14.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 58.01,
+        "longTermBasePercentile": null,
+        "baseScore": 58.0087,
+        "alternativeSearchRatio": 0.6915,
+        "terminologyBonus": 10.3731,
+        "adjustedScore": 68.3818,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 31.0,
+          "nba": 60.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Argentina",
+      "rank": 97,
+      "popularity": 58,
+      "popularityPercentile": 58.44,
+      "scoring": {
+        "recentRawScore": 15.0,
+        "longTermRawScore": 13.0,
+        "recentBasePercentile": 61.04,
+        "longTermBasePercentile": 55.17,
+        "baseScore": 59.279,
+        "alternativeSearchRatio": 0.5672,
+        "terminologyBonus": 8.5075,
+        "adjustedScore": 67.7865,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 42.0,
+          "nba": 51.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        },
+        "longTerm": {
+          "Basketball": 47.0,
+          "nba": 47.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "China",
+      "rank": 98,
+      "popularity": 58,
+      "popularityPercentile": 58.01,
+      "scoring": {
+        "recentRawScore": 13.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 53.46,
+        "longTermBasePercentile": null,
+        "baseScore": 53.4632,
+        "alternativeSearchRatio": 0.9307,
+        "terminologyBonus": 13.9604,
+        "adjustedScore": 67.4236,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 7.0,
+          "nba": 93.0,
+          "euroleague": 0.5,
+          "lakers": 0.5
+        }
+      }
+    },
+    {
+      "country": "Curaçao",
+      "rank": 99,
+      "popularity": 58,
+      "popularityPercentile": 57.58,
+      "scoring": {
+        "recentRawScore": 13.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 53.46,
+        "longTermBasePercentile": null,
+        "baseScore": 53.4632,
+        "alternativeSearchRatio": 0.8507,
+        "terminologyBonus": 12.7612,
+        "adjustedScore": 66.2244,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 15.0,
+          "nba": 78.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "St. Helena",
+      "rank": 100,
+      "popularity": 57,
+      "popularityPercentile": 57.14,
+      "scoring": {
+        "recentRawScore": 14.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 58.01,
+        "longTermBasePercentile": null,
+        "baseScore": 58.0087,
+        "alternativeSearchRatio": 0.51,
+        "terminologyBonus": 7.65,
+        "adjustedScore": 65.6587,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 49.0,
+          "nba": 45.0,
+          "euroleague": 1.0,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Guatemala",
+      "rank": 101,
+      "popularity": 57,
+      "popularityPercentile": 56.71,
+      "scoring": {
+        "recentRawScore": 14.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 58.01,
+        "longTermBasePercentile": null,
+        "baseScore": 58.0087,
+        "alternativeSearchRatio": 0.4925,
+        "terminologyBonus": 7.3881,
+        "adjustedScore": 65.3967,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 51.0,
+          "nba": 39.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Caribbean Netherlands",
+      "rank": 102,
+      "popularity": 56,
+      "popularityPercentile": 56.28,
+      "scoring": {
+        "recentRawScore": 13.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 53.46,
+        "longTermBasePercentile": null,
+        "baseScore": 53.4632,
+        "alternativeSearchRatio": 0.79,
+        "terminologyBonus": 11.85,
+        "adjustedScore": 65.3132,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 21.0,
+          "nba": 69.0,
+          "euroleague": null,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Belgium",
+      "rank": 103,
+      "popularity": 56,
+      "popularityPercentile": 55.84,
+      "scoring": {
+        "recentRawScore": 15.0,
+        "longTermRawScore": 11.0,
+        "recentBasePercentile": 61.04,
+        "longTermBasePercentile": 50.0,
+        "baseScore": 57.7273,
+        "alternativeSearchRatio": 0.442,
+        "terminologyBonus": 6.63,
+        "adjustedScore": 64.3573,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 57.0,
+          "nba": 38.0,
+          "euroleague": 1.0,
+          "lakers": 4.0
+        },
+        "longTerm": {
+          "Basketball": 53.0,
+          "nba": 43.0,
+          "euroleague": 1.0,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "French Polynesia",
+      "rank": 104,
+      "popularity": 55,
+      "popularityPercentile": 55.41,
+      "scoring": {
+        "recentRawScore": 13.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 53.46,
+        "longTermBasePercentile": null,
+        "baseScore": 53.4632,
+        "alternativeSearchRatio": 0.7015,
+        "terminologyBonus": 10.5224,
+        "adjustedScore": 63.9856,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 30.0,
+          "nba": 63.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Bhutan",
+      "rank": 105,
+      "popularity": 55,
+      "popularityPercentile": 54.76,
+      "scoring": {
+        "recentRawScore": 13.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 53.46,
+        "longTermBasePercentile": null,
+        "baseScore": 53.4632,
+        "alternativeSearchRatio": 0.6716,
+        "terminologyBonus": 10.0746,
+        "adjustedScore": 63.5378,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 33.0,
+          "nba": 61.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Togo",
+      "rank": 105,
+      "popularity": 55,
+      "popularityPercentile": 54.76,
+      "scoring": {
+        "recentRawScore": 13.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 53.46,
+        "longTermBasePercentile": null,
+        "baseScore": 53.4632,
+        "alternativeSearchRatio": 0.6716,
+        "terminologyBonus": 10.0746,
+        "adjustedScore": 63.5378,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 33.0,
+          "nba": 57.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Indonesia",
+      "rank": 107,
+      "popularity": 54,
+      "popularityPercentile": 54.11,
+      "scoring": {
+        "recentRawScore": 14.0,
+        "longTermRawScore": 14.0,
+        "recentBasePercentile": 58.01,
+        "longTermBasePercentile": 58.62,
+        "baseScore": 58.1923,
+        "alternativeSearchRatio": 0.3413,
+        "terminologyBonus": 5.1194,
+        "adjustedScore": 63.3117,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 65.0,
+          "nba": 30.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        },
+        "longTerm": {
+          "Basketball": 69.0,
+          "nba": 26.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Nigeria",
+      "rank": 108,
+      "popularity": 54,
+      "popularityPercentile": 53.68,
+      "scoring": {
+        "recentRawScore": 14.0,
+        "longTermRawScore": 11.0,
+        "recentBasePercentile": 58.01,
+        "longTermBasePercentile": 50.0,
+        "baseScore": 55.6061,
+        "alternativeSearchRatio": 0.5085,
+        "terminologyBonus": 7.6269,
+        "adjustedScore": 63.2329,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 50.0,
+          "nba": 43.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        },
+        "longTerm": {
+          "Basketball": 48.0,
+          "nba": 44.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        }
+      }
+    },
+    {
+      "country": "Singapore",
+      "rank": 109,
+      "popularity": 53,
+      "popularityPercentile": 53.25,
+      "scoring": {
+        "recentRawScore": 13.0,
+        "longTermRawScore": 10.0,
+        "recentBasePercentile": 53.46,
+        "longTermBasePercentile": 44.83,
+        "baseScore": 50.8725,
+        "alternativeSearchRatio": 0.794,
+        "terminologyBonus": 11.9104,
+        "adjustedScore": 62.783,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 21.0,
+          "nba": 69.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        },
+        "longTerm": {
+          "Basketball": 20.0,
+          "nba": 71.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Trinidad & Tobago",
+      "rank": 110,
+      "popularity": 53,
+      "popularityPercentile": 52.81,
+      "scoring": {
+        "recentRawScore": 12.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 49.13,
+        "longTermBasePercentile": null,
+        "baseScore": 49.1342,
+        "alternativeSearchRatio": 0.8905,
+        "terminologyBonus": 13.3582,
+        "adjustedScore": 62.4924,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 11.0,
+          "nba": 78.0,
+          "euroleague": 0.5,
+          "lakers": 11.0
+        }
+      }
+    },
+    {
+      "country": "St. Vincent & Grenadines",
+      "rank": 111,
+      "popularity": 52,
+      "popularityPercentile": 52.38,
+      "scoring": {
+        "recentRawScore": 12.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 49.13,
+        "longTermBasePercentile": null,
+        "baseScore": 49.1342,
+        "alternativeSearchRatio": 0.89,
+        "terminologyBonus": 13.35,
+        "adjustedScore": 62.4842,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 11.0,
+          "nba": 77.0,
+          "euroleague": null,
+          "lakers": 12.0
+        }
+      }
+    },
+    {
+      "country": "Jamaica",
+      "rank": 112,
+      "popularity": 52,
+      "popularityPercentile": 51.95,
+      "scoring": {
+        "recentRawScore": 12.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 49.13,
+        "longTermBasePercentile": null,
+        "baseScore": 49.1342,
+        "alternativeSearchRatio": 0.8706,
+        "terminologyBonus": 13.0597,
+        "adjustedScore": 62.1939,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 13.0,
+          "nba": 75.0,
+          "euroleague": 0.5,
+          "lakers": 12.0
+        }
+      }
+    },
+    {
+      "country": "Georgia",
+      "rank": 113,
+      "popularity": 52,
+      "popularityPercentile": 51.52,
+      "scoring": {
+        "recentRawScore": 13.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 53.46,
+        "longTermBasePercentile": null,
+        "baseScore": 53.4632,
+        "alternativeSearchRatio": 0.55,
+        "terminologyBonus": 8.25,
+        "adjustedScore": 61.7132,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 45.0,
+          "nba": 51.0,
+          "euroleague": 1.0,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "Portugal",
+      "rank": 114,
+      "popularity": 51,
+      "popularityPercentile": 51.08,
+      "scoring": {
+        "recentRawScore": 13.0,
+        "longTermRawScore": 11.0,
+        "recentBasePercentile": 53.46,
+        "longTermBasePercentile": 50.0,
+        "baseScore": 52.4242,
+        "alternativeSearchRatio": 0.5781,
+        "terminologyBonus": 8.6716,
+        "adjustedScore": 61.0959,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 43.0,
+          "nba": 52.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        },
+        "longTerm": {
+          "Basketball": 41.0,
+          "nba": 55.0,
+          "euroleague": 0.5,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Seychelles",
+      "rank": 115,
+      "popularity": 51,
+      "popularityPercentile": 50.65,
+      "scoring": {
+        "recentRawScore": 12.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 49.13,
+        "longTermBasePercentile": null,
+        "baseScore": 49.1342,
+        "alternativeSearchRatio": 0.791,
+        "terminologyBonus": 11.8657,
+        "adjustedScore": 60.9999,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 21.0,
+          "nba": 70.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Papua New Guinea",
+      "rank": 116,
+      "popularity": 50,
+      "popularityPercentile": 50.22,
+      "scoring": {
+        "recentRawScore": 12.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 49.13,
+        "longTermBasePercentile": null,
+        "baseScore": 49.1342,
+        "alternativeSearchRatio": 0.7811,
+        "terminologyBonus": 11.7164,
+        "adjustedScore": 60.8506,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 22.0,
+          "nba": 68.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Zimbabwe",
+      "rank": 117,
+      "popularity": 50,
+      "popularityPercentile": 49.78,
+      "scoring": {
+        "recentRawScore": 12.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 49.13,
+        "longTermBasePercentile": null,
+        "baseScore": 49.1342,
+        "alternativeSearchRatio": 0.7413,
+        "terminologyBonus": 11.1194,
+        "adjustedScore": 60.2536,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 26.0,
+          "nba": 62.0,
+          "euroleague": 0.5,
+          "lakers": 12.0
+        }
+      }
+    },
+    {
+      "country": "Ireland",
+      "rank": 118,
+      "popularity": 49,
+      "popularityPercentile": 49.35,
+      "scoring": {
+        "recentRawScore": 13.0,
+        "longTermRawScore": 10.0,
+        "recentBasePercentile": 53.46,
+        "longTermBasePercentile": 44.83,
+        "baseScore": 50.8725,
+        "alternativeSearchRatio": 0.617,
+        "terminologyBonus": 9.255,
+        "adjustedScore": 60.1275,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 38.0,
+          "nba": 55.0,
+          "euroleague": 1.0,
+          "lakers": 6.0
+        },
+        "longTerm": {
+          "Basketball": 39.0,
+          "nba": 55.0,
+          "euroleague": 1.0,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Ghana",
+      "rank": 119,
+      "popularity": 49,
+      "popularityPercentile": 48.92,
+      "scoring": {
+        "recentRawScore": 12.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 49.13,
+        "longTermBasePercentile": null,
+        "baseScore": 49.1342,
+        "alternativeSearchRatio": 0.7114,
+        "terminologyBonus": 10.6716,
+        "adjustedScore": 59.8058,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 29.0,
+          "nba": 60.0,
+          "euroleague": 0.5,
+          "lakers": 11.0
+        }
+      }
+    },
+    {
+      "country": "South Korea",
+      "rank": 120,
+      "popularity": 48,
+      "popularityPercentile": 48.48,
+      "scoring": {
+        "recentRawScore": 12.0,
+        "longTermRawScore": 12.0,
+        "recentBasePercentile": 49.13,
+        "longTermBasePercentile": 53.45,
+        "baseScore": 50.4284,
+        "alternativeSearchRatio": 0.59,
+        "terminologyBonus": 8.8507,
+        "adjustedScore": 59.2792,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 40.0,
+          "nba": 58.0,
+          "euroleague": 0.5,
+          "lakers": 2.0
+        },
+        "longTerm": {
+          "Basketball": 44.0,
+          "nba": 54.0,
+          "euroleague": 0.5,
+          "lakers": 2.0
+        }
+      }
+    },
+    {
+      "country": "Solomon Islands",
+      "rank": 121,
+      "popularity": 48,
+      "popularityPercentile": 48.05,
+      "scoring": {
+        "recentRawScore": 11.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 45.45,
+        "longTermBasePercentile": null,
+        "baseScore": 45.4545,
+        "alternativeSearchRatio": 0.79,
+        "terminologyBonus": 11.85,
+        "adjustedScore": 57.3045,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 21.0,
+          "nba": 66.0,
+          "euroleague": null,
+          "lakers": 13.0
+        }
+      }
+    },
+    {
+      "country": "Germany",
+      "rank": 122,
+      "popularity": 48,
+      "popularityPercentile": 47.62,
+      "scoring": {
+        "recentRawScore": 13.0,
+        "longTermRawScore": 9.0,
+        "recentBasePercentile": 53.46,
+        "longTermBasePercentile": 38.79,
+        "baseScore": 49.0622,
+        "alternativeSearchRatio": 0.493,
+        "terminologyBonus": 7.395,
+        "adjustedScore": 56.4572,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 51.0,
+          "nba": 42.0,
+          "euroleague": 3.0,
+          "lakers": 4.0
+        },
+        "longTerm": {
+          "Basketball": 50.0,
+          "nba": 43.0,
+          "euroleague": 4.0,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "Botswana",
+      "rank": 123,
+      "popularity": 47,
+      "popularityPercentile": 47.19,
+      "scoring": {
+        "recentRawScore": 11.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 45.45,
+        "longTermBasePercentile": null,
+        "baseScore": 45.4545,
+        "alternativeSearchRatio": 0.7015,
+        "terminologyBonus": 10.5224,
+        "adjustedScore": 55.9769,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 30.0,
+          "nba": 58.0,
+          "euroleague": 0.5,
+          "lakers": 12.0
+        }
+      }
+    },
+    {
+      "country": "Mali",
+      "rank": 124,
+      "popularity": 47,
+      "popularityPercentile": 46.75,
+      "scoring": {
+        "recentRawScore": 11.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 45.45,
+        "longTermBasePercentile": null,
+        "baseScore": 45.4545,
+        "alternativeSearchRatio": 0.6915,
+        "terminologyBonus": 10.3731,
+        "adjustedScore": 55.8277,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 31.0,
+          "nba": 59.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Finland",
+      "rank": 125,
+      "popularity": 46,
+      "popularityPercentile": 46.32,
+      "scoring": {
+        "recentRawScore": 13.0,
+        "longTermRawScore": 9.0,
+        "recentBasePercentile": 53.46,
+        "longTermBasePercentile": 38.79,
+        "baseScore": 49.0622,
+        "alternativeSearchRatio": 0.3852,
+        "terminologyBonus": 5.7774,
+        "adjustedScore": 54.8396,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 62.0,
+          "nba": 35.0,
+          "euroleague": 0.5,
+          "lakers": 3.0
+        },
+        "longTerm": {
+          "Basketball": 61.0,
+          "nba": 36.0,
+          "euroleague": 1.0,
+          "lakers": 2.0
+        }
+      }
+    },
+    {
+      "country": "Congo - Kinshasa",
+      "rank": 126,
+      "popularity": 46,
+      "popularityPercentile": 45.89,
+      "scoring": {
+        "recentRawScore": 11.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 45.45,
+        "longTermBasePercentile": null,
+        "baseScore": 45.4545,
+        "alternativeSearchRatio": 0.6219,
+        "terminologyBonus": 9.3284,
+        "adjustedScore": 54.7829,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 38.0,
+          "nba": 52.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Kenya",
+      "rank": 127,
+      "popularity": 45,
+      "popularityPercentile": 45.45,
+      "scoring": {
+        "recentRawScore": 11.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 45.45,
+        "longTermBasePercentile": null,
+        "baseScore": 45.4545,
+        "alternativeSearchRatio": 0.602,
+        "terminologyBonus": 9.0298,
+        "adjustedScore": 54.4844,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 40.0,
+          "nba": 50.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Albania",
+      "rank": 128,
+      "popularity": 45,
+      "popularityPercentile": 45.02,
+      "scoring": {
+        "recentRawScore": 11.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 45.45,
+        "longTermBasePercentile": null,
+        "baseScore": 45.4545,
+        "alternativeSearchRatio": 0.54,
+        "terminologyBonus": 8.1,
+        "adjustedScore": 53.5545,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 46.0,
+          "nba": 45.0,
+          "euroleague": 3.0,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Mexico",
+      "rank": 129,
+      "popularity": 45,
+      "popularityPercentile": 44.59,
+      "scoring": {
+        "recentRawScore": 11.0,
+        "longTermRawScore": 9.0,
+        "recentBasePercentile": 45.45,
+        "longTermBasePercentile": 38.79,
+        "baseScore": 43.4561,
+        "alternativeSearchRatio": 0.6667,
+        "terminologyBonus": 10.0,
+        "adjustedScore": 53.4561,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 32.0,
+          "nba": 57.0,
+          "euroleague": 0.5,
+          "lakers": 11.0
+        },
+        "longTerm": {
+          "Basketball": 37.0,
+          "nba": 54.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Laos",
+      "rank": 130,
+      "popularity": 44,
+      "popularityPercentile": 44.16,
+      "scoring": {
+        "recentRawScore": 11.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 45.45,
+        "longTermBasePercentile": null,
+        "baseScore": 45.4545,
+        "alternativeSearchRatio": 0.5025,
+        "terminologyBonus": 7.5373,
+        "adjustedScore": 52.9919,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 50.0,
+          "nba": 46.0,
+          "euroleague": 0.5,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Cuba",
+      "rank": 131,
+      "popularity": 44,
+      "popularityPercentile": 43.72,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.9204,
+        "terminologyBonus": 13.806,
+        "adjustedScore": 52.1177,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 8.0,
+          "nba": 84.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        }
+      }
+    },
+    {
+      "country": "Bulgaria",
+      "rank": 132,
+      "popularity": 43,
+      "popularityPercentile": 43.29,
+      "scoring": {
+        "recentRawScore": 11.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 45.45,
+        "longTermBasePercentile": null,
+        "baseScore": 45.4545,
+        "alternativeSearchRatio": 0.39,
+        "terminologyBonus": 5.85,
+        "adjustedScore": 51.3045,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 61.0,
+          "nba": 34.0,
+          "euroleague": 2.0,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "Colombia",
+      "rank": 133,
+      "popularity": 43,
+      "popularityPercentile": 42.86,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": 10.0,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": 44.83,
+        "baseScore": 40.2665,
+        "alternativeSearchRatio": 0.6249,
+        "terminologyBonus": 9.3731,
+        "adjustedScore": 49.6396,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 35.0,
+          "nba": 57.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        },
+        "longTerm": {
+          "Basketball": 44.0,
+          "nba": 49.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Nicaragua",
+      "rank": 134,
+      "popularity": 42,
+      "popularityPercentile": 42.42,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.7413,
+        "terminologyBonus": 11.1194,
+        "adjustedScore": 49.4311,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 26.0,
+          "nba": 60.0,
+          "euroleague": 0.5,
+          "lakers": 14.0
+        }
+      }
+    },
+    {
+      "country": "Djibouti",
+      "rank": 135,
+      "popularity": 42,
+      "popularityPercentile": 41.77,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.7313,
+        "terminologyBonus": 10.9701,
+        "adjustedScore": 49.2818,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 27.0,
+          "nba": 64.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Gambia",
+      "rank": 135,
+      "popularity": 42,
+      "popularityPercentile": 41.77,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.7313,
+        "terminologyBonus": 10.9701,
+        "adjustedScore": 49.2818,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 27.0,
+          "nba": 61.0,
+          "euroleague": 0.5,
+          "lakers": 12.0
+        }
+      }
+    },
+    {
+      "country": "St. Pierre & Miquelon",
+      "rank": 137,
+      "popularity": 41,
+      "popularityPercentile": 41.13,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.73,
+        "terminologyBonus": 10.95,
+        "adjustedScore": 49.2617,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 27.0,
+          "nba": 68.0,
+          "euroleague": null,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Costa Rica",
+      "rank": 138,
+      "popularity": 41,
+      "popularityPercentile": 40.69,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.7114,
+        "terminologyBonus": 10.6716,
+        "adjustedScore": 48.9833,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 29.0,
+          "nba": 60.0,
+          "euroleague": 0.5,
+          "lakers": 11.0
+        }
+      }
+    },
+    {
+      "country": "Falkland Islands (Islas Malvinas)",
+      "rank": 139,
+      "popularity": 40,
+      "popularityPercentile": 40.26,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.69,
+        "terminologyBonus": 10.35,
+        "adjustedScore": 48.6617,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 31.0,
+          "nba": 60.0,
+          "euroleague": null,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "New Caledonia",
+      "rank": 140,
+      "popularity": 40,
+      "popularityPercentile": 39.83,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.6617,
+        "terminologyBonus": 9.9254,
+        "adjustedScore": 48.2371,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 34.0,
+          "nba": 61.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Bahrain",
+      "rank": 141,
+      "popularity": 39,
+      "popularityPercentile": 38.96,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.6517,
+        "terminologyBonus": 9.7761,
+        "adjustedScore": 48.0878,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 35.0,
+          "nba": 58.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Malawi",
+      "rank": 141,
+      "popularity": 39,
+      "popularityPercentile": 38.96,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.6517,
+        "terminologyBonus": 9.7761,
+        "adjustedScore": 48.0878,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 35.0,
+          "nba": 55.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Mozambique",
+      "rank": 141,
+      "popularity": 39,
+      "popularityPercentile": 38.96,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.6517,
+        "terminologyBonus": 9.7761,
+        "adjustedScore": 48.0878,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 35.0,
+          "nba": 55.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Honduras",
+      "rank": 144,
+      "popularity": 38,
+      "popularityPercentile": 38.1,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.6318,
+        "terminologyBonus": 9.4776,
+        "adjustedScore": 47.7893,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 37.0,
+          "nba": 51.0,
+          "euroleague": 0.5,
+          "lakers": 12.0
+        }
+      }
+    },
+    {
+      "country": "Burkina Faso",
+      "rank": 145,
+      "popularity": 37,
+      "popularityPercentile": 37.45,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.6219,
+        "terminologyBonus": 9.3284,
+        "adjustedScore": 47.6401,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 38.0,
+          "nba": 53.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Uganda",
+      "rank": 145,
+      "popularity": 37,
+      "popularityPercentile": 37.45,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.6219,
+        "terminologyBonus": 9.3284,
+        "adjustedScore": 47.6401,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 38.0,
+          "nba": 52.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Chile",
+      "rank": 147,
+      "popularity": 37,
+      "popularityPercentile": 36.8,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": 8.0,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": 33.62,
+        "baseScore": 36.9044,
+        "alternativeSearchRatio": 0.7095,
+        "terminologyBonus": 10.6418,
+        "adjustedScore": 47.5462,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 28.0,
+          "nba": 61.0,
+          "euroleague": 0.5,
+          "lakers": 11.0
+        },
+        "longTerm": {
+          "Basketball": 32.0,
+          "nba": 57.0,
+          "euroleague": 0.5,
+          "lakers": 11.0
+        }
+      }
+    },
+    {
+      "country": "Sierra Leone",
+      "rank": 148,
+      "popularity": 36,
+      "popularityPercentile": 36.36,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.6119,
+        "terminologyBonus": 9.1791,
+        "adjustedScore": 47.4908,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 39.0,
+          "nba": 51.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Peru",
+      "rank": 149,
+      "popularity": 36,
+      "popularityPercentile": 35.93,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": 9.0,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": 38.79,
+        "baseScore": 38.4561,
+        "alternativeSearchRatio": 0.591,
+        "terminologyBonus": 8.8657,
+        "adjustedScore": 47.3218,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 39.0,
+          "nba": 53.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        },
+        "longTerm": {
+          "Basketball": 46.0,
+          "nba": 47.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Malta",
+      "rank": 150,
+      "popularity": 35,
+      "popularityPercentile": 35.5,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.56,
+        "terminologyBonus": 8.4,
+        "adjustedScore": 46.7117,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 44.0,
+          "nba": 50.0,
+          "euroleague": 2.0,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Lesotho",
+      "rank": 151,
+      "popularity": 35,
+      "popularityPercentile": 35.06,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.5522,
+        "terminologyBonus": 8.2836,
+        "adjustedScore": 46.5953,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 45.0,
+          "nba": 45.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Palestine",
+      "rank": 152,
+      "popularity": 35,
+      "popularityPercentile": 34.63,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": null,
+        "baseScore": 38.3117,
+        "alternativeSearchRatio": 0.44,
+        "terminologyBonus": 6.6,
+        "adjustedScore": 44.9117,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 56.0,
+          "nba": 40.0,
+          "euroleague": 1.0,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "Hungary",
+      "rank": 153,
+      "popularity": 34,
+      "popularityPercentile": 34.2,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": 8.0,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": 33.62,
+        "baseScore": 36.9044,
+        "alternativeSearchRatio": 0.464,
+        "terminologyBonus": 6.96,
+        "adjustedScore": 43.8644,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 53.0,
+          "nba": 42.0,
+          "euroleague": 1.0,
+          "lakers": 4.0
+        },
+        "longTerm": {
+          "Basketball": 55.0,
+          "nba": 41.0,
+          "euroleague": 1.0,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "Switzerland",
+      "rank": 154,
+      "popularity": 34,
+      "popularityPercentile": 33.77,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": 7.0,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": 26.72,
+        "baseScore": 34.8354,
+        "alternativeSearchRatio": 0.563,
+        "terminologyBonus": 8.445,
+        "adjustedScore": 43.2804,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 44.0,
+          "nba": 46.0,
+          "euroleague": 2.0,
+          "lakers": 8.0
+        },
+        "longTerm": {
+          "Basketball": 43.0,
+          "nba": 46.0,
+          "euroleague": 2.0,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Qatar",
+      "rank": 155,
+      "popularity": 33,
+      "popularityPercentile": 33.33,
+      "scoring": {
+        "recentRawScore": 9.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 31.17,
+        "longTermBasePercentile": null,
+        "baseScore": 31.1688,
+        "alternativeSearchRatio": 0.791,
+        "terminologyBonus": 11.8657,
+        "adjustedScore": 43.0345,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 21.0,
+          "nba": 70.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Vanuatu",
+      "rank": 156,
+      "popularity": 33,
+      "popularityPercentile": 32.9,
+      "scoring": {
+        "recentRawScore": 9.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 31.17,
+        "longTermBasePercentile": null,
+        "baseScore": 31.1688,
+        "alternativeSearchRatio": 0.74,
+        "terminologyBonus": 11.1,
+        "adjustedScore": 42.2688,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 26.0,
+          "nba": 63.0,
+          "euroleague": null,
+          "lakers": 11.0
+        }
+      }
+    },
+    {
+      "country": "El Salvador",
+      "rank": 157,
+      "popularity": 32,
+      "popularityPercentile": 32.47,
+      "scoring": {
+        "recentRawScore": 9.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 31.17,
+        "longTermBasePercentile": null,
+        "baseScore": 31.1688,
+        "alternativeSearchRatio": 0.7214,
+        "terminologyBonus": 10.8209,
+        "adjustedScore": 41.9897,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 28.0,
+          "nba": 55.0,
+          "euroleague": 0.5,
+          "lakers": 17.0
+        }
+      }
+    },
+    {
+      "country": "Zambia",
+      "rank": 158,
+      "popularity": 32,
+      "popularityPercentile": 32.03,
+      "scoring": {
+        "recentRawScore": 9.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 31.17,
+        "longTermBasePercentile": null,
+        "baseScore": 31.1688,
+        "alternativeSearchRatio": 0.6617,
+        "terminologyBonus": 9.9254,
+        "adjustedScore": 41.0942,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 34.0,
+          "nba": 56.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "United Arab Emirates",
+      "rank": 159,
+      "popularity": 32,
+      "popularityPercentile": 31.6,
+      "scoring": {
+        "recentRawScore": 9.0,
+        "longTermRawScore": 7.0,
+        "recentBasePercentile": 31.17,
+        "longTermBasePercentile": 26.72,
+        "baseScore": 29.8354,
+        "alternativeSearchRatio": 0.7234,
+        "terminologyBonus": 10.8507,
+        "adjustedScore": 40.6862,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 29.0,
+          "nba": 62.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        },
+        "longTerm": {
+          "Basketball": 25.0,
+          "nba": 67.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        }
+      }
+    },
+    {
+      "country": "Suriname",
+      "rank": 160,
+      "popularity": 31,
+      "popularityPercentile": 31.17,
+      "scoring": {
+        "recentRawScore": 8.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 26.84,
+        "longTermBasePercentile": null,
+        "baseScore": 26.8398,
+        "alternativeSearchRatio": 0.8706,
+        "terminologyBonus": 13.0597,
+        "adjustedScore": 39.8995,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 13.0,
+          "nba": 75.0,
+          "euroleague": 0.5,
+          "lakers": 12.0
+        }
+      }
+    },
+    {
+      "country": "Samoa",
+      "rank": 161,
+      "popularity": 31,
+      "popularityPercentile": 30.74,
+      "scoring": {
+        "recentRawScore": 8.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 26.84,
+        "longTermBasePercentile": null,
+        "baseScore": 26.8398,
+        "alternativeSearchRatio": 0.85,
+        "terminologyBonus": 12.75,
+        "adjustedScore": 39.5898,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 15.0,
+          "nba": 74.0,
+          "euroleague": null,
+          "lakers": 11.0
+        }
+      }
+    },
+    {
+      "country": "Sweden",
+      "rank": 162,
+      "popularity": 30,
+      "popularityPercentile": 30.3,
+      "scoring": {
+        "recentRawScore": 10.0,
+        "longTermRawScore": 6.0,
+        "recentBasePercentile": 38.31,
+        "longTermBasePercentile": 17.24,
+        "baseScore": 31.9906,
+        "alternativeSearchRatio": 0.482,
+        "terminologyBonus": 7.23,
+        "adjustedScore": 39.2206,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 53.0,
+          "nba": 36.0,
+          "euroleague": 1.0,
+          "lakers": 10.0
+        },
+        "longTerm": {
+          "Basketball": 49.0,
+          "nba": 37.0,
+          "euroleague": 1.0,
+          "lakers": 13.0
+        }
+      }
+    },
+    {
+      "country": "Brunei",
+      "rank": 163,
+      "popularity": 30,
+      "popularityPercentile": 29.87,
+      "scoring": {
+        "recentRawScore": 8.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 26.84,
+        "longTermBasePercentile": null,
+        "baseScore": 26.8398,
+        "alternativeSearchRatio": 0.8209,
+        "terminologyBonus": 12.3134,
+        "adjustedScore": 39.1533,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 18.0,
+          "nba": 73.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Morocco",
+      "rank": 164,
+      "popularity": 29,
+      "popularityPercentile": 29.44,
+      "scoring": {
+        "recentRawScore": 9.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 31.17,
+        "longTermBasePercentile": null,
+        "baseScore": 31.1688,
+        "alternativeSearchRatio": 0.4736,
+        "terminologyBonus": 7.1045,
+        "adjustedScore": 38.2733,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 52.0,
+          "nba": 41.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        },
+        "longTerm": {
+          "Basketball": 55.0,
+          "nba": 39.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Brazil",
+      "rank": 165,
+      "popularity": 29,
+      "popularityPercentile": 29.0,
+      "scoring": {
+        "recentRawScore": 8.0,
+        "longTermRawScore": 7.0,
+        "recentBasePercentile": 26.84,
+        "longTermBasePercentile": 26.72,
+        "baseScore": 26.8051,
+        "alternativeSearchRatio": 0.7403,
+        "terminologyBonus": 11.1045,
+        "adjustedScore": 37.9096,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 24.0,
+          "nba": 65.0,
+          "euroleague": 0.5,
+          "lakers": 11.0
+        },
+        "longTerm": {
+          "Basketball": 31.0,
+          "nba": 59.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Tunisia",
+      "rank": 166,
+      "popularity": 29,
+      "popularityPercentile": 28.57,
+      "scoring": {
+        "recentRawScore": 9.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 31.17,
+        "longTermBasePercentile": null,
+        "baseScore": 31.1688,
+        "alternativeSearchRatio": 0.4328,
+        "terminologyBonus": 6.4925,
+        "adjustedScore": 37.6614,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 57.0,
+          "nba": 39.0,
+          "euroleague": 0.5,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Niger",
+      "rank": 167,
+      "popularity": 28,
+      "popularityPercentile": 28.14,
+      "scoring": {
+        "recentRawScore": 8.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 26.84,
+        "longTermBasePercentile": null,
+        "baseScore": 26.8398,
+        "alternativeSearchRatio": 0.7214,
+        "terminologyBonus": 10.8209,
+        "adjustedScore": 37.6607,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 28.0,
+          "nba": 57.0,
+          "euroleague": 0.5,
+          "lakers": 15.0
+        }
+      }
+    },
+    {
+      "country": "Paraguay",
+      "rank": 168,
+      "popularity": 28,
+      "popularityPercentile": 27.71,
+      "scoring": {
+        "recentRawScore": 8.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 26.84,
+        "longTermBasePercentile": null,
+        "baseScore": 26.8398,
+        "alternativeSearchRatio": 0.6617,
+        "terminologyBonus": 9.9254,
+        "adjustedScore": 36.7652,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 34.0,
+          "nba": 56.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Tanzania",
+      "rank": 169,
+      "popularity": 27,
+      "popularityPercentile": 27.27,
+      "scoring": {
+        "recentRawScore": 8.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 26.84,
+        "longTermBasePercentile": null,
+        "baseScore": 26.8398,
+        "alternativeSearchRatio": 0.6219,
+        "terminologyBonus": 9.3284,
+        "adjustedScore": 36.1682,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 38.0,
+          "nba": 53.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Slovakia",
+      "rank": 170,
+      "popularity": 27,
+      "popularityPercentile": 26.84,
+      "scoring": {
+        "recentRawScore": 9.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 31.17,
+        "longTermBasePercentile": null,
+        "baseScore": 31.1688,
+        "alternativeSearchRatio": 0.3234,
+        "terminologyBonus": 4.8507,
+        "adjustedScore": 36.0196,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 68.0,
+          "nba": 29.0,
+          "euroleague": 0.5,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "Ethiopia",
+      "rank": 171,
+      "popularity": 26,
+      "popularityPercentile": 26.41,
+      "scoring": {
+        "recentRawScore": 8.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 26.84,
+        "longTermBasePercentile": null,
+        "baseScore": 26.8398,
+        "alternativeSearchRatio": 0.5622,
+        "terminologyBonus": 8.4328,
+        "adjustedScore": 35.2727,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 44.0,
+          "nba": 48.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        }
+      }
+    },
+    {
+      "country": "Czechia",
+      "rank": 172,
+      "popularity": 26,
+      "popularityPercentile": 25.97,
+      "scoring": {
+        "recentRawScore": 9.0,
+        "longTermRawScore": 7.0,
+        "recentBasePercentile": 31.17,
+        "longTermBasePercentile": 26.72,
+        "baseScore": 29.8354,
+        "alternativeSearchRatio": 0.36,
+        "terminologyBonus": 5.4,
+        "adjustedScore": 35.2354,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 64.0,
+          "nba": 31.0,
+          "euroleague": 1.0,
+          "lakers": 4.0
+        },
+        "longTerm": {
+          "Basketball": 64.0,
+          "nba": 32.0,
+          "euroleague": 1.0,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "Poland",
+      "rank": 173,
+      "popularity": 26,
+      "popularityPercentile": 25.54,
+      "scoring": {
+        "recentRawScore": 8.0,
+        "longTermRawScore": 7.0,
+        "recentBasePercentile": 26.84,
+        "longTermBasePercentile": 26.72,
+        "baseScore": 26.8051,
+        "alternativeSearchRatio": 0.5363,
+        "terminologyBonus": 8.0448,
+        "adjustedScore": 34.8499,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 46.0,
+          "nba": 49.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        },
+        "longTerm": {
+          "Basketball": 48.0,
+          "nba": 49.0,
+          "euroleague": 0.5,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "Romania",
+      "rank": 174,
+      "popularity": 25,
+      "popularityPercentile": 25.11,
+      "scoring": {
+        "recentRawScore": 8.0,
+        "longTermRawScore": 7.0,
+        "recentBasePercentile": 26.84,
+        "longTermBasePercentile": 26.72,
+        "baseScore": 26.8051,
+        "alternativeSearchRatio": 0.388,
+        "terminologyBonus": 5.82,
+        "adjustedScore": 32.6251,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 60.0,
+          "nba": 33.0,
+          "euroleague": 1.0,
+          "lakers": 6.0
+        },
+        "longTerm": {
+          "Basketball": 64.0,
+          "nba": 31.0,
+          "euroleague": 1.0,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Guinea-Bissau",
+      "rank": 175,
+      "popularity": 25,
+      "popularityPercentile": 24.68,
+      "scoring": {
+        "recentRawScore": 7.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 21.86,
+        "longTermBasePercentile": null,
+        "baseScore": 21.8615,
+        "alternativeSearchRatio": 0.69,
+        "terminologyBonus": 10.35,
+        "adjustedScore": 32.2115,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 31.0,
+          "nba": 59.0,
+          "euroleague": null,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Denmark",
+      "rank": 176,
+      "popularity": 24,
+      "popularityPercentile": 24.24,
+      "scoring": {
+        "recentRawScore": 8.0,
+        "longTermRawScore": 6.0,
+        "recentBasePercentile": 26.84,
+        "longTermBasePercentile": 17.24,
+        "baseScore": 23.9603,
+        "alternativeSearchRatio": 0.536,
+        "terminologyBonus": 8.04,
+        "adjustedScore": 32.0003,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 47.0,
+          "nba": 48.0,
+          "euroleague": 1.0,
+          "lakers": 4.0
+        },
+        "longTerm": {
+          "Basketball": 45.0,
+          "nba": 50.0,
+          "euroleague": 1.0,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Guernsey",
+      "rank": 177,
+      "popularity": 24,
+      "popularityPercentile": 23.81,
+      "scoring": {
+        "recentRawScore": 7.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 21.86,
+        "longTermBasePercentile": null,
+        "baseScore": 21.8615,
+        "alternativeSearchRatio": 0.6716,
+        "terminologyBonus": 10.0746,
+        "adjustedScore": 31.9361,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 33.0,
+          "nba": 62.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Cambodia",
+      "rank": 178,
+      "popularity": 23,
+      "popularityPercentile": 23.38,
+      "scoring": {
+        "recentRawScore": 7.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 21.86,
+        "longTermBasePercentile": null,
+        "baseScore": 21.8615,
+        "alternativeSearchRatio": 0.6219,
+        "terminologyBonus": 9.3284,
+        "adjustedScore": 31.1898,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 38.0,
+          "nba": 57.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Timor-Leste",
+      "rank": 179,
+      "popularity": 23,
+      "popularityPercentile": 22.94,
+      "scoring": {
+        "recentRawScore": 7.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 21.86,
+        "longTermBasePercentile": null,
+        "baseScore": 21.8615,
+        "alternativeSearchRatio": 0.58,
+        "terminologyBonus": 8.7,
+        "adjustedScore": 30.5615,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 42.0,
+          "nba": 49.0,
+          "euroleague": null,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Norway",
+      "rank": 180,
+      "popularity": 23,
+      "popularityPercentile": 22.51,
+      "scoring": {
+        "recentRawScore": 7.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 21.86,
+        "longTermBasePercentile": null,
+        "baseScore": 21.8615,
+        "alternativeSearchRatio": 0.54,
+        "terminologyBonus": 8.1,
+        "adjustedScore": 29.9615,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 46.0,
+          "nba": 47.0,
+          "euroleague": 2.0,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "United Kingdom",
+      "rank": 181,
+      "popularity": 22,
+      "popularityPercentile": 22.08,
+      "scoring": {
+        "recentRawScore": 7.0,
+        "longTermRawScore": 6.0,
+        "recentBasePercentile": 21.86,
+        "longTermBasePercentile": 17.24,
+        "baseScore": 20.4754,
+        "alternativeSearchRatio": 0.6316,
+        "terminologyBonus": 9.4737,
+        "adjustedScore": 29.9492,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 36.0,
+          "nba": 56.0,
+          "euroleague": 1.0,
+          "lakers": 7.0
+        },
+        "longTerm": {
+          "Basketball": 39.0,
+          "nba": 56.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Malaysia",
+      "rank": 182,
+      "popularity": 22,
+      "popularityPercentile": 21.65,
+      "scoring": {
+        "recentRawScore": 7.0,
+        "longTermRawScore": 5.0,
+        "recentBasePercentile": 21.86,
+        "longTermBasePercentile": 8.62,
+        "baseScore": 17.8892,
+        "alternativeSearchRatio": 0.7811,
+        "terminologyBonus": 11.7164,
+        "adjustedScore": 29.6057,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 22.0,
+          "nba": 71.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        },
+        "longTerm": {
+          "Basketball": 22.0,
+          "nba": 71.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Western Sahara",
+      "rank": 183,
+      "popularity": 21,
+      "popularityPercentile": 21.21,
+      "scoring": {
+        "recentRawScore": 7.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 21.86,
+        "longTermBasePercentile": null,
+        "baseScore": 21.8615,
+        "alternativeSearchRatio": 0.5124,
+        "terminologyBonus": 7.6866,
+        "adjustedScore": 29.548,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 49.0,
+          "nba": 44.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Austria",
+      "rank": 184,
+      "popularity": 21,
+      "popularityPercentile": 20.78,
+      "scoring": {
+        "recentRawScore": 7.0,
+        "longTermRawScore": 6.0,
+        "recentBasePercentile": 21.86,
+        "longTermBasePercentile": 17.24,
+        "baseScore": 20.4754,
+        "alternativeSearchRatio": 0.554,
+        "terminologyBonus": 8.31,
+        "adjustedScore": 28.7854,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 44.0,
+          "nba": 48.0,
+          "euroleague": 3.0,
+          "lakers": 5.0
+        },
+        "longTerm": {
+          "Basketball": 46.0,
+          "nba": 47.0,
+          "euroleague": 3.0,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Tonga",
+      "rank": 185,
+      "popularity": 20,
+      "popularityPercentile": 20.35,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.89,
+        "terminologyBonus": 13.35,
+        "adjustedScore": 27.8522,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 11.0,
+          "nba": 75.0,
+          "euroleague": null,
+          "lakers": 14.0
+        }
+      }
+    },
+    {
+      "country": "Azerbaijan",
+      "rank": 186,
+      "popularity": 20,
+      "popularityPercentile": 19.91,
+      "scoring": {
+        "recentRawScore": 7.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 21.86,
+        "longTermBasePercentile": null,
+        "baseScore": 21.8615,
+        "alternativeSearchRatio": 0.34,
+        "terminologyBonus": 5.1,
+        "adjustedScore": 26.9615,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 66.0,
+          "nba": 28.0,
+          "euroleague": 4.0,
+          "lakers": 2.0
+        }
+      }
+    },
+    {
+      "country": "Fiji",
+      "rank": 187,
+      "popularity": 19,
+      "popularityPercentile": 19.48,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.801,
+        "terminologyBonus": 12.0149,
+        "adjustedScore": 26.5171,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 20.0,
+          "nba": 68.0,
+          "euroleague": 0.5,
+          "lakers": 12.0
+        }
+      }
+    },
+    {
+      "country": "Mauritania",
+      "rank": 188,
+      "popularity": 19,
+      "popularityPercentile": 19.05,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.7512,
+        "terminologyBonus": 11.2687,
+        "adjustedScore": 25.7708,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 25.0,
+          "nba": 67.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        }
+      }
+    },
+    {
+      "country": "Kazakhstan",
+      "rank": 189,
+      "popularity": 19,
+      "popularityPercentile": 18.61,
+      "scoring": {
+        "recentRawScore": 7.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 21.86,
+        "longTermBasePercentile": null,
+        "baseScore": 21.8615,
+        "alternativeSearchRatio": 0.2537,
+        "terminologyBonus": 3.806,
+        "adjustedScore": 25.6674,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 75.0,
+          "nba": 23.0,
+          "euroleague": 0.5,
+          "lakers": 2.0
+        }
+      }
+    },
+    {
+      "country": "Namibia",
+      "rank": 190,
+      "popularity": 18,
+      "popularityPercentile": 18.18,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.7313,
+        "terminologyBonus": 10.9701,
+        "adjustedScore": 25.4723,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 27.0,
+          "nba": 62.0,
+          "euroleague": 0.5,
+          "lakers": 11.0
+        }
+      }
+    },
+    {
+      "country": "Kuwait",
+      "rank": 191,
+      "popularity": 18,
+      "popularityPercentile": 17.75,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.7214,
+        "terminologyBonus": 10.8209,
+        "adjustedScore": 25.3231,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 28.0,
+          "nba": 64.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        }
+      }
+    },
+    {
+      "country": "Nepal",
+      "rank": 192,
+      "popularity": 17,
+      "popularityPercentile": 17.32,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.7015,
+        "terminologyBonus": 10.5224,
+        "adjustedScore": 25.0246,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 30.0,
+          "nba": 64.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Isle of Man",
+      "rank": 193,
+      "popularity": 17,
+      "popularityPercentile": 16.88,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.6617,
+        "terminologyBonus": 9.9254,
+        "adjustedScore": 24.4275,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 34.0,
+          "nba": 61.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Jersey",
+      "rank": 194,
+      "popularity": 16,
+      "popularityPercentile": 16.45,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.6318,
+        "terminologyBonus": 9.4776,
+        "adjustedScore": 23.9798,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 37.0,
+          "nba": 57.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Svalbard & Jan Mayen",
+      "rank": 195,
+      "popularity": 16,
+      "popularityPercentile": 16.02,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.62,
+        "terminologyBonus": 9.3,
+        "adjustedScore": 23.8022,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 38.0,
+          "nba": 62.0,
+          "euroleague": null,
+          "lakers": null
+        }
+      }
+    },
+    {
+      "country": "Russia",
+      "rank": 196,
+      "popularity": 16,
+      "popularityPercentile": 15.58,
+      "scoring": {
+        "recentRawScore": 7.0,
+        "longTermRawScore": 6.0,
+        "recentBasePercentile": 21.86,
+        "longTermBasePercentile": 17.24,
+        "baseScore": 20.4754,
+        "alternativeSearchRatio": 0.2169,
+        "terminologyBonus": 3.2537,
+        "adjustedScore": 23.7292,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 79.0,
+          "nba": 20.0,
+          "euroleague": 0.5,
+          "lakers": 1.0
+        },
+        "longTerm": {
+          "Basketball": 78.0,
+          "nba": 20.0,
+          "euroleague": 0.5,
+          "lakers": 2.0
+        }
+      }
+    },
+    {
+      "country": "Maldives",
+      "rank": 197,
+      "popularity": 15,
+      "popularityPercentile": 15.15,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.6119,
+        "terminologyBonus": 9.1791,
+        "adjustedScore": 23.6813,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 39.0,
+          "nba": 55.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Faroe Islands",
+      "rank": 198,
+      "popularity": 15,
+      "popularityPercentile": 14.72,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.58,
+        "terminologyBonus": 8.7,
+        "adjustedScore": 23.2022,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 42.0,
+          "nba": 52.0,
+          "euroleague": 2.0,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Chad",
+      "rank": 199,
+      "popularity": 14,
+      "popularityPercentile": 14.29,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.5721,
+        "terminologyBonus": 8.5821,
+        "adjustedScore": 23.0842,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 43.0,
+          "nba": 49.0,
+          "euroleague": 0.5,
+          "lakers": 8.0
+        }
+      }
+    },
+    {
+      "country": "Jordan",
+      "rank": 200,
+      "popularity": 14,
+      "popularityPercentile": 13.85,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.5025,
+        "terminologyBonus": 7.5373,
+        "adjustedScore": 22.0395,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 50.0,
+          "nba": 44.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Åland Islands",
+      "rank": 201,
+      "popularity": 13,
+      "popularityPercentile": 13.42,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.46,
+        "terminologyBonus": 6.9,
+        "adjustedScore": 21.4022,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 54.0,
+          "nba": 41.0,
+          "euroleague": 1.0,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Netherlands",
+      "rank": 202,
+      "popularity": 13,
+      "popularityPercentile": 12.99,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": 5.0,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": 8.62,
+        "baseScore": 12.7377,
+        "alternativeSearchRatio": 0.511,
+        "terminologyBonus": 7.665,
+        "adjustedScore": 20.4027,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 48.0,
+          "nba": 45.0,
+          "euroleague": 2.0,
+          "lakers": 5.0
+        },
+        "longTerm": {
+          "Basketball": 51.0,
+          "nba": 44.0,
+          "euroleague": 1.0,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Armenia",
+      "rank": 203,
+      "popularity": 13,
+      "popularityPercentile": 12.55,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.39,
+        "terminologyBonus": 5.85,
+        "adjustedScore": 20.3522,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 61.0,
+          "nba": 34.0,
+          "euroleague": 1.0,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Turkmenistan",
+      "rank": 204,
+      "popularity": 12,
+      "popularityPercentile": 12.12,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.37,
+        "terminologyBonus": 5.55,
+        "adjustedScore": 20.0522,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 63.0,
+          "nba": 31.0,
+          "euroleague": 4.0,
+          "lakers": 2.0
+        }
+      }
+    },
+    {
+      "country": "Vietnam",
+      "rank": 205,
+      "popularity": 12,
+      "popularityPercentile": 11.69,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": 5.0,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": 8.62,
+        "baseScore": 12.7377,
+        "alternativeSearchRatio": 0.4826,
+        "terminologyBonus": 7.2388,
+        "adjustedScore": 19.9765,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 49.0,
+          "nba": 48.0,
+          "euroleague": 0.5,
+          "lakers": 3.0
+        },
+        "longTerm": {
+          "Basketball": 59.0,
+          "nba": 39.0,
+          "euroleague": 0.5,
+          "lakers": 2.0
+        }
+      }
+    },
+    {
+      "country": "Moldova",
+      "rank": 206,
+      "popularity": 11,
+      "popularityPercentile": 11.26,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.29,
+        "terminologyBonus": 4.35,
+        "adjustedScore": 18.8522,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 71.0,
+          "nba": 26.0,
+          "euroleague": 1.0,
+          "lakers": 2.0
+        }
+      }
+    },
+    {
+      "country": "Belarus",
+      "rank": 207,
+      "popularity": 11,
+      "popularityPercentile": 10.82,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": null,
+        "baseScore": 14.5022,
+        "alternativeSearchRatio": 0.2338,
+        "terminologyBonus": 3.5075,
+        "adjustedScore": 18.0096,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 77.0,
+          "nba": 22.0,
+          "euroleague": 0.5,
+          "lakers": 1.0
+        }
+      }
+    },
+    {
+      "country": "Iran",
+      "rank": 208,
+      "popularity": 10,
+      "popularityPercentile": 10.39,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": 5.0,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": 8.62,
+        "baseScore": 12.7377,
+        "alternativeSearchRatio": 0.3005,
+        "terminologyBonus": 4.5075,
+        "adjustedScore": 17.2452,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 70.0,
+          "nba": 27.0,
+          "euroleague": 0.5,
+          "lakers": 3.0
+        },
+        "longTerm": {
+          "Basketball": 71.0,
+          "nba": 27.0,
+          "euroleague": 0.5,
+          "lakers": 2.0
+        }
+      }
+    },
+    {
+      "country": "South Africa",
+      "rank": 209,
+      "popularity": 10,
+      "popularityPercentile": 9.96,
+      "scoring": {
+        "recentRawScore": 5.0,
+        "longTermRawScore": 4.0,
+        "recentBasePercentile": 7.36,
+        "longTermBasePercentile": 3.45,
+        "baseScore": 6.186,
+        "alternativeSearchRatio": 0.7323,
+        "terminologyBonus": 10.9851,
+        "adjustedScore": 17.1711,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 26.0,
+          "nba": 61.0,
+          "euroleague": 0.5,
+          "lakers": 13.0
+        },
+        "longTerm": {
+          "Basketball": 29.0,
+          "nba": 59.0,
+          "euroleague": 0.5,
+          "lakers": 12.0
+        }
+      }
+    },
+    {
+      "country": "Oman",
+      "rank": 210,
+      "popularity": 10,
+      "popularityPercentile": 9.52,
+      "scoring": {
+        "recentRawScore": 5.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 7.36,
+        "longTermBasePercentile": null,
+        "baseScore": 7.3593,
+        "alternativeSearchRatio": 0.6418,
+        "terminologyBonus": 9.6269,
+        "adjustedScore": 16.9862,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 36.0,
+          "nba": 57.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Mauritius",
+      "rank": 211,
+      "popularity": 9,
+      "popularityPercentile": 9.09,
+      "scoring": {
+        "recentRawScore": 5.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 7.36,
+        "longTermBasePercentile": null,
+        "baseScore": 7.3593,
+        "alternativeSearchRatio": 0.6318,
+        "terminologyBonus": 9.4776,
+        "adjustedScore": 16.8369,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 37.0,
+          "nba": 53.0,
+          "euroleague": 0.5,
+          "lakers": 10.0
+        }
+      }
+    },
+    {
+      "country": "Myanmar (Burma)",
+      "rank": 212,
+      "popularity": 9,
+      "popularityPercentile": 8.66,
+      "scoring": {
+        "recentRawScore": 5.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 7.36,
+        "longTermBasePercentile": null,
+        "baseScore": 7.3593,
+        "alternativeSearchRatio": 0.6219,
+        "terminologyBonus": 9.3284,
+        "adjustedScore": 16.6877,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 38.0,
+          "nba": 57.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Greenland",
+      "rank": 213,
+      "popularity": 8,
+      "popularityPercentile": 8.23,
+      "scoring": {
+        "recentRawScore": 5.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 7.36,
+        "longTermBasePercentile": null,
+        "baseScore": 7.3593,
+        "alternativeSearchRatio": 0.62,
+        "terminologyBonus": 9.3,
+        "adjustedScore": 16.6593,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 38.0,
+          "nba": 56.0,
+          "euroleague": 1.0,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Ukraine",
+      "rank": 214,
+      "popularity": 8,
+      "popularityPercentile": 7.79,
+      "scoring": {
+        "recentRawScore": 6.0,
+        "longTermRawScore": 5.0,
+        "recentBasePercentile": 14.5,
+        "longTermBasePercentile": 8.62,
+        "baseScore": 12.7377,
+        "alternativeSearchRatio": 0.2129,
+        "terminologyBonus": 3.194,
+        "adjustedScore": 15.9318,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 80.0,
+          "nba": 19.0,
+          "euroleague": 0.5,
+          "lakers": 1.0
+        },
+        "longTerm": {
+          "Basketball": 77.0,
+          "nba": 22.0,
+          "euroleague": 0.5,
+          "lakers": 1.0
+        }
+      }
+    },
+    {
+      "country": "Liechtenstein",
+      "rank": 215,
+      "popularity": 7,
+      "popularityPercentile": 7.36,
+      "scoring": {
+        "recentRawScore": 5.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 7.36,
+        "longTermBasePercentile": null,
+        "baseScore": 7.3593,
+        "alternativeSearchRatio": 0.55,
+        "terminologyBonus": 8.25,
+        "adjustedScore": 15.6093,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 45.0,
+          "nba": 43.0,
+          "euroleague": 3.0,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Somalia",
+      "rank": 216,
+      "popularity": 7,
+      "popularityPercentile": 6.93,
+      "scoring": {
+        "recentRawScore": 4.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 3.68,
+        "longTermBasePercentile": null,
+        "baseScore": 3.6797,
+        "alternativeSearchRatio": 0.7711,
+        "terminologyBonus": 11.5672,
+        "adjustedScore": 15.2468,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 23.0,
+          "nba": 64.0,
+          "euroleague": 0.5,
+          "lakers": 13.0
+        }
+      }
+    },
+    {
+      "country": "Saudi Arabia",
+      "rank": 217,
+      "popularity": 6,
+      "popularityPercentile": 6.49,
+      "scoring": {
+        "recentRawScore": 4.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 3.68,
+        "longTermBasePercentile": null,
+        "baseScore": 3.6797,
+        "alternativeSearchRatio": 0.7204,
+        "terminologyBonus": 10.806,
+        "adjustedScore": 14.4856,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 29.0,
+          "nba": 62.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        },
+        "longTerm": {
+          "Basketball": 26.0,
+          "nba": 65.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Algeria",
+      "rank": 218,
+      "popularity": 6,
+      "popularityPercentile": 5.84,
+      "scoring": {
+        "recentRawScore": 5.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 7.36,
+        "longTermBasePercentile": null,
+        "baseScore": 7.3593,
+        "alternativeSearchRatio": 0.4627,
+        "terminologyBonus": 6.9403,
+        "adjustedScore": 14.2996,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 54.0,
+          "nba": 40.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Libya",
+      "rank": 218,
+      "popularity": 6,
+      "popularityPercentile": 5.84,
+      "scoring": {
+        "recentRawScore": 5.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 7.36,
+        "longTermBasePercentile": null,
+        "baseScore": 7.3593,
+        "alternativeSearchRatio": 0.4627,
+        "terminologyBonus": 6.9403,
+        "adjustedScore": 14.2996,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 54.0,
+          "nba": 40.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Sri Lanka",
+      "rank": 220,
+      "popularity": 5,
+      "popularityPercentile": 5.19,
+      "scoring": {
+        "recentRawScore": 4.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 3.68,
+        "longTermBasePercentile": null,
+        "baseScore": 3.6797,
+        "alternativeSearchRatio": 0.602,
+        "terminologyBonus": 9.0298,
+        "adjustedScore": 12.7095,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 40.0,
+          "nba": 53.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Egypt",
+      "rank": 221,
+      "popularity": 5,
+      "popularityPercentile": 4.76,
+      "scoring": {
+        "recentRawScore": 5.0,
+        "longTermRawScore": 3.0,
+        "recentBasePercentile": 7.36,
+        "longTermBasePercentile": 1.72,
+        "baseScore": 5.6688,
+        "alternativeSearchRatio": 0.4199,
+        "terminologyBonus": 6.2985,
+        "adjustedScore": 11.9673,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 58.0,
+          "nba": 37.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        },
+        "longTerm": {
+          "Basketball": 59.0,
+          "nba": 36.0,
+          "euroleague": 0.5,
+          "lakers": 5.0
+        }
+      }
+    },
+    {
+      "country": "Kyrgyzstan",
+      "rank": 222,
+      "popularity": 4,
+      "popularityPercentile": 4.33,
+      "scoring": {
+        "recentRawScore": 5.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 7.36,
+        "longTermBasePercentile": null,
+        "baseScore": 7.3593,
+        "alternativeSearchRatio": 0.2637,
+        "terminologyBonus": 3.9552,
+        "adjustedScore": 11.3145,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 74.0,
+          "nba": 23.0,
+          "euroleague": 0.5,
+          "lakers": 3.0
+        }
+      }
+    },
+    {
+      "country": "Uzbekistan",
+      "rank": 223,
+      "popularity": 4,
+      "popularityPercentile": 3.9,
+      "scoring": {
+        "recentRawScore": 5.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 7.36,
+        "longTermBasePercentile": null,
+        "baseScore": 7.3593,
+        "alternativeSearchRatio": 0.2438,
+        "terminologyBonus": 3.6567,
+        "adjustedScore": 11.016,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 76.0,
+          "nba": 22.0,
+          "euroleague": 0.5,
+          "lakers": 2.0
+        }
+      }
+    },
+    {
+      "country": "Iraq",
+      "rank": 224,
+      "popularity": 3,
+      "popularityPercentile": 3.46,
+      "scoring": {
+        "recentRawScore": 4.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 3.68,
+        "longTermBasePercentile": null,
+        "baseScore": 3.6797,
+        "alternativeSearchRatio": 0.44,
+        "terminologyBonus": 6.6,
+        "adjustedScore": 10.2797,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 56.0,
+          "nba": 37.0,
+          "euroleague": 1.0,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "India",
+      "rank": 225,
+      "popularity": 3,
+      "popularityPercentile": 3.03,
+      "scoring": {
+        "recentRawScore": 3.0,
+        "longTermRawScore": 2.0,
+        "recentBasePercentile": 2.16,
+        "longTermBasePercentile": 0.0,
+        "baseScore": 1.5152,
+        "alternativeSearchRatio": 0.5721,
+        "terminologyBonus": 8.5821,
+        "adjustedScore": 10.0972,
+        "method": "70% recent + 30% long-term"
+      },
+      "comparisonTerms": {
+        "recent": {
+          "Basketball": 43.0,
+          "nba": 50.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        },
+        "longTerm": {
+          "Basketball": 43.0,
+          "nba": 50.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Afghanistan",
+      "rank": 226,
+      "popularity": 3,
+      "popularityPercentile": 2.6,
+      "scoring": {
+        "recentRawScore": 2.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 0.87,
+        "longTermBasePercentile": null,
+        "baseScore": 0.8658,
+        "alternativeSearchRatio": 0.6119,
+        "terminologyBonus": 9.1791,
+        "adjustedScore": 10.0449,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 39.0,
+          "nba": 52.0,
+          "euroleague": 0.5,
+          "lakers": 9.0
+        }
+      }
+    },
+    {
+      "country": "Sudan",
+      "rank": 227,
+      "popularity": 2,
+      "popularityPercentile": 2.16,
+      "scoring": {
+        "recentRawScore": 2.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 0.87,
+        "longTermBasePercentile": null,
+        "baseScore": 0.8658,
+        "alternativeSearchRatio": 0.602,
+        "terminologyBonus": 9.0298,
+        "adjustedScore": 9.8957,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 40.0,
+          "nba": 53.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Syria",
+      "rank": 228,
+      "popularity": 2,
+      "popularityPercentile": 1.73,
+      "scoring": {
+        "recentRawScore": 4.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 3.68,
+        "longTermBasePercentile": null,
+        "baseScore": 3.6797,
+        "alternativeSearchRatio": 0.393,
+        "terminologyBonus": 5.8955,
+        "adjustedScore": 9.5752,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 61.0,
+          "nba": 35.0,
+          "euroleague": 0.5,
+          "lakers": 4.0
+        }
+      }
+    },
+    {
+      "country": "Bangladesh",
+      "rank": 229,
+      "popularity": 1,
+      "popularityPercentile": 1.3,
+      "scoring": {
+        "recentRawScore": 2.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 0.87,
+        "longTermBasePercentile": null,
+        "baseScore": 0.8658,
+        "alternativeSearchRatio": 0.5323,
+        "terminologyBonus": 7.9851,
+        "adjustedScore": 8.8509,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 47.0,
+          "nba": 46.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Pakistan",
+      "rank": 230,
+      "popularity": 1,
+      "popularityPercentile": 0.87,
+      "scoring": {
+        "recentRawScore": 2.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 0.87,
+        "longTermBasePercentile": null,
+        "baseScore": 0.8658,
+        "alternativeSearchRatio": 0.5025,
+        "terminologyBonus": 7.5373,
+        "adjustedScore": 8.4031,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 50.0,
+          "nba": 43.0,
+          "euroleague": 0.5,
+          "lakers": 7.0
+        }
+      }
+    },
+    {
+      "country": "Yemen",
+      "rank": 231,
+      "popularity": 0,
+      "popularityPercentile": 0.43,
+      "scoring": {
+        "recentRawScore": 2.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 0.87,
+        "longTermBasePercentile": null,
+        "baseScore": 0.8658,
+        "alternativeSearchRatio": 0.4627,
+        "terminologyBonus": 6.9403,
+        "adjustedScore": 7.8061,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 54.0,
+          "nba": 40.0,
+          "euroleague": 0.5,
+          "lakers": 6.0
+        }
+      }
+    },
+    {
+      "country": "Tajikistan",
+      "rank": 232,
+      "popularity": 0,
+      "popularityPercentile": 0.0,
+      "scoring": {
+        "recentRawScore": 4.0,
+        "longTermRawScore": null,
+        "recentBasePercentile": 3.68,
+        "longTermBasePercentile": null,
+        "baseScore": 3.6797,
+        "alternativeSearchRatio": 0.2139,
+        "terminologyBonus": 3.209,
+        "adjustedScore": 6.8886,
+        "method": "Recent standalone only"
+      },
+      "comparisonTerms": {
+        "recent": null,
+        "longTerm": {
+          "Basketball": 79.0,
+          "nba": 19.0,
+          "euroleague": 0.5,
+          "lakers": 2.0
+        }
+      }
+    }
+  ]
+}
