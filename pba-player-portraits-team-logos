@@ -1,0 +1,4623 @@
+{
+  "metadata": {
+    "sourcePage": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players",
+    "pageTitle": "Players | PBA - The Official Website",
+    "scrapedAt": "2017-07-04T19:49:42.344Z",
+    "playerCount": 186,
+    "portraitCount": 162,
+    "placeholderPortraitCount": 24,
+    "teamCount": 12
+  },
+  "teams": [
+    {
+      "abbreviation": "ALA",
+      "logo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      },
+      "playerCount": 15,
+      "playerSlugs": [
+        "abel-galliguez",
+        "calvin-abueva",
+        "chris-banchero",
+        "chris-exciminiano",
+        "corey-jefferson",
+        "jake-pascual",
+        "jaypee-mendoza",
+        "jvee-casio",
+        "kevin-racal",
+        "marion-magat",
+        "simon-enciso",
+        "sonny-thoss",
+        "tony-dela-cruz",
+        "vic-manuel",
+        "yutien-andrada"
+      ]
+    },
+    {
+      "abbreviation": "BWE",
+      "logo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      },
+      "playerCount": 15,
+      "playerSlugs": [
+        "art-dela-cruz",
+        "dennis-miranda",
+        "gregory-stephen-smith",
+        "james-ryan-sena",
+        "kyle-pascual",
+        "mac-belo",
+        "michael-digregorio",
+        "nard-john-pinto",
+        "nino-canaleta",
+        "raymond-aguilar",
+        "reil-cervantes",
+        "riego-gamalinda",
+        "ronjay-buenafe",
+        "shej-roi-sumang",
+        "tristan-perez"
+      ]
+    },
+    {
+      "abbreviation": "GIN",
+      "logo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      },
+      "playerCount": 16,
+      "playerSlugs": [
+        "aljon-mariano",
+        "anthony-helterbrand",
+        "chris-ellis",
+        "dave-marcelo",
+        "greg-slaughter",
+        "japeth-aguilar",
+        "jervy-cruz",
+        "joe-devance",
+        "justin-brownlee",
+        "kevin-ferrer",
+        "la-tenorio",
+        "mark-caguioa",
+        "paolo-taha",
+        "raymond-jamito",
+        "scottie-thompson",
+        "solomon-mercado"
+      ]
+    },
+    {
+      "abbreviation": "GLO",
+      "logo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      },
+      "playerCount": 15,
+      "playerSlugs": [
+        "aaron-aban",
+        "billy-mamaril",
+        "bradwyn-guinto",
+        "dylan-ababou",
+        "james-forrester",
+        "jonathan-grey",
+        "josh-urbiztondo",
+        "malcolm-white",
+        "mike-cortez",
+        "papot-paredes",
+        "rico-maierhofer",
+        "sean-anthony",
+        "stanley-pringle",
+        "terrence-romeo",
+        "von-pessumal"
+      ]
+    },
+    {
+      "abbreviation": "MAH",
+      "logo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      },
+      "playerCount": 15,
+      "playerSlugs": [
+        "gary-david",
+        "glenn-khobuntin",
+        "jackson-corpuz",
+        "jason-ballesteros",
+        "jason-deutchman",
+        "jeric-teng",
+        "josan-nimes",
+        "keith-andre-wright",
+        "la-revilla",
+        "mark-yee",
+        "nico-salva",
+        "pedrito-galanza",
+        "philip-paniamogan",
+        "prince-caperal",
+        "reden-celda"
+      ]
+    },
+    {
+      "abbreviation": "MER",
+      "logo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      },
+      "playerCount": 15,
+      "playerSlugs": [
+        "alex-stephenson",
+        "antonio-jose-caram",
+        "baser-amer",
+        "bryan-faundo",
+        "chris-newsome",
+        "cliff-hodge",
+        "ed-daquioag",
+        "garvo-lanete",
+        "jared-dillinger",
+        "jonathan-uyloan",
+        "joseph-henry-yeo",
+        "justin-chua",
+        "karl-kenneth-bono",
+        "kelly-nabong",
+        "reynel-hugnatan"
+      ]
+    },
+    {
+      "abbreviation": "NLX",
+      "logo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "filename": "NLX_web.png",
+        "waybackTimestamp": "20170704193949"
+      },
+      "playerCount": 14,
+      "playerSlugs": [
+        "alex-mallari",
+        "asi-taulava",
+        "carlo-lastimosa",
+        "emman-monfort",
+        "jansen-rios",
+        "jonas-villanueva",
+        "jr-quinahan",
+        "juan-miguel-tiongson",
+        "kevin-louie-alas",
+        "larry-fonacier",
+        "mac-baracael",
+        "rabeh-al-hussaini",
+        "raul-soyud",
+        "wayne-chism"
+      ]
+    },
+    {
+      "abbreviation": "PHX",
+      "logo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      },
+      "playerCount": 16,
+      "playerSlugs": [
+        "chico-lanete",
+        "cyrus-baguio",
+        "doug-kramer",
+        "gelo-alolino",
+        "jameel-mckay",
+        "jc-intal",
+        "john-marion-wilson",
+        "joseph-eriobu",
+        "karl-dehesa",
+        "mark-anthony-borboran",
+        "marvin-hayes",
+        "matthew-wright",
+        "michael-miranda",
+        "norbert-torres",
+        "rj-jazul",
+        "william-wilson"
+      ]
+    },
+    {
+      "abbreviation": "ROS",
+      "logo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      },
+      "playerCount": 16,
+      "playerSlugs": [
+        "anthony-washington",
+        "beau-belga",
+        "billy-ray-robles",
+        "chris-tiu",
+        "dexter-maiquez",
+        "don-trollano",
+        "gabe-norwood",
+        "james-yap",
+        "jeff-chan",
+        "jericho-cruz",
+        "jewel-ponferada",
+        "maverick-ahanmisi",
+        "mike-tolomia",
+        "raymond-almazan",
+        "ronnie-matias",
+        "shawn-taggart"
+      ]
+    },
+    {
+      "abbreviation": "SMB",
+      "logo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      },
+      "playerCount": 16,
+      "playerSlugs": [
+        "alex-cabagnot",
+        "arnold-van-opstal",
+        "arwind-santos",
+        "brian-heruela",
+        "charles-rhodes",
+        "chris-ross",
+        "david-semerad",
+        "gabby-espinas",
+        "jayr-reyes",
+        "june-mar-fajardo",
+        "keith-jasper-agovida",
+        "marcio-lassiter",
+        "matt-ganuelas-rosser",
+        "rashawn-mccarthy",
+        "ronald-tubid",
+        "yancy-de-ocampo"
+      ]
+    },
+    {
+      "abbreviation": "STR",
+      "logo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      },
+      "playerCount": 16,
+      "playerSlugs": [
+        "aldrech-ramos",
+        "allein-maliksi",
+        "alvin-abundo",
+        "andy-mark-barroca",
+        "chris-javier",
+        "gryann-mendoza",
+        "ian-sangalang",
+        "jio-jalalon",
+        "justin-melton",
+        "marc-jean-pingris",
+        "paul-lee",
+        "peter-june-simon",
+        "rafi-reavis",
+        "ricardo-ratliffe",
+        "rodney-brondial",
+        "rome-dela-rosa"
+      ]
+    },
+    {
+      "abbreviation": "TNT",
+      "logo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      },
+      "playerCount": 17,
+      "playerSlugs": [
+        "al-francis-tamsi",
+        "alex-nuyles",
+        "anthony-paul-semerad",
+        "danny-seigle",
+        "frank-golla",
+        "harvey-carey",
+        "jeth-troy-rosario",
+        "joshua-smith",
+        "kelly-williams",
+        "krismoir-rosales",
+        "levi-hernandez",
+        "moala-tautuaa",
+        "ranidel-de-ocampo",
+        "roger-pogoy",
+        "rr-garcia",
+        "ryan-reyes",
+        "william-jayson-castro"
+      ]
+    }
+  ],
+  "players": [
+    {
+      "index": 1,
+      "name": "Ababou, Dylan",
+      "slug": "dylan-ababou",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/dylan-ababou",
+      "jerseyNumber": 33,
+      "position": "F",
+      "playerInfo": "#33 | F",
+      "teamAbbreviation": "GLO",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Ababou.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Ababou.png",
+        "filename": "bwe-Ababou.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 2,
+      "name": "Aban, Aaron",
+      "slug": "aaron-aban",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/aaron-aban",
+      "jerseyNumber": 27,
+      "position": "G",
+      "playerInfo": "#27 | G",
+      "teamAbbreviation": "GLO",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/glo-Aban.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/glo-Aban.png",
+        "filename": "glo-Aban.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 3,
+      "name": "Abueva, Calvin",
+      "slug": "calvin-abueva",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/calvin-abueva",
+      "jerseyNumber": 8,
+      "position": "F",
+      "playerInfo": "#8 | F",
+      "teamAbbreviation": "ALA",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ala-Abueva.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ala-Abueva.png",
+        "filename": "ala-Abueva.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 4,
+      "name": "Abundo, Alvin",
+      "slug": "alvin-abundo",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/alvin-abundo",
+      "jerseyNumber": 29,
+      "position": "G",
+      "playerInfo": "#29 | G",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 5,
+      "name": "Agovida, Keith Jasper",
+      "slug": "keith-jasper-agovida",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/keith-jasper-agovida",
+      "jerseyNumber": 23,
+      "position": "G",
+      "playerInfo": "#23 | G",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-Agovida.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-Agovida.png",
+        "filename": "smb-Agovida.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 6,
+      "name": "Aguilar, Japeth",
+      "slug": "japeth-aguilar",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/japeth-aguilar",
+      "jerseyNumber": 25,
+      "position": "F",
+      "playerInfo": "#25 | F",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ginAguilar25.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ginAguilar25.png",
+        "filename": "ginAguilar25.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 7,
+      "name": "Aguilar, Raymond",
+      "slug": "raymond-aguilar",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/raymond-aguilar",
+      "jerseyNumber": 27,
+      "position": "F",
+      "playerInfo": "#27 | F",
+      "teamAbbreviation": "BWE",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Aguilar.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Aguilar.png",
+        "filename": "bwe-Aguilar.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 8,
+      "name": "Ahanmisi, Maverick",
+      "slug": "maverick-ahanmisi",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/maverick-ahanmisi",
+      "jerseyNumber": 13,
+      "position": "G",
+      "playerInfo": "#13 | G",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/rosAhanmisi13.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/rosAhanmisi13.png",
+        "filename": "rosAhanmisi13.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 9,
+      "name": "Al-Hussaini, Rabeh",
+      "slug": "rabeh-al-hussaini",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/rabeh-al-hussaini",
+      "jerseyNumber": 19,
+      "position": "C",
+      "playerInfo": "#19 | C",
+      "teamAbbreviation": "NLX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mer-Al-Husainni.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mer-Al-Husainni.png",
+        "filename": "mer-Al-Husainni.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "filename": "NLX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 10,
+      "name": "Alas, Kevin Louie",
+      "slug": "kevin-louie-alas",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/kevin-louie-alas",
+      "jerseyNumber": 6,
+      "position": "G",
+      "playerInfo": "#6 | G",
+      "teamAbbreviation": "NLX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Alas.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Alas.png",
+        "filename": "nlx-Alas.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "filename": "NLX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 11,
+      "name": "Almazan, Raymond",
+      "slug": "raymond-almazan",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/raymond-almazan",
+      "jerseyNumber": 20,
+      "position": "C",
+      "playerInfo": "#20 | C",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/rosAlmazan20.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/rosAlmazan20.png",
+        "filename": "rosAlmazan20.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 12,
+      "name": "Alolino, Gelo",
+      "slug": "gelo-alolino",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/gelo-alolino",
+      "jerseyNumber": 4,
+      "position": "G",
+      "playerInfo": "#4 | G",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/phx-Alolino.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/phx-Alolino.png",
+        "filename": "phx-Alolino.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 13,
+      "name": "Amer, Baser",
+      "slug": "baser-amer",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/baser-amer",
+      "jerseyNumber": 9,
+      "position": "G",
+      "playerInfo": "#9 | G",
+      "teamAbbreviation": "MER",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mer-Amer.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mer-Amer.png",
+        "filename": "mer-Amer.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 14,
+      "name": "Andrada, Yutien",
+      "slug": "yutien-andrada",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/yutien-andrada",
+      "jerseyNumber": 32,
+      "position": "F",
+      "playerInfo": "#32 | F",
+      "teamAbbreviation": "ALA",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 15,
+      "name": "Anthony, Sean",
+      "slug": "sean-anthony",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/sean-anthony",
+      "jerseyNumber": 10,
+      "position": "F",
+      "playerInfo": "#10 | F",
+      "teamAbbreviation": "GLO",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Anthony.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Anthony.png",
+        "filename": "nlx-Anthony.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 16,
+      "name": "Baguio, Cyrus",
+      "slug": "cyrus-baguio",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/cyrus-baguio",
+      "jerseyNumber": 3,
+      "position": "F",
+      "playerInfo": "#3 | F",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/phxBaguio3.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/phxBaguio3.png",
+        "filename": "phxBaguio3.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 17,
+      "name": "Ballesteros, Jason",
+      "slug": "jason-ballesteros",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jason-ballesteros",
+      "jerseyNumber": 81,
+      "position": "C",
+      "playerInfo": "#81 | C",
+      "teamAbbreviation": "MAH",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mahBallesteros18.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mahBallesteros18.png",
+        "filename": "mahBallesteros18.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 18,
+      "name": "Banchero, Chris",
+      "slug": "chris-banchero",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/chris-banchero",
+      "jerseyNumber": 2,
+      "position": "G",
+      "playerInfo": "#2 | G",
+      "teamAbbreviation": "ALA",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ala-Banchero.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ala-Banchero.png",
+        "filename": "ala-Banchero.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 19,
+      "name": "Baracael, Mac",
+      "slug": "mac-baracael",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/mac-baracael",
+      "jerseyNumber": 45,
+      "position": "F",
+      "playerInfo": "#45 | F",
+      "teamAbbreviation": "NLX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Baracael.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Baracael.png",
+        "filename": "nlx-Baracael.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "filename": "NLX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 20,
+      "name": "Barroca, Andy Mark",
+      "slug": "andy-mark-barroca",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/andy-mark-barroca",
+      "jerseyNumber": 14,
+      "position": "G",
+      "playerInfo": "#14 | G",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/strBarroca14.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/strBarroca14.png",
+        "filename": "strBarroca14.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 21,
+      "name": "Belga, Beau",
+      "slug": "beau-belga",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/beau-belga",
+      "jerseyNumber": 30,
+      "position": "F",
+      "playerInfo": "#30 | F",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/rosBelga30.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/rosBelga30.png",
+        "filename": "rosBelga30.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 22,
+      "name": "Belo, Mac",
+      "slug": "mac-belo",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/mac-belo",
+      "jerseyNumber": 2,
+      "position": "F",
+      "playerInfo": "#2 | F",
+      "teamAbbreviation": "BWE",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Belo.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Belo.png",
+        "filename": "bwe-Belo.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 23,
+      "name": "Bono, Karl Kenneth",
+      "slug": "karl-kenneth-bono",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/karl-kenneth-bono",
+      "jerseyNumber": 25,
+      "position": "F",
+      "playerInfo": "#25 | F",
+      "teamAbbreviation": "MER",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mer-Bono.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mer-Bono.png",
+        "filename": "mer-Bono.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 24,
+      "name": "Borboran, Mark Anthony",
+      "slug": "mark-anthony-borboran",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/mark-anthony-borboran",
+      "jerseyNumber": 16,
+      "position": "F",
+      "playerInfo": "#16 | F",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/phxBorboran16.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/phxBorboran16.png",
+        "filename": "phxBorboran16.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 25,
+      "name": "Brondial, Rodney",
+      "slug": "rodney-brondial",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/rodney-brondial",
+      "jerseyNumber": 91,
+      "position": "F",
+      "playerInfo": "#91 | F",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/str-Brondial.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/str-Brondial.png",
+        "filename": "str-Brondial.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 26,
+      "name": "Brownlee, Justin",
+      "slug": "justin-brownlee",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/justin-brownlee",
+      "jerseyNumber": 32,
+      "position": "F",
+      "playerInfo": "#32 | F",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ginBrownlee.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ginBrownlee.png",
+        "filename": "ginBrownlee.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 27,
+      "name": "Buenafe, Ronjay",
+      "slug": "ronjay-buenafe",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/ronjay-buenafe",
+      "jerseyNumber": 8,
+      "position": "G",
+      "playerInfo": "#8 | G",
+      "teamAbbreviation": "BWE",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Buenafe.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Buenafe.png",
+        "filename": "bwe-Buenafe.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 28,
+      "name": "Cabagnot, Alex",
+      "slug": "alex-cabagnot",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/alex-cabagnot",
+      "jerseyNumber": 5,
+      "position": "G",
+      "playerInfo": "#5 | G",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-Cabagnot.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-Cabagnot.png",
+        "filename": "smb-Cabagnot.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 29,
+      "name": "Caguioa, Mark",
+      "slug": "mark-caguioa",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/mark-caguioa",
+      "jerseyNumber": 47,
+      "position": "G",
+      "playerInfo": "#47 | G",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ginCaguioa47.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ginCaguioa47.png",
+        "filename": "ginCaguioa47.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 30,
+      "name": "Canaleta, Nino",
+      "slug": "nino-canaleta",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/nino-canaleta",
+      "jerseyNumber": 9,
+      "position": "F",
+      "playerInfo": "#9 | F",
+      "teamAbbreviation": "BWE",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/glo-Canaleta.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/glo-Canaleta.png",
+        "filename": "glo-Canaleta.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 31,
+      "name": "Caperal, Prince",
+      "slug": "prince-caperal",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/prince-caperal",
+      "jerseyNumber": 12,
+      "position": "F",
+      "playerInfo": "#12 | F",
+      "teamAbbreviation": "MAH",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/phxCaperal12.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/phxCaperal12.png",
+        "filename": "phxCaperal12.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 32,
+      "name": "Caram, Antonio Jose",
+      "slug": "antonio-jose-caram",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/antonio-jose-caram",
+      "jerseyNumber": 17,
+      "position": "G",
+      "playerInfo": "#17 | G",
+      "teamAbbreviation": "MER",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mer-Caram.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mer-Caram.png",
+        "filename": "mer-Caram.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 33,
+      "name": "Carey, Harvey",
+      "slug": "harvey-carey",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/harvey-carey",
+      "jerseyNumber": 4,
+      "position": "F",
+      "playerInfo": "#4 | F",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Carey.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Carey.png",
+        "filename": "tnt-Carey.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 34,
+      "name": "Casio, JVee",
+      "slug": "jvee-casio",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jvee-casio",
+      "jerseyNumber": 42,
+      "position": "G",
+      "playerInfo": "#42 | G",
+      "teamAbbreviation": "ALA",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ala-Casio.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ala-Casio.png",
+        "filename": "ala-Casio.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 35,
+      "name": "Castro, William Jayson",
+      "slug": "william-jayson-castro",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/william-jayson-castro",
+      "jerseyNumber": 17,
+      "position": "G",
+      "playerInfo": "#17 | G",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Castro.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Castro.png",
+        "filename": "tnt-Castro.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 36,
+      "name": "Celda, Reden",
+      "slug": "reden-celda",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/reden-celda",
+      "jerseyNumber": 0,
+      "position": "G",
+      "playerInfo": "#0 | G",
+      "teamAbbreviation": "MAH",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 37,
+      "name": "Cervantes, Reil",
+      "slug": "reil-cervantes",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/reil-cervantes",
+      "jerseyNumber": 26,
+      "position": "F",
+      "playerInfo": "#26 | F",
+      "teamAbbreviation": "BWE",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bweCervantes26.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bweCervantes26.png",
+        "filename": "bweCervantes26.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 38,
+      "name": "Chan, Jeff",
+      "slug": "jeff-chan",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jeff-chan",
+      "jerseyNumber": 16,
+      "position": "G",
+      "playerInfo": "#16 | G",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/rosChan16.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/rosChan16.png",
+        "filename": "rosChan16.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 39,
+      "name": "Chism, Wayne",
+      "slug": "wayne-chism",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/wayne-chism",
+      "jerseyNumber": 0,
+      "position": "F",
+      "playerInfo": "#0 | F",
+      "teamAbbreviation": "NLX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "filename": "NLX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 40,
+      "name": "Chua, Justin",
+      "slug": "justin-chua",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/justin-chua",
+      "jerseyNumber": 18,
+      "position": "C",
+      "playerInfo": "#18 | C",
+      "teamAbbreviation": "MER",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mer-Chua.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mer-Chua.png",
+        "filename": "mer-Chua.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 41,
+      "name": "Corpuz, Jackson",
+      "slug": "jackson-corpuz",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jackson-corpuz",
+      "jerseyNumber": 0,
+      "position": "F",
+      "playerInfo": "#0 | F",
+      "teamAbbreviation": "MAH",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/IMG_1041.PNG",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/IMG_1041.PNG",
+        "filename": "IMG_1041.PNG",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 42,
+      "name": "Cortez, Mike",
+      "slug": "mike-cortez",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/mike-cortez",
+      "jerseyNumber": 11,
+      "position": "G",
+      "playerInfo": "#11 | G",
+      "teamAbbreviation": "GLO",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/glo_Cortez.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/glo_Cortez.png",
+        "filename": "glo_Cortez.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 43,
+      "name": "Cruz, Jervy",
+      "slug": "jervy-cruz",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jervy-cruz",
+      "jerseyNumber": 27,
+      "position": "F",
+      "playerInfo": "#27 | F",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ginCruz27.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ginCruz27.png",
+        "filename": "ginCruz27.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 44,
+      "name": "Cruz, Jericho",
+      "slug": "jericho-cruz",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jericho-cruz",
+      "jerseyNumber": 9,
+      "position": "G",
+      "playerInfo": "#9 | G",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/roscruz9.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/roscruz9.png",
+        "filename": "roscruz9.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 45,
+      "name": "Daquioag, Ed",
+      "slug": "ed-daquioag",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/ed-daquioag",
+      "jerseyNumber": 6,
+      "position": "G",
+      "playerInfo": "#6 | G",
+      "teamAbbreviation": "MER",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mer-Daquioag.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mer-Daquioag.png",
+        "filename": "mer-Daquioag.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 46,
+      "name": "David, Gary",
+      "slug": "gary-david",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/gary-david",
+      "jerseyNumber": 13,
+      "position": "G",
+      "playerInfo": "#13 | G",
+      "teamAbbreviation": "MAH",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-David.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-David.png",
+        "filename": "smb-David.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 47,
+      "name": "de Ocampo, Yancy",
+      "slug": "yancy-de-ocampo",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/yancy-de-ocampo",
+      "jerseyNumber": 95,
+      "position": "C",
+      "playerInfo": "#95 | C",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-De-Ocampo.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-De-Ocampo.png",
+        "filename": "smb-De-Ocampo.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 48,
+      "name": "De Ocampo, Ranidel",
+      "slug": "ranidel-de-ocampo",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/ranidel-de-ocampo",
+      "jerseyNumber": 33,
+      "position": "F",
+      "playerInfo": "#33 | F",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/tnt-De-Ocampo.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/tnt-De-Ocampo.png",
+        "filename": "tnt-De-Ocampo.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 49,
+      "name": "Dehesa, Karl",
+      "slug": "karl-dehesa",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/karl-dehesa",
+      "jerseyNumber": 22,
+      "position": "G",
+      "playerInfo": "#22 | G",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/glo-Dehesa.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/glo-Dehesa.png",
+        "filename": "glo-Dehesa.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 50,
+      "name": "Dela Cruz, Tony",
+      "slug": "tony-dela-cruz",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/tony-dela-cruz",
+      "jerseyNumber": 35,
+      "position": "F",
+      "playerInfo": "#35 | F",
+      "teamAbbreviation": "ALA",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ala-Dela-Cruz.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ala-Dela-Cruz.png",
+        "filename": "ala-Dela-Cruz.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 51,
+      "name": "Dela Cruz, Art",
+      "slug": "art-dela-cruz",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/art-dela-cruz",
+      "jerseyNumber": 18,
+      "position": "F",
+      "playerInfo": "#18 | F",
+      "teamAbbreviation": "BWE",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bweDelaCruz25.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bweDelaCruz25.png",
+        "filename": "bweDelaCruz25.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 52,
+      "name": "Dela Rosa, Rome",
+      "slug": "rome-dela-rosa",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/rome-dela-rosa",
+      "jerseyNumber": 19,
+      "position": "G",
+      "playerInfo": "#19 | G",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/str-Dela-Rosa.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/str-Dela-Rosa.png",
+        "filename": "str-Dela-Rosa.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 53,
+      "name": "Deutchman, Jason",
+      "slug": "jason-deutchman",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jason-deutchman",
+      "jerseyNumber": 14,
+      "position": "F",
+      "playerInfo": "#14 | F",
+      "teamAbbreviation": "MAH",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 54,
+      "name": "Devance, Joe",
+      "slug": "joe-devance",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/joe-devance",
+      "jerseyNumber": 38,
+      "position": "F",
+      "playerInfo": "#38 | F",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ginDevance38.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ginDevance38.png",
+        "filename": "ginDevance38.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 55,
+      "name": "Digregorio, Michael",
+      "slug": "michael-digregorio",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/michael-digregorio",
+      "jerseyNumber": 1,
+      "position": "G",
+      "playerInfo": "#1 | G",
+      "teamAbbreviation": "BWE",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mahDiGregorio7.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mahDiGregorio7.png",
+        "filename": "mahDiGregorio7.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 56,
+      "name": "Dillinger, Jared",
+      "slug": "jared-dillinger",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jared-dillinger",
+      "jerseyNumber": 20,
+      "position": "F",
+      "playerInfo": "#20 | F",
+      "teamAbbreviation": "MER",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mer-Dillinger.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mer-Dillinger.png",
+        "filename": "mer-Dillinger.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 57,
+      "name": "Ellis, Chris",
+      "slug": "chris-ellis",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/chris-ellis",
+      "jerseyNumber": 34,
+      "position": "G",
+      "playerInfo": "#34 | G",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ginEllis34.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ginEllis34.png",
+        "filename": "ginEllis34.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 58,
+      "name": "Enciso, Simon",
+      "slug": "simon-enciso",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/simon-enciso",
+      "jerseyNumber": 0,
+      "position": "G",
+      "playerInfo": "#0 | G",
+      "teamAbbreviation": "ALA",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/phxEnciso0.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/phxEnciso0.png",
+        "filename": "phxEnciso0.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 59,
+      "name": "Eriobu, Joseph",
+      "slug": "joseph-eriobu",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/joseph-eriobu",
+      "jerseyNumber": 88,
+      "position": "F",
+      "playerInfo": "#88 | F",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mah-Eriobu.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mah-Eriobu.png",
+        "filename": "mah-Eriobu.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 60,
+      "name": "Espinas, Gabby",
+      "slug": "gabby-espinas",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/gabby-espinas",
+      "jerseyNumber": 27,
+      "position": "F",
+      "playerInfo": "#27 | F",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-Espinas.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-Espinas.png",
+        "filename": "smb-Espinas.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 61,
+      "name": "Exciminiano, Chris",
+      "slug": "chris-exciminiano",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/chris-exciminiano",
+      "jerseyNumber": 17,
+      "position": "G",
+      "playerInfo": "#17 | G",
+      "teamAbbreviation": "ALA",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ala-Exciminiano.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ala-Exciminiano.png",
+        "filename": "ala-Exciminiano.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 62,
+      "name": "Fajardo, June Mar",
+      "slug": "june-mar-fajardo",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/june-mar-fajardo",
+      "jerseyNumber": 15,
+      "position": "C",
+      "playerInfo": "#15 | C",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-Fajardo.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-Fajardo.png",
+        "filename": "smb-Fajardo.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 63,
+      "name": "Faundo, Bryan",
+      "slug": "bryan-faundo",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/bryan-faundo",
+      "jerseyNumber": 0,
+      "position": "F",
+      "playerInfo": "#0 | F",
+      "teamAbbreviation": "MER",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mer-Faundo.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mer-Faundo.png",
+        "filename": "mer-Faundo.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 64,
+      "name": "Ferrer, Kevin",
+      "slug": "kevin-ferrer",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/kevin-ferrer",
+      "jerseyNumber": 14,
+      "position": "F",
+      "playerInfo": "#14 | F",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/gin-Ferrer.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/gin-Ferrer.png",
+        "filename": "gin-Ferrer.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 65,
+      "name": "Fonacier, Larry",
+      "slug": "larry-fonacier",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/larry-fonacier",
+      "jerseyNumber": 12,
+      "position": "G",
+      "playerInfo": "#12 | G",
+      "teamAbbreviation": "NLX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Fonacier.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Fonacier.png",
+        "filename": "tnt-Fonacier.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "filename": "NLX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 66,
+      "name": "Forrester, James",
+      "slug": "james-forrester",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/james-forrester",
+      "jerseyNumber": 9,
+      "position": "F",
+      "playerInfo": "#9 | F",
+      "teamAbbreviation": "GLO",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Forrester.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Forrester.png",
+        "filename": "bwe-Forrester.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 67,
+      "name": "Galanza, Pedrito",
+      "slug": "pedrito-galanza",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/pedrito-galanza",
+      "jerseyNumber": 15,
+      "position": "G",
+      "playerInfo": "#15 | G",
+      "teamAbbreviation": "MAH",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 68,
+      "name": "Galliguez, Abel",
+      "slug": "abel-galliguez",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/abel-galliguez",
+      "jerseyNumber": 23,
+      "position": "G",
+      "playerInfo": "#23 | G",
+      "teamAbbreviation": "ALA",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 69,
+      "name": "Gamalinda, Riego",
+      "slug": "riego-gamalinda",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/riego-gamalinda",
+      "jerseyNumber": 21,
+      "position": "G",
+      "playerInfo": "#21 | G",
+      "teamAbbreviation": "BWE",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bweGamalinda21.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bweGamalinda21.png",
+        "filename": "bweGamalinda21.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 70,
+      "name": "Ganuelas-Rosser, Matt",
+      "slug": "matt-ganuelas-rosser",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/matt-ganuelas-rosser",
+      "jerseyNumber": 22,
+      "position": "F",
+      "playerInfo": "#22 | F",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Rosser.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Rosser.png",
+        "filename": "tnt-Rosser.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 71,
+      "name": "Garcia, RR",
+      "slug": "rr-garcia",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/rr-garcia",
+      "jerseyNumber": 12,
+      "position": "G",
+      "playerInfo": "#12 | G",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-Garcia.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-Garcia.png",
+        "filename": "smb-Garcia.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 72,
+      "name": "Golla, Frank",
+      "slug": "frank-golla",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/frank-golla",
+      "jerseyNumber": 5,
+      "position": "C",
+      "playerInfo": "#5 | C",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Golla.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Golla.png",
+        "filename": "tnt-Golla.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 73,
+      "name": "Grey, Jonathan",
+      "slug": "jonathan-grey",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jonathan-grey",
+      "jerseyNumber": 14,
+      "position": "G",
+      "playerInfo": "#14 | G",
+      "teamAbbreviation": "GLO",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mer-Grey.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mer-Grey.png",
+        "filename": "mer-Grey.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 74,
+      "name": "Guinto, Bradwyn",
+      "slug": "bradwyn-guinto",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/bradwyn-guinto",
+      "jerseyNumber": 7,
+      "position": "C",
+      "playerInfo": "#7 | C",
+      "teamAbbreviation": "GLO",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Guinto.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Guinto.png",
+        "filename": "nlx-Guinto.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 75,
+      "name": "Hayes, Marvin",
+      "slug": "marvin-hayes",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/marvin-hayes",
+      "jerseyNumber": 12,
+      "position": "G",
+      "playerInfo": "#12 | G",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 76,
+      "name": "Helterbrand, Anthony",
+      "slug": "anthony-helterbrand",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/anthony-helterbrand",
+      "jerseyNumber": 13,
+      "position": "G",
+      "playerInfo": "#13 | G",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ginHelterbrand13.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ginHelterbrand13.png",
+        "filename": "ginHelterbrand13.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 77,
+      "name": "Hernandez, Levi",
+      "slug": "levi-hernandez",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/levi-hernandez",
+      "jerseyNumber": 9,
+      "position": "G",
+      "playerInfo": "#9 | G",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Hernandez.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Hernandez.png",
+        "filename": "tnt-Hernandez.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 78,
+      "name": "Heruela, Brian",
+      "slug": "brian-heruela",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/brian-heruela",
+      "jerseyNumber": 1,
+      "position": "G",
+      "playerInfo": "#1 | G",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-Heruela.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-Heruela.png",
+        "filename": "smb-Heruela.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 79,
+      "name": "Hodge, Cliff",
+      "slug": "cliff-hodge",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/cliff-hodge",
+      "jerseyNumber": 7,
+      "position": "F",
+      "playerInfo": "#7 | F",
+      "teamAbbreviation": "MER",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mer-Hodge.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mer-Hodge.png",
+        "filename": "mer-Hodge.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 80,
+      "name": "Hugnatan, Reynel",
+      "slug": "reynel-hugnatan",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/reynel-hugnatan",
+      "jerseyNumber": 21,
+      "position": "C",
+      "playerInfo": "#21 | C",
+      "teamAbbreviation": "MER",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mer-Hugnatan.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mer-Hugnatan.png",
+        "filename": "mer-Hugnatan.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 81,
+      "name": "Intal, JC",
+      "slug": "jc-intal",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jc-intal",
+      "jerseyNumber": 7,
+      "position": "F",
+      "playerInfo": "#7 | F",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/phxIntal7.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/phxIntal7.png",
+        "filename": "phxIntal7.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 82,
+      "name": "Jalalon, Jio",
+      "slug": "jio-jalalon",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jio-jalalon",
+      "jerseyNumber": 6,
+      "position": "G",
+      "playerInfo": "#6 | G",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/str-Jalalon.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/str-Jalalon.png",
+        "filename": "str-Jalalon.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 83,
+      "name": "Jamito, Raymond",
+      "slug": "raymond-jamito",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/raymond-jamito",
+      "jerseyNumber": 18,
+      "position": "F",
+      "playerInfo": "#18 | F",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/gin-Jamito.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/gin-Jamito.png",
+        "filename": "gin-Jamito.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 84,
+      "name": "Javier, Chris",
+      "slug": "chris-javier",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/chris-javier",
+      "jerseyNumber": 11,
+      "position": "F",
+      "playerInfo": "#11 | F",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/str-Javier.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/str-Javier.png",
+        "filename": "str-Javier.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 85,
+      "name": "Jazul, RJ",
+      "slug": "rj-jazul",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/rj-jazul",
+      "jerseyNumber": 31,
+      "position": "G",
+      "playerInfo": "#31 | G",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ala-Jazul.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ala-Jazul.png",
+        "filename": "ala-Jazul.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 86,
+      "name": "Jefferson, Corey Allen",
+      "slug": "corey-jefferson",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/corey-jefferson",
+      "jerseyNumber": 34,
+      "position": "F",
+      "playerInfo": "#34 | F",
+      "teamAbbreviation": "ALA",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 87,
+      "name": "Khobuntin, Glenn",
+      "slug": "glenn-khobuntin",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/glenn-khobuntin",
+      "jerseyNumber": 24,
+      "position": "F",
+      "playerInfo": "#24 | F",
+      "teamAbbreviation": "MAH",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Khobuntin.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Khobuntin.png",
+        "filename": "nlx-Khobuntin.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 88,
+      "name": "Kramer, Doug",
+      "slug": "doug-kramer",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/doug-kramer",
+      "jerseyNumber": 44,
+      "position": "F",
+      "playerInfo": "#44 | F",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/phx-Kramer.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/phx-Kramer.png",
+        "filename": "phx-Kramer.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 89,
+      "name": "Lanete, Garvo",
+      "slug": "garvo-lanete",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/garvo-lanete",
+      "jerseyNumber": 13,
+      "position": "G",
+      "playerInfo": "#13 | G",
+      "teamAbbreviation": "MER",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Lanete.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Lanete.png",
+        "filename": "nlx-Lanete.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 90,
+      "name": "Lanete, Chico",
+      "slug": "chico-lanete",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/chico-lanete",
+      "jerseyNumber": 26,
+      "position": "G",
+      "playerInfo": "#26 | G",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/phxLanete26.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/phxLanete26.png",
+        "filename": "phxLanete26.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 91,
+      "name": "Lassiter, Marcio",
+      "slug": "marcio-lassiter",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/marcio-lassiter",
+      "jerseyNumber": 13,
+      "position": "G",
+      "playerInfo": "#13 | G",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-Lassiter.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-Lassiter.png",
+        "filename": "smb-Lassiter.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 92,
+      "name": "Lastimosa, Carlo",
+      "slug": "carlo-lastimosa",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/carlo-lastimosa",
+      "jerseyNumber": 9,
+      "position": "G",
+      "playerInfo": "#9 | G",
+      "teamAbbreviation": "NLX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Lastimosa.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Lastimosa.png",
+        "filename": "nlx-Lastimosa.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "filename": "NLX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 93,
+      "name": "Lee, Paul",
+      "slug": "paul-lee",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/paul-lee",
+      "jerseyNumber": 3,
+      "position": "G",
+      "playerInfo": "#3 | G",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/str-Lee2.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/str-Lee2.png",
+        "filename": "str-Lee2.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 94,
+      "name": "Magat, Marion",
+      "slug": "marion-magat",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/marion-magat",
+      "jerseyNumber": 10,
+      "position": "C",
+      "playerInfo": "#10 | C",
+      "teamAbbreviation": "ALA",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ala-Magat.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ala-Magat.png",
+        "filename": "ala-Magat.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 95,
+      "name": "Maierhofer, Rico",
+      "slug": "rico-maierhofer",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/rico-maierhofer",
+      "jerseyNumber": 1,
+      "position": "F",
+      "playerInfo": "#1 | F",
+      "teamAbbreviation": "GLO",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/glo-Maeirhofer.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/glo-Maeirhofer.png",
+        "filename": "glo-Maeirhofer.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 96,
+      "name": "Maiquez, Dexter",
+      "slug": "dexter-maiquez",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/dexter-maiquez",
+      "jerseyNumber": 12,
+      "position": "F",
+      "playerInfo": "#12 | F",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 97,
+      "name": "Maliksi, Allein",
+      "slug": "allein-maliksi",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/allein-maliksi",
+      "jerseyNumber": 22,
+      "position": "F",
+      "playerInfo": "#22 | F",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/strMaliksi22.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/strMaliksi22.png",
+        "filename": "strMaliksi22.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 98,
+      "name": "Mallari, Alex",
+      "slug": "alex-mallari",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/alex-mallari",
+      "jerseyNumber": 11,
+      "position": "G",
+      "playerInfo": "#11 | G",
+      "teamAbbreviation": "NLX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mah-Mallari.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mah-Mallari.png",
+        "filename": "mah-Mallari.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "filename": "NLX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 99,
+      "name": "Mamaril, Billy",
+      "slug": "billy-mamaril",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/billy-mamaril",
+      "jerseyNumber": 2,
+      "position": "C",
+      "playerInfo": "#2 | C",
+      "teamAbbreviation": "GLO",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/glo-Mamaril.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/glo-Mamaril.png",
+        "filename": "glo-Mamaril.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 100,
+      "name": "Manuel, Vic",
+      "slug": "vic-manuel",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/vic-manuel",
+      "jerseyNumber": 4,
+      "position": "F",
+      "playerInfo": "#4 | F",
+      "teamAbbreviation": "ALA",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ala-Manuel.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ala-Manuel.png",
+        "filename": "ala-Manuel.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 101,
+      "name": "Marcelo, Dave",
+      "slug": "dave-marcelo",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/dave-marcelo",
+      "jerseyNumber": 10,
+      "position": "C",
+      "playerInfo": "#10 | C",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ginMarcelo10.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ginMarcelo10.png",
+        "filename": "ginMarcelo10.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 102,
+      "name": "Mariano, Aljon",
+      "slug": "aljon-mariano",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/aljon-mariano",
+      "jerseyNumber": 31,
+      "position": "F",
+      "playerInfo": "#31 | F",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ginMariano31.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ginMariano31.png",
+        "filename": "ginMariano31.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 103,
+      "name": "Matias, Ronnie",
+      "slug": "ronnie-matias",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/ronnie-matias",
+      "jerseyNumber": 33,
+      "position": "F",
+      "playerInfo": "#33 | F",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/rosMatias33.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/rosMatias33.png",
+        "filename": "rosMatias33.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 104,
+      "name": "McCarthy, Rashawn",
+      "slug": "rashawn-mccarthy",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/rashawn-mccarthy",
+      "jerseyNumber": 10,
+      "position": "G",
+      "playerInfo": "#10 | G",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-McCarthy.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-McCarthy.png",
+        "filename": "smb-McCarthy.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 105,
+      "name": "McKay, Jameel",
+      "slug": "jameel-mckay",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jameel-mckay",
+      "jerseyNumber": 5,
+      "position": "F",
+      "playerInfo": "#5 | F",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 106,
+      "name": "Melton, Justin",
+      "slug": "justin-melton",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/justin-melton",
+      "jerseyNumber": 2,
+      "position": "G",
+      "playerInfo": "#2 | G",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/strMelton2.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/strMelton2.png",
+        "filename": "strMelton2.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 107,
+      "name": "Mendoza, Jaypee",
+      "slug": "jaypee-mendoza",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jaypee-mendoza",
+      "jerseyNumber": 18,
+      "position": "F",
+      "playerInfo": "#18 | F",
+      "teamAbbreviation": "ALA",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 108,
+      "name": "Mendoza, Gryann",
+      "slug": "gryann-mendoza",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/gryann-mendoza",
+      "jerseyNumber": 9,
+      "position": "G",
+      "playerInfo": "#9 | G",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 109,
+      "name": "Mercado, Solomon",
+      "slug": "solomon-mercado",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/solomon-mercado",
+      "jerseyNumber": 3,
+      "position": "G",
+      "playerInfo": "#3 | G",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ginMercado3.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ginMercado3.png",
+        "filename": "ginMercado3.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 110,
+      "name": "Miranda, Dennis",
+      "slug": "dennis-miranda",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/dennis-miranda",
+      "jerseyNumber": 3,
+      "position": "G",
+      "playerInfo": "#3 | G",
+      "teamAbbreviation": "BWE",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Miranda.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Miranda.png",
+        "filename": "bwe-Miranda.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 111,
+      "name": "Miranda, Michael",
+      "slug": "michael-miranda",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/michael-miranda",
+      "jerseyNumber": 34,
+      "position": "C",
+      "playerInfo": "#34 | C",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/phxMiranda34.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/phxMiranda34.png",
+        "filename": "phxMiranda34.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 112,
+      "name": "Monfort, Emman",
+      "slug": "emman-monfort",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/emman-monfort",
+      "jerseyNumber": 1,
+      "position": "G",
+      "playerInfo": "#1 | G",
+      "teamAbbreviation": "NLX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Monfort.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Monfort.png",
+        "filename": "nlx-Monfort.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "filename": "NLX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 113,
+      "name": "Nabong, Kelly",
+      "slug": "kelly-nabong",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/kelly-nabong",
+      "jerseyNumber": 23,
+      "position": "F",
+      "playerInfo": "#23 | F",
+      "teamAbbreviation": "MER",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mer-Nabong.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mer-Nabong.png",
+        "filename": "mer-Nabong.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 114,
+      "name": "Newsome, Chris",
+      "slug": "chris-newsome",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/chris-newsome",
+      "jerseyNumber": 11,
+      "position": "F",
+      "playerInfo": "#11 | F",
+      "teamAbbreviation": "MER",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mer-Newsome.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mer-Newsome.png",
+        "filename": "mer-Newsome.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 115,
+      "name": "Nimes, Josan",
+      "slug": "josan-nimes",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/josan-nimes",
+      "jerseyNumber": 6,
+      "position": "G",
+      "playerInfo": "#6 | G",
+      "teamAbbreviation": "MAH",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mah-Nimes.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mah-Nimes.png",
+        "filename": "mah-Nimes.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 116,
+      "name": "Norwood, Gabe",
+      "slug": "gabe-norwood",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/gabe-norwood",
+      "jerseyNumber": 5,
+      "position": "G",
+      "playerInfo": "#5 | G",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/rosnorwood5.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/rosnorwood5.png",
+        "filename": "rosnorwood5.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 117,
+      "name": "Nuyles, Alex",
+      "slug": "alex-nuyles",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/alex-nuyles",
+      "jerseyNumber": 6,
+      "position": "G",
+      "playerInfo": "#6 | G",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Nuyles.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Nuyles.png",
+        "filename": "tnt-Nuyles.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 118,
+      "name": "Paniamogan, Philip",
+      "slug": "philip-paniamogan",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/philip-paniamogan",
+      "jerseyNumber": 8,
+      "position": "G",
+      "playerInfo": "#8 | G",
+      "teamAbbreviation": "MAH",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 119,
+      "name": "Paredes, Papot",
+      "slug": "papot-paredes",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/papot-paredes",
+      "jerseyNumber": 13,
+      "position": "C",
+      "playerInfo": "#13 | C",
+      "teamAbbreviation": "GLO",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/glo-Paredes.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/glo-Paredes.png",
+        "filename": "glo-Paredes.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 120,
+      "name": "Pascual, Kyle",
+      "slug": "kyle-pascual",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/kyle-pascual",
+      "jerseyNumber": 32,
+      "position": "C",
+      "playerInfo": "#32 | C",
+      "teamAbbreviation": "BWE",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bwePascual9.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bwePascual9.png",
+        "filename": "bwePascual9.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 121,
+      "name": "Pascual, Jake",
+      "slug": "jake-pascual",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jake-pascual",
+      "jerseyNumber": 11,
+      "position": "F",
+      "playerInfo": "#11 | F",
+      "teamAbbreviation": "ALA",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ala-Pascual.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ala-Pascual.png",
+        "filename": "ala-Pascual.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 122,
+      "name": "Perez, Tristan",
+      "slug": "tristan-perez",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/tristan-perez",
+      "jerseyNumber": 22,
+      "position": "F",
+      "playerInfo": "#22 | F",
+      "teamAbbreviation": "BWE",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Perez.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Perez.png",
+        "filename": "bwe-Perez.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 123,
+      "name": "Pessumal, Von",
+      "slug": "von-pessumal",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/von-pessumal",
+      "jerseyNumber": 19,
+      "position": "G",
+      "playerInfo": "#19 | G",
+      "teamAbbreviation": "GLO",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/glo-pessumal.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/glo-pessumal.png",
+        "filename": "glo-pessumal.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 124,
+      "name": "Pingris, Marc Jean",
+      "slug": "marc-jean-pingris",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/marc-jean-pingris",
+      "jerseyNumber": 15,
+      "position": "F",
+      "playerInfo": "#15 | F",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/strPingris15.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/strPingris15.png",
+        "filename": "strPingris15.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 125,
+      "name": "Pinto, Nard John",
+      "slug": "nard-john-pinto",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/nard-john-pinto",
+      "jerseyNumber": 10,
+      "position": "G",
+      "playerInfo": "#10 | G",
+      "teamAbbreviation": "BWE",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Pinto.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Pinto.png",
+        "filename": "bwe-Pinto.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 126,
+      "name": "Pogoy, Roger",
+      "slug": "roger-pogoy",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/roger-pogoy",
+      "jerseyNumber": 16,
+      "position": "F",
+      "playerInfo": "#16 | F",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 127,
+      "name": "Ponferada, Jewel",
+      "slug": "jewel-ponferada",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jewel-ponferada",
+      "jerseyNumber": 15,
+      "position": "F",
+      "playerInfo": "#15 | F",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/rosPonferada15.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/rosPonferada15.png",
+        "filename": "rosPonferada15.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 128,
+      "name": "Pringle, Stanley",
+      "slug": "stanley-pringle",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/stanley-pringle",
+      "jerseyNumber": 3,
+      "position": "G",
+      "playerInfo": "#3 | G",
+      "teamAbbreviation": "GLO",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/glo-Pringle.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/glo-Pringle.png",
+        "filename": "glo-Pringle.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 129,
+      "name": "Quinahan, JR",
+      "slug": "jr-quinahan",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jr-quinahan",
+      "jerseyNumber": 48,
+      "position": "F",
+      "playerInfo": "#48 | F",
+      "teamAbbreviation": "NLX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/glo-Quinahan.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/glo-Quinahan.png",
+        "filename": "glo-Quinahan.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "filename": "NLX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 130,
+      "name": "Racal, Kevin",
+      "slug": "kevin-racal",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/kevin-racal",
+      "jerseyNumber": 61,
+      "position": "F",
+      "playerInfo": "#61 | F",
+      "teamAbbreviation": "ALA",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ala-Racal.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ala-Racal.png",
+        "filename": "ala-Racal.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 131,
+      "name": "Ramos, Aldrech",
+      "slug": "aldrech-ramos",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/aldrech-ramos",
+      "jerseyNumber": 17,
+      "position": "F",
+      "playerInfo": "#17 | F",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/str-Ramos.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/str-Ramos.png",
+        "filename": "str-Ramos.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 132,
+      "name": "Ratliffe, Ricardo",
+      "slug": "ricardo-ratliffe",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/ricardo-ratliffe",
+      "jerseyNumber": 20,
+      "position": "F",
+      "playerInfo": "#20 | F",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 133,
+      "name": "Reavis, Rafi",
+      "slug": "rafi-reavis",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/rafi-reavis",
+      "jerseyNumber": 4,
+      "position": "C",
+      "playerInfo": "#4 | C",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/strReavis4.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/strReavis4.png",
+        "filename": "strReavis4.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 134,
+      "name": "Revilla, LA",
+      "slug": "la-revilla",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/la-revilla",
+      "jerseyNumber": 2,
+      "position": "G",
+      "playerInfo": "#2 | G",
+      "teamAbbreviation": "MAH",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mahRevilla2.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mahRevilla2.png",
+        "filename": "mahRevilla2.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 135,
+      "name": "Reyes, JayR",
+      "slug": "jayr-reyes",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jayr-reyes",
+      "jerseyNumber": 4,
+      "position": "C",
+      "playerInfo": "#4 | C",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-Reyes.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-Reyes.png",
+        "filename": "smb-Reyes.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 136,
+      "name": "Reyes, Ryan",
+      "slug": "ryan-reyes",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/ryan-reyes",
+      "jerseyNumber": 10,
+      "position": "G",
+      "playerInfo": "#10 | G",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/tnt-R-Reyes.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/tnt-R-Reyes.png",
+        "filename": "tnt-R-Reyes.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 137,
+      "name": "Rhodes, Charles",
+      "slug": "charles-rhodes",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/charles-rhodes",
+      "jerseyNumber": 0,
+      "position": "F",
+      "playerInfo": "#0 | F",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 138,
+      "name": "Rios, Jansen",
+      "slug": "jansen-rios",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jansen-rios",
+      "jerseyNumber": 5,
+      "position": "G",
+      "playerInfo": "#5 | G",
+      "teamAbbreviation": "NLX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Rios.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Rios.png",
+        "filename": "nlx-Rios.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "filename": "NLX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 139,
+      "name": "Robles, Billy Ray",
+      "slug": "billy-ray-robles",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/billy-ray-robles",
+      "jerseyNumber": 25,
+      "position": "G",
+      "playerInfo": "#25 | G",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 140,
+      "name": "Romeo, Terrence",
+      "slug": "terrence-romeo",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/terrence-romeo",
+      "jerseyNumber": 7,
+      "position": "G",
+      "playerInfo": "#7 | G",
+      "teamAbbreviation": "GLO",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/glo-Romeo.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/glo-Romeo.png",
+        "filename": "glo-Romeo.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 141,
+      "name": "Rosales, Krismoir",
+      "slug": "krismoir-rosales",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/krismoir-rosales",
+      "jerseyNumber": 1,
+      "position": "G",
+      "playerInfo": "#1 | G",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Rosales.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Rosales.png",
+        "filename": "tnt-Rosales.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 142,
+      "name": "Rosario, Jeth Troy",
+      "slug": "jeth-troy-rosario",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jeth-troy-rosario",
+      "jerseyNumber": 18,
+      "position": "F",
+      "playerInfo": "#18 | F",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Rosario.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Rosario.png",
+        "filename": "tnt-Rosario.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 143,
+      "name": "Ross, Chris",
+      "slug": "chris-ross",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/chris-ross",
+      "jerseyNumber": 6,
+      "position": "G",
+      "playerInfo": "#6 | G",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-Ross.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-Ross.png",
+        "filename": "smb-Ross.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 144,
+      "name": "Salva, Nico",
+      "slug": "nico-salva",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/nico-salva",
+      "jerseyNumber": 78,
+      "position": "F",
+      "playerInfo": "#78 | F",
+      "teamAbbreviation": "MAH",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mah-Salva.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mah-Salva.png",
+        "filename": "mah-Salva.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 145,
+      "name": "Sangalang, Ian",
+      "slug": "ian-sangalang",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/ian-sangalang",
+      "jerseyNumber": 10,
+      "position": "F",
+      "playerInfo": "#10 | F",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/strSanggalang10.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/strSanggalang10.png",
+        "filename": "strSanggalang10.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 146,
+      "name": "Santos, Arwind",
+      "slug": "arwind-santos",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/arwind-santos",
+      "jerseyNumber": 29,
+      "position": "F",
+      "playerInfo": "#29 | F",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-Santos.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-Santos.png",
+        "filename": "smb-Santos.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 147,
+      "name": "Seigle, Danny",
+      "slug": "danny-seigle",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/danny-seigle",
+      "jerseyNumber": 42,
+      "position": "F",
+      "playerInfo": "#42 | F",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Seigle.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Seigle.png",
+        "filename": "tnt-Seigle.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 148,
+      "name": "Semerad, Anthony Paul",
+      "slug": "anthony-paul-semerad",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/anthony-paul-semerad",
+      "jerseyNumber": 6,
+      "position": "F",
+      "playerInfo": "#6 | F",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/glo-Semerad.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/glo-Semerad.png",
+        "filename": "glo-Semerad.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 149,
+      "name": "Semerad, David",
+      "slug": "david-semerad",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/david-semerad",
+      "jerseyNumber": 33,
+      "position": "F",
+      "playerInfo": "#33 | F",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-Semerad.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-Semerad.png",
+        "filename": "smb-Semerad.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 150,
+      "name": "Sena, James Ryan",
+      "slug": "james-ryan-sena",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/james-ryan-sena",
+      "jerseyNumber": 15,
+      "position": "F",
+      "playerInfo": "#15 | F",
+      "teamAbbreviation": "BWE",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bweSena15.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bweSena15.png",
+        "filename": "bweSena15.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 151,
+      "name": "Simon, Peter June",
+      "slug": "peter-june-simon",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/peter-june-simon",
+      "jerseyNumber": 8,
+      "position": "G",
+      "playerInfo": "#8 | G",
+      "teamAbbreviation": "STR",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/strSimon8.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/strSimon8.png",
+        "filename": "strSimon8.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/STR_web.png",
+        "filename": "STR_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 152,
+      "name": "Slaughter, Greg",
+      "slug": "greg-slaughter",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/greg-slaughter",
+      "jerseyNumber": 20,
+      "position": "C",
+      "playerInfo": "#20 | C",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ginSlaughter20.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ginSlaughter20.png",
+        "filename": "ginSlaughter20.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 153,
+      "name": "Smith, Gregory Stephen",
+      "slug": "gregory-stephen-smith",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/gregory-stephen-smith",
+      "jerseyNumber": 4,
+      "position": "F",
+      "playerInfo": "#4 | F",
+      "teamAbbreviation": "BWE",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Smith.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Smith.png",
+        "filename": "bwe-Smith.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 154,
+      "name": "Smith, Joshua",
+      "slug": "joshua-smith",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/joshua-smith",
+      "jerseyNumber": 34,
+      "position": null,
+      "playerInfo": "#34 |",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 155,
+      "name": "Soyud, Raul",
+      "slug": "raul-soyud",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/raul-soyud",
+      "jerseyNumber": 16,
+      "position": "C",
+      "playerInfo": "#16 | C",
+      "teamAbbreviation": "NLX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Soyud.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Soyud.png",
+        "filename": "nlx-Soyud.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "filename": "NLX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 156,
+      "name": "Stephenson, Alexander",
+      "slug": "alex-stephenson",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/alex-stephenson",
+      "jerseyNumber": 33,
+      "position": "F",
+      "playerInfo": "#33 | F",
+      "teamAbbreviation": "MER",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 157,
+      "name": "Sumang, Shej Roi",
+      "slug": "shej-roi-sumang",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/shej-roi-sumang",
+      "jerseyNumber": 12,
+      "position": "G",
+      "playerInfo": "#12 | G",
+      "teamAbbreviation": "BWE",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bweSumang12.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bweSumang12.png",
+        "filename": "bweSumang12.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/BWE_web.png",
+        "filename": "BWE_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 158,
+      "name": "Taggart, Shawn",
+      "slug": "shawn-taggart",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/shawn-taggart",
+      "jerseyNumber": 7,
+      "position": "F",
+      "playerInfo": "#7 | F",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 159,
+      "name": "Taha, Paolo",
+      "slug": "paolo-taha",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/paolo-taha",
+      "jerseyNumber": 0,
+      "position": "G",
+      "playerInfo": "#0 | G",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/gin-Taha.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/gin-Taha.png",
+        "filename": "gin-Taha.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 160,
+      "name": "Tamsi, Al Francis",
+      "slug": "al-francis-tamsi",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/al-francis-tamsi",
+      "jerseyNumber": 25,
+      "position": "G",
+      "playerInfo": "#25 | G",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 161,
+      "name": "Taulava, Asi",
+      "slug": "asi-taulava",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/asi-taulava",
+      "jerseyNumber": 88,
+      "position": "C",
+      "playerInfo": "#88 | C",
+      "teamAbbreviation": "NLX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Taulava.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/nlx-Taulava.png",
+        "filename": "nlx-Taulava.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "filename": "NLX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 162,
+      "name": "Tautuaa, Moala",
+      "slug": "moala-tautuaa",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/moala-tautuaa",
+      "jerseyNumber": 7,
+      "position": "C",
+      "playerInfo": "#7 | C",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Tautuaa.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Tautuaa.png",
+        "filename": "tnt-Tautuaa.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 163,
+      "name": "Teng, Jeric",
+      "slug": "jeric-teng",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jeric-teng",
+      "jerseyNumber": 16,
+      "position": "G",
+      "playerInfo": "#16 | G",
+      "teamAbbreviation": "MAH",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mah-Teng.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mah-Teng.png",
+        "filename": "mah-Teng.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 164,
+      "name": "Tenorio, LA",
+      "slug": "la-tenorio",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/la-tenorio",
+      "jerseyNumber": 5,
+      "position": "G",
+      "playerInfo": "#5 | G",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ginTenorio5.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ginTenorio5.png",
+        "filename": "ginTenorio5.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 165,
+      "name": "Thompson, Scottie",
+      "slug": "scottie-thompson",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/scottie-thompson",
+      "jerseyNumber": 6,
+      "position": "G",
+      "playerInfo": "#6 | G",
+      "teamAbbreviation": "GIN",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ginThompson6.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ginThompson6.png",
+        "filename": "ginThompson6.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GIN_web.png",
+        "filename": "GIN_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 166,
+      "name": "Thoss, Sonny",
+      "slug": "sonny-thoss",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/sonny-thoss",
+      "jerseyNumber": 7,
+      "position": "C",
+      "playerInfo": "#7 | C",
+      "teamAbbreviation": "ALA",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ala-Thoss.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ala-Thoss.png",
+        "filename": "ala-Thoss.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ALA_web.png",
+        "filename": "ALA_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 167,
+      "name": "Tiongson, Juan Miguel",
+      "slug": "juan-miguel-tiongson",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/juan-miguel-tiongson",
+      "jerseyNumber": 3,
+      "position": "G",
+      "playerInfo": "#3 | G",
+      "teamAbbreviation": "NLX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Tiongson2.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/bwe-Tiongson2.png",
+        "filename": "bwe-Tiongson2.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "filename": "NLX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 168,
+      "name": "Tiu, Chris",
+      "slug": "chris-tiu",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/chris-tiu",
+      "jerseyNumber": 17,
+      "position": "G",
+      "playerInfo": "#17 | G",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/rosTiu17.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/rosTiu17.png",
+        "filename": "rosTiu17.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 169,
+      "name": "Tolomia, Mike",
+      "slug": "mike-tolomia",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/mike-tolomia",
+      "jerseyNumber": 0,
+      "position": "G",
+      "playerInfo": "#0 | G",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ros-Tolomia.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ros-Tolomia.png",
+        "filename": "ros-Tolomia.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 170,
+      "name": "Torres, Norbert",
+      "slug": "norbert-torres",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/norbert-torres",
+      "jerseyNumber": 6,
+      "position": "C",
+      "playerInfo": "#6 | C",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/phxTorres6.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/phxTorres6.png",
+        "filename": "phxTorres6.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 171,
+      "name": "Trollano, Don",
+      "slug": "don-trollano",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/don-trollano",
+      "jerseyNumber": 19,
+      "position": "G",
+      "playerInfo": "#19 | G",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ros-Trollano.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ros-Trollano.png",
+        "filename": "ros-Trollano.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 172,
+      "name": "Tubid, Ronald",
+      "slug": "ronald-tubid",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/ronald-tubid",
+      "jerseyNumber": 71,
+      "position": "G",
+      "playerInfo": "#71 | G",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-Tubid.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-Tubid.png",
+        "filename": "smb-Tubid.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 173,
+      "name": "Urbiztondo, Josh",
+      "slug": "josh-urbiztondo",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/josh-urbiztondo",
+      "jerseyNumber": 2,
+      "position": "G",
+      "playerInfo": "#2 | G",
+      "teamAbbreviation": "GLO",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/glo-Urbiztondo.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/glo-Urbiztondo.png",
+        "filename": "glo-Urbiztondo.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 174,
+      "name": "Uyloan, Jonathan",
+      "slug": "jonathan-uyloan",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jonathan-uyloan",
+      "jerseyNumber": 10,
+      "position": "G",
+      "playerInfo": "#10 | G",
+      "teamAbbreviation": "MER",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mer-Uyloan.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mer-Uyloan.png",
+        "filename": "mer-Uyloan.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 175,
+      "name": "Van Opstal, Arnold",
+      "slug": "arnold-van-opstal",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/arnold-van-opstal",
+      "jerseyNumber": 7,
+      "position": "C",
+      "playerInfo": "#7 | C",
+      "teamAbbreviation": "SMB",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/smb-Opstal.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/smb-Opstal.png",
+        "filename": "smb-Opstal.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/SMB_web.png",
+        "filename": "SMB_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 176,
+      "name": "Villanueva, Jonas",
+      "slug": "jonas-villanueva",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/jonas-villanueva",
+      "jerseyNumber": 11,
+      "position": "G",
+      "playerInfo": "#11 | G",
+      "teamAbbreviation": "NLX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/nlx-J-Villanueva.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/nlx-J-Villanueva.png",
+        "filename": "nlx-J-Villanueva.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/NLX_web.png",
+        "filename": "NLX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 177,
+      "name": "Washington, Anthony",
+      "slug": "anthony-washington",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/anthony-washington",
+      "jerseyNumber": 23,
+      "position": "F",
+      "playerInfo": "#23 | F",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ros-Washington.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ros-Washington.png",
+        "filename": "ros-Washington.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 178,
+      "name": "White, Malcolm",
+      "slug": "malcolm-white",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/malcolm-white",
+      "jerseyNumber": 0,
+      "position": "F",
+      "playerInfo": "#0 | F",
+      "teamAbbreviation": "GLO",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/GLO_web.png",
+        "filename": "GLO_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 179,
+      "name": "Williams, Kelly",
+      "slug": "kelly-williams",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/kelly-williams",
+      "jerseyNumber": 21,
+      "position": "F",
+      "playerInfo": "#21 | F",
+      "teamAbbreviation": "TNT",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Williams.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/tnt-Williams.png",
+        "filename": "tnt-Williams.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/TNT_web.png",
+        "filename": "TNT_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 180,
+      "name": "Wilson, John Marion",
+      "slug": "john-marion-wilson",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/john-marion-wilson",
+      "jerseyNumber": 8,
+      "position": "G",
+      "playerInfo": "#8 | G",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/phxJWilson8.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/phxJWilson8.png",
+        "filename": "phxJWilson8.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 181,
+      "name": "Wilson, William",
+      "slug": "william-wilson",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/william-wilson",
+      "jerseyNumber": 28,
+      "position": "F",
+      "playerInfo": "#28 | F",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/phxwWilson28.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/phxwWilson28.png",
+        "filename": "phxwWilson28.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 182,
+      "name": "Wright, Matthew",
+      "slug": "matthew-wright",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/matthew-wright",
+      "jerseyNumber": 35,
+      "position": "G",
+      "playerInfo": "#35 | G",
+      "teamAbbreviation": "PHX",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/phx-Wright.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/phx-Wright.png",
+        "filename": "phx-Wright.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/PHX_web.png",
+        "filename": "PHX_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 183,
+      "name": "Wright, Keith Andre",
+      "slug": "keith-andre-wright",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/keith-andre-wright",
+      "jerseyNumber": 0,
+      "position": "F",
+      "playerInfo": "#0 | F",
+      "teamAbbreviation": "MAH",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/noimage.png",
+        "filename": "noimage.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": true
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 184,
+      "name": "Yap, James",
+      "slug": "james-yap",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/james-yap",
+      "jerseyNumber": 18,
+      "position": "G",
+      "playerInfo": "#18 | G",
+      "teamAbbreviation": "ROS",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/ros-Yap.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/ros-Yap.png",
+        "filename": "ros-Yap.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/ROS_web.png",
+        "filename": "ROS_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 185,
+      "name": "Yee, Mark",
+      "slug": "mark-yee",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/mark-yee",
+      "jerseyNumber": 27,
+      "position": "F",
+      "playerInfo": "#27 | F",
+      "teamAbbreviation": "MAH",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mahYee27.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mahYee27.png",
+        "filename": "mahYee27.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MAH_web.png",
+        "filename": "MAH_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    },
+    {
+      "index": 186,
+      "name": "Yeo, Joseph Henry",
+      "slug": "joseph-henry-yeo",
+      "profileUrl": "https://web.archive.org/web/20170704193949/http://www.pba.ph/players/joseph-henry-yeo",
+      "jerseyNumber": 8,
+      "position": "G",
+      "playerInfo": "#8 | G",
+      "teamAbbreviation": "MER",
+      "portrait": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/players/mer-Yeo.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/players/mer-Yeo.png",
+        "filename": "mer-Yeo.png",
+        "waybackTimestamp": "20170704193949",
+        "isPlaceholder": false
+      },
+      "teamLogo": {
+        "url": "http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "archiveUrl": "https://web.archive.org/web/20170704193949im_/http://d3frpjg8bot2ij.cloudfront.net/logo/MER_web.png",
+        "filename": "MER_web.png",
+        "waybackTimestamp": "20170704193949"
+      }
+    }
+  ]
+}
