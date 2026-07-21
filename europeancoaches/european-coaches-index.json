@@ -1,0 +1,5062 @@
+{
+  "metadata": {
+    "title": "European Basketball Coaches from Wikipedia",
+    "scope": "Country-by-team English Wikipedia categories associated with European domestic, regional and continental basketball leagues.",
+    "generatedAt": "2026-07-21T09:17:26.451Z",
+    "resolvedRootCategoryCount": 36,
+    "skippedRootCategoryCount": 6,
+    "teamCategoryCount": 451,
+    "coachCount": 1001,
+    "failedPageCount": 0,
+    "ratingExplanation": "Head-coach honors receive full competition-specific value. Assistant, consultant and youth honors receive reduced value. Player achievements remain in the database but receive zero coaching points. Experience is added and raw scores are percentile-ranked across the scraped European pool. The 99th percentile and above is capped at 90.",
+    "ratingRange": {
+      "minimum": 20,
+      "maximum": 90,
+      "ceilingPercentile": 99
+    },
+    "downloadedImageCount": 621,
+    "failedImageCount": 0,
+    "splitMode": "surname-initial",
+    "combinedJsonOmitted": true,
+    "combinedJsonOmittedReason": "The complete coaches array is stored losslessly inside the A-Z JSON files.",
+    "alphabetBucketCount": 27
+  },
+  "targetGameLeagues": [
+    {
+      "id": "adriatic-league",
+      "name": "ABA League / Adriatic League",
+      "relativePath": "external/adriatic-league/adriatic-league-liga-aba-2026-bbgm.json"
+    },
+    {
+      "id": "eurocup",
+      "name": "EuroCup",
+      "relativePath": "external/eurocup/eurocup-2026-bbgm.json"
+    },
+    {
+      "id": "euroleague",
+      "name": "EuroLeague",
+      "relativePath": "external/euroleague/euroleague-2026-bbgm.json"
+    },
+    {
+      "id": "french-jeep-elite",
+      "name": "French LNB Elite",
+      "relativePath": "external/french-jeep-elite/french-jeep-elite-2026-bbgm.json"
+    },
+    {
+      "id": "german-bbl",
+      "name": "German Basketball Bundesliga",
+      "relativePath": "external/german-bbl/german-bbl-2026-bbgm.json"
+    },
+    {
+      "id": "greek-heba-a1",
+      "name": "Greek Basket League",
+      "relativePath": "external/greek-heba-a1/greek-heba-a1-2026-bbgm.json"
+    },
+    {
+      "id": "israeli-bsl",
+      "name": "Israeli Basketball Premier League",
+      "relativePath": "external/israeli-bsl/israeli-bsl-2026-bbgm.json"
+    },
+    {
+      "id": "italian-serie-a",
+      "name": "Lega Basket Serie A",
+      "relativePath": "external/italian-serie-a/italian-lega-basket-serie-a-2026-bbgm.json"
+    },
+    {
+      "id": "lithuanian-lkl",
+      "name": "Lithuanian Basketball League",
+      "relativePath": "external/lithuanian-lkl/lithuanian-lkl-2026-bbgm.json"
+    },
+    {
+      "id": "spanish-liga-acb",
+      "name": "Liga ACB / Liga Endesa",
+      "relativePath": "historical/endesa"
+    },
+    {
+      "id": "turkish-bsl",
+      "name": "Basketbol Super Ligi",
+      "relativePath": "external/turkish-bsl/turkish-bsl-2026-bbgm.json"
+    },
+    {
+      "id": "vtb-united-league",
+      "name": "VTB United League",
+      "relativePath": "external/vtb-united-league/vtb-united-league-2026-bbgm.json"
+    }
+  ],
+  "roleMultipliers": {
+    "headCoach": 1,
+    "assistantCoach": 0.3,
+    "consultant": 0.16,
+    "youthCoach": 0.12,
+    "player": 0,
+    "unknown": 1
+  },
+  "awardWeights": {
+    "euroLeagueChampion": 22,
+    "euroLeagueRunnerUp": 7,
+    "euroLeagueFinalFour": 3,
+    "euroLeagueCoachOfYear": 14,
+    "euroCupChampion": 13,
+    "euroCupRunnerUp": 4,
+    "euroCupCoachOfYear": 8,
+    "championsLeagueChampion": 10,
+    "championsLeagueRunnerUp": 3,
+    "championsLeagueCoachOfYear": 7,
+    "fibaEuropeCupChampion": 7,
+    "euroChallengeChampion": 7,
+    "saportaCupChampion": 11,
+    "koracCupChampion": 10,
+    "intercontinentalCupChampion": 8,
+    "abaLeagueChampion": 8,
+    "vtbLeagueChampion": 9,
+    "balticLeagueChampion": 5,
+    "yugoslavLeagueChampion": 9,
+    "sovietLeagueChampion": 9,
+    "spanishLeagueChampion": 10,
+    "italianLeagueChampion": 9,
+    "greekLeagueChampion": 9,
+    "turkishLeagueChampion": 9,
+    "frenchLeagueChampion": 8,
+    "germanLeagueChampion": 8,
+    "israeliLeagueChampion": 7,
+    "lithuanianLeagueChampion": 7,
+    "russianLeagueChampion": 8,
+    "majorDomesticLeagueChampion": 6,
+    "secondDivisionChampion": 2.5,
+    "spanishCupWinner": 4.5,
+    "italianCupWinner": 4,
+    "greekCupWinner": 4,
+    "turkishCupWinner": 4,
+    "frenchCupWinner": 3.5,
+    "germanCupWinner": 3.5,
+    "israeliCupWinner": 3.5,
+    "lithuanianCupWinner": 3,
+    "russianCupWinner": 3.5,
+    "otherDomesticCupWinner": 2.5,
+    "domesticSuperCupWinner": 1.75,
+    "olympicGold": 24,
+    "olympicSilver": 15,
+    "olympicBronze": 10,
+    "worldCupGold": 24,
+    "worldCupSilver": 15,
+    "worldCupBronze": 10,
+    "euroBasketGold": 19,
+    "euroBasketSilver": 12,
+    "euroBasketBronze": 8,
+    "otherContinentalGold": 13,
+    "otherContinentalSilver": 8,
+    "otherContinentalBronze": 5,
+    "otherInternationalMedal": 3,
+    "majorEuropeanCoachOfYear": 11,
+    "domesticCoachOfYear": 6,
+    "otherCoachOfYear": 4,
+    "hallOfFame": 2,
+    "civilHonor": 0,
+    "otherInternationalChampion": 6,
+    "otherDomesticChampion": 3.5,
+    "otherCupWinner": 2,
+    "otherCoachingAward": 1,
+    "headCoachYear": 0.42,
+    "assistantCoachYear": 0.16,
+    "consultantYear": 0.08,
+    "maxExperiencePoints": 16,
+    "playerChampionship": 0,
+    "playerAward": 0,
+    "playerMedal": 0
+  },
+  "resolvedRootCategories": [
+    {
+      "country": "Spain",
+      "categoryTitle": "Category:Basketball coaches in Spain by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "France",
+      "categoryTitle": "Category:Basketball coaches in France by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Germany",
+      "categoryTitle": "Category:Basketball coaches in Germany by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Greece",
+      "categoryTitle": "Category:Basketball coaches in Greece by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Israel",
+      "categoryTitle": "Category:Basketball coaches in Israel by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Italy",
+      "categoryTitle": "Category:Basketball coaches in Italy by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Lithuania",
+      "categoryTitle": "Category:Basketball coaches in Lithuania by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Turkey",
+      "categoryTitle": "Category:Basketball coaches in Turkey by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Russia",
+      "categoryTitle": "Category:Basketball coaches in Russia by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Serbia",
+      "categoryTitle": "Category:Basketball coaches in Serbia by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Croatia",
+      "categoryTitle": "Category:Basketball coaches in Croatia by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Slovenia",
+      "categoryTitle": "Category:Basketball coaches in Slovenia by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Montenegro",
+      "categoryTitle": "Category:Basketball coaches in Montenegro by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "categoryTitle": "Category:Basketball coaches in Bosnia and Herzegovina by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Latvia",
+      "categoryTitle": "Category:Basketball coaches in Latvia by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Estonia",
+      "categoryTitle": "Category:Basketball coaches in Estonia by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Belarus",
+      "categoryTitle": "Category:Basketball coaches in Belarus by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Kazakhstan",
+      "categoryTitle": "Category:Basketball coaches in Kazakhstan by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Poland",
+      "categoryTitle": "Category:Basketball coaches in Poland by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Ukraine",
+      "categoryTitle": "Category:Basketball coaches in Ukraine by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Czech Republic",
+      "categoryTitle": "Category:Basketball coaches in Czech Republic by club",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Slovakia",
+      "categoryTitle": "Category:Basketball coaches in Slovakia by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Romania",
+      "categoryTitle": "Category:Basketball coaches in Romania by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Hungary",
+      "categoryTitle": "Category:Basketball coaches in Hungary by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Belgium",
+      "categoryTitle": "Category:Basketball coaches in Belgium by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Netherlands",
+      "categoryTitle": "Category:Basketball coaches in the Netherlands by team",
+      "resolution": "wikipedia-search"
+    },
+    {
+      "country": "Portugal",
+      "categoryTitle": "Category:Basketball coaches in Portugal by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Switzerland",
+      "categoryTitle": "Category:Basketball coaches in Switzerland by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Austria",
+      "categoryTitle": "Category:Basketball coaches in Austria by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Finland",
+      "categoryTitle": "Category:Basketball coaches in Finland by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Sweden",
+      "categoryTitle": "Category:Basketball coaches in Sweden by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Iceland",
+      "categoryTitle": "Category:Basketball coaches in Iceland by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Georgia",
+      "categoryTitle": "Category:Basketball coaches in Georgia (country) by team",
+      "resolution": "wikipedia-search"
+    },
+    {
+      "country": "Cyprus",
+      "categoryTitle": "Category:Basketball coaches in Cyprus by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Kosovo",
+      "categoryTitle": "Category:Basketball coaches in Kosovo by team",
+      "resolution": "candidate"
+    },
+    {
+      "country": "Albania",
+      "categoryTitle": "Category:Basketball coaches in Albania by team",
+      "resolution": "candidate"
+    }
+  ],
+  "skippedRootCategories": [
+    {
+      "country": "North Macedonia",
+      "candidates": [
+        "Category:Basketball coaches in North Macedonia by team",
+        "Category:Basketball coaches by team in North Macedonia",
+        "Category:Basketball coaches in North Macedonia by club",
+        "Category:Basketball coaches by club in North Macedonia"
+      ],
+      "reason": "No matching English Wikipedia category found"
+    },
+    {
+      "country": "Bulgaria",
+      "candidates": [
+        "Category:Basketball coaches in Bulgaria by team",
+        "Category:Basketball coaches by team in Bulgaria",
+        "Category:Basketball coaches in Bulgaria by club",
+        "Category:Basketball coaches by club in Bulgaria"
+      ],
+      "reason": "No matching English Wikipedia category found"
+    },
+    {
+      "country": "United Kingdom",
+      "candidates": [
+        "Category:Basketball coaches in United Kingdom by team",
+        "Category:Basketball coaches by team in United Kingdom",
+        "Category:Basketball coaches in United Kingdom by club",
+        "Category:Basketball coaches by club in United Kingdom"
+      ],
+      "reason": "No matching English Wikipedia category found"
+    },
+    {
+      "country": "Denmark",
+      "candidates": [
+        "Category:Basketball coaches in Denmark by team",
+        "Category:Basketball coaches by team in Denmark",
+        "Category:Basketball coaches in Denmark by club",
+        "Category:Basketball coaches by club in Denmark"
+      ],
+      "reason": "No matching English Wikipedia category found"
+    },
+    {
+      "country": "Norway",
+      "candidates": [
+        "Category:Basketball coaches in Norway by team",
+        "Category:Basketball coaches by team in Norway",
+        "Category:Basketball coaches in Norway by club",
+        "Category:Basketball coaches by club in Norway"
+      ],
+      "reason": "No matching English Wikipedia category found"
+    },
+    {
+      "country": "United Arab Emirates",
+      "candidates": [
+        "Category:Basketball coaches in United Arab Emirates by team",
+        "Category:Basketball coaches by team in United Arab Emirates",
+        "Category:Basketball coaches in United Arab Emirates by club",
+        "Category:Basketball coaches by club in United Arab Emirates"
+      ],
+      "reason": "No matching English Wikipedia category found"
+    }
+  ],
+  "teamCategories": [
+    {
+      "categoryTitle": "Category:A.E.L. 1964 B.C. coaches",
+      "team": "A.E.L. 1964 B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:A.S. Junior Pallacanestro Casale coaches",
+      "team": "A.S. Junior Pallacanestro Casale",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:AEK B.C. coaches",
+      "team": "AEK B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:AEK Larnaca B.C. coaches",
+      "team": "AEK Larnaca B.C.",
+      "countries": [
+        "Cyprus"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Cyprus by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:AEL Limassol B.C. coaches",
+      "team": "AEL Limassol B.C.",
+      "countries": [
+        "Cyprus"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Cyprus by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:AGEH Gymnastikos B.C. coaches",
+      "team": "AGEH Gymnastikos B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Aigaleo B.C. coaches",
+      "team": "Aigaleo B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Alba Berlin basketball coaches",
+      "team": "Alba Berlin",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Álftanes men's basketball coaches",
+      "team": "Álftanes men's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:AMG Sebastiani Basket coaches",
+      "team": "AMG Sebastiani Basket",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Ampelokipoi B.C. coaches",
+      "team": "Ampelokipoi B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Amsterdam Basketball coaches",
+      "team": "Amsterdam",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Anadolu Efes S.K. coaches",
+      "team": "Anadolu Efes S.K.",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Antalya Büyükşehir Belediyesi coaches",
+      "team": "Antalya Büyükşehir Belediyesi",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Antwerp Giants coaches",
+      "team": "Antwerp Giants",
+      "countries": [
+        "Belgium"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Belgium by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:APOEL B.C. coaches",
+      "team": "APOEL B.C.",
+      "countries": [
+        "Cyprus"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Cyprus by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Apollo Amsterdam coaches",
+      "team": "Apollo Amsterdam",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Apollon Kalamarias B.C. coaches",
+      "team": "Apollon Kalamarias B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Apollon Patras B.C. coaches",
+      "team": "Apollon Patras B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Aries Trikala B.C. coaches",
+      "team": "Aries Trikala B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Aris B.C. coaches",
+      "team": "Aris B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Aris Leeuwarden coaches",
+      "team": "Aris Leeuwarden",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Arka Gdynia basketball coaches",
+      "team": "Arka Gdynia",
+      "countries": [
+        "Poland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Poland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Arkadikos B.C. coaches",
+      "team": "Arkadikos B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Ármann men's basketball coaches",
+      "team": "Ármann men's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Artland Dragons coaches",
+      "team": "Artland Dragons",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:AS Monaco Basket coaches",
+      "team": "AS Monaco Basket",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:ASK Karditsas B.C. coaches",
+      "team": "ASK Karditsas B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:ASK Riga coaches",
+      "team": "ASK Riga",
+      "countries": [
+        "Latvia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Latvia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Astoria Bydgoszcz basketball coaches",
+      "team": "Astoria Bydgoszcz",
+      "countries": [
+        "Poland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Poland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:ASVEL Basket coaches",
+      "team": "ASVEL Basket",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Aurora Basket Jesi coaches",
+      "team": "Aurora Basket Jesi",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Auxilium Pallacanestro Torino coaches",
+      "team": "Auxilium Pallacanestro Torino",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:AZS Koszalin coaches",
+      "team": "AZS Koszalin",
+      "countries": [
+        "Poland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Poland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Bahçeşehir Koleji S.K. coaches",
+      "team": "Bahçeşehir Koleji S.K.",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BAL (basketball) coaches",
+      "team": "BAL (basketball)",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Baloncesto Fuenlabrada coaches",
+      "team": "Baloncesto Fuenlabrada",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Baloncesto Málaga coaches",
+      "team": "Baloncesto Málaga",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Banvit B.K. coaches",
+      "team": "Banvit B.K.",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Barak Netanya B.C. coaches",
+      "team": "Barak Netanya B.C.",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Basket Livorno coaches",
+      "team": "Basket Livorno",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Basket Rimini Crabs coaches",
+      "team": "Basket Rimini Crabs",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Basket Zaragoza coaches",
+      "team": "Basket Zaragoza",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Basketball Agia Paraskevi coaches",
+      "team": "Basketball Agia Paraskevi",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Basketball Löwen Braunschweig coaches",
+      "team": "Basketball Löwen Braunschweig",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Baskets Oldenburg coaches",
+      "team": "Baskets Oldenburg",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Básquet Coruña coaches",
+      "team": "Básquet Coruña",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Bàsquet Girona coaches",
+      "team": "Bàsquet Girona",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Bàsquet Manresa coaches",
+      "team": "Bàsquet Manresa",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Andorra coaches",
+      "team": "BC Andorra",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Astana coaches",
+      "team": "BC Astana",
+      "countries": [
+        "Kazakhstan"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Kazakhstan by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Avtodor coaches",
+      "team": "BC Avtodor",
+      "countries": [
+        "Russia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Russia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Dinamo Tbilisi coaches",
+      "team": "BC Dinamo Tbilisi",
+      "countries": [
+        "Georgia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Georgia (country) by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Dnipro-Azot coaches",
+      "team": "BC Dnipro-Azot",
+      "countries": [
+        "Ukraine"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Ukraine by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Dynamo Moscow coaches",
+      "team": "BC Dynamo Moscow",
+      "countries": [
+        "Russia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Russia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Dynamo Saint Petersburg coaches",
+      "team": "BC Dynamo Saint Petersburg",
+      "countries": [
+        "Russia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Russia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Kalev/Cramo coaches",
+      "team": "BC Kalev/Cramo",
+      "countries": [
+        "Estonia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Estonia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Khimki coaches",
+      "team": "BC Khimki",
+      "countries": [
+        "Russia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Russia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Körmend coaches",
+      "team": "BC Körmend",
+      "countries": [
+        "Hungary"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Hungary by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Krasnye Krylia coaches",
+      "team": "BC Krasnye Krylia",
+      "countries": [
+        "Russia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Russia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Lietkabelis coaches",
+      "team": "BC Lietkabelis",
+      "countries": [
+        "Lithuania"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Lithuania by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Neptūnas coaches",
+      "team": "BC Neptūnas",
+      "countries": [
+        "Lithuania"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Lithuania by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Oostende coaches",
+      "team": "BC Oostende",
+      "countries": [
+        "Belgium"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Belgium by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Parma coaches",
+      "team": "BC Parma",
+      "countries": [
+        "Russia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Russia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Prievidza coaches",
+      "team": "BC Prievidza",
+      "countries": [
+        "Slovakia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Slovakia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Prometey coaches",
+      "team": "BC Prometey",
+      "countries": [
+        "Ukraine"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Ukraine by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Rytas coaches",
+      "team": "BC Rytas",
+      "countries": [
+        "Lithuania"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Lithuania by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Sakalai coaches",
+      "team": "BC Sakalai",
+      "countries": [
+        "Lithuania"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Lithuania by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Samara coaches",
+      "team": "BC Samara",
+      "countries": [
+        "Russia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Russia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Spartak Saint Petersburg coaches",
+      "team": "BC Spartak Saint Petersburg",
+      "countries": [
+        "Russia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Russia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Tsmoki-Minsk coaches",
+      "team": "BC Tsmoki-Minsk",
+      "countries": [
+        "Belarus"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Belarus by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC UNICS coaches",
+      "team": "BC UNICS",
+      "countries": [
+        "Russia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Russia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Uralmash Yekaterinburg coaches",
+      "team": "BC Uralmash Yekaterinburg",
+      "countries": [
+        "Russia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Russia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Vienna coaches",
+      "team": "BC Vienna",
+      "countries": [
+        "Austria"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Austria by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Žalgiris coaches",
+      "team": "BC Žalgiris",
+      "countries": [
+        "Lithuania"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Lithuania by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BC Zenit Saint Petersburg coaches",
+      "team": "BC Zenit Saint Petersburg",
+      "countries": [
+        "Russia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Russia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BCM Gravelines-Dunkerque coaches",
+      "team": "BCM Gravelines-Dunkerque",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Belfius Mons-Hainaut coaches",
+      "team": "Belfius Mons-Hainaut",
+      "countries": [
+        "Belgium"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Belgium by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Beşiktaş basketball coaches",
+      "team": "Beşiktaş",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BG Göttingen coaches",
+      "team": "BG Göttingen",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BG Karlsruhe coaches",
+      "team": "BG Karlsruhe",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Bilbao Basket coaches",
+      "team": "Bilbao Basket",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BK VEF Rīga coaches",
+      "team": "BK VEF Rīga",
+      "countries": [
+        "Latvia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Latvia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BK Ventspils coaches",
+      "team": "BK Ventspils",
+      "countries": [
+        "Latvia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Latvia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BKK Radnički coaches",
+      "team": "BKK Radnički",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Botaş SK basketball coaches",
+      "team": "Botaş SK",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Breiðablik men's basketball coaches",
+      "team": "Breiðablik men's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Breiðablik women's basketball coaches",
+      "team": "Breiðablik women's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Brose Baskets coaches",
+      "team": "Brose Baskets",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Brussels Basketball coaches",
+      "team": "Brussels",
+      "countries": [
+        "Belgium"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Belgium by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BSC Saturn Köln coaches",
+      "team": "BSC Saturn Köln",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BSW (basketball) coaches",
+      "team": "BSW (basketball)",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Bursaspor Basketbol coaches",
+      "team": "Bursaspor Basketbol",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Büyükçekmece Basketbol coaches",
+      "team": "Büyükçekmece Basketbol",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:BV Den Helder coaches",
+      "team": "BV Den Helder",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Çağdaş Bodrumspor coaches",
+      "team": "Çağdaş Bodrumspor",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:CB 1939 Canarias coaches",
+      "team": "CB 1939 Canarias",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:CB Estudiantes coaches",
+      "team": "CB Estudiantes",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:CB Gran Canaria coaches",
+      "team": "CB Gran Canaria",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:CB San Pablo Burgos coaches",
+      "team": "CB San Pablo Burgos",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:CB Zaragoza coaches",
+      "team": "CB Zaragoza",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Charilaos Trikoupis B.C. coaches",
+      "team": "Charilaos Trikoupis B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Cholet Basket coaches",
+      "team": "Cholet Basket",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Crailsheim Merlins coaches",
+      "team": "Crailsheim Merlins",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:CSA Steaua București (basketball) coaches",
+      "team": "CSA Steaua București (basketball)",
+      "countries": [
+        "Romania"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Romania by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:CSO Voluntari (men's basketball) coaches",
+      "team": "CSO Voluntari (men's basketball)",
+      "countries": [
+        "Romania"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Romania by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Çukurova Basketbol coaches",
+      "team": "Çukurova Basketbol",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Czarni Słupsk coaches",
+      "team": "Czarni Słupsk",
+      "countries": [
+        "Poland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Poland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Dafni B.C. coaches",
+      "team": "Dafni B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Darüşşafaka Basketbol coaches",
+      "team": "Darüşşafaka Basketbol",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Den Helder Kings coaches",
+      "team": "Den Helder Kings",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Den Helder Suns coaches",
+      "team": "Den Helder Suns",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Dinamo Sassari coaches",
+      "team": "Dinamo Sassari",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Donar (basketball club) coaches",
+      "team": "Donar (basketball club)",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Doxa Lefkadas B.C. coaches",
+      "team": "Doxa Lefkadas B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Dutch Windmills coaches",
+      "team": "Dutch Windmills",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Eczacıbaşı S.K. (men's basketball) coaches",
+      "team": "Eczacıbaşı S.K. (men's basketball)",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Eisbären Bremerhaven coaches",
+      "team": "Eisbären Bremerhaven",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Élan Béarnais coaches",
+      "team": "Élan Béarnais",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Élan Chalon coaches",
+      "team": "Élan Chalon",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Elitzur Eito Ashkelon coaches",
+      "team": "Elitzur Eito Ashkelon",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Ergotelis B.C. coaches",
+      "team": "Ergotelis B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Esperos B.C. coaches",
+      "team": "Esperos B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:ESSM Le Portel coaches",
+      "team": "ESSM Le Portel",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Ethnikos Piraeus B.C. coaches",
+      "team": "Ethnikos Piraeus B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Étoile Charleville-Mézières coaches",
+      "team": "Étoile Charleville-Mézières",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Fabriano Basket coaches",
+      "team": "Fabriano Basket",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:FC Barcelona Bàsquet coaches",
+      "team": "FC Barcelona Bàsquet",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:FC Bayern Munich basketball coaches",
+      "team": "FC Bayern Munich",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:FC Mulhouse Basket coaches",
+      "team": "FC Mulhouse Basket",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:FC Porto basketball coaches",
+      "team": "FC Porto",
+      "countries": [
+        "Portugal"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Portugal by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Fenerbahçe basketball coaches",
+      "team": "Fenerbahçe",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Fenerbahçe S.K. (women's basketball) coaches",
+      "team": "Fenerbahçe S.K. (women's basketball)",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Feyenoord Basketball coaches",
+      "team": "Feyenoord",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Fortitudo Pallacanestro Bologna coaches",
+      "team": "Fortitudo Pallacanestro Bologna",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Galatasaray S.K. (men's basketball) coaches",
+      "team": "Galatasaray S.K. (men's basketball)",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Galatasaray S.K. (wheelchair basketball) coaches",
+      "team": "Galatasaray S.K. (wheelchair basketball)",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Galatasaray S.K. (women's basketball) coaches",
+      "team": "Galatasaray S.K. (women's basketball)",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Gaziantep Basketbol coaches",
+      "team": "Gaziantep Basketbol",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Giessen 46ers coaches",
+      "team": "Giessen 46ers",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Gijón Baloncesto coaches",
+      "team": "Gijón Baloncesto",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Górnik Wałbrzych (basketball) coaches",
+      "team": "Górnik Wałbrzych (basketball)",
+      "countries": [
+        "Poland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Poland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Grindavik basketball coaches",
+      "team": "Grindavik",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Grindavík men's basketball coaches",
+      "team": "Grindavík men's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Grindavík women's basketball coaches",
+      "team": "Grindavík women's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:GTK Gliwice coaches",
+      "team": "GTK Gliwice",
+      "countries": [
+        "Poland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Poland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Gymnastikos S. Larissas B.C. coaches",
+      "team": "Gymnastikos S. Larissas B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Hamar men's basketball coaches",
+      "team": "Hamar men's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Hamar women's basketball coaches",
+      "team": "Hamar women's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Hamburg Towers coaches",
+      "team": "Hamburg Towers",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:HANTH B.C. coaches",
+      "team": "HANTH B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Hapoel Eilat B.C. coaches",
+      "team": "Hapoel Eilat B.C.",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Hapoel Galil Elyon coaches",
+      "team": "Hapoel Galil Elyon",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Hapoel Gvat/Yagur B.C. coaches",
+      "team": "Hapoel Gvat/Yagur B.C.",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Hapoel Haifa B.C. coaches",
+      "team": "Hapoel Haifa B.C.",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Hapoel Holon B.C. coaches",
+      "team": "Hapoel Holon B.C.",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Hapoel Jerusalem B.C. coaches",
+      "team": "Hapoel Jerusalem B.C.",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Hapoel Ramat Gan Givatayim B.C. coaches",
+      "team": "Hapoel Ramat Gan Givatayim B.C.",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Hapoel Tel Aviv B.C. coaches",
+      "team": "Hapoel Tel Aviv B.C.",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Haukar men's basketball coaches",
+      "team": "Haukar men's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Haukar women's basketball coaches",
+      "team": "Haukar women's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Heroes Den Bosch coaches",
+      "team": "Heroes Den Bosch",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Holargos B.C. coaches",
+      "team": "Holargos B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Höttur (men's basketball) coaches",
+      "team": "Höttur (men's basketball)",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:ICBS B.C. coaches",
+      "team": "ICBS B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Ifaistos Limnou B.C. coaches",
+      "team": "Ifaistos Limnou B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Ikaros B.C. coaches",
+      "team": "Ikaros B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Ilysiakos B.C. coaches",
+      "team": "Ilysiakos B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Ionikos N.F. B.C. coaches",
+      "team": "Ionikos N.F. B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Ionikos Nikaias B.C. coaches",
+      "team": "Ionikos Nikaias B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:ÍR (men's basketball) coaches",
+      "team": "ÍR (men's basketball)",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:ÍR women's basketball coaches",
+      "team": "ÍR women's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Irakleio B.C. coaches",
+      "team": "Irakleio B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Iraklis Thessaloniki B.C. coaches",
+      "team": "Iraklis Thessaloniki B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Ironi Ashkelon coaches",
+      "team": "Ironi Ashkelon",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Ironi Nahariya coaches",
+      "team": "Ironi Nahariya",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:ÍS men's basketball coaches",
+      "team": "ÍS men's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:ÍS women's basketball coaches",
+      "team": "ÍS women's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:İstanbul Teknik Üniversitesi B.K. coaches",
+      "team": "İstanbul Teknik Üniversitesi B.K.",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:İstanbul Üniversitesi SK basketball coaches",
+      "team": "İstanbul Üniversitesi SK",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Itzehoe Eagles coaches",
+      "team": "Itzehoe Eagles",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Joventut Badalona coaches",
+      "team": "Joventut Badalona",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Juvecaserta Basket coaches",
+      "team": "Juvecaserta Basket",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Kamza Basket coaches",
+      "team": "Kamza Basket",
+      "countries": [
+        "Albania"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Albania by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Kangoeroes Basket Mechelen coaches",
+      "team": "Kangoeroes Basket Mechelen",
+      "countries": [
+        "Belgium"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Belgium by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KAOD B.C. coaches",
+      "team": "KAOD B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Karşıyaka basketball coaches",
+      "team": "Karşıyaka",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Kavala B.C. coaches",
+      "team": "Kavala B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KB Bashkimi coaches",
+      "team": "KB Bashkimi",
+      "countries": [
+        "Kosovo"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Kosovo by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KB Drita coaches",
+      "team": "KB Drita",
+      "countries": [
+        "Kosovo"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Kosovo by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KB Peja coaches",
+      "team": "KB Peja",
+      "countries": [
+        "Kosovo"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Kosovo by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KB Prishtina coaches",
+      "team": "KB Prishtina",
+      "countries": [
+        "Kosovo"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Kosovo by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KB Rahoveci coaches",
+      "team": "KB Rahoveci",
+      "countries": [
+        "Kosovo"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Kosovo by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KB Tirana coaches",
+      "team": "KB Tirana",
+      "countries": [
+        "Albania"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Albania by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KB Trepça coaches",
+      "team": "KB Trepça",
+      "countries": [
+        "Kosovo"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Kosovo by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KB Vllaznia coaches",
+      "team": "KB Vllaznia",
+      "countries": [
+        "Albania"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Albania by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KB Ylli coaches",
+      "team": "KB Ylli",
+      "countries": [
+        "Kosovo"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Kosovo by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Keflavík men's basketball coaches",
+      "team": "Keflavík men's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Keflavík women's basketball coaches",
+      "team": "Keflavík women's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Keravnos B.C. coaches",
+      "team": "Keravnos B.C.",
+      "countries": [
+        "Cyprus"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Cyprus by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK BASK coaches",
+      "team": "KK BASK",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Beobanka coaches",
+      "team": "KK Beobanka",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Beopetrol/Atlas Beograd coaches",
+      "team": "KK Beopetrol/Atlas Beograd",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Beovuk 72 coaches",
+      "team": "KK Beovuk 72",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK BFC coaches",
+      "team": "KK BFC",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Borac Čačak coaches",
+      "team": "KK Borac Čačak",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Borovica coaches",
+      "team": "KK Borovica",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Bosna Royal coaches",
+      "team": "KK Bosna Royal",
+      "countries": [
+        "Bosnia and Herzegovina"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Bosnia and Herzegovina by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Budućnost coaches",
+      "team": "KK Budućnost",
+      "countries": [
+        "Montenegro"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Montenegro by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Cedevita coaches",
+      "team": "KK Cedevita",
+      "countries": [
+        "Croatia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Croatia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Cedevita Olimpija coaches",
+      "team": "KK Cedevita Olimpija",
+      "countries": [
+        "Slovenia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Slovenia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Cibona coaches",
+      "team": "KK Cibona",
+      "countries": [
+        "Croatia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Croatia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Crnokosa coaches",
+      "team": "KK Crnokosa",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Crvena zvezda coaches",
+      "team": "KK Crvena zvezda",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Dinamo Pančevo coaches",
+      "team": "KK Dinamo Pančevo",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Dubrava coaches",
+      "team": "KK Dubrava",
+      "countries": [
+        "Croatia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Croatia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Dynamic coaches",
+      "team": "KK Dynamic",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Ergonom coaches",
+      "team": "KK Ergonom",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK FMP coaches",
+      "team": "KK FMP",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK FMP (1991–2011) coaches",
+      "team": "KK FMP (1991–2011)",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Gorica coaches",
+      "team": "KK Gorica",
+      "countries": [
+        "Croatia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Croatia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Igokea coaches",
+      "team": "KK Igokea",
+      "countries": [
+        "Bosnia and Herzegovina"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Bosnia and Herzegovina by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Jagodina coaches",
+      "team": "KK Jagodina",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Kansai Helios Domžale coaches",
+      "team": "KK Kansai Helios Domžale",
+      "countries": [
+        "Slovenia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Slovenia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Klik Arilje coaches",
+      "team": "KK Klik Arilje",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Kolubara coaches",
+      "team": "KK Kolubara",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Koper Primorska coaches",
+      "team": "KK Koper Primorska",
+      "countries": [
+        "Slovenia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Slovenia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Krka coaches",
+      "team": "KK Krka",
+      "countries": [
+        "Slovenia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Slovenia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Lavovi 063 coaches",
+      "team": "KK Lavovi 063",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Leotar coaches",
+      "team": "KK Leotar",
+      "countries": [
+        "Bosnia and Herzegovina"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Bosnia and Herzegovina by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Lifam coaches",
+      "team": "KK Lifam",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Lovćen 1947 coaches",
+      "team": "KK Lovćen 1947",
+      "countries": [
+        "Montenegro"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Montenegro by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Mašinac coaches",
+      "team": "KK Mašinac",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Mega Basket coaches",
+      "team": "KK Mega Basket",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Meridiana coaches",
+      "team": "KK Meridiana",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Metalac coaches",
+      "team": "KK Metalac",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Milicionar Beograd coaches",
+      "team": "KK Milicionar Beograd",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Mladost SP coaches",
+      "team": "KK Mladost SP",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Mladost Zemun coaches",
+      "team": "KK Mladost Zemun",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Mornar Bar coaches",
+      "team": "KK Mornar Bar",
+      "countries": [
+        "Montenegro"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Montenegro by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Napredak Aleksinac coaches",
+      "team": "KK Napredak Aleksinac",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Napredak Kruševac coaches",
+      "team": "KK Napredak Kruševac",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Novi Sad coaches",
+      "team": "KK Novi Sad",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Olimpija coaches",
+      "team": "KK Olimpija",
+      "countries": [
+        "Slovenia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Slovenia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Partizan coaches",
+      "team": "KK Partizan",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Pirot coaches",
+      "team": "KK Pirot",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Plana coaches",
+      "team": "KK Plana",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Podgorica coaches",
+      "team": "KK Podgorica",
+      "countries": [
+        "Montenegro"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Montenegro by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Profikolor coaches",
+      "team": "KK Profikolor",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Proleter Zrenjanin coaches",
+      "team": "KK Proleter Zrenjanin",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Radnički 1950 coaches",
+      "team": "KK Radnički 1950",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Radnički KG 06 coaches",
+      "team": "KK Radnički KG 06",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Radnički Kragujevac coaches",
+      "team": "KK Radnički Kragujevac",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Radnik Bijeljina coaches",
+      "team": "KK Radnik Bijeljina",
+      "countries": [
+        "Bosnia and Herzegovina"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Bosnia and Herzegovina by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Rtanj coaches",
+      "team": "KK Rtanj",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Šibenik coaches",
+      "team": "KK Šibenik",
+      "countries": [
+        "Croatia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Croatia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Sloboda Užice coaches",
+      "team": "KK Sloboda Užice",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Sloga coaches",
+      "team": "KK Sloga",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Smederevo coaches",
+      "team": "KK Smederevo",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Spartak Subotica coaches",
+      "team": "KK Spartak Subotica",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Split coaches",
+      "team": "KK Split",
+      "countries": [
+        "Croatia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Croatia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Srem coaches",
+      "team": "KK Srem",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Studentski centar coaches",
+      "team": "KK Studentski centar",
+      "countries": [
+        "Montenegro"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Montenegro by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Superfund coaches",
+      "team": "KK Superfund",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Sutjeska coaches",
+      "team": "KK Sutjeska",
+      "countries": [
+        "Montenegro"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Montenegro by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Tamiš coaches",
+      "team": "KK Tamiš",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Teodo Tivat coaches",
+      "team": "KK Teodo Tivat",
+      "countries": [
+        "Montenegro"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Montenegro by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Vizura coaches",
+      "team": "KK Vizura",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Vojvodina coaches",
+      "team": "KK Vojvodina",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Vojvodina Srbijagas coaches",
+      "team": "KK Vojvodina Srbijagas",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Vrijednosnice Osijek coaches",
+      "team": "KK Vrijednosnice Osijek",
+      "countries": [
+        "Croatia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Croatia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Vršac coaches",
+      "team": "KK Vršac",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Włocławek coaches",
+      "team": "KK Włocławek",
+      "countries": [
+        "Poland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Poland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Zadar coaches",
+      "team": "KK Zadar",
+      "countries": [
+        "Croatia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Croatia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Žarkovo coaches",
+      "team": "KK Žarkovo",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Zdravlje coaches",
+      "team": "KK Zdravlje",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Železničar Beograd coaches",
+      "team": "KK Železničar Beograd",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Železničar Čačak coaches",
+      "team": "KK Železničar Čačak",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Železničar Inđija coaches",
+      "team": "KK Železničar Inđija",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Zemun coaches",
+      "team": "KK Zemun",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KK Zlatibor coaches",
+      "team": "KK Zlatibor",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Kolossos Rodou B.C. coaches",
+      "team": "Kolossos Rodou B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Koroivos B.C. coaches",
+      "team": "Koroivos B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Kortrijk Spurs coaches",
+      "team": "Kortrijk Spurs",
+      "countries": [
+        "Belgium"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Belgium by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KR (men's basketball) coaches",
+      "team": "KR (men's basketball)",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:KR women's basketball coaches",
+      "team": "KR women's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Kymis B.C. coaches",
+      "team": "Kymis B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Landstede Hammers coaches",
+      "team": "Landstede Hammers",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Larisa B.C. coaches",
+      "team": "Larisa B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Lavrio B.C. coaches",
+      "team": "Lavrio B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Le Mans Sarthe Basket coaches",
+      "team": "Le Mans Sarthe Basket",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Lech Poznań (basketball) coaches",
+      "team": "Lech Poznań (basketball)",
+      "countries": [
+        "Poland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Poland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Leuven Bears coaches",
+      "team": "Leuven Bears",
+      "countries": [
+        "Belgium"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Belgium by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Levallois Metropolitans coaches",
+      "team": "Levallois Metropolitans",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Libertas Liburnia Basket Livorno coaches",
+      "team": "Libertas Liburnia Basket Livorno",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Liège Basket coaches",
+      "team": "Liège Basket",
+      "countries": [
+        "Belgium"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Belgium by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Limburg United coaches",
+      "team": "Limburg United",
+      "countries": [
+        "Belgium"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Belgium by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Limoges CSP coaches",
+      "team": "Limoges CSP",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Livadeia B.C. coaches",
+      "team": "Livadeia B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:M.E.N.T. B.C. coaches",
+      "team": "M.E.N.T. B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Maccabi Ashdod B.C. coaches",
+      "team": "Maccabi Ashdod B.C.",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Maccabi Haifa B.C. coaches",
+      "team": "Maccabi Haifa B.C.",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Maccabi Ironi Ramat Gan coaches",
+      "team": "Maccabi Ironi Ramat Gan",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Maccabi Kiryat Motzkin B.C. coaches",
+      "team": "Maccabi Kiryat Motzkin B.C.",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Maccabi Tel Aviv B.C. coaches",
+      "team": "Maccabi Tel Aviv B.C.",
+      "countries": [
+        "Israel"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Israel by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Makedonikos B.C. coaches",
+      "team": "Makedonikos B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Manisa Basket coaches",
+      "team": "Manisa Basket",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Maroussi B.C. coaches",
+      "team": "Maroussi B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Matrixx Magixx coaches",
+      "team": "Matrixx Magixx",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Medi Bayreuth coaches",
+      "team": "Medi Bayreuth",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Menorca Bàsquet coaches",
+      "team": "Menorca Bàsquet",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Mens Sana Basket coaches",
+      "team": "Mens Sana Basket",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Milon B.C. coaches",
+      "team": "Milon B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Mitteldeutscher BC coaches",
+      "team": "Mitteldeutscher BC",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Montecatiniterme Basketball coaches",
+      "team": "Montecatiniterme",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Montpellier Paillade Basket coaches",
+      "team": "Montpellier Paillade Basket",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Nanterre 92 coaches",
+      "team": "Nanterre 92",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Nea Kifissia B.C. coaches",
+      "team": "Nea Kifissia B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:New Basket Brindisi coaches",
+      "team": "New Basket Brindisi",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Niners Chemnitz coaches",
+      "team": "Niners Chemnitz",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Njarðvík men's basketball coaches",
+      "team": "Njarðvík men's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Njarðvík women's basketball coaches",
+      "team": "Njarðvík women's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Nuova Pallacanestro Gorizia coaches",
+      "team": "Nuova Pallacanestro Gorizia",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Oberwart Gunners coaches",
+      "team": "Oberwart Gunners",
+      "countries": [
+        "Austria"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Austria by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:OFI Crete B.C. coaches",
+      "team": "OFI Crete B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:OGM Ormanspor basketball coaches",
+      "team": "OGM Ormanspor",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Okapi Aalst coaches",
+      "team": "Okapi Aalst",
+      "countries": [
+        "Belgium"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Belgium by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:OKK Beograd coaches",
+      "team": "OKK Beograd",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:OKK Borac coaches",
+      "team": "OKK Borac",
+      "countries": [
+        "Bosnia and Herzegovina"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Bosnia and Herzegovina by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:OKK Dunav coaches",
+      "team": "OKK Dunav",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:OKK Kikinda coaches",
+      "team": "OKK Kikinda",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:OKK Konstantin coaches",
+      "team": "OKK Konstantin",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:OKK Novi Pazar coaches",
+      "team": "OKK Novi Pazar",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:OKK Šabac coaches",
+      "team": "OKK Šabac",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:OKK Sloboda Tuzla coaches",
+      "team": "OKK Sloboda Tuzla",
+      "countries": [
+        "Bosnia and Herzegovina"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Bosnia and Herzegovina by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:OKK Spars coaches",
+      "team": "OKK Spars",
+      "countries": [
+        "Bosnia and Herzegovina"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Bosnia and Herzegovina by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Olimpia Milano coaches",
+      "team": "Olimpia Milano",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Olympia Larissa B.C. coaches",
+      "team": "Olympia Larissa B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Olympiacos B.C. coaches",
+      "team": "Olympiacos B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Olympiacos B.C. B coaches",
+      "team": "Olympiacos B.C. B",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Olympiacos women's basketball coaches",
+      "team": "Olympiacos women's",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Olympias Patras B.C. coaches",
+      "team": "Olympias Patras B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Olympique Antibes coaches",
+      "team": "Olympique Antibes",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Orlandina Basket coaches",
+      "team": "Orlandina Basket",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:P.A.O.K. BC coaches",
+      "team": "P.A.O.K. BC",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Paderborn Baskets coaches",
+      "team": "Paderborn Baskets",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Pagrati B.C. coaches",
+      "team": "Pagrati B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Pallacanestro Biella coaches",
+      "team": "Pallacanestro Biella",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Pallacanestro Cantù coaches",
+      "team": "Pallacanestro Cantù",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Pallacanestro Petrarca Padova coaches",
+      "team": "Pallacanestro Petrarca Padova",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Pallacanestro Reggiana coaches",
+      "team": "Pallacanestro Reggiana",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Pallacanestro Trapani coaches",
+      "team": "Pallacanestro Trapani",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Pallacanestro Treviso coaches",
+      "team": "Pallacanestro Treviso",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Pallacanestro Trieste coaches",
+      "team": "Pallacanestro Trieste",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Pallacanestro Varese coaches",
+      "team": "Pallacanestro Varese",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Pallacanestro Virtus Roma coaches",
+      "team": "Pallacanestro Virtus Roma",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Pallalcesto Amatori Udine coaches",
+      "team": "Pallalcesto Amatori Udine",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Panathinaikos B.C. coaches",
+      "team": "Panathinaikos B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Panathinaikos women's basketball coaches",
+      "team": "Panathinaikos women's",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Panelefsiniakos B.C. coaches",
+      "team": "Panelefsiniakos B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Panellinios B.C. coaches",
+      "team": "Panellinios B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Panionios B.C. coaches",
+      "team": "Panionios B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Papagou B.C. coaches",
+      "team": "Papagou B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Paris Basketball coaches",
+      "team": "Paris",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Paris Racing Basket coaches",
+      "team": "Paris Racing Basket",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Partenope Napoli Basket coaches",
+      "team": "Partenope Napoli Basket",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:PBC CSKA Moscow coaches",
+      "team": "PBC CSKA Moscow",
+      "countries": [
+        "Russia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Russia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:PBC Lokomotiv-Kuban coaches",
+      "team": "PBC Lokomotiv-Kuban",
+      "countries": [
+        "Russia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Russia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:PBC Ural Great coaches",
+      "team": "PBC Ural Great",
+      "countries": [
+        "Russia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Russia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:PBG Basket Poznań coaches",
+      "team": "PBG Basket Poznań",
+      "countries": [
+        "Poland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Poland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Peiraikos Syndesmos B.C. coaches",
+      "team": "Peiraikos Syndesmos B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Peramatos Ermis B.C. coaches",
+      "team": "Peramatos Ermis B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Peristeri B.C. coaches",
+      "team": "Peristeri B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Petkim Spor coaches",
+      "team": "Petkim Spor",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Philippos Thessaloniki B.C. coaches",
+      "team": "Philippos Thessaloniki B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Polpak Świecie coaches",
+      "team": "Polpak Świecie",
+      "countries": [
+        "Poland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Poland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Promitheas Patras B.C. coaches",
+      "team": "Promitheas Patras B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Ratiopharm Ulm coaches",
+      "team": "Ratiopharm Ulm",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:RBC Pepinster coaches",
+      "team": "RBC Pepinster",
+      "countries": [
+        "Belgium"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Belgium by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Real Betis Baloncesto coaches",
+      "team": "Real Betis Baloncesto",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Real Madrid basketball coaches",
+      "team": "Real Madrid",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Real Madrid Baloncesto B coaches",
+      "team": "Real Madrid Baloncesto B",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Rethymno B.C. coaches",
+      "team": "Rethymno B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Reyer Venezia coaches",
+      "team": "Reyer Venezia",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:RheinStars Köln coaches",
+      "team": "RheinStars Köln",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Riesen Ludwigsburg coaches",
+      "team": "Riesen Ludwigsburg",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:S.L. Benfica basketball coaches",
+      "team": "S.L. Benfica",
+      "countries": [
+        "Portugal"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Portugal by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:S.S. Basket Napoli coaches",
+      "team": "S.S. Basket Napoli",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Saski Baskonia coaches",
+      "team": "Saski Baskonia",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:SAV Vacallo Basket coaches",
+      "team": "SAV Vacallo Basket",
+      "countries": [
+        "Switzerland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Switzerland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:SC Rasta Vechta coaches",
+      "team": "SC Rasta Vechta",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:SC Rist Wedel coaches",
+      "team": "SC Rist Wedel",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Scaligera Basket Verona coaches",
+      "team": "Scaligera Basket Verona",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Science City Jena coaches",
+      "team": "Science City Jena",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:SIG Basket coaches",
+      "team": "SIG Basket",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Sindri men's basketball coaches",
+      "team": "Sindri men's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Skallagrímur men's basketball coaches",
+      "team": "Skallagrímur men's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Skallagrímur women's basketball coaches",
+      "team": "Skallagrímur women's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:SKK Borac 1947 coaches",
+      "team": "SKK Borac 1947",
+      "countries": [
+        "Bosnia and Herzegovina"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Bosnia and Herzegovina by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Skyliners Frankfurt coaches",
+      "team": "Skyliners Frankfurt",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Śląsk Wrocław basketball coaches",
+      "team": "Śląsk Wrocław",
+      "countries": [
+        "Poland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Poland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:SLUC Nancy Basket coaches",
+      "team": "SLUC Nancy Basket",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Snæfell basketball coaches",
+      "team": "Snæfell",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Snæfell (women's basketball) coaches",
+      "team": "Snæfell (women's basketball)",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Solna Vikings coaches",
+      "team": "Solna Vikings",
+      "countries": [
+        "Sweden"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Sweden by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Spirou Charleroi coaches",
+      "team": "Spirou Charleroi",
+      "countries": [
+        "Belgium"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Belgium by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Sporting B.C. coaches",
+      "team": "Sporting B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Stade Auto Lyon coaches",
+      "team": "Stade Auto Lyon",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Stade Français basketball coaches",
+      "team": "Stade Français",
+      "countries": [
+        "France"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in France by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Stal Ostrów Wielkopolski coaches",
+      "team": "Stal Ostrów Wielkopolski",
+      "countries": [
+        "Poland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Poland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Standard BC Liège coaches",
+      "team": "Standard BC Liège",
+      "countries": [
+        "Belgium"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Belgium by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Start Lublin basketball coaches",
+      "team": "Start Lublin",
+      "countries": [
+        "Poland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Poland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Stjarnan (men's basketball) coaches",
+      "team": "Stjarnan (men's basketball)",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Stjarnan women's basketball coaches",
+      "team": "Stjarnan women's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Swans Gmunden coaches",
+      "team": "Swans Gmunden",
+      "countries": [
+        "Austria"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Austria by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Tapiolan Honka coaches",
+      "team": "Tapiolan Honka",
+      "countries": [
+        "Finland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Finland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Telekom Baskets Bonn coaches",
+      "team": "Telekom Baskets Bonn",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Tigers Tübingen coaches",
+      "team": "Tigers Tübingen",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Tofaş S.K. coaches",
+      "team": "Tofaş S.K.",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Trabzonspor B.K. coaches",
+      "team": "Trabzonspor B.K.",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Trefl Sopot coaches",
+      "team": "Trefl Sopot",
+      "countries": [
+        "Poland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Poland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Trikala B.C. coaches",
+      "team": "Trikala B.C.",
+      "countries": [
+        "Greece"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Greece by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Türk Telekom basketball coaches",
+      "team": "Türk Telekom",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Twarde Pierniki Toruń coaches",
+      "team": "Twarde Pierniki Toruń",
+      "countries": [
+        "Poland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Poland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:U-BT Cluj-Napoca coaches",
+      "team": "U-BT Cluj-Napoca",
+      "countries": [
+        "Romania"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Romania by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:UBC Güssing Knights coaches",
+      "team": "UBC Güssing Knights",
+      "countries": [
+        "Austria"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Austria by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Ülkerspor basketball coaches",
+      "team": "Ülkerspor",
+      "countries": [
+        "Turkey"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Turkey by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Ungmennafélagið Tindastóll men's basketball coaches",
+      "team": "Ungmennafélagið Tindastóll men's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:United Basketball coaches",
+      "team": "United",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:USC Heidelberg coaches",
+      "team": "USC Heidelberg",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Valencia Basket coaches",
+      "team": "Valencia Basket",
+      "countries": [
+        "Spain"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Spain by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Valur men's basketball coaches",
+      "team": "Valur men's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Valur women's basketball coaches",
+      "team": "Valur women's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Vanoli Basket coaches",
+      "team": "Vanoli Basket",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Veroli Basket coaches",
+      "team": "Veroli Basket",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Vestri men's basketball coaches",
+      "team": "Vestri men's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Vestri women's basketball coaches",
+      "team": "Vestri women's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Vevey Riviera Basket coaches",
+      "team": "Vevey Riviera Basket",
+      "countries": [
+        "Switzerland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Switzerland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:VfL Kirchheim Knights coaches",
+      "team": "VfL Kirchheim Knights",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Victoria Libertas Pallacanestro coaches",
+      "team": "Victoria Libertas Pallacanestro",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Virtus Bologna coaches",
+      "team": "Virtus Bologna",
+      "countries": [
+        "Italy"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Italy by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:West-Brabant Giants coaches",
+      "team": "West-Brabant Giants",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Würzburg Baskets coaches",
+      "team": "Würzburg Baskets",
+      "countries": [
+        "Germany"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Germany by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Žarko Koprivica coaches",
+      "team": "Žarko Koprivica",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:ŽKK Crvena zvezda coaches",
+      "team": "ŽKK Crvena zvezda",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:ŽKK Partizan coaches",
+      "team": "ŽKK Partizan",
+      "countries": [
+        "Serbia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Serbia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:ŽKK Šibenik coaches",
+      "team": "ŽKK Šibenik",
+      "countries": [
+        "Croatia"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Croatia by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:ZZ Leiden coaches",
+      "team": "ZZ Leiden",
+      "countries": [
+        "Netherlands"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in the Netherlands by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Þór Akureyri (men's basketball) coaches",
+      "team": "Þór Akureyri (men's basketball)",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Þór Akureyri women's basketball coaches",
+      "team": "Þór Akureyri women's",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    },
+    {
+      "categoryTitle": "Category:Þór Þorlákshöfn (basketball) coaches",
+      "team": "Þór Þorlákshöfn (basketball)",
+      "countries": [
+        "Iceland"
+      ],
+      "rootCategories": [
+        "Category:Basketball coaches in Iceland by team"
+      ]
+    }
+  ],
+  "failures": [],
+  "coachCount": 1001,
+  "alphabetFiles": [
+    {
+      "bucket": "A",
+      "coachCount": 44,
+      "jsonFile": "coaches-json/european-coaches-A.json"
+    },
+    {
+      "bucket": "B",
+      "coachCount": 79,
+      "jsonFile": "coaches-json/european-coaches-B.json"
+    },
+    {
+      "bucket": "C",
+      "coachCount": 36,
+      "jsonFile": "coaches-json/european-coaches-C.json"
+    },
+    {
+      "bucket": "D",
+      "coachCount": 42,
+      "jsonFile": "coaches-json/european-coaches-D.json"
+    },
+    {
+      "bucket": "E",
+      "coachCount": 16,
+      "jsonFile": "coaches-json/european-coaches-E.json"
+    },
+    {
+      "bucket": "F",
+      "coachCount": 23,
+      "jsonFile": "coaches-json/european-coaches-F.json"
+    },
+    {
+      "bucket": "G",
+      "coachCount": 61,
+      "jsonFile": "coaches-json/european-coaches-G.json"
+    },
+    {
+      "bucket": "H",
+      "coachCount": 30,
+      "jsonFile": "coaches-json/european-coaches-H.json"
+    },
+    {
+      "bucket": "I",
+      "coachCount": 22,
+      "jsonFile": "coaches-json/european-coaches-I.json"
+    },
+    {
+      "bucket": "J",
+      "coachCount": 32,
+      "jsonFile": "coaches-json/european-coaches-J.json"
+    },
+    {
+      "bucket": "K",
+      "coachCount": 83,
+      "jsonFile": "coaches-json/european-coaches-K.json"
+    },
+    {
+      "bucket": "L",
+      "coachCount": 39,
+      "jsonFile": "coaches-json/european-coaches-L.json"
+    },
+    {
+      "bucket": "M",
+      "coachCount": 92,
+      "jsonFile": "coaches-json/european-coaches-M.json"
+    },
+    {
+      "bucket": "N",
+      "coachCount": 24,
+      "jsonFile": "coaches-json/european-coaches-N.json"
+    },
+    {
+      "bucket": "O",
+      "coachCount": 30,
+      "jsonFile": "coaches-json/european-coaches-O.json"
+    },
+    {
+      "bucket": "P",
+      "coachCount": 78,
+      "jsonFile": "coaches-json/european-coaches-P.json"
+    },
+    {
+      "bucket": "Q",
+      "coachCount": 0,
+      "jsonFile": "coaches-json/european-coaches-Q.json"
+    },
+    {
+      "bucket": "R",
+      "coachCount": 51,
+      "jsonFile": "coaches-json/european-coaches-R.json"
+    },
+    {
+      "bucket": "S",
+      "coachCount": 113,
+      "jsonFile": "coaches-json/european-coaches-S.json"
+    },
+    {
+      "bucket": "T",
+      "coachCount": 27,
+      "jsonFile": "coaches-json/european-coaches-T.json"
+    },
+    {
+      "bucket": "U",
+      "coachCount": 8,
+      "jsonFile": "coaches-json/european-coaches-U.json"
+    },
+    {
+      "bucket": "V",
+      "coachCount": 42,
+      "jsonFile": "coaches-json/european-coaches-V.json"
+    },
+    {
+      "bucket": "W",
+      "coachCount": 6,
+      "jsonFile": "coaches-json/european-coaches-W.json"
+    },
+    {
+      "bucket": "X",
+      "coachCount": 0,
+      "jsonFile": "coaches-json/european-coaches-X.json"
+    },
+    {
+      "bucket": "Y",
+      "coachCount": 6,
+      "jsonFile": "coaches-json/european-coaches-Y.json"
+    },
+    {
+      "bucket": "Z",
+      "coachCount": 17,
+      "jsonFile": "coaches-json/european-coaches-Z.json"
+    },
+    {
+      "bucket": "0-9-OTHER",
+      "coachCount": 0,
+      "jsonFile": "coaches-json/european-coaches-0-9-OTHER.json"
+    }
+  ]
+}
