@@ -1,0 +1,4183 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Kosovo",
+  "coverage": {
+    "mode": "dedicated_country_list_plus_other_sources",
+    "hasDedicatedBlueLinkedArenaList": true,
+    "dedicatedListPages": "List of indoor arenas in Kosovo",
+    "worldMasterFallbackArenaCount": 2
+  },
+  "stats": {
+    "arenaCount": 4,
+    "sourceRowCount": 6,
+    "mediaRecordCount": 24,
+    "sourceTypeCounts": {
+      "country_or_region_list": 4,
+      "world_master_list": 2
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    },
+    {
+      "title": "List of indoor arenas in Kosovo",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Kosovo",
+      "revisionId": null,
+      "sections": [
+        "Current arenas",
+        "Under construction/proposed",
+        "See also"
+      ],
+      "candidateRowCount": 4
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-77945466",
+      "pageId": 77945466,
+      "revisionId": null,
+      "title": "Hakif Zejnullahu",
+      "displayTitle": "Hakif Zejnullahu",
+      "url": "https://en.wikipedia.org/wiki/Hakif_Zejnullahu",
+      "wikidataItem": "Q13039722",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q13039722",
+      "aliases": [
+        "Hakif Zejnullahu"
+      ],
+      "requestedTitles": [
+        "Hakif Zejnullahu"
+      ],
+      "sourceLinkTexts": [
+        "Hakif Zejnullahu"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Hakif_Zejnullahu"
+      ],
+      "sourcePages": [
+        "List of indoor arenas in Kosovo"
+      ],
+      "sourceTypes": [
+        "country_or_region_list"
+      ],
+      "sourceCountries": [
+        "Kosovo"
+      ],
+      "coordinates": null,
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "",
+        "groups": [],
+        "fields": [
+          {
+            "label": "Born",
+            "key": "born",
+            "group": null,
+            "text": "(1962-06-22)22 June 1962\nLladoc, Podujevë, SFR Yugoslavia\n(today Kosovo)",
+            "lines": [
+              "(1962-06-22)22 June 1962",
+              "Lladoc, Podujevë, SFR Yugoslavia",
+              "(today Kosovo)"
+            ],
+            "html": "<td class=\"infobox-data\"><span>(<span class=\"bday\">1962-06-22</span>)</span>22 June 1962<br><div class=\"birthplace\">Lladoc, <a href=\"https://en.wikipedia.org/wiki/Podujevo\" class=\"mw-redirect\" title=\"Podujevo\">Podujevë</a>, <a href=\"https://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia\" title=\"Socialist Federal Republic of Yugoslavia\">SFR Yugoslavia</a><br>(today <a href=\"https://en.wikipedia.org/wiki/Kosovo\" title=\"Kosovo\">Kosovo</a>)</div><span data-plural=\"1\"></span></td>",
+            "links": [
+              {
+                "text": "Podujevë",
+                "title": "Podujevo",
+                "wikiTitle": "Podujevo",
+                "href": "https://en.wikipedia.org/wiki/Podujevo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "SFR Yugoslavia",
+                "title": "Socialist Federal Republic of Yugoslavia",
+                "wikiTitle": "Socialist Federal Republic of Yugoslavia",
+                "href": "https://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Kosovo",
+                "title": "Kosovo",
+                "wikiTitle": "Kosovo",
+                "href": "https://en.wikipedia.org/wiki/Kosovo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Died",
+            "key": "died",
+            "group": null,
+            "text": "31 January 1997(1997-01-31) (aged 34)\nPestovë, Vushtrri, FR Yugoslavia\n(today Kosovo)",
+            "lines": [
+              "31 January 1997(1997-01-31) (aged 34)",
+              "Pestovë, Vushtrri, FR Yugoslavia",
+              "(today Kosovo)"
+            ],
+            "html": "<td class=\"infobox-data\">31 January 1997<span>(1997-01-31)</span> (aged&nbsp;34)<br><div class=\"deathplace\"><a href=\"https://en.wikipedia.org/wiki/Pestov%C3%AB\" title=\"Pestovë\">Pestovë</a>, <a href=\"https://en.wikipedia.org/wiki/Vushtrri\" title=\"Vushtrri\">Vushtrri</a>, <a href=\"https://en.wikipedia.org/wiki/FR_Yugoslavia\" class=\"mw-redirect\" title=\"FR Yugoslavia\">FR Yugoslavia</a><br>(today <a href=\"https://en.wikipedia.org/wiki/Kosovo\" title=\"Kosovo\">Kosovo</a>)</div><span data-plural=\"1\"></span></td>",
+            "links": [
+              {
+                "text": "Pestovë",
+                "title": "Pestovë",
+                "wikiTitle": "Pestovë",
+                "href": "https://en.wikipedia.org/wiki/Pestov%C3%AB",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Vushtrri",
+                "title": "Vushtrri",
+                "wikiTitle": "Vushtrri",
+                "href": "https://en.wikipedia.org/wiki/Vushtrri",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "FR Yugoslavia",
+                "title": "FR Yugoslavia",
+                "wikiTitle": "FR Yugoslavia",
+                "href": "https://en.wikipedia.org/wiki/FR_Yugoslavia",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Kosovo",
+                "title": "Kosovo",
+                "wikiTitle": "Kosovo",
+                "href": "https://en.wikipedia.org/wiki/Kosovo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Allegiance",
+            "key": "allegiance",
+            "group": null,
+            "text": "Kosova",
+            "lines": [
+              "Kosova"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"flagicon nowrap\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Kosova_%281991%E2%80%931999%29.svg/40px-Flag_of_Kosova_%281991%E2%80%931999%29.svg.png\" width=\"23\" height=\"12\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Kosova_%281991%E2%80%931999%29.svg/60px-Flag_of_Kosova_%281991%E2%80%931999%29.svg.png 2x\" data-file-width=\"1000\" data-file-height=\"500\"></span></span> </span><a href=\"https://en.wikipedia.org/wiki/Republic_of_Kosova\" title=\"Republic of Kosova\">Kosova</a></td>",
+            "links": [
+              {
+                "text": "Kosova",
+                "title": "Republic of Kosova",
+                "wikiTitle": "Republic of Kosova",
+                "href": "https://en.wikipedia.org/wiki/Republic_of_Kosova",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [
+              {
+                "fileTitle": null,
+                "fileName": null,
+                "kind": "photo",
+                "filePageUrl": null,
+                "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Kosova_%281991%E2%80%931999%29.svg/40px-Flag_of_Kosova_%281991%E2%80%931999%29.svg.png",
+                "originalRedirectUrl": null,
+                "enwikiOriginalRedirectUrl": null,
+                "srcset": [
+                  {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Kosova_%281991%E2%80%931999%29.svg/60px-Flag_of_Kosova_%281991%E2%80%931999%29.svg.png",
+                    "descriptor": "2x"
+                  }
+                ],
+                "width": 23,
+                "height": 12,
+                "originalWidth": 1000,
+                "originalHeight": 500,
+                "fileType": null,
+                "alt": null,
+                "title": null,
+                "caption": null
+              }
+            ],
+            "references": []
+          },
+          {
+            "label": "Branch",
+            "key": "branch",
+            "group": null,
+            "text": "Kosovo Liberation Army",
+            "lines": [
+              "Kosovo Liberation Army"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"flagicon\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_the_Kosovo_Liberation_Army.svg/40px-Flag_of_the_Kosovo_Liberation_Army.svg.png\" width=\"23\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_the_Kosovo_Liberation_Army.svg/60px-Flag_of_the_Kosovo_Liberation_Army.svg.png 2x\" data-file-width=\"250\" data-file-height=\"167\"></span></span>&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Kosovo_Liberation_Army\" title=\"Kosovo Liberation Army\">Kosovo Liberation Army</a></td>",
+            "links": [
+              {
+                "text": "Kosovo Liberation Army",
+                "title": "Kosovo Liberation Army",
+                "wikiTitle": "Kosovo Liberation Army",
+                "href": "https://en.wikipedia.org/wiki/Kosovo_Liberation_Army",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [
+              {
+                "fileTitle": null,
+                "fileName": null,
+                "kind": "photo",
+                "filePageUrl": null,
+                "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_the_Kosovo_Liberation_Army.svg/40px-Flag_of_the_Kosovo_Liberation_Army.svg.png",
+                "originalRedirectUrl": null,
+                "enwikiOriginalRedirectUrl": null,
+                "srcset": [
+                  {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_the_Kosovo_Liberation_Army.svg/60px-Flag_of_the_Kosovo_Liberation_Army.svg.png",
+                    "descriptor": "2x"
+                  }
+                ],
+                "width": 23,
+                "height": 15,
+                "originalWidth": 250,
+                "originalHeight": 167,
+                "fileType": null,
+                "alt": null,
+                "title": null,
+                "caption": null
+              }
+            ],
+            "references": []
+          },
+          {
+            "label": "Service years",
+            "key": "service_years",
+            "group": null,
+            "text": "1995–1997",
+            "lines": [
+              "1995–1997"
+            ],
+            "html": "<td class=\"infobox-data\">1995–1997</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Rank",
+            "key": "rank",
+            "group": null,
+            "text": "Commander",
+            "lines": [
+              "Commander"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Commander\" title=\"Commander\">Commander</a></td>",
+            "links": [
+              {
+                "text": "Commander",
+                "title": "Commander",
+                "wikiTitle": "Commander",
+                "href": "https://en.wikipedia.org/wiki/Commander",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Conflicts",
+            "key": "conflicts",
+            "group": null,
+            "text": "Insurgency in Kosovo (1995–98)\nPestovë Ambush †",
+            "lines": [
+              "Insurgency in Kosovo (1995–98)",
+              "Pestovë Ambush †"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Insurgency_in_Kosovo_(1995%E2%80%9398)\" class=\"mw-redirect\" title=\"Insurgency in Kosovo (1995–98)\">Insurgency in Kosovo (1995–98)</a>\n<ul><li><a href=\"https://en.wikipedia.org/wiki/Pestov%C3%AB_Ambush\" class=\"mw-redirect\" title=\"Pestovë Ambush\">Pestovë Ambush</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Killed_in_action\" title=\"Killed in action\"><span><b>†</b></span></a></li></ul>\n</td>",
+            "links": [
+              {
+                "text": "Insurgency in Kosovo (1995–98)",
+                "title": "Insurgency in Kosovo (1995–98)",
+                "wikiTitle": "Insurgency in Kosovo (1995–98)",
+                "href": "https://en.wikipedia.org/wiki/Insurgency_in_Kosovo_(1995%E2%80%9398)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Pestovë Ambush",
+                "title": "Pestovë Ambush",
+                "wikiTitle": "Pestovë Ambush",
+                "href": "https://en.wikipedia.org/wiki/Pestov%C3%AB_Ambush",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "†",
+                "title": "Killed in action",
+                "wikiTitle": "Killed in action",
+                "href": "https://en.wikipedia.org/wiki/Killed_in_action",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Awards",
+            "key": "awards",
+            "group": null,
+            "text": "Hero of Kosovo (posthumously)",
+            "lines": [
+              "Hero of Kosovo (posthumously)"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Hero_of_Kosovo\" class=\"mw-redirect\" title=\"Hero of Kosovo\">Hero of Kosovo</a> (posthumously)</td>",
+            "links": [
+              {
+                "text": "Hero of Kosovo",
+                "title": "Hero of Kosovo",
+                "wikiTitle": "Hero of Kosovo",
+                "href": "https://en.wikipedia.org/wiki/Hero_of_Kosovo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "born": [
+            {
+              "label": "Born",
+              "key": "born",
+              "group": null,
+              "text": "(1962-06-22)22 June 1962\nLladoc, Podujevë, SFR Yugoslavia\n(today Kosovo)",
+              "lines": [
+                "(1962-06-22)22 June 1962",
+                "Lladoc, Podujevë, SFR Yugoslavia",
+                "(today Kosovo)"
+              ],
+              "html": "<td class=\"infobox-data\"><span>(<span class=\"bday\">1962-06-22</span>)</span>22 June 1962<br><div class=\"birthplace\">Lladoc, <a href=\"https://en.wikipedia.org/wiki/Podujevo\" class=\"mw-redirect\" title=\"Podujevo\">Podujevë</a>, <a href=\"https://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia\" title=\"Socialist Federal Republic of Yugoslavia\">SFR Yugoslavia</a><br>(today <a href=\"https://en.wikipedia.org/wiki/Kosovo\" title=\"Kosovo\">Kosovo</a>)</div><span data-plural=\"1\"></span></td>",
+              "links": [
+                {
+                  "text": "Podujevë",
+                  "title": "Podujevo",
+                  "wikiTitle": "Podujevo",
+                  "href": "https://en.wikipedia.org/wiki/Podujevo",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "SFR Yugoslavia",
+                  "title": "Socialist Federal Republic of Yugoslavia",
+                  "wikiTitle": "Socialist Federal Republic of Yugoslavia",
+                  "href": "https://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Kosovo",
+                  "title": "Kosovo",
+                  "wikiTitle": "Kosovo",
+                  "href": "https://en.wikipedia.org/wiki/Kosovo",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "died": [
+            {
+              "label": "Died",
+              "key": "died",
+              "group": null,
+              "text": "31 January 1997(1997-01-31) (aged 34)\nPestovë, Vushtrri, FR Yugoslavia\n(today Kosovo)",
+              "lines": [
+                "31 January 1997(1997-01-31) (aged 34)",
+                "Pestovë, Vushtrri, FR Yugoslavia",
+                "(today Kosovo)"
+              ],
+              "html": "<td class=\"infobox-data\">31 January 1997<span>(1997-01-31)</span> (aged&nbsp;34)<br><div class=\"deathplace\"><a href=\"https://en.wikipedia.org/wiki/Pestov%C3%AB\" title=\"Pestovë\">Pestovë</a>, <a href=\"https://en.wikipedia.org/wiki/Vushtrri\" title=\"Vushtrri\">Vushtrri</a>, <a href=\"https://en.wikipedia.org/wiki/FR_Yugoslavia\" class=\"mw-redirect\" title=\"FR Yugoslavia\">FR Yugoslavia</a><br>(today <a href=\"https://en.wikipedia.org/wiki/Kosovo\" title=\"Kosovo\">Kosovo</a>)</div><span data-plural=\"1\"></span></td>",
+              "links": [
+                {
+                  "text": "Pestovë",
+                  "title": "Pestovë",
+                  "wikiTitle": "Pestovë",
+                  "href": "https://en.wikipedia.org/wiki/Pestov%C3%AB",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Vushtrri",
+                  "title": "Vushtrri",
+                  "wikiTitle": "Vushtrri",
+                  "href": "https://en.wikipedia.org/wiki/Vushtrri",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "FR Yugoslavia",
+                  "title": "FR Yugoslavia",
+                  "wikiTitle": "FR Yugoslavia",
+                  "href": "https://en.wikipedia.org/wiki/FR_Yugoslavia",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Kosovo",
+                  "title": "Kosovo",
+                  "wikiTitle": "Kosovo",
+                  "href": "https://en.wikipedia.org/wiki/Kosovo",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "allegiance": [
+            {
+              "label": "Allegiance",
+              "key": "allegiance",
+              "group": null,
+              "text": "Kosova",
+              "lines": [
+                "Kosova"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"flagicon nowrap\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Kosova_%281991%E2%80%931999%29.svg/40px-Flag_of_Kosova_%281991%E2%80%931999%29.svg.png\" width=\"23\" height=\"12\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Kosova_%281991%E2%80%931999%29.svg/60px-Flag_of_Kosova_%281991%E2%80%931999%29.svg.png 2x\" data-file-width=\"1000\" data-file-height=\"500\"></span></span> </span><a href=\"https://en.wikipedia.org/wiki/Republic_of_Kosova\" title=\"Republic of Kosova\">Kosova</a></td>",
+              "links": [
+                {
+                  "text": "Kosova",
+                  "title": "Republic of Kosova",
+                  "wikiTitle": "Republic of Kosova",
+                  "href": "https://en.wikipedia.org/wiki/Republic_of_Kosova",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [
+                {
+                  "fileTitle": null,
+                  "fileName": null,
+                  "kind": "photo",
+                  "filePageUrl": null,
+                  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Kosova_%281991%E2%80%931999%29.svg/40px-Flag_of_Kosova_%281991%E2%80%931999%29.svg.png",
+                  "originalRedirectUrl": null,
+                  "enwikiOriginalRedirectUrl": null,
+                  "srcset": [
+                    {
+                      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Kosova_%281991%E2%80%931999%29.svg/60px-Flag_of_Kosova_%281991%E2%80%931999%29.svg.png",
+                      "descriptor": "2x"
+                    }
+                  ],
+                  "width": 23,
+                  "height": 12,
+                  "originalWidth": 1000,
+                  "originalHeight": 500,
+                  "fileType": null,
+                  "alt": null,
+                  "title": null,
+                  "caption": null
+                }
+              ],
+              "references": []
+            }
+          ],
+          "branch": [
+            {
+              "label": "Branch",
+              "key": "branch",
+              "group": null,
+              "text": "Kosovo Liberation Army",
+              "lines": [
+                "Kosovo Liberation Army"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"flagicon\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_the_Kosovo_Liberation_Army.svg/40px-Flag_of_the_Kosovo_Liberation_Army.svg.png\" width=\"23\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_the_Kosovo_Liberation_Army.svg/60px-Flag_of_the_Kosovo_Liberation_Army.svg.png 2x\" data-file-width=\"250\" data-file-height=\"167\"></span></span>&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Kosovo_Liberation_Army\" title=\"Kosovo Liberation Army\">Kosovo Liberation Army</a></td>",
+              "links": [
+                {
+                  "text": "Kosovo Liberation Army",
+                  "title": "Kosovo Liberation Army",
+                  "wikiTitle": "Kosovo Liberation Army",
+                  "href": "https://en.wikipedia.org/wiki/Kosovo_Liberation_Army",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [
+                {
+                  "fileTitle": null,
+                  "fileName": null,
+                  "kind": "photo",
+                  "filePageUrl": null,
+                  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_the_Kosovo_Liberation_Army.svg/40px-Flag_of_the_Kosovo_Liberation_Army.svg.png",
+                  "originalRedirectUrl": null,
+                  "enwikiOriginalRedirectUrl": null,
+                  "srcset": [
+                    {
+                      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_the_Kosovo_Liberation_Army.svg/60px-Flag_of_the_Kosovo_Liberation_Army.svg.png",
+                      "descriptor": "2x"
+                    }
+                  ],
+                  "width": 23,
+                  "height": 15,
+                  "originalWidth": 250,
+                  "originalHeight": 167,
+                  "fileType": null,
+                  "alt": null,
+                  "title": null,
+                  "caption": null
+                }
+              ],
+              "references": []
+            }
+          ],
+          "service_years": [
+            {
+              "label": "Service years",
+              "key": "service_years",
+              "group": null,
+              "text": "1995–1997",
+              "lines": [
+                "1995–1997"
+              ],
+              "html": "<td class=\"infobox-data\">1995–1997</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "rank": [
+            {
+              "label": "Rank",
+              "key": "rank",
+              "group": null,
+              "text": "Commander",
+              "lines": [
+                "Commander"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Commander\" title=\"Commander\">Commander</a></td>",
+              "links": [
+                {
+                  "text": "Commander",
+                  "title": "Commander",
+                  "wikiTitle": "Commander",
+                  "href": "https://en.wikipedia.org/wiki/Commander",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "conflicts": [
+            {
+              "label": "Conflicts",
+              "key": "conflicts",
+              "group": null,
+              "text": "Insurgency in Kosovo (1995–98)\nPestovë Ambush †",
+              "lines": [
+                "Insurgency in Kosovo (1995–98)",
+                "Pestovë Ambush †"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Insurgency_in_Kosovo_(1995%E2%80%9398)\" class=\"mw-redirect\" title=\"Insurgency in Kosovo (1995–98)\">Insurgency in Kosovo (1995–98)</a>\n<ul><li><a href=\"https://en.wikipedia.org/wiki/Pestov%C3%AB_Ambush\" class=\"mw-redirect\" title=\"Pestovë Ambush\">Pestovë Ambush</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Killed_in_action\" title=\"Killed in action\"><span><b>†</b></span></a></li></ul>\n</td>",
+              "links": [
+                {
+                  "text": "Insurgency in Kosovo (1995–98)",
+                  "title": "Insurgency in Kosovo (1995–98)",
+                  "wikiTitle": "Insurgency in Kosovo (1995–98)",
+                  "href": "https://en.wikipedia.org/wiki/Insurgency_in_Kosovo_(1995%E2%80%9398)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Pestovë Ambush",
+                  "title": "Pestovë Ambush",
+                  "wikiTitle": "Pestovë Ambush",
+                  "href": "https://en.wikipedia.org/wiki/Pestov%C3%AB_Ambush",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "†",
+                  "title": "Killed in action",
+                  "wikiTitle": "Killed in action",
+                  "href": "https://en.wikipedia.org/wiki/Killed_in_action",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "awards": [
+            {
+              "label": "Awards",
+              "key": "awards",
+              "group": null,
+              "text": "Hero of Kosovo (posthumously)",
+              "lines": [
+                "Hero of Kosovo (posthumously)"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Hero_of_Kosovo\" class=\"mw-redirect\" title=\"Hero of Kosovo\">Hero of Kosovo</a> (posthumously)</td>",
+              "links": [
+                {
+                  "text": "Hero of Kosovo",
+                  "title": "Hero of Kosovo",
+                  "wikiTitle": "Hero of Kosovo",
+                  "href": "https://en.wikipedia.org/wiki/Hero_of_Kosovo",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "born": [
+            "(1962-06-22)22 June 1962\nLladoc, Podujevë, SFR Yugoslavia\n(today Kosovo)"
+          ],
+          "died": [
+            "31 January 1997(1997-01-31) (aged 34)\nPestovë, Vushtrri, FR Yugoslavia\n(today Kosovo)"
+          ],
+          "allegiance": [
+            "Kosova"
+          ],
+          "branch": [
+            "Kosovo Liberation Army"
+          ],
+          "service_years": [
+            "1995–1997"
+          ],
+          "rank": [
+            "Commander"
+          ],
+          "conflicts": [
+            "Insurgency in Kosovo (1995–98)\nPestovë Ambush †"
+          ],
+          "awards": [
+            "Hero of Kosovo (posthumously)"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Shatorja e Hakif Zejnullahut.jpg",
+            "fileName": "Shatorja e Hakif Zejnullahut.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Shatorja_e_Hakif_Zejnullahut.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Shatorja_e_Hakif_Zejnullahut.jpg/250px-Shatorja_e_Hakif_Zejnullahut.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Shatorja_e_Hakif_Zejnullahut.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Shatorja_e_Hakif_Zejnullahut.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Shatorja_e_Hakif_Zejnullahut.jpg/500px-Shatorja_e_Hakif_Zejnullahut.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 200,
+            "height": 300,
+            "originalWidth": 3456,
+            "originalHeight": 5184,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Statue of Zejnullahu in Lladoc"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Kosova_%281991%E2%80%931999%29.svg/40px-Flag_of_Kosova_%281991%E2%80%931999%29.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Kosova_%281991%E2%80%931999%29.svg/60px-Flag_of_Kosova_%281991%E2%80%931999%29.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 23,
+            "height": 12,
+            "originalWidth": 1000,
+            "originalHeight": 500,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_the_Kosovo_Liberation_Army.svg/40px-Flag_of_the_Kosovo_Liberation_Army.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_the_Kosovo_Liberation_Army.svg/60px-Flag_of_the_Kosovo_Liberation_Army.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 23,
+            "height": 15,
+            "originalWidth": 250,
+            "originalHeight": 167,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          }
+        ],
+        "html": "<table class=\"infobox vcard\" style=\"width:25.5em;border-spacing:2px;\"><tbody><tr><th colspan=\"2\" class=\"infobox-above\"><div class=\"fn\">Hakif Zejnullahu</div><span data-plural=\"0\"></span></th></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span><a href=\"https://en.wikipedia.org/wiki/File:Shatorja_e_Hakif_Zejnullahut.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Shatorja_e_Hakif_Zejnullahut.jpg/250px-Shatorja_e_Hakif_Zejnullahut.jpg\" width=\"200\" height=\"300\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Shatorja_e_Hakif_Zejnullahut.jpg/500px-Shatorja_e_Hakif_Zejnullahut.jpg 2x\" data-file-width=\"3456\" data-file-height=\"5184\"></a></span><div class=\"infobox-caption\">Statue of Zejnullahu in Lladoc</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Born</th><td class=\"infobox-data\"><span>(<span class=\"bday\">1962-06-22</span>)</span>22 June 1962<br><div class=\"birthplace\">Lladoc, <a href=\"https://en.wikipedia.org/wiki/Podujevo\" class=\"mw-redirect\" title=\"Podujevo\">Podujevë</a>, <a href=\"https://en.wikipedia.org/wiki/Socialist_Federal_Republic_of_Yugoslavia\" title=\"Socialist Federal Republic of Yugoslavia\">SFR Yugoslavia</a><br>(today <a href=\"https://en.wikipedia.org/wiki/Kosovo\" title=\"Kosovo\">Kosovo</a>)</div><span data-plural=\"1\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Died</th><td class=\"infobox-data\">31 January 1997<span>(1997-01-31)</span> (aged&nbsp;34)<br><div class=\"deathplace\"><a href=\"https://en.wikipedia.org/wiki/Pestov%C3%AB\" title=\"Pestovë\">Pestovë</a>, <a href=\"https://en.wikipedia.org/wiki/Vushtrri\" title=\"Vushtrri\">Vushtrri</a>, <a href=\"https://en.wikipedia.org/wiki/FR_Yugoslavia\" class=\"mw-redirect\" title=\"FR Yugoslavia\">FR Yugoslavia</a><br>(today <a href=\"https://en.wikipedia.org/wiki/Kosovo\" title=\"Kosovo\">Kosovo</a>)</div><span data-plural=\"1\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Allegiance</th><td class=\"infobox-data\"><span class=\"flagicon nowrap\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Kosova_%281991%E2%80%931999%29.svg/40px-Flag_of_Kosova_%281991%E2%80%931999%29.svg.png\" width=\"23\" height=\"12\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Kosova_%281991%E2%80%931999%29.svg/60px-Flag_of_Kosova_%281991%E2%80%931999%29.svg.png 2x\" data-file-width=\"1000\" data-file-height=\"500\"></span></span> </span><a href=\"https://en.wikipedia.org/wiki/Republic_of_Kosova\" title=\"Republic of Kosova\">Kosova</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Branch</div></th><td class=\"infobox-data\"><span class=\"flagicon\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_the_Kosovo_Liberation_Army.svg/40px-Flag_of_the_Kosovo_Liberation_Army.svg.png\" width=\"23\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_the_Kosovo_Liberation_Army.svg/60px-Flag_of_the_Kosovo_Liberation_Army.svg.png 2x\" data-file-width=\"250\" data-file-height=\"167\"></span></span>&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Kosovo_Liberation_Army\" title=\"Kosovo Liberation Army\">Kosovo Liberation Army</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Service&nbsp;years</div></th><td class=\"infobox-data\">1995–1997</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Rank</div></th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Commander\" title=\"Commander\">Commander</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Conflicts</div></th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Insurgency_in_Kosovo_(1995%E2%80%9398)\" class=\"mw-redirect\" title=\"Insurgency in Kosovo (1995–98)\">Insurgency in Kosovo (1995–98)</a>\n<ul><li><a href=\"https://en.wikipedia.org/wiki/Pestov%C3%AB_Ambush\" class=\"mw-redirect\" title=\"Pestovë Ambush\">Pestovë Ambush</a>&nbsp;<a href=\"https://en.wikipedia.org/wiki/Killed_in_action\" title=\"Killed in action\"><span><b>†</b></span></a></li></ul>\n</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Awards</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Hero_of_Kosovo\" class=\"mw-redirect\" title=\"Hero of Kosovo\">Hero of Kosovo</a> (posthumously)</td></tr></tbody></table>"
+      },
+      "categories": [
+        "CS1_Albanian-language_sources_(sq)",
+        "CS1_Serbo-Croatian-language_sources_(sh)",
+        "CS1_Serbian-language_sources_(sr)",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "1971_births",
+        "1997_deaths",
+        "Kosovo_Liberation_Army_soldiers",
+        "Kosovo_Albanians",
+        "20th-century_Albanian_military_personnel",
+        "Albanian_nationalists_in_Kosovo",
+        "Guerrillas_killed_in_action",
+        "People_from_Podujevë"
+      ],
+      "externalLinks": [
+        "https://www.radiokosovaelire.com/hakif-sabit-zejnullahu-22-6-1962-31-1-1997/",
+        "https://www.koha.net/en/lajmet-e-mbremjes-ktv/363740/zahir-pajaziti-e-bashkeluftetaret-e-tij-perkujtohen-si-frymezim-per-uck-ne",
+        "https://books.google.com/books?id=jIoKMGRHxn4C&pg=PA43",
+        "https://books.google.com/books?id=OTW9XKUmrxsC&pg=PA12",
+        "https://books.google.com/books?id=sGQVdG63WPYC&pg=PA69",
+        "https://books.google.com/books?id=fKom-fspjGQC&pg=PA142",
+        "https://books.google.com/books?id=IWMqDwAAQBAJ&pg=PT73",
+        "https://www.helsinki.org.rs/serbian/doc/Ogledi01.pdf",
+        "https://books.google.com/books?id=GkBmdCwHuDsC&dq=albanophobia&pg=PA222",
+        "https://link.springer.com/article/10.1023/A:1025397128633",
+        "https://doi.org/10.1023%2FA:1025397128633",
+        "https://api.semanticscholar.org/CorpusID:141051220",
+        "https://web.archive.org/web/20210624203551/https://link.springer.com/article/10.1023/A:1025397128633",
+        "https://books.google.com/books?id=SlHqkxGk4Q8C",
+        "https://books.google.com/books?id=ip1PAQAAMAAJ&q=Zahir+Pajaziti",
+        "https://telegrafi.com/kompleksi-memorial-baza-e-pare-e-uck-se-ne-shtepine-e-heroit-hakif-zejnullahu/",
+        "https://www.mesazhi.com/27-vjet-nga-renia-heroike-e-zahir-pajaziti-hakif-zejnullahu-dhe-edmond-hoxhes/",
+        "https://books.google.com/books?id=I5A9_wOXa8kC&q=Pajaziti",
+        "https://hdl.handle.net/1721.1%2F36342",
+        "https://prishtinainsight.com/26671-2-mag/",
+        "https://president-ksgov.net/sr/predsednica-26-godina-od-kada-su-glasnici-slobode-zahir-pajaziti-hakif-zejnullahu-i-edmond-hoxha-otisli-u-vecnost//",
+        "https://indeksonline.net/realizohet-zotimi-i-bulliqit-renovohet-palestra-e-sporteve-hakif-zejnullahu/?amp_markup=1",
+        "https://www.ekonomia.info/sq/telekomunikacion/rruga-prishtine-mitrovice-me-emrin-zahir-pajaziti-hakif-zejnullahu-e-edmond-hoxha"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Early life",
+          "anchor": "Early_life"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Involvement in the Kosovo Liberation Army",
+          "anchor": "Involvement_in_the_Kosovo_Liberation_Army"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "Founding the KLA and first actions",
+          "anchor": "Founding_the_KLA_and_first_actions"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "Insurgency in Kosovo",
+          "anchor": "Insurgency_in_Kosovo"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "Death",
+          "anchor": "Death"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "Legacy",
+          "anchor": "Legacy"
+        },
+        {
+          "index": "7",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "8",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Shatorja_e_Hakif_Zejnullahut.jpg",
+        "Flag_of_Kosova_(1991–1999).svg",
+        "Flag_of_the_Kosovo_Liberation_Army.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Shatorja e Hakif Zejnullahut.jpg",
+          "fileName": "Shatorja e Hakif Zejnullahut.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Shatorja_e_Hakif_Zejnullahut.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Shatorja_e_Hakif_Zejnullahut.jpg/250px-Shatorja_e_Hakif_Zejnullahut.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Shatorja_e_Hakif_Zejnullahut.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Shatorja_e_Hakif_Zejnullahut.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Shatorja_e_Hakif_Zejnullahut.jpg/500px-Shatorja_e_Hakif_Zejnullahut.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 200,
+          "height": 300,
+          "originalWidth": 3456,
+          "originalHeight": 5184,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Statue of Zejnullahu in Lladoc"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Kosova_%281991%E2%80%931999%29.svg/40px-Flag_of_Kosova_%281991%E2%80%931999%29.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Kosova_%281991%E2%80%931999%29.svg/60px-Flag_of_Kosova_%281991%E2%80%931999%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1000,
+          "originalHeight": 500,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_the_Kosovo_Liberation_Army.svg/40px-Flag_of_the_Kosovo_Liberation_Army.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_the_Kosovo_Liberation_Army.svg/60px-Flag_of_the_Kosovo_Liberation_Army.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 250,
+          "originalHeight": 167,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas in Kosovo",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Kosovo",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": "Kosovo",
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 28,
+          "rowText": "Hakif Zejnullahu\n600\nPodujevë\nKB Llapi\n2006",
+          "rowHtml": "<tr>\n<td></td>\n<td><a href=\"https://en.wikipedia.org/wiki/Hakif_Zejnullahu\" title=\"Hakif Zejnullahu\">Hakif Zejnullahu </a>\n</td>\n<td align=\"right\">600</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Podujev%C3%AB\" title=\"Podujevë\">Podujevë</a></td>\n<td><a href=\"https://en.wikipedia.org/w/index.php?title=KB_Llapi&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"KB Llapi (page does not exist)\">KB Llapi</a></td>\n<td align=\"center\">2006</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "Hakif Zejnullahu",
+                "lines": [
+                  "Hakif Zejnullahu"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Hakif Zejnullahu",
+                    "title": "Hakif Zejnullahu",
+                    "wikiTitle": "Hakif Zejnullahu",
+                    "href": "https://en.wikipedia.org/wiki/Hakif_Zejnullahu",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "600",
+                "lines": [
+                  "600"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "Podujevë",
+                "lines": [
+                  "Podujevë"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Podujevë",
+                    "title": "Podujevë",
+                    "wikiTitle": "Podujevë",
+                    "href": "https://en.wikipedia.org/wiki/Podujev%C3%AB",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Team",
+              "headerKey": "team",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "KB Llapi",
+                "lines": [
+                  "KB Llapi"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "KB Llapi",
+                    "title": "KB Llapi (page does not exist)",
+                    "wikiTitle": "KB Llapi",
+                    "href": "https://en.wikipedia.org/w/index.php?title=KB_Llapi&action=edit&redlink=1",
+                    "blueArticle": false,
+                    "redLink": true,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Inaugurated",
+              "headerKey": "inaugurated",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "2006",
+                "lines": [
+                  "2006"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Inside arena",
+              "headerKey": "inside_arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Hakif Zejnullahu",
+            "lines": [
+              "Hakif Zejnullahu"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Hakif Zejnullahu",
+                "title": "Hakif Zejnullahu",
+                "wikiTitle": "Hakif Zejnullahu",
+                "href": "https://en.wikipedia.org/wiki/Hakif_Zejnullahu",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:51:16.005Z"
+    },
+    {
+      "id": "wikipedia-page-46738644",
+      "pageId": 46738644,
+      "revisionId": null,
+      "title": "Minatori Sports Hall",
+      "displayTitle": "Minatori Sports Hall",
+      "url": "https://en.wikipedia.org/wiki/Minatori_Sports_Hall",
+      "wikidataItem": "Q20874882",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q20874882",
+      "aliases": [
+        "Minatori Sports Hall",
+        "Salla e sporteve Minatori",
+        "Minatori",
+        "\"Minatori\" Sports Hall"
+      ],
+      "requestedTitles": [
+        "Minatori Sports Hall",
+        "Salla e sporteve Minatori"
+      ],
+      "sourceLinkTexts": [
+        "Minatori Sports Hall",
+        "Minatori"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Minatori_Sports_Hall",
+        "https://en.wikipedia.org/wiki/Salla_e_sporteve_Minatori"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas in Kosovo"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [
+        "Kosovo"
+      ],
+      "coordinates": {
+        "latitude": 42.890908,
+        "longitude": 20.867235,
+        "raw": "42.890908; 20.867235"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "\"Minatori\" Sports Hall",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Mitrovica, Kosovo",
+            "lines": [
+              "Mitrovica, Kosovo"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Mitrovica,_Kosovo\" title=\"Mitrovica, Kosovo\">Mitrovica, Kosovo</a></td>",
+            "links": [
+              {
+                "text": "Mitrovica, Kosovo",
+                "title": "Mitrovica, Kosovo",
+                "wikiTitle": "Mitrovica, Kosovo",
+                "href": "https://en.wikipedia.org/wiki/Mitrovica,_Kosovo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "42°53′27″N 20°52′02″E﻿ / ﻿42.890908°N 20.867235°E﻿ / 42.890908; 20.867235",
+            "lines": [
+              "42°53′27″N 20°52′02″E﻿ / ﻿42.890908°N 20.867235°E﻿ / 42.890908; 20.867235"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Minatori_Sports_Hall&amp;params=42.890908_N_20.867235_E_type:landmark_globe:earth_region:XK\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">42°53′27″N</span> <span class=\"longitude\">20°52′02″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">42.890908°N 20.867235°E</span><span>﻿ / <span class=\"geo\">42.890908; 20.867235</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "42°53′27″N 20°52′02″E﻿ / ﻿42.890908°N 20.867235°E﻿ / 42.890908; 20.867235",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Minatori_Sports_Hall&params=42.890908_N_20.867235_E_type:landmark_globe:earth_region:XK",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Mitrovica Municipality",
+            "lines": [
+              "Mitrovica Municipality"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Mitrovica,_Kosovo\" title=\"Mitrovica, Kosovo\">Mitrovica Municipality</a></td>",
+            "links": [
+              {
+                "text": "Mitrovica Municipality",
+                "title": "Mitrovica, Kosovo",
+                "wikiTitle": "Mitrovica, Kosovo",
+                "href": "https://en.wikipedia.org/wiki/Mitrovica,_Kosovo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "4,500",
+            "lines": [
+              "4,500"
+            ],
+            "html": "<td class=\"infobox-data\">4,500</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-1"
+              }
+            ]
+          },
+          {
+            "label": "Record attendance",
+            "key": "record_attendance",
+            "group": null,
+            "text": "4,500",
+            "lines": [
+              "4,500"
+            ],
+            "html": "<td class=\"infobox-data\">4,500</td>",
+            "links": [
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-2"
+              }
+            ]
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "1984",
+            "lines": [
+              "1984"
+            ],
+            "html": "<td class=\"infobox-data\">1984</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1984",
+            "lines": [
+              "1984"
+            ],
+            "html": "<td class=\"infobox-data\">1984</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2013",
+            "lines": [
+              "2013"
+            ],
+            "html": "<td class=\"infobox-data\">2013</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "KB Trepça\nKH Trepça\nKV Trepça\nFC Trepça (futsal)",
+            "lines": [
+              "KB Trepça",
+              "KH Trepça",
+              "KV Trepça",
+              "FC Trepça (futsal)"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/KB_Trep%C3%A7a\" title=\"KB Trepça\">KB Trepça</a><br><a href=\"https://en.wikipedia.org/wiki/KH_Trep%C3%A7a\" title=\"KH Trepça\">KH Trepça</a><br>KV Trepça<br>FC Trepça (futsal)</td>",
+            "links": [
+              {
+                "text": "KB Trepça",
+                "title": "KB Trepça",
+                "wikiTitle": "KB Trepça",
+                "href": "https://en.wikipedia.org/wiki/KB_Trep%C3%A7a",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "KH Trepça",
+                "title": "KH Trepça",
+                "wikiTitle": "KH Trepça",
+                "href": "https://en.wikipedia.org/wiki/KH_Trep%C3%A7a",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Mitrovica, Kosovo",
+              "lines": [
+                "Mitrovica, Kosovo"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Mitrovica,_Kosovo\" title=\"Mitrovica, Kosovo\">Mitrovica, Kosovo</a></td>",
+              "links": [
+                {
+                  "text": "Mitrovica, Kosovo",
+                  "title": "Mitrovica, Kosovo",
+                  "wikiTitle": "Mitrovica, Kosovo",
+                  "href": "https://en.wikipedia.org/wiki/Mitrovica,_Kosovo",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "42°53′27″N 20°52′02″E﻿ / ﻿42.890908°N 20.867235°E﻿ / 42.890908; 20.867235",
+              "lines": [
+                "42°53′27″N 20°52′02″E﻿ / ﻿42.890908°N 20.867235°E﻿ / 42.890908; 20.867235"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Minatori_Sports_Hall&amp;params=42.890908_N_20.867235_E_type:landmark_globe:earth_region:XK\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">42°53′27″N</span> <span class=\"longitude\">20°52′02″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">42.890908°N 20.867235°E</span><span>﻿ / <span class=\"geo\">42.890908; 20.867235</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "42°53′27″N 20°52′02″E﻿ / ﻿42.890908°N 20.867235°E﻿ / 42.890908; 20.867235",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Minatori_Sports_Hall&params=42.890908_N_20.867235_E_type:landmark_globe:earth_region:XK",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Mitrovica Municipality",
+              "lines": [
+                "Mitrovica Municipality"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Mitrovica,_Kosovo\" title=\"Mitrovica, Kosovo\">Mitrovica Municipality</a></td>",
+              "links": [
+                {
+                  "text": "Mitrovica Municipality",
+                  "title": "Mitrovica, Kosovo",
+                  "wikiTitle": "Mitrovica, Kosovo",
+                  "href": "https://en.wikipedia.org/wiki/Mitrovica,_Kosovo",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "4,500",
+              "lines": [
+                "4,500"
+              ],
+              "html": "<td class=\"infobox-data\">4,500</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-1"
+                }
+              ]
+            }
+          ],
+          "record_attendance": [
+            {
+              "label": "Record attendance",
+              "key": "record_attendance",
+              "group": null,
+              "text": "4,500",
+              "lines": [
+                "4,500"
+              ],
+              "html": "<td class=\"infobox-data\">4,500</td>",
+              "links": [
+                {
+                  "text": "[2]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-2",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-2"
+                }
+              ]
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "1984",
+              "lines": [
+                "1984"
+              ],
+              "html": "<td class=\"infobox-data\">1984</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1984",
+              "lines": [
+                "1984"
+              ],
+              "html": "<td class=\"infobox-data\">1984</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2013",
+              "lines": [
+                "2013"
+              ],
+              "html": "<td class=\"infobox-data\">2013</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "KB Trepça\nKH Trepça\nKV Trepça\nFC Trepça (futsal)",
+              "lines": [
+                "KB Trepça",
+                "KH Trepça",
+                "KV Trepça",
+                "FC Trepça (futsal)"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/KB_Trep%C3%A7a\" title=\"KB Trepça\">KB Trepça</a><br><a href=\"https://en.wikipedia.org/wiki/KH_Trep%C3%A7a\" title=\"KH Trepça\">KH Trepça</a><br>KV Trepça<br>FC Trepça (futsal)</td>",
+              "links": [
+                {
+                  "text": "KB Trepça",
+                  "title": "KB Trepça",
+                  "wikiTitle": "KB Trepça",
+                  "href": "https://en.wikipedia.org/wiki/KB_Trep%C3%A7a",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "KH Trepça",
+                  "title": "KH Trepça",
+                  "wikiTitle": "KH Trepça",
+                  "href": "https://en.wikipedia.org/wiki/KH_Trep%C3%A7a",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Mitrovica, Kosovo"
+          ],
+          "coordinates": [
+            "42°53′27″N 20°52′02″E﻿ / ﻿42.890908°N 20.867235°E﻿ / 42.890908; 20.867235"
+          ],
+          "owner": [
+            "Mitrovica Municipality"
+          ],
+          "capacity": [
+            "4,500"
+          ],
+          "record_attendance": [
+            "4,500"
+          ],
+          "built": [
+            "1984"
+          ],
+          "opened": [
+            "1984"
+          ],
+          "renovated": [
+            "2013"
+          ],
+          "tenants": [
+            "KB Trepça\nKH Trepça\nKV Trepça\nFC Trepça (futsal)"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "4,500"
+        ],
+        "tenants": [
+          "KB Trepça",
+          "KH Trepça",
+          "KV Trepça",
+          "FC Trepça (futsal)"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Minatori Sports Hall in Mitrovica.jpg",
+            "fileName": "Minatori Sports Hall in Mitrovica.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Minatori_Sports_Hall_in_Mitrovica.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Minatori_Sports_Hall_in_Mitrovica.jpg/250px-Minatori_Sports_Hall_in_Mitrovica.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Minatori_Sports_Hall_in_Mitrovica.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Minatori_Sports_Hall_in_Mitrovica.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Minatori_Sports_Hall_in_Mitrovica.jpg/500px-Minatori_Sports_Hall_in_Mitrovica.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 167,
+            "originalWidth": 4272,
+            "originalHeight": 2848,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Minatori Sports Hall after renovation in 2016"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Minatori_Sports_Hall&revid=1329970418&groups=_73f7ba0508f6096801016adef759920987e25ac7&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Minatori_Sports_Hall&revid=1329970418&groups=_73f7ba0508f6096801016adef759920987e25ac7&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of \"Minatori\" Sports Hall"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">\"Minatori\" Sports Hall</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\"><b>Salla e Sporteve \"Minatori\" <small>(<a href=\"https://en.wikipedia.org/wiki/Albanian_language\" title=\"Albanian language\">sq</a>)</small></b></div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Minatori_Sports_Hall_in_Mitrovica.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Minatori_Sports_Hall_in_Mitrovica.jpg/250px-Minatori_Sports_Hall_in_Mitrovica.jpg\" width=\"250\" height=\"167\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Minatori_Sports_Hall_in_Mitrovica.jpg/500px-Minatori_Sports_Hall_in_Mitrovica.jpg 2x\" data-file-width=\"4272\" data-file-height=\"2848\"></a></span><div class=\"infobox-caption\">Minatori Sports Hall after renovation in 2016</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_73f7ba0508f6096801016adef759920987e25ac7&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Minatori_Sports_Hall&amp;revid=1329970418&amp;groups=_73f7ba0508f6096801016adef759920987e25ac7&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Minatori_Sports_Hall&amp;revid=1329970418&amp;groups=_73f7ba0508f6096801016adef759920987e25ac7&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of \"Minatori\" Sports Hall</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Mitrovica,_Kosovo\" title=\"Mitrovica, Kosovo\">Mitrovica, Kosovo</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Minatori_Sports_Hall&amp;params=42.890908_N_20.867235_E_type:landmark_globe:earth_region:XK\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">42°53′27″N</span> <span class=\"longitude\">20°52′02″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">42.890908°N 20.867235°E</span><span>﻿ / <span class=\"geo\">42.890908; 20.867235</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Mitrovica,_Kosovo\" title=\"Mitrovica, Kosovo\">Mitrovica Municipality</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">4,500</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Record attendance</div></th><td class=\"infobox-data\">4,500</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">1984</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1984</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2013</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/KB_Trep%C3%A7a\" title=\"KB Trepça\">KB Trepça</a><br><a href=\"https://en.wikipedia.org/wiki/KH_Trep%C3%A7a\" title=\"KH Trepça\">KH Trepça</a><br>KV Trepça<br>FC Trepça (futsal)</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Commons_category_link_is_on_Wikidata",
+        "KB_Trepça",
+        "Buildings_and_structures_in_Mitrovica,_Kosovo",
+        "Sports_venues_in_Kosovo",
+        "Handball_venues_in_Kosovo",
+        "Indoor_arenas_in_Kosovo",
+        "Basketball_venues_in_Kosovo",
+        "Sports_venues_completed_in_1984",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Minatori_Sports_Hall&params=42.890908_N_20.867235_E_type:landmark_globe:earth_region:XK",
+        "https://kbtrepca.com/klubi/",
+        "https://www.flashscore.de/spiel/E9NKjmsR/#/spiel-zusammenfassung/spiel-zusammenfassung",
+        "http://basketbolli.com/sq/article/parketi-ne-minatori-eshte-gati",
+        "http://basketbolli.com/kombetarja/fillojne-pergatitjet-ne-sallen-minatori/",
+        "https://asistionline.com/2022/08/17/e-fundit-trepca-organizatore-e-turneut-kualifikues-ne-fiba-europe-cup-dokument/",
+        "https://www.fiba.basketball/europecup/22-23/team/BG-G%C3%B6ttingen",
+        "http://basketbolli.com/uploads/images/minatori_AjfiA.jpg",
+        "http://basketbolli.com/kombetarja/wp-content/uploads/2016/08/minatori_QTf5s.jpg"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Gallery",
+          "anchor": "Gallery"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Minatori_Sports_Hall_in_Mitrovica_01_04_22_516000.jpeg",
+        "Palestra_\"Minatori\".JPG",
+        "TORCIDA.JPG",
+        "Trepça_-_Sigal_Prishtina,_derbi_basketbollistik_kosovar.JPG",
+        "Palestra_Minatori.jpg",
+        "Minatori_Sports_Hall_in_Mitrovica.jpg",
+        "Commons-logo.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Minatori Sports Hall in Mitrovica.jpg",
+          "fileName": "Minatori Sports Hall in Mitrovica.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Minatori_Sports_Hall_in_Mitrovica.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Minatori_Sports_Hall_in_Mitrovica.jpg/250px-Minatori_Sports_Hall_in_Mitrovica.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Minatori_Sports_Hall_in_Mitrovica.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Minatori_Sports_Hall_in_Mitrovica.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Minatori_Sports_Hall_in_Mitrovica.jpg/500px-Minatori_Sports_Hall_in_Mitrovica.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 4272,
+          "originalHeight": 2848,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Minatori Sports Hall after renovation in 2016"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Minatori_Sports_Hall&revid=1329970418&groups=_73f7ba0508f6096801016adef759920987e25ac7&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Minatori_Sports_Hall&revid=1329970418&groups=_73f7ba0508f6096801016adef759920987e25ac7&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of \"Minatori\" Sports Hall"
+        },
+        {
+          "fileTitle": "File:Minatori Sports Hall in Mitrovica 01 04 22 516000.jpeg",
+          "fileName": "Minatori Sports Hall in Mitrovica 01 04 22 516000.jpeg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Minatori_Sports_Hall_in_Mitrovica_01_04_22_516000.jpeg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Minatori_Sports_Hall_in_Mitrovica_01_04_22_516000.jpeg/120px-Minatori_Sports_Hall_in_Mitrovica_01_04_22_516000.jpeg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Minatori_Sports_Hall_in_Mitrovica_01_04_22_516000.jpeg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Minatori_Sports_Hall_in_Mitrovica_01_04_22_516000.jpeg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Minatori_Sports_Hall_in_Mitrovica_01_04_22_516000.jpeg/250px-Minatori_Sports_Hall_in_Mitrovica_01_04_22_516000.jpeg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 90,
+          "originalWidth": 4032,
+          "originalHeight": 3024,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Palestra \"Minatori\".JPG",
+          "fileName": "Palestra \"Minatori\".JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Palestra_%22Minatori%22.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Palestra_%22Minatori%22.JPG/120px-Palestra_%22Minatori%22.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Palestra_%22Minatori%22.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Palestra_%22Minatori%22.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Palestra_%22Minatori%22.JPG/250px-Palestra_%22Minatori%22.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 80,
+          "originalWidth": 5184,
+          "originalHeight": 3456,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:TORCIDA.JPG",
+          "fileName": "TORCIDA.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:TORCIDA.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/TORCIDA.JPG/120px-TORCIDA.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/TORCIDA.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/TORCIDA.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/TORCIDA.JPG/250px-TORCIDA.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 80,
+          "originalWidth": 5184,
+          "originalHeight": 3456,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Trepça - Sigal Prishtina, derbi basketbollistik kosovar.JPG",
+          "fileName": "Trepça - Sigal Prishtina, derbi basketbollistik kosovar.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Trep%C3%A7a_-_Sigal_Prishtina,_derbi_basketbollistik_kosovar.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Trep%C3%A7a_-_Sigal_Prishtina%2C_derbi_basketbollistik_kosovar.JPG/120px-Trep%C3%A7a_-_Sigal_Prishtina%2C_derbi_basketbollistik_kosovar.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Trep%C3%A7a_-_Sigal_Prishtina%2C_derbi_basketbollistik_kosovar.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Trep%C3%A7a_-_Sigal_Prishtina%2C_derbi_basketbollistik_kosovar.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Trep%C3%A7a_-_Sigal_Prishtina%2C_derbi_basketbollistik_kosovar.JPG/250px-Trep%C3%A7a_-_Sigal_Prishtina%2C_derbi_basketbollistik_kosovar.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 80,
+          "originalWidth": 5184,
+          "originalHeight": 3456,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Palestra Minatori.jpg",
+          "fileName": "Palestra Minatori.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Palestra_Minatori.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Palestra_Minatori.jpg/120px-Palestra_Minatori.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Palestra_Minatori.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Palestra_Minatori.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Palestra_Minatori.jpg/250px-Palestra_Minatori.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 68,
+          "originalWidth": 1600,
+          "originalHeight": 900,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 40,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 574,
+          "rowText": "Mitrovica\nMinatori Sports Hall\n1984\n2,500\nKB Trepça",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Mitrovica,_Kosovo\" title=\"Mitrovica, Kosovo\">Mitrovica</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Minatori_Sports_Hall\" title=\"Minatori Sports Hall\">Minatori Sports Hall</a>\n</td>\n<td>1984\n</td>\n<td>2,500\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/KB_Trep%C3%A7a\" title=\"KB Trepça\">KB Trepça</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 567,
+              "cell": {
+                "text": "Kosovo\n(list)",
+                "lines": [
+                  "Kosovo",
+                  "(list)"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Kosovo",
+                    "title": "Kosovo",
+                    "wikiTitle": "Kosovo",
+                    "href": "https://en.wikipedia.org/wiki/Kosovo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "list",
+                    "title": "List of indoor arenas in Kosovo",
+                    "wikiTitle": "List of indoor arenas in Kosovo",
+                    "href": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Kosovo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 574,
+              "cell": {
+                "text": "Mitrovica",
+                "lines": [
+                  "Mitrovica"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Mitrovica",
+                    "title": "Mitrovica, Kosovo",
+                    "wikiTitle": "Mitrovica, Kosovo",
+                    "href": "https://en.wikipedia.org/wiki/Mitrovica,_Kosovo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 574,
+              "cell": {
+                "text": "Minatori Sports Hall",
+                "lines": [
+                  "Minatori Sports Hall"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Minatori Sports Hall",
+                    "title": "Minatori Sports Hall",
+                    "wikiTitle": "Minatori Sports Hall",
+                    "href": "https://en.wikipedia.org/wiki/Minatori_Sports_Hall",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 574,
+              "cell": {
+                "text": "1984",
+                "lines": [
+                  "1984"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 574,
+              "cell": {
+                "text": "2,500",
+                "lines": [
+                  "2,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 574,
+              "cell": {
+                "text": "KB Trepça",
+                "lines": [
+                  "KB Trepça"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "KB Trepça",
+                    "title": "KB Trepça",
+                    "wikiTitle": "KB Trepça",
+                    "href": "https://en.wikipedia.org/wiki/KB_Trep%C3%A7a",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Minatori Sports Hall",
+            "lines": [
+              "Minatori Sports Hall"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Minatori Sports Hall",
+                "title": "Minatori Sports Hall",
+                "wikiTitle": "Minatori Sports Hall",
+                "href": "https://en.wikipedia.org/wiki/Minatori_Sports_Hall",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Kosovo",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Kosovo",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": "Kosovo",
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 3,
+          "rowText": "Minatori\n4,500\nMitrovica\nKB Trepça\n1984",
+          "rowHtml": "<tr>\n<td><span><a href=\"https://en.wikipedia.org/wiki/File:Minatori_Sports_Hall_in_Mitrovica.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Minatori_Sports_Hall_in_Mitrovica.jpg/250px-Minatori_Sports_Hall_in_Mitrovica.jpg\" width=\"150\" height=\"100\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Minatori_Sports_Hall_in_Mitrovica.jpg/330px-Minatori_Sports_Hall_in_Mitrovica.jpg 2x\" data-file-width=\"4272\" data-file-height=\"2848\"></a></span></td>\n<td><a href=\"https://en.wikipedia.org/wiki/Salla_e_sporteve_Minatori\" class=\"mw-redirect\" title=\"Salla e sporteve Minatori\">Minatori</a>\n</td>\n<td align=\"right\">4,500</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Mitrovica,_Kosovo\" title=\"Mitrovica, Kosovo\">Mitrovica</a></td>\n<td><a href=\"https://en.wikipedia.org/wiki/KB_Trep%C3%A7a\" title=\"KB Trepça\">KB Trepça</a></td>\n<td align=\"center\">1984</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [
+                  {
+                    "text": "",
+                    "title": "File:Minatori Sports Hall in Mitrovica.jpg",
+                    "wikiTitle": "File:Minatori Sports Hall in Mitrovica.jpg",
+                    "href": "https://en.wikipedia.org/wiki/File:Minatori_Sports_Hall_in_Mitrovica.jpg",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": "File:Minatori Sports Hall in Mitrovica.jpg",
+                    "fileName": "Minatori Sports Hall in Mitrovica.jpg",
+                    "kind": "photo",
+                    "filePageUrl": "https://en.wikipedia.org/wiki/File:Minatori_Sports_Hall_in_Mitrovica.jpg",
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Minatori_Sports_Hall_in_Mitrovica.jpg/250px-Minatori_Sports_Hall_in_Mitrovica.jpg",
+                    "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Minatori_Sports_Hall_in_Mitrovica.jpg",
+                    "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Minatori_Sports_Hall_in_Mitrovica.jpg",
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Minatori_Sports_Hall_in_Mitrovica.jpg/330px-Minatori_Sports_Hall_in_Mitrovica.jpg",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 150,
+                    "height": 100,
+                    "originalWidth": 4272,
+                    "originalHeight": 2848,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "Minatori",
+                "lines": [
+                  "Minatori"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Minatori",
+                    "title": "Salla e sporteve Minatori",
+                    "wikiTitle": "Salla e sporteve Minatori",
+                    "href": "https://en.wikipedia.org/wiki/Salla_e_sporteve_Minatori",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "4,500",
+                "lines": [
+                  "4,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "Mitrovica",
+                "lines": [
+                  "Mitrovica"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Mitrovica",
+                    "title": "Mitrovica, Kosovo",
+                    "wikiTitle": "Mitrovica, Kosovo",
+                    "href": "https://en.wikipedia.org/wiki/Mitrovica,_Kosovo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Team",
+              "headerKey": "team",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "KB Trepça",
+                "lines": [
+                  "KB Trepça"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "KB Trepça",
+                    "title": "KB Trepça",
+                    "wikiTitle": "KB Trepça",
+                    "href": "https://en.wikipedia.org/wiki/KB_Trep%C3%A7a",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Inaugurated",
+              "headerKey": "inaugurated",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "1984",
+                "lines": [
+                  "1984"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Inside arena",
+              "headerKey": "inside_arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": "File:Minatori Sports Hall in Mitrovica.jpg",
+              "fileName": "Minatori Sports Hall in Mitrovica.jpg",
+              "kind": "photo",
+              "filePageUrl": "https://en.wikipedia.org/wiki/File:Minatori_Sports_Hall_in_Mitrovica.jpg",
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Minatori_Sports_Hall_in_Mitrovica.jpg/250px-Minatori_Sports_Hall_in_Mitrovica.jpg",
+              "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Minatori_Sports_Hall_in_Mitrovica.jpg",
+              "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Minatori_Sports_Hall_in_Mitrovica.jpg",
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Minatori_Sports_Hall_in_Mitrovica.jpg/330px-Minatori_Sports_Hall_in_Mitrovica.jpg",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 150,
+              "height": 100,
+              "originalWidth": 4272,
+              "originalHeight": 2848,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Minatori",
+            "lines": [
+              "Minatori"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Minatori",
+                "title": "Salla e sporteve Minatori",
+                "wikiTitle": "Salla e sporteve Minatori",
+                "href": "https://en.wikipedia.org/wiki/Salla_e_sporteve_Minatori",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:46:22.485Z"
+    },
+    {
+      "id": "wikipedia-page-46183190",
+      "pageId": 46183190,
+      "revisionId": null,
+      "title": "Palace of Youth and Sports",
+      "displayTitle": "Palace of Youth and Sports",
+      "url": "https://en.wikipedia.org/wiki/Palace_of_Youth_and_Sports",
+      "wikidataItem": "Q17741507",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q17741507",
+      "aliases": [
+        "Palace of Youth and Sports",
+        "Pallati i Rinisë",
+        "Boro and Ramiz"
+      ],
+      "requestedTitles": [
+        "Palace of Youth and Sports"
+      ],
+      "sourceLinkTexts": [
+        "Palace of Youth and Sports",
+        "Pallati i Rinisë"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Palace_of_Youth_and_Sports"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas in Kosovo"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [
+        "Kosovo"
+      ],
+      "coordinates": {
+        "latitude": 42.6611,
+        "longitude": 21.1572,
+        "raw": "42.6611; 21.1572"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Palace of Youth and Sports",
+        "groups": [
+          "Construction",
+          "Tenants",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Former names",
+            "key": "former_names",
+            "group": null,
+            "text": "Boro and Ramiz",
+            "lines": [
+              "Boro and Ramiz"
+            ],
+            "html": "<td class=\"infobox-data nickname\">Boro and Ramiz</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Pristina, Kosovo",
+            "lines": [
+              "Pristina, Kosovo"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Pristina\" title=\"Pristina\">Pristina</a>, <a href=\"https://en.wikipedia.org/wiki/Kosovo\" title=\"Kosovo\">Kosovo</a></td>",
+            "links": [
+              {
+                "text": "Pristina",
+                "title": "Pristina",
+                "wikiTitle": "Pristina",
+                "href": "https://en.wikipedia.org/wiki/Pristina",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Kosovo",
+                "title": "Kosovo",
+                "wikiTitle": "Kosovo",
+                "href": "https://en.wikipedia.org/wiki/Kosovo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "42°39′40″N 21°09′26″E﻿ / ﻿42.6611°N 21.1572°E﻿ / 42.6611; 21.1572",
+            "lines": [
+              "42°39′40″N 21°09′26″E﻿ / ﻿42.6611°N 21.1572°E﻿ / 42.6611; 21.1572"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Palace_of_Youth_and_Sports&amp;params=42.6611_N_21.1572_E_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">42°39′40″N</span> <span class=\"longitude\">21°09′26″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">42.6611°N 21.1572°E</span><span>﻿ / <span class=\"geo\">42.6611; 21.1572</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "42°39′40″N 21°09′26″E﻿ / ﻿42.6611°N 21.1572°E﻿ / 42.6611; 21.1572",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Palace_of_Youth_and_Sports&params=42.6611_N_21.1572_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Disputed between the Municipality of Pristina and the Kosovo Privatization Agency",
+            "lines": [
+              "Disputed between the Municipality of Pristina and the Kosovo Privatization Agency"
+            ],
+            "html": "<td class=\"infobox-data agent\">Disputed between the <a href=\"https://en.wikipedia.org/wiki/Municipality_of_Pristina\" class=\"mw-redirect\" title=\"Municipality of Pristina\">Municipality of Pristina</a> and the <a href=\"https://en.wikipedia.org/wiki/Privatisation_Agency_of_Kosovo\" title=\"Privatisation Agency of Kosovo\">Kosovo Privatization Agency</a></td>",
+            "links": [
+              {
+                "text": "Municipality of Pristina",
+                "title": "Municipality of Pristina",
+                "wikiTitle": "Municipality of Pristina",
+                "href": "https://en.wikipedia.org/wiki/Municipality_of_Pristina",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Kosovo Privatization Agency",
+                "title": "Privatisation Agency of Kosovo",
+                "wikiTitle": "Privatisation Agency of Kosovo",
+                "href": "https://en.wikipedia.org/wiki/Privatisation_Agency_of_Kosovo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "8,000 (larger arena)\n2,800 (smaller arena)",
+            "lines": [
+              "8,000 (larger arena)",
+              "2,800 (smaller arena)"
+            ],
+            "html": "<td class=\"infobox-data\">8,000 (larger arena)<br>2,800 (smaller arena)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "1975",
+            "lines": [
+              "1975"
+            ],
+            "html": "<td class=\"infobox-data\">1975</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1977 (1977)",
+            "lines": [
+              "1977 (1977)"
+            ],
+            "html": "<td class=\"infobox-data\">1977<span>&nbsp;(<span class=\"bday dtstart published updated\">1977</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2000, 2014, 2023",
+            "lines": [
+              "2000, 2014, 2023"
+            ],
+            "html": "<td class=\"infobox-data\">2000, 2014, 2023</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Živorad Janković and Halid Muhasilović",
+            "lines": [
+              "Živorad Janković and Halid Muhasilović"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/%C5%BDivorad_Jankovi%C4%87\" title=\"Živorad Janković\">Živorad Janković</a> and Halid Muhasilović</td>",
+            "links": [
+              {
+                "text": "Živorad Janković",
+                "title": "Živorad Janković",
+                "wikiTitle": "Živorad Janković",
+                "href": "https://en.wikipedia.org/wiki/%C5%BDivorad_Jankovi%C4%87",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "KB Prishtina (basketball)",
+            "lines": [
+              "KB Prishtina (basketball)"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/KB_Prishtina\" title=\"KB Prishtina\">KB Prishtina</a> (basketball)</td>",
+            "links": [
+              {
+                "text": "KB Prishtina",
+                "title": "KB Prishtina",
+                "wikiTitle": "KB Prishtina",
+                "href": "https://en.wikipedia.org/wiki/KB_Prishtina",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "www.pallatirinise.com",
+            "lines": [
+              "www.pallatirinise.com"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.pallatirinise.com/\">www<wbr>.pallatirinise<wbr>.com</a></span></td>",
+            "links": [
+              {
+                "text": "www.pallatirinise.com",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://www.pallatirinise.com/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "former_names": [
+            {
+              "label": "Former names",
+              "key": "former_names",
+              "group": null,
+              "text": "Boro and Ramiz",
+              "lines": [
+                "Boro and Ramiz"
+              ],
+              "html": "<td class=\"infobox-data nickname\">Boro and Ramiz</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Pristina, Kosovo",
+              "lines": [
+                "Pristina, Kosovo"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Pristina\" title=\"Pristina\">Pristina</a>, <a href=\"https://en.wikipedia.org/wiki/Kosovo\" title=\"Kosovo\">Kosovo</a></td>",
+              "links": [
+                {
+                  "text": "Pristina",
+                  "title": "Pristina",
+                  "wikiTitle": "Pristina",
+                  "href": "https://en.wikipedia.org/wiki/Pristina",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Kosovo",
+                  "title": "Kosovo",
+                  "wikiTitle": "Kosovo",
+                  "href": "https://en.wikipedia.org/wiki/Kosovo",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "42°39′40″N 21°09′26″E﻿ / ﻿42.6611°N 21.1572°E﻿ / 42.6611; 21.1572",
+              "lines": [
+                "42°39′40″N 21°09′26″E﻿ / ﻿42.6611°N 21.1572°E﻿ / 42.6611; 21.1572"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Palace_of_Youth_and_Sports&amp;params=42.6611_N_21.1572_E_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">42°39′40″N</span> <span class=\"longitude\">21°09′26″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">42.6611°N 21.1572°E</span><span>﻿ / <span class=\"geo\">42.6611; 21.1572</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "42°39′40″N 21°09′26″E﻿ / ﻿42.6611°N 21.1572°E﻿ / 42.6611; 21.1572",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Palace_of_Youth_and_Sports&params=42.6611_N_21.1572_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Disputed between the Municipality of Pristina and the Kosovo Privatization Agency",
+              "lines": [
+                "Disputed between the Municipality of Pristina and the Kosovo Privatization Agency"
+              ],
+              "html": "<td class=\"infobox-data agent\">Disputed between the <a href=\"https://en.wikipedia.org/wiki/Municipality_of_Pristina\" class=\"mw-redirect\" title=\"Municipality of Pristina\">Municipality of Pristina</a> and the <a href=\"https://en.wikipedia.org/wiki/Privatisation_Agency_of_Kosovo\" title=\"Privatisation Agency of Kosovo\">Kosovo Privatization Agency</a></td>",
+              "links": [
+                {
+                  "text": "Municipality of Pristina",
+                  "title": "Municipality of Pristina",
+                  "wikiTitle": "Municipality of Pristina",
+                  "href": "https://en.wikipedia.org/wiki/Municipality_of_Pristina",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Kosovo Privatization Agency",
+                  "title": "Privatisation Agency of Kosovo",
+                  "wikiTitle": "Privatisation Agency of Kosovo",
+                  "href": "https://en.wikipedia.org/wiki/Privatisation_Agency_of_Kosovo",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "8,000 (larger arena)\n2,800 (smaller arena)",
+              "lines": [
+                "8,000 (larger arena)",
+                "2,800 (smaller arena)"
+              ],
+              "html": "<td class=\"infobox-data\">8,000 (larger arena)<br>2,800 (smaller arena)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "1975",
+              "lines": [
+                "1975"
+              ],
+              "html": "<td class=\"infobox-data\">1975</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1977 (1977)",
+              "lines": [
+                "1977 (1977)"
+              ],
+              "html": "<td class=\"infobox-data\">1977<span>&nbsp;(<span class=\"bday dtstart published updated\">1977</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2000, 2014, 2023",
+              "lines": [
+                "2000, 2014, 2023"
+              ],
+              "html": "<td class=\"infobox-data\">2000, 2014, 2023</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Živorad Janković and Halid Muhasilović",
+              "lines": [
+                "Živorad Janković and Halid Muhasilović"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/%C5%BDivorad_Jankovi%C4%87\" title=\"Živorad Janković\">Živorad Janković</a> and Halid Muhasilović</td>",
+              "links": [
+                {
+                  "text": "Živorad Janković",
+                  "title": "Živorad Janković",
+                  "wikiTitle": "Živorad Janković",
+                  "href": "https://en.wikipedia.org/wiki/%C5%BDivorad_Jankovi%C4%87",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "KB Prishtina (basketball)",
+              "lines": [
+                "KB Prishtina (basketball)"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/KB_Prishtina\" title=\"KB Prishtina\">KB Prishtina</a> (basketball)</td>",
+              "links": [
+                {
+                  "text": "KB Prishtina",
+                  "title": "KB Prishtina",
+                  "wikiTitle": "KB Prishtina",
+                  "href": "https://en.wikipedia.org/wiki/KB_Prishtina",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "www.pallatirinise.com",
+              "lines": [
+                "www.pallatirinise.com"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.pallatirinise.com/\">www<wbr>.pallatirinise<wbr>.com</a></span></td>",
+              "links": [
+                {
+                  "text": "www.pallatirinise.com",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://www.pallatirinise.com/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "former_names": [
+            "Boro and Ramiz"
+          ],
+          "location": [
+            "Pristina, Kosovo"
+          ],
+          "coordinates": [
+            "42°39′40″N 21°09′26″E﻿ / ﻿42.6611°N 21.1572°E﻿ / 42.6611; 21.1572"
+          ],
+          "owner": [
+            "Disputed between the Municipality of Pristina and the Kosovo Privatization Agency"
+          ],
+          "capacity": [
+            "8,000 (larger arena)\n2,800 (smaller arena)"
+          ],
+          "groundbreaking": [
+            "1975"
+          ],
+          "opened": [
+            "1977 (1977)"
+          ],
+          "renovated": [
+            "2000, 2014, 2023"
+          ],
+          "architect": [
+            "Živorad Janković and Halid Muhasilović"
+          ],
+          "tenants": [
+            "KB Prishtina (basketball)"
+          ],
+          "website": [
+            "www.pallatirinise.com"
+          ]
+        },
+        "formerNames": [
+          "Boro and Ramiz"
+        ],
+        "capacities": [
+          "8,000 (larger arena)",
+          "2,800 (smaller arena)"
+        ],
+        "tenants": [
+          "KB Prishtina (basketball)"
+        ],
+        "websites": [
+          "http://www.pallatirinise.com/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:Palacio de Juventud y Deportes, Pristina, Kosovo, 2014-04-16, DD 21.JPG",
+            "fileName": "Palacio de Juventud y Deportes, Pristina, Kosovo, 2014-04-16, DD 21.JPG",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Palacio_de_Juventud_y_Deportes,_Pristina,_Kosovo,_2014-04-16,_DD_21.JPG",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG/250px-Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG/500px-Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 116,
+            "originalWidth": 5028,
+            "originalHeight": 2340,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Palace of Youth and Sports in April 2014"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Palace_of_Youth_and_Sports&revid=1364831923&groups=_ccfbb07ebb210983047a8df5cc09555f9b98358d&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Palace_of_Youth_and_Sports&revid=1364831923&groups=_ccfbb07ebb210983047a8df5cc09555f9b98358d&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Palace of Youth and Sports"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Palace of Youth and Sports</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><span title=\"Albanian-language text\"><i lang=\"sq\">Pallati i Rinisë dhe Sporteve</i></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Palacio_de_Juventud_y_Deportes,_Pristina,_Kosovo,_2014-04-16,_DD_21.JPG\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG/250px-Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG\" width=\"250\" height=\"116\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG/500px-Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG 2x\" data-file-width=\"5028\" data-file-height=\"2340\"></a></span><div class=\"infobox-caption\">Palace of Youth and Sports in April 2014</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_ccfbb07ebb210983047a8df5cc09555f9b98358d&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Palace_of_Youth_and_Sports&amp;revid=1364831923&amp;groups=_ccfbb07ebb210983047a8df5cc09555f9b98358d&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Palace_of_Youth_and_Sports&amp;revid=1364831923&amp;groups=_ccfbb07ebb210983047a8df5cc09555f9b98358d&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Palace of Youth and Sports</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Former names</div></th><td class=\"infobox-data nickname\">Boro and Ramiz</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Pristina\" title=\"Pristina\">Pristina</a>, <a href=\"https://en.wikipedia.org/wiki/Kosovo\" title=\"Kosovo\">Kosovo</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Palace_of_Youth_and_Sports&amp;params=42.6611_N_21.1572_E_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">42°39′40″N</span> <span class=\"longitude\">21°09′26″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">42.6611°N 21.1572°E</span><span>﻿ / <span class=\"geo\">42.6611; 21.1572</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Disputed between the <a href=\"https://en.wikipedia.org/wiki/Municipality_of_Pristina\" class=\"mw-redirect\" title=\"Municipality of Pristina\">Municipality of Pristina</a> and the <a href=\"https://en.wikipedia.org/wiki/Privatisation_Agency_of_Kosovo\" title=\"Privatisation Agency of Kosovo\">Kosovo Privatization Agency</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">8,000 (larger arena)<br>2,800 (smaller arena)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">1975</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1977<span>&nbsp;(<span class=\"bday dtstart published updated\">1977</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2000, 2014, 2023</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/%C5%BDivorad_Jankovi%C4%87\" title=\"Živorad Janković\">Živorad Janković</a> and Halid Muhasilović</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/KB_Prishtina\" title=\"KB Prishtina\">KB Prishtina</a> (basketball)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.pallatirinise.com/\">www<wbr>.pallatirinise<wbr>.com</a></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Serbian-language_sources_(sr)",
+        "CS1_Albanian-language_sources_(sq)",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Articles_containing_Albanian-language_text",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Articles_containing_Serbian-language_text",
+        "Commons_category_link_is_on_Wikidata",
+        "Official_website_different_in_Wikidata_and_Wikipedia",
+        "Buildings_and_structures_in_Pristina",
+        "Sports_venues_in_Kosovo",
+        "Indoor_arenas_in_Kosovo",
+        "Basketball_venues_in_Kosovo",
+        "Sports_venues_completed_in_1977",
+        "Sport_in_Pristina",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Palace_of_Youth_and_Sports&params=42.6611_N_21.1572_E_type:landmark",
+        "http://arhiva.glas-javnosti.rs/arhiva/2000/02/27/srpski/P00022610.shtm",
+        "http://newpolis.org/files/Project-Boro-Ramizi-co.pdf",
+        "http://koha.net/?id=8&l=30996",
+        "http://www.balkaninsight.com/rs/article/zaboravljeni-heroji-srpsko-albanskog-prijateljstva-01-14-2016",
+        "http://arhiva.glas-javnosti.rs/arhiva/2000/02/27/srpski/P00022611.shtm",
+        "https://www.mkrs-ks.org/?page=2,6,718",
+        "https://www.dukagjini.com/ceku-ka-perfunduar-renovimi-i-palestres-sportive-ne-pallatin-e-rinise-dhe-sporteve-ne-prishtine/",
+        "https://www.koha.net/en/sports/392361/Kosovo-will-aim-for-first-place-in-the-Mediterranean-Games/",
+        "https://podujevapress.net/lojerat-mesdhetare-te-vitit-2030-do-te-mbahen-edhe-ne-podujeve-ne-keto-vende-dokument/?fbclid=IwAR25msRwzS8WI0u0JdyqOCPBemVlcWlJW-v4tOIHEW3WVUweNOVoTpjlQHI",
+        "https://web.archive.org/web/20150402161550/http://www.lajmeonline.net/en/Pristina-organizes-official-league-final-four-Balkan/",
+        "http://www.lajmeonline.net/en/Pristina-organizes-official-league-final-four-Balkan/",
+        "https://balkaninsight.com/2009/05/27/the-palace-of-youth-and-sports-shows-its-age/",
+        "http://plisi.org/ditar/shpallje-shes-shpirtin/",
+        "https://web.archive.org/web/20120914025211/http://www.m-magazine.org/en/Culture/Rita-Ora-stays-in-Kosovo-3103",
+        "http://www.m-magazine.org/en/Culture/Rita-Ora-stays-in-Kosovo-3103",
+        "https://prishtinainsight.com/observatory-in-prishtina-reopens-after-35-year-gap/",
+        "http://www.pallatirinise.com"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Building",
+          "anchor": "Building"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Palacio_de_Juventud_y_Deportes,_Pristina,_Kosovo,_2014-04-16,_DD_21.JPG",
+        "Pristina_Palace_of_Youth_and_Sports.jpg",
+        "Inside_of_Pristina_Palace_of_Youth_and_Sports.png",
+        "Commons-logo.svg",
+        "Prishtina-seal.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Palacio de Juventud y Deportes, Pristina, Kosovo, 2014-04-16, DD 21.JPG",
+          "fileName": "Palacio de Juventud y Deportes, Pristina, Kosovo, 2014-04-16, DD 21.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Palacio_de_Juventud_y_Deportes,_Pristina,_Kosovo,_2014-04-16,_DD_21.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG/250px-Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG/500px-Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 116,
+          "originalWidth": 5028,
+          "originalHeight": 2340,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Palace of Youth and Sports in April 2014"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Palace_of_Youth_and_Sports&revid=1364831923&groups=_ccfbb07ebb210983047a8df5cc09555f9b98358d&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Palace_of_Youth_and_Sports&revid=1364831923&groups=_ccfbb07ebb210983047a8df5cc09555f9b98358d&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Palace of Youth and Sports"
+        },
+        {
+          "fileTitle": "File:Pristina Palace of Youth and Sports.jpg",
+          "fileName": "Pristina Palace of Youth and Sports.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Pristina_Palace_of_Youth_and_Sports.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pristina_Palace_of_Youth_and_Sports.jpg/250px-Pristina_Palace_of_Youth_and_Sports.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pristina_Palace_of_Youth_and_Sports.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Pristina_Palace_of_Youth_and_Sports.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pristina_Palace_of_Youth_and_Sports.jpg/500px-Pristina_Palace_of_Youth_and_Sports.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 179,
+          "originalWidth": 1206,
+          "originalHeight": 863,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The palace as seen from the Cathedral of Saint Mother Teresa (2025)"
+        },
+        {
+          "fileTitle": "File:Inside of Pristina Palace of Youth and Sports.png",
+          "fileName": "Inside of Pristina Palace of Youth and Sports.png",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Inside_of_Pristina_Palace_of_Youth_and_Sports.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Inside_of_Pristina_Palace_of_Youth_and_Sports.png/250px-Inside_of_Pristina_Palace_of_Youth_and_Sports.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Inside_of_Pristina_Palace_of_Youth_and_Sports.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Inside_of_Pristina_Palace_of_Youth_and_Sports.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Inside_of_Pristina_Palace_of_Youth_and_Sports.png/500px-Inside_of_Pristina_Palace_of_Youth_and_Sports.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 186,
+          "originalWidth": 1918,
+          "originalHeight": 1430,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The palace's main arena in June 2025."
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Prishtina-seal.svg",
+          "fileName": "Prishtina-seal.svg",
+          "kind": "drawing",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Prishtina-seal.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Prishtina-seal.svg/60px-Prishtina-seal.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Prishtina-seal.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Prishtina-seal.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Prishtina-seal.svg/120px-Prishtina-seal.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 78,
+          "originalWidth": 512,
+          "originalHeight": 803,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 578,
+          "rowText": "Palace of Youth and Sports\n1977\n8,000\nSigal Prishtina",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Palace_of_Youth_and_Sports\" title=\"Palace of Youth and Sports\">Palace of Youth and Sports</a>\n</td>\n<td>1977\n</td>\n<td>8,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Sigal_Prishtina\" class=\"mw-redirect\" title=\"Sigal Prishtina\">Sigal Prishtina</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 567,
+              "cell": {
+                "text": "Kosovo\n(list)",
+                "lines": [
+                  "Kosovo",
+                  "(list)"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Kosovo",
+                    "title": "Kosovo",
+                    "wikiTitle": "Kosovo",
+                    "href": "https://en.wikipedia.org/wiki/Kosovo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "list",
+                    "title": "List of indoor arenas in Kosovo",
+                    "wikiTitle": "List of indoor arenas in Kosovo",
+                    "href": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Kosovo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 577,
+              "cell": {
+                "text": "Pristina",
+                "lines": [
+                  "Pristina"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Pristina",
+                    "title": "Pristina",
+                    "wikiTitle": "Pristina",
+                    "href": "https://en.wikipedia.org/wiki/Pristina",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 578,
+              "cell": {
+                "text": "Palace of Youth and Sports",
+                "lines": [
+                  "Palace of Youth and Sports"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Palace of Youth and Sports",
+                    "title": "Palace of Youth and Sports",
+                    "wikiTitle": "Palace of Youth and Sports",
+                    "href": "https://en.wikipedia.org/wiki/Palace_of_Youth_and_Sports",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 578,
+              "cell": {
+                "text": "1977",
+                "lines": [
+                  "1977"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 578,
+              "cell": {
+                "text": "8,000",
+                "lines": [
+                  "8,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 578,
+              "cell": {
+                "text": "Sigal Prishtina",
+                "lines": [
+                  "Sigal Prishtina"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Sigal Prishtina",
+                    "title": "Sigal Prishtina",
+                    "wikiTitle": "Sigal Prishtina",
+                    "href": "https://en.wikipedia.org/wiki/Sigal_Prishtina",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Palace of Youth and Sports",
+            "lines": [
+              "Palace of Youth and Sports"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Palace of Youth and Sports",
+                "title": "Palace of Youth and Sports",
+                "wikiTitle": "Palace of Youth and Sports",
+                "href": "https://en.wikipedia.org/wiki/Palace_of_Youth_and_Sports",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Kosovo",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Kosovo",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": "Kosovo",
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 1,
+          "rowText": "Pallati i Rinisë\n8,000\n2,500\nPristina\nKB Prishtina\n1978",
+          "rowHtml": "<tr>\n<td><span><a href=\"https://en.wikipedia.org/wiki/File:Palacio_de_Juventud_y_Deportes,_Pristina,_Kosovo,_2014-04-16,_DD_21.JPG\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG/250px-Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG\" width=\"150\" height=\"70\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG/330px-Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG 2x\" data-file-width=\"5028\" data-file-height=\"2340\"></a></span></td>\n<td><a href=\"https://en.wikipedia.org/wiki/Palace_of_Youth_and_Sports\" title=\"Palace of Youth and Sports\">Pallati i Rinisë</a>\n</td>\n<td align=\"right\">8,000 <br> 2,500</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Pristina\" title=\"Pristina\">Pristina</a></td>\n<td><a href=\"https://en.wikipedia.org/wiki/KB_Prishtina\" title=\"KB Prishtina\">KB Prishtina</a></td>\n<td align=\"center\">1978</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [
+                  {
+                    "text": "",
+                    "title": "File:Palacio de Juventud y Deportes, Pristina, Kosovo, 2014-04-16, DD 21.JPG",
+                    "wikiTitle": "File:Palacio de Juventud y Deportes, Pristina, Kosovo, 2014-04-16, DD 21.JPG",
+                    "href": "https://en.wikipedia.org/wiki/File:Palacio_de_Juventud_y_Deportes,_Pristina,_Kosovo,_2014-04-16,_DD_21.JPG",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": "File:Palacio de Juventud y Deportes, Pristina, Kosovo, 2014-04-16, DD 21.JPG",
+                    "fileName": "Palacio de Juventud y Deportes, Pristina, Kosovo, 2014-04-16, DD 21.JPG",
+                    "kind": "photo",
+                    "filePageUrl": "https://en.wikipedia.org/wiki/File:Palacio_de_Juventud_y_Deportes,_Pristina,_Kosovo,_2014-04-16,_DD_21.JPG",
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG/250px-Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+                    "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+                    "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG/330px-Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 150,
+                    "height": 70,
+                    "originalWidth": 5028,
+                    "originalHeight": 2340,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "Pallati i Rinisë",
+                "lines": [
+                  "Pallati i Rinisë"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Pallati i Rinisë",
+                    "title": "Palace of Youth and Sports",
+                    "wikiTitle": "Palace of Youth and Sports",
+                    "href": "https://en.wikipedia.org/wiki/Palace_of_Youth_and_Sports",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "8,000\n2,500",
+                "lines": [
+                  "8,000",
+                  "2,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "Pristina",
+                "lines": [
+                  "Pristina"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Pristina",
+                    "title": "Pristina",
+                    "wikiTitle": "Pristina",
+                    "href": "https://en.wikipedia.org/wiki/Pristina",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Team",
+              "headerKey": "team",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "KB Prishtina",
+                "lines": [
+                  "KB Prishtina"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "KB Prishtina",
+                    "title": "KB Prishtina",
+                    "wikiTitle": "KB Prishtina",
+                    "href": "https://en.wikipedia.org/wiki/KB_Prishtina",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Inaugurated",
+              "headerKey": "inaugurated",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "1978",
+                "lines": [
+                  "1978"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Inside arena",
+              "headerKey": "inside_arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": "File:Palacio de Juventud y Deportes, Pristina, Kosovo, 2014-04-16, DD 21.JPG",
+              "fileName": "Palacio de Juventud y Deportes, Pristina, Kosovo, 2014-04-16, DD 21.JPG",
+              "kind": "photo",
+              "filePageUrl": "https://en.wikipedia.org/wiki/File:Palacio_de_Juventud_y_Deportes,_Pristina,_Kosovo,_2014-04-16,_DD_21.JPG",
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG/250px-Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+              "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+              "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG/330px-Palacio_de_Juventud_y_Deportes%2C_Pristina%2C_Kosovo%2C_2014-04-16%2C_DD_21.JPG",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 150,
+              "height": 70,
+              "originalWidth": 5028,
+              "originalHeight": 2340,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Pallati i Rinisë",
+            "lines": [
+              "Pallati i Rinisë"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Pallati i Rinisë",
+                "title": "Palace of Youth and Sports",
+                "wikiTitle": "Palace of Youth and Sports",
+                "href": "https://en.wikipedia.org/wiki/Palace_of_Youth_and_Sports",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:46:22.746Z"
+    },
+    {
+      "id": "wikipedia-page-4532299",
+      "pageId": 4532299,
+      "revisionId": null,
+      "title": "Sports club",
+      "displayTitle": "Sports club",
+      "url": "https://en.wikipedia.org/wiki/Sports_club",
+      "wikidataItem": "Q847017",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q847017",
+      "aliases": [
+        "Omnisport",
+        "Sports club"
+      ],
+      "requestedTitles": [
+        "Omnisport"
+      ],
+      "sourceLinkTexts": [
+        "Omnisport"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Omnisport"
+      ],
+      "sourcePages": [
+        "List of indoor arenas in Kosovo"
+      ],
+      "sourceTypes": [
+        "country_or_region_list"
+      ],
+      "sourceCountries": [
+        "Kosovo"
+      ],
+      "coordinates": null,
+      "leadParagraphs": [],
+      "infobox": null,
+      "categories": [
+        "Webarchive_template_wayback_links",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Articles_needing_additional_references_from_November_2022",
+        "All_articles_needing_additional_references",
+        "Sports_clubs_and_teams",
+        "Sports_organizations",
+        "Sports_terminology",
+        "Clubs_and_societies"
+      ],
+      "externalLinks": [
+        "http://redbulls.com/",
+        "https://web.archive.org/web/20101110012353/http://redbulls.com/",
+        "https://www.englandathletics.org/clubs-and-facilities/club-affiliation/managing-athlete-registration/",
+        "https://web.archive.org/web/20190603184450/https://www.englandathletics.org/clubs-and-facilities/club-affiliation/managing-athlete-registration/",
+        "https://www.google.com/search?as_eq=wikipedia&q=%22Sports+club%22",
+        "https://www.google.com/search?tbm=nws&q=%22Sports+club%22+-wikipedia&tbs=ar:1",
+        "https://www.google.com/search?&q=%22Sports+club%22&tbs=bkt:s&tbm=bks",
+        "https://www.google.com/search?tbs=bks:1&q=%22Sports+club%22+-wikipedia",
+        "https://scholar.google.com/scholar?q=%22Sports+club%22",
+        "https://www.jstor.org/action/doBasicSearch?Query=%22Sports+club%22&acc=on&wc=on",
+        "https://d-nb.info/gnd/4056433-2",
+        "https://id.worldcat.org/fast/820093",
+        "https://id.loc.gov/authorities/sh85009147",
+        "https://catalogue.bnf.fr/ark:/12148/cb119817073",
+        "https://data.bnf.fr/ark:/12148/cb119817073",
+        "https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph125949&CON_LNG=ENG",
+        "https://datos.bne.es/resource/XX533984",
+        "https://kopkatalogs.lv/F?func=direct&local_base=lnc10&doc_number=000313566&P_CON_LNG=ENG",
+        "https://lux.collections.yale.edu/view/concept/459491e3-2aba-409b-be5b-93dd81ea505d"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Organization",
+          "anchor": "Organization"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Membership",
+          "anchor": "Membership"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Sports clubs around the world",
+          "anchor": "Sports_clubs_around_the_world"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Question_book-new.svg",
+        "Clube.JPG",
+        "Sports_icon.png",
+        "Symbol_category_class.svg",
+        "Global_thinking.svg",
+        "Symbol_list_class.svg",
+        "OOjs_UI_icon_edit-ltr-progressive.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Question book-new.svg",
+          "fileName": "Question book-new.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 39,
+          "originalWidth": 512,
+          "originalHeight": 399,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Clube.JPG",
+          "fileName": "Clube.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Clube.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Clube.JPG/250px-Clube.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Clube.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Clube.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Clube.JPG/500px-Clube.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 2048,
+          "originalHeight": 1536,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "A sport club in Belo Horizonte, Brazil, showing various paved and painted surfaces for futsal, handball, basketball and volleyball, with two swimming pools in the foreground."
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sports_icon.png/20px-Sports_icon.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sports_icon.png/40px-Sports_icon.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 17,
+          "height": 15,
+          "originalWidth": 251,
+          "originalHeight": 226,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/20px-Symbol_category_class.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/40px-Symbol_category_class.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 16,
+          "height": 16,
+          "originalWidth": 180,
+          "originalHeight": 185,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/20px-Global_thinking.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Global_thinking.svg/40px-Global_thinking.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 10,
+          "height": 16,
+          "originalWidth": 130,
+          "originalHeight": 200,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/20px-Symbol_list_class.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/40px-Symbol_list_class.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 16,
+          "height": 16,
+          "originalWidth": 180,
+          "originalHeight": 185,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas in Kosovo",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Kosovo",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": "Kosovo",
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 35,
+          "rowText": "Omnisport\n300\nMitrovica\nKH Trepça (until 2020)\n2017",
+          "rowHtml": "<tr>\n<td></td>\n<td><a href=\"https://en.wikipedia.org/wiki/Omnisport\" class=\"mw-redirect\" title=\"Omnisport\">Omnisport</a>\n</td>\n<td align=\"right\">300</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Mitrovica,_Kosovo\" title=\"Mitrovica, Kosovo\">Mitrovica</a></td>\n<td><a href=\"https://en.wikipedia.org/wiki/KH_Trep%C3%A7a\" title=\"KH Trepça\">KH Trepça</a> (until 2020)</td>\n<td align=\"center\">2017</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 35,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 35,
+              "cell": {
+                "text": "Omnisport",
+                "lines": [
+                  "Omnisport"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Omnisport",
+                    "title": "Omnisport",
+                    "wikiTitle": "Omnisport",
+                    "href": "https://en.wikipedia.org/wiki/Omnisport",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 35,
+              "cell": {
+                "text": "300",
+                "lines": [
+                  "300"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 35,
+              "cell": {
+                "text": "Mitrovica",
+                "lines": [
+                  "Mitrovica"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Mitrovica",
+                    "title": "Mitrovica, Kosovo",
+                    "wikiTitle": "Mitrovica, Kosovo",
+                    "href": "https://en.wikipedia.org/wiki/Mitrovica,_Kosovo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Team",
+              "headerKey": "team",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 35,
+              "cell": {
+                "text": "KH Trepça (until 2020)",
+                "lines": [
+                  "KH Trepça (until 2020)"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "KH Trepça",
+                    "title": "KH Trepça",
+                    "wikiTitle": "KH Trepça",
+                    "href": "https://en.wikipedia.org/wiki/KH_Trep%C3%A7a",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Inaugurated",
+              "headerKey": "inaugurated",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 35,
+              "cell": {
+                "text": "2017",
+                "lines": [
+                  "2017"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Inside arena",
+              "headerKey": "inside_arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 35,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Omnisport",
+            "lines": [
+              "Omnisport"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Omnisport",
+                "title": "Omnisport",
+                "wikiTitle": "Omnisport",
+                "href": "https://en.wikipedia.org/wiki/Omnisport",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:51:15.335Z"
+    }
+  ]
+}

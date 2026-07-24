@@ -1,0 +1,3267 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Iceland",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 3
+  },
+  "stats": {
+    "arenaCount": 3,
+    "sourceRowCount": 4,
+    "mediaRecordCount": 12,
+    "sourceTypeCounts": {
+      "world_master_list": 3,
+      "country_or_region_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-53409259",
+      "pageId": 53409259,
+      "revisionId": null,
+      "title": "Ásvellir",
+      "displayTitle": "Ásvellir",
+      "url": "https://en.wikipedia.org/wiki/%C3%81svellir",
+      "wikidataItem": "Q30593866",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q30593866",
+      "aliases": [
+        "Ásvellir"
+      ],
+      "requestedTitles": [
+        "Ásvellir"
+      ],
+      "sourceLinkTexts": [
+        "Ásvellir"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/%C3%81svellir"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 64.0522555,
+        "longitude": -21.9693009,
+        "raw": "64.0522555; -21.9693009"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Ásvellir",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Hafnarfjörður, Iceland",
+            "lines": [
+              "Hafnarfjörður, Iceland"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Hafnarfj%C3%B6r%C3%B0ur\" title=\"Hafnarfjörður\">Hafnarfjörður</a>, <a href=\"https://en.wikipedia.org/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>",
+            "links": [
+              {
+                "text": "Hafnarfjörður",
+                "title": "Hafnarfjörður",
+                "wikiTitle": "Hafnarfjörður",
+                "href": "https://en.wikipedia.org/wiki/Hafnarfj%C3%B6r%C3%B0ur",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Iceland",
+                "title": "Iceland",
+                "wikiTitle": "Iceland",
+                "href": "https://en.wikipedia.org/wiki/Iceland",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Hafnarfjörður",
+            "lines": [
+              "Hafnarfjörður"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Hafnarfj%C3%B6r%C3%B0ur\" title=\"Hafnarfjörður\">Hafnarfjörður</a></td>",
+            "links": [
+              {
+                "text": "Hafnarfjörður",
+                "title": "Hafnarfjörður",
+                "wikiTitle": "Hafnarfjörður",
+                "href": "https://en.wikipedia.org/wiki/Hafnarfj%C3%B6r%C3%B0ur",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "2,120",
+            "lines": [
+              "2,120"
+            ],
+            "html": "<td class=\"infobox-data\">2,120</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "group": null,
+            "text": "Sport venue",
+            "lines": [
+              "Sport venue"
+            ],
+            "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Sport_venue\" class=\"mw-redirect\" title=\"Sport venue\">Sport venue</a></td>",
+            "links": [
+              {
+                "text": "Sport venue",
+                "title": "Sport venue",
+                "wikiTitle": "Sport venue",
+                "href": "https://en.wikipedia.org/wiki/Sport_venue",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Surface",
+            "key": "surface",
+            "group": null,
+            "text": "Grass",
+            "lines": [
+              "Grass"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Grass\" title=\"Grass\">Grass</a></td>",
+            "links": [
+              {
+                "text": "Grass",
+                "title": "Grass",
+                "wikiTitle": "Grass",
+                "href": "https://en.wikipedia.org/wiki/Grass",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "1999",
+            "lines": [
+              "1999"
+            ],
+            "html": "<td class=\"infobox-data\">1999</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "2000",
+            "lines": [
+              "2000"
+            ],
+            "html": "<td class=\"infobox-data\">2000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2014",
+            "lines": [
+              "2014"
+            ],
+            "html": "<td class=\"infobox-data\">2014</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Expanded",
+            "key": "expanded",
+            "group": "Construction",
+            "text": "2018",
+            "lines": [
+              "2018"
+            ],
+            "html": "<td class=\"infobox-data\">2018</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Haukar men's football\nHaukar men's basketball\nHaukar women's basketball\nHaukar Handball\nKÁ",
+            "lines": [
+              "Haukar men's football",
+              "Haukar men's basketball",
+              "Haukar women's basketball",
+              "Haukar Handball",
+              "KÁ"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><div class=\"plainlist\"><ul><li>\n<ul><li><a href=\"https://en.wikipedia.org/wiki/Haukar_men%27s_football\" class=\"mw-redirect\" title=\"Haukar men's football\">Haukar men's football</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Haukar_men%27s_basketball\" class=\"mw-redirect\" title=\"Haukar men's basketball\">Haukar men's basketball</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Haukar_women%27s_basketball\" class=\"mw-redirect\" title=\"Haukar women's basketball\">Haukar women's basketball</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Haukar_Handball\" title=\"Haukar Handball\">Haukar Handball</a></li>\n<li><a href=\"https://en.wikipedia.org/w/index.php?title=Knattspyrnuf%C3%A9lagi%C3%B0_%C3%81svellir&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Knattspyrnufélagið Ásvellir (page does not exist)\">KÁ</a></li></ul>\n</li></ul></div></td>",
+            "links": [
+              {
+                "text": "Haukar men's football",
+                "title": "Haukar men's football",
+                "wikiTitle": "Haukar men's football",
+                "href": "https://en.wikipedia.org/wiki/Haukar_men%27s_football",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Haukar men's basketball",
+                "title": "Haukar men's basketball",
+                "wikiTitle": "Haukar men's basketball",
+                "href": "https://en.wikipedia.org/wiki/Haukar_men%27s_basketball",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Haukar women's basketball",
+                "title": "Haukar women's basketball",
+                "wikiTitle": "Haukar women's basketball",
+                "href": "https://en.wikipedia.org/wiki/Haukar_women%27s_basketball",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Haukar Handball",
+                "title": "Haukar Handball",
+                "wikiTitle": "Haukar Handball",
+                "href": "https://en.wikipedia.org/wiki/Haukar_Handball",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "KÁ",
+                "title": "Knattspyrnufélagið Ásvellir (page does not exist)",
+                "wikiTitle": "Knattspyrnufélagið Ásvellir",
+                "href": "https://en.wikipedia.org/w/index.php?title=Knattspyrnuf%C3%A9lagi%C3%B0_%C3%81svellir&action=edit&redlink=1",
+                "blueArticle": false,
+                "redLink": true,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Hafnarfjörður, Iceland",
+              "lines": [
+                "Hafnarfjörður, Iceland"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Hafnarfj%C3%B6r%C3%B0ur\" title=\"Hafnarfjörður\">Hafnarfjörður</a>, <a href=\"https://en.wikipedia.org/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>",
+              "links": [
+                {
+                  "text": "Hafnarfjörður",
+                  "title": "Hafnarfjörður",
+                  "wikiTitle": "Hafnarfjörður",
+                  "href": "https://en.wikipedia.org/wiki/Hafnarfj%C3%B6r%C3%B0ur",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Iceland",
+                  "title": "Iceland",
+                  "wikiTitle": "Iceland",
+                  "href": "https://en.wikipedia.org/wiki/Iceland",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Hafnarfjörður",
+              "lines": [
+                "Hafnarfjörður"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Hafnarfj%C3%B6r%C3%B0ur\" title=\"Hafnarfjörður\">Hafnarfjörður</a></td>",
+              "links": [
+                {
+                  "text": "Hafnarfjörður",
+                  "title": "Hafnarfjörður",
+                  "wikiTitle": "Hafnarfjörður",
+                  "href": "https://en.wikipedia.org/wiki/Hafnarfj%C3%B6r%C3%B0ur",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "2,120",
+              "lines": [
+                "2,120"
+              ],
+              "html": "<td class=\"infobox-data\">2,120</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "type": [
+            {
+              "label": "Type",
+              "key": "type",
+              "group": null,
+              "text": "Sport venue",
+              "lines": [
+                "Sport venue"
+              ],
+              "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Sport_venue\" class=\"mw-redirect\" title=\"Sport venue\">Sport venue</a></td>",
+              "links": [
+                {
+                  "text": "Sport venue",
+                  "title": "Sport venue",
+                  "wikiTitle": "Sport venue",
+                  "href": "https://en.wikipedia.org/wiki/Sport_venue",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "surface": [
+            {
+              "label": "Surface",
+              "key": "surface",
+              "group": null,
+              "text": "Grass",
+              "lines": [
+                "Grass"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Grass\" title=\"Grass\">Grass</a></td>",
+              "links": [
+                {
+                  "text": "Grass",
+                  "title": "Grass",
+                  "wikiTitle": "Grass",
+                  "href": "https://en.wikipedia.org/wiki/Grass",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "1999",
+              "lines": [
+                "1999"
+              ],
+              "html": "<td class=\"infobox-data\">1999</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "2000",
+              "lines": [
+                "2000"
+              ],
+              "html": "<td class=\"infobox-data\">2000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2014",
+              "lines": [
+                "2014"
+              ],
+              "html": "<td class=\"infobox-data\">2014</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "expanded": [
+            {
+              "label": "Expanded",
+              "key": "expanded",
+              "group": "Construction",
+              "text": "2018",
+              "lines": [
+                "2018"
+              ],
+              "html": "<td class=\"infobox-data\">2018</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Haukar men's football\nHaukar men's basketball\nHaukar women's basketball\nHaukar Handball\nKÁ",
+              "lines": [
+                "Haukar men's football",
+                "Haukar men's basketball",
+                "Haukar women's basketball",
+                "Haukar Handball",
+                "KÁ"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><div class=\"plainlist\"><ul><li>\n<ul><li><a href=\"https://en.wikipedia.org/wiki/Haukar_men%27s_football\" class=\"mw-redirect\" title=\"Haukar men's football\">Haukar men's football</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Haukar_men%27s_basketball\" class=\"mw-redirect\" title=\"Haukar men's basketball\">Haukar men's basketball</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Haukar_women%27s_basketball\" class=\"mw-redirect\" title=\"Haukar women's basketball\">Haukar women's basketball</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Haukar_Handball\" title=\"Haukar Handball\">Haukar Handball</a></li>\n<li><a href=\"https://en.wikipedia.org/w/index.php?title=Knattspyrnuf%C3%A9lagi%C3%B0_%C3%81svellir&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Knattspyrnufélagið Ásvellir (page does not exist)\">KÁ</a></li></ul>\n</li></ul></div></td>",
+              "links": [
+                {
+                  "text": "Haukar men's football",
+                  "title": "Haukar men's football",
+                  "wikiTitle": "Haukar men's football",
+                  "href": "https://en.wikipedia.org/wiki/Haukar_men%27s_football",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Haukar men's basketball",
+                  "title": "Haukar men's basketball",
+                  "wikiTitle": "Haukar men's basketball",
+                  "href": "https://en.wikipedia.org/wiki/Haukar_men%27s_basketball",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Haukar women's basketball",
+                  "title": "Haukar women's basketball",
+                  "wikiTitle": "Haukar women's basketball",
+                  "href": "https://en.wikipedia.org/wiki/Haukar_women%27s_basketball",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Haukar Handball",
+                  "title": "Haukar Handball",
+                  "wikiTitle": "Haukar Handball",
+                  "href": "https://en.wikipedia.org/wiki/Haukar_Handball",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "KÁ",
+                  "title": "Knattspyrnufélagið Ásvellir (page does not exist)",
+                  "wikiTitle": "Knattspyrnufélagið Ásvellir",
+                  "href": "https://en.wikipedia.org/w/index.php?title=Knattspyrnuf%C3%A9lagi%C3%B0_%C3%81svellir&action=edit&redlink=1",
+                  "blueArticle": false,
+                  "redLink": true,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Hafnarfjörður, Iceland"
+          ],
+          "owner": [
+            "Hafnarfjörður"
+          ],
+          "capacity": [
+            "2,120"
+          ],
+          "type": [
+            "Sport venue"
+          ],
+          "surface": [
+            "Grass"
+          ],
+          "built": [
+            "1999"
+          ],
+          "opened": [
+            "2000"
+          ],
+          "renovated": [
+            "2014"
+          ],
+          "expanded": [
+            "2018"
+          ],
+          "tenants": [
+            "Haukar men's football\nHaukar men's basketball\nHaukar women's basketball\nHaukar Handball\nKÁ"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "2,120"
+        ],
+        "tenants": [
+          "Haukar men's football",
+          "Haukar men's basketball",
+          "Haukar women's basketball",
+          "Haukar Handball",
+          "KÁ"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=%C3%81svellir&revid=1302588923&groups=_619c3636f7864ee27a60ec42b34ac98ca580e86c&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=%C3%81svellir&revid=1302588923&groups=_619c3636f7864ee27a60ec42b34ac98ca580e86c&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Ásvellir"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Ásvellir</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_619c3636f7864ee27a60ec42b34ac98ca580e86c&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=%C3%81svellir&amp;revid=1302588923&amp;groups=_619c3636f7864ee27a60ec42b34ac98ca580e86c&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=%C3%81svellir&amp;revid=1302588923&amp;groups=_619c3636f7864ee27a60ec42b34ac98ca580e86c&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Ásvellir</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Hafnarfj%C3%B6r%C3%B0ur\" title=\"Hafnarfjörður\">Hafnarfjörður</a>, <a href=\"https://en.wikipedia.org/wiki/Iceland\" title=\"Iceland\">Iceland</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Hafnarfj%C3%B6r%C3%B0ur\" title=\"Hafnarfjörður\">Hafnarfjörður</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">2,120</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Type</th><td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Sport_venue\" class=\"mw-redirect\" title=\"Sport venue\">Sport venue</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Surface</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Grass\" title=\"Grass\">Grass</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">1999</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">2000</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2014</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Expanded</th><td class=\"infobox-data\">2018</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><div class=\"plainlist\"><ul><li>\n<ul><li><a href=\"https://en.wikipedia.org/wiki/Haukar_men%27s_football\" class=\"mw-redirect\" title=\"Haukar men's football\">Haukar men's football</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Haukar_men%27s_basketball\" class=\"mw-redirect\" title=\"Haukar men's basketball\">Haukar men's basketball</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Haukar_women%27s_basketball\" class=\"mw-redirect\" title=\"Haukar women's basketball\">Haukar women's basketball</a></li>\n<li><a href=\"https://en.wikipedia.org/wiki/Haukar_Handball\" title=\"Haukar Handball\">Haukar Handball</a></li>\n<li><a href=\"https://en.wikipedia.org/w/index.php?title=Knattspyrnuf%C3%A9lagi%C3%B0_%C3%81svellir&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Knattspyrnufélagið Ásvellir (page does not exist)\">KÁ</a></li></ul>\n</li></ul></div></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Icelandic-language_sources_(is)",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Pages_with_Icelandic_IPA",
+        "Football_venues_in_Iceland",
+        "Sports_venues_in_Capital_Region_(Iceland)",
+        "Football_in_Iceland",
+        "Basketball_venues_in_Iceland",
+        "Sport_in_Hafnarfjörður",
+        "All_stub_articles",
+        "European_sports_venue_stubs",
+        "Icelandic_sport_stubs",
+        "Icelandic_building_and_structure_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=%C3%81svellir&params=64.0522555_N_21.9693009_W_",
+        "https://web.archive.org/web/20170307204357/http://www.hafnarfjordur.is/stjornsysla/frettir/asvellir-heimsottir",
+        "http://www.hafnarfjordur.is/stjornsysla/frettir/asvellir-heimsottir",
+        "http://karfan.is/read/2014-05-23/asvellir-i-yfirhalningu/",
+        "https://web.archive.org/web/20161021134953/http://www2.fimmeinn.is/myndband-asvellir-farnir-ad-leka/",
+        "http://www2.fimmeinn.is/myndband-asvellir-farnir-ad-leka/",
+        "https://isi.is/frettir/frett/2018/04/15/Olafssalur-vigdur-a-Asvollum/",
+        "https://www.mbl.is/frettir/innlent/2022/07/01/um_10_milljona_krona_tap_af_leiknum_i_kvold/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Refurbishment",
+          "anchor": "Refurbishment"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Ólafssalur",
+          "anchor": "Ólafssalur"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Flag_of_Iceland.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=%C3%81svellir&revid=1302588923&groups=_619c3636f7864ee27a60ec42b34ac98ca580e86c&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=%C3%81svellir&revid=1302588923&groups=_619c3636f7864ee27a60ec42b34ac98ca580e86c&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Ásvellir"
+        },
+        {
+          "fileTitle": "File:Flag of Iceland.svg",
+          "fileName": "Flag of Iceland.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Iceland.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/40px-Flag_of_Iceland.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Iceland.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Iceland.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/60px-Flag_of_Iceland.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 22,
+          "originalWidth": 1250,
+          "originalHeight": 900,
+          "fileType": null,
+          "alt": "Flag of Iceland",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 500,
+          "rowText": "Iceland\nHafnarfjörður\nÁsvellir\n2000\n2,120\nHaukar Basketball",
+          "rowHtml": "<tr>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Iceland\" title=\"Iceland\">Iceland</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Hafnarfj%C3%B6r%C3%B0ur\" title=\"Hafnarfjörður\">Hafnarfjörður</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/%C3%81svellir\" title=\"Ásvellir\">Ásvellir</a>\n</td>\n<td>2000\n</td>\n<td>2,120\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Haukar_(basketball_club)\" class=\"mw-redirect\" title=\"Haukar (basketball club)\">Haukar Basketball</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 500,
+              "cell": {
+                "text": "Iceland",
+                "lines": [
+                  "Iceland"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Iceland",
+                    "title": "Iceland",
+                    "wikiTitle": "Iceland",
+                    "href": "https://en.wikipedia.org/wiki/Iceland",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 500,
+              "cell": {
+                "text": "Hafnarfjörður",
+                "lines": [
+                  "Hafnarfjörður"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Hafnarfjörður",
+                    "title": "Hafnarfjörður",
+                    "wikiTitle": "Hafnarfjörður",
+                    "href": "https://en.wikipedia.org/wiki/Hafnarfj%C3%B6r%C3%B0ur",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 500,
+              "cell": {
+                "text": "Ásvellir",
+                "lines": [
+                  "Ásvellir"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ásvellir",
+                    "title": "Ásvellir",
+                    "wikiTitle": "Ásvellir",
+                    "href": "https://en.wikipedia.org/wiki/%C3%81svellir",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 500,
+              "cell": {
+                "text": "2000",
+                "lines": [
+                  "2000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 500,
+              "cell": {
+                "text": "2,120",
+                "lines": [
+                  "2,120"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 500,
+              "cell": {
+                "text": "Haukar Basketball",
+                "lines": [
+                  "Haukar Basketball"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Haukar Basketball",
+                    "title": "Haukar (basketball club)",
+                    "wikiTitle": "Haukar (basketball club)",
+                    "href": "https://en.wikipedia.org/wiki/Haukar_(basketball_club)",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Ásvellir",
+            "lines": [
+              "Ásvellir"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Ásvellir",
+                "title": "Ásvellir",
+                "wikiTitle": "Ásvellir",
+                "href": "https://en.wikipedia.org/wiki/%C3%81svellir",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:44:23.515Z"
+    },
+    {
+      "id": "wikipedia-page-12206190",
+      "pageId": 12206190,
+      "revisionId": null,
+      "title": "Egilshöll",
+      "displayTitle": "Egilshöll",
+      "url": "https://en.wikipedia.org/wiki/Egilsh%C3%B6ll",
+      "wikidataItem": "Q5348031",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5348031",
+      "aliases": [
+        "Egilshöll",
+        "Egilshöllin"
+      ],
+      "requestedTitles": [
+        "Egilshöll"
+      ],
+      "sourceLinkTexts": [
+        "Egilshöll",
+        "Egilshöllin"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Egilsh%C3%B6ll"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas in Europe"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 64.14694,
+        "longitude": -21.76944,
+        "raw": "64.14694; -21.76944"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Egilshöllin",
+        "groups": [
+          "Construction",
+          "Tenants",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Reykjavík, Iceland",
+            "lines": [
+              "Reykjavík, Iceland"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Reykjav%C3%ADk\" title=\"Reykjavík\">Reykjavík</a>, <a href=\"https://en.wikipedia.org/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>",
+            "links": [
+              {
+                "text": "Reykjavík",
+                "title": "Reykjavík",
+                "wikiTitle": "Reykjavík",
+                "href": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Iceland",
+                "title": "Iceland",
+                "wikiTitle": "Iceland",
+                "href": "https://en.wikipedia.org/wiki/Iceland",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "64°08′49″N 21°46′10″W﻿ / ﻿64.14694°N 21.76944°W﻿ / 64.14694; -21.76944",
+            "lines": [
+              "64°08′49″N 21°46′10″W﻿ / ﻿64.14694°N 21.76944°W﻿ / 64.14694; -21.76944"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Egilsh%C3%B6ll&amp;params=64_08_49_N_21_46_10_W_\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">64°08′49″N</span> <span class=\"longitude\">21°46′10″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">64.14694°N 21.76944°W</span><span>﻿ / <span class=\"geo\">64.14694; -21.76944</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "64°08′49″N 21°46′10″W﻿ / ﻿64.14694°N 21.76944°W﻿ / 64.14694; -21.76944",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Egilsh%C3%B6ll&params=64_08_49_N_21_46_10_W_",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "18,000 (concerts)\n2,000 (football)\n250 (ice rink)",
+            "lines": [
+              "18,000 (concerts)",
+              "2,000 (football)",
+              "250 (ice rink)"
+            ],
+            "html": "<td class=\"infobox-data\">18,000 (concerts)<br>2,000 (football)<br>250 (ice rink)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "16 March 2001",
+            "lines": [
+              "16 March 2001"
+            ],
+            "html": "<td class=\"infobox-data\">16 March 2001</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-1"
+              }
+            ]
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "25 April 2002 (2002-04-25)",
+            "lines": [
+              "25 April 2002 (2002-04-25)"
+            ],
+            "html": "<td class=\"infobox-data\">25&nbsp;April&nbsp;2002<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2002-04-25</span>)</span></td>",
+            "links": [
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-2"
+              }
+            ]
+          },
+          {
+            "label": "Expanded",
+            "key": "expanded",
+            "group": "Construction",
+            "text": "2007, 2010, 2015",
+            "lines": [
+              "2007, 2010, 2015"
+            ],
+            "html": "<td class=\"infobox-data\">2007, 2010, 2015</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Vængir Júpíters (football)\nSkautafélagið Björninn (ice skating)\nSkotfélag Reykjavíkur (shooting sport)",
+            "lines": [
+              "Vængir Júpíters (football)",
+              "Skautafélagið Björninn (ice skating)",
+              "Skotfélag Reykjavíkur (shooting sport)"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/V%C3%A6ngir_J%C3%BAp%C3%ADters\" title=\"Vængir Júpíters\">Vængir Júpíters</a> (football)<br><a href=\"https://en.wikipedia.org/wiki/Skautaf%C3%A9lagi%C3%B0_Bj%C3%B6rninn\" title=\"Skautafélagið Björninn\">Skautafélagið Björninn</a> (ice skating)<br>Skotfélag Reykjavíkur (<a href=\"https://en.wikipedia.org/wiki/Shooting_sport\" class=\"mw-redirect\" title=\"Shooting sport\">shooting sport</a>)</td>",
+            "links": [
+              {
+                "text": "Vængir Júpíters",
+                "title": "Vængir Júpíters",
+                "wikiTitle": "Vængir Júpíters",
+                "href": "https://en.wikipedia.org/wiki/V%C3%A6ngir_J%C3%BAp%C3%ADters",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Skautafélagið Björninn",
+                "title": "Skautafélagið Björninn",
+                "wikiTitle": "Skautafélagið Björninn",
+                "href": "https://en.wikipedia.org/wiki/Skautaf%C3%A9lagi%C3%B0_Bj%C3%B6rninn",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "shooting sport",
+                "title": "Shooting sport",
+                "wikiTitle": "Shooting sport",
+                "href": "https://en.wikipedia.org/wiki/Shooting_sport",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "egilshollin.is",
+            "lines": [
+              "egilshollin.is"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://egilshollin.is/\">egilshollin<wbr>.is</a></span></td>",
+            "links": [
+              {
+                "text": "egilshollin.is",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://egilshollin.is/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Reykjavík, Iceland",
+              "lines": [
+                "Reykjavík, Iceland"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Reykjav%C3%ADk\" title=\"Reykjavík\">Reykjavík</a>, <a href=\"https://en.wikipedia.org/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>",
+              "links": [
+                {
+                  "text": "Reykjavík",
+                  "title": "Reykjavík",
+                  "wikiTitle": "Reykjavík",
+                  "href": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Iceland",
+                  "title": "Iceland",
+                  "wikiTitle": "Iceland",
+                  "href": "https://en.wikipedia.org/wiki/Iceland",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "64°08′49″N 21°46′10″W﻿ / ﻿64.14694°N 21.76944°W﻿ / 64.14694; -21.76944",
+              "lines": [
+                "64°08′49″N 21°46′10″W﻿ / ﻿64.14694°N 21.76944°W﻿ / 64.14694; -21.76944"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Egilsh%C3%B6ll&amp;params=64_08_49_N_21_46_10_W_\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">64°08′49″N</span> <span class=\"longitude\">21°46′10″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">64.14694°N 21.76944°W</span><span>﻿ / <span class=\"geo\">64.14694; -21.76944</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "64°08′49″N 21°46′10″W﻿ / ﻿64.14694°N 21.76944°W﻿ / 64.14694; -21.76944",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Egilsh%C3%B6ll&params=64_08_49_N_21_46_10_W_",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "18,000 (concerts)\n2,000 (football)\n250 (ice rink)",
+              "lines": [
+                "18,000 (concerts)",
+                "2,000 (football)",
+                "250 (ice rink)"
+              ],
+              "html": "<td class=\"infobox-data\">18,000 (concerts)<br>2,000 (football)<br>250 (ice rink)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "16 March 2001",
+              "lines": [
+                "16 March 2001"
+              ],
+              "html": "<td class=\"infobox-data\">16 March 2001</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-1"
+                }
+              ]
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "25 April 2002 (2002-04-25)",
+              "lines": [
+                "25 April 2002 (2002-04-25)"
+              ],
+              "html": "<td class=\"infobox-data\">25&nbsp;April&nbsp;2002<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2002-04-25</span>)</span></td>",
+              "links": [
+                {
+                  "text": "[2]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-2",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-2"
+                }
+              ]
+            }
+          ],
+          "expanded": [
+            {
+              "label": "Expanded",
+              "key": "expanded",
+              "group": "Construction",
+              "text": "2007, 2010, 2015",
+              "lines": [
+                "2007, 2010, 2015"
+              ],
+              "html": "<td class=\"infobox-data\">2007, 2010, 2015</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Vængir Júpíters (football)\nSkautafélagið Björninn (ice skating)\nSkotfélag Reykjavíkur (shooting sport)",
+              "lines": [
+                "Vængir Júpíters (football)",
+                "Skautafélagið Björninn (ice skating)",
+                "Skotfélag Reykjavíkur (shooting sport)"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/V%C3%A6ngir_J%C3%BAp%C3%ADters\" title=\"Vængir Júpíters\">Vængir Júpíters</a> (football)<br><a href=\"https://en.wikipedia.org/wiki/Skautaf%C3%A9lagi%C3%B0_Bj%C3%B6rninn\" title=\"Skautafélagið Björninn\">Skautafélagið Björninn</a> (ice skating)<br>Skotfélag Reykjavíkur (<a href=\"https://en.wikipedia.org/wiki/Shooting_sport\" class=\"mw-redirect\" title=\"Shooting sport\">shooting sport</a>)</td>",
+              "links": [
+                {
+                  "text": "Vængir Júpíters",
+                  "title": "Vængir Júpíters",
+                  "wikiTitle": "Vængir Júpíters",
+                  "href": "https://en.wikipedia.org/wiki/V%C3%A6ngir_J%C3%BAp%C3%ADters",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Skautafélagið Björninn",
+                  "title": "Skautafélagið Björninn",
+                  "wikiTitle": "Skautafélagið Björninn",
+                  "href": "https://en.wikipedia.org/wiki/Skautaf%C3%A9lagi%C3%B0_Bj%C3%B6rninn",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "shooting sport",
+                  "title": "Shooting sport",
+                  "wikiTitle": "Shooting sport",
+                  "href": "https://en.wikipedia.org/wiki/Shooting_sport",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "egilshollin.is",
+              "lines": [
+                "egilshollin.is"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://egilshollin.is/\">egilshollin<wbr>.is</a></span></td>",
+              "links": [
+                {
+                  "text": "egilshollin.is",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://egilshollin.is/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Reykjavík, Iceland"
+          ],
+          "coordinates": [
+            "64°08′49″N 21°46′10″W﻿ / ﻿64.14694°N 21.76944°W﻿ / 64.14694; -21.76944"
+          ],
+          "capacity": [
+            "18,000 (concerts)\n2,000 (football)\n250 (ice rink)"
+          ],
+          "groundbreaking": [
+            "16 March 2001"
+          ],
+          "opened": [
+            "25 April 2002 (2002-04-25)"
+          ],
+          "expanded": [
+            "2007, 2010, 2015"
+          ],
+          "tenants": [
+            "Vængir Júpíters (football)\nSkautafélagið Björninn (ice skating)\nSkotfélag Reykjavíkur (shooting sport)"
+          ],
+          "website": [
+            "egilshollin.is"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "18,000 (concerts)",
+          "2,000 (football)",
+          "250 (ice rink)"
+        ],
+        "tenants": [
+          "Vængir Júpíters (football)",
+          "Skautafélagið Björninn (ice skating)",
+          "Skotfélag Reykjavíkur (shooting sport)"
+        ],
+        "websites": [
+          "http://egilshollin.is/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:Egilshöll.jpg",
+            "fileName": "Egilshöll.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Egilsh%C3%B6ll.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Egilsh%C3%B6ll.jpg/250px-Egilsh%C3%B6ll.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Egilsh%C3%B6ll.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Egilsh%C3%B6ll.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Egilsh%C3%B6ll.jpg/500px-Egilsh%C3%B6ll.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 188,
+            "originalWidth": 2576,
+            "originalHeight": 1932,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Egilsh%C3%B6ll&revid=1360124862&groups=_ce7c25dba315ba289acbda021bf102464a6bec11&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Egilsh%C3%B6ll&revid=1360124862&groups=_ce7c25dba315ba289acbda021bf102464a6bec11&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Egilshöllin"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Egilshöllin</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Egilsh%C3%B6ll.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Egilsh%C3%B6ll.jpg/250px-Egilsh%C3%B6ll.jpg\" width=\"250\" height=\"188\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Egilsh%C3%B6ll.jpg/500px-Egilsh%C3%B6ll.jpg 2x\" data-file-width=\"2576\" data-file-height=\"1932\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_ce7c25dba315ba289acbda021bf102464a6bec11&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Egilsh%C3%B6ll&amp;revid=1360124862&amp;groups=_ce7c25dba315ba289acbda021bf102464a6bec11&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Egilsh%C3%B6ll&amp;revid=1360124862&amp;groups=_ce7c25dba315ba289acbda021bf102464a6bec11&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Egilshöllin</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Reykjav%C3%ADk\" title=\"Reykjavík\">Reykjavík</a>, <a href=\"https://en.wikipedia.org/wiki/Iceland\" title=\"Iceland\">Iceland</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Egilsh%C3%B6ll&amp;params=64_08_49_N_21_46_10_W_\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">64°08′49″N</span> <span class=\"longitude\">21°46′10″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">64.14694°N 21.76944°W</span><span>﻿ / <span class=\"geo\">64.14694; -21.76944</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">18,000 (concerts)<br>2,000 (football)<br>250 (ice rink)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">16 March 2001</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">25&nbsp;April&nbsp;2002<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2002-04-25</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Expanded</th><td class=\"infobox-data\">2007, 2010, 2015</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/V%C3%A6ngir_J%C3%BAp%C3%ADters\" title=\"Vængir Júpíters\">Vængir Júpíters</a> (football)<br><a href=\"https://en.wikipedia.org/wiki/Skautaf%C3%A9lagi%C3%B0_Bj%C3%B6rninn\" title=\"Skautafélagið Björninn\">Skautafélagið Björninn</a> (ice skating)<br>Skotfélag Reykjavíkur (<a href=\"https://en.wikipedia.org/wiki/Shooting_sport\" class=\"mw-redirect\" title=\"Shooting sport\">shooting sport</a>)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://egilshollin.is/\">egilshollin<wbr>.is</a></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Icelandic-language_sources_(is)",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Pages_with_Icelandic_IPA",
+        "Indoor_arenas_in_Iceland",
+        "Sports_venues_in_Reykjavík",
+        "Music_venues_in_Iceland",
+        "Football_venues_in_Iceland",
+        "Tennis_venues",
+        "2002_establishments_in_Iceland",
+        "Sports_venues_completed_in_2002",
+        "All_stub_articles",
+        "European_sports_venue_stubs",
+        "Icelandic_sport_stubs",
+        "Icelandic_building_and_structure_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Egilsh%C3%B6ll&params=64_08_49_N_21_46_10_W_",
+        "https://www.vb.is/eftir-vinnu/storum-fjolirottahusum-fjolgar-a-islandi/",
+        "https://www.mbl.is/greinasafn/grein/664282/",
+        "https://www.visir.is/g/2004407050419",
+        "https://www.mbl.is/greinasafn/grein/790769/",
+        "https://www.visir.is/g/2004411260377",
+        "https://www.mbl.is/frettir/innlent/2004/11/26/placido_domingo_a_tonleikum_i_egilsholl_i_mars/",
+        "https://www.visir.is/g/2005501300359",
+        "https://www.visir.is/g/2005507010311",
+        "https://www.mbl.is/greinasafn/grein/1025009/",
+        "https://www.visir.is/g/2005507040389",
+        "https://www.mbl.is/greinasafn/grein/1009889/",
+        "https://www.visir.is/g/200660619038",
+        "https://www.mbl.is/greinasafn/grein/1087908/",
+        "http://egilshollin.is",
+        "http://www.egilshollin.is/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Events",
+          "anchor": "Events"
+        },
+        {
+          "index": "2",
+          "level": 3,
+          "line": "Concerts",
+          "anchor": "Concerts"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Egilshöll.jpg",
+        "Flag_of_Iceland.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Egilshöll.jpg",
+          "fileName": "Egilshöll.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Egilsh%C3%B6ll.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Egilsh%C3%B6ll.jpg/250px-Egilsh%C3%B6ll.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Egilsh%C3%B6ll.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Egilsh%C3%B6ll.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Egilsh%C3%B6ll.jpg/500px-Egilsh%C3%B6ll.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 2576,
+          "originalHeight": 1932,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Egilsh%C3%B6ll&revid=1360124862&groups=_ce7c25dba315ba289acbda021bf102464a6bec11&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Egilsh%C3%B6ll&revid=1360124862&groups=_ce7c25dba315ba289acbda021bf102464a6bec11&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Egilshöllin"
+        },
+        {
+          "fileTitle": "File:Flag of Iceland.svg",
+          "fileName": "Flag of Iceland.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Iceland.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/40px-Flag_of_Iceland.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Iceland.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Iceland.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/60px-Flag_of_Iceland.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 22,
+          "originalWidth": 1250,
+          "originalHeight": 900,
+          "fileType": null,
+          "alt": "Flag of Iceland",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 501,
+          "rowText": "Reykjavík\nEgilshöll\n2002\n8,000",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Reykjav%C3%ADk\" title=\"Reykjavík\">Reykjavík</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Egilsh%C3%B6ll\" title=\"Egilshöll\">Egilshöll</a>\n</td>\n<td>2002\n</td>\n<td>8,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 500,
+              "cell": {
+                "text": "Iceland",
+                "lines": [
+                  "Iceland"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Iceland",
+                    "title": "Iceland",
+                    "wikiTitle": "Iceland",
+                    "href": "https://en.wikipedia.org/wiki/Iceland",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 501,
+              "cell": {
+                "text": "Reykjavík",
+                "lines": [
+                  "Reykjavík"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Reykjavík",
+                    "title": "Reykjavík",
+                    "wikiTitle": "Reykjavík",
+                    "href": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 501,
+              "cell": {
+                "text": "Egilshöll",
+                "lines": [
+                  "Egilshöll"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Egilshöll",
+                    "title": "Egilshöll",
+                    "wikiTitle": "Egilshöll",
+                    "href": "https://en.wikipedia.org/wiki/Egilsh%C3%B6ll",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 501,
+              "cell": {
+                "text": "2002",
+                "lines": [
+                  "2002"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 501,
+              "cell": {
+                "text": "8,000",
+                "lines": [
+                  "8,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 501,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Egilshöll",
+            "lines": [
+              "Egilshöll"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Egilshöll",
+                "title": "Egilshöll",
+                "wikiTitle": "Egilshöll",
+                "href": "https://en.wikipedia.org/wiki/Egilsh%C3%B6ll",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Europe",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Europe",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas by seating capacity",
+            "Current arenas that can be used for football"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 5,
+          "rowText": "Egilshöllin\n2,000\n18,000\n2002\nReykjavík\nIceland",
+          "rowHtml": "<tr>\n<th scope=\"row\"><a href=\"https://en.wikipedia.org/wiki/Egilsh%C3%B6ll\" title=\"Egilshöll\">Egilshöllin</a>\n</th>\n<td>2,000\n</td>\n<td>18,000\n</td>\n<td>2002\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Reykjav%C3%ADk\" title=\"Reykjavík\">Reykjavík</a>\n</td>\n<td><span class=\"flagicon\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/40px-Flag_of_Iceland.svg.png\" width=\"21\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/60px-Flag_of_Iceland.svg.png 2x\" data-file-width=\"1250\" data-file-height=\"900\"></span></span>&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Iceland\" title=\"Iceland\">Iceland</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 5,
+              "cell": {
+                "text": "Egilshöllin",
+                "lines": [
+                  "Egilshöllin"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Egilshöllin",
+                    "title": "Egilshöll",
+                    "wikiTitle": "Egilshöll",
+                    "href": "https://en.wikipedia.org/wiki/Egilsh%C3%B6ll",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Sport",
+              "headerKey": "sport",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 5,
+              "cell": {
+                "text": "2,000",
+                "lines": [
+                  "2,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Concerts",
+              "headerKey": "concerts",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 5,
+              "cell": {
+                "text": "18,000",
+                "lines": [
+                  "18,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Opened",
+              "headerKey": "opened",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 5,
+              "cell": {
+                "text": "2002",
+                "lines": [
+                  "2002"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "[41]",
+                    "title": null,
+                    "wikiTitle": null,
+                    "href": "https://en.wikipedia.org/#cite_note-41",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": true
+                  }
+                ],
+                "media": [],
+                "references": [
+                  {
+                    "label": "[41]",
+                    "href": "https://en.wikipedia.org/#cite_note-41"
+                  }
+                ]
+              }
+            },
+            {
+              "index": 4,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 5,
+              "cell": {
+                "text": "Reykjavík",
+                "lines": [
+                  "Reykjavík"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Reykjavík",
+                    "title": "Reykjavík",
+                    "wikiTitle": "Reykjavík",
+                    "href": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 5,
+              "cell": {
+                "text": "Iceland",
+                "lines": [
+                  "Iceland"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Iceland",
+                    "title": "Iceland",
+                    "wikiTitle": "Iceland",
+                    "href": "https://en.wikipedia.org/wiki/Iceland",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": null,
+                    "fileName": null,
+                    "kind": "photo",
+                    "filePageUrl": null,
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/40px-Flag_of_Iceland.svg.png",
+                    "originalRedirectUrl": null,
+                    "enwikiOriginalRedirectUrl": null,
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/60px-Flag_of_Iceland.svg.png",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 21,
+                    "height": 15,
+                    "originalWidth": 1250,
+                    "originalHeight": 900,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": null,
+              "fileName": null,
+              "kind": "photo",
+              "filePageUrl": null,
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/40px-Flag_of_Iceland.svg.png",
+              "originalRedirectUrl": null,
+              "enwikiOriginalRedirectUrl": null,
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/60px-Flag_of_Iceland.svg.png",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 21,
+              "height": 15,
+              "originalWidth": 1250,
+              "originalHeight": 900,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Egilshöllin",
+            "lines": [
+              "Egilshöllin"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Egilshöllin",
+                "title": "Egilshöll",
+                "wikiTitle": "Egilshöll",
+                "href": "https://en.wikipedia.org/wiki/Egilsh%C3%B6ll",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:44:23.52Z"
+    },
+    {
+      "id": "wikipedia-page-7655538",
+      "pageId": 7655538,
+      "revisionId": null,
+      "title": "Laugardalshöll",
+      "displayTitle": "Laugardalshöll",
+      "url": "https://en.wikipedia.org/wiki/Laugardalsh%C3%B6ll",
+      "wikidataItem": "Q1448590",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q1448590",
+      "aliases": [
+        "Laugardalshöll"
+      ],
+      "requestedTitles": [
+        "Laugardalshöll"
+      ],
+      "sourceLinkTexts": [
+        "Laugardalshöll"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Laugardalsh%C3%B6ll"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 64.140305,
+        "longitude": -21.877985,
+        "raw": "64.140305; -21.877985"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Laugardalshöll",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Reykjavík, Iceland",
+            "lines": [
+              "Reykjavík, Iceland"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Reykjav%C3%ADk\" title=\"Reykjavík\">Reykjavík</a>, <a href=\"https://en.wikipedia.org/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>",
+            "links": [
+              {
+                "text": "Reykjavík",
+                "title": "Reykjavík",
+                "wikiTitle": "Reykjavík",
+                "href": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Iceland",
+                "title": "Iceland",
+                "wikiTitle": "Iceland",
+                "href": "https://en.wikipedia.org/wiki/Iceland",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "64°08′25″N 21°52′41″W﻿ / ﻿64.140305°N 21.877985°W﻿ / 64.140305; -21.877985",
+            "lines": [
+              "64°08′25″N 21°52′41″W﻿ / ﻿64.140305°N 21.877985°W﻿ / 64.140305; -21.877985"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Laugardalsh%C3%B6ll&amp;params=64.140305_N_21.877985_W_type:landmark_scale:2000\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">64°08′25″N</span> <span class=\"longitude\">21°52′41″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">64.140305°N 21.877985°W</span><span>﻿ / <span class=\"geo\">64.140305; -21.877985</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "64°08′25″N 21°52′41″W﻿ / ﻿64.140305°N 21.877985°W﻿ / 64.140305; -21.877985",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Laugardalsh%C3%B6ll&params=64.140305_N_21.877985_W_type:landmark_scale:2000",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "City of Reykjavík",
+            "lines": [
+              "City of Reykjavík"
+            ],
+            "html": "<td class=\"infobox-data agent\">City of Reykjavík</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Sports and Exhibition Center (ÍSH)",
+            "lines": [
+              "Sports and Exhibition Center (ÍSH)"
+            ],
+            "html": "<td class=\"infobox-data agent\">Sports and Exhibition Center (ÍSH)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "Sports: 2,300 for basketball and handball (main hall)\nConcerts: 3,000 seated or 5,500 with standing (main hall)\n5,000 seated or 10,000 standing (athletics center)",
+            "lines": [
+              "Sports: 2,300 for basketball and handball (main hall)",
+              "Concerts: 3,000 seated or 5,500 with standing (main hall)",
+              "5,000 seated or 10,000 standing (athletics center)"
+            ],
+            "html": "<td class=\"infobox-data\">Sports: 2,300 for basketball and handball (main hall)<br>Concerts: 3,000 seated or 5,500 with standing (main hall)<br>5,000 seated or 10,000 standing (athletics center)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "29 August 1959",
+            "lines": [
+              "29 August 1959"
+            ],
+            "html": "<td class=\"infobox-data\">29 August 1959</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "1961, 1963–1965",
+            "lines": [
+              "1961, 1963–1965"
+            ],
+            "html": "<td class=\"infobox-data\">1961, 1963–1965</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "4 December 1965",
+            "lines": [
+              "4 December 1965"
+            ],
+            "html": "<td class=\"infobox-data\">4 December 1965</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2004–2005, 2022–2023",
+            "lines": [
+              "2004–2005, 2022–2023"
+            ],
+            "html": "<td class=\"infobox-data\">2004–2005, 2022–2023</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Expanded",
+            "key": "expanded",
+            "group": "Construction",
+            "text": "1995, 2005",
+            "lines": [
+              "1995, 2005"
+            ],
+            "html": "<td class=\"infobox-data\">1995, 2005</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Gísli Halldórsson\nSkarphéðinn Jóhannesson",
+            "lines": [
+              "Gísli Halldórsson",
+              "Skarphéðinn Jóhannesson"
+            ],
+            "html": "<td class=\"infobox-data\">Gísli Halldórsson<br>Skarphéðinn Jóhannesson</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-1"
+              }
+            ]
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Icelandic men's national basketball team\nIcelandic women's national basketball team\nIcelandic men's national handball team\nIcelandic women's national handball team",
+            "lines": [
+              "Icelandic men's national basketball team",
+              "Icelandic women's national basketball team",
+              "Icelandic men's national handball team",
+              "Icelandic women's national handball team"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Iceland_men%27s_national_basketball_team\" title=\"Iceland men's national basketball team\">Icelandic men's national basketball team</a><br><a href=\"https://en.wikipedia.org/wiki/Iceland_women%27s_national_basketball_team\" title=\"Iceland women's national basketball team\">Icelandic women's national basketball team</a><br><a href=\"https://en.wikipedia.org/wiki/Iceland_men%27s_national_handball_team\" title=\"Iceland men's national handball team\">Icelandic men's national handball team</a><br><a href=\"https://en.wikipedia.org/wiki/Iceland_women%27s_national_handball_team\" title=\"Iceland women's national handball team\">Icelandic women's national handball team</a></td>",
+            "links": [
+              {
+                "text": "Icelandic men's national basketball team",
+                "title": "Iceland men's national basketball team",
+                "wikiTitle": "Iceland men's national basketball team",
+                "href": "https://en.wikipedia.org/wiki/Iceland_men%27s_national_basketball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Icelandic women's national basketball team",
+                "title": "Iceland women's national basketball team",
+                "wikiTitle": "Iceland women's national basketball team",
+                "href": "https://en.wikipedia.org/wiki/Iceland_women%27s_national_basketball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Icelandic men's national handball team",
+                "title": "Iceland men's national handball team",
+                "wikiTitle": "Iceland men's national handball team",
+                "href": "https://en.wikipedia.org/wiki/Iceland_men%27s_national_handball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Icelandic women's national handball team",
+                "title": "Iceland women's national handball team",
+                "wikiTitle": "Iceland women's national handball team",
+                "href": "https://en.wikipedia.org/wiki/Iceland_women%27s_national_handball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Reykjavík, Iceland",
+              "lines": [
+                "Reykjavík, Iceland"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Reykjav%C3%ADk\" title=\"Reykjavík\">Reykjavík</a>, <a href=\"https://en.wikipedia.org/wiki/Iceland\" title=\"Iceland\">Iceland</a></td>",
+              "links": [
+                {
+                  "text": "Reykjavík",
+                  "title": "Reykjavík",
+                  "wikiTitle": "Reykjavík",
+                  "href": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Iceland",
+                  "title": "Iceland",
+                  "wikiTitle": "Iceland",
+                  "href": "https://en.wikipedia.org/wiki/Iceland",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "64°08′25″N 21°52′41″W﻿ / ﻿64.140305°N 21.877985°W﻿ / 64.140305; -21.877985",
+              "lines": [
+                "64°08′25″N 21°52′41″W﻿ / ﻿64.140305°N 21.877985°W﻿ / 64.140305; -21.877985"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Laugardalsh%C3%B6ll&amp;params=64.140305_N_21.877985_W_type:landmark_scale:2000\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">64°08′25″N</span> <span class=\"longitude\">21°52′41″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">64.140305°N 21.877985°W</span><span>﻿ / <span class=\"geo\">64.140305; -21.877985</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "64°08′25″N 21°52′41″W﻿ / ﻿64.140305°N 21.877985°W﻿ / 64.140305; -21.877985",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Laugardalsh%C3%B6ll&params=64.140305_N_21.877985_W_type:landmark_scale:2000",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "City of Reykjavík",
+              "lines": [
+                "City of Reykjavík"
+              ],
+              "html": "<td class=\"infobox-data agent\">City of Reykjavík</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Sports and Exhibition Center (ÍSH)",
+              "lines": [
+                "Sports and Exhibition Center (ÍSH)"
+              ],
+              "html": "<td class=\"infobox-data agent\">Sports and Exhibition Center (ÍSH)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "Sports: 2,300 for basketball and handball (main hall)\nConcerts: 3,000 seated or 5,500 with standing (main hall)\n5,000 seated or 10,000 standing (athletics center)",
+              "lines": [
+                "Sports: 2,300 for basketball and handball (main hall)",
+                "Concerts: 3,000 seated or 5,500 with standing (main hall)",
+                "5,000 seated or 10,000 standing (athletics center)"
+              ],
+              "html": "<td class=\"infobox-data\">Sports: 2,300 for basketball and handball (main hall)<br>Concerts: 3,000 seated or 5,500 with standing (main hall)<br>5,000 seated or 10,000 standing (athletics center)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "29 August 1959",
+              "lines": [
+                "29 August 1959"
+              ],
+              "html": "<td class=\"infobox-data\">29 August 1959</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "1961, 1963–1965",
+              "lines": [
+                "1961, 1963–1965"
+              ],
+              "html": "<td class=\"infobox-data\">1961, 1963–1965</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "4 December 1965",
+              "lines": [
+                "4 December 1965"
+              ],
+              "html": "<td class=\"infobox-data\">4 December 1965</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2004–2005, 2022–2023",
+              "lines": [
+                "2004–2005, 2022–2023"
+              ],
+              "html": "<td class=\"infobox-data\">2004–2005, 2022–2023</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "expanded": [
+            {
+              "label": "Expanded",
+              "key": "expanded",
+              "group": "Construction",
+              "text": "1995, 2005",
+              "lines": [
+                "1995, 2005"
+              ],
+              "html": "<td class=\"infobox-data\">1995, 2005</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Gísli Halldórsson\nSkarphéðinn Jóhannesson",
+              "lines": [
+                "Gísli Halldórsson",
+                "Skarphéðinn Jóhannesson"
+              ],
+              "html": "<td class=\"infobox-data\">Gísli Halldórsson<br>Skarphéðinn Jóhannesson</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-1"
+                }
+              ]
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Icelandic men's national basketball team\nIcelandic women's national basketball team\nIcelandic men's national handball team\nIcelandic women's national handball team",
+              "lines": [
+                "Icelandic men's national basketball team",
+                "Icelandic women's national basketball team",
+                "Icelandic men's national handball team",
+                "Icelandic women's national handball team"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Iceland_men%27s_national_basketball_team\" title=\"Iceland men's national basketball team\">Icelandic men's national basketball team</a><br><a href=\"https://en.wikipedia.org/wiki/Iceland_women%27s_national_basketball_team\" title=\"Iceland women's national basketball team\">Icelandic women's national basketball team</a><br><a href=\"https://en.wikipedia.org/wiki/Iceland_men%27s_national_handball_team\" title=\"Iceland men's national handball team\">Icelandic men's national handball team</a><br><a href=\"https://en.wikipedia.org/wiki/Iceland_women%27s_national_handball_team\" title=\"Iceland women's national handball team\">Icelandic women's national handball team</a></td>",
+              "links": [
+                {
+                  "text": "Icelandic men's national basketball team",
+                  "title": "Iceland men's national basketball team",
+                  "wikiTitle": "Iceland men's national basketball team",
+                  "href": "https://en.wikipedia.org/wiki/Iceland_men%27s_national_basketball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Icelandic women's national basketball team",
+                  "title": "Iceland women's national basketball team",
+                  "wikiTitle": "Iceland women's national basketball team",
+                  "href": "https://en.wikipedia.org/wiki/Iceland_women%27s_national_basketball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Icelandic men's national handball team",
+                  "title": "Iceland men's national handball team",
+                  "wikiTitle": "Iceland men's national handball team",
+                  "href": "https://en.wikipedia.org/wiki/Iceland_men%27s_national_handball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Icelandic women's national handball team",
+                  "title": "Iceland women's national handball team",
+                  "wikiTitle": "Iceland women's national handball team",
+                  "href": "https://en.wikipedia.org/wiki/Iceland_women%27s_national_handball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Reykjavík, Iceland"
+          ],
+          "coordinates": [
+            "64°08′25″N 21°52′41″W﻿ / ﻿64.140305°N 21.877985°W﻿ / 64.140305; -21.877985"
+          ],
+          "owner": [
+            "City of Reykjavík"
+          ],
+          "operator": [
+            "Sports and Exhibition Center (ÍSH)"
+          ],
+          "capacity": [
+            "Sports: 2,300 for basketball and handball (main hall)\nConcerts: 3,000 seated or 5,500 with standing (main hall)\n5,000 seated or 10,000 standing (athletics center)"
+          ],
+          "groundbreaking": [
+            "29 August 1959"
+          ],
+          "built": [
+            "1961, 1963–1965"
+          ],
+          "opened": [
+            "4 December 1965"
+          ],
+          "renovated": [
+            "2004–2005, 2022–2023"
+          ],
+          "expanded": [
+            "1995, 2005"
+          ],
+          "architect": [
+            "Gísli Halldórsson\nSkarphéðinn Jóhannesson"
+          ],
+          "tenants": [
+            "Icelandic men's national basketball team\nIcelandic women's national basketball team\nIcelandic men's national handball team\nIcelandic women's national handball team"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "Sports: 2,300 for basketball and handball (main hall)",
+          "Concerts: 3,000 seated or 5,500 with standing (main hall)",
+          "5,000 seated or 10,000 standing (athletics center)"
+        ],
+        "tenants": [
+          "Icelandic men's national basketball team",
+          "Icelandic women's national basketball team",
+          "Icelandic men's national handball team",
+          "Icelandic women's national handball team"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Laugardalsholl logo.gif",
+            "fileName": "Laugardalsholl logo.gif",
+            "kind": "logo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Laugardalsholl_logo.gif",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Laugardalsholl_logo.gif/250px-Laugardalsholl_logo.gif",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Laugardalsholl_logo.gif",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Laugardalsholl_logo.gif",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/en/f/f2/Laugardalsholl_logo.gif",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 70,
+            "originalWidth": 251,
+            "originalHeight": 70,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": "File:Stjarnan vs KR (16615329255).jpg",
+            "fileName": "Stjarnan vs KR (16615329255).jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Stjarnan_vs_KR_(16615329255).jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Stjarnan_vs_KR_%2816615329255%29.jpg/250px-Stjarnan_vs_KR_%2816615329255%29.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Stjarnan_vs_KR_(16615329255).jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Stjarnan_vs_KR_(16615329255).jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Stjarnan_vs_KR_%2816615329255%29.jpg/500px-Stjarnan_vs_KR_%2816615329255%29.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 167,
+            "originalWidth": 1000,
+            "originalHeight": 667,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Final of Icelandic Men's Basketball Cup in 2015"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Laugardalsh%C3%B6ll&revid=1360613027&groups=_3213f64ce84089e37492d02c1d1adae79158d59f&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Laugardalsh%C3%B6ll&revid=1360613027&groups=_3213f64ce84089e37492d02c1d1adae79158d59f&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Laugardalshöll"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Laugardalshöll</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\">Laugardalshöllin, Laugardalsholl Sport Center</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size notpageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Laugardalsholl_logo.gif\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Laugardalsholl_logo.gif/250px-Laugardalsholl_logo.gif\" width=\"250\" height=\"70\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/en/f/f2/Laugardalsholl_logo.gif 2x\" data-file-width=\"251\" data-file-height=\"70\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Stjarnan_vs_KR_(16615329255).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Stjarnan_vs_KR_%2816615329255%29.jpg/250px-Stjarnan_vs_KR_%2816615329255%29.jpg\" width=\"250\" height=\"167\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Stjarnan_vs_KR_%2816615329255%29.jpg/500px-Stjarnan_vs_KR_%2816615329255%29.jpg 2x\" data-file-width=\"1000\" data-file-height=\"667\"></a></span><div class=\"infobox-caption\">Final of <a href=\"https://en.wikipedia.org/wiki/Icelandic_Men%27s_Basketball_Cup\" title=\"Icelandic Men's Basketball Cup\">Icelandic Men's Basketball Cup</a> in 2015</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_3213f64ce84089e37492d02c1d1adae79158d59f&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Laugardalsh%C3%B6ll&amp;revid=1360613027&amp;groups=_3213f64ce84089e37492d02c1d1adae79158d59f&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Laugardalsh%C3%B6ll&amp;revid=1360613027&amp;groups=_3213f64ce84089e37492d02c1d1adae79158d59f&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Laugardalshöll</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Reykjav%C3%ADk\" title=\"Reykjavík\">Reykjavík</a>, <a href=\"https://en.wikipedia.org/wiki/Iceland\" title=\"Iceland\">Iceland</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Laugardalsh%C3%B6ll&amp;params=64.140305_N_21.877985_W_type:landmark_scale:2000\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">64°08′25″N</span> <span class=\"longitude\">21°52′41″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">64.140305°N 21.877985°W</span><span>﻿ / <span class=\"geo\">64.140305; -21.877985</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">City of Reykjavík</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">Sports and Exhibition Center (ÍSH)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">Sports: 2,300 for basketball and handball (main hall)<br>Concerts: 3,000 seated or 5,500 with standing (main hall)<br>5,000 seated or 10,000 standing (athletics center)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">29 August 1959</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">1961, 1963–1965</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">4 December 1965</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2004–2005, 2022–2023</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Expanded</th><td class=\"infobox-data\">1995, 2005</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\">Gísli Halldórsson<br>Skarphéðinn Jóhannesson</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Iceland_men%27s_national_basketball_team\" title=\"Iceland men's national basketball team\">Icelandic men's national basketball team</a><br><a href=\"https://en.wikipedia.org/wiki/Iceland_women%27s_national_basketball_team\" title=\"Iceland women's national basketball team\">Icelandic women's national basketball team</a><br><a href=\"https://en.wikipedia.org/wiki/Iceland_men%27s_national_handball_team\" title=\"Iceland men's national handball team\">Icelandic men's national handball team</a><br><a href=\"https://en.wikipedia.org/wiki/Iceland_women%27s_national_handball_team\" title=\"Iceland women's national handball team\">Icelandic women's national handball team</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Icelandic-language_sources_(is)",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Pages_with_Icelandic_IPA",
+        "Commons_category_link_from_Wikidata",
+        "Official_website_different_in_Wikidata_and_Wikipedia",
+        "Articles_with_Icelandic-language_sources_(is)",
+        "Indoor_arenas_in_Iceland",
+        "Sports_venues_in_Reykjavík",
+        "Athletics_venues_in_Iceland",
+        "Basketball_venues_in_Iceland",
+        "Handball_venues_in_Iceland",
+        "Volleyball_venues_in_Iceland",
+        "Indoor_track_and_field_venues",
+        "1965_establishments_in_Iceland",
+        "Sports_venues_completed_in_1965",
+        "Music_venues_completed_in_1965",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Laugardalsh%C3%B6ll&params=64.140305_N_21.877985_W_type:landmark_scale:2000",
+        "https://grapevine.is/news/2017/03/27/reykjavik-of-yore-laugardalshollin/",
+        "https://www.ruv.is/frett/fyrstu-sjonvarpsmyndirnar-ur-laugardalsholl",
+        "https://www.mbl.is/greinasafn/grein/1577238/",
+        "https://www.mbl.is/greinasafn/grein/819788/",
+        "https://www.mbl.is/folk/frettir/2005/08/29/laugardalshollin_opnud_med_joe_cocker/",
+        "https://www.mbl.is/frettir/innlent/2022/09/01/vidgerd_a_laugardalsholl_ad_ljuka/",
+        "https://www.mbl.is/sport/frettir/2023/08/26/golf_laugardalshallar_lakkad_ad_nyju/",
+        "https://www.ruv.is/frettir/ithrottir/478430",
+        "https://www.ruv.is/frettir/ithrottir/478237",
+        "https://www.ibr.is/saga-ithrotta-i-reykjavik",
+        "https://www.ruv.is/frett/malefni-laugardalshallar-a-byrjunarstigi",
+        "https://www.ruv.is/frettir/innlent/401568",
+        "https://archive.ihf.info/en-us/ihfcompetitions/competitionsarchive/menworldchampionships.aspx",
+        "https://www.ruv.is/frettir/ithrottir/thegar-island-helt-stormot-thetta-var-mjog-dramatiskt",
+        "https://www.mbl.is/frettir/innlent/2009/11/11/thjodfundur_um_framtidarsyn_islendinga/",
+        "https://www.ruv.is/frettir/innlent/2021-12-15-songvakeppnin-haldin-i-kvikmyndaverinu-i-gufunesi",
+        "https://www.ruv.is/english/2023-10-13-songvakeppnin-back-in-laugardalsholl-393969/",
+        "https://metro.co.uk/2021/03/01/league-of-legends-msi-2021-reportedly-to-be-held-in-iceland-14165991/",
+        "https://www.youtube.com/watch?v=_n3pwNMGKX0",
+        "https://ghostarchive.org/varchive/youtube/20211213/_n3pwNMGKX0",
+        "https://lolesports.com/article/worlds-2021-location-and-format-announcement/blt52ec273a991d3261",
+        "http://www.ish.is/",
+        "https://thjodarholl.is/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 3,
+          "line": "Construction and opening",
+          "anchor": "Construction_and_opening"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "Later expansions",
+          "anchor": "Later_expansions"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "Proposal for new venue",
+          "anchor": "Proposal_for_new_venue"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "Events",
+          "anchor": "Events"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "7",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "8",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Laugardalsholl_logo.gif",
+        "Stjarnan_vs_KR_(16615329255).jpg",
+        "Ísland_-_Frakkland_Laugardalshöll,_16._&_17._apríl_2010_(4539188772).jpg",
+        "Commons-logo.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Laugardalsholl logo.gif",
+          "fileName": "Laugardalsholl logo.gif",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Laugardalsholl_logo.gif",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Laugardalsholl_logo.gif/250px-Laugardalsholl_logo.gif",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Laugardalsholl_logo.gif",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Laugardalsholl_logo.gif",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/f/f2/Laugardalsholl_logo.gif",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 70,
+          "originalWidth": 251,
+          "originalHeight": 70,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Stjarnan vs KR (16615329255).jpg",
+          "fileName": "Stjarnan vs KR (16615329255).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Stjarnan_vs_KR_(16615329255).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Stjarnan_vs_KR_%2816615329255%29.jpg/250px-Stjarnan_vs_KR_%2816615329255%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Stjarnan_vs_KR_(16615329255).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Stjarnan_vs_KR_(16615329255).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Stjarnan_vs_KR_%2816615329255%29.jpg/500px-Stjarnan_vs_KR_%2816615329255%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 1000,
+          "originalHeight": 667,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Final of Icelandic Men's Basketball Cup in 2015"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Laugardalsh%C3%B6ll&revid=1360613027&groups=_3213f64ce84089e37492d02c1d1adae79158d59f&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Laugardalsh%C3%B6ll&revid=1360613027&groups=_3213f64ce84089e37492d02c1d1adae79158d59f&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Laugardalshöll"
+        },
+        {
+          "fileTitle": "File:Ísland - Frakkland Laugardalshöll, 16. & 17. apríl 2010 (4539188772).jpg",
+          "fileName": "Ísland - Frakkland Laugardalshöll, 16. & 17. apríl 2010 (4539188772).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:%C3%8Dsland_-_Frakkland_Laugardalsh%C3%B6ll,_16._%26_17._apr%C3%ADl_2010_(4539188772).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%C3%8Dsland_-_Frakkland_Laugardalsh%C3%B6ll%2C_16._%26_17._apr%C3%ADl_2010_%284539188772%29.jpg/250px-%C3%8Dsland_-_Frakkland_Laugardalsh%C3%B6ll%2C_16._%26_17._apr%C3%ADl_2010_%284539188772%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%C3%8Dsland_-_Frakkland_Laugardalsh%C3%B6ll%2C_16._%26_17._apr%C3%ADl_2010_(4539188772).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%C3%8Dsland_-_Frakkland_Laugardalsh%C3%B6ll%2C_16._%26_17._apr%C3%ADl_2010_(4539188772).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/%C3%8Dsland_-_Frakkland_Laugardalsh%C3%B6ll%2C_16._%26_17._apr%C3%ADl_2010_%284539188772%29.jpg/500px-%C3%8Dsland_-_Frakkland_Laugardalsh%C3%B6ll%2C_16._%26_17._apr%C3%ADl_2010_%284539188772%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 4272,
+          "originalHeight": 2848,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Friendly international handball match between Iceland and France in April 2010"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 502,
+          "rowText": "Laugardalshöll\n1965\n11,000\nIceland men's national handball team",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Laugardalsh%C3%B6ll\" title=\"Laugardalshöll\">Laugardalshöll</a>\n</td>\n<td>1965\n</td>\n<td>11,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Iceland_men%27s_national_handball_team\" title=\"Iceland men's national handball team\">Iceland men's national handball team</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 500,
+              "cell": {
+                "text": "Iceland",
+                "lines": [
+                  "Iceland"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Iceland",
+                    "title": "Iceland",
+                    "wikiTitle": "Iceland",
+                    "href": "https://en.wikipedia.org/wiki/Iceland",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 501,
+              "cell": {
+                "text": "Reykjavík",
+                "lines": [
+                  "Reykjavík"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Reykjavík",
+                    "title": "Reykjavík",
+                    "wikiTitle": "Reykjavík",
+                    "href": "https://en.wikipedia.org/wiki/Reykjav%C3%ADk",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 502,
+              "cell": {
+                "text": "Laugardalshöll",
+                "lines": [
+                  "Laugardalshöll"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Laugardalshöll",
+                    "title": "Laugardalshöll",
+                    "wikiTitle": "Laugardalshöll",
+                    "href": "https://en.wikipedia.org/wiki/Laugardalsh%C3%B6ll",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 502,
+              "cell": {
+                "text": "1965",
+                "lines": [
+                  "1965"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 502,
+              "cell": {
+                "text": "11,000",
+                "lines": [
+                  "11,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 502,
+              "cell": {
+                "text": "Iceland men's national handball team",
+                "lines": [
+                  "Iceland men's national handball team"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Iceland men's national handball team",
+                    "title": "Iceland men's national handball team",
+                    "wikiTitle": "Iceland men's national handball team",
+                    "href": "https://en.wikipedia.org/wiki/Iceland_men%27s_national_handball_team",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Laugardalshöll",
+            "lines": [
+              "Laugardalshöll"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Laugardalshöll",
+                "title": "Laugardalshöll",
+                "wikiTitle": "Laugardalshöll",
+                "href": "https://en.wikipedia.org/wiki/Laugardalsh%C3%B6ll",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:44:24.509Z"
+    }
+  ]
+}

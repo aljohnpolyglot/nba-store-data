@@ -1,0 +1,1233 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Luxembourg",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 5,
+    "sourceTypeCounts": {
+      "world_master_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-6706486",
+      "pageId": 6706486,
+      "revisionId": null,
+      "title": "D'Coque",
+      "displayTitle": "d'Coque",
+      "url": "https://en.wikipedia.org/wiki/D%27Coque",
+      "wikidataItem": "Q1272946",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q1272946",
+      "aliases": [
+        "D'coque",
+        "Coque",
+        "D'Coque"
+      ],
+      "requestedTitles": [
+        "D'coque"
+      ],
+      "sourceLinkTexts": [
+        "D'coque"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/D%27coque"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 49.62361,
+        "longitude": 6.15417,
+        "raw": "49.62361; 6.15417"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Coque",
+        "groups": [
+          "Construction",
+          "Website",
+          "Other information"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "National Sports and Cultural Centre Coque",
+            "lines": [
+              "National Sports and Cultural Centre Coque"
+            ],
+            "html": "<td class=\"infobox-data\">National Sports and Cultural Centre Coque</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "2, rue Léon Hengen L-1745",
+            "lines": [
+              "2, rue Léon Hengen L-1745"
+            ],
+            "html": "<td class=\"infobox-data label\">2, rue Léon Hengen L-1745<span data-plural=\"0\"></span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Kirchberg, Luxembourg City",
+            "lines": [
+              "Kirchberg, Luxembourg City"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Kirchberg,_Luxembourg\" title=\"Kirchberg, Luxembourg\">Kirchberg, Luxembourg City</a></td>",
+            "links": [
+              {
+                "text": "Kirchberg, Luxembourg City",
+                "title": "Kirchberg, Luxembourg",
+                "wikiTitle": "Kirchberg, Luxembourg",
+                "href": "https://en.wikipedia.org/wiki/Kirchberg,_Luxembourg",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "49°37′25″N 06°09′15″E﻿ / ﻿49.62361°N 6.15417°E﻿ / 49.62361; 6.15417",
+            "lines": [
+              "49°37′25″N 06°09′15″E﻿ / ﻿49.62361°N 6.15417°E﻿ / 49.62361; 6.15417"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=D%27Coque&amp;params=49_37_25_N_06_09_15_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">49°37′25″N</span> <span class=\"longitude\">06°09′15″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">49.62361°N 6.15417°E</span><span>﻿ / <span class=\"geo\">49.62361; 6.15417</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "49°37′25″N 06°09′15″E﻿ / ﻿49.62361°N 6.15417°E﻿ / 49.62361; 6.15417",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=D%27Coque&params=49_37_25_N_06_09_15_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Public Building Administration, Luxembourg Government",
+            "lines": [
+              "Public Building Administration, Luxembourg Government"
+            ],
+            "html": "<td class=\"infobox-data agent\">Public Building Administration, Luxembourg Government</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "8,300 (indoor arena)",
+            "lines": [
+              "8,300 (indoor arena)"
+            ],
+            "html": "<td class=\"infobox-data\">8,300 (indoor arena)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "group": null,
+            "text": "Olympic-sized swimming pool, indoor arena, sports centre, hotel and conference centre",
+            "lines": [
+              "Olympic-sized swimming pool, indoor arena, sports centre, hotel and conference centre"
+            ],
+            "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Olympic-sized_swimming_pool\" class=\"mw-redirect\" title=\"Olympic-sized swimming pool\">Olympic-sized swimming pool</a>, <a href=\"https://en.wikipedia.org/wiki/Indoor_arena\" class=\"mw-redirect\" title=\"Indoor arena\">indoor arena</a>, <a href=\"https://en.wikipedia.org/wiki/Sports_centre\" class=\"mw-redirect\" title=\"Sports centre\">sports centre</a>, <a href=\"https://en.wikipedia.org/wiki/Hotel\" title=\"Hotel\">hotel</a> and <a href=\"https://en.wikipedia.org/wiki/Conference_centre\" class=\"mw-redirect\" title=\"Conference centre\">conference centre</a></td>",
+            "links": [
+              {
+                "text": "Olympic-sized swimming pool",
+                "title": "Olympic-sized swimming pool",
+                "wikiTitle": "Olympic-sized swimming pool",
+                "href": "https://en.wikipedia.org/wiki/Olympic-sized_swimming_pool",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "indoor arena",
+                "title": "Indoor arena",
+                "wikiTitle": "Indoor arena",
+                "href": "https://en.wikipedia.org/wiki/Indoor_arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "sports centre",
+                "title": "Sports centre",
+                "wikiTitle": "Sports centre",
+                "href": "https://en.wikipedia.org/wiki/Sports_centre",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "hotel",
+                "title": "Hotel",
+                "wikiTitle": "Hotel",
+                "href": "https://en.wikipedia.org/wiki/Hotel",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "conference centre",
+                "title": "Conference centre",
+                "wikiTitle": "Conference centre",
+                "href": "https://en.wikipedia.org/wiki/Conference_centre",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Public transit",
+            "key": "public_transit",
+            "group": null,
+            "text": "Coque tram stop, Luxtram\nRGTR bus stops\nEuropeErasme-d'CoqueAntoine de St Exupéry\nAVL bus stops\nLéon HengenAntoine de St Exupéry",
+            "lines": [
+              "Coque tram stop, Luxtram",
+              "RGTR bus stops",
+              "EuropeErasme-d'CoqueAntoine de St Exupéry",
+              "AVL bus stops",
+              "Léon HengenAntoine de St Exupéry"
+            ],
+            "html": "<td class=\"infobox-data\">Coque tram stop, <a href=\"https://en.wikipedia.org/wiki/Trams_in_Luxembourg\" class=\"mw-redirect\" title=\"Trams in Luxembourg\">Luxtram</a><br><div class=\"collapsible-list mw-collapsible mw-collapsed\">\n<div><div>RGTR bus stops</div></div>\n<ul class=\"mw-collapsible-content\"><li>Europe</li><li>Erasme-d'Coque</li><li>Antoine de St Exupéry</li></ul>\n</div>\n<div class=\"collapsible-list mw-collapsible mw-collapsed\">\n<div><div>AVL bus stops</div></div>\n<ul class=\"mw-collapsible-content\"><li>Léon Hengen</li><li>Antoine de St Exupéry</li></ul>\n</div></td>",
+            "links": [
+              {
+                "text": "Luxtram",
+                "title": "Trams in Luxembourg",
+                "wikiTitle": "Trams in Luxembourg",
+                "href": "https://en.wikipedia.org/wiki/Trams_in_Luxembourg",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "14 April 1982 (1982-04-14)",
+            "lines": [
+              "14 April 1982 (1982-04-14)"
+            ],
+            "html": "<td class=\"infobox-data\">14&nbsp;April&nbsp;1982<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1982-04-14</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Expanded",
+            "key": "expanded",
+            "group": "Construction",
+            "text": "15 December 1997 – 8 June 2002",
+            "lines": [
+              "15 December 1997 – 8 June 2002"
+            ],
+            "html": "<td class=\"infobox-data\">15 December 1997 – 8 June 2002</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Roger Taillibert",
+            "lines": [
+              "Roger Taillibert"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Roger_Taillibert\" title=\"Roger Taillibert\">Roger Taillibert</a></td>",
+            "links": [
+              {
+                "text": "Roger Taillibert",
+                "title": "Roger Taillibert",
+                "wikiTitle": "Roger Taillibert",
+                "href": "https://en.wikipedia.org/wiki/Roger_Taillibert",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "coque.lu",
+            "lines": [
+              "coque.lu"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://coque.lu/\">coque<wbr>.lu</a></span></td>",
+            "links": [
+              {
+                "text": "coque.lu",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://coque.lu/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "Building details",
+            "lines": [
+              "Building details"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><div>Building details</div></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Number of rooms",
+            "key": "number_of_rooms",
+            "group": "Other information",
+            "text": "36 double rooms (2 beds)",
+            "lines": [
+              "36 double rooms (2 beds)"
+            ],
+            "html": "<td class=\"infobox-data\">36 double rooms (2 beds)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "coque.lu/en/coque-hotel",
+            "lines": [
+              "coque.lu/en/coque-hotel"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://coque.lu/en/coque-hotel\">coque<wbr>.lu<wbr>/en<wbr>/coque-hotel</a></span></td>",
+            "links": [
+              {
+                "text": "coque.lu/en/coque-hotel",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://coque.lu/en/coque-hotel",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "National Sports and Cultural Centre Coque",
+              "lines": [
+                "National Sports and Cultural Centre Coque"
+              ],
+              "html": "<td class=\"infobox-data\">National Sports and Cultural Centre Coque</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "2, rue Léon Hengen L-1745",
+              "lines": [
+                "2, rue Léon Hengen L-1745"
+              ],
+              "html": "<td class=\"infobox-data label\">2, rue Léon Hengen L-1745<span data-plural=\"0\"></span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Kirchberg, Luxembourg City",
+              "lines": [
+                "Kirchberg, Luxembourg City"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Kirchberg,_Luxembourg\" title=\"Kirchberg, Luxembourg\">Kirchberg, Luxembourg City</a></td>",
+              "links": [
+                {
+                  "text": "Kirchberg, Luxembourg City",
+                  "title": "Kirchberg, Luxembourg",
+                  "wikiTitle": "Kirchberg, Luxembourg",
+                  "href": "https://en.wikipedia.org/wiki/Kirchberg,_Luxembourg",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "49°37′25″N 06°09′15″E﻿ / ﻿49.62361°N 6.15417°E﻿ / 49.62361; 6.15417",
+              "lines": [
+                "49°37′25″N 06°09′15″E﻿ / ﻿49.62361°N 6.15417°E﻿ / 49.62361; 6.15417"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=D%27Coque&amp;params=49_37_25_N_06_09_15_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">49°37′25″N</span> <span class=\"longitude\">06°09′15″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">49.62361°N 6.15417°E</span><span>﻿ / <span class=\"geo\">49.62361; 6.15417</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "49°37′25″N 06°09′15″E﻿ / ﻿49.62361°N 6.15417°E﻿ / 49.62361; 6.15417",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=D%27Coque&params=49_37_25_N_06_09_15_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Public Building Administration, Luxembourg Government",
+              "lines": [
+                "Public Building Administration, Luxembourg Government"
+              ],
+              "html": "<td class=\"infobox-data agent\">Public Building Administration, Luxembourg Government</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "8,300 (indoor arena)",
+              "lines": [
+                "8,300 (indoor arena)"
+              ],
+              "html": "<td class=\"infobox-data\">8,300 (indoor arena)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "type": [
+            {
+              "label": "Type",
+              "key": "type",
+              "group": null,
+              "text": "Olympic-sized swimming pool, indoor arena, sports centre, hotel and conference centre",
+              "lines": [
+                "Olympic-sized swimming pool, indoor arena, sports centre, hotel and conference centre"
+              ],
+              "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Olympic-sized_swimming_pool\" class=\"mw-redirect\" title=\"Olympic-sized swimming pool\">Olympic-sized swimming pool</a>, <a href=\"https://en.wikipedia.org/wiki/Indoor_arena\" class=\"mw-redirect\" title=\"Indoor arena\">indoor arena</a>, <a href=\"https://en.wikipedia.org/wiki/Sports_centre\" class=\"mw-redirect\" title=\"Sports centre\">sports centre</a>, <a href=\"https://en.wikipedia.org/wiki/Hotel\" title=\"Hotel\">hotel</a> and <a href=\"https://en.wikipedia.org/wiki/Conference_centre\" class=\"mw-redirect\" title=\"Conference centre\">conference centre</a></td>",
+              "links": [
+                {
+                  "text": "Olympic-sized swimming pool",
+                  "title": "Olympic-sized swimming pool",
+                  "wikiTitle": "Olympic-sized swimming pool",
+                  "href": "https://en.wikipedia.org/wiki/Olympic-sized_swimming_pool",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "indoor arena",
+                  "title": "Indoor arena",
+                  "wikiTitle": "Indoor arena",
+                  "href": "https://en.wikipedia.org/wiki/Indoor_arena",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "sports centre",
+                  "title": "Sports centre",
+                  "wikiTitle": "Sports centre",
+                  "href": "https://en.wikipedia.org/wiki/Sports_centre",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "hotel",
+                  "title": "Hotel",
+                  "wikiTitle": "Hotel",
+                  "href": "https://en.wikipedia.org/wiki/Hotel",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "conference centre",
+                  "title": "Conference centre",
+                  "wikiTitle": "Conference centre",
+                  "href": "https://en.wikipedia.org/wiki/Conference_centre",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "public_transit": [
+            {
+              "label": "Public transit",
+              "key": "public_transit",
+              "group": null,
+              "text": "Coque tram stop, Luxtram\nRGTR bus stops\nEuropeErasme-d'CoqueAntoine de St Exupéry\nAVL bus stops\nLéon HengenAntoine de St Exupéry",
+              "lines": [
+                "Coque tram stop, Luxtram",
+                "RGTR bus stops",
+                "EuropeErasme-d'CoqueAntoine de St Exupéry",
+                "AVL bus stops",
+                "Léon HengenAntoine de St Exupéry"
+              ],
+              "html": "<td class=\"infobox-data\">Coque tram stop, <a href=\"https://en.wikipedia.org/wiki/Trams_in_Luxembourg\" class=\"mw-redirect\" title=\"Trams in Luxembourg\">Luxtram</a><br><div class=\"collapsible-list mw-collapsible mw-collapsed\">\n<div><div>RGTR bus stops</div></div>\n<ul class=\"mw-collapsible-content\"><li>Europe</li><li>Erasme-d'Coque</li><li>Antoine de St Exupéry</li></ul>\n</div>\n<div class=\"collapsible-list mw-collapsible mw-collapsed\">\n<div><div>AVL bus stops</div></div>\n<ul class=\"mw-collapsible-content\"><li>Léon Hengen</li><li>Antoine de St Exupéry</li></ul>\n</div></td>",
+              "links": [
+                {
+                  "text": "Luxtram",
+                  "title": "Trams in Luxembourg",
+                  "wikiTitle": "Trams in Luxembourg",
+                  "href": "https://en.wikipedia.org/wiki/Trams_in_Luxembourg",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "14 April 1982 (1982-04-14)",
+              "lines": [
+                "14 April 1982 (1982-04-14)"
+              ],
+              "html": "<td class=\"infobox-data\">14&nbsp;April&nbsp;1982<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1982-04-14</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "expanded": [
+            {
+              "label": "Expanded",
+              "key": "expanded",
+              "group": "Construction",
+              "text": "15 December 1997 – 8 June 2002",
+              "lines": [
+                "15 December 1997 – 8 June 2002"
+              ],
+              "html": "<td class=\"infobox-data\">15 December 1997 – 8 June 2002</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Roger Taillibert",
+              "lines": [
+                "Roger Taillibert"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Roger_Taillibert\" title=\"Roger Taillibert\">Roger Taillibert</a></td>",
+              "links": [
+                {
+                  "text": "Roger Taillibert",
+                  "title": "Roger Taillibert",
+                  "wikiTitle": "Roger Taillibert",
+                  "href": "https://en.wikipedia.org/wiki/Roger_Taillibert",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "coque.lu",
+              "lines": [
+                "coque.lu"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://coque.lu/\">coque<wbr>.lu</a></span></td>",
+              "links": [
+                {
+                  "text": "coque.lu",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://coque.lu/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            },
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "Building details",
+              "lines": [
+                "Building details"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><div>Building details</div></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            },
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "coque.lu/en/coque-hotel",
+              "lines": [
+                "coque.lu/en/coque-hotel"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://coque.lu/en/coque-hotel\">coque<wbr>.lu<wbr>/en<wbr>/coque-hotel</a></span></td>",
+              "links": [
+                {
+                  "text": "coque.lu/en/coque-hotel",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://coque.lu/en/coque-hotel",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "number_of_rooms": [
+            {
+              "label": "Number of rooms",
+              "key": "number_of_rooms",
+              "group": "Other information",
+              "text": "36 double rooms (2 beds)",
+              "lines": [
+                "36 double rooms (2 beds)"
+              ],
+              "html": "<td class=\"infobox-data\">36 double rooms (2 beds)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "National Sports and Cultural Centre Coque"
+          ],
+          "address": [
+            "2, rue Léon Hengen L-1745"
+          ],
+          "location": [
+            "Kirchberg, Luxembourg City"
+          ],
+          "coordinates": [
+            "49°37′25″N 06°09′15″E﻿ / ﻿49.62361°N 6.15417°E﻿ / 49.62361; 6.15417"
+          ],
+          "owner": [
+            "Public Building Administration, Luxembourg Government"
+          ],
+          "capacity": [
+            "8,300 (indoor arena)"
+          ],
+          "type": [
+            "Olympic-sized swimming pool, indoor arena, sports centre, hotel and conference centre"
+          ],
+          "public_transit": [
+            "Coque tram stop, Luxtram\nRGTR bus stops\nEuropeErasme-d'CoqueAntoine de St Exupéry\nAVL bus stops\nLéon HengenAntoine de St Exupéry"
+          ],
+          "opened": [
+            "14 April 1982 (1982-04-14)"
+          ],
+          "expanded": [
+            "15 December 1997 – 8 June 2002"
+          ],
+          "architect": [
+            "Roger Taillibert"
+          ],
+          "website": [
+            "coque.lu",
+            "Building details",
+            "coque.lu/en/coque-hotel"
+          ],
+          "number_of_rooms": [
+            "36 double rooms (2 beds)"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "8,300 (indoor arena)"
+        ],
+        "tenants": [],
+        "websites": [
+          "http://coque.lu/",
+          "http://coque.lu/en/coque-hotel"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:D'Coque (52581534441) (cropped).jpg",
+            "fileName": "D'Coque (52581534441) (cropped).jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:D%27Coque_(52581534441)_(cropped).jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/D%27Coque_%2852581534441%29_%28cropped%29.jpg/250px-D%27Coque_%2852581534441%29_%28cropped%29.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/D'Coque_(52581534441)_(cropped).jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/D'Coque_(52581534441)_(cropped).jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/D%27Coque_%2852581534441%29_%28cropped%29.jpg/500px-D%27Coque_%2852581534441%29_%28cropped%29.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 125,
+            "originalWidth": 3000,
+            "originalHeight": 1500,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Coque in June 2019"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=D%27Coque&revid=1363044720&groups=_0a9ae84edc8449fa30421b46ffcb51c8fc569c5d&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=D%27Coque&revid=1363044720&groups=_0a9ae84edc8449fa30421b46ffcb51c8fc569c5d&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Coque"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Coque</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\" lang=\"French\">Centre National Sportif et Culturel Coque</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:D%27Coque_(52581534441)_(cropped).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/D%27Coque_%2852581534441%29_%28cropped%29.jpg/250px-D%27Coque_%2852581534441%29_%28cropped%29.jpg\" width=\"250\" height=\"125\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/D%27Coque_%2852581534441%29_%28cropped%29.jpg/500px-D%27Coque_%2852581534441%29_%28cropped%29.jpg 2x\" data-file-width=\"3000\" data-file-height=\"1500\"></a></span><div class=\"infobox-caption\">Coque in June 2019</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_0a9ae84edc8449fa30421b46ffcb51c8fc569c5d&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=D%27Coque&amp;revid=1363044720&amp;groups=_0a9ae84edc8449fa30421b46ffcb51c8fc569c5d&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=D%27Coque&amp;revid=1363044720&amp;groups=_0a9ae84edc8449fa30421b46ffcb51c8fc569c5d&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Coque</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">National Sports and Cultural Centre Coque</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\">2, rue Léon Hengen L-1745<span data-plural=\"0\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Kirchberg,_Luxembourg\" title=\"Kirchberg, Luxembourg\">Kirchberg, Luxembourg City</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=D%27Coque&amp;params=49_37_25_N_06_09_15_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">49°37′25″N</span> <span class=\"longitude\">06°09′15″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">49.62361°N 6.15417°E</span><span>﻿ / <span class=\"geo\">49.62361; 6.15417</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Public Building Administration, Luxembourg Government</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">8,300 (indoor arena)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Type</th><td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Olympic-sized_swimming_pool\" class=\"mw-redirect\" title=\"Olympic-sized swimming pool\">Olympic-sized swimming pool</a>, <a href=\"https://en.wikipedia.org/wiki/Indoor_arena\" class=\"mw-redirect\" title=\"Indoor arena\">indoor arena</a>, <a href=\"https://en.wikipedia.org/wiki/Sports_centre\" class=\"mw-redirect\" title=\"Sports centre\">sports centre</a>, <a href=\"https://en.wikipedia.org/wiki/Hotel\" title=\"Hotel\">hotel</a> and <a href=\"https://en.wikipedia.org/wiki/Conference_centre\" class=\"mw-redirect\" title=\"Conference centre\">conference centre</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Public&nbsp;transit</th><td class=\"infobox-data\">Coque tram stop, <a href=\"https://en.wikipedia.org/wiki/Trams_in_Luxembourg\" class=\"mw-redirect\" title=\"Trams in Luxembourg\">Luxtram</a><br><div class=\"collapsible-list mw-collapsible mw-collapsed\">\n<div><div>RGTR bus stops</div></div>\n<ul class=\"mw-collapsible-content\"><li>Europe</li><li>Erasme-d'Coque</li><li>Antoine de St Exupéry</li></ul>\n</div>\n<div class=\"collapsible-list mw-collapsible mw-collapsed\">\n<div><div>AVL bus stops</div></div>\n<ul class=\"mw-collapsible-content\"><li>Léon Hengen</li><li>Antoine de St Exupéry</li></ul>\n</div></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">14&nbsp;April&nbsp;1982<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1982-04-14</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Expanded</th><td class=\"infobox-data\">15 December 1997 – 8 June 2002</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Roger_Taillibert\" title=\"Roger Taillibert\">Roger Taillibert</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://coque.lu/\">coque<wbr>.lu</a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><div>Building details</div></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Other information</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Number&nbsp;of&nbsp;rooms</th><td class=\"infobox-data\">36 double rooms (2 beds)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://coque.lu/en/coque-hotel\">coque<wbr>.lu<wbr>/en<wbr>/coque-hotel</a></span></td></tr><tr><td colspan=\"2\">\n</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Pages_using_embedded_infobox_templates_with_the_title_parameter",
+        "Articles_containing_French-language_text",
+        "Articles_containing_explicitly_cited_English-language_text",
+        "Commons_category_link_from_Wikidata",
+        "Sports_venues_in_Luxembourg_City",
+        "Music_venues_in_Luxembourg_City",
+        "Indoor_arenas_in_Luxembourg",
+        "Basketball_venues_in_Luxembourg",
+        "Volleyball_venues_in_Luxembourg",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=D'Coque&params=49_37_25_N_06_09_15_E_type:landmark",
+        "https://web.archive.org/web/20171201121240/http://tibet.net/2005/06/his-holiness-the-dalai-lama-in-luxembourg/",
+        "http://tibet.net/2005/06/his-holiness-the-dalai-lama-in-luxembourg",
+        "http://coque.lu/",
+        "http://coque.lu/en/coque-hotel",
+        "http://www.coque.lu/",
+        "https://musicbrainz.org/place/008e573c-4b12-479e-83fd-5b142946805a"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 3,
+          "line": "Planning",
+          "anchor": "Planning"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "Construction",
+          "anchor": "Construction"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "FondsKirchberg",
+          "anchor": "FondsKirchberg"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "Venue",
+          "anchor": "Venue"
+        },
+        {
+          "index": "6",
+          "level": 3,
+          "line": "Cultural events",
+          "anchor": "Cultural_events"
+        },
+        {
+          "index": "7",
+          "level": 3,
+          "line": "Sports events",
+          "anchor": "Sports_events"
+        },
+        {
+          "index": "8",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "9",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "D'Coque_(52581534441)_(cropped).jpg",
+        "Luxembourg,_Parc_central_Kirchberg_(105).jpg",
+        "Commons-logo.svg",
+        "OOjs_UI_icon_edit-ltr-progressive.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:D'Coque (52581534441) (cropped).jpg",
+          "fileName": "D'Coque (52581534441) (cropped).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:D%27Coque_(52581534441)_(cropped).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/D%27Coque_%2852581534441%29_%28cropped%29.jpg/250px-D%27Coque_%2852581534441%29_%28cropped%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/D'Coque_(52581534441)_(cropped).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/D'Coque_(52581534441)_(cropped).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/D%27Coque_%2852581534441%29_%28cropped%29.jpg/500px-D%27Coque_%2852581534441%29_%28cropped%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 125,
+          "originalWidth": 3000,
+          "originalHeight": 1500,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Coque in June 2019"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=D%27Coque&revid=1363044720&groups=_0a9ae84edc8449fa30421b46ffcb51c8fc569c5d&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=D%27Coque&revid=1363044720&groups=_0a9ae84edc8449fa30421b46ffcb51c8fc569c5d&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Coque"
+        },
+        {
+          "fileTitle": "File:Luxembourg, Parc central Kirchberg (105).jpg",
+          "fileName": "Luxembourg, Parc central Kirchberg (105).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Luxembourg,_Parc_central_Kirchberg_(105).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Luxembourg%2C_Parc_central_Kirchberg_%28105%29.jpg/250px-Luxembourg%2C_Parc_central_Kirchberg_%28105%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Luxembourg%2C_Parc_central_Kirchberg_(105).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Luxembourg%2C_Parc_central_Kirchberg_(105).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Luxembourg%2C_Parc_central_Kirchberg_%28105%29.jpg/500px-Luxembourg%2C_Parc_central_Kirchberg_%28105%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 141,
+          "originalWidth": 3893,
+          "originalHeight": 2191,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The venue in June 2023"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 610,
+          "rowText": "Luxembourg\nLuxembourg City\nD'coque\n1982\n8,300",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Luxembourg\" title=\"Luxembourg\">Luxembourg</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Luxembourg_City\" title=\"Luxembourg City\">Luxembourg City</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/D%27coque\" class=\"mw-redirect\" title=\"D'coque\">D'coque</a>\n</td>\n<td>1982\n</td>\n<td>8,300\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 610,
+              "cell": {
+                "text": "Luxembourg",
+                "lines": [
+                  "Luxembourg"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Luxembourg",
+                    "title": "Luxembourg",
+                    "wikiTitle": "Luxembourg",
+                    "href": "https://en.wikipedia.org/wiki/Luxembourg",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 610,
+              "cell": {
+                "text": "Luxembourg City",
+                "lines": [
+                  "Luxembourg City"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Luxembourg City",
+                    "title": "Luxembourg City",
+                    "wikiTitle": "Luxembourg City",
+                    "href": "https://en.wikipedia.org/wiki/Luxembourg_City",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 610,
+              "cell": {
+                "text": "D'coque",
+                "lines": [
+                  "D'coque"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "D'coque",
+                    "title": "D'coque",
+                    "wikiTitle": "D'coque",
+                    "href": "https://en.wikipedia.org/wiki/D%27coque",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 610,
+              "cell": {
+                "text": "1982",
+                "lines": [
+                  "1982"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 610,
+              "cell": {
+                "text": "8,300",
+                "lines": [
+                  "8,300"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 610,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "D'coque",
+            "lines": [
+              "D'coque"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "D'coque",
+                "title": "D'coque",
+                "wikiTitle": "D'coque",
+                "href": "https://en.wikipedia.org/wiki/D%27coque",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:46:28.518Z"
+    }
+  ]
+}

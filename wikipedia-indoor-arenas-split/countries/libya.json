@@ -1,0 +1,754 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Libya",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 3,
+    "sourceTypeCounts": {
+      "world_master_list": 1,
+      "country_or_region_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-15122997",
+      "pageId": 15122997,
+      "revisionId": null,
+      "title": "Suliman Ad-Dharrath Arena",
+      "displayTitle": "Suliman Ad-Dharrath Arena",
+      "url": "https://en.wikipedia.org/wiki/Suliman_Ad-Dharrath_Arena",
+      "wikidataItem": "Q7636274",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7636274",
+      "aliases": [
+        "Suliman Ad-Dharrath Arena"
+      ],
+      "requestedTitles": [
+        "Suliman Ad-Dharrath Arena"
+      ],
+      "sourceLinkTexts": [
+        "Suliman Ad-Dharrath Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Suliman_Ad-Dharrath_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 32.10417,
+        "longitude": 20.07333,
+        "raw": "32.10417; 20.07333"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Suliman Ad-Dharrath Arena",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Benghazi, Libya",
+            "lines": [
+              "Benghazi, Libya"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Benghazi\" title=\"Benghazi\">Benghazi</a>, <a href=\"https://en.wikipedia.org/wiki/Libya\" title=\"Libya\">Libya</a></td>",
+            "links": [
+              {
+                "text": "Benghazi",
+                "title": "Benghazi",
+                "wikiTitle": "Benghazi",
+                "href": "https://en.wikipedia.org/wiki/Benghazi",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Libya",
+                "title": "Libya",
+                "wikiTitle": "Libya",
+                "href": "https://en.wikipedia.org/wiki/Libya",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "2,000",
+            "lines": [
+              "2,000"
+            ],
+            "html": "<td class=\"infobox-data\">2,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1967 (1967)",
+            "lines": [
+              "1967 (1967)"
+            ],
+            "html": "<td class=\"infobox-data\">1967<span>&nbsp;(<span class=\"bday dtstart published updated\">1967</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Benghazi, Libya",
+              "lines": [
+                "Benghazi, Libya"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Benghazi\" title=\"Benghazi\">Benghazi</a>, <a href=\"https://en.wikipedia.org/wiki/Libya\" title=\"Libya\">Libya</a></td>",
+              "links": [
+                {
+                  "text": "Benghazi",
+                  "title": "Benghazi",
+                  "wikiTitle": "Benghazi",
+                  "href": "https://en.wikipedia.org/wiki/Benghazi",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Libya",
+                  "title": "Libya",
+                  "wikiTitle": "Libya",
+                  "href": "https://en.wikipedia.org/wiki/Libya",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "2,000",
+              "lines": [
+                "2,000"
+              ],
+              "html": "<td class=\"infobox-data\">2,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1967 (1967)",
+              "lines": [
+                "1967 (1967)"
+              ],
+              "html": "<td class=\"infobox-data\">1967<span>&nbsp;(<span class=\"bday dtstart published updated\">1967</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Benghazi, Libya"
+          ],
+          "capacity": [
+            "2,000"
+          ],
+          "opened": [
+            "1967 (1967)"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "2,000"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Suliman_Ad-Dharrath_Arena&revid=1329953696&groups=_e15c613b4fbf203673bf23b633bfa11219ebf63e&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Suliman_Ad-Dharrath_Arena&revid=1329953696&groups=_e15c613b4fbf203673bf23b633bfa11219ebf63e&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Suliman Ad-Dharrath Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Suliman Ad-Dharrath Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_e15c613b4fbf203673bf23b633bfa11219ebf63e&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Suliman_Ad-Dharrath_Arena&amp;revid=1329953696&amp;groups=_e15c613b4fbf203673bf23b633bfa11219ebf63e&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Suliman_Ad-Dharrath_Arena&amp;revid=1329953696&amp;groups=_e15c613b4fbf203673bf23b633bfa11219ebf63e&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Suliman Ad-Dharrath Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Benghazi\" title=\"Benghazi\">Benghazi</a>, <a href=\"https://en.wikipedia.org/wiki/Libya\" title=\"Libya\">Libya</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">2,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1967<span>&nbsp;(<span class=\"bday dtstart published updated\">1967</span>)</span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Articles_needing_additional_references_from_February_2024",
+        "All_articles_needing_additional_references",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Libya",
+        "Buildings_and_structures_in_Benghazi",
+        "Basketball_venues_in_Libya",
+        "Volleyball_venues_in_Libya",
+        "All_stub_articles",
+        "North_African_sports_venue_stubs",
+        "Libyan_sport_stubs",
+        "Libyan_building_and_structure_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Suliman_Ad-Dharrath_Arena&params=32_6_15_N_20_4_24_E_type:landmark",
+        "https://www.worldatlas.com/articles/the-largest-indoor-arenas-in-africa.html",
+        "https://www.google.com/search?as_eq=wikipedia&q=%22Suliman+Ad-Dharrath+Arena%22",
+        "https://www.google.com/search?tbm=nws&q=%22Suliman+Ad-Dharrath+Arena%22+-wikipedia&tbs=ar:1",
+        "https://www.google.com/search?&q=%22Suliman+Ad-Dharrath+Arena%22&tbs=bkt:s&tbm=bks",
+        "https://www.google.com/search?tbs=bks:1&q=%22Suliman+Ad-Dharrath+Arena%22+-wikipedia",
+        "https://scholar.google.com/scholar?q=%22Suliman+Ad-Dharrath+Arena%22",
+        "https://www.jstor.org/action/doBasicSearch?Query=%22Suliman+Ad-Dharrath+Arena%22&acc=on&wc=on"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Question_book-new.svg",
+        "Libya_map_icon_temp_use.png"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Question book-new.svg",
+          "fileName": "Question book-new.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 39,
+          "originalWidth": 512,
+          "originalHeight": 399,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Suliman_Ad-Dharrath_Arena&revid=1329953696&groups=_e15c613b4fbf203673bf23b633bfa11219ebf63e&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Suliman_Ad-Dharrath_Arena&revid=1329953696&groups=_e15c613b4fbf203673bf23b633bfa11219ebf63e&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Suliman Ad-Dharrath Arena"
+        },
+        {
+          "fileTitle": "File:Libya map icon temp use.png",
+          "fileName": "Libya map icon temp use.png",
+          "kind": "map",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Libya_map_icon_temp_use.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Libya_map_icon_temp_use.png/40px-Libya_map_icon_temp_use.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Libya_map_icon_temp_use.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Libya_map_icon_temp_use.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Libya_map_icon_temp_use.png/60px-Libya_map_icon_temp_use.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 27,
+          "originalWidth": 178,
+          "originalHeight": 159,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Africa"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 25,
+          "rowText": "Libya\nBenghazi\nSuliman Ad-Dharrath Arena\n1967\n10,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Libya\" title=\"Libya\">Libya</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Benghazi\" title=\"Benghazi\">Benghazi</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Suliman_Ad-Dharrath_Arena\" title=\"Suliman Ad-Dharrath Arena\">Suliman Ad-Dharrath Arena</a>\n</td>\n<td align=\"center\">1967\n</td>\n<td align=\"right\">10,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 25,
+              "cell": {
+                "text": "Libya",
+                "lines": [
+                  "Libya"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Libya",
+                    "title": "Libya",
+                    "wikiTitle": "Libya",
+                    "href": "https://en.wikipedia.org/wiki/Libya",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 25,
+              "cell": {
+                "text": "Benghazi",
+                "lines": [
+                  "Benghazi"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Benghazi",
+                    "title": "Benghazi",
+                    "wikiTitle": "Benghazi",
+                    "href": "https://en.wikipedia.org/wiki/Benghazi",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 25,
+              "cell": {
+                "text": "Suliman Ad-Dharrath Arena",
+                "lines": [
+                  "Suliman Ad-Dharrath Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Suliman Ad-Dharrath Arena",
+                    "title": "Suliman Ad-Dharrath Arena",
+                    "wikiTitle": "Suliman Ad-Dharrath Arena",
+                    "href": "https://en.wikipedia.org/wiki/Suliman_Ad-Dharrath_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 25,
+              "cell": {
+                "text": "1967",
+                "lines": [
+                  "1967"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 25,
+              "cell": {
+                "text": "10,000",
+                "lines": [
+                  "10,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 25,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Suliman Ad-Dharrath Arena",
+            "lines": [
+              "Suliman Ad-Dharrath Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Suliman Ad-Dharrath Arena",
+                "title": "Suliman Ad-Dharrath Arena",
+                "wikiTitle": "Suliman Ad-Dharrath Arena",
+                "href": "https://en.wikipedia.org/wiki/Suliman_Ad-Dharrath_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 34,
+          "rowText": "Libya\nBenghazi\nSuliman Ad-Dharrath Arena\n1967\n10,000",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Libya\" title=\"Libya\">Libya</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Benghazi\" title=\"Benghazi\">Benghazi</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Suliman_Ad-Dharrath_Arena\" title=\"Suliman Ad-Dharrath Arena\">Suliman Ad-Dharrath Arena</a>\n</td>\n<td align=\"center\">1967\n</td>\n<td align=\"center\">10,000\n</td>\n<td>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 34,
+              "cell": {
+                "text": "Libya",
+                "lines": [
+                  "Libya"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Libya",
+                    "title": "Libya",
+                    "wikiTitle": "Libya",
+                    "href": "https://en.wikipedia.org/wiki/Libya",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 34,
+              "cell": {
+                "text": "Benghazi",
+                "lines": [
+                  "Benghazi"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Benghazi",
+                    "title": "Benghazi",
+                    "wikiTitle": "Benghazi",
+                    "href": "https://en.wikipedia.org/wiki/Benghazi",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 34,
+              "cell": {
+                "text": "Suliman Ad-Dharrath Arena",
+                "lines": [
+                  "Suliman Ad-Dharrath Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Suliman Ad-Dharrath Arena",
+                    "title": "Suliman Ad-Dharrath Arena",
+                    "wikiTitle": "Suliman Ad-Dharrath Arena",
+                    "href": "https://en.wikipedia.org/wiki/Suliman_Ad-Dharrath_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 34,
+              "cell": {
+                "text": "1967",
+                "lines": [
+                  "1967"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 34,
+              "cell": {
+                "text": "10,000",
+                "lines": [
+                  "10,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 34,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 34,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Suliman Ad-Dharrath Arena",
+            "lines": [
+              "Suliman Ad-Dharrath Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Suliman Ad-Dharrath Arena",
+                "title": "Suliman Ad-Dharrath Arena",
+                "wikiTitle": "Suliman Ad-Dharrath Arena",
+                "href": "https://en.wikipedia.org/wiki/Suliman_Ad-Dharrath_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T11:41:31.339Z"
+    }
+  ]
+}

@@ -1,0 +1,1693 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Lebanon",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 21,
+    "sourceTypeCounts": {
+      "world_master_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-12453982",
+      "pageId": 12453982,
+      "revisionId": null,
+      "title": "Sagesse SC (basketball)",
+      "displayTitle": "Sagesse SC (basketball)",
+      "url": "https://en.wikipedia.org/wiki/Sagesse_SC_(basketball)",
+      "wikidataItem": "Q17067476",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q17067476",
+      "aliases": [
+        "Ghazir Club Court",
+        "Sagesse SC (basketball)"
+      ],
+      "requestedTitles": [
+        "Ghazir Club Court"
+      ],
+      "sourceLinkTexts": [
+        "Ghazir Club Court"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Ghazir_Club_Court"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": null,
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "",
+        "groups": [],
+        "fields": [
+          {
+            "label": "Nickname",
+            "key": "nickname",
+            "group": null,
+            "text": "The Green Castle\n(Arabic: القلعة الخضراء)",
+            "lines": [
+              "The Green Castle",
+              "(Arabic: القلعة الخضراء)"
+            ],
+            "html": "<td class=\"infobox-data\">The Green Castle <br> (<a href=\"https://en.wikipedia.org/wiki/Arabic_Language\" class=\"mw-redirect\" title=\"Arabic Language\">Arabic</a>: القلعة الخضراء)</td>",
+            "links": [
+              {
+                "text": "Arabic",
+                "title": "Arabic Language",
+                "wikiTitle": "Arabic Language",
+                "href": "https://en.wikipedia.org/wiki/Arabic_Language",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Leagues",
+            "key": "leagues",
+            "group": null,
+            "text": "Lebanese Basketball League (FLB League): Div.1;\nWest Asia Super League (WASL)",
+            "lines": [
+              "Lebanese Basketball League (FLB League): Div.1;",
+              "West Asia Super League (WASL)"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Lebanese_Basketball_League\" title=\"Lebanese Basketball League\">Lebanese Basketball League</a> (FLB League): Div.1;\n<a href=\"https://en.wikipedia.org/wiki/West_Asia_Super_League\" class=\"mw-redirect\" title=\"West Asia Super League\">West Asia Super League</a> (WASL)</td>",
+            "links": [
+              {
+                "text": "Lebanese Basketball League",
+                "title": "Lebanese Basketball League",
+                "wikiTitle": "Lebanese Basketball League",
+                "href": "https://en.wikipedia.org/wiki/Lebanese_Basketball_League",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "West Asia Super League",
+                "title": "West Asia Super League",
+                "wikiTitle": "West Asia Super League",
+                "href": "https://en.wikipedia.org/wiki/West_Asia_Super_League",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Founded",
+            "key": "founded",
+            "group": null,
+            "text": "1943",
+            "lines": [
+              "1943"
+            ],
+            "html": "<td class=\"infobox-data\">1943</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "History",
+            "key": "history",
+            "group": null,
+            "text": "Sagesse SC\n(1943–present)\nSagesse BC\n(1992–present)",
+            "lines": [
+              "Sagesse SC",
+              "(1943–present)",
+              "Sagesse BC",
+              "(1992–present)"
+            ],
+            "html": "<td class=\"infobox-data\">Sagesse SC <br>(1943–present)\n<b>Sagesse BC</b> <br>(1992–present)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Arena",
+            "key": "arena",
+            "group": null,
+            "text": "Antoine Choueiry Stadium, Ghazir",
+            "lines": [
+              "Antoine Choueiry Stadium, Ghazir"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Ghazir_Club_Court\" class=\"mw-redirect\" title=\"Ghazir Club Court\">Antoine Choueiry Stadium</a>, <a href=\"https://en.wikipedia.org/wiki/Ghazir\" title=\"Ghazir\">Ghazir</a></td>",
+            "links": [
+              {
+                "text": "Antoine Choueiry Stadium",
+                "title": "Ghazir Club Court",
+                "wikiTitle": "Ghazir Club Court",
+                "href": "https://en.wikipedia.org/wiki/Ghazir_Club_Court",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Ghazir",
+                "title": "Ghazir",
+                "wikiTitle": "Ghazir",
+                "href": "https://en.wikipedia.org/wiki/Ghazir",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "5,000",
+            "lines": [
+              "5,000"
+            ],
+            "html": "<td class=\"infobox-data\">5,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Achrafieh, Beirut",
+            "lines": [
+              "Achrafieh, Beirut"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Achrafieh,_Beirut\" class=\"mw-redirect\" title=\"Achrafieh, Beirut\">Achrafieh, Beirut</a></td>",
+            "links": [
+              {
+                "text": "Achrafieh, Beirut",
+                "title": "Achrafieh, Beirut",
+                "wikiTitle": "Achrafieh, Beirut",
+                "href": "https://en.wikipedia.org/wiki/Achrafieh,_Beirut",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Team colors",
+            "key": "team_colors",
+            "group": null,
+            "text": "Green, White",
+            "lines": [
+              "Green, White"
+            ],
+            "html": "<td class=\"infobox-data\">Green, White <br> <span class=\"legend-color mw-no-invert\">&nbsp;</span> <span class=\"legend-color mw-no-invert\">&nbsp;</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "President",
+            "key": "president",
+            "group": null,
+            "text": "Ragheb Haddad",
+            "lines": [
+              "Ragheb Haddad"
+            ],
+            "html": "<td class=\"infobox-data\">Ragheb Haddad</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Head coach",
+            "key": "head_coach",
+            "group": null,
+            "text": "Joe Ghattas",
+            "lines": [
+              "Joe Ghattas"
+            ],
+            "html": "<td class=\"infobox-data\">Joe Ghattas</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Affiliation",
+            "key": "affiliation",
+            "group": null,
+            "text": "Collège de la Sagesse of the Maronite Catholic Archeparchy of Beirut",
+            "lines": [
+              "Collège de la Sagesse of the Maronite Catholic Archeparchy of Beirut"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/College_La_Sagesse_St_Joseph_%E2%80%93_Ashrafieh\" class=\"mw-redirect\" title=\"College La Sagesse St Joseph – Ashrafieh\">Collège de la Sagesse</a> of the <a href=\"https://en.wikipedia.org/wiki/Maronite_Catholic_Archeparchy_of_Beirut\" title=\"Maronite Catholic Archeparchy of Beirut\">Maronite Catholic Archeparchy of Beirut</a></td>",
+            "links": [
+              {
+                "text": "Collège de la Sagesse",
+                "title": "College La Sagesse St Joseph – Ashrafieh",
+                "wikiTitle": "College La Sagesse St Joseph – Ashrafieh",
+                "href": "https://en.wikipedia.org/wiki/College_La_Sagesse_St_Joseph_%E2%80%93_Ashrafieh",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Maronite Catholic Archeparchy of Beirut",
+                "title": "Maronite Catholic Archeparchy of Beirut",
+                "wikiTitle": "Maronite Catholic Archeparchy of Beirut",
+                "href": "https://en.wikipedia.org/wiki/Maronite_Catholic_Archeparchy_of_Beirut",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Championships",
+            "key": "championships",
+            "group": null,
+            "text": "8 Lebanese Basketball League\n3 WABA Champions Cup\n3 Basketball Champions League Asia\n2 Arab Club Championship\n7 Lebanese Cup Championship\n1 Lebanese Challenge Cup",
+            "lines": [
+              "8 Lebanese Basketball League",
+              "3 WABA Champions Cup",
+              "3 Basketball Champions League Asia",
+              "2 Arab Club Championship",
+              "7 Lebanese Cup Championship",
+              "1 Lebanese Challenge Cup"
+            ],
+            "html": "<td class=\"infobox-data\"><b>8</b> <a href=\"https://en.wikipedia.org/wiki/Lebanese_Basketball_League\" title=\"Lebanese Basketball League\">Lebanese Basketball League</a><br> <b>3</b> <a href=\"https://en.wikipedia.org/wiki/WABA_Champions_Cup\" title=\"WABA Champions Cup\">WABA Champions Cup</a> <br> <b>3</b> <a href=\"https://en.wikipedia.org/wiki/Basketball_Champions_League_Asia\" title=\"Basketball Champions League Asia\">Basketball Champions League Asia</a> <br> <b>2</b> <a href=\"https://en.wikipedia.org/wiki/Arab_Club_Basketball_Championship\" title=\"Arab Club Basketball Championship\">Arab Club Championship</a> <br> <b>7</b> Lebanese Cup Championship <br> <b>1</b> Lebanese Challenge Cup</td>",
+            "links": [
+              {
+                "text": "Lebanese Basketball League",
+                "title": "Lebanese Basketball League",
+                "wikiTitle": "Lebanese Basketball League",
+                "href": "https://en.wikipedia.org/wiki/Lebanese_Basketball_League",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "WABA Champions Cup",
+                "title": "WABA Champions Cup",
+                "wikiTitle": "WABA Champions Cup",
+                "href": "https://en.wikipedia.org/wiki/WABA_Champions_Cup",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Basketball Champions League Asia",
+                "title": "Basketball Champions League Asia",
+                "wikiTitle": "Basketball Champions League Asia",
+                "href": "https://en.wikipedia.org/wiki/Basketball_Champions_League_Asia",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Arab Club Championship",
+                "title": "Arab Club Basketball Championship",
+                "wikiTitle": "Arab Club Basketball Championship",
+                "href": "https://en.wikipedia.org/wiki/Arab_Club_Basketball_Championship",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": null,
+            "text": "www.sagesseclub.com",
+            "lines": [
+              "www.sagesseclub.com"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.sagesseclub.com/\">www<wbr>.sagesseclub<wbr>.com</a></span></td>",
+            "links": [
+              {
+                "text": "www.sagesseclub.com",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://www.sagesseclub.com/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "nickname": [
+            {
+              "label": "Nickname",
+              "key": "nickname",
+              "group": null,
+              "text": "The Green Castle\n(Arabic: القلعة الخضراء)",
+              "lines": [
+                "The Green Castle",
+                "(Arabic: القلعة الخضراء)"
+              ],
+              "html": "<td class=\"infobox-data\">The Green Castle <br> (<a href=\"https://en.wikipedia.org/wiki/Arabic_Language\" class=\"mw-redirect\" title=\"Arabic Language\">Arabic</a>: القلعة الخضراء)</td>",
+              "links": [
+                {
+                  "text": "Arabic",
+                  "title": "Arabic Language",
+                  "wikiTitle": "Arabic Language",
+                  "href": "https://en.wikipedia.org/wiki/Arabic_Language",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "leagues": [
+            {
+              "label": "Leagues",
+              "key": "leagues",
+              "group": null,
+              "text": "Lebanese Basketball League (FLB League): Div.1;\nWest Asia Super League (WASL)",
+              "lines": [
+                "Lebanese Basketball League (FLB League): Div.1;",
+                "West Asia Super League (WASL)"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Lebanese_Basketball_League\" title=\"Lebanese Basketball League\">Lebanese Basketball League</a> (FLB League): Div.1;\n<a href=\"https://en.wikipedia.org/wiki/West_Asia_Super_League\" class=\"mw-redirect\" title=\"West Asia Super League\">West Asia Super League</a> (WASL)</td>",
+              "links": [
+                {
+                  "text": "Lebanese Basketball League",
+                  "title": "Lebanese Basketball League",
+                  "wikiTitle": "Lebanese Basketball League",
+                  "href": "https://en.wikipedia.org/wiki/Lebanese_Basketball_League",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "West Asia Super League",
+                  "title": "West Asia Super League",
+                  "wikiTitle": "West Asia Super League",
+                  "href": "https://en.wikipedia.org/wiki/West_Asia_Super_League",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "founded": [
+            {
+              "label": "Founded",
+              "key": "founded",
+              "group": null,
+              "text": "1943",
+              "lines": [
+                "1943"
+              ],
+              "html": "<td class=\"infobox-data\">1943</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "history": [
+            {
+              "label": "History",
+              "key": "history",
+              "group": null,
+              "text": "Sagesse SC\n(1943–present)\nSagesse BC\n(1992–present)",
+              "lines": [
+                "Sagesse SC",
+                "(1943–present)",
+                "Sagesse BC",
+                "(1992–present)"
+              ],
+              "html": "<td class=\"infobox-data\">Sagesse SC <br>(1943–present)\n<b>Sagesse BC</b> <br>(1992–present)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "arena": [
+            {
+              "label": "Arena",
+              "key": "arena",
+              "group": null,
+              "text": "Antoine Choueiry Stadium, Ghazir",
+              "lines": [
+                "Antoine Choueiry Stadium, Ghazir"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Ghazir_Club_Court\" class=\"mw-redirect\" title=\"Ghazir Club Court\">Antoine Choueiry Stadium</a>, <a href=\"https://en.wikipedia.org/wiki/Ghazir\" title=\"Ghazir\">Ghazir</a></td>",
+              "links": [
+                {
+                  "text": "Antoine Choueiry Stadium",
+                  "title": "Ghazir Club Court",
+                  "wikiTitle": "Ghazir Club Court",
+                  "href": "https://en.wikipedia.org/wiki/Ghazir_Club_Court",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Ghazir",
+                  "title": "Ghazir",
+                  "wikiTitle": "Ghazir",
+                  "href": "https://en.wikipedia.org/wiki/Ghazir",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "5,000",
+              "lines": [
+                "5,000"
+              ],
+              "html": "<td class=\"infobox-data\">5,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Achrafieh, Beirut",
+              "lines": [
+                "Achrafieh, Beirut"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Achrafieh,_Beirut\" class=\"mw-redirect\" title=\"Achrafieh, Beirut\">Achrafieh, Beirut</a></td>",
+              "links": [
+                {
+                  "text": "Achrafieh, Beirut",
+                  "title": "Achrafieh, Beirut",
+                  "wikiTitle": "Achrafieh, Beirut",
+                  "href": "https://en.wikipedia.org/wiki/Achrafieh,_Beirut",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "team_colors": [
+            {
+              "label": "Team colors",
+              "key": "team_colors",
+              "group": null,
+              "text": "Green, White",
+              "lines": [
+                "Green, White"
+              ],
+              "html": "<td class=\"infobox-data\">Green, White <br> <span class=\"legend-color mw-no-invert\">&nbsp;</span> <span class=\"legend-color mw-no-invert\">&nbsp;</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "president": [
+            {
+              "label": "President",
+              "key": "president",
+              "group": null,
+              "text": "Ragheb Haddad",
+              "lines": [
+                "Ragheb Haddad"
+              ],
+              "html": "<td class=\"infobox-data\">Ragheb Haddad</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "head_coach": [
+            {
+              "label": "Head coach",
+              "key": "head_coach",
+              "group": null,
+              "text": "Joe Ghattas",
+              "lines": [
+                "Joe Ghattas"
+              ],
+              "html": "<td class=\"infobox-data\">Joe Ghattas</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "affiliation": [
+            {
+              "label": "Affiliation",
+              "key": "affiliation",
+              "group": null,
+              "text": "Collège de la Sagesse of the Maronite Catholic Archeparchy of Beirut",
+              "lines": [
+                "Collège de la Sagesse of the Maronite Catholic Archeparchy of Beirut"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/College_La_Sagesse_St_Joseph_%E2%80%93_Ashrafieh\" class=\"mw-redirect\" title=\"College La Sagesse St Joseph – Ashrafieh\">Collège de la Sagesse</a> of the <a href=\"https://en.wikipedia.org/wiki/Maronite_Catholic_Archeparchy_of_Beirut\" title=\"Maronite Catholic Archeparchy of Beirut\">Maronite Catholic Archeparchy of Beirut</a></td>",
+              "links": [
+                {
+                  "text": "Collège de la Sagesse",
+                  "title": "College La Sagesse St Joseph – Ashrafieh",
+                  "wikiTitle": "College La Sagesse St Joseph – Ashrafieh",
+                  "href": "https://en.wikipedia.org/wiki/College_La_Sagesse_St_Joseph_%E2%80%93_Ashrafieh",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Maronite Catholic Archeparchy of Beirut",
+                  "title": "Maronite Catholic Archeparchy of Beirut",
+                  "wikiTitle": "Maronite Catholic Archeparchy of Beirut",
+                  "href": "https://en.wikipedia.org/wiki/Maronite_Catholic_Archeparchy_of_Beirut",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "championships": [
+            {
+              "label": "Championships",
+              "key": "championships",
+              "group": null,
+              "text": "8 Lebanese Basketball League\n3 WABA Champions Cup\n3 Basketball Champions League Asia\n2 Arab Club Championship\n7 Lebanese Cup Championship\n1 Lebanese Challenge Cup",
+              "lines": [
+                "8 Lebanese Basketball League",
+                "3 WABA Champions Cup",
+                "3 Basketball Champions League Asia",
+                "2 Arab Club Championship",
+                "7 Lebanese Cup Championship",
+                "1 Lebanese Challenge Cup"
+              ],
+              "html": "<td class=\"infobox-data\"><b>8</b> <a href=\"https://en.wikipedia.org/wiki/Lebanese_Basketball_League\" title=\"Lebanese Basketball League\">Lebanese Basketball League</a><br> <b>3</b> <a href=\"https://en.wikipedia.org/wiki/WABA_Champions_Cup\" title=\"WABA Champions Cup\">WABA Champions Cup</a> <br> <b>3</b> <a href=\"https://en.wikipedia.org/wiki/Basketball_Champions_League_Asia\" title=\"Basketball Champions League Asia\">Basketball Champions League Asia</a> <br> <b>2</b> <a href=\"https://en.wikipedia.org/wiki/Arab_Club_Basketball_Championship\" title=\"Arab Club Basketball Championship\">Arab Club Championship</a> <br> <b>7</b> Lebanese Cup Championship <br> <b>1</b> Lebanese Challenge Cup</td>",
+              "links": [
+                {
+                  "text": "Lebanese Basketball League",
+                  "title": "Lebanese Basketball League",
+                  "wikiTitle": "Lebanese Basketball League",
+                  "href": "https://en.wikipedia.org/wiki/Lebanese_Basketball_League",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "WABA Champions Cup",
+                  "title": "WABA Champions Cup",
+                  "wikiTitle": "WABA Champions Cup",
+                  "href": "https://en.wikipedia.org/wiki/WABA_Champions_Cup",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Basketball Champions League Asia",
+                  "title": "Basketball Champions League Asia",
+                  "wikiTitle": "Basketball Champions League Asia",
+                  "href": "https://en.wikipedia.org/wiki/Basketball_Champions_League_Asia",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Arab Club Championship",
+                  "title": "Arab Club Basketball Championship",
+                  "wikiTitle": "Arab Club Basketball Championship",
+                  "href": "https://en.wikipedia.org/wiki/Arab_Club_Basketball_Championship",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": null,
+              "text": "www.sagesseclub.com",
+              "lines": [
+                "www.sagesseclub.com"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.sagesseclub.com/\">www<wbr>.sagesseclub<wbr>.com</a></span></td>",
+              "links": [
+                {
+                  "text": "www.sagesseclub.com",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://www.sagesseclub.com/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "nickname": [
+            "The Green Castle\n(Arabic: القلعة الخضراء)"
+          ],
+          "leagues": [
+            "Lebanese Basketball League (FLB League): Div.1;\nWest Asia Super League (WASL)"
+          ],
+          "founded": [
+            "1943"
+          ],
+          "history": [
+            "Sagesse SC\n(1943–present)\nSagesse BC\n(1992–present)"
+          ],
+          "arena": [
+            "Antoine Choueiry Stadium, Ghazir"
+          ],
+          "capacity": [
+            "5,000"
+          ],
+          "location": [
+            "Achrafieh, Beirut"
+          ],
+          "team_colors": [
+            "Green, White"
+          ],
+          "president": [
+            "Ragheb Haddad"
+          ],
+          "head_coach": [
+            "Joe Ghattas"
+          ],
+          "affiliation": [
+            "Collège de la Sagesse of the Maronite Catholic Archeparchy of Beirut"
+          ],
+          "championships": [
+            "8 Lebanese Basketball League\n3 WABA Champions Cup\n3 Basketball Champions League Asia\n2 Arab Club Championship\n7 Lebanese Cup Championship\n1 Lebanese Challenge Cup"
+          ],
+          "website": [
+            "www.sagesseclub.com"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "5,000"
+        ],
+        "tenants": [],
+        "websites": [
+          "http://www.sagesseclub.com/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:Sagesse SC New Logo.png",
+            "fileName": "Sagesse SC New Logo.png",
+            "kind": "logo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Sagesse_SC_New_Logo.png",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sagesse_SC_New_Logo.png/250px-Sagesse_SC_New_Logo.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sagesse_SC_New_Logo.png",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sagesse_SC_New_Logo.png",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sagesse_SC_New_Logo.png/500px-Sagesse_SC_New_Logo.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 95,
+            "originalWidth": 704,
+            "originalHeight": 268,
+            "fileType": null,
+            "alt": "Sagesse Club - Basketball team نادي الحكمة - فريق كرة السلة logo",
+            "title": "Sagesse Club - Basketball team نادي الحكمة - فريق كرة السلة logo",
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kit_body_bb_whitetrimnumbers.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [],
+            "width": 38,
+            "height": 59,
+            "originalWidth": 38,
+            "originalHeight": 59,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kit_body_basketball.svg/40px-Kit_body_basketball.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kit_body_basketball.svg/120px-Kit_body_basketball.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 38,
+            "height": 59,
+            "originalWidth": 38,
+            "originalHeight": 59,
+            "fileType": null,
+            "alt": "Home jersey",
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kit_shorts_whitesides.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [],
+            "width": 100,
+            "height": 36,
+            "originalWidth": 100,
+            "originalHeight": 36,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/120px-Kit_shorts.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/250px-Kit_shorts.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 100,
+            "height": 36,
+            "originalWidth": 100,
+            "originalHeight": 36,
+            "fileType": null,
+            "alt": "Team colours",
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Kit_body_bb_trimnumbersonwhite.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [],
+            "width": 38,
+            "height": 59,
+            "originalWidth": 38,
+            "originalHeight": 59,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Kit_shorts_greensides.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [],
+            "width": 100,
+            "height": 36,
+            "originalWidth": 100,
+            "originalHeight": 36,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><tbody><tr><th colspan=\"2\" class=\"infobox-above fn org\">Sagesse Club - <i>Basketball team</i>\n<span title=\"Arabic-language text\"><span lang=\"ar\" dir=\"rtl\">نادي الحكمة - فريق كرة السلة</span></span></th></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size\"><a href=\"https://en.wikipedia.org/wiki/File:Sagesse_SC_New_Logo.png\" class=\"mw-file-description\" title=\"Sagesse Club - Basketball team نادي الحكمة - فريق كرة السلة logo\"><img alt=\"Sagesse Club - Basketball team نادي الحكمة - فريق كرة السلة logo\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sagesse_SC_New_Logo.png/250px-Sagesse_SC_New_Logo.png\" width=\"250\" height=\"95\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sagesse_SC_New_Logo.png/500px-Sagesse_SC_New_Logo.png 2x\" data-file-width=\"704\" data-file-height=\"268\"></a></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Nickname</th><td class=\"infobox-data\">The Green Castle <br> (<a href=\"https://en.wikipedia.org/wiki/Arabic_Language\" class=\"mw-redirect\" title=\"Arabic Language\">Arabic</a>: القلعة الخضراء)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Leagues</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Lebanese_Basketball_League\" title=\"Lebanese Basketball League\">Lebanese Basketball League</a> (FLB League): Div.1;\n<a href=\"https://en.wikipedia.org/wiki/West_Asia_Super_League\" class=\"mw-redirect\" title=\"West Asia Super League\">West Asia Super League</a> (WASL)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Founded</th><td class=\"infobox-data\">1943</td></tr><tr><th scope=\"row\" class=\"infobox-label\">History</th><td class=\"infobox-data\">Sagesse SC <br>(1943–present)\n<b>Sagesse BC</b> <br>(1992–present)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Arena</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Ghazir_Club_Court\" class=\"mw-redirect\" title=\"Ghazir Club Court\">Antoine Choueiry Stadium</a>, <a href=\"https://en.wikipedia.org/wiki/Ghazir\" title=\"Ghazir\">Ghazir</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">5,000</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Achrafieh,_Beirut\" class=\"mw-redirect\" title=\"Achrafieh, Beirut\">Achrafieh, Beirut</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Team colors</th><td class=\"infobox-data\">Green, White <br> <span class=\"legend-color mw-no-invert\">&nbsp;</span> <span class=\"legend-color mw-no-invert\">&nbsp;</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">President</th><td class=\"infobox-data\">Ragheb Haddad</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Head coach</th><td class=\"infobox-data\">Joe Ghattas</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Affiliation</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/College_La_Sagesse_St_Joseph_%E2%80%93_Ashrafieh\" class=\"mw-redirect\" title=\"College La Sagesse St Joseph – Ashrafieh\">Collège de la Sagesse</a> of the <a href=\"https://en.wikipedia.org/wiki/Maronite_Catholic_Archeparchy_of_Beirut\" title=\"Maronite Catholic Archeparchy of Beirut\">Maronite Catholic Archeparchy of Beirut</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Championships</th><td class=\"infobox-data\"><b>8</b> <a href=\"https://en.wikipedia.org/wiki/Lebanese_Basketball_League\" title=\"Lebanese Basketball League\">Lebanese Basketball League</a><br> <b>3</b> <a href=\"https://en.wikipedia.org/wiki/WABA_Champions_Cup\" title=\"WABA Champions Cup\">WABA Champions Cup</a> <br> <b>3</b> <a href=\"https://en.wikipedia.org/wiki/Basketball_Champions_League_Asia\" title=\"Basketball Champions League Asia\">Basketball Champions League Asia</a> <br> <b>2</b> <a href=\"https://en.wikipedia.org/wiki/Arab_Club_Basketball_Championship\" title=\"Arab Club Basketball Championship\">Arab Club Championship</a> <br> <b>7</b> Lebanese Cup Championship <br> <b>1</b> Lebanese Challenge Cup</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Website</th><td class=\"infobox-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.sagesseclub.com/\">www<wbr>.sagesseclub<wbr>.com</a></span></td></tr><tr class=\"infobox-hiddenrow\"><td colspan=\"2\" class=\"infobox-full-data\"></td></tr><tr><td colspan=\"2\">\n<table class=\"kit\">\n<tbody><tr>\n<td><div>\n<div>\n<div><span class=\"mw-default-size mw-valign-top\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/7/74/Kit_body_bb_whitetrimnumbers.png\" width=\"38\" height=\"59\" class=\"mw-file-element\" data-file-width=\"38\" data-file-height=\"59\"></span></span></div>\n<div><span class=\"mw-default-size mw-valign-top\"><span title=\"Home jersey\"><img alt=\"Home jersey\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kit_body_basketball.svg/40px-Kit_body_basketball.svg.png\" width=\"38\" height=\"59\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kit_body_basketball.svg/120px-Kit_body_basketball.svg.png 2x\" data-file-width=\"38\" data-file-height=\"59\"></span></span></div>\n<div><span class=\"mw-default-size mw-valign-top\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/2/29/Kit_shorts_whitesides.png\" width=\"100\" height=\"36\" class=\"mw-file-element\" data-file-width=\"100\" data-file-height=\"36\"></span></span></div>\n<div><span class=\"mw-default-size mw-valign-top\"><span title=\"Team colours\"><img alt=\"Team colours\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/120px-Kit_shorts.svg.png\" width=\"100\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/250px-Kit_shorts.svg.png 2x\" data-file-width=\"100\" data-file-height=\"36\"></span></span></div>\n</div>\n<div><b><a href=\"https://en.wikipedia.org/wiki/Basketball_uniform\" title=\"Basketball uniform\">Home</a></b></div>\n</div></td><td><div>\n<div>\n<div><span class=\"mw-default-size mw-valign-top\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/f/f7/Kit_body_bb_trimnumbersonwhite.png\" width=\"38\" height=\"59\" class=\"mw-file-element\" data-file-width=\"38\" data-file-height=\"59\"></span></span></div>\n<div><span class=\"mw-default-size mw-valign-top\"><span title=\"Away jersey\"><img alt=\"Away jersey\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kit_body_basketball.svg/40px-Kit_body_basketball.svg.png\" width=\"38\" height=\"59\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kit_body_basketball.svg/120px-Kit_body_basketball.svg.png 2x\" data-file-width=\"38\" data-file-height=\"59\"></span></span></div>\n<div><span class=\"mw-default-size mw-valign-top\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/4/40/Kit_shorts_greensides.png\" width=\"100\" height=\"36\" class=\"mw-file-element\" data-file-width=\"100\" data-file-height=\"36\"></span></span></div>\n<div><span class=\"mw-default-size mw-valign-top\"><span title=\"Team colours\"><img alt=\"Team colours\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/120px-Kit_shorts.svg.png\" width=\"100\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/250px-Kit_shorts.svg.png 2x\" data-file-width=\"100\" data-file-height=\"36\"></span></span></div>\n</div>\n<div><b><a href=\"https://en.wikipedia.org/wiki/Basketball_uniform\" title=\"Basketball uniform\">Away</a></b></div>\n</div></td><td><div>\n<div>\n<div><span class=\"mw-default-size mw-valign-top\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/7/74/Kit_body_bb_whitetrimnumbers.png\" width=\"38\" height=\"59\" class=\"mw-file-element\" data-file-width=\"38\" data-file-height=\"59\"></span></span></div>\n<div><span class=\"mw-default-size mw-valign-top\"><span title=\"Third jersey\"><img alt=\"Third jersey\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kit_body_basketball.svg/40px-Kit_body_basketball.svg.png\" width=\"38\" height=\"59\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kit_body_basketball.svg/120px-Kit_body_basketball.svg.png 2x\" data-file-width=\"38\" data-file-height=\"59\"></span></span></div>\n<div><span class=\"mw-default-size mw-valign-top\"><span><img src=\"https://upload.wikimedia.org/wikipedia/commons/4/40/Kit_shorts_greensides.png\" width=\"100\" height=\"36\" class=\"mw-file-element\" data-file-width=\"100\" data-file-height=\"36\"></span></span></div>\n<div><span class=\"mw-default-size mw-valign-top\"><span title=\"Team colours\"><img alt=\"Team colours\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/120px-Kit_shorts.svg.png\" width=\"100\" height=\"36\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/250px-Kit_shorts.svg.png 2x\" data-file-width=\"100\" data-file-height=\"36\"></span></span></div>\n</div>\n<div><b><a href=\"https://en.wikipedia.org/wiki/Third_jersey\" title=\"Third jersey\">Third</a></b></div>\n</div></td></tr><tr class=\"mw-empty-elt\"></tr>\n</tbody></table></td></tr><tr><td colspan=\"2\">\n</td></tr></tbody></table>"
+      },
+      "categories": [
+        "All_articles_with_dead_external_links",
+        "Articles_with_dead_external_links_from_March_2022",
+        "CS1_Arabic-language_sources_(ar)",
+        "CS1_maint:_archived_copy_as_title",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Articles_containing_Arabic-language_text",
+        "Basketball_teams_in_Lebanon",
+        "Sport_in_Beirut",
+        "Organisations_based_in_Beirut",
+        "1992_establishments_in_Lebanon",
+        "Sagesse_SC_(basketball)",
+        "Basketball_teams_established_in_1992"
+      ],
+      "externalLinks": [
+        "https://websites.mygameday.app/assoc_page.cgi?client=1-3223-0-0-0&sID=31915&&news_task=DETAIL&articleID=11527079",
+        "https://websites.sportstg.com/assoc_page.cgi?client=1-3223-0-0-0&sID=31915&&news_task=DETAIL&articleID=11527079",
+        "https://www.lebanese-forces.com/2010/03/10/78018/",
+        "https://www.lebanese-forces.com/2010/03/10/78013/",
+        "https://www.alminbaronline.com/article.aspx?id=23039",
+        "https://www.alminbaronline.com/article.aspx?id=18098",
+        "https://rambeeni.wordpress.com/tag/fiba/",
+        "https://africansinsports.com/afrobasket-dream-teams/",
+        "https://www.elnashra.com/news/show/857672/%D8%AD%D8%B1%D8%A8-%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D8%A7",
+        "https://www.addiyar.com/article/707446-%D8%B5%D9%81%D8%AD%D8%A9-16-3051999",
+        "https://web.archive.org/web/20150211005221/http://www.fiba.com/pages/eng/cl/training/p/nid/41162/article.html",
+        "http://www.fiba.com/pages/eng/cl/training/p/nid/41162/article.html",
+        "https://web.archive.org/web/20240701174317/https://www.annahar.com/notfound.html",
+        "https://www.annahar.com/notfound.html",
+        "https://addiyar.com/article/728745-%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9-16-12101999",
+        "https://www.youtube.com/watch?v=jBCEnlU7tZ4",
+        "http://www.malaeeb.com/pages/marticle/3824-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9+%D9%8A%D8%B9%D8%B3%D9%83%D8%B1+%D9%81%D9%8A+%D8%AA%D8%B1%D9%83%D9%8A%D8%A7+%D9%88%D9%8A%D9%88%D8%A7%D8%AC%D9%87+%D8%BA%D9%84%D8%B7%D8%A9+%D8%B3%D8%B1%D8%A7%D9%8A+%D9%88%D8%AF%D9%8A%D8%A7%D9%8B",
+        "https://uk.news.yahoo.com/26th-dubai-international-basketball-tournament-190000482.html",
+        "https://dubaisavers.com/events/dubai-international-basketball-championship/",
+        "https://www.annahar.com/arabic/article/195081-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA-%D8%A8%D8%B7%D9%84%D8%A7-%D9%84%D8%B3%D9%84%D8%A9-%D8%A3%D8%A8%D9%88-%D8%B8%D8%A8%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%A5%D8%AD%D8%B1%D8%A7%D8%B2%D9%87-%D9%84%D9%82%D8%A8-%D8%AF%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9",
+        "https://web.archive.org/web/20160828043329/http://www.sportkello.com/ar/news/show/16382",
+        "http://www.sportkello.com/ar/news/show/16382",
+        "https://m.arabia.eurosport.com/article/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A9/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A/%D9%86%D8%A7%D8%AF%D9%8A-%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D9%8A%D9%82%D8%AF%D9%85-%D9%81%D8%B1%D9%8A%D9%82%D9%8A-%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A9-%D9%88%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A9-%D9%81%D9%8A-%D8%AD%D9%81%D9%84-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A",
+        "https://www.lebanon24.com/notavailable",
+        "https://www.nna-leb.gov.lb/ar/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/653121",
+        "https://www.instagram.com/reel/C_lVQeFsP0_/",
+        "https://www.facebook.com/photo.php?fbid=538288101902764",
+        "https://www.instagram.com/p/C_lWqa1MR5k/",
+        "https://www.chicagotribune.com/news/ct-xpm-2003-06-17-0306170033-story.html",
+        "https://web.archive.org/web/20160629105106/http://www.sports-leb.com/2011/02/04/125065/",
+        "https://web.archive.org/web/20120501004525/http://www.sports-leb.com/sports/MoreNews.aspx?newsid=125065",
+        "http://sports.lebanese-forces.com/sports/MoreNews.aspx?newsid=125065",
+        "https://forum.kooora.com/f.aspx?t=29234426",
+        "https://web.archive.org/web/20160806183230/http://jamahir.alwehda.gov.sy/node/303104",
+        "http://jamahir.alwehda.gov.sy/node/303104",
+        "https://www.fiba.basketball/news/petrochimi-al-riyadi-advance-to-fiba-asia-champions-cup",
+        "http://www.fiba.basketball/asia/championscup/2016/all-time-medalists",
+        "https://web.archive.org/web/20141219225350/http://www.nba.com/global/games2013/all-time-international-game-list-printable.html",
+        "http://www.nba.com/global/games2013/all-time-international-game-list-printable.html",
+        "https://web.archive.org/web/20150926163050/http://www.nba.com/events/mcdonalds_championship.html",
+        "http://www.nba.com/events/mcdonalds_championship.html",
+        "https://www.youtube.com/watch?v=dXsS3goQ2GE",
+        "https://www.addiyar.com/article/707911-%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9-16-361999",
+        "http://www.rdl.com.lb/2000/3742/hekmeh.html",
+        "http://daharchives.alhayat.com/issue_archive/Wasat%20magazine/1998/4/13/%D8%A7%D9%84%D8%AD%D9%83%D9%85%D8%A9-%D8%A8%D8%B7%D9%84-%D8%A7%D9%84%D8%A3%D9%86%D8%AF%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D9%84%D8%A9-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%8A%D8%B1%D8%AA%D8%AF%D9%8A-%D8%A7%D9%84%D9%84%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%AE%D8%B6%D8%B1.html",
+        "https://www.fiba.basketball/en/news/wasl-23-24-westasia-news-sagesse-replace-dynamo-in-fiba-wasl-west-asia",
+        "http://vidzi.tv/y5n6zuzid7e9#.WOizsZ-EbqA",
+        "http://www.sagesseclub.com",
+        "https://www.facebook.com/SagesseClubOfcl",
+        "https://www.instagram.com/sagesseclubofcl",
+        "https://basketball.asia-basket.com/team/Sagesse-Al-Hekmeh-Beirut/2677"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Rivalries",
+          "anchor": "Rivalries"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "<i>Beirut Derby</i>",
+          "anchor": "Beirut_Derby"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "Honours",
+          "anchor": "Honours"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "Medals and decorations",
+          "anchor": "Medals_and_decorations"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "Current roster",
+          "anchor": "Current_roster"
+        },
+        {
+          "index": "7",
+          "level": 2,
+          "line": "Notable foreign players",
+          "anchor": "Notable_foreign_players"
+        },
+        {
+          "index": "8",
+          "level": 2,
+          "line": "Notable coaches",
+          "anchor": "Notable_coaches"
+        },
+        {
+          "index": "9",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "10",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Kit_body_bb_whitetrimnumbers.png",
+        "Kit_shorts_whitesides.png",
+        "Kit_body_bb_trimnumbersonwhite.png",
+        "Kit_shorts_greensides.png",
+        "Sagesse_SC_New_Logo.png",
+        "Kit_body_basketball.svg",
+        "Kit_shorts.svg",
+        "Flag_of_Lebanon.svg",
+        "Order_of_the_Cedar_-_Knight_(Lebanon)_Ribbon.png",
+        "Order_of_the_Cedar_-_Officer_(Lebanon)_Ribbon.png",
+        "Flag_of_Canada_(Pantone).svg",
+        "Flag_of_the_United_States.svg",
+        "Flag_of_France.svg",
+        "Flag_of_New_Zealand.svg",
+        "Flag_of_Cyprus.svg",
+        "Cruz_Roja.svg",
+        "Flag_of_Croatia.svg",
+        "Flag_of_Egypt.svg",
+        "Flag_of_Ukraine.svg",
+        "Flag_of_Greece.svg",
+        "Flag_of_Serbia.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Sagesse SC New Logo.png",
+          "fileName": "Sagesse SC New Logo.png",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sagesse_SC_New_Logo.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sagesse_SC_New_Logo.png/250px-Sagesse_SC_New_Logo.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sagesse_SC_New_Logo.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sagesse_SC_New_Logo.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sagesse_SC_New_Logo.png/500px-Sagesse_SC_New_Logo.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 95,
+          "originalWidth": 704,
+          "originalHeight": 268,
+          "fileType": null,
+          "alt": "Sagesse Club - Basketball team نادي الحكمة - فريق كرة السلة logo",
+          "title": "Sagesse Club - Basketball team نادي الحكمة - فريق كرة السلة logo",
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kit_body_bb_whitetrimnumbers.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 38,
+          "height": 59,
+          "originalWidth": 38,
+          "originalHeight": 59,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kit_body_basketball.svg/40px-Kit_body_basketball.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kit_body_basketball.svg/120px-Kit_body_basketball.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 38,
+          "height": 59,
+          "originalWidth": 38,
+          "originalHeight": 59,
+          "fileType": null,
+          "alt": "Home jersey",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Kit_shorts_whitesides.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 100,
+          "height": 36,
+          "originalWidth": 100,
+          "originalHeight": 36,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/120px-Kit_shorts.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Kit_shorts.svg/250px-Kit_shorts.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 100,
+          "height": 36,
+          "originalWidth": 100,
+          "originalHeight": 36,
+          "fileType": null,
+          "alt": "Team colours",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Kit_body_bb_trimnumbersonwhite.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 38,
+          "height": 59,
+          "originalWidth": 38,
+          "originalHeight": 59,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Kit_shorts_greensides.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 100,
+          "height": 36,
+          "originalWidth": 100,
+          "originalHeight": 36,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/40px-Flag_of_Lebanon.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/60px-Flag_of_Lebanon.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 2880,
+          "originalHeight": 1920,
+          "fileType": null,
+          "alt": "Lebanon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Order of the Cedar - Knight (Lebanon) Ribbon.png",
+          "fileName": "Order of the Cedar - Knight (Lebanon) Ribbon.png",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Order_of_the_Cedar_-_Knight_(Lebanon)_Ribbon.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Order_of_the_Cedar_-_Knight_%28Lebanon%29_Ribbon.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Order_of_the_Cedar_-_Knight_(Lebanon)_Ribbon.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Order_of_the_Cedar_-_Knight_(Lebanon)_Ribbon.png",
+          "srcset": [],
+          "width": 100,
+          "height": 30,
+          "originalWidth": 100,
+          "originalHeight": 30,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": ""
+        },
+        {
+          "fileTitle": "File:Order of the Cedar - Officer (Lebanon) Ribbon.png",
+          "fileName": "Order of the Cedar - Officer (Lebanon) Ribbon.png",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Order_of_the_Cedar_-_Officer_(Lebanon)_Ribbon.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Order_of_the_Cedar_-_Officer_%28Lebanon%29_Ribbon.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Order_of_the_Cedar_-_Officer_(Lebanon)_Ribbon.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Order_of_the_Cedar_-_Officer_(Lebanon)_Ribbon.png",
+          "srcset": [],
+          "width": 100,
+          "height": 30,
+          "originalWidth": 100,
+          "originalHeight": 30,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": ""
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Canada",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/60px-Flag_of_the_United_States.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1235,
+          "originalHeight": 650,
+          "fileType": null,
+          "alt": "United States",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/60px-Flag_of_France.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "France",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/40px-Flag_of_New_Zealand.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/60px-Flag_of_New_Zealand.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "New Zealand",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/40px-Flag_of_Cyprus.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/60px-Flag_of_Cyprus.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "fileType": null,
+          "alt": "Cyprus",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Cruz Roja.svg",
+          "fileName": "Cruz Roja.svg",
+          "kind": "drawing",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Cruz_Roja.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cruz_Roja.svg/20px-Cruz_Roja.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cruz_Roja.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Cruz_Roja.svg",
+          "srcset": [],
+          "width": 8,
+          "height": 8,
+          "originalWidth": 62,
+          "originalHeight": 62,
+          "fileType": null,
+          "alt": "Injured",
+          "title": "Injured",
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/40px-Flag_of_Croatia.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/60px-Flag_of_Croatia.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Croatia",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/40px-Flag_of_Egypt.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/60px-Flag_of_Egypt.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Egypt",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/40px-Flag_of_Ukraine.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/60px-Flag_of_Ukraine.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "fileType": null,
+          "alt": "Ukraine",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/40px-Flag_of_Greece.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/60px-Flag_of_Greece.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 600,
+          "originalHeight": 400,
+          "fileType": null,
+          "alt": "Greece",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/40px-Flag_of_Serbia.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/60px-Flag_of_Serbia.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 1350,
+          "originalHeight": 900,
+          "fileType": null,
+          "alt": "Serbia",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 295,
+          "rowText": "Ghazir\nGhazir Club Court\n5,000\nGhazir Volleyball",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Ghazir\" title=\"Ghazir\">Ghazir</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Ghazir_Club_Court\" class=\"mw-redirect\" title=\"Ghazir Club Court\">Ghazir Club Court</a>\n</td>\n<td>\n</td>\n<td>5,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Ghazir_Volleyball\" title=\"Ghazir Volleyball\">Ghazir Volleyball</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 294,
+              "cell": {
+                "text": "Lebanon",
+                "lines": [
+                  "Lebanon"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Lebanon",
+                    "title": "Lebanon",
+                    "wikiTitle": "Lebanon",
+                    "href": "https://en.wikipedia.org/wiki/Lebanon",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 295,
+              "cell": {
+                "text": "Ghazir",
+                "lines": [
+                  "Ghazir"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ghazir",
+                    "title": "Ghazir",
+                    "wikiTitle": "Ghazir",
+                    "href": "https://en.wikipedia.org/wiki/Ghazir",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 295,
+              "cell": {
+                "text": "Ghazir Club Court",
+                "lines": [
+                  "Ghazir Club Court"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ghazir Club Court",
+                    "title": "Ghazir Club Court",
+                    "wikiTitle": "Ghazir Club Court",
+                    "href": "https://en.wikipedia.org/wiki/Ghazir_Club_Court",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 295,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 295,
+              "cell": {
+                "text": "5,000",
+                "lines": [
+                  "5,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 295,
+              "cell": {
+                "text": "Ghazir Volleyball",
+                "lines": [
+                  "Ghazir Volleyball"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ghazir Volleyball",
+                    "title": "Ghazir Volleyball",
+                    "wikiTitle": "Ghazir Volleyball",
+                    "href": "https://en.wikipedia.org/wiki/Ghazir_Volleyball",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Ghazir Club Court",
+            "lines": [
+              "Ghazir Club Court"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Ghazir Club Court",
+                "title": "Ghazir Club Court",
+                "wikiTitle": "Ghazir Club Court",
+                "href": "https://en.wikipedia.org/wiki/Ghazir_Club_Court",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T11:54:59.506Z"
+    }
+  ]
+}

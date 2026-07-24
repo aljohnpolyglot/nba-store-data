@@ -1,0 +1,964 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Macau",
+  "coverage": {
+    "mode": "inferred_from_infobox_or_other_lists",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 0
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 4,
+    "sourceTypeCounts": {
+      "arena_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-13821525",
+      "pageId": 13821525,
+      "revisionId": null,
+      "title": "Venetian Arena",
+      "displayTitle": "Venetian Arena",
+      "url": "https://en.wikipedia.org/wiki/Venetian_Arena",
+      "wikidataItem": "Q5175282",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5175282",
+      "aliases": [
+        "Cotai Arena",
+        "Cotai Arena (2010–2024)",
+        "Venetian Arena"
+      ],
+      "requestedTitles": [
+        "Cotai Arena"
+      ],
+      "sourceLinkTexts": [
+        "Cotai Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Cotai_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas by capacity"
+      ],
+      "sourceTypes": [
+        "arena_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 22.1477,
+        "longitude": 113.559,
+        "raw": "22.1477; 113.5590"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Venetian Arena",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "The Venetian Macao",
+            "lines": [
+              "The Venetian Macao"
+            ],
+            "html": "<td class=\"infobox-data\">The Venetian Macao</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Former names",
+            "key": "former_names",
+            "group": null,
+            "text": "Cotai Arena (2010–2024)",
+            "lines": [
+              "Cotai Arena (2010–2024)"
+            ],
+            "html": "<td class=\"infobox-data nickname\"><div class=\"plainlist\"><ul><li>Cotai Arena (2010–2024)</li></ul></div></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Cotai, das Ilhas, Macau, China",
+            "lines": [
+              "Cotai, das Ilhas, Macau, China"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Cotai\" title=\"Cotai\">Cotai</a>, <a href=\"https://en.wikipedia.org/wiki/Municipality_of_das_Ilhas\" class=\"mw-redirect\" title=\"Municipality of das Ilhas\">das Ilhas</a>, <a href=\"https://en.wikipedia.org/wiki/Macau\" title=\"Macau\">Macau</a>, <a href=\"https://en.wikipedia.org/wiki/China\" title=\"China\">China</a></td>",
+            "links": [
+              {
+                "text": "Cotai",
+                "title": "Cotai",
+                "wikiTitle": "Cotai",
+                "href": "https://en.wikipedia.org/wiki/Cotai",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "das Ilhas",
+                "title": "Municipality of das Ilhas",
+                "wikiTitle": "Municipality of das Ilhas",
+                "href": "https://en.wikipedia.org/wiki/Municipality_of_das_Ilhas",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Macau",
+                "title": "Macau",
+                "wikiTitle": "Macau",
+                "href": "https://en.wikipedia.org/wiki/Macau",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "China",
+                "title": "China",
+                "wikiTitle": "China",
+                "href": "https://en.wikipedia.org/wiki/China",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "22°08′52″N 113°33′32″E﻿ / ﻿22.1477°N 113.5590°E﻿ / 22.1477; 113.5590",
+            "lines": [
+              "22°08′52″N 113°33′32″E﻿ / ﻿22.1477°N 113.5590°E﻿ / 22.1477; 113.5590"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Venetian_Arena&amp;params=22.1477_N_113.559_E_type:landmark_region:MO\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">22°08′52″N</span> <span class=\"longitude\">113°33′32″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">22.1477°N 113.5590°E</span><span>﻿ / <span class=\"geo\">22.1477; 113.5590</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "22°08′52″N 113°33′32″E﻿ / ﻿22.1477°N 113.5590°E﻿ / 22.1477; 113.5590",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Venetian_Arena&params=22.1477_N_113.559_E_type:landmark_region:MO",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Las Vegas Sands",
+            "lines": [
+              "Las Vegas Sands"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Las_Vegas_Sands\" title=\"Las Vegas Sands\">Las Vegas Sands</a></td>",
+            "links": [
+              {
+                "text": "Las Vegas Sands",
+                "title": "Las Vegas Sands",
+                "wikiTitle": "Las Vegas Sands",
+                "href": "https://en.wikipedia.org/wiki/Las_Vegas_Sands",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Las Vegas Sands",
+            "lines": [
+              "Las Vegas Sands"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Las_Vegas_Sands\" title=\"Las Vegas Sands\">Las Vegas Sands</a></td>",
+            "links": [
+              {
+                "text": "Las Vegas Sands",
+                "title": "Las Vegas Sands",
+                "wikiTitle": "Las Vegas Sands",
+                "href": "https://en.wikipedia.org/wiki/Las_Vegas_Sands",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "14,000",
+            "lines": [
+              "14,000"
+            ],
+            "html": "<td class=\"infobox-data\">14,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "26 May 2005 (2005-05-26)",
+            "lines": [
+              "26 May 2005 (2005-05-26)"
+            ],
+            "html": "<td class=\"infobox-data\">26&nbsp;May&nbsp;2005<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2005-05-26</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "28 August 2007 (2007-08-28)",
+            "lines": [
+              "28 August 2007 (2007-08-28)"
+            ],
+            "html": "<td class=\"infobox-data\">28&nbsp;August&nbsp;2007<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2007-08-28</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "The Venetian Macao",
+              "lines": [
+                "The Venetian Macao"
+              ],
+              "html": "<td class=\"infobox-data\">The Venetian Macao</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "former_names": [
+            {
+              "label": "Former names",
+              "key": "former_names",
+              "group": null,
+              "text": "Cotai Arena (2010–2024)",
+              "lines": [
+                "Cotai Arena (2010–2024)"
+              ],
+              "html": "<td class=\"infobox-data nickname\"><div class=\"plainlist\"><ul><li>Cotai Arena (2010–2024)</li></ul></div></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Cotai, das Ilhas, Macau, China",
+              "lines": [
+                "Cotai, das Ilhas, Macau, China"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Cotai\" title=\"Cotai\">Cotai</a>, <a href=\"https://en.wikipedia.org/wiki/Municipality_of_das_Ilhas\" class=\"mw-redirect\" title=\"Municipality of das Ilhas\">das Ilhas</a>, <a href=\"https://en.wikipedia.org/wiki/Macau\" title=\"Macau\">Macau</a>, <a href=\"https://en.wikipedia.org/wiki/China\" title=\"China\">China</a></td>",
+              "links": [
+                {
+                  "text": "Cotai",
+                  "title": "Cotai",
+                  "wikiTitle": "Cotai",
+                  "href": "https://en.wikipedia.org/wiki/Cotai",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "das Ilhas",
+                  "title": "Municipality of das Ilhas",
+                  "wikiTitle": "Municipality of das Ilhas",
+                  "href": "https://en.wikipedia.org/wiki/Municipality_of_das_Ilhas",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Macau",
+                  "title": "Macau",
+                  "wikiTitle": "Macau",
+                  "href": "https://en.wikipedia.org/wiki/Macau",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "China",
+                  "title": "China",
+                  "wikiTitle": "China",
+                  "href": "https://en.wikipedia.org/wiki/China",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "22°08′52″N 113°33′32″E﻿ / ﻿22.1477°N 113.5590°E﻿ / 22.1477; 113.5590",
+              "lines": [
+                "22°08′52″N 113°33′32″E﻿ / ﻿22.1477°N 113.5590°E﻿ / 22.1477; 113.5590"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Venetian_Arena&amp;params=22.1477_N_113.559_E_type:landmark_region:MO\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">22°08′52″N</span> <span class=\"longitude\">113°33′32″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">22.1477°N 113.5590°E</span><span>﻿ / <span class=\"geo\">22.1477; 113.5590</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "22°08′52″N 113°33′32″E﻿ / ﻿22.1477°N 113.5590°E﻿ / 22.1477; 113.5590",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Venetian_Arena&params=22.1477_N_113.559_E_type:landmark_region:MO",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Las Vegas Sands",
+              "lines": [
+                "Las Vegas Sands"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Las_Vegas_Sands\" title=\"Las Vegas Sands\">Las Vegas Sands</a></td>",
+              "links": [
+                {
+                  "text": "Las Vegas Sands",
+                  "title": "Las Vegas Sands",
+                  "wikiTitle": "Las Vegas Sands",
+                  "href": "https://en.wikipedia.org/wiki/Las_Vegas_Sands",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Las Vegas Sands",
+              "lines": [
+                "Las Vegas Sands"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Las_Vegas_Sands\" title=\"Las Vegas Sands\">Las Vegas Sands</a></td>",
+              "links": [
+                {
+                  "text": "Las Vegas Sands",
+                  "title": "Las Vegas Sands",
+                  "wikiTitle": "Las Vegas Sands",
+                  "href": "https://en.wikipedia.org/wiki/Las_Vegas_Sands",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "14,000",
+              "lines": [
+                "14,000"
+              ],
+              "html": "<td class=\"infobox-data\">14,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "26 May 2005 (2005-05-26)",
+              "lines": [
+                "26 May 2005 (2005-05-26)"
+              ],
+              "html": "<td class=\"infobox-data\">26&nbsp;May&nbsp;2005<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2005-05-26</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "28 August 2007 (2007-08-28)",
+              "lines": [
+                "28 August 2007 (2007-08-28)"
+              ],
+              "html": "<td class=\"infobox-data\">28&nbsp;August&nbsp;2007<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2007-08-28</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "The Venetian Macao"
+          ],
+          "former_names": [
+            "Cotai Arena (2010–2024)"
+          ],
+          "location": [
+            "Cotai, das Ilhas, Macau, China"
+          ],
+          "coordinates": [
+            "22°08′52″N 113°33′32″E﻿ / ﻿22.1477°N 113.5590°E﻿ / 22.1477; 113.5590"
+          ],
+          "owner": [
+            "Las Vegas Sands"
+          ],
+          "operator": [
+            "Las Vegas Sands"
+          ],
+          "capacity": [
+            "14,000"
+          ],
+          "groundbreaking": [
+            "26 May 2005 (2005-05-26)"
+          ],
+          "opened": [
+            "28 August 2007 (2007-08-28)"
+          ]
+        },
+        "formerNames": [
+          "Cotai Arena (2010–2024)"
+        ],
+        "capacities": [
+          "14,000"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:55672-The-Rolling-Stones-14-On-Fire (13063245954).jpg",
+            "fileName": "55672-The-Rolling-Stones-14-On-Fire (13063245954).jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:55672-The-Rolling-Stones-14-On-Fire_(13063245954).jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg/250px-55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/55672-The-Rolling-Stones-14-On-Fire_(13063245954).jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/55672-The-Rolling-Stones-14-On-Fire_(13063245954).jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg/500px-55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 167,
+            "originalWidth": 2048,
+            "originalHeight": 1367,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Venetian_Arena&revid=1360549582&groups=_43188247ba98b3a60032938104255f611b871830&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Venetian_Arena&revid=1360549582&groups=_43188247ba98b3a60032938104255f611b871830&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Venetian Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Venetian Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\">威尼斯人綜藝館<br> Arena Veneziana</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:55672-The-Rolling-Stones-14-On-Fire_(13063245954).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg/250px-55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg\" width=\"250\" height=\"167\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg/500px-55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg 2x\" data-file-width=\"2048\" data-file-height=\"1367\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_43188247ba98b3a60032938104255f611b871830&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Venetian_Arena&amp;revid=1360549582&amp;groups=_43188247ba98b3a60032938104255f611b871830&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Venetian_Arena&amp;revid=1360549582&amp;groups=_43188247ba98b3a60032938104255f611b871830&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Venetian Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">The Venetian Macao</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Former names</div></th><td class=\"infobox-data nickname\"><div class=\"plainlist\"><ul><li>Cotai Arena (2010–2024)</li></ul></div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Cotai\" title=\"Cotai\">Cotai</a>, <a href=\"https://en.wikipedia.org/wiki/Municipality_of_das_Ilhas\" class=\"mw-redirect\" title=\"Municipality of das Ilhas\">das Ilhas</a>, <a href=\"https://en.wikipedia.org/wiki/Macau\" title=\"Macau\">Macau</a>, <a href=\"https://en.wikipedia.org/wiki/China\" title=\"China\">China</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Venetian_Arena&amp;params=22.1477_N_113.559_E_type:landmark_region:MO\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">22°08′52″N</span> <span class=\"longitude\">113°33′32″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">22.1477°N 113.5590°E</span><span>﻿ / <span class=\"geo\">22.1477; 113.5590</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Las_Vegas_Sands\" title=\"Las Vegas Sands\">Las Vegas Sands</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Las_Vegas_Sands\" title=\"Las Vegas Sands\">Las Vegas Sands</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">14,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">26&nbsp;May&nbsp;2005<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2005-05-26</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">28&nbsp;August&nbsp;2007<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2007-08-28</span>)</span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Webarchive_template_wayback_links",
+        "All_articles_with_dead_external_links",
+        "Articles_with_dead_external_links_from_November_2018",
+        "Articles_with_permanently_dead_external_links",
+        "Articles_with_Chinese-language_sources_(zh)",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Commons_category_link_is_on_Wikidata",
+        "Indoor_arenas_in_Macau",
+        "Basketball_venues_in_China",
+        "Boxing_venues_in_China",
+        "2007_establishments_in_Macau",
+        "Badminton_venues",
+        "Ultimate_Fighting_Championship_venues",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Venetian_Arena&params=22.1477_N_113.559_E_type:landmark_region:MO",
+        "https://macaudailytimes.com.mo/the-venetian-arena-reopens-after-state-of-the-art-upgrades.html",
+        "https://www.usatoday.com/sports/basketball/nba/2007-03-29-china-exhibition_N.htm",
+        "http://www.iifa.com/web07/showcase/2009.htm",
+        "https://web.archive.org/web/20111008190443/http://iifa.com/web07/showcase/2009.htm",
+        "https://web.archive.org/web/20101205214800/http://10.asiae.co.kr/Articles/new_view.htm?sec=ent0&a_id=2010112917042819315",
+        "http://10.asiae.co.kr/Articles/new_view.htm?sec=ent0&a_id=2010112917042819315",
+        "http://zeenews.india.com/entertainment/movies/zee-cine-awards-2012-to-be-held-in-macau_100787.htm",
+        "http://global.mnet.com/news/newsdetail.m?searchNewsVO.news_id=",
+        "http://www.macau-magazine.com/event/3910?lang=zh",
+        "https://web.archive.org/web/20150117115638/http://www.macau-magazine.com/event/3910?lang=zh",
+        "http://www.iifa.com/web07/showcase/2013.htm",
+        "https://web.archive.org/web/20231014111642/https://www.iifa.com/web07/showcase/2013.htm",
+        "https://web.archive.org/web/20131212034339/http://www.rollingstones.com/2013/12/07/the-rolling-stones-announce-14-on-fire-asia-tour-sponsor-prudential-corporation-asia-and-eastspring-investments/",
+        "http://www.rollingstones.com/2013/12/07/the-rolling-stones-announce-14-on-fire-asia-tour-sponsor-prudential-corporation-asia-and-eastspring-investments/",
+        "http://www.rollingstones.com/",
+        "https://web.archive.org/web/20140531123642/http://www.macaudailytimes.com.mo/business/52327-corporate-bits-5-day-anniversary-sale-at-cotai-strip-resorts-macao.html",
+        "http://www.macaudailytimes.com.mo/business/52327-corporate-bits-5-day-anniversary-sale-at-cotai-strip-resorts-macao.html",
+        "http://www.ufc.com/news/UFC-Returns-to-China-with-Bisping-vs-Le",
+        "https://www.facebook.com/SuperJuniorWorldTourSuperShow6/posts/822572857812922",
+        "https://www.facebook.com/SuperJuniorWorldTourSuperShow7/posts/1962881400448723",
+        "https://web.archive.org/web/20180225064824/https://www.venetianmacao.com/entertainment/gem-2018.html#overview",
+        "https://www.venetianmacao.com/entertainment/gem-2018.html#overview",
+        "http://www.ufc.com/news/ufc-macao-press-release-090612",
+        "https://musicbrainz.org/place/fec6ae81-7eb3-437d-8a28-67273886b19c"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Notable events",
+          "anchor": "Notable_events"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "55672-The-Rolling-Stones-14-On-Fire_(13063245954).jpg",
+        "Commons-logo.svg",
+        "OOjs_UI_icon_edit-ltr-progressive.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:55672-The-Rolling-Stones-14-On-Fire (13063245954).jpg",
+          "fileName": "55672-The-Rolling-Stones-14-On-Fire (13063245954).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:55672-The-Rolling-Stones-14-On-Fire_(13063245954).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg/250px-55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/55672-The-Rolling-Stones-14-On-Fire_(13063245954).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/55672-The-Rolling-Stones-14-On-Fire_(13063245954).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg/500px-55672-The-Rolling-Stones-14-On-Fire_%2813063245954%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 2048,
+          "originalHeight": 1367,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Venetian_Arena&revid=1360549582&groups=_43188247ba98b3a60032938104255f611b871830&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Venetian_Arena&revid=1360549582&groups=_43188247ba98b3a60032938104255f611b871830&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Venetian Arena"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 40,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas by capacity",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_by_capacity",
+          "sourceRevisionId": null,
+          "sourceType": "arena_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 171,
+          "rowText": "Cotai Arena\n15,000\nMacau\nMacau",
+          "rowHtml": "<tr>\n<th scope=\"row\"><a href=\"https://en.wikipedia.org/wiki/Cotai_Arena\" class=\"mw-redirect\" title=\"Cotai Arena\">Cotai Arena</a>\n</th>\n<td>15,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Macau\" title=\"Macau\">Macau</a>\n</td>\n<td><span class=\"flagicon nowrap\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/40px-Flag_of_Macau.svg.png\" width=\"23\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/60px-Flag_of_Macau.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\"></span></span> </span><a href=\"https://en.wikipedia.org/wiki/Macau\" title=\"Macau\">Macau</a>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 171,
+              "cell": {
+                "text": "Cotai Arena",
+                "lines": [
+                  "Cotai Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Cotai Arena",
+                    "title": "Cotai Arena",
+                    "wikiTitle": "Cotai Arena",
+                    "href": "https://en.wikipedia.org/wiki/Cotai_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 171,
+              "cell": {
+                "text": "15,000",
+                "lines": [
+                  "15,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 171,
+              "cell": {
+                "text": "Macau",
+                "lines": [
+                  "Macau"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Macau",
+                    "title": "Macau",
+                    "wikiTitle": "Macau",
+                    "href": "https://en.wikipedia.org/wiki/Macau",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 171,
+              "cell": {
+                "text": "Macau",
+                "lines": [
+                  "Macau"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Macau",
+                    "title": "Macau",
+                    "wikiTitle": "Macau",
+                    "href": "https://en.wikipedia.org/wiki/Macau",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": null,
+                    "fileName": null,
+                    "kind": "photo",
+                    "filePageUrl": null,
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/40px-Flag_of_Macau.svg.png",
+                    "originalRedirectUrl": null,
+                    "enwikiOriginalRedirectUrl": null,
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/60px-Flag_of_Macau.svg.png",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 23,
+                    "height": 15,
+                    "originalWidth": 900,
+                    "originalHeight": 600,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 171,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": null,
+              "fileName": null,
+              "kind": "photo",
+              "filePageUrl": null,
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/40px-Flag_of_Macau.svg.png",
+              "originalRedirectUrl": null,
+              "enwikiOriginalRedirectUrl": null,
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/60px-Flag_of_Macau.svg.png",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 23,
+              "height": 15,
+              "originalWidth": 900,
+              "originalHeight": 600,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Cotai Arena",
+            "lines": [
+              "Cotai Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Cotai Arena",
+                "title": "Cotai Arena",
+                "wikiTitle": "Cotai Arena",
+                "href": "https://en.wikipedia.org/wiki/Cotai_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:38.981Z"
+    }
+  ]
+}

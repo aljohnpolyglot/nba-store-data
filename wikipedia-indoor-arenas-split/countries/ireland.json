@@ -1,0 +1,4140 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Ireland",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 4
+  },
+  "stats": {
+    "arenaCount": 4,
+    "sourceRowCount": 4,
+    "mediaRecordCount": 22,
+    "sourceTypeCounts": {
+      "world_master_list": 4
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-19393641",
+      "pageId": 19393641,
+      "revisionId": null,
+      "title": "3Arena (Dublin)",
+      "displayTitle": "3Arena (Dublin)",
+      "url": "https://en.wikipedia.org/wiki/3Arena_(Dublin)",
+      "wikidataItem": "Q1899515",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q1899515",
+      "aliases": [
+        "3Arena (Dublin)",
+        "3Arena",
+        "The Point, The O2 (2008–2014)"
+      ],
+      "requestedTitles": [
+        "3Arena (Dublin)"
+      ],
+      "sourceLinkTexts": [
+        "3Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/3Arena_(Dublin)"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 53.3475,
+        "longitude": -6.22861,
+        "raw": "53.34750; -6.22861"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "3Arena",
+        "groups": [
+          "Construction",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Former names",
+            "key": "former_names",
+            "group": null,
+            "text": "The Point, The O2 (2008–2014)",
+            "lines": [
+              "The Point, The O2 (2008–2014)"
+            ],
+            "html": "<td class=\"infobox-data nickname\">The Point, The O<sub>2</sub> (2008–2014)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "North Wall Quay\nDublin D1\nD01 EW90\nIreland",
+            "lines": [
+              "North Wall Quay",
+              "Dublin D1",
+              "D01 EW90",
+              "Ireland"
+            ],
+            "html": "<td class=\"infobox-data label\">North Wall Quay<br><a href=\"https://en.wikipedia.org/wiki/Dublin\" title=\"Dublin\">Dublin</a> <a href=\"https://en.wikipedia.org/wiki/List_of_Dublin_postal_districts\" title=\"List of Dublin postal districts\">D1</a><br>D01 EW90<br>Ireland<span data-plural=\"0\"></span></td>",
+            "links": [
+              {
+                "text": "Dublin",
+                "title": "Dublin",
+                "wikiTitle": "Dublin",
+                "href": "https://en.wikipedia.org/wiki/Dublin",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "D1",
+                "title": "List of Dublin postal districts",
+                "wikiTitle": "List of Dublin postal districts",
+                "href": "https://en.wikipedia.org/wiki/List_of_Dublin_postal_districts",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Point Village",
+            "lines": [
+              "Point Village"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Point_Village\" title=\"Point Village\">Point Village</a></td>",
+            "links": [
+              {
+                "text": "Point Village",
+                "title": "Point Village",
+                "wikiTitle": "Point Village",
+                "href": "https://en.wikipedia.org/wiki/Point_Village",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "53°20′51″N 06°13′43″W﻿ / ﻿53.34750°N 6.22861°W﻿ / 53.34750; -6.22861",
+            "lines": [
+              "53°20′51″N 06°13′43″W﻿ / ﻿53.34750°N 6.22861°W﻿ / 53.34750; -6.22861"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=3Arena_(Dublin)&amp;params=53_20_51_N_06_13_43_W_type:landmark_scale:3000\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">53°20′51″N</span> <span class=\"longitude\">06°13′43″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">53.34750°N 6.22861°W</span><span>﻿ / <span class=\"geo\">53.34750; -6.22861</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "53°20′51″N 06°13′43″W﻿ / ﻿53.34750°N 6.22861°W﻿ / 53.34750; -6.22861",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=3Arena_(Dublin)&params=53_20_51_N_06_13_43_W_type:landmark_scale:3000",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Apollo Leisure Group, Ltd",
+            "lines": [
+              "Apollo Leisure Group, Ltd"
+            ],
+            "html": "<td class=\"infobox-data agent\">Apollo Leisure Group, Ltd</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Live Nation Ireland",
+            "lines": [
+              "Live Nation Ireland"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Live_Nation_(events_promoter)\" title=\"Live Nation (events promoter)\">Live Nation Ireland</a></td>",
+            "links": [
+              {
+                "text": "Live Nation Ireland",
+                "title": "Live Nation (events promoter)",
+                "wikiTitle": "Live Nation (events promoter)",
+                "href": "https://en.wikipedia.org/wiki/Live_Nation_(events_promoter)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "9,300 (seated)\n13,000 (with standing)",
+            "lines": [
+              "9,300 (seated)",
+              "13,000 (with standing)"
+            ],
+            "html": "<td class=\"infobox-data\">9,300 (seated)<br>13,000 (with standing)</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-1"
+              }
+            ]
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "2007–2008",
+            "lines": [
+              "2007–2008"
+            ],
+            "html": "<td class=\"infobox-data\">2007–2008</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "16 December 2008 (2008-12-16)",
+            "lines": [
+              "16 December 2008 (2008-12-16)"
+            ],
+            "html": "<td class=\"infobox-data\">16&nbsp;December&nbsp;2008<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2008-12-16</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "€80 million",
+            "lines": [
+              "€80 million"
+            ],
+            "html": "<td class=\"infobox-data\">€80 million</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "HOK Sport",
+            "lines": [
+              "HOK Sport"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Populous_(company)\" class=\"mw-redirect\" title=\"Populous (company)\">HOK Sport</a></td>",
+            "links": [
+              {
+                "text": "HOK Sport",
+                "title": "Populous (company)",
+                "wikiTitle": "Populous (company)",
+                "href": "https://en.wikipedia.org/wiki/Populous_(company)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Project manager",
+            "key": "project_manager",
+            "group": "Construction",
+            "text": "AECOM",
+            "lines": [
+              "AECOM"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/AECOM\" title=\"AECOM\">AECOM</a></td>",
+            "links": [
+              {
+                "text": "AECOM",
+                "title": "AECOM",
+                "wikiTitle": "AECOM",
+                "href": "https://en.wikipedia.org/wiki/AECOM",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Structural engineer",
+            "key": "structural_engineer",
+            "group": "Construction",
+            "text": "BuroHappold",
+            "lines": [
+              "BuroHappold"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/BuroHappold_Engineering\" class=\"mw-redirect\" title=\"BuroHappold Engineering\">BuroHappold</a></td>",
+            "links": [
+              {
+                "text": "BuroHappold",
+                "title": "BuroHappold Engineering",
+                "wikiTitle": "BuroHappold Engineering",
+                "href": "https://en.wikipedia.org/wiki/BuroHappold_Engineering",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "General contractor",
+            "key": "general_contractor",
+            "group": "Construction",
+            "text": "DLPKS",
+            "lines": [
+              "DLPKS"
+            ],
+            "html": "<td class=\"infobox-data\">DLPKS</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Main contractors",
+            "key": "main_contractors",
+            "group": "Construction",
+            "text": "Walls Construction",
+            "lines": [
+              "Walls Construction"
+            ],
+            "html": "<td class=\"infobox-data\">Walls Construction</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "Official website",
+            "lines": [
+              "Official website"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"official-website\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"http://3arena.ie/\" href=\"https://3arena.ie/\">Official website</a></span></span></td>",
+            "links": [
+              {
+                "text": "Official website",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://3arena.ie/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "former_names": [
+            {
+              "label": "Former names",
+              "key": "former_names",
+              "group": null,
+              "text": "The Point, The O2 (2008–2014)",
+              "lines": [
+                "The Point, The O2 (2008–2014)"
+              ],
+              "html": "<td class=\"infobox-data nickname\">The Point, The O<sub>2</sub> (2008–2014)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "North Wall Quay\nDublin D1\nD01 EW90\nIreland",
+              "lines": [
+                "North Wall Quay",
+                "Dublin D1",
+                "D01 EW90",
+                "Ireland"
+              ],
+              "html": "<td class=\"infobox-data label\">North Wall Quay<br><a href=\"https://en.wikipedia.org/wiki/Dublin\" title=\"Dublin\">Dublin</a> <a href=\"https://en.wikipedia.org/wiki/List_of_Dublin_postal_districts\" title=\"List of Dublin postal districts\">D1</a><br>D01 EW90<br>Ireland<span data-plural=\"0\"></span></td>",
+              "links": [
+                {
+                  "text": "Dublin",
+                  "title": "Dublin",
+                  "wikiTitle": "Dublin",
+                  "href": "https://en.wikipedia.org/wiki/Dublin",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "D1",
+                  "title": "List of Dublin postal districts",
+                  "wikiTitle": "List of Dublin postal districts",
+                  "href": "https://en.wikipedia.org/wiki/List_of_Dublin_postal_districts",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Point Village",
+              "lines": [
+                "Point Village"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Point_Village\" title=\"Point Village\">Point Village</a></td>",
+              "links": [
+                {
+                  "text": "Point Village",
+                  "title": "Point Village",
+                  "wikiTitle": "Point Village",
+                  "href": "https://en.wikipedia.org/wiki/Point_Village",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "53°20′51″N 06°13′43″W﻿ / ﻿53.34750°N 6.22861°W﻿ / 53.34750; -6.22861",
+              "lines": [
+                "53°20′51″N 06°13′43″W﻿ / ﻿53.34750°N 6.22861°W﻿ / 53.34750; -6.22861"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=3Arena_(Dublin)&amp;params=53_20_51_N_06_13_43_W_type:landmark_scale:3000\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">53°20′51″N</span> <span class=\"longitude\">06°13′43″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">53.34750°N 6.22861°W</span><span>﻿ / <span class=\"geo\">53.34750; -6.22861</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "53°20′51″N 06°13′43″W﻿ / ﻿53.34750°N 6.22861°W﻿ / 53.34750; -6.22861",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=3Arena_(Dublin)&params=53_20_51_N_06_13_43_W_type:landmark_scale:3000",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Apollo Leisure Group, Ltd",
+              "lines": [
+                "Apollo Leisure Group, Ltd"
+              ],
+              "html": "<td class=\"infobox-data agent\">Apollo Leisure Group, Ltd</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Live Nation Ireland",
+              "lines": [
+                "Live Nation Ireland"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Live_Nation_(events_promoter)\" title=\"Live Nation (events promoter)\">Live Nation Ireland</a></td>",
+              "links": [
+                {
+                  "text": "Live Nation Ireland",
+                  "title": "Live Nation (events promoter)",
+                  "wikiTitle": "Live Nation (events promoter)",
+                  "href": "https://en.wikipedia.org/wiki/Live_Nation_(events_promoter)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "9,300 (seated)\n13,000 (with standing)",
+              "lines": [
+                "9,300 (seated)",
+                "13,000 (with standing)"
+              ],
+              "html": "<td class=\"infobox-data\">9,300 (seated)<br>13,000 (with standing)</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-1"
+                }
+              ]
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "2007–2008",
+              "lines": [
+                "2007–2008"
+              ],
+              "html": "<td class=\"infobox-data\">2007–2008</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "16 December 2008 (2008-12-16)",
+              "lines": [
+                "16 December 2008 (2008-12-16)"
+              ],
+              "html": "<td class=\"infobox-data\">16&nbsp;December&nbsp;2008<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2008-12-16</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "€80 million",
+              "lines": [
+                "€80 million"
+              ],
+              "html": "<td class=\"infobox-data\">€80 million</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "HOK Sport",
+              "lines": [
+                "HOK Sport"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Populous_(company)\" class=\"mw-redirect\" title=\"Populous (company)\">HOK Sport</a></td>",
+              "links": [
+                {
+                  "text": "HOK Sport",
+                  "title": "Populous (company)",
+                  "wikiTitle": "Populous (company)",
+                  "href": "https://en.wikipedia.org/wiki/Populous_(company)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "project_manager": [
+            {
+              "label": "Project manager",
+              "key": "project_manager",
+              "group": "Construction",
+              "text": "AECOM",
+              "lines": [
+                "AECOM"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/AECOM\" title=\"AECOM\">AECOM</a></td>",
+              "links": [
+                {
+                  "text": "AECOM",
+                  "title": "AECOM",
+                  "wikiTitle": "AECOM",
+                  "href": "https://en.wikipedia.org/wiki/AECOM",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "structural_engineer": [
+            {
+              "label": "Structural engineer",
+              "key": "structural_engineer",
+              "group": "Construction",
+              "text": "BuroHappold",
+              "lines": [
+                "BuroHappold"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/BuroHappold_Engineering\" class=\"mw-redirect\" title=\"BuroHappold Engineering\">BuroHappold</a></td>",
+              "links": [
+                {
+                  "text": "BuroHappold",
+                  "title": "BuroHappold Engineering",
+                  "wikiTitle": "BuroHappold Engineering",
+                  "href": "https://en.wikipedia.org/wiki/BuroHappold_Engineering",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "general_contractor": [
+            {
+              "label": "General contractor",
+              "key": "general_contractor",
+              "group": "Construction",
+              "text": "DLPKS",
+              "lines": [
+                "DLPKS"
+              ],
+              "html": "<td class=\"infobox-data\">DLPKS</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "main_contractors": [
+            {
+              "label": "Main contractors",
+              "key": "main_contractors",
+              "group": "Construction",
+              "text": "Walls Construction",
+              "lines": [
+                "Walls Construction"
+              ],
+              "html": "<td class=\"infobox-data\">Walls Construction</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "Official website",
+              "lines": [
+                "Official website"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"official-website\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"http://3arena.ie/\" href=\"https://3arena.ie/\">Official website</a></span></span></td>",
+              "links": [
+                {
+                  "text": "Official website",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://3arena.ie/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "former_names": [
+            "The Point, The O2 (2008–2014)"
+          ],
+          "address": [
+            "North Wall Quay\nDublin D1\nD01 EW90\nIreland"
+          ],
+          "location": [
+            "Point Village"
+          ],
+          "coordinates": [
+            "53°20′51″N 06°13′43″W﻿ / ﻿53.34750°N 6.22861°W﻿ / 53.34750; -6.22861"
+          ],
+          "owner": [
+            "Apollo Leisure Group, Ltd"
+          ],
+          "operator": [
+            "Live Nation Ireland"
+          ],
+          "capacity": [
+            "9,300 (seated)\n13,000 (with standing)"
+          ],
+          "built": [
+            "2007–2008"
+          ],
+          "opened": [
+            "16 December 2008 (2008-12-16)"
+          ],
+          "cost": [
+            "€80 million"
+          ],
+          "architect": [
+            "HOK Sport"
+          ],
+          "project_manager": [
+            "AECOM"
+          ],
+          "structural_engineer": [
+            "BuroHappold"
+          ],
+          "general_contractor": [
+            "DLPKS"
+          ],
+          "main_contractors": [
+            "Walls Construction"
+          ],
+          "website": [
+            "Official website"
+          ]
+        },
+        "formerNames": [
+          "The Point, The O2 (2008–2014)"
+        ],
+        "capacities": [
+          "9,300 (seated)",
+          "13,000 (with standing)"
+        ],
+        "tenants": [],
+        "websites": [
+          "https://3arena.ie/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:3Arena logo.svg",
+            "fileName": "3Arena logo.svg",
+            "kind": "logo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:3Arena_logo.svg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/3Arena_logo.svg/120px-3Arena_logo.svg.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/3Arena_logo.svg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/3Arena_logo.svg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/3Arena_logo.svg/250px-3Arena_logo.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 110,
+            "height": 65,
+            "originalWidth": 120,
+            "originalHeight": 71,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": "File:3Arena, Dublin (geograph 5417559).jpg",
+            "fileName": "3Arena, Dublin (geograph 5417559).jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:3Arena,_Dublin_(geograph_5417559).jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/3Arena%2C_Dublin_%28geograph_5417559%29.jpg/250px-3Arena%2C_Dublin_%28geograph_5417559%29.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/3Arena%2C_Dublin_(geograph_5417559).jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/3Arena%2C_Dublin_(geograph_5417559).jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/3Arena%2C_Dublin_%28geograph_5417559%29.jpg/500px-3Arena%2C_Dublin_%28geograph_5417559%29.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 167,
+            "originalWidth": 640,
+            "originalHeight": 427,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Exterior view of the arena (c. 2017)"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=3Arena_%28Dublin%29&revid=1358797622&groups=_1c31d6ba4ebb1afdc8ac3ec3732a4240fe2ebe1f&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=3Arena_%28Dublin%29&revid=1358797622&groups=_1c31d6ba4ebb1afdc8ac3ec3732a4240fe2ebe1f&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of 3Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">3Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"notpageimage\"><a href=\"https://en.wikipedia.org/wiki/File:3Arena_logo.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/3Arena_logo.svg/120px-3Arena_logo.svg.png\" width=\"110\" height=\"65\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/3Arena_logo.svg/250px-3Arena_logo.svg.png 2x\" data-file-width=\"120\" data-file-height=\"71\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:3Arena,_Dublin_(geograph_5417559).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/3Arena%2C_Dublin_%28geograph_5417559%29.jpg/250px-3Arena%2C_Dublin_%28geograph_5417559%29.jpg\" width=\"250\" height=\"167\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/3Arena%2C_Dublin_%28geograph_5417559%29.jpg/500px-3Arena%2C_Dublin_%28geograph_5417559%29.jpg 2x\" data-file-width=\"640\" data-file-height=\"427\"></a></span><div class=\"infobox-caption\">Exterior view of the arena (<abbr title=\"circa\">c.</abbr><span> 2017</span>)</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_1c31d6ba4ebb1afdc8ac3ec3732a4240fe2ebe1f&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=3Arena_%28Dublin%29&amp;revid=1358797622&amp;groups=_1c31d6ba4ebb1afdc8ac3ec3732a4240fe2ebe1f&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=3Arena_%28Dublin%29&amp;revid=1358797622&amp;groups=_1c31d6ba4ebb1afdc8ac3ec3732a4240fe2ebe1f&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of 3Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Former names</div></th><td class=\"infobox-data nickname\">The Point, The O<sub>2</sub> (2008–2014)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\">North Wall Quay<br><a href=\"https://en.wikipedia.org/wiki/Dublin\" title=\"Dublin\">Dublin</a> <a href=\"https://en.wikipedia.org/wiki/List_of_Dublin_postal_districts\" title=\"List of Dublin postal districts\">D1</a><br>D01 EW90<br>Ireland<span data-plural=\"0\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Point_Village\" title=\"Point Village\">Point Village</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=3Arena_(Dublin)&amp;params=53_20_51_N_06_13_43_W_type:landmark_scale:3000\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">53°20′51″N</span> <span class=\"longitude\">06°13′43″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">53.34750°N 6.22861°W</span><span>﻿ / <span class=\"geo\">53.34750; -6.22861</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Apollo Leisure Group, Ltd</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Live_Nation_(events_promoter)\" title=\"Live Nation (events promoter)\">Live Nation Ireland</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">9,300 (seated)<br>13,000 (with standing)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">2007–2008</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">16&nbsp;December&nbsp;2008<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2008-12-16</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">€80 million</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Populous_(company)\" class=\"mw-redirect\" title=\"Populous (company)\">HOK Sport</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Project manager</div></th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/AECOM\" title=\"AECOM\">AECOM</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Structural engineer</div></th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/BuroHappold_Engineering\" class=\"mw-redirect\" title=\"BuroHappold Engineering\">BuroHappold</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>General contractor</div></th><td class=\"infobox-data\">DLPKS</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Main contractors</div></th><td class=\"infobox-data\">Walls Construction</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"official-website\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"http://3arena.ie/\" href=\"https://3arena.ie/\">Official website</a></span></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Webarchive_template_wayback_links",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Use_British_English_from_October_2017",
+        "All_Wikipedia_articles_written_in_British_English",
+        "Use_dmy_dates_from_October_2017",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Official_website_different_in_Wikidata_and_Wikipedia",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_February_2020",
+        "Commons_category_link_from_Wikidata",
+        "3_(company)",
+        "Darts_venues",
+        "Dublin_Docklands",
+        "Indoor_arenas_in_the_Republic_of_Ireland",
+        "Music_venues_in_Dublin_(city)",
+        "North_Wall,_Dublin",
+        "Tourist_attractions_in_Dublin_(city)",
+        "Wrestling_venues_in_Ireland",
+        "Ultimate_Fighting_Championship_venues",
+        "2008_establishments_in_Ireland",
+        "Event_venues_established_in_2008",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=3Arena_(Dublin)&params=53_20_51_N_06_13_43_W_type:landmark_scale:3000",
+        "http://www.independent.ie/business/irish/o2-wins-naming-rights-for-stunning-new-point-1425944.html",
+        "http://www.belfasttelegraph.co.uk/business/news/owner-of-3arena-in-dublin-sees-a-sharp-fall-in-profits-31464013.html",
+        "https://www.pollstar.com/Chart/2019/07/2019MidYearWorldwideTicketSalesTop200ArenaVenues_752.pdf",
+        "https://web.archive.org/web/20210628121237/https://www.pollstar.com/Chart/2019/07/2019MidYearWorldwideTicketSalesTop200ArenaVenues_752.pdf",
+        "https://www.irishtimes.com/blogs/ontherecord/2008/07/02/meet-the-new-venue-on-the-block-the-o2/",
+        "https://www.irishtimes.com/culture/music/and-the-point-depot-s-new-name-is-1.1917804",
+        "https://web.archive.org/web/20090109234734/http://www.reuters.com/article/pressRelease/idUS94098+07-Jul-2008+PRN20080707",
+        "https://www.reuters.com/article/pressRelease/idUS94098+07-Jul-2008+PRN20080707",
+        "https://www.businesspost.ie/legacy/the-point-harrys-rock-nroll-village-189998",
+        "https://web.archive.org/web/20081208062319/http://www.independent.ie/entertainment/day-and-night/features/the-o2-welcome-to-the-future-1564580.html",
+        "http://www.independent.ie/entertainment/day-and-night/features/the-o2-welcome-to-the-future-1564580.html",
+        "http://www.independent.ie/entertainment/music/o2-arena-to-curb-drink-at-teen-gigs-1567912.html",
+        "http://www.independent.ie/entertainment/music/o2-dublin-fifth-best-attended-venue-in-world-26812330.html",
+        "https://www.irishexaminer.com/ireland/attendance-at-dublins-o2-tops-wembley-219145.html",
+        "https://www.independent.ie/business/irish/o2-concerts-generate-32m-in-box-office-sales-29916931.html",
+        "http://www.independent.ie/entertainment/music/u2-make-a-point-with-first-o2-show-1568801.html",
+        "http://www.independent.ie/entertainment/music/o2-rocks-to-sound-of-music-26500135.html",
+        "http://www.rte.ie/ten/2010/0902/gunsnroses.html",
+        "https://web.archive.org/web/20100903044619/http://www.rte.ie/ten/2010/0902/gunsnroses.html",
+        "http://www.independent.ie/entertainment/music/fan-fury-as-rose-shows-thorny-side-2321716.html",
+        "https://www.bbc.co.uk/news/newsbeat-11163085",
+        "https://www.nme.com/news/guns-n-roses/52831",
+        "http://www.torontosun.com/entertainment/music/2010/09/02/15222061-wenn-story.html",
+        "http://www.thejournal.ie/u2-tour-2320676-Nov2015/",
+        "https://www.irishtimes.com/culture/music/u2-confirm-dates-for-six-irish-shows-in-november-1.2344885",
+        "https://www.independent.ie/entertainment/music/music-news/britney-spears-at-3arena-sold-out-in-10-mins-but-third-party-sales-still-available-36536538.html",
+        "https://www.irishmirror.ie/whats-on/music-nightlife-news/mariah-carey-concert-3arena-dublin-16181286",
+        "https://www.wrestlingdata.com/index.php?befehl=shows&sort=ort&land=10&region=&stadt=&arena=&ansicht=&showart=2",
+        "https://www.fightful.com/wrestling/nxt-uk-takeover-dublin-listed-canceled-ticketmaster",
+        "https://www.wwe.com/shows/smackdown/2025-08-22",
+        "https://bleacherreport.com/articles/25240662-wwe-smackdown-results-winners-live-grades-reaction-and-highlights-august-22",
+        "https://web.archive.org/web/20100402072108/http://www.theo2.ie/getting-here/",
+        "http://www.theO2.ie/getting-here/",
+        "http://www.rte.ie/news/2009/1208/luas.html",
+        "http://3arena.ie/",
+        "http://www.3arena.ie/",
+        "http://www.hotpress.com/photos/photo.php?id=4974736",
+        "http://www.rte.ie/news/2008/1216/6news_av.html?2464000,null,230",
+        "http://state.ie/live-reviews/photos-kings-of-leon-the-o2-dublin",
+        "https://web.archive.org/web/20170709090238/http://state.ie/live-reviews/photos-kings-of-leon-the-o2-dublin",
+        "http://state.ie/live-reviews/photos-coldplay-the-o2-dublin",
+        "https://web.archive.org/web/20170708232132/http://state.ie/live-reviews/photos-coldplay-the-o2-dublin",
+        "https://musicbrainz.org/place/916683e4-6250-4cb2-afe4-559179013956"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Naming",
+          "anchor": "Naming"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Structure and design",
+          "anchor": "Structure_and_design"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Attendance",
+          "anchor": "Attendance"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "Notable/historic performances",
+          "anchor": "Notable/historic_performances"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "Transport",
+          "anchor": "Transport"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "7",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "3Arena_logo.svg",
+        "3Arena,_Dublin_(geograph_5417559).jpg",
+        "O2dublininterior.jpg",
+        "O2_Dublin_frontage,_2009.jpg",
+        "3_Arena_Front.JPG",
+        "Commons-logo.svg",
+        "Three_brand_-_wording_logo.svg",
+        "OOjs_UI_icon_edit-ltr-progressive.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:3Arena logo.svg",
+          "fileName": "3Arena logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:3Arena_logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/3Arena_logo.svg/120px-3Arena_logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/3Arena_logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/3Arena_logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/3Arena_logo.svg/250px-3Arena_logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 110,
+          "height": 65,
+          "originalWidth": 120,
+          "originalHeight": 71,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:3Arena, Dublin (geograph 5417559).jpg",
+          "fileName": "3Arena, Dublin (geograph 5417559).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:3Arena,_Dublin_(geograph_5417559).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/3Arena%2C_Dublin_%28geograph_5417559%29.jpg/250px-3Arena%2C_Dublin_%28geograph_5417559%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/3Arena%2C_Dublin_(geograph_5417559).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/3Arena%2C_Dublin_(geograph_5417559).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/3Arena%2C_Dublin_%28geograph_5417559%29.jpg/500px-3Arena%2C_Dublin_%28geograph_5417559%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 640,
+          "originalHeight": 427,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Exterior view of the arena (c. 2017)"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=3Arena_%28Dublin%29&revid=1358797622&groups=_1c31d6ba4ebb1afdc8ac3ec3732a4240fe2ebe1f&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=3Arena_%28Dublin%29&revid=1358797622&groups=_1c31d6ba4ebb1afdc8ac3ec3732a4240fe2ebe1f&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of 3Arena"
+        },
+        {
+          "fileTitle": "File:O2dublininterior.jpg",
+          "fileName": "O2dublininterior.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:O2dublininterior.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/O2dublininterior.jpg/960px-O2dublininterior.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/O2dublininterior.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/O2dublininterior.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/O2dublininterior.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 900,
+          "height": 206,
+          "originalWidth": 1888,
+          "originalHeight": 432,
+          "fileType": null,
+          "alt": null,
+          "title": "Panorama view of inside the venue (2009)",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:O2 Dublin frontage, 2009.jpg",
+          "fileName": "O2 Dublin frontage, 2009.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:O2_Dublin_frontage,_2009.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/O2_Dublin_frontage%2C_2009.jpg/330px-O2_Dublin_frontage%2C_2009.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/O2_Dublin_frontage%2C_2009.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/O2_Dublin_frontage%2C_2009.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/O2_Dublin_frontage%2C_2009.jpg/960px-O2_Dublin_frontage%2C_2009.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 300,
+          "height": 200,
+          "originalWidth": 2640,
+          "originalHeight": 1760,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The venue as the O2 Arena in 2009"
+        },
+        {
+          "fileTitle": "File:3 Arena Front.JPG",
+          "fileName": "3 Arena Front.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:3_Arena_Front.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3_Arena_Front.JPG/330px-3_Arena_Front.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/3_Arena_Front.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/3_Arena_Front.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/3_Arena_Front.JPG/960px-3_Arena_Front.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 300,
+          "height": 200,
+          "originalWidth": 5472,
+          "originalHeight": 3648,
+          "fileType": null,
+          "alt": "Corner angle view of the former rail depot turned concert venue",
+          "title": null,
+          "caption": "Venue including 3Arena signage, March 2016"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 40,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Three brand - wording logo.svg",
+          "fileName": "Three brand - wording logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Three_brand_-_wording_logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Three_brand_-_wording_logo.svg/120px-Three_brand_-_wording_logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Three_brand_-_wording_logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Three_brand_-_wording_logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Three_brand_-_wording_logo.svg/250px-Three_brand_-_wording_logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 30,
+          "originalWidth": 512,
+          "originalHeight": 129,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 503,
+          "rowText": "Ireland\nDublin\n3Arena\n2008\n13,000",
+          "rowHtml": "<tr>\n<td rowspan=\"5\"><a href=\"https://en.wikipedia.org/wiki/Ireland\" title=\"Ireland\">Ireland</a>\n</td>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Dublin\" title=\"Dublin\">Dublin</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/3Arena_(Dublin)\" title=\"3Arena (Dublin)\">3Arena</a>\n</td>\n<td>2008\n</td>\n<td>13,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 503,
+              "cell": {
+                "text": "Ireland",
+                "lines": [
+                  "Ireland"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ireland",
+                    "title": "Ireland",
+                    "wikiTitle": "Ireland",
+                    "href": "https://en.wikipedia.org/wiki/Ireland",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 503,
+              "cell": {
+                "text": "Dublin",
+                "lines": [
+                  "Dublin"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Dublin",
+                    "title": "Dublin",
+                    "wikiTitle": "Dublin",
+                    "href": "https://en.wikipedia.org/wiki/Dublin",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 503,
+              "cell": {
+                "text": "3Arena",
+                "lines": [
+                  "3Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "3Arena",
+                    "title": "3Arena (Dublin)",
+                    "wikiTitle": "3Arena (Dublin)",
+                    "href": "https://en.wikipedia.org/wiki/3Arena_(Dublin)",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 503,
+              "cell": {
+                "text": "2008",
+                "lines": [
+                  "2008"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 503,
+              "cell": {
+                "text": "13,000",
+                "lines": [
+                  "13,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 503,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "3Arena",
+            "lines": [
+              "3Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "3Arena",
+                "title": "3Arena (Dublin)",
+                "wikiTitle": "3Arena (Dublin)",
+                "href": "https://en.wikipedia.org/wiki/3Arena_(Dublin)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:44:24.523Z"
+    },
+    {
+      "id": "wikipedia-page-10022052",
+      "pageId": 10022052,
+      "revisionId": null,
+      "title": "Green Glens Arena",
+      "displayTitle": "Green Glens Arena",
+      "url": "https://en.wikipedia.org/wiki/Green_Glens_Arena",
+      "wikidataItem": "Q1544594",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q1544594",
+      "aliases": [
+        "Green Glens Arena"
+      ],
+      "requestedTitles": [
+        "Green Glens Arena"
+      ],
+      "sourceLinkTexts": [
+        "Green Glens Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Green_Glens_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 52.063151,
+        "longitude": -9.063249,
+        "raw": "52.063151; -9.063249"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Green Glens Arena",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Millstreet, County Cork, Ireland",
+            "lines": [
+              "Millstreet, County Cork, Ireland"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Millstreet\" title=\"Millstreet\">Millstreet</a>, <a href=\"https://en.wikipedia.org/wiki/County_Cork\" title=\"County Cork\">County Cork</a>, <a href=\"https://en.wikipedia.org/wiki/Republic_of_Ireland\" title=\"Republic of Ireland\">Ireland</a></td>",
+            "links": [
+              {
+                "text": "Millstreet",
+                "title": "Millstreet",
+                "wikiTitle": "Millstreet",
+                "href": "https://en.wikipedia.org/wiki/Millstreet",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "County Cork",
+                "title": "County Cork",
+                "wikiTitle": "County Cork",
+                "href": "https://en.wikipedia.org/wiki/County_Cork",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Ireland",
+                "title": "Republic of Ireland",
+                "wikiTitle": "Republic of Ireland",
+                "href": "https://en.wikipedia.org/wiki/Republic_of_Ireland",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "52°03′47″N 9°03′48″W﻿ / ﻿52.063151°N 9.063249°W﻿ / 52.063151; -9.063249",
+            "lines": [
+              "52°03′47″N 9°03′48″W﻿ / ﻿52.063151°N 9.063249°W﻿ / 52.063151; -9.063249"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Green_Glens_Arena&amp;params=52.063151_N_9.063249_W_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">52°03′47″N</span> <span class=\"longitude\">9°03′48″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">52.063151°N 9.063249°W</span><span>﻿ / <span class=\"geo\">52.063151; -9.063249</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "52°03′47″N 9°03′48″W﻿ / ﻿52.063151°N 9.063249°W﻿ / 52.063151; -9.063249",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Green_Glens_Arena&params=52.063151_N_9.063249_W_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Noel C. Duggan Ltd.",
+            "lines": [
+              "Noel C. Duggan Ltd."
+            ],
+            "html": "<td class=\"infobox-data agent\">Noel C. Duggan Ltd.</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "8,000",
+            "lines": [
+              "8,000"
+            ],
+            "html": "<td class=\"infobox-data\">8,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1973",
+            "lines": [
+              "1973"
+            ],
+            "html": "<td class=\"infobox-data\">1973</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "1993",
+            "lines": [
+              "1993"
+            ],
+            "html": "<td class=\"infobox-data\">1993</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Noel C. Duggan",
+            "lines": [
+              "Noel C. Duggan"
+            ],
+            "html": "<td class=\"infobox-data\">Noel C. Duggan</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Millstreet, County Cork, Ireland",
+              "lines": [
+                "Millstreet, County Cork, Ireland"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Millstreet\" title=\"Millstreet\">Millstreet</a>, <a href=\"https://en.wikipedia.org/wiki/County_Cork\" title=\"County Cork\">County Cork</a>, <a href=\"https://en.wikipedia.org/wiki/Republic_of_Ireland\" title=\"Republic of Ireland\">Ireland</a></td>",
+              "links": [
+                {
+                  "text": "Millstreet",
+                  "title": "Millstreet",
+                  "wikiTitle": "Millstreet",
+                  "href": "https://en.wikipedia.org/wiki/Millstreet",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "County Cork",
+                  "title": "County Cork",
+                  "wikiTitle": "County Cork",
+                  "href": "https://en.wikipedia.org/wiki/County_Cork",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Ireland",
+                  "title": "Republic of Ireland",
+                  "wikiTitle": "Republic of Ireland",
+                  "href": "https://en.wikipedia.org/wiki/Republic_of_Ireland",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "52°03′47″N 9°03′48″W﻿ / ﻿52.063151°N 9.063249°W﻿ / 52.063151; -9.063249",
+              "lines": [
+                "52°03′47″N 9°03′48″W﻿ / ﻿52.063151°N 9.063249°W﻿ / 52.063151; -9.063249"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Green_Glens_Arena&amp;params=52.063151_N_9.063249_W_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">52°03′47″N</span> <span class=\"longitude\">9°03′48″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">52.063151°N 9.063249°W</span><span>﻿ / <span class=\"geo\">52.063151; -9.063249</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "52°03′47″N 9°03′48″W﻿ / ﻿52.063151°N 9.063249°W﻿ / 52.063151; -9.063249",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Green_Glens_Arena&params=52.063151_N_9.063249_W_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Noel C. Duggan Ltd.",
+              "lines": [
+                "Noel C. Duggan Ltd."
+              ],
+              "html": "<td class=\"infobox-data agent\">Noel C. Duggan Ltd.</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "8,000",
+              "lines": [
+                "8,000"
+              ],
+              "html": "<td class=\"infobox-data\">8,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1973",
+              "lines": [
+                "1973"
+              ],
+              "html": "<td class=\"infobox-data\">1973</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "1993",
+              "lines": [
+                "1993"
+              ],
+              "html": "<td class=\"infobox-data\">1993</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Noel C. Duggan",
+              "lines": [
+                "Noel C. Duggan"
+              ],
+              "html": "<td class=\"infobox-data\">Noel C. Duggan</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Millstreet, County Cork, Ireland"
+          ],
+          "coordinates": [
+            "52°03′47″N 9°03′48″W﻿ / ﻿52.063151°N 9.063249°W﻿ / 52.063151; -9.063249"
+          ],
+          "owner": [
+            "Noel C. Duggan Ltd."
+          ],
+          "capacity": [
+            "8,000"
+          ],
+          "opened": [
+            "1973"
+          ],
+          "renovated": [
+            "1993"
+          ],
+          "architect": [
+            "Noel C. Duggan"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "8,000"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:EJC 2006 Main Hall, forbidden view.jpg",
+            "fileName": "EJC 2006 Main Hall, forbidden view.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:EJC_2006_Main_Hall,_forbidden_view.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/EJC_2006_Main_Hall%2C_forbidden_view.jpg/250px-EJC_2006_Main_Hall%2C_forbidden_view.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/EJC_2006_Main_Hall%2C_forbidden_view.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/EJC_2006_Main_Hall%2C_forbidden_view.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/EJC_2006_Main_Hall%2C_forbidden_view.jpg/500px-EJC_2006_Main_Hall%2C_forbidden_view.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 188,
+            "originalWidth": 800,
+            "originalHeight": 600,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "European Juggling Convention 2006"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Green_Glens_Arena&revid=1361072781&groups=_e5324cd2f1e12fd41c74684445766d2e3eddfd4d&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Green_Glens_Arena&revid=1361072781&groups=_e5324cd2f1e12fd41c74684445766d2e3eddfd4d&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Green Glens Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Green Glens Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:EJC_2006_Main_Hall,_forbidden_view.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/EJC_2006_Main_Hall%2C_forbidden_view.jpg/250px-EJC_2006_Main_Hall%2C_forbidden_view.jpg\" width=\"250\" height=\"188\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/EJC_2006_Main_Hall%2C_forbidden_view.jpg/500px-EJC_2006_Main_Hall%2C_forbidden_view.jpg 2x\" data-file-width=\"800\" data-file-height=\"600\"></a></span><div class=\"infobox-caption\">European Juggling Convention 2006</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_e5324cd2f1e12fd41c74684445766d2e3eddfd4d&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Green_Glens_Arena&amp;revid=1361072781&amp;groups=_e5324cd2f1e12fd41c74684445766d2e3eddfd4d&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Green_Glens_Arena&amp;revid=1361072781&amp;groups=_e5324cd2f1e12fd41c74684445766d2e3eddfd4d&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Green Glens Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Millstreet\" title=\"Millstreet\">Millstreet</a>, <a href=\"https://en.wikipedia.org/wiki/County_Cork\" title=\"County Cork\">County Cork</a>, <a href=\"https://en.wikipedia.org/wiki/Republic_of_Ireland\" title=\"Republic of Ireland\">Ireland</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Green_Glens_Arena&amp;params=52.063151_N_9.063249_W_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">52°03′47″N</span> <span class=\"longitude\">9°03′48″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">52.063151°N 9.063249°W</span><span>﻿ / <span class=\"geo\">52.063151; -9.063249</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Noel C. Duggan Ltd.</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">8,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1973</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">1993</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\">Noel C. Duggan</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Webarchive_template_wayback_links",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Use_dmy_dates_from_July_2021",
+        "Use_Hiberno-English_from_July_2021",
+        "All_Wikipedia_articles_written_in_Hiberno-English",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_July_2021",
+        "Indoor_arenas_in_the_Republic_of_Ireland",
+        "Millstreet",
+        "Sports_venues_in_County_Cork",
+        "All_stub_articles",
+        "Irish_sports_venue_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Green_Glens_Arena&params=52.063151_N_9.063249_W_type:landmark",
+        "http://www.millstreet.ie/green%20glens/greenglens.htm",
+        "http://adrianmassey.com/nhsel/nhsel01l.htm",
+        "https://web.archive.org/web/20070604152213/http://www.adrianmassey.com/nhsel/nhsel01l.htm",
+        "https://web.archive.org/web/20150329154226/http://boxrec.com/list_bouts.php?human_id=645&cat=boxer",
+        "http://boxrec.com/list_bouts.php?human_id=645&cat=boxer",
+        "https://archive.org/details/Pearl_Jam_Bootleg_1996-10-24",
+        "https://pearljam.com/tour/history/show/millstreet-arena",
+        "https://www.irishtimes.com/news/ireland/irish-news/ukrainian-refugees-being-accommodated-at-millstreet-arena-1.4857492",
+        "https://www.irishexaminer.com/news/munster/arid-40855760.html",
+        "http://www.millstreet.horse"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Events",
+          "anchor": "Events"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "EJC_2006_Main_Hall,_forbidden_view.jpg",
+        "Flag_of_Ireland.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:EJC 2006 Main Hall, forbidden view.jpg",
+          "fileName": "EJC 2006 Main Hall, forbidden view.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:EJC_2006_Main_Hall,_forbidden_view.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/EJC_2006_Main_Hall%2C_forbidden_view.jpg/250px-EJC_2006_Main_Hall%2C_forbidden_view.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/EJC_2006_Main_Hall%2C_forbidden_view.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/EJC_2006_Main_Hall%2C_forbidden_view.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/EJC_2006_Main_Hall%2C_forbidden_view.jpg/500px-EJC_2006_Main_Hall%2C_forbidden_view.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 800,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "European Juggling Convention 2006"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Green_Glens_Arena&revid=1361072781&groups=_e5324cd2f1e12fd41c74684445766d2e3eddfd4d&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Green_Glens_Arena&revid=1361072781&groups=_e5324cd2f1e12fd41c74684445766d2e3eddfd4d&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Green Glens Arena"
+        },
+        {
+          "fileTitle": "File:Flag of Ireland.svg",
+          "fileName": "Flag of Ireland.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Ireland.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/40px-Flag_of_Ireland.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Ireland.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Ireland.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/60px-Flag_of_Ireland.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 15,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Flag of Republic of Ireland",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 506,
+          "rowText": "Millstreet\nGreen Glens Arena\n1989\n8,000\nEurovision Song Contest 1993",
+          "rowHtml": "<tr>\n<td rowspan=\"1\"><a href=\"https://en.wikipedia.org/wiki/Millstreet\" title=\"Millstreet\">Millstreet</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Green_Glens_Arena\" title=\"Green Glens Arena\">Green Glens Arena</a>\n</td>\n<td>1989\n</td>\n<td>8,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1993\" title=\"Eurovision Song Contest 1993\">Eurovision Song Contest 1993</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 503,
+              "cell": {
+                "text": "Ireland",
+                "lines": [
+                  "Ireland"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ireland",
+                    "title": "Ireland",
+                    "wikiTitle": "Ireland",
+                    "href": "https://en.wikipedia.org/wiki/Ireland",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 506,
+              "cell": {
+                "text": "Millstreet",
+                "lines": [
+                  "Millstreet"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Millstreet",
+                    "title": "Millstreet",
+                    "wikiTitle": "Millstreet",
+                    "href": "https://en.wikipedia.org/wiki/Millstreet",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 506,
+              "cell": {
+                "text": "Green Glens Arena",
+                "lines": [
+                  "Green Glens Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Green Glens Arena",
+                    "title": "Green Glens Arena",
+                    "wikiTitle": "Green Glens Arena",
+                    "href": "https://en.wikipedia.org/wiki/Green_Glens_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 506,
+              "cell": {
+                "text": "1989",
+                "lines": [
+                  "1989"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 506,
+              "cell": {
+                "text": "8,000",
+                "lines": [
+                  "8,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 506,
+              "cell": {
+                "text": "Eurovision Song Contest 1993",
+                "lines": [
+                  "Eurovision Song Contest 1993"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Eurovision Song Contest 1993",
+                    "title": "Eurovision Song Contest 1993",
+                    "wikiTitle": "Eurovision Song Contest 1993",
+                    "href": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_1993",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Green Glens Arena",
+            "lines": [
+              "Green Glens Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Green Glens Arena",
+                "title": "Green Glens Arena",
+                "wikiTitle": "Green Glens Arena",
+                "href": "https://en.wikipedia.org/wiki/Green_Glens_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:44:25.533Z"
+    },
+    {
+      "id": "wikipedia-page-12170189",
+      "pageId": 12170189,
+      "revisionId": null,
+      "title": "National Basketball Arena",
+      "displayTitle": "National Basketball Arena",
+      "url": "https://en.wikipedia.org/wiki/National_Basketball_Arena",
+      "wikidataItem": "Q612532",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q612532",
+      "aliases": [
+        "National Basketball Arena"
+      ],
+      "requestedTitles": [
+        "National Basketball Arena"
+      ],
+      "sourceLinkTexts": [
+        "National Basketball Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/National_Basketball_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 53.29222,
+        "longitude": -6.33444,
+        "raw": "53.29222; -6.33444"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "National Basketball Arena",
+        "groups": [
+          "Construction",
+          "Tenants",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Tymon Park\nTallaght\nSouth Dublin",
+            "lines": [
+              "Tymon Park",
+              "Tallaght",
+              "South Dublin"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Tymon_Park\" title=\"Tymon Park\">Tymon Park</a><br><a href=\"https://en.wikipedia.org/wiki/Tallaght\" title=\"Tallaght\">Tallaght</a><br><a href=\"https://en.wikipedia.org/wiki/South_Dublin\" title=\"South Dublin\">South Dublin</a></td>",
+            "links": [
+              {
+                "text": "Tymon Park",
+                "title": "Tymon Park",
+                "wikiTitle": "Tymon Park",
+                "href": "https://en.wikipedia.org/wiki/Tymon_Park",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Tallaght",
+                "title": "Tallaght",
+                "wikiTitle": "Tallaght",
+                "href": "https://en.wikipedia.org/wiki/Tallaght",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "South Dublin",
+                "title": "South Dublin",
+                "wikiTitle": "South Dublin",
+                "href": "https://en.wikipedia.org/wiki/South_Dublin",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "53°17′32″N 6°20′4″W﻿ / ﻿53.29222°N 6.33444°W﻿ / 53.29222; -6.33444",
+            "lines": [
+              "53°17′32″N 6°20′4″W﻿ / ﻿53.29222°N 6.33444°W﻿ / 53.29222; -6.33444"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=National_Basketball_Arena&amp;params=53_17_32_N_6_20_4_W_\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">53°17′32″N</span> <span class=\"longitude\">6°20′4″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">53.29222°N 6.33444°W</span><span>﻿ / <span class=\"geo\">53.29222; -6.33444</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "53°17′32″N 6°20′4″W﻿ / ﻿53.29222°N 6.33444°W﻿ / 53.29222; -6.33444",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=National_Basketball_Arena&params=53_17_32_N_6_20_4_W_",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Basketball Ireland",
+            "lines": [
+              "Basketball Ireland"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Basketball_Ireland\" title=\"Basketball Ireland\">Basketball Ireland</a></td>",
+            "links": [
+              {
+                "text": "Basketball Ireland",
+                "title": "Basketball Ireland",
+                "wikiTitle": "Basketball Ireland",
+                "href": "https://en.wikipedia.org/wiki/Basketball_Ireland",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Basketball Ireland",
+            "lines": [
+              "Basketball Ireland"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Basketball_Ireland\" title=\"Basketball Ireland\">Basketball Ireland</a></td>",
+            "links": [
+              {
+                "text": "Basketball Ireland",
+                "title": "Basketball Ireland",
+                "wikiTitle": "Basketball Ireland",
+                "href": "https://en.wikipedia.org/wiki/Basketball_Ireland",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "2,500 (1993–2026)\n3,300 (2026–)",
+            "lines": [
+              "2,500 (1993–2026)",
+              "3,300 (2026–)"
+            ],
+            "html": "<td class=\"infobox-data\">2,500 (1993–2026) <br> 3,300 (2026–)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "January 1993",
+            "lines": [
+              "January 1993"
+            ],
+            "html": "<td class=\"infobox-data\">January 1993</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Expanded",
+            "key": "expanded",
+            "group": "Construction",
+            "text": "2025–2026",
+            "lines": [
+              "2025–2026"
+            ],
+            "html": "<td class=\"infobox-data\">2025–2026</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Saniel Tully Ass (US)\nKenney & Ass.",
+            "lines": [
+              "Saniel Tully Ass (US)",
+              "Kenney & Ass."
+            ],
+            "html": "<td class=\"infobox-data\">Saniel Tully Ass (US)<br>Kenney &amp; Ass.</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-bamireland-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-bamireland-1"
+              }
+            ]
+          },
+          {
+            "label": "Structural engineer",
+            "key": "structural_engineer",
+            "group": "Construction",
+            "text": "Dermot O'Keefe Associates",
+            "lines": [
+              "Dermot O'Keefe Associates"
+            ],
+            "html": "<td class=\"infobox-data\">Dermot O'Keefe Associates</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-bamireland-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-bamireland-1"
+              }
+            ]
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Ireland national basketball team (1993–present)\nIreland women's national basketball team (1993–present)\nHibernia Basketball (2015–2016)\nRepublic of Ireland national futsal team (2009–2012)\nShamrock Rovers (futsal) (2007–2013)\nShamrock Rovers Hoops (1995–2010)",
+            "lines": [
+              "Ireland national basketball team (1993–present)",
+              "Ireland women's national basketball team (1993–present)",
+              "Hibernia Basketball (2015–2016)",
+              "Republic of Ireland national futsal team (2009–2012)",
+              "Shamrock Rovers (futsal) (2007–2013)",
+              "Shamrock Rovers Hoops (1995–2010)"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Ireland_national_basketball_team\" class=\"mw-redirect\" title=\"Ireland national basketball team\">Ireland national basketball team</a> (1993–present)<br><a href=\"https://en.wikipedia.org/wiki/Ireland_women%27s_national_basketball_team\" title=\"Ireland women's national basketball team\">Ireland women's national basketball team</a> (1993–present)<br><a href=\"https://en.wikipedia.org/wiki/Hibernia_Basketball\" title=\"Hibernia Basketball\">Hibernia Basketball</a> (2015–2016)<br><small><a href=\"https://en.wikipedia.org/wiki/Republic_of_Ireland_national_futsal_team\" title=\"Republic of Ireland national futsal team\">Republic of Ireland national futsal team</a> (2009–2012)<br><a href=\"https://en.wikipedia.org/wiki/Shamrock_Rovers_F.C._(futsal)\" title=\"Shamrock Rovers F.C. (futsal)\">Shamrock Rovers (futsal)</a> (2007–2013)<br><a href=\"https://en.wikipedia.org/wiki/Shamrock_Rovers_Hoops\" title=\"Shamrock Rovers Hoops\">Shamrock Rovers Hoops</a> (1995–2010)</small></td>",
+            "links": [
+              {
+                "text": "Ireland national basketball team",
+                "title": "Ireland national basketball team",
+                "wikiTitle": "Ireland national basketball team",
+                "href": "https://en.wikipedia.org/wiki/Ireland_national_basketball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Ireland women's national basketball team",
+                "title": "Ireland women's national basketball team",
+                "wikiTitle": "Ireland women's national basketball team",
+                "href": "https://en.wikipedia.org/wiki/Ireland_women%27s_national_basketball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Hibernia Basketball",
+                "title": "Hibernia Basketball",
+                "wikiTitle": "Hibernia Basketball",
+                "href": "https://en.wikipedia.org/wiki/Hibernia_Basketball",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Republic of Ireland national futsal team",
+                "title": "Republic of Ireland national futsal team",
+                "wikiTitle": "Republic of Ireland national futsal team",
+                "href": "https://en.wikipedia.org/wiki/Republic_of_Ireland_national_futsal_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Shamrock Rovers (futsal)",
+                "title": "Shamrock Rovers F.C. (futsal)",
+                "wikiTitle": "Shamrock Rovers F.C. (futsal)",
+                "href": "https://en.wikipedia.org/wiki/Shamrock_Rovers_F.C._(futsal)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Shamrock Rovers Hoops",
+                "title": "Shamrock Rovers Hoops",
+                "wikiTitle": "Shamrock Rovers Hoops",
+                "href": "https://en.wikipedia.org/wiki/Shamrock_Rovers_Hoops",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "https://ireland.basketball/find-us",
+            "lines": [
+              "https://ireland.basketball/find-us"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a rel=\"nofollow\" class=\"external free\" href=\"https://ireland.basketball/find-us\">https://ireland.basketball/find-us</a></td>",
+            "links": [
+              {
+                "text": "https://ireland.basketball/find-us",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://ireland.basketball/find-us",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Tymon Park\nTallaght\nSouth Dublin",
+              "lines": [
+                "Tymon Park",
+                "Tallaght",
+                "South Dublin"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Tymon_Park\" title=\"Tymon Park\">Tymon Park</a><br><a href=\"https://en.wikipedia.org/wiki/Tallaght\" title=\"Tallaght\">Tallaght</a><br><a href=\"https://en.wikipedia.org/wiki/South_Dublin\" title=\"South Dublin\">South Dublin</a></td>",
+              "links": [
+                {
+                  "text": "Tymon Park",
+                  "title": "Tymon Park",
+                  "wikiTitle": "Tymon Park",
+                  "href": "https://en.wikipedia.org/wiki/Tymon_Park",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Tallaght",
+                  "title": "Tallaght",
+                  "wikiTitle": "Tallaght",
+                  "href": "https://en.wikipedia.org/wiki/Tallaght",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "South Dublin",
+                  "title": "South Dublin",
+                  "wikiTitle": "South Dublin",
+                  "href": "https://en.wikipedia.org/wiki/South_Dublin",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "53°17′32″N 6°20′4″W﻿ / ﻿53.29222°N 6.33444°W﻿ / 53.29222; -6.33444",
+              "lines": [
+                "53°17′32″N 6°20′4″W﻿ / ﻿53.29222°N 6.33444°W﻿ / 53.29222; -6.33444"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=National_Basketball_Arena&amp;params=53_17_32_N_6_20_4_W_\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">53°17′32″N</span> <span class=\"longitude\">6°20′4″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">53.29222°N 6.33444°W</span><span>﻿ / <span class=\"geo\">53.29222; -6.33444</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "53°17′32″N 6°20′4″W﻿ / ﻿53.29222°N 6.33444°W﻿ / 53.29222; -6.33444",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=National_Basketball_Arena&params=53_17_32_N_6_20_4_W_",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Basketball Ireland",
+              "lines": [
+                "Basketball Ireland"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Basketball_Ireland\" title=\"Basketball Ireland\">Basketball Ireland</a></td>",
+              "links": [
+                {
+                  "text": "Basketball Ireland",
+                  "title": "Basketball Ireland",
+                  "wikiTitle": "Basketball Ireland",
+                  "href": "https://en.wikipedia.org/wiki/Basketball_Ireland",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Basketball Ireland",
+              "lines": [
+                "Basketball Ireland"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Basketball_Ireland\" title=\"Basketball Ireland\">Basketball Ireland</a></td>",
+              "links": [
+                {
+                  "text": "Basketball Ireland",
+                  "title": "Basketball Ireland",
+                  "wikiTitle": "Basketball Ireland",
+                  "href": "https://en.wikipedia.org/wiki/Basketball_Ireland",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "2,500 (1993–2026)\n3,300 (2026–)",
+              "lines": [
+                "2,500 (1993–2026)",
+                "3,300 (2026–)"
+              ],
+              "html": "<td class=\"infobox-data\">2,500 (1993–2026) <br> 3,300 (2026–)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "January 1993",
+              "lines": [
+                "January 1993"
+              ],
+              "html": "<td class=\"infobox-data\">January 1993</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "expanded": [
+            {
+              "label": "Expanded",
+              "key": "expanded",
+              "group": "Construction",
+              "text": "2025–2026",
+              "lines": [
+                "2025–2026"
+              ],
+              "html": "<td class=\"infobox-data\">2025–2026</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Saniel Tully Ass (US)\nKenney & Ass.",
+              "lines": [
+                "Saniel Tully Ass (US)",
+                "Kenney & Ass."
+              ],
+              "html": "<td class=\"infobox-data\">Saniel Tully Ass (US)<br>Kenney &amp; Ass.</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-bamireland-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-bamireland-1"
+                }
+              ]
+            }
+          ],
+          "structural_engineer": [
+            {
+              "label": "Structural engineer",
+              "key": "structural_engineer",
+              "group": "Construction",
+              "text": "Dermot O'Keefe Associates",
+              "lines": [
+                "Dermot O'Keefe Associates"
+              ],
+              "html": "<td class=\"infobox-data\">Dermot O'Keefe Associates</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-bamireland-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-bamireland-1"
+                }
+              ]
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Ireland national basketball team (1993–present)\nIreland women's national basketball team (1993–present)\nHibernia Basketball (2015–2016)\nRepublic of Ireland national futsal team (2009–2012)\nShamrock Rovers (futsal) (2007–2013)\nShamrock Rovers Hoops (1995–2010)",
+              "lines": [
+                "Ireland national basketball team (1993–present)",
+                "Ireland women's national basketball team (1993–present)",
+                "Hibernia Basketball (2015–2016)",
+                "Republic of Ireland national futsal team (2009–2012)",
+                "Shamrock Rovers (futsal) (2007–2013)",
+                "Shamrock Rovers Hoops (1995–2010)"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Ireland_national_basketball_team\" class=\"mw-redirect\" title=\"Ireland national basketball team\">Ireland national basketball team</a> (1993–present)<br><a href=\"https://en.wikipedia.org/wiki/Ireland_women%27s_national_basketball_team\" title=\"Ireland women's national basketball team\">Ireland women's national basketball team</a> (1993–present)<br><a href=\"https://en.wikipedia.org/wiki/Hibernia_Basketball\" title=\"Hibernia Basketball\">Hibernia Basketball</a> (2015–2016)<br><small><a href=\"https://en.wikipedia.org/wiki/Republic_of_Ireland_national_futsal_team\" title=\"Republic of Ireland national futsal team\">Republic of Ireland national futsal team</a> (2009–2012)<br><a href=\"https://en.wikipedia.org/wiki/Shamrock_Rovers_F.C._(futsal)\" title=\"Shamrock Rovers F.C. (futsal)\">Shamrock Rovers (futsal)</a> (2007–2013)<br><a href=\"https://en.wikipedia.org/wiki/Shamrock_Rovers_Hoops\" title=\"Shamrock Rovers Hoops\">Shamrock Rovers Hoops</a> (1995–2010)</small></td>",
+              "links": [
+                {
+                  "text": "Ireland national basketball team",
+                  "title": "Ireland national basketball team",
+                  "wikiTitle": "Ireland national basketball team",
+                  "href": "https://en.wikipedia.org/wiki/Ireland_national_basketball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Ireland women's national basketball team",
+                  "title": "Ireland women's national basketball team",
+                  "wikiTitle": "Ireland women's national basketball team",
+                  "href": "https://en.wikipedia.org/wiki/Ireland_women%27s_national_basketball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Hibernia Basketball",
+                  "title": "Hibernia Basketball",
+                  "wikiTitle": "Hibernia Basketball",
+                  "href": "https://en.wikipedia.org/wiki/Hibernia_Basketball",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Republic of Ireland national futsal team",
+                  "title": "Republic of Ireland national futsal team",
+                  "wikiTitle": "Republic of Ireland national futsal team",
+                  "href": "https://en.wikipedia.org/wiki/Republic_of_Ireland_national_futsal_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Shamrock Rovers (futsal)",
+                  "title": "Shamrock Rovers F.C. (futsal)",
+                  "wikiTitle": "Shamrock Rovers F.C. (futsal)",
+                  "href": "https://en.wikipedia.org/wiki/Shamrock_Rovers_F.C._(futsal)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Shamrock Rovers Hoops",
+                  "title": "Shamrock Rovers Hoops",
+                  "wikiTitle": "Shamrock Rovers Hoops",
+                  "href": "https://en.wikipedia.org/wiki/Shamrock_Rovers_Hoops",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "https://ireland.basketball/find-us",
+              "lines": [
+                "https://ireland.basketball/find-us"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a rel=\"nofollow\" class=\"external free\" href=\"https://ireland.basketball/find-us\">https://ireland.basketball/find-us</a></td>",
+              "links": [
+                {
+                  "text": "https://ireland.basketball/find-us",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://ireland.basketball/find-us",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Tymon Park\nTallaght\nSouth Dublin"
+          ],
+          "coordinates": [
+            "53°17′32″N 6°20′4″W﻿ / ﻿53.29222°N 6.33444°W﻿ / 53.29222; -6.33444"
+          ],
+          "owner": [
+            "Basketball Ireland"
+          ],
+          "operator": [
+            "Basketball Ireland"
+          ],
+          "capacity": [
+            "2,500 (1993–2026)\n3,300 (2026–)"
+          ],
+          "opened": [
+            "January 1993"
+          ],
+          "expanded": [
+            "2025–2026"
+          ],
+          "architect": [
+            "Saniel Tully Ass (US)\nKenney & Ass."
+          ],
+          "structural_engineer": [
+            "Dermot O'Keefe Associates"
+          ],
+          "tenants": [
+            "Ireland national basketball team (1993–present)\nIreland women's national basketball team (1993–present)\nHibernia Basketball (2015–2016)\nRepublic of Ireland national futsal team (2009–2012)\nShamrock Rovers (futsal) (2007–2013)\nShamrock Rovers Hoops (1995–2010)"
+          ],
+          "website": [
+            "https://ireland.basketball/find-us"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "2,500 (1993–2026)",
+          "3,300 (2026–)"
+        ],
+        "tenants": [
+          "Ireland national basketball team (1993–present)",
+          "Ireland women's national basketball team (1993–present)",
+          "Hibernia Basketball (2015–2016)",
+          "Republic of Ireland national futsal team (2009–2012)",
+          "Shamrock Rovers (futsal) (2007–2013)",
+          "Shamrock Rovers Hoops (1995–2010)"
+        ],
+        "websites": [
+          "https://ireland.basketball/find-us"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:Ire v Lux 02.jpg",
+            "fileName": "Ire v Lux 02.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Ire_v_Lux_02.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ire_v_Lux_02.jpg/250px-Ire_v_Lux_02.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ire_v_Lux_02.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ire_v_Lux_02.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ire_v_Lux_02.jpg/500px-Ire_v_Lux_02.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 333,
+            "originalWidth": 960,
+            "originalHeight": 1280,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Irish national team playing against Luxembourg in 2009"
+          },
+          {
+            "fileTitle": "File:Dublin map 2.svg",
+            "fileName": "Dublin map 2.svg",
+            "kind": "map",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Dublin_map_2.svg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dublin_map_2.svg/250px-Dublin_map_2.svg.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dublin_map_2.svg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Dublin_map_2.svg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dublin_map_2.svg/500px-Dublin_map_2.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 201,
+            "originalWidth": 422,
+            "originalHeight": 339,
+            "fileType": null,
+            "alt": "National Basketball Arena is located in Dublin",
+            "title": "National Basketball Arena is located in Dublin",
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [],
+            "width": 7,
+            "height": 7,
+            "originalWidth": 64,
+            "originalHeight": 64,
+            "fileType": null,
+            "alt": "National Basketball Arena",
+            "title": null,
+            "caption": null
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">National Basketball Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\"><i>Tallaght Arena</i></div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Ire_v_Lux_02.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ire_v_Lux_02.jpg/250px-Ire_v_Lux_02.jpg\" width=\"250\" height=\"333\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ire_v_Lux_02.jpg/500px-Ire_v_Lux_02.jpg 2x\" data-file-width=\"960\" data-file-height=\"1280\"></a></span><div class=\"infobox-caption\"><a href=\"https://en.wikipedia.org/wiki/Ireland_men%27s_national_basketball_team\" title=\"Ireland men's national basketball team\">Irish national team</a> playing against <a href=\"https://en.wikipedia.org/wiki/Luxembourg_national_basketball_team\" class=\"mw-redirect\" title=\"Luxembourg national basketball team\">Luxembourg</a> in 2009</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><div class=\"center\"><div class=\"locmap\"><div><div><span class=\"notpageimage noviewer\"><a href=\"https://en.wikipedia.org/wiki/File:Dublin_map_2.svg\" class=\"mw-file-description\" title=\"National Basketball Arena is located in Dublin\"><img alt=\"National Basketball Arena is located in Dublin\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dublin_map_2.svg/250px-Dublin_map_2.svg.png\" width=\"250\" height=\"201\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dublin_map_2.svg/500px-Dublin_map_2.svg.png 2x\" data-file-width=\"422\" data-file-height=\"339\"></a></span><div class=\"od notheme\"><div class=\"id\"><span class=\"notpageimage noviewer\"><span title=\"National Basketball Arena\"><img alt=\"National Basketball Arena\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png\" width=\"7\" height=\"7\" class=\"mw-file-element\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"pr\"><div>National Basketball Arena</div></div></div></div><div>Location within Dublin</div></div></div></div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Tymon_Park\" title=\"Tymon Park\">Tymon Park</a><br><a href=\"https://en.wikipedia.org/wiki/Tallaght\" title=\"Tallaght\">Tallaght</a><br><a href=\"https://en.wikipedia.org/wiki/South_Dublin\" title=\"South Dublin\">South Dublin</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=National_Basketball_Arena&amp;params=53_17_32_N_6_20_4_W_\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">53°17′32″N</span> <span class=\"longitude\">6°20′4″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">53.29222°N 6.33444°W</span><span>﻿ / <span class=\"geo\">53.29222; -6.33444</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Basketball_Ireland\" title=\"Basketball Ireland\">Basketball Ireland</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Basketball_Ireland\" title=\"Basketball Ireland\">Basketball Ireland</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">2,500 (1993–2026) <br> 3,300 (2026–)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">January 1993</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Expanded</th><td class=\"infobox-data\">2025–2026</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\">Saniel Tully Ass (US)<br>Kenney &amp; Ass.</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Structural engineer</div></th><td class=\"infobox-data\">Dermot O'Keefe Associates</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Ireland_national_basketball_team\" class=\"mw-redirect\" title=\"Ireland national basketball team\">Ireland national basketball team</a> (1993–present)<br><a href=\"https://en.wikipedia.org/wiki/Ireland_women%27s_national_basketball_team\" title=\"Ireland women's national basketball team\">Ireland women's national basketball team</a> (1993–present)<br><a href=\"https://en.wikipedia.org/wiki/Hibernia_Basketball\" title=\"Hibernia Basketball\">Hibernia Basketball</a> (2015–2016)<br><small><a href=\"https://en.wikipedia.org/wiki/Republic_of_Ireland_national_futsal_team\" title=\"Republic of Ireland national futsal team\">Republic of Ireland national futsal team</a> (2009–2012)<br><a href=\"https://en.wikipedia.org/wiki/Shamrock_Rovers_F.C._(futsal)\" title=\"Shamrock Rovers F.C. (futsal)\">Shamrock Rovers (futsal)</a> (2007–2013)<br><a href=\"https://en.wikipedia.org/wiki/Shamrock_Rovers_Hoops\" title=\"Shamrock Rovers Hoops\">Shamrock Rovers Hoops</a> (1995–2010)</small></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a rel=\"nofollow\" class=\"external free\" href=\"https://ireland.basketball/find-us\">https://ireland.basketball/find-us</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "All_articles_with_dead_external_links",
+        "Articles_with_dead_external_links_from_April_2025",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Use_British_English_from_October_2017",
+        "All_Wikipedia_articles_written_in_British_English",
+        "Use_dmy_dates_from_October_2017",
+        "Coordinates_on_Wikidata",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_March_2024",
+        "Sports_venues_in_South_Dublin_(county)",
+        "Indoor_arenas_in_the_Republic_of_Ireland",
+        "Basketball_in_South_Dublin_(county)",
+        "Basketball_venues_in_Ireland",
+        "Boxing_venues_in_the_Republic_of_Ireland",
+        "Futsal_in_the_Republic_of_Ireland",
+        "1993_establishments_in_Ireland",
+        "Sports_venues_completed_in_1993"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=National_Basketball_Arena&params=53_17_32_N_6_20_4_W_",
+        "https://web.archive.org/web/20190107002741/https://www.bamireland.ie/divisions/bam-building/building-projects/leisure/national-basketball-arena.htm",
+        "http://www.bamireland.ie/divisions/bam-building/building-projects/leisure/national-basketball-arena.htm",
+        "https://businessplus.ie/news/national-basketball-arena-redevelopment/",
+        "http://www.fibaeurope.com/coid_rNhiKmCnHFwsgHF3Acmlr0.articleMode_on.html",
+        "https://web.archive.org/web/20160529123508/http://www.basketballireland.ie/history/",
+        "http://www.basketballireland.ie/history/",
+        "http://www.iftn.ie/locationsireland/irishlocationsregion/sublinks_static/Dublin/locationsbycounty/?act1=record&aid=90&rid=181&only=1&tpl=archive3locations&force=1",
+        "http://www.discoverireland.ie/Arts-Culture-Heritage/national-basketball-arena/31595",
+        "https://archive.fiba.com/pages/eng/fc/FIBA/fibaStru/nfLeag/p/nationalfederationnumber/305/nfProf.html",
+        "https://web.archive.org/web/20150726214605/http://sportsnewsireland.com/other_sports/basketball-ireland-to-enter-new-fiba-europe-competition/",
+        "http://sportsnewsireland.com/other_sports/basketball-ireland-to-enter-new-fiba-europe-competition/",
+        "http://www.irishtimes.com/sport/other-sports/much-anticipation-as-ucd-marian-take-on-templeogue-1.2829007",
+        "https://www.inspirussports.com/dublin-basketball-challenge",
+        "https://ireland.basketball/-basketball-ireland-announce-plans-for-35m-redevelopment-of-national-basketball-arena",
+        "https://web.archive.org/web/20231219161734/https://ireland.basketball/-basketball-ireland-announce-plans-for-35m-redevelopment-of-national-basketball-arena",
+        "https://web.archive.org/web/20161230160114/http://www.futsalplanet.com/champs/champs-01.asp?paeseclub=96&stagioni=78&compnazionale=2110",
+        "http://www.futsalplanet.com/champs/champs-01.asp?paeseclub=96&stagioni=78&compnazionale=2110",
+        "https://web.archive.org/web/20160408141825/http://www.futsalplanet.com/champs/champs-01.asp?paeseclub=96&stagioni=80&compnazionale=2097",
+        "http://www.futsalplanet.com/champs/champs-01.asp?paeseclub=96&stagioni=80&compnazionale=2097",
+        "http://www.sportsfile.com/more-images/PR0903008/5000/",
+        "http://www.fai.ie/domestic/news/eden-college-continue-to-dominate-fai-futsal-cup",
+        "https://web.archive.org/web/20161231075852/http://www.futsalplanet.com/news/news-01.asp?id=15500",
+        "http://www.futsalplanet.com/news/news-01.asp?id=15500",
+        "http://www.transylvaniafc.com/transylvania-futsal-qualified-for-the-final-their-first-season-of-emerald-futsal-league/",
+        "http://www.transylvaniafc.com/we-are-in-the-efl-final/",
+        "https://web.archive.org/web/20161231075452/http://www.shamrockrovers.ie/news/latest-news/59-futsal-news/1998-futsal-starts-monday",
+        "http://www.shamrockrovers.ie/news/latest-news/59-futsal-news/1998-futsal-starts-monday",
+        "https://web.archive.org/web/20161018212754/http://www.shamrockrovers.ie/news/latest-news/3-pressrelease/491-ireland-futsal-squad-announced",
+        "http://www.shamrockrovers.ie/news/latest-news/3-pressrelease/491-ireland-futsal-squad-announced",
+        "http://www.futsalplanet.com/news/news-01.asp?id=9514",
+        "http://www.fai.ie/domestic/news/o%E2%80%99neill-names-futsal-squad-for-uefa-qualifiers",
+        "https://www.uefa.com/futsaleuro/news/0257-0deeb0b043e3-48538a6ad716-1000--fingal-futsal-inspires-ireland/",
+        "http://www.futsalplanet.com/agenda/agenda-01.asp?id=14068",
+        "https://web.archive.org/web/20171107030744/http://futsalplanet.com/news/news-01.asp?id=18714",
+        "http://futsalplanet.com/news/news-01.asp?id=18714",
+        "https://www.uefa.com/uefafutsalchampionsleague/clubs/2604703--eden/",
+        "http://boxrec.com/venue/46681",
+        "https://web.archive.org/web/20161010225833/http://www.rampageamericanwrestling.co.uk/Graphics/tourinfo.htm",
+        "http://www.rampageamericanwrestling.co.uk/Graphics/tourinfo.htm",
+        "http://www.wukf-karate.org/?pg=event_detail&event=95",
+        "http://www.echo.ie/news/article/gymnastic-joy-as-4000-people-pack-into-national-basketball-arena-for-cirque-olympia",
+        "http://www.taekwondo.ie/news/article/dublin_open_international-397.html",
+        "http://whoatv.com/cage-kings-coming-to-the-basketball-arena-august-8th/",
+        "https://www.facebook.com/National-Basketball-Arena-108560496557/",
+        "https://ireland.basketball/find-us"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Basketball",
+          "anchor": "Basketball"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Futsal",
+          "anchor": "Futsal"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Boxing",
+          "anchor": "Boxing"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "Other sports",
+          "anchor": "Other_sports"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Ire_v_Lux_02.jpg",
+        "Dublin_map_2.svg",
+        "Red_pog.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Ire v Lux 02.jpg",
+          "fileName": "Ire v Lux 02.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Ire_v_Lux_02.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ire_v_Lux_02.jpg/250px-Ire_v_Lux_02.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ire_v_Lux_02.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ire_v_Lux_02.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ire_v_Lux_02.jpg/500px-Ire_v_Lux_02.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 333,
+          "originalWidth": 960,
+          "originalHeight": 1280,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Irish national team playing against Luxembourg in 2009"
+        },
+        {
+          "fileTitle": "File:Dublin map 2.svg",
+          "fileName": "Dublin map 2.svg",
+          "kind": "map",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Dublin_map_2.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dublin_map_2.svg/250px-Dublin_map_2.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dublin_map_2.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Dublin_map_2.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dublin_map_2.svg/500px-Dublin_map_2.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 201,
+          "originalWidth": 422,
+          "originalHeight": 339,
+          "fileType": null,
+          "alt": "National Basketball Arena is located in Dublin",
+          "title": "National Basketball Arena is located in Dublin",
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 7,
+          "height": 7,
+          "originalWidth": 64,
+          "originalHeight": 64,
+          "fileType": null,
+          "alt": "National Basketball Arena",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 504,
+          "rowText": "National Basketball Arena\n1993\n2,500",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/National_Basketball_Arena\" title=\"National Basketball Arena\">National Basketball Arena</a>\n</td>\n<td>1993\n</td>\n<td>2,500\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 503,
+              "cell": {
+                "text": "Ireland",
+                "lines": [
+                  "Ireland"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ireland",
+                    "title": "Ireland",
+                    "wikiTitle": "Ireland",
+                    "href": "https://en.wikipedia.org/wiki/Ireland",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 503,
+              "cell": {
+                "text": "Dublin",
+                "lines": [
+                  "Dublin"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Dublin",
+                    "title": "Dublin",
+                    "wikiTitle": "Dublin",
+                    "href": "https://en.wikipedia.org/wiki/Dublin",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 504,
+              "cell": {
+                "text": "National Basketball Arena",
+                "lines": [
+                  "National Basketball Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "National Basketball Arena",
+                    "title": "National Basketball Arena",
+                    "wikiTitle": "National Basketball Arena",
+                    "href": "https://en.wikipedia.org/wiki/National_Basketball_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 504,
+              "cell": {
+                "text": "1993",
+                "lines": [
+                  "1993"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 504,
+              "cell": {
+                "text": "2,500",
+                "lines": [
+                  "2,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 504,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "National Basketball Arena",
+            "lines": [
+              "National Basketball Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "National Basketball Arena",
+                "title": "National Basketball Arena",
+                "wikiTitle": "National Basketball Arena",
+                "href": "https://en.wikipedia.org/wiki/National_Basketball_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:44:25.515Z"
+    },
+    {
+      "id": "wikipedia-page-12281742",
+      "pageId": 12281742,
+      "revisionId": null,
+      "title": "National Stadium (Ireland)",
+      "displayTitle": "National Stadium (Ireland)",
+      "url": "https://en.wikipedia.org/wiki/National_Stadium_(Ireland)",
+      "wikidataItem": "Q6978667",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q6978667",
+      "aliases": [
+        "National Stadium (Ireland)",
+        "National Stadium"
+      ],
+      "requestedTitles": [
+        "National Stadium (Ireland)"
+      ],
+      "sourceLinkTexts": [
+        "National Stadium"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/National_Stadium_(Ireland)"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 53.330706,
+        "longitude": -6.280323,
+        "raw": "53.330706; -6.280323"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "",
+        "groups": [
+          "General information",
+          "Other information",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Type",
+            "key": "type",
+            "group": "General information",
+            "text": "Stadium",
+            "lines": [
+              "Stadium"
+            ],
+            "html": "<td class=\"infobox-data category\">Stadium</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": "General information",
+            "text": "145 South Circular Road\nDublin 8\nD08 HY40\nIreland",
+            "lines": [
+              "145 South Circular Road",
+              "Dublin 8",
+              "D08 HY40",
+              "Ireland"
+            ],
+            "html": "<td class=\"infobox-data label\">145 South Circular Road<br><a href=\"https://en.wikipedia.org/wiki/List_of_Dublin_postal_districts\" title=\"List of Dublin postal districts\">Dublin 8</a><br>D08 HY40<br>Ireland<span data-plural=\"0\"></span></td>",
+            "links": [
+              {
+                "text": "Dublin 8",
+                "title": "List of Dublin postal districts",
+                "wikiTitle": "List of Dublin postal districts",
+                "href": "https://en.wikipedia.org/wiki/List_of_Dublin_postal_districts",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opening",
+            "key": "opening",
+            "group": "General information",
+            "text": "1939",
+            "lines": [
+              "1939"
+            ],
+            "html": "<td class=\"infobox-data\">1939</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": "General information",
+            "text": "IABA",
+            "lines": [
+              "IABA"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Irish_Amateur_Boxing_Association\" class=\"mw-redirect\" title=\"Irish Amateur Boxing Association\">IABA</a></td>",
+            "links": [
+              {
+                "text": "IABA",
+                "title": "Irish Amateur Boxing Association",
+                "wikiTitle": "Irish Amateur Boxing Association",
+                "href": "https://en.wikipedia.org/wiki/Irish_Amateur_Boxing_Association",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Seating capacity",
+            "key": "seating_capacity",
+            "group": "Other information",
+            "text": "2,000",
+            "lines": [
+              "2,000"
+            ],
+            "html": "<td class=\"infobox-data\">2,000</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-1"
+              }
+            ]
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "Venue website",
+            "lines": [
+              "Venue website"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"https://www.thenationalstadium.ie/\">Venue website</a></span></td>",
+            "links": [
+              {
+                "text": "Venue website",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://www.thenationalstadium.ie/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "type": [
+            {
+              "label": "Type",
+              "key": "type",
+              "group": "General information",
+              "text": "Stadium",
+              "lines": [
+                "Stadium"
+              ],
+              "html": "<td class=\"infobox-data category\">Stadium</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": "General information",
+              "text": "145 South Circular Road\nDublin 8\nD08 HY40\nIreland",
+              "lines": [
+                "145 South Circular Road",
+                "Dublin 8",
+                "D08 HY40",
+                "Ireland"
+              ],
+              "html": "<td class=\"infobox-data label\">145 South Circular Road<br><a href=\"https://en.wikipedia.org/wiki/List_of_Dublin_postal_districts\" title=\"List of Dublin postal districts\">Dublin 8</a><br>D08 HY40<br>Ireland<span data-plural=\"0\"></span></td>",
+              "links": [
+                {
+                  "text": "Dublin 8",
+                  "title": "List of Dublin postal districts",
+                  "wikiTitle": "List of Dublin postal districts",
+                  "href": "https://en.wikipedia.org/wiki/List_of_Dublin_postal_districts",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opening": [
+            {
+              "label": "Opening",
+              "key": "opening",
+              "group": "General information",
+              "text": "1939",
+              "lines": [
+                "1939"
+              ],
+              "html": "<td class=\"infobox-data\">1939</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": "General information",
+              "text": "IABA",
+              "lines": [
+                "IABA"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Irish_Amateur_Boxing_Association\" class=\"mw-redirect\" title=\"Irish Amateur Boxing Association\">IABA</a></td>",
+              "links": [
+                {
+                  "text": "IABA",
+                  "title": "Irish Amateur Boxing Association",
+                  "wikiTitle": "Irish Amateur Boxing Association",
+                  "href": "https://en.wikipedia.org/wiki/Irish_Amateur_Boxing_Association",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "seating_capacity": [
+            {
+              "label": "Seating capacity",
+              "key": "seating_capacity",
+              "group": "Other information",
+              "text": "2,000",
+              "lines": [
+                "2,000"
+              ],
+              "html": "<td class=\"infobox-data\">2,000</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-1"
+                }
+              ]
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "Venue website",
+              "lines": [
+                "Venue website"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"https://www.thenationalstadium.ie/\">Venue website</a></span></td>",
+              "links": [
+                {
+                  "text": "Venue website",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://www.thenationalstadium.ie/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "type": [
+            "Stadium"
+          ],
+          "location": [
+            "145 South Circular Road\nDublin 8\nD08 HY40\nIreland"
+          ],
+          "opening": [
+            "1939"
+          ],
+          "owner": [
+            "IABA"
+          ],
+          "seating_capacity": [
+            "2,000"
+          ],
+          "website": [
+            "Venue website"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "2,000"
+        ],
+        "tenants": [],
+        "websites": [
+          "https://www.thenationalstadium.ie/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:National Stadium, Ireland (boxing).JPG",
+            "fileName": "National Stadium, Ireland (boxing).JPG",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:National_Stadium,_Ireland_(boxing).JPG",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/National_Stadium%2C_Ireland_%28boxing%29.JPG/330px-National_Stadium%2C_Ireland_%28boxing%29.JPG",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/National_Stadium%2C_Ireland_(boxing).JPG",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/National_Stadium%2C_Ireland_(boxing).JPG",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/National_Stadium%2C_Ireland_%28boxing%29.JPG/960px-National_Stadium%2C_Ireland_%28boxing%29.JPG",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 280,
+            "height": 210,
+            "originalWidth": 3072,
+            "originalHeight": 2304,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Stadium exterior (2010)"
+          },
+          {
+            "fileTitle": "File:Dublin map 2.svg",
+            "fileName": "Dublin map 2.svg",
+            "kind": "map",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Dublin_map_2.svg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dublin_map_2.svg/250px-Dublin_map_2.svg.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dublin_map_2.svg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Dublin_map_2.svg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dublin_map_2.svg/500px-Dublin_map_2.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 240,
+            "height": 193,
+            "originalWidth": 422,
+            "originalHeight": 339,
+            "fileType": null,
+            "alt": "National Stadium (Ireland) is located in Dublin",
+            "title": "National Stadium (Ireland) is located in Dublin",
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [],
+            "width": 8,
+            "height": 8,
+            "originalWidth": 64,
+            "originalHeight": 64,
+            "fileType": null,
+            "alt": "National Stadium (Ireland)",
+            "title": null,
+            "caption": null
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><tbody><tr><th colspan=\"2\" class=\"infobox-above fn org\">National Stadium</th></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size\"><a href=\"https://en.wikipedia.org/wiki/File:National_Stadium,_Ireland_(boxing).JPG\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/National_Stadium%2C_Ireland_%28boxing%29.JPG/330px-National_Stadium%2C_Ireland_%28boxing%29.JPG\" width=\"280\" height=\"210\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/National_Stadium%2C_Ireland_%28boxing%29.JPG/960px-National_Stadium%2C_Ireland_%28boxing%29.JPG 2x\" data-file-width=\"3072\" data-file-height=\"2304\"></a></span><div class=\"infobox-caption\">Stadium exterior (2010)</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><div class=\"center\"><div class=\"locmap\"><div><div><span class=\"notpageimage noviewer\"><a href=\"https://en.wikipedia.org/wiki/File:Dublin_map_2.svg\" class=\"mw-file-description\" title=\"National Stadium (Ireland) is located in Dublin\"><img alt=\"National Stadium (Ireland) is located in Dublin\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dublin_map_2.svg/250px-Dublin_map_2.svg.png\" width=\"240\" height=\"193\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dublin_map_2.svg/500px-Dublin_map_2.svg.png 2x\" data-file-width=\"422\" data-file-height=\"339\"></a></span><div class=\"od notheme\"><div class=\"id\"><span class=\"notpageimage noviewer\"><span title=\"National Stadium (Ireland)\"><img alt=\"National Stadium (Ireland)\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png\" width=\"8\" height=\"8\" class=\"mw-file-element\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div></div></div><div>Location within Dublin</div></div></div></div></td></tr><tr><th colspan=\"2\" class=\"infobox-header\"><div>General information</div></th></tr><tr><th scope=\"row\" class=\"infobox-label\">Type</th><td class=\"infobox-data category\">Stadium</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">145 South Circular Road<br><a href=\"https://en.wikipedia.org/wiki/List_of_Dublin_postal_districts\" title=\"List of Dublin postal districts\">Dublin 8</a><br>D08 HY40<br>Ireland<span data-plural=\"0\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opening</th><td class=\"infobox-data\">1939</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Irish_Amateur_Boxing_Association\" class=\"mw-redirect\" title=\"Irish Amateur Boxing Association\">IABA</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Other information</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Seating&nbsp;capacity</th><td class=\"infobox-data\">2,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"https://www.thenationalstadium.ie/\">Venue website</a></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Use_dmy_dates_from_February_2022",
+        "Use_Hiberno-English_from_February_2022",
+        "All_Wikipedia_articles_written_in_Hiberno-English",
+        "Articles_containing_Irish-language_text",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_September_2015",
+        "Articles_needing_additional_references_from_January_2022",
+        "All_articles_needing_additional_references",
+        "Articles_with_unsourced_statements_from_February_2022",
+        "Commons_link_is_locally_defined",
+        "Coordinates_on_Wikidata",
+        "Boxing_venues_in_the_Republic_of_Ireland",
+        "Buildings_and_structures_in_Dublin_(city)",
+        "Boxing_in_Ireland",
+        "Boxing_in_County_Dublin",
+        "Music_in_Dublin_(city)",
+        "Sports_venues_in_Dublin_(city)",
+        "Music_venues_in_Dublin_(city)",
+        "Wrestling_venues_in_Ireland"
+      ],
+      "externalLinks": [
+        "https://www.thenationalstadium.ie/",
+        "https://web.archive.org/web/20070205140034/http://www.iaba.ie/boxing/Main/IABA-history.htm",
+        "http://www.iaba.ie/boxing/Main/IABA-history.htm",
+        "https://web.archive.org/web/20070703183843/http://www.nationalstadium.ie/nationalstadium/Main/Facilities.htm",
+        "http://www.nationalstadium.ie/nationalstadium/Main/Facilities.htm",
+        "http://www.timeout.com/dublin/music/venue/1:5557/national-stadium",
+        "https://books.google.com/books?id=9tw9vnZT4REC&q=u2+at+the+national+stadium&pg=PA12",
+        "https://www.cagematch.net/?id=1&view=search&sEventName=&sPromotion=&sDateFromDay=01&sDateFromMonth=01&sDateFromYear=2001&sDateTillDay=31&sDateTillMonth=12&sDateTillYear=2024&sRegion=&sEventType=&sLocation=Ireland&sArena=national&sAny=",
+        "https://www.fightful.com/wrestling/ott-scrappermania-8-announced-810",
+        "https://web.archive.org/web/20070615020705/http://www.nationalstadium.ie/nationalstadium/Main/About-Us.htm",
+        "http://www.nationalstadium.ie/nationalstadium/Main/About-Us.htm",
+        "https://web.archive.org/web/20060503015247/http://www.arts-sport-tourism.gov.ie/publications/release.asp?ID=104",
+        "http://www.arts-sport-tourism.gov.ie/publications/release.asp?ID=104",
+        "https://web.archive.org/web/20080828222431/http://www.arts-sport-tourism.gov.ie/pdfs/sports_capital_review/sportscapitalreviewcasestudies.html",
+        "http://www.arts-sport-tourism.gov.ie/pdfs/sports_capital_review/sportscapitalreviewcasestudies.html",
+        "https://geohack.toolforge.org/geohack.php?pagename=National_Stadium_(Ireland)&params=53.330706_N_6.280323_W_type:landmark_region:IE",
+        "https://www.thenationalstadium.ie",
+        "https://musicbrainz.org/place/c921e42e-f08a-48a2-8ce1-0c329d65c9e9"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Venue",
+          "anchor": "Venue"
+        },
+        {
+          "index": "2",
+          "level": 3,
+          "line": "Music",
+          "anchor": "Music"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "Professional wrestling",
+          "anchor": "Professional_wrestling"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "Facilities",
+          "anchor": "Facilities"
+        },
+        {
+          "index": "5",
+          "level": 3,
+          "line": "Capacity",
+          "anchor": "Capacity"
+        },
+        {
+          "index": "6",
+          "level": 3,
+          "line": "Refurbishment",
+          "anchor": "Refurbishment"
+        },
+        {
+          "index": "7",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "8",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "National_Stadium,_Ireland_(boxing).JPG",
+        "Dublin_map_2.svg",
+        "Red_pog.svg",
+        "Question_book-new.svg",
+        "Commons-logo.svg",
+        "OOjs_UI_icon_edit-ltr-progressive.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:National Stadium, Ireland (boxing).JPG",
+          "fileName": "National Stadium, Ireland (boxing).JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:National_Stadium,_Ireland_(boxing).JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/National_Stadium%2C_Ireland_%28boxing%29.JPG/330px-National_Stadium%2C_Ireland_%28boxing%29.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/National_Stadium%2C_Ireland_(boxing).JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/National_Stadium%2C_Ireland_(boxing).JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/National_Stadium%2C_Ireland_%28boxing%29.JPG/960px-National_Stadium%2C_Ireland_%28boxing%29.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 280,
+          "height": 210,
+          "originalWidth": 3072,
+          "originalHeight": 2304,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Stadium exterior (2010)"
+        },
+        {
+          "fileTitle": "File:Dublin map 2.svg",
+          "fileName": "Dublin map 2.svg",
+          "kind": "map",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Dublin_map_2.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dublin_map_2.svg/250px-Dublin_map_2.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dublin_map_2.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Dublin_map_2.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dublin_map_2.svg/500px-Dublin_map_2.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 240,
+          "height": 193,
+          "originalWidth": 422,
+          "originalHeight": 339,
+          "fileType": null,
+          "alt": "National Stadium (Ireland) is located in Dublin",
+          "title": "National Stadium (Ireland) is located in Dublin",
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 8,
+          "height": 8,
+          "originalWidth": 64,
+          "originalHeight": 64,
+          "fileType": null,
+          "alt": "National Stadium (Ireland)",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Question book-new.svg",
+          "fileName": "Question book-new.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 39,
+          "originalWidth": 512,
+          "originalHeight": 399,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 40,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 505,
+          "rowText": "National Stadium\n1939\n2,080",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/National_Stadium_(Ireland)\" title=\"National Stadium (Ireland)\">National Stadium</a>\n</td>\n<td>1939\n</td>\n<td>2,080\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 503,
+              "cell": {
+                "text": "Ireland",
+                "lines": [
+                  "Ireland"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ireland",
+                    "title": "Ireland",
+                    "wikiTitle": "Ireland",
+                    "href": "https://en.wikipedia.org/wiki/Ireland",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 503,
+              "cell": {
+                "text": "Dublin",
+                "lines": [
+                  "Dublin"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Dublin",
+                    "title": "Dublin",
+                    "wikiTitle": "Dublin",
+                    "href": "https://en.wikipedia.org/wiki/Dublin",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 505,
+              "cell": {
+                "text": "National Stadium",
+                "lines": [
+                  "National Stadium"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "National Stadium",
+                    "title": "National Stadium (Ireland)",
+                    "wikiTitle": "National Stadium (Ireland)",
+                    "href": "https://en.wikipedia.org/wiki/National_Stadium_(Ireland)",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 505,
+              "cell": {
+                "text": "1939",
+                "lines": [
+                  "1939"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 505,
+              "cell": {
+                "text": "2,080",
+                "lines": [
+                  "2,080"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 505,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "National Stadium",
+            "lines": [
+              "National Stadium"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "National Stadium",
+                "title": "National Stadium (Ireland)",
+                "wikiTitle": "National Stadium (Ireland)",
+                "href": "https://en.wikipedia.org/wiki/National_Stadium_(Ireland)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:44:24.535Z"
+    }
+  ]
+}

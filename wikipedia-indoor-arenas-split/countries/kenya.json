@@ -1,0 +1,1479 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Kenya",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 7,
+    "sourceTypeCounts": {
+      "world_master_list": 1,
+      "country_or_region_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-3031174",
+      "pageId": 3031174,
+      "revisionId": null,
+      "title": "Moi International Sports Centre",
+      "displayTitle": "Moi International Sports Centre",
+      "url": "https://en.wikipedia.org/wiki/Moi_International_Sports_Centre",
+      "wikidataItem": "Q1385710",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q1385710",
+      "aliases": [
+        "Moi International Sports Centre",
+        "Kasarani Indoor Arena",
+        "Moi International Sports Centre Kasarani, the \"Home of Heroes\""
+      ],
+      "requestedTitles": [
+        "Moi International Sports Centre"
+      ],
+      "sourceLinkTexts": [
+        "Kasarani Indoor Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Moi_International_Sports_Centre"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": -1.22806,
+        "longitude": 36.89056,
+        "raw": "-1.22806; 36.89056"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Moi International Sports Centre Kasarani, the \"Home of Heroes\"",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Moi International Sports Centre",
+            "lines": [
+              "Moi International Sports Centre"
+            ],
+            "html": "<td class=\"infobox-data\">Moi International Sports Centre</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Kasarani, Nairobi, Kenya",
+            "lines": [
+              "Kasarani, Nairobi, Kenya"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Kasarani\" title=\"Kasarani\">Kasarani</a>, Nairobi, Kenya</td>",
+            "links": [
+              {
+                "text": "Kasarani",
+                "title": "Kasarani",
+                "wikiTitle": "Kasarani",
+                "href": "https://en.wikipedia.org/wiki/Kasarani",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "1°13′41″S 36°53′26″E﻿ / ﻿1.22806°S 36.89056°E﻿ / -1.22806; 36.89056",
+            "lines": [
+              "1°13′41″S 36°53′26″E﻿ / ﻿1.22806°S 36.89056°E﻿ / -1.22806; 36.89056"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Moi_International_Sports_Centre&amp;params=1_13_41_S_36_53_26_E_\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">1°13′41″S</span> <span class=\"longitude\">36°53′26″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">1.22806°S 36.89056°E</span><span>﻿ / <span class=\"geo\">-1.22806; 36.89056</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "1°13′41″S 36°53′26″E﻿ / ﻿1.22806°S 36.89056°E﻿ / -1.22806; 36.89056",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Moi_International_Sports_Centre&params=1_13_41_S_36_53_26_E_",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Government of Kenya",
+            "lines": [
+              "Government of Kenya"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Kenya\" title=\"Government of Kenya\">Government of Kenya</a></td>",
+            "links": [
+              {
+                "text": "Government of Kenya",
+                "title": "Government of Kenya",
+                "wikiTitle": "Government of Kenya",
+                "href": "https://en.wikipedia.org/wiki/Government_of_Kenya",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Sports Kenya",
+            "lines": [
+              "Sports Kenya"
+            ],
+            "html": "<td class=\"infobox-data agent\">Sports Kenya</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "48,063 (2024–present)\nCapacity history\n65,000 (2012–2024)\n5,000 (Kasarani Indoor Arena)5,000 (Competition pool)",
+            "lines": [
+              "48,063 (2024–present)",
+              "Capacity history",
+              "65,000 (2012–2024)",
+              "5,000 (Kasarani Indoor Arena)5,000 (Competition pool)"
+            ],
+            "html": "<td class=\"infobox-data\"><div class=\"plainlist\"><ul><li>48,063 (2024–present)</li><li><small><div class=\"collapsible-list mw-collapsible mw-collapsed\">\n<div><div>Capacity history</div></div>\n<ul class=\"mw-collapsible-content\"><li>65,000 (2012–2024)</li></ul>\n</div></small></li><li>5,000 (Kasarani Indoor Arena)</li><li>5,000 (Competition pool)</li></ul></div></td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-Se/Pa-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              },
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              },
+              {
+                "text": "[3]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-3",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-Se/Pa-1"
+              },
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-2"
+              },
+              {
+                "label": "[3]",
+                "href": "https://en.wikipedia.org/#cite_note-3"
+              }
+            ]
+          },
+          {
+            "label": "Surface",
+            "key": "surface",
+            "group": null,
+            "text": "GrassMaster",
+            "lines": [
+              "GrassMaster"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/GrassMaster\" title=\"GrassMaster\">GrassMaster</a></td>",
+            "links": [
+              {
+                "text": "GrassMaster",
+                "title": "GrassMaster",
+                "wikiTitle": "GrassMaster",
+                "href": "https://en.wikipedia.org/wiki/GrassMaster",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "1986",
+            "lines": [
+              "1986"
+            ],
+            "html": "<td class=\"infobox-data\">1986</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "1987",
+            "lines": [
+              "1987"
+            ],
+            "html": "<td class=\"infobox-data\">1987</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "August 1987",
+            "lines": [
+              "August 1987"
+            ],
+            "html": "<td class=\"infobox-data\">August 1987</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2010–12, 2024",
+            "lines": [
+              "2010–12, 2024"
+            ],
+            "html": "<td class=\"infobox-data\">2010–12, 2024</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Kenya national football team\nMathare United F.C.\nTusker\nAthletics Kenya",
+            "lines": [
+              "Kenya national football team",
+              "Mathare United F.C.",
+              "Tusker",
+              "Athletics Kenya"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Kenya_national_football_team\" title=\"Kenya national football team\">Kenya national football team</a><br><a href=\"https://en.wikipedia.org/wiki/Mathare_United_F.C.\" title=\"Mathare United F.C.\">Mathare United F.C.</a><br><a href=\"https://en.wikipedia.org/wiki/Tusker_F.C.\" title=\"Tusker F.C.\">Tusker</a><br><a href=\"https://en.wikipedia.org/wiki/Athletics_Kenya\" title=\"Athletics Kenya\">Athletics Kenya</a></td>",
+            "links": [
+              {
+                "text": "Kenya national football team",
+                "title": "Kenya national football team",
+                "wikiTitle": "Kenya national football team",
+                "href": "https://en.wikipedia.org/wiki/Kenya_national_football_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Mathare United F.C.",
+                "title": "Mathare United F.C.",
+                "wikiTitle": "Mathare United F.C.",
+                "href": "https://en.wikipedia.org/wiki/Mathare_United_F.C.",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Tusker",
+                "title": "Tusker F.C.",
+                "wikiTitle": "Tusker F.C.",
+                "href": "https://en.wikipedia.org/wiki/Tusker_F.C.",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Athletics Kenya",
+                "title": "Athletics Kenya",
+                "wikiTitle": "Athletics Kenya",
+                "href": "https://en.wikipedia.org/wiki/Athletics_Kenya",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Moi International Sports Centre",
+              "lines": [
+                "Moi International Sports Centre"
+              ],
+              "html": "<td class=\"infobox-data\">Moi International Sports Centre</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Kasarani, Nairobi, Kenya",
+              "lines": [
+                "Kasarani, Nairobi, Kenya"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Kasarani\" title=\"Kasarani\">Kasarani</a>, Nairobi, Kenya</td>",
+              "links": [
+                {
+                  "text": "Kasarani",
+                  "title": "Kasarani",
+                  "wikiTitle": "Kasarani",
+                  "href": "https://en.wikipedia.org/wiki/Kasarani",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "1°13′41″S 36°53′26″E﻿ / ﻿1.22806°S 36.89056°E﻿ / -1.22806; 36.89056",
+              "lines": [
+                "1°13′41″S 36°53′26″E﻿ / ﻿1.22806°S 36.89056°E﻿ / -1.22806; 36.89056"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Moi_International_Sports_Centre&amp;params=1_13_41_S_36_53_26_E_\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">1°13′41″S</span> <span class=\"longitude\">36°53′26″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">1.22806°S 36.89056°E</span><span>﻿ / <span class=\"geo\">-1.22806; 36.89056</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "1°13′41″S 36°53′26″E﻿ / ﻿1.22806°S 36.89056°E﻿ / -1.22806; 36.89056",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Moi_International_Sports_Centre&params=1_13_41_S_36_53_26_E_",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Government of Kenya",
+              "lines": [
+                "Government of Kenya"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Kenya\" title=\"Government of Kenya\">Government of Kenya</a></td>",
+              "links": [
+                {
+                  "text": "Government of Kenya",
+                  "title": "Government of Kenya",
+                  "wikiTitle": "Government of Kenya",
+                  "href": "https://en.wikipedia.org/wiki/Government_of_Kenya",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Sports Kenya",
+              "lines": [
+                "Sports Kenya"
+              ],
+              "html": "<td class=\"infobox-data agent\">Sports Kenya</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "48,063 (2024–present)\nCapacity history\n65,000 (2012–2024)\n5,000 (Kasarani Indoor Arena)5,000 (Competition pool)",
+              "lines": [
+                "48,063 (2024–present)",
+                "Capacity history",
+                "65,000 (2012–2024)",
+                "5,000 (Kasarani Indoor Arena)5,000 (Competition pool)"
+              ],
+              "html": "<td class=\"infobox-data\"><div class=\"plainlist\"><ul><li>48,063 (2024–present)</li><li><small><div class=\"collapsible-list mw-collapsible mw-collapsed\">\n<div><div>Capacity history</div></div>\n<ul class=\"mw-collapsible-content\"><li>65,000 (2012–2024)</li></ul>\n</div></small></li><li>5,000 (Kasarani Indoor Arena)</li><li>5,000 (Competition pool)</li></ul></div></td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-Se/Pa-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                },
+                {
+                  "text": "[2]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-2",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                },
+                {
+                  "text": "[3]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-3",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-Se/Pa-1"
+                },
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-2"
+                },
+                {
+                  "label": "[3]",
+                  "href": "https://en.wikipedia.org/#cite_note-3"
+                }
+              ]
+            }
+          ],
+          "surface": [
+            {
+              "label": "Surface",
+              "key": "surface",
+              "group": null,
+              "text": "GrassMaster",
+              "lines": [
+                "GrassMaster"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/GrassMaster\" title=\"GrassMaster\">GrassMaster</a></td>",
+              "links": [
+                {
+                  "text": "GrassMaster",
+                  "title": "GrassMaster",
+                  "wikiTitle": "GrassMaster",
+                  "href": "https://en.wikipedia.org/wiki/GrassMaster",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "1986",
+              "lines": [
+                "1986"
+              ],
+              "html": "<td class=\"infobox-data\">1986</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "1987",
+              "lines": [
+                "1987"
+              ],
+              "html": "<td class=\"infobox-data\">1987</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "August 1987",
+              "lines": [
+                "August 1987"
+              ],
+              "html": "<td class=\"infobox-data\">August 1987</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2010–12, 2024",
+              "lines": [
+                "2010–12, 2024"
+              ],
+              "html": "<td class=\"infobox-data\">2010–12, 2024</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Kenya national football team\nMathare United F.C.\nTusker\nAthletics Kenya",
+              "lines": [
+                "Kenya national football team",
+                "Mathare United F.C.",
+                "Tusker",
+                "Athletics Kenya"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Kenya_national_football_team\" title=\"Kenya national football team\">Kenya national football team</a><br><a href=\"https://en.wikipedia.org/wiki/Mathare_United_F.C.\" title=\"Mathare United F.C.\">Mathare United F.C.</a><br><a href=\"https://en.wikipedia.org/wiki/Tusker_F.C.\" title=\"Tusker F.C.\">Tusker</a><br><a href=\"https://en.wikipedia.org/wiki/Athletics_Kenya\" title=\"Athletics Kenya\">Athletics Kenya</a></td>",
+              "links": [
+                {
+                  "text": "Kenya national football team",
+                  "title": "Kenya national football team",
+                  "wikiTitle": "Kenya national football team",
+                  "href": "https://en.wikipedia.org/wiki/Kenya_national_football_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Mathare United F.C.",
+                  "title": "Mathare United F.C.",
+                  "wikiTitle": "Mathare United F.C.",
+                  "href": "https://en.wikipedia.org/wiki/Mathare_United_F.C.",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Tusker",
+                  "title": "Tusker F.C.",
+                  "wikiTitle": "Tusker F.C.",
+                  "href": "https://en.wikipedia.org/wiki/Tusker_F.C.",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Athletics Kenya",
+                  "title": "Athletics Kenya",
+                  "wikiTitle": "Athletics Kenya",
+                  "href": "https://en.wikipedia.org/wiki/Athletics_Kenya",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Moi International Sports Centre"
+          ],
+          "location": [
+            "Kasarani, Nairobi, Kenya"
+          ],
+          "coordinates": [
+            "1°13′41″S 36°53′26″E﻿ / ﻿1.22806°S 36.89056°E﻿ / -1.22806; 36.89056"
+          ],
+          "owner": [
+            "Government of Kenya"
+          ],
+          "operator": [
+            "Sports Kenya"
+          ],
+          "capacity": [
+            "48,063 (2024–present)\nCapacity history\n65,000 (2012–2024)\n5,000 (Kasarani Indoor Arena)5,000 (Competition pool)"
+          ],
+          "surface": [
+            "GrassMaster"
+          ],
+          "groundbreaking": [
+            "1986"
+          ],
+          "built": [
+            "1987"
+          ],
+          "opened": [
+            "August 1987"
+          ],
+          "renovated": [
+            "2010–12, 2024"
+          ],
+          "tenants": [
+            "Kenya national football team\nMathare United F.C.\nTusker\nAthletics Kenya"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "48,063 (2024–present)",
+          "Capacity history",
+          "65,000 (2012–2024)",
+          "5,000 (Kasarani Indoor Arena)5,000 (Competition pool)"
+        ],
+        "tenants": [
+          "Kenya national football team",
+          "Mathare United F.C.",
+          "Tusker",
+          "Athletics Kenya"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Inside the Kasarani Stadium.jpg",
+            "fileName": "Inside the Kasarani Stadium.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Inside_the_Kasarani_Stadium.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Inside_the_Kasarani_Stadium.jpg/250px-Inside_the_Kasarani_Stadium.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Inside_the_Kasarani_Stadium.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Inside_the_Kasarani_Stadium.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Inside_the_Kasarani_Stadium.jpg/500px-Inside_the_Kasarani_Stadium.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 141,
+            "originalWidth": 3840,
+            "originalHeight": 2160,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "CAF"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/20px-Star_full.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/40px-Star_full.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 11,
+            "height": 11,
+            "originalWidth": 108,
+            "originalHeight": 110,
+            "fileType": null,
+            "alt": "Star",
+            "title": null,
+            "caption": "CAF"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Moi_International_Sports_Centre&revid=1360392437&groups=_8f729974af77a99bc2ca360db137282e764520ba&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Moi_International_Sports_Centre&revid=1360392437&groups=_8f729974af77a99bc2ca360db137282e764520ba&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Moi International Sports Centre Kasarani, the \"Home of Heroes\""
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Moi International Sports Centre Kasarani, the \"Home of Heroes\"</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Inside_the_Kasarani_Stadium.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Inside_the_Kasarani_Stadium.jpg/250px-Inside_the_Kasarani_Stadium.jpg\" width=\"250\" height=\"141\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Inside_the_Kasarani_Stadium.jpg/500px-Inside_the_Kasarani_Stadium.jpg 2x\" data-file-width=\"3840\" data-file-height=\"2160\"></a></span><div class=\"infobox-caption\"><b><a href=\"https://en.wikipedia.org/wiki/Confederation_of_African_Football\" title=\"Confederation of African Football\">CAF</a></b> <span title=\"4/4 stars\"><span><span title=\"4/4 stars\"><img alt=\"Star\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/20px-Star_full.svg.png\" width=\"11\" height=\"11\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/40px-Star_full.svg.png 2x\" data-file-width=\"108\" data-file-height=\"110\"></span></span><span><span><img alt=\"Star\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/20px-Star_full.svg.png\" width=\"11\" height=\"11\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/40px-Star_full.svg.png 2x\" data-file-width=\"108\" data-file-height=\"110\"></span></span><span><span><img alt=\"Star\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/20px-Star_full.svg.png\" width=\"11\" height=\"11\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/40px-Star_full.svg.png 2x\" data-file-width=\"108\" data-file-height=\"110\"></span></span><span><span><img alt=\"Star\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/20px-Star_full.svg.png\" width=\"11\" height=\"11\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/40px-Star_full.svg.png 2x\" data-file-width=\"108\" data-file-height=\"110\"></span></span></span></div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_8f729974af77a99bc2ca360db137282e764520ba&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Moi_International_Sports_Centre&amp;revid=1360392437&amp;groups=_8f729974af77a99bc2ca360db137282e764520ba&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Moi_International_Sports_Centre&amp;revid=1360392437&amp;groups=_8f729974af77a99bc2ca360db137282e764520ba&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Moi International Sports Centre Kasarani, the \"Home of Heroes\"</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Moi International Sports Centre</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Kasarani\" title=\"Kasarani\">Kasarani</a>, Nairobi, Kenya</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Moi_International_Sports_Centre&amp;params=1_13_41_S_36_53_26_E_\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">1°13′41″S</span> <span class=\"longitude\">36°53′26″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">1.22806°S 36.89056°E</span><span>﻿ / <span class=\"geo\">-1.22806; 36.89056</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Kenya\" title=\"Government of Kenya\">Government of Kenya</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">Sports Kenya</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\"><div class=\"plainlist\"><ul><li>48,063 (2024–present)</li><li><small><div class=\"collapsible-list mw-collapsible mw-collapsed\">\n<div><div>Capacity history</div></div>\n<ul class=\"mw-collapsible-content\"><li>65,000 (2012–2024)</li></ul>\n</div></small></li><li>5,000 (Kasarani Indoor Arena)</li><li>5,000 (Competition pool)</li></ul></div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Surface</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/GrassMaster\" title=\"GrassMaster\">GrassMaster</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">1986</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">1987</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">August 1987</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2010–12, 2024</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Kenya_national_football_team\" title=\"Kenya national football team\">Kenya national football team</a><br><a href=\"https://en.wikipedia.org/wiki/Mathare_United_F.C.\" title=\"Mathare United F.C.\">Mathare United F.C.</a><br><a href=\"https://en.wikipedia.org/wiki/Tusker_F.C.\" title=\"Tusker F.C.\">Tusker</a><br><a href=\"https://en.wikipedia.org/wiki/Athletics_Kenya\" title=\"Athletics Kenya\">Athletics Kenya</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_maint:_archived_copy_as_title",
+        "Webarchive_template_wayback_links",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_October_2024",
+        "Articles_needing_additional_references_from_October_2024",
+        "All_articles_needing_additional_references",
+        "Template:Succession_box:_'after'_parameter_includes_the_word_'abolished'",
+        "S-aft:_'after'_parameter_includes_the_word_'abolished'",
+        "Sports_venues_completed_in_1987",
+        "Football_venues_in_Kenya",
+        "Sports_venues_in_Nairobi",
+        "Athletics_venues_in_Kenya",
+        "Venues_of_the_African_Games",
+        "National_stadiums",
+        "Indoor_arenas_in_Kenya",
+        "Multi-purpose_stadiums_in_Kenya",
+        "Event_venues_established_in_1987",
+        "Volleyball_venues_in_Kenya",
+        "Basketball_venues_in_Kenya",
+        "Chinese_aid_to_Africa",
+        "1980s_in_Nairobi",
+        "1987_establishments_in_Kenya",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Moi_International_Sports_Centre&params=1_13_41_S_36_53_26_E_",
+        "https://web.archive.org/web/20241103031526/http://parliament.go.ke/sites/default/files/2024-09/Hansard%20Report%20-%20Wednesday,%2025th%20September%202024%20(P).pdf",
+        "https://www.parliament.go.ke/sites/default/files/2024-09/Hansard%20Report%20-%20Wednesday,%2025th%20September%202024%20(P).pdf",
+        "https://web.archive.org/web/20130729054301/http://www.ghettoradio.co.ke/kenyas-new-president-to-be-sworn-in-at-kasarani/",
+        "http://www.ghettoradio.co.ke/kenyas-new-president-to-be-sworn-in-at-kasarani/",
+        "http://www.sportskenya.org/index.php/financing/our-facilities/74-the-moi-international-sports-complex-misc-kasarani",
+        "https://web.archive.org/web/20181008062258/http://www.sportskenya.org/index.php/financing/our-facilities/74-the-moi-international-sports-complex-misc-kasarani",
+        "https://www.worldstadiumdatabase.com/moi-international-sports-centre-stadium-kasarani-in-kenya.htm",
+        "https://web.archive.org/web/20220305043939/https://www.worldstadiumdatabase.com/moi-international-sports-centre-stadium-kasarani-in-kenya.htm",
+        "https://www.cambridge.org/core/product/identifier/9781009090902/type/element",
+        "https://doi.org/10.1017%2F9781009090902",
+        "https://www.chinanews.com.cn/gj/2024/09-04/10279815.shtml",
+        "http://ke.mofcom.gov.cn/aarticle/waimao/201103/20110307423950.html",
+        "https://www.amnesty.org/download/Documents/4000/afr520032014en.pdf",
+        "https://web.archive.org/web/20170228082032/https://www.amnesty.org/download/Documents/4000/afr520032014en.pdf",
+        "https://www.theeastafrican.co.ke/OpEd/comment/Usalama-Watch--State-is-fracturing-Kenyan-society-/434750-2284922-x08n38z/index.html",
+        "https://web.archive.org/web/20170227233418/http://www.theeastafrican.co.ke/OpEd/comment/Usalama-Watch--State-is-fracturing-Kenyan-society-/434750-2284922-x08n38z/index.html",
+        "https://www.iaaf.org/download/download?filename=616ad3fb-d1a8-48d8-952b-4c64fc80834c.pdf&urlSlug=competitions-update-200816",
+        "https://web.archive.org/web/20160827073202/https://www.iaaf.org/download/download?filename=616ad3fb-d1a8-48d8-952b-4c64fc80834c.pdf&urlSlug=competitions-update-200816",
+        "https://thekenyatimes.com/sports/football/moi-international-sports-centre-kasarani-history-location-and-capacity/",
+        "http://www.hapakenya.com/2013/12/06/safaricom-stadium-kasarani-unveiled/",
+        "https://web.archive.org/web/20160630033741/http://www.hapakenya.com/2013/12/06/safaricom-stadium-kasarani-unveiled/",
+        "http://www.stadiumskenya.co.ke",
+        "https://cafe.daum.net/stade/Dlwn/19",
+        "https://cafe.daum.net/stade/",
+        "http://www.worldstadiums.com/stadium_pictures/africa/kenya/kasarani_moi.shtml",
+        "http://www.worldstadiums.com/",
+        "https://web.archive.org/web/20071022095127/http://fussballtempel.net/caf/KEN/Kasarani.html",
+        "http://www.fussballtempel.net/",
+        "http://www.nation.co.ke/sports/football/-/1102/845784/-/11kd7u6/-/",
+        "http://www.stadiumskenya.co.ke/",
+        "http://www.minspoca.go.ke/",
+        "https://www.johnfyucha.com/2023/03/moi-international-sports-centre.html"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Facilities",
+          "anchor": "Facilities"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "Kasarani Stadium (Moi International Sports Centre, Kasarani)",
+          "anchor": "Kasarani_Stadium_(Moi_International_Sports_Centre,_Kasarani)"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "Kasarani Indoor Arena",
+          "anchor": "Kasarani_Indoor_Arena"
+        },
+        {
+          "index": "5",
+          "level": 3,
+          "line": "Kasarani Aquatic Complex",
+          "anchor": "Kasarani_Aquatic_Complex"
+        },
+        {
+          "index": "6",
+          "level": 3,
+          "line": "The Stadium Hotel",
+          "anchor": "The_Stadium_Hotel"
+        },
+        {
+          "index": "7",
+          "level": 2,
+          "line": "International matches",
+          "anchor": "International_matches"
+        },
+        {
+          "index": "8",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "9",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Inside_the_Kasarani_Stadium.jpg",
+        "Star_full.svg",
+        "Question_book-new.svg",
+        "Flag_of_Malawi.svg",
+        "Flag_of_Ethiopia.svg",
+        "Flag_of_Togo_(3-2).svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Inside the Kasarani Stadium.jpg",
+          "fileName": "Inside the Kasarani Stadium.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Inside_the_Kasarani_Stadium.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Inside_the_Kasarani_Stadium.jpg/250px-Inside_the_Kasarani_Stadium.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Inside_the_Kasarani_Stadium.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Inside_the_Kasarani_Stadium.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Inside_the_Kasarani_Stadium.jpg/500px-Inside_the_Kasarani_Stadium.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 141,
+          "originalWidth": 3840,
+          "originalHeight": 2160,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "CAF"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/20px-Star_full.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Star_full.svg/40px-Star_full.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 11,
+          "height": 11,
+          "originalWidth": 108,
+          "originalHeight": 110,
+          "fileType": null,
+          "alt": "Star",
+          "title": null,
+          "caption": "CAF"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Moi_International_Sports_Centre&revid=1360392437&groups=_8f729974af77a99bc2ca360db137282e764520ba&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Moi_International_Sports_Centre&revid=1360392437&groups=_8f729974af77a99bc2ca360db137282e764520ba&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Moi International Sports Centre Kasarani, the \"Home of Heroes\""
+        },
+        {
+          "fileTitle": "File:Question book-new.svg",
+          "fileName": "Question book-new.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 39,
+          "originalWidth": 512,
+          "originalHeight": 399,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/40px-Flag_of_Malawi.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/60px-Flag_of_Malawi.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/40px-Flag_of_Ethiopia.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/60px-Flag_of_Ethiopia.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Togo_%283-2%29.svg/40px-Flag_of_Togo_%283-2%29.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Togo_%283-2%29.svg/60px-Flag_of_Togo_%283-2%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 750,
+          "originalHeight": 500,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Africa"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 24,
+          "rowText": "Kenya\nNairobi\nKasarani Indoor Arena\n5,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Kenya\" title=\"Kenya\">Kenya</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Nairobi\" title=\"Nairobi\">Nairobi</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Moi_International_Sports_Centre\" title=\"Moi International Sports Centre\">Kasarani Indoor Arena</a>\n</td>\n<td align=\"center\">\n</td>\n<td align=\"right\">5,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 24,
+              "cell": {
+                "text": "Kenya",
+                "lines": [
+                  "Kenya"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Kenya",
+                    "title": "Kenya",
+                    "wikiTitle": "Kenya",
+                    "href": "https://en.wikipedia.org/wiki/Kenya",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 24,
+              "cell": {
+                "text": "Nairobi",
+                "lines": [
+                  "Nairobi"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Nairobi",
+                    "title": "Nairobi",
+                    "wikiTitle": "Nairobi",
+                    "href": "https://en.wikipedia.org/wiki/Nairobi",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 24,
+              "cell": {
+                "text": "Kasarani Indoor Arena",
+                "lines": [
+                  "Kasarani Indoor Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Kasarani Indoor Arena",
+                    "title": "Moi International Sports Centre",
+                    "wikiTitle": "Moi International Sports Centre",
+                    "href": "https://en.wikipedia.org/wiki/Moi_International_Sports_Centre",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 24,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 24,
+              "cell": {
+                "text": "5,000",
+                "lines": [
+                  "5,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 24,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Kasarani Indoor Arena",
+            "lines": [
+              "Kasarani Indoor Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Kasarani Indoor Arena",
+                "title": "Moi International Sports Centre",
+                "wikiTitle": "Moi International Sports Centre",
+                "href": "https://en.wikipedia.org/wiki/Moi_International_Sports_Centre",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 32,
+          "rowText": "Kenya\nNairobi\nKasarani Indoor Arena\n1987\n5,000",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Kenya\" title=\"Kenya\">Kenya</a>\n</td>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Nairobi\" title=\"Nairobi\">Nairobi</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Moi_International_Sports_Centre\" title=\"Moi International Sports Centre\">Kasarani Indoor Arena</a>\n</td>\n<td align=\"center\">1987\n</td>\n<td align=\"center\">5,000\n</td>\n<td>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 32,
+              "cell": {
+                "text": "Kenya",
+                "lines": [
+                  "Kenya"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Kenya",
+                    "title": "Kenya",
+                    "wikiTitle": "Kenya",
+                    "href": "https://en.wikipedia.org/wiki/Kenya",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 32,
+              "cell": {
+                "text": "Nairobi",
+                "lines": [
+                  "Nairobi"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Nairobi",
+                    "title": "Nairobi",
+                    "wikiTitle": "Nairobi",
+                    "href": "https://en.wikipedia.org/wiki/Nairobi",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 32,
+              "cell": {
+                "text": "Kasarani Indoor Arena",
+                "lines": [
+                  "Kasarani Indoor Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Kasarani Indoor Arena",
+                    "title": "Moi International Sports Centre",
+                    "wikiTitle": "Moi International Sports Centre",
+                    "href": "https://en.wikipedia.org/wiki/Moi_International_Sports_Centre",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 32,
+              "cell": {
+                "text": "1987",
+                "lines": [
+                  "1987"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 32,
+              "cell": {
+                "text": "5,000",
+                "lines": [
+                  "5,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 32,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 32,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Kasarani Indoor Arena",
+            "lines": [
+              "Kasarani Indoor Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Kasarani Indoor Arena",
+                "title": "Moi International Sports Centre",
+                "wikiTitle": "Moi International Sports Centre",
+                "href": "https://en.wikipedia.org/wiki/Moi_International_Sports_Centre",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T11:41:31.493Z"
+    }
+  ]
+}
