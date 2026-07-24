@@ -1,0 +1,577 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Côte d'Ivoire",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 2,
+    "sourceTypeCounts": {
+      "world_master_list": 1,
+      "country_or_region_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-6574122",
+      "pageId": 6574122,
+      "revisionId": null,
+      "title": "Palais des Sports de Treichville",
+      "displayTitle": "Palais des Sports de Treichville",
+      "url": "https://en.wikipedia.org/wiki/Palais_des_Sports_de_Treichville",
+      "wikidataItem": "Q3361150",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3361150",
+      "aliases": [
+        "Palais des Sports de Treichville"
+      ],
+      "requestedTitles": [
+        "Palais des Sports de Treichville"
+      ],
+      "sourceLinkTexts": [
+        "Palais des Sports de Treichville"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Palais_des_Sports_de_Treichville"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 5.29806,
+        "longitude": -4.00528,
+        "raw": "5.29806; -4.00528"
+      },
+      "leadParagraphs": [],
+      "infobox": null,
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "All_articles_with_dead_external_links",
+        "Articles_with_dead_external_links_from_March_2018",
+        "Articles_with_permanently_dead_external_links",
+        "All_stub_articles",
+        "West_African_sports_venue_stubs",
+        "Ivorian_sport_stubs",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Ivory_Coast",
+        "Sports_venues_in_Abidjan",
+        "Handball_venues_in_Ivory_Coast",
+        "Basketball_venues_in_Ivory_Coast",
+        "Volleyball_venues_in_Ivory_Coast",
+        "Boxing_venues_in_Ivory_Coast",
+        "Badminton_venues",
+        "Treichville"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Palais_des_Sports_de_Treichville&params=05_17_53_N_04_00_19_W_type:landmark",
+        "http://news.abidjan.net/article/?n=287589"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Cipalaisdessports.JPG",
+        "Flag_of_Côte_d'Ivoire.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Cipalaisdessports.JPG",
+          "fileName": "Cipalaisdessports.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Cipalaisdessports.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cipalaisdessports.JPG/250px-Cipalaisdessports.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cipalaisdessports.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Cipalaisdessports.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cipalaisdessports.JPG/500px-Cipalaisdessports.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 174,
+          "originalWidth": 3543,
+          "originalHeight": 2467,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Palais des Sports de Treichville in 2008."
+        },
+        {
+          "fileTitle": "File:Flag of Côte d'Ivoire.svg",
+          "fileName": "Flag of Côte d'Ivoire.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_C%C3%B4te_d%27Ivoire.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/40px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_C%C3%B4te_d'Ivoire.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_C%C3%B4te_d'Ivoire.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/60px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 512,
+          "originalHeight": 341,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Africa"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 19,
+          "rowText": "Côte d'Ivoire\nAbidjan\nPalais des Sports de Treichville\n3,500",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/C%C3%B4te_d%27Ivoire\" class=\"mw-redirect\" title=\"Côte d'Ivoire\">Côte d'Ivoire</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Abidjan\" title=\"Abidjan\">Abidjan</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Palais_des_Sports_de_Treichville\" title=\"Palais des Sports de Treichville\">Palais des Sports de Treichville</a>\n</td>\n<td>\n</td>\n<td align=\"right\">3,500\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 19,
+              "cell": {
+                "text": "Côte d'Ivoire",
+                "lines": [
+                  "Côte d'Ivoire"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Côte d'Ivoire",
+                    "title": "Côte d'Ivoire",
+                    "wikiTitle": "Côte d'Ivoire",
+                    "href": "https://en.wikipedia.org/wiki/C%C3%B4te_d%27Ivoire",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 19,
+              "cell": {
+                "text": "Abidjan",
+                "lines": [
+                  "Abidjan"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Abidjan",
+                    "title": "Abidjan",
+                    "wikiTitle": "Abidjan",
+                    "href": "https://en.wikipedia.org/wiki/Abidjan",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 19,
+              "cell": {
+                "text": "Palais des Sports de Treichville",
+                "lines": [
+                  "Palais des Sports de Treichville"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Palais des Sports de Treichville",
+                    "title": "Palais des Sports de Treichville",
+                    "wikiTitle": "Palais des Sports de Treichville",
+                    "href": "https://en.wikipedia.org/wiki/Palais_des_Sports_de_Treichville",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 19,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 19,
+              "cell": {
+                "text": "3,500",
+                "lines": [
+                  "3,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 19,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Palais des Sports de Treichville",
+            "lines": [
+              "Palais des Sports de Treichville"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Palais des Sports de Treichville",
+                "title": "Palais des Sports de Treichville",
+                "wikiTitle": "Palais des Sports de Treichville",
+                "href": "https://en.wikipedia.org/wiki/Palais_des_Sports_de_Treichville",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 31,
+          "rowText": "Ivory Coast\nAbidjan\nPalais des Sports de Treichville\n1978\n3,500",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Ivory_Coast\" title=\"Ivory Coast\">Ivory Coast</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Abidjan\" title=\"Abidjan\">Abidjan</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Palais_des_Sports_de_Treichville\" title=\"Palais des Sports de Treichville\">Palais des Sports de Treichville</a>\n</td>\n<td align=\"center\">1978\n</td>\n<td align=\"center\">3,500\n</td>\n<td><span><a href=\"https://en.wikipedia.org/wiki/File:Cipalaisdessports.JPG\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cipalaisdessports.JPG/250px-Cipalaisdessports.JPG\" width=\"150\" height=\"104\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cipalaisdessports.JPG/330px-Cipalaisdessports.JPG 2x\" data-file-width=\"3543\" data-file-height=\"2467\"></a></span>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 31,
+              "cell": {
+                "text": "Ivory Coast",
+                "lines": [
+                  "Ivory Coast"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ivory Coast",
+                    "title": "Ivory Coast",
+                    "wikiTitle": "Ivory Coast",
+                    "href": "https://en.wikipedia.org/wiki/Ivory_Coast",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 31,
+              "cell": {
+                "text": "Abidjan",
+                "lines": [
+                  "Abidjan"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Abidjan",
+                    "title": "Abidjan",
+                    "wikiTitle": "Abidjan",
+                    "href": "https://en.wikipedia.org/wiki/Abidjan",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 31,
+              "cell": {
+                "text": "Palais des Sports de Treichville",
+                "lines": [
+                  "Palais des Sports de Treichville"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Palais des Sports de Treichville",
+                    "title": "Palais des Sports de Treichville",
+                    "wikiTitle": "Palais des Sports de Treichville",
+                    "href": "https://en.wikipedia.org/wiki/Palais_des_Sports_de_Treichville",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 31,
+              "cell": {
+                "text": "1978",
+                "lines": [
+                  "1978"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 31,
+              "cell": {
+                "text": "3,500",
+                "lines": [
+                  "3,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 31,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [
+                  {
+                    "text": "",
+                    "title": "File:Cipalaisdessports.JPG",
+                    "wikiTitle": "File:Cipalaisdessports.JPG",
+                    "href": "https://en.wikipedia.org/wiki/File:Cipalaisdessports.JPG",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": "File:Cipalaisdessports.JPG",
+                    "fileName": "Cipalaisdessports.JPG",
+                    "kind": "photo",
+                    "filePageUrl": "https://en.wikipedia.org/wiki/File:Cipalaisdessports.JPG",
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cipalaisdessports.JPG/250px-Cipalaisdessports.JPG",
+                    "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cipalaisdessports.JPG",
+                    "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Cipalaisdessports.JPG",
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cipalaisdessports.JPG/330px-Cipalaisdessports.JPG",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 150,
+                    "height": 104,
+                    "originalWidth": 3543,
+                    "originalHeight": 2467,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 31,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": "File:Cipalaisdessports.JPG",
+              "fileName": "Cipalaisdessports.JPG",
+              "kind": "photo",
+              "filePageUrl": "https://en.wikipedia.org/wiki/File:Cipalaisdessports.JPG",
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cipalaisdessports.JPG/250px-Cipalaisdessports.JPG",
+              "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cipalaisdessports.JPG",
+              "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Cipalaisdessports.JPG",
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cipalaisdessports.JPG/330px-Cipalaisdessports.JPG",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 150,
+              "height": 104,
+              "originalWidth": 3543,
+              "originalHeight": 2467,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Palais des Sports de Treichville",
+            "lines": [
+              "Palais des Sports de Treichville"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Palais des Sports de Treichville",
+                "title": "Palais des Sports de Treichville",
+                "wikiTitle": "Palais des Sports de Treichville",
+                "href": "https://en.wikipedia.org/wiki/Palais_des_Sports_de_Treichville",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T11:41:29.868Z"
+    }
+  ]
+}

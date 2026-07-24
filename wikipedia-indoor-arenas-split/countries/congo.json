@@ -1,0 +1,782 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Congo",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 3,
+    "sourceTypeCounts": {
+      "world_master_list": 1,
+      "country_or_region_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-47909866",
+      "pageId": 47909866,
+      "revisionId": null,
+      "title": "Palais des Sports (Kintélé)",
+      "displayTitle": "Palais des Sports (Kintélé)",
+      "url": "https://en.wikipedia.org/wiki/Palais_des_Sports_(Kint%C3%A9l%C3%A9)",
+      "wikidataItem": "Q21074128",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q21074128",
+      "aliases": [
+        "Palais des Sports (Kintélé)",
+        "Palais des Sports Kintélé"
+      ],
+      "requestedTitles": [
+        "Palais des Sports (Kintélé)"
+      ],
+      "sourceLinkTexts": [
+        "Palais des Sports Kintélé"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Palais_des_Sports_(Kint%C3%A9l%C3%A9)"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": null,
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Palais des Sports (Kintélé)",
+        "groups": [
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Brazzaville, Republic of the Congo",
+            "lines": [
+              "Brazzaville, Republic of the Congo"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Brazzaville\" title=\"Brazzaville\">Brazzaville</a>, <a href=\"https://en.wikipedia.org/wiki/Republic_of_the_Congo\" title=\"Republic of the Congo\">Republic of the Congo</a></td>",
+            "links": [
+              {
+                "text": "Brazzaville",
+                "title": "Brazzaville",
+                "wikiTitle": "Brazzaville",
+                "href": "https://en.wikipedia.org/wiki/Brazzaville",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Republic of the Congo",
+                "title": "Republic of the Congo",
+                "wikiTitle": "Republic of the Congo",
+                "href": "https://en.wikipedia.org/wiki/Republic_of_the_Congo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "10,134",
+            "lines": [
+              "10,134"
+            ],
+            "html": "<td class=\"infobox-data\">10,134</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "2015 African Games",
+            "lines": [
+              "2015 African Games"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/2015_African_Games\" title=\"2015 African Games\">2015 African Games</a></td>",
+            "links": [
+              {
+                "text": "2015 African Games",
+                "title": "2015 African Games",
+                "wikiTitle": "2015 African Games",
+                "href": "https://en.wikipedia.org/wiki/2015_African_Games",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Brazzaville, Republic of the Congo",
+              "lines": [
+                "Brazzaville, Republic of the Congo"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Brazzaville\" title=\"Brazzaville\">Brazzaville</a>, <a href=\"https://en.wikipedia.org/wiki/Republic_of_the_Congo\" title=\"Republic of the Congo\">Republic of the Congo</a></td>",
+              "links": [
+                {
+                  "text": "Brazzaville",
+                  "title": "Brazzaville",
+                  "wikiTitle": "Brazzaville",
+                  "href": "https://en.wikipedia.org/wiki/Brazzaville",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Republic of the Congo",
+                  "title": "Republic of the Congo",
+                  "wikiTitle": "Republic of the Congo",
+                  "href": "https://en.wikipedia.org/wiki/Republic_of_the_Congo",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "10,134",
+              "lines": [
+                "10,134"
+              ],
+              "html": "<td class=\"infobox-data\">10,134</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "2015 African Games",
+              "lines": [
+                "2015 African Games"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/2015_African_Games\" title=\"2015 African Games\">2015 African Games</a></td>",
+              "links": [
+                {
+                  "text": "2015 African Games",
+                  "title": "2015 African Games",
+                  "wikiTitle": "2015 African Games",
+                  "href": "https://en.wikipedia.org/wiki/2015_African_Games",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Brazzaville, Republic of the Congo"
+          ],
+          "capacity": [
+            "10,134"
+          ],
+          "tenants": [
+            "2015 African Games"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "10,134"
+        ],
+        "tenants": [
+          "2015 African Games"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Palais_des_Sports_%28Kint%C3%A9l%C3%A9%29&revid=1350708303&groups=_273985fed98ba53b887e49aa70bbdf890b12edc8&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Palais_des_Sports_%28Kint%C3%A9l%C3%A9%29&revid=1350708303&groups=_273985fed98ba53b887e49aa70bbdf890b12edc8&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Palais des Sports (Kintélé)"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Palais des Sports (Kintélé)</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_273985fed98ba53b887e49aa70bbdf890b12edc8&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Palais_des_Sports_%28Kint%C3%A9l%C3%A9%29&amp;revid=1350708303&amp;groups=_273985fed98ba53b887e49aa70bbdf890b12edc8&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Palais_des_Sports_%28Kint%C3%A9l%C3%A9%29&amp;revid=1350708303&amp;groups=_273985fed98ba53b887e49aa70bbdf890b12edc8&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Palais des Sports (Kintélé)</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Brazzaville\" title=\"Brazzaville\">Brazzaville</a>, <a href=\"https://en.wikipedia.org/wiki/Republic_of_the_Congo\" title=\"Republic of the Congo\">Republic of the Congo</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">10,134</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/2015_African_Games\" title=\"2015 African Games\">2015 African Games</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Articles_lacking_sources_from_April_2026",
+        "All_articles_lacking_sources",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Athletics_venues_in_the_Republic_of_the_Congo",
+        "Sports_venues_in_the_Republic_of_the_Congo",
+        "National_stadiums",
+        "Venues_of_the_African_Games",
+        "Buildings_and_structures_in_Brazzaville",
+        "Handball_venues_in_the_Republic_of_the_Congo",
+        "Sport_in_Brazzaville",
+        "Indoor_arenas_in_the_Republic_of_the_Congo",
+        "All_stub_articles",
+        "Central_Africa_sports_venue_stubs",
+        "Republic_of_the_Congo_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://www.google.com/search?as_eq=wikipedia&q=%22Palais+des+Sports%22+Kint%C3%A9l%C3%A9",
+        "https://www.google.com/search?tbm=nws&q=%22Palais+des+Sports%22+Kint%C3%A9l%C3%A9+-wikipedia&tbs=ar:1",
+        "https://www.google.com/search?&q=%22Palais+des+Sports%22+Kint%C3%A9l%C3%A9&tbs=bkt:s&tbm=bks",
+        "https://www.google.com/search?tbs=bks:1&q=%22Palais+des+Sports%22+Kint%C3%A9l%C3%A9+-wikipedia",
+        "https://scholar.google.com/scholar?q=%22Palais+des+Sports%22+Kint%C3%A9l%C3%A9",
+        "https://www.jstor.org/action/doBasicSearch?Query=%22Palais+des+Sports%22+Kint%C3%A9l%C3%A9&acc=on&wc=on"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Question_book-new.svg",
+        "Flag_of_the_Republic_of_the_Congo.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Question book-new.svg",
+          "fileName": "Question book-new.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 39,
+          "originalWidth": 512,
+          "originalHeight": 399,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Palais_des_Sports_%28Kint%C3%A9l%C3%A9%29&revid=1350708303&groups=_273985fed98ba53b887e49aa70bbdf890b12edc8&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Palais_des_Sports_%28Kint%C3%A9l%C3%A9%29&revid=1350708303&groups=_273985fed98ba53b887e49aa70bbdf890b12edc8&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Palais des Sports (Kintélé)"
+        },
+        {
+          "fileTitle": "File:Flag of the Republic of the Congo.svg",
+          "fileName": "Flag of the Republic of the Congo.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_the_Republic_of_the_Congo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/40px-Flag_of_the_Republic_of_the_Congo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_the_Republic_of_the_Congo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_the_Republic_of_the_Congo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/60px-Flag_of_the_Republic_of_the_Congo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Africa"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 18,
+          "rowText": "Congo\nBrazzaville\nPalais des Sports Kintélé\n10,134\n2015 African Games",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Republic_of_Congo\" class=\"mw-redirect\" title=\"Republic of Congo\">Congo</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Brazzaville\" title=\"Brazzaville\">Brazzaville</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Palais_des_Sports_(Kint%C3%A9l%C3%A9)\" title=\"Palais des Sports (Kintélé)\">Palais des Sports Kintélé</a>\n</td>\n<td align=\"center\">\n</td>\n<td align=\"right\">10,134\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/2015_African_Games\" title=\"2015 African Games\">2015 African Games</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 18,
+              "cell": {
+                "text": "Congo",
+                "lines": [
+                  "Congo"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Congo",
+                    "title": "Republic of Congo",
+                    "wikiTitle": "Republic of Congo",
+                    "href": "https://en.wikipedia.org/wiki/Republic_of_Congo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 18,
+              "cell": {
+                "text": "Brazzaville",
+                "lines": [
+                  "Brazzaville"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Brazzaville",
+                    "title": "Brazzaville",
+                    "wikiTitle": "Brazzaville",
+                    "href": "https://en.wikipedia.org/wiki/Brazzaville",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 18,
+              "cell": {
+                "text": "Palais des Sports Kintélé",
+                "lines": [
+                  "Palais des Sports Kintélé"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Palais des Sports Kintélé",
+                    "title": "Palais des Sports (Kintélé)",
+                    "wikiTitle": "Palais des Sports (Kintélé)",
+                    "href": "https://en.wikipedia.org/wiki/Palais_des_Sports_(Kint%C3%A9l%C3%A9)",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 18,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 18,
+              "cell": {
+                "text": "10,134",
+                "lines": [
+                  "10,134"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 18,
+              "cell": {
+                "text": "2015 African Games",
+                "lines": [
+                  "2015 African Games"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "2015 African Games",
+                    "title": "2015 African Games",
+                    "wikiTitle": "2015 African Games",
+                    "href": "https://en.wikipedia.org/wiki/2015_African_Games",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Palais des Sports Kintélé",
+            "lines": [
+              "Palais des Sports Kintélé"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Palais des Sports Kintélé",
+                "title": "Palais des Sports (Kintélé)",
+                "wikiTitle": "Palais des Sports (Kintélé)",
+                "href": "https://en.wikipedia.org/wiki/Palais_des_Sports_(Kint%C3%A9l%C3%A9)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 18,
+          "rowText": "Congo\nBrazzaville\nPalais des Sports Kintélé\n2015\n10,134",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Republic_of_Congo\" class=\"mw-redirect\" title=\"Republic of Congo\">Congo</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Brazzaville\" title=\"Brazzaville\">Brazzaville</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Palais_des_Sports_(Kint%C3%A9l%C3%A9)\" title=\"Palais des Sports (Kintélé)\">Palais des Sports Kintélé</a>\n</td>\n<td align=\"center\">2015\n</td>\n<td align=\"center\">10,134\n</td>\n<td>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 18,
+              "cell": {
+                "text": "Congo",
+                "lines": [
+                  "Congo"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Congo",
+                    "title": "Republic of Congo",
+                    "wikiTitle": "Republic of Congo",
+                    "href": "https://en.wikipedia.org/wiki/Republic_of_Congo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 18,
+              "cell": {
+                "text": "Brazzaville",
+                "lines": [
+                  "Brazzaville"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Brazzaville",
+                    "title": "Brazzaville",
+                    "wikiTitle": "Brazzaville",
+                    "href": "https://en.wikipedia.org/wiki/Brazzaville",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 18,
+              "cell": {
+                "text": "Palais des Sports Kintélé",
+                "lines": [
+                  "Palais des Sports Kintélé"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Palais des Sports Kintélé",
+                    "title": "Palais des Sports (Kintélé)",
+                    "wikiTitle": "Palais des Sports (Kintélé)",
+                    "href": "https://en.wikipedia.org/wiki/Palais_des_Sports_(Kint%C3%A9l%C3%A9)",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 18,
+              "cell": {
+                "text": "2015",
+                "lines": [
+                  "2015"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 18,
+              "cell": {
+                "text": "10,134",
+                "lines": [
+                  "10,134"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 18,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 18,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Palais des Sports Kintélé",
+            "lines": [
+              "Palais des Sports Kintélé"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Palais des Sports Kintélé",
+                "title": "Palais des Sports (Kintélé)",
+                "wikiTitle": "Palais des Sports (Kintélé)",
+                "href": "https://en.wikipedia.org/wiki/Palais_des_Sports_(Kint%C3%A9l%C3%A9)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T11:41:29.737Z"
+    }
+  ]
+}

@@ -1,0 +1,2346 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Dominican Republic",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 2
+  },
+  "stats": {
+    "arenaCount": 2,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 4,
+    "sourceTypeCounts": {
+      "world_master_list": 2
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-5218940",
+      "pageId": 5218940,
+      "revisionId": null,
+      "title": "Arena BanReservas",
+      "displayTitle": "Arena BanReservas",
+      "url": "https://en.wikipedia.org/wiki/Arena_BanReservas",
+      "wikidataItem": "Q7126323",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7126323",
+      "aliases": [
+        "Palacio de los Deportes Virgilio Travieso Soto",
+        "Palacio de los Deportes Virgilio Travieso Soto (1987-2026)",
+        "Arena BanReservas"
+      ],
+      "requestedTitles": [
+        "Palacio de los Deportes Virgilio Travieso Soto"
+      ],
+      "sourceLinkTexts": [
+        "Palacio de los Deportes Virgilio Travieso Soto"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Palacio_de_los_Deportes_Virgilio_Travieso_Soto"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 18.474935,
+        "longitude": -69.918789,
+        "raw": "18.474935; -69.918789"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Arena BanReservas",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Arena BanReservas Virgilio Travieso Soto",
+            "lines": [
+              "Arena BanReservas Virgilio Travieso Soto"
+            ],
+            "html": "<td class=\"infobox-data\">Arena BanReservas Virgilio Travieso Soto</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Former names",
+            "key": "former_names",
+            "group": null,
+            "text": "Palacio de los Deportes Virgilio Travieso Soto (1987-2026)",
+            "lines": [
+              "Palacio de los Deportes Virgilio Travieso Soto (1987-2026)"
+            ],
+            "html": "<td class=\"infobox-data nickname\">Palacio de los Deportes Virgilio Travieso Soto (1987-2026)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "27 de Febrero Av\nSanto Domingo\nDominican Republic",
+            "lines": [
+              "27 de Febrero Av",
+              "Santo Domingo",
+              "Dominican Republic"
+            ],
+            "html": "<td class=\"infobox-data label\">27 de Febrero Av<br><a href=\"https://en.wikipedia.org/wiki/Santo_Domingo\" title=\"Santo Domingo\">Santo Domingo</a><br>Dominican Republic<span data-plural=\"1\"></span></td>",
+            "links": [
+              {
+                "text": "Santo Domingo",
+                "title": "Santo Domingo",
+                "wikiTitle": "Santo Domingo",
+                "href": "https://en.wikipedia.org/wiki/Santo_Domingo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "18°28′30″N 69°55′08″W﻿ / ﻿18.474935°N 69.918789°W﻿ / 18.474935; -69.918789",
+            "lines": [
+              "18°28′30″N 69°55′08″W﻿ / ﻿18.474935°N 69.918789°W﻿ / 18.474935; -69.918789"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Arena_BanReservas&amp;params=18.474935_N_69.918789_W_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">18°28′30″N</span> <span class=\"longitude\">69°55′08″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">18.474935°N 69.918789°W</span><span>﻿ / <span class=\"geo\">18.474935; -69.918789</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "18°28′30″N 69°55′08″W﻿ / ﻿18.474935°N 69.918789°W﻿ / 18.474935; -69.918789",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Arena_BanReservas&params=18.474935_N_69.918789_W_",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Elevation",
+            "key": "elevation",
+            "group": null,
+            "text": "55 m (180 ft)",
+            "lines": [
+              "55 m (180 ft)"
+            ],
+            "html": "<td class=\"infobox-data\">55&nbsp;m (180&nbsp;ft)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Dominican Government",
+            "lines": [
+              "Dominican Government"
+            ],
+            "html": "<td class=\"infobox-data agent\">Dominican Government</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Arena Banreservas management committee",
+            "lines": [
+              "Arena Banreservas management committee"
+            ],
+            "html": "<td class=\"infobox-data agent\">Arena Banreservas management committee</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Seating type",
+            "key": "seating_type",
+            "group": null,
+            "text": "reserved seating",
+            "lines": [
+              "reserved seating"
+            ],
+            "html": "<td class=\"infobox-data\">reserved seating</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "8,270\n7,400 (Concerts)",
+            "lines": [
+              "8,270",
+              "7,400 (Concerts)"
+            ],
+            "html": "<td class=\"infobox-data\">8,270<br>7,400 (Concerts)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Executive suites",
+            "key": "executive_suites",
+            "group": null,
+            "text": "7",
+            "lines": [
+              "7"
+            ],
+            "html": "<td class=\"infobox-data\">7</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "group": null,
+            "text": "Stadium",
+            "lines": [
+              "Stadium"
+            ],
+            "html": "<td class=\"infobox-data category\">Stadium</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Roof",
+            "key": "roof",
+            "group": null,
+            "text": "domed",
+            "lines": [
+              "domed"
+            ],
+            "html": "<td class=\"infobox-data\">domed</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Surface",
+            "key": "surface",
+            "group": null,
+            "text": "Parquet Floor",
+            "lines": [
+              "Parquet Floor"
+            ],
+            "html": "<td class=\"infobox-data\">Parquet Floor</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Scoreboard",
+            "key": "scoreboard",
+            "group": null,
+            "text": "Central Main LED HD video board 4 sides\nSecond floor fascia 360° LED Ribbon Board\nLED video boards",
+            "lines": [
+              "Central Main LED HD video board 4 sides",
+              "Second floor fascia 360° LED Ribbon Board",
+              "LED video boards"
+            ],
+            "html": "<td class=\"infobox-data\">Central Main LED HD video board 4 sides<br>Second floor fascia 360° LED Ribbon Board<br>LED video boards</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Screens",
+            "key": "screens",
+            "group": null,
+            "text": "2",
+            "lines": [
+              "2"
+            ],
+            "html": "<td class=\"infobox-data\">2</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Height",
+            "key": "height",
+            "group": null,
+            "text": "37 m (121 ft)",
+            "lines": [
+              "37 m (121 ft)"
+            ],
+            "html": "<td class=\"infobox-data\">37&nbsp;m (121&nbsp;ft)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Field shape",
+            "key": "field_shape",
+            "group": null,
+            "text": "elliptical",
+            "lines": [
+              "elliptical"
+            ],
+            "html": "<td class=\"infobox-data\">elliptical</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Parking",
+            "key": "parking",
+            "group": null,
+            "text": "Yes",
+            "lines": [
+              "Yes"
+            ],
+            "html": "<td class=\"infobox-data\">Yes</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "17 February 1974 (1974-02-17)",
+            "lines": [
+              "17 February 1974 (1974-02-17)"
+            ],
+            "html": "<td class=\"infobox-data\">17&nbsp;February&nbsp;1974<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1974-02-17</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "24 June 2026 (2026-06-24)",
+            "lines": [
+              "24 June 2026 (2026-06-24)"
+            ],
+            "html": "<td class=\"infobox-data\">24&nbsp;June&nbsp;2026<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2026-06-24</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "RD$3.454 millionRenovation (1998):\nRD$25 millionRenovation (2010):\nRD$9 millionRenovation (2019):\nRD$60 millionRenovation (2026):\nRD$1,000 million",
+            "lines": [
+              "RD$3.454 millionRenovation (1998):",
+              "RD$25 millionRenovation (2010):",
+              "RD$9 millionRenovation (2019):",
+              "RD$60 millionRenovation (2026):",
+              "RD$1,000 million"
+            ],
+            "html": "<td class=\"infobox-data\"><div class=\"plainlist\"><ul><li><a href=\"https://en.wikipedia.org/wiki/Dominican_peso\" title=\"Dominican peso\">RD$</a>3.454&nbsp;million</li><li><b>Renovation</b> (1998):<br>RD$25&nbsp;million</li><li><b>Renovation</b> (2010):<br>RD$9&nbsp;million</li><li><b>Renovation</b> (2019):<br>RD$60&nbsp;million</li><li><b>Renovation</b> (2026):<br>RD$1,000&nbsp;million</li></ul></div></td>",
+            "links": [
+              {
+                "text": "RD$",
+                "title": "Dominican peso",
+                "wikiTitle": "Dominican peso",
+                "href": "https://en.wikipedia.org/wiki/Dominican_peso",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "General contractor",
+            "key": "general_contractor",
+            "group": "Construction",
+            "text": "CONT-CIP",
+            "lines": [
+              "CONT-CIP"
+            ],
+            "html": "<td class=\"infobox-data\">CONT-CIP</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Dominican Republic national basketball team\nLeones de Santo Domingo (LNB)\nTitanes del Distrito (LNB)",
+            "lines": [
+              "Dominican Republic national basketball team",
+              "Leones de Santo Domingo (LNB)",
+              "Titanes del Distrito (LNB)"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Dominican_Republic_national_basketball_team\" class=\"mw-redirect\" title=\"Dominican Republic national basketball team\">Dominican Republic national basketball team</a><br> <a href=\"https://en.wikipedia.org/wiki/Leones_de_Santo_Domingo\" title=\"Leones de Santo Domingo\">Leones de Santo Domingo</a> (<a href=\"https://en.wikipedia.org/wiki/Liga_Nacional_de_Baloncesto\" title=\"Liga Nacional de Baloncesto\">LNB</a>)<br> <a href=\"https://en.wikipedia.org/wiki/Titanes_del_Distrito\" title=\"Titanes del Distrito\">Titanes del Distrito</a> (<a href=\"https://en.wikipedia.org/wiki/Liga_Nacional_de_Baloncesto\" title=\"Liga Nacional de Baloncesto\">LNB</a>)</td>",
+            "links": [
+              {
+                "text": "Dominican Republic national basketball team",
+                "title": "Dominican Republic national basketball team",
+                "wikiTitle": "Dominican Republic national basketball team",
+                "href": "https://en.wikipedia.org/wiki/Dominican_Republic_national_basketball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Leones de Santo Domingo",
+                "title": "Leones de Santo Domingo",
+                "wikiTitle": "Leones de Santo Domingo",
+                "href": "https://en.wikipedia.org/wiki/Leones_de_Santo_Domingo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "LNB",
+                "title": "Liga Nacional de Baloncesto",
+                "wikiTitle": "Liga Nacional de Baloncesto",
+                "href": "https://en.wikipedia.org/wiki/Liga_Nacional_de_Baloncesto",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Titanes del Distrito",
+                "title": "Titanes del Distrito",
+                "wikiTitle": "Titanes del Distrito",
+                "href": "https://en.wikipedia.org/wiki/Titanes_del_Distrito",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Arena BanReservas Virgilio Travieso Soto",
+              "lines": [
+                "Arena BanReservas Virgilio Travieso Soto"
+              ],
+              "html": "<td class=\"infobox-data\">Arena BanReservas Virgilio Travieso Soto</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "former_names": [
+            {
+              "label": "Former names",
+              "key": "former_names",
+              "group": null,
+              "text": "Palacio de los Deportes Virgilio Travieso Soto (1987-2026)",
+              "lines": [
+                "Palacio de los Deportes Virgilio Travieso Soto (1987-2026)"
+              ],
+              "html": "<td class=\"infobox-data nickname\">Palacio de los Deportes Virgilio Travieso Soto (1987-2026)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "27 de Febrero Av\nSanto Domingo\nDominican Republic",
+              "lines": [
+                "27 de Febrero Av",
+                "Santo Domingo",
+                "Dominican Republic"
+              ],
+              "html": "<td class=\"infobox-data label\">27 de Febrero Av<br><a href=\"https://en.wikipedia.org/wiki/Santo_Domingo\" title=\"Santo Domingo\">Santo Domingo</a><br>Dominican Republic<span data-plural=\"1\"></span></td>",
+              "links": [
+                {
+                  "text": "Santo Domingo",
+                  "title": "Santo Domingo",
+                  "wikiTitle": "Santo Domingo",
+                  "href": "https://en.wikipedia.org/wiki/Santo_Domingo",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "18°28′30″N 69°55′08″W﻿ / ﻿18.474935°N 69.918789°W﻿ / 18.474935; -69.918789",
+              "lines": [
+                "18°28′30″N 69°55′08″W﻿ / ﻿18.474935°N 69.918789°W﻿ / 18.474935; -69.918789"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Arena_BanReservas&amp;params=18.474935_N_69.918789_W_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">18°28′30″N</span> <span class=\"longitude\">69°55′08″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">18.474935°N 69.918789°W</span><span>﻿ / <span class=\"geo\">18.474935; -69.918789</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "18°28′30″N 69°55′08″W﻿ / ﻿18.474935°N 69.918789°W﻿ / 18.474935; -69.918789",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Arena_BanReservas&params=18.474935_N_69.918789_W_",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "elevation": [
+            {
+              "label": "Elevation",
+              "key": "elevation",
+              "group": null,
+              "text": "55 m (180 ft)",
+              "lines": [
+                "55 m (180 ft)"
+              ],
+              "html": "<td class=\"infobox-data\">55&nbsp;m (180&nbsp;ft)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Dominican Government",
+              "lines": [
+                "Dominican Government"
+              ],
+              "html": "<td class=\"infobox-data agent\">Dominican Government</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Arena Banreservas management committee",
+              "lines": [
+                "Arena Banreservas management committee"
+              ],
+              "html": "<td class=\"infobox-data agent\">Arena Banreservas management committee</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "seating_type": [
+            {
+              "label": "Seating type",
+              "key": "seating_type",
+              "group": null,
+              "text": "reserved seating",
+              "lines": [
+                "reserved seating"
+              ],
+              "html": "<td class=\"infobox-data\">reserved seating</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "8,270\n7,400 (Concerts)",
+              "lines": [
+                "8,270",
+                "7,400 (Concerts)"
+              ],
+              "html": "<td class=\"infobox-data\">8,270<br>7,400 (Concerts)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "executive_suites": [
+            {
+              "label": "Executive suites",
+              "key": "executive_suites",
+              "group": null,
+              "text": "7",
+              "lines": [
+                "7"
+              ],
+              "html": "<td class=\"infobox-data\">7</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "type": [
+            {
+              "label": "Type",
+              "key": "type",
+              "group": null,
+              "text": "Stadium",
+              "lines": [
+                "Stadium"
+              ],
+              "html": "<td class=\"infobox-data category\">Stadium</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "roof": [
+            {
+              "label": "Roof",
+              "key": "roof",
+              "group": null,
+              "text": "domed",
+              "lines": [
+                "domed"
+              ],
+              "html": "<td class=\"infobox-data\">domed</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "surface": [
+            {
+              "label": "Surface",
+              "key": "surface",
+              "group": null,
+              "text": "Parquet Floor",
+              "lines": [
+                "Parquet Floor"
+              ],
+              "html": "<td class=\"infobox-data\">Parquet Floor</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "scoreboard": [
+            {
+              "label": "Scoreboard",
+              "key": "scoreboard",
+              "group": null,
+              "text": "Central Main LED HD video board 4 sides\nSecond floor fascia 360° LED Ribbon Board\nLED video boards",
+              "lines": [
+                "Central Main LED HD video board 4 sides",
+                "Second floor fascia 360° LED Ribbon Board",
+                "LED video boards"
+              ],
+              "html": "<td class=\"infobox-data\">Central Main LED HD video board 4 sides<br>Second floor fascia 360° LED Ribbon Board<br>LED video boards</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "screens": [
+            {
+              "label": "Screens",
+              "key": "screens",
+              "group": null,
+              "text": "2",
+              "lines": [
+                "2"
+              ],
+              "html": "<td class=\"infobox-data\">2</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "height": [
+            {
+              "label": "Height",
+              "key": "height",
+              "group": null,
+              "text": "37 m (121 ft)",
+              "lines": [
+                "37 m (121 ft)"
+              ],
+              "html": "<td class=\"infobox-data\">37&nbsp;m (121&nbsp;ft)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "field_shape": [
+            {
+              "label": "Field shape",
+              "key": "field_shape",
+              "group": null,
+              "text": "elliptical",
+              "lines": [
+                "elliptical"
+              ],
+              "html": "<td class=\"infobox-data\">elliptical</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "parking": [
+            {
+              "label": "Parking",
+              "key": "parking",
+              "group": null,
+              "text": "Yes",
+              "lines": [
+                "Yes"
+              ],
+              "html": "<td class=\"infobox-data\">Yes</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "17 February 1974 (1974-02-17)",
+              "lines": [
+                "17 February 1974 (1974-02-17)"
+              ],
+              "html": "<td class=\"infobox-data\">17&nbsp;February&nbsp;1974<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1974-02-17</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "24 June 2026 (2026-06-24)",
+              "lines": [
+                "24 June 2026 (2026-06-24)"
+              ],
+              "html": "<td class=\"infobox-data\">24&nbsp;June&nbsp;2026<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2026-06-24</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "RD$3.454 millionRenovation (1998):\nRD$25 millionRenovation (2010):\nRD$9 millionRenovation (2019):\nRD$60 millionRenovation (2026):\nRD$1,000 million",
+              "lines": [
+                "RD$3.454 millionRenovation (1998):",
+                "RD$25 millionRenovation (2010):",
+                "RD$9 millionRenovation (2019):",
+                "RD$60 millionRenovation (2026):",
+                "RD$1,000 million"
+              ],
+              "html": "<td class=\"infobox-data\"><div class=\"plainlist\"><ul><li><a href=\"https://en.wikipedia.org/wiki/Dominican_peso\" title=\"Dominican peso\">RD$</a>3.454&nbsp;million</li><li><b>Renovation</b> (1998):<br>RD$25&nbsp;million</li><li><b>Renovation</b> (2010):<br>RD$9&nbsp;million</li><li><b>Renovation</b> (2019):<br>RD$60&nbsp;million</li><li><b>Renovation</b> (2026):<br>RD$1,000&nbsp;million</li></ul></div></td>",
+              "links": [
+                {
+                  "text": "RD$",
+                  "title": "Dominican peso",
+                  "wikiTitle": "Dominican peso",
+                  "href": "https://en.wikipedia.org/wiki/Dominican_peso",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "general_contractor": [
+            {
+              "label": "General contractor",
+              "key": "general_contractor",
+              "group": "Construction",
+              "text": "CONT-CIP",
+              "lines": [
+                "CONT-CIP"
+              ],
+              "html": "<td class=\"infobox-data\">CONT-CIP</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Dominican Republic national basketball team\nLeones de Santo Domingo (LNB)\nTitanes del Distrito (LNB)",
+              "lines": [
+                "Dominican Republic national basketball team",
+                "Leones de Santo Domingo (LNB)",
+                "Titanes del Distrito (LNB)"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Dominican_Republic_national_basketball_team\" class=\"mw-redirect\" title=\"Dominican Republic national basketball team\">Dominican Republic national basketball team</a><br> <a href=\"https://en.wikipedia.org/wiki/Leones_de_Santo_Domingo\" title=\"Leones de Santo Domingo\">Leones de Santo Domingo</a> (<a href=\"https://en.wikipedia.org/wiki/Liga_Nacional_de_Baloncesto\" title=\"Liga Nacional de Baloncesto\">LNB</a>)<br> <a href=\"https://en.wikipedia.org/wiki/Titanes_del_Distrito\" title=\"Titanes del Distrito\">Titanes del Distrito</a> (<a href=\"https://en.wikipedia.org/wiki/Liga_Nacional_de_Baloncesto\" title=\"Liga Nacional de Baloncesto\">LNB</a>)</td>",
+              "links": [
+                {
+                  "text": "Dominican Republic national basketball team",
+                  "title": "Dominican Republic national basketball team",
+                  "wikiTitle": "Dominican Republic national basketball team",
+                  "href": "https://en.wikipedia.org/wiki/Dominican_Republic_national_basketball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Leones de Santo Domingo",
+                  "title": "Leones de Santo Domingo",
+                  "wikiTitle": "Leones de Santo Domingo",
+                  "href": "https://en.wikipedia.org/wiki/Leones_de_Santo_Domingo",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "LNB",
+                  "title": "Liga Nacional de Baloncesto",
+                  "wikiTitle": "Liga Nacional de Baloncesto",
+                  "href": "https://en.wikipedia.org/wiki/Liga_Nacional_de_Baloncesto",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Titanes del Distrito",
+                  "title": "Titanes del Distrito",
+                  "wikiTitle": "Titanes del Distrito",
+                  "href": "https://en.wikipedia.org/wiki/Titanes_del_Distrito",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Arena BanReservas Virgilio Travieso Soto"
+          ],
+          "former_names": [
+            "Palacio de los Deportes Virgilio Travieso Soto (1987-2026)"
+          ],
+          "address": [
+            "27 de Febrero Av\nSanto Domingo\nDominican Republic"
+          ],
+          "coordinates": [
+            "18°28′30″N 69°55′08″W﻿ / ﻿18.474935°N 69.918789°W﻿ / 18.474935; -69.918789"
+          ],
+          "elevation": [
+            "55 m (180 ft)"
+          ],
+          "owner": [
+            "Dominican Government"
+          ],
+          "operator": [
+            "Arena Banreservas management committee"
+          ],
+          "seating_type": [
+            "reserved seating"
+          ],
+          "capacity": [
+            "8,270\n7,400 (Concerts)"
+          ],
+          "executive_suites": [
+            "7"
+          ],
+          "type": [
+            "Stadium"
+          ],
+          "roof": [
+            "domed"
+          ],
+          "surface": [
+            "Parquet Floor"
+          ],
+          "scoreboard": [
+            "Central Main LED HD video board 4 sides\nSecond floor fascia 360° LED Ribbon Board\nLED video boards"
+          ],
+          "screens": [
+            "2"
+          ],
+          "height": [
+            "37 m (121 ft)"
+          ],
+          "field_shape": [
+            "elliptical"
+          ],
+          "parking": [
+            "Yes"
+          ],
+          "opened": [
+            "17 February 1974 (1974-02-17)"
+          ],
+          "renovated": [
+            "24 June 2026 (2026-06-24)"
+          ],
+          "cost": [
+            "RD$3.454 millionRenovation (1998):\nRD$25 millionRenovation (2010):\nRD$9 millionRenovation (2019):\nRD$60 millionRenovation (2026):\nRD$1,000 million"
+          ],
+          "general_contractor": [
+            "CONT-CIP"
+          ],
+          "tenants": [
+            "Dominican Republic national basketball team\nLeones de Santo Domingo (LNB)\nTitanes del Distrito (LNB)"
+          ]
+        },
+        "formerNames": [
+          "Palacio de los Deportes Virgilio Travieso Soto (1987-2026)"
+        ],
+        "capacities": [
+          "8,270",
+          "7,400 (Concerts)"
+        ],
+        "tenants": [
+          "Dominican Republic national basketball team",
+          "Leones de Santo Domingo (LNB)",
+          "Titanes del Distrito (LNB)"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Arena_BanReservas&groups=_a82baa77d9441ace3e404ed619d6cde4a411f1dc&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Arena_BanReservas&groups=_a82baa77d9441ace3e404ed619d6cde4a411f1dc&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Arena BanReservas"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Arena BanReservas</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\">The half orange (La media naranja)</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_a82baa77d9441ace3e404ed619d6cde4a411f1dc&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Arena_BanReservas&amp;groups=_a82baa77d9441ace3e404ed619d6cde4a411f1dc&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Arena_BanReservas&amp;groups=_a82baa77d9441ace3e404ed619d6cde4a411f1dc&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Arena BanReservas</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Arena BanReservas Virgilio Travieso Soto</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Former names</div></th><td class=\"infobox-data nickname\">Palacio de los Deportes Virgilio Travieso Soto (1987-2026)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\">27 de Febrero Av<br><a href=\"https://en.wikipedia.org/wiki/Santo_Domingo\" title=\"Santo Domingo\">Santo Domingo</a><br>Dominican Republic<span data-plural=\"1\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Arena_BanReservas&amp;params=18.474935_N_69.918789_W_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">18°28′30″N</span> <span class=\"longitude\">69°55′08″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">18.474935°N 69.918789°W</span><span>﻿ / <span class=\"geo\">18.474935; -69.918789</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Elevation</th><td class=\"infobox-data\">55&nbsp;m (180&nbsp;ft)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Dominican Government</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">Arena Banreservas management committee</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Seating type</div></th><td class=\"infobox-data\">reserved seating</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">8,270<br>7,400 (Concerts)</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Executive suites</div></th><td class=\"infobox-data\">7</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Type</th><td class=\"infobox-data category\">Stadium</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Roof</th><td class=\"infobox-data\">domed</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Surface</th><td class=\"infobox-data\">Parquet Floor</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Scoreboard</th><td class=\"infobox-data\">Central Main LED HD video board 4 sides<br>Second floor fascia 360° LED Ribbon Board<br>LED video boards</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Screens</th><td class=\"infobox-data\">2</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Height</th><td class=\"infobox-data\">37&nbsp;m (121&nbsp;ft)</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Field shape</div></th><td class=\"infobox-data\">elliptical</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Parking</th><td class=\"infobox-data\">Yes</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">17&nbsp;February&nbsp;1974<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1974-02-17</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">24&nbsp;June&nbsp;2026<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2026-06-24</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\"><div class=\"plainlist\"><ul><li><a href=\"https://en.wikipedia.org/wiki/Dominican_peso\" title=\"Dominican peso\">RD$</a>3.454&nbsp;million</li><li><b>Renovation</b> (1998):<br>RD$25&nbsp;million</li><li><b>Renovation</b> (2010):<br>RD$9&nbsp;million</li><li><b>Renovation</b> (2019):<br>RD$60&nbsp;million</li><li><b>Renovation</b> (2026):<br>RD$1,000&nbsp;million</li></ul></div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>General contractor</div></th><td class=\"infobox-data\">CONT-CIP</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Dominican_Republic_national_basketball_team\" class=\"mw-redirect\" title=\"Dominican Republic national basketball team\">Dominican Republic national basketball team</a><br> <a href=\"https://en.wikipedia.org/wiki/Leones_de_Santo_Domingo\" title=\"Leones de Santo Domingo\">Leones de Santo Domingo</a> (<a href=\"https://en.wikipedia.org/wiki/Liga_Nacional_de_Baloncesto\" title=\"Liga Nacional de Baloncesto\">LNB</a>)<br> <a href=\"https://en.wikipedia.org/wiki/Titanes_del_Distrito\" title=\"Titanes del Distrito\">Titanes del Distrito</a> (<a href=\"https://en.wikipedia.org/wiki/Liga_Nacional_de_Baloncesto\" title=\"Liga Nacional de Baloncesto\">LNB</a>)</td></tr></tbody></table>"
+      },
+      "categories": [
+        "CS1_Spanish-language_sources_(es)",
+        "CS1_European_Spanish-language_sources_(es-es)",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Use_dmy_dates_from_November_2021",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_containing_Spanish-language_text",
+        "Indoor_arenas_in_the_Dominican_Republic",
+        "Sports_venues_in_Santo_Domingo",
+        "Venues_of_the_2003_Pan_American_Games",
+        "Basketball_venues_in_the_Dominican_Republic",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://hoy.com.do/deportes/propuestas-para-los-organizadores-de-juegos_899395.html",
+        "https://www.diariolibre.com/deportes/baloncesto/el-palacio-de-los-deportes-atraviesa-el-sinsabor-de-un-sueno-roto-desde-2008-AM7169165",
+        "https://elnuevodiario.com.do/construir-un-nuevo-palacio-de-los-deportes-costaria-900-millones-de-pesos/",
+        "https://listindiario.com/el-deporte/2019/05/06/564172/el-palacio-de-los-deportes-cuna-basket-bajo-techo-rd.html",
+        "https://www.diariolibre.com/deportes/baloncesto/2024/04/09/la-remodelacion-del-palacio-de-los-deportes-vts-en-proceso/2668795",
+        "https://www.diariolibre.com/actualidad/dominicanos-recuerdan-hoy-el-devastador-huracan-david-de-1979-FY8045676",
+        "https://eldia.com.do/david-y-georges/",
+        "https://www.conectate.com.do/articulo/augustin-virgilio-travieso-soto-biografia-republica-dominicana/",
+        "https://listindiario.com/el-deporte/beisbol/20260625/enorme-inversion_911383.html",
+        "https://listindiario.com/el-deporte/2019/05/18/565998/empezo-la-remodelacion-en-palacio-de-los-deportes.html",
+        "https://www.diariolibre.com/deportes/la-media-naranja-se-habilitara-con-una-reparacin-modesta-DNDL277657",
+        "https://listindiario.com/el-deporte/2017/09/07/481435/huracanes-han-castigado-instalaciones-deportivas.html",
+        "https://www.tampabay.com/archive/2002/10/12/heat-falls-to-wolves-in-latin-america/",
+        "https://www.diariolibre.com/actualidad/con-asistencia-de-equipos-de-once-pases-americanos-comienza-hoy-en-sd-torneo-premundial-de-baloncesto-BXDL72254",
+        "https://eldia.com.do/rd900-millones-costaria-un-nuevo-palacio-de-los-deportes/",
+        "https://eldia.com.do/palacio-de-los-deportes-totalmente-destruido/",
+        "https://elnacional.com.do/deportes/el-virgilio-travieso-a-punto-de-ser-demolido_71004.html",
+        "https://www.diariolibre.com/deportes/gobierno-pondra-de-cajeta-el-palacio-del-voleibol-al-costo-de-rd-62-millones-BNDL277372",
+        "https://www.diariolibre.com/deportes/construir-otra-media-naranja-tendra-un-costo-de-ms-de-rd500-millones-BNDL277503",
+        "https://hoy.com.do/deportes/avanza-remodelacion-virgilio-travieso_358350.html",
+        "https://listindiario.com/el-deporte/2013/09/20/292883/el-palacio-de-los-deportes-hay-que-tumbarlo-dice-uribenbsp.html",
+        "https://eldia.com.do/palacio-de-los-deportes-esta-sumido-en-el-abandono/",
+        "https://www.elcaribe.com.do/sin-categoria/proponen-nuevo-palacio-de-los-deportes-sea-construido-con-fondos-de-caso-odebrecht/",
+        "https://www.diariolibre.com/deportes/baloncesto/el-palacio-de-los-deportes-plantea-varias-interrogantes-BN6960614",
+        "https://www.diariolibre.com/deportes/columnistas/2025/10/17/puede-ser-sostenible-el-palacio-de-los-deportes/3280549",
+        "https://eldia.com.do/conflicto-entre-usa-y-rusia-por-vacunas-trae-ventana-basket-a-rd/",
+        "https://eldia.com.do/rd-tendra-sede-de-rusia-para-ventana-clasificatoria-al-mundial-australia/",
+        "https://eldia.com.do/belgica-supera-a-rusia-ventana-mundial-basket/",
+        "https://eldia.com.do/rusia-se-alza-con-boleto-al-campeonato-mundial-de-baloncesto-femenino/",
+        "https://www.diariolibre.com/deportes/mas-deportes/2023/11/24/palacio-de-los-deportes-virgilio-travieso-soto-nuevo-comite/2532518",
+        "https://acento.com.do/actualidad/abinader-inaugura-la-arena-banreservas-el-palacio-de-los-deportes-9706855.html",
+        "https://www.elcaribe.com.do/deportes/polideportivo/remodelacion-del-palacio-de-los-deportes-arranca/",
+        "https://elnuevodiario.com.do/anuncian-inicio-trabajos-de-remodelacion-del-palacio-de-los-deportes/",
+        "https://www.diariolibre.com/deportes/baloncesto/2024/04/11/palacio-de-los-deportes-vts-es-sometido-a-proceso-de-remodelacion/2671245",
+        "https://listindiario.com/el-deporte/baloncesto/20260623/que-nuevo-trae-arena-banreservas-virgilio-travieso-soto_910890.html",
+        "https://www.diariolibre.com/deportes/baloncesto/2026/06/23/arena-banreservas-sera-inaugurada-esta-semana/3576685",
+        "https://listindiario.com/el-deporte/baloncesto/20260625/arena-espectacular_911363.html",
+        "https://listindiario.com/el-deporte/baloncesto/20260617/aguilera-supervisa-avances-remodelacion-arena-banreservas-virgilio-travieso-soto_910254.html",
+        "https://www.diariolibre.com/revista/the-producers-concierto-y-nostalgia-de-los-aos-80-CYDL53040",
+        "https://hoy.com.do/lluvia-afecta-asistencia-a-festival-de-reggaeton-2/",
+        "https://hoy.com.do/balada-pop-y-reggaeton-dominaron-los-escenarios-dominicanos-en-2003/",
+        "https://www.tropicanafm.com/bogota/2003/tego-calderon-bautizado-en-republica-dominicana-como-el-as-del-reggaeton-154317-167438.html",
+        "https://hoy.com.do/2004-un-ano-de-baladas-rock-reggaeton-y-merengue/",
+        "https://hoy.com.do/erreway-se-dividira-despues-de-concierto-en-santo-domingo/",
+        "https://hoy.com.do/los-conciertos-mas-concurridos-del-2005-2/",
+        "https://hoy.com.do/ricardo-arjona-trae-al-pais-su-espectaculo-mas-completo-2/",
+        "https://diariodigital.com.do/2007/02/11/paulina-rubio-actuara-en-el-palacio-de-los-deportes.html",
+        "https://listindiario.com/entretenimiento/2007/03/31/8004/paulina-rubio-presenta-un-show-de-menos-kilates",
+        "https://listindiario.com/entretenimiento/2007/12/10/39825/noche-de-uncion-en-el-palacio-de-los-deportes",
+        "https://hoy.com.do/foraneos-dominaron-escena-2008/",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2008/abril-2008.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2008/junio-2008.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2008/julio-2008.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2008/agosto-2008.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2008/noviembre-2008.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2008/diciembre-2008.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2009/mayo-2009.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2009/agosto-2009.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2009/septiembre-2009.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2009/octubre-2009.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2009/noviembre-2009.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2009/diciembre-2009.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2010/febrero-2010.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2010/marzo-2010.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2010/mayo-2010.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2010/julio-2010.html",
+        "https://www.conectate.com.do/articulo/eventos-conciertos-espectaculos-2010-santo-domingo-republica-dominicana/",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2010/octubre-2010.html",
+        "http://www.republica-dominicana-live.com/republica-dominicana/agenda/ano-2011/marzo-2011.html",
+        "https://listindiario.com/las-sociales/2012/02/13/221463/laura-pausini-regresa-a-republica-dominicana",
+        "https://hoy.com.do/diversidad-artistica-en-ano-2012/",
+        "http://www.santo-domingo-live.com/santo-domingo/agenda/ano-2012/diciembre-2012.html",
+        "http://www.diariodominicano.com/gente/2013/12/16/161011/ruben-blades-ofrece-concierto-inolvidable-en-el-palacio-de-los-deportes-el-pasado-sabado",
+        "https://hoy.com.do/grandes-estrellas-actuaron-en-distindos-escenarios-rd/",
+        "https://www.ticketexpress.com.do/ShowContent.aspx?ID=1586",
+        "https://www.ticketexpress.com.do/ShowEvent.aspx?ID=1237",
+        "https://www.ticketexpress.com.do/ShowContent.aspx?ID=1755",
+        "https://www.ticketexpress.com.do/ShowContent.aspx?ID=1787",
+        "https://www.ticketexpress.com.do/ShowContent.aspx?ID=1786",
+        "https://listindiario.com/entretenimiento/2016/08/15/431269/nicky-jam-muestra-su-poder",
+        "https://www.metrord.do/do/entretencion/2016/09/26/ricardo-montaner-camila-apoteosico.html",
+        "https://elnuevodiario.com.do/ricardo-montaner-y-sin-bandera-realizan-funcion-extra-del-concierto-en-el-palacio-de-los-deportes/",
+        "https://listindiario.com/entretenimiento/2017/07/31/476236/ingrid-rosario-es-musica-y-alabanza",
+        "https://www.elcaribe.com.do/2017/06/13/volo-rendira-ldquotributo-los-tres-tenoresrdquo/",
+        "https://www.efe.com/efe/america/gente/prince-royce-ofrecera-concierto-benefico-el-17-de-febrero-en-santo-domingo/20000014-3488726",
+        "https://www.metrord.do/do/entretencion/2018/06/24/ozuna-vibrar-palacio-los-deportes.html",
+        "https://www.elcaribe.com.do/2018/06/24/ozuna-hace-historia-en-republica-dominicana/",
+        "https://masvip.com.do/2018/06/18/maluma-ofrecera-concierto-en-el-palacio-de-los-deportes/",
+        "https://www.metrord.do/do/entretencion/2018/09/03/alfa-logro-reto-lleno-palacio-los-deportes.html",
+        "https://diariodigital.com.do/2018/09/03/el-alfa-ofrece-apoteosico-concierto-en-el-palacio-de-los-deportes.html",
+        "https://almomento.net/la-dinastia-rosario-llena-a-capacidad-el-palacio-de-los-deportes/",
+        "https://ntelemicro.com/v1/adrian-romero-concierto-20-octubre-palacio-los-deportes/",
+        "https://www.elcaribe.com.do/2018/10/27/zion-lennox-dos-horas-llenas-de-puro-regaton-en-el-palacio-de-deportes/",
+        "https://listindiario.com/entretenimiento/2019/03/10/556784/video-camila-y-sin-bandera-pusieron-a-latir-miles-de-corazones-en-palacio-de-los-deportes",
+        "https://www.diariolibre.com/revista/musica/chayanne-viene-en-mayo-al-palacio-de-los-deportes-MG12419656",
+        "https://ensegundos.do/2019/08/29/j-balvin-se-presentara-el-sabado-en-el-palacio-de-los-deportes/",
+        "https://www.diariolibre.com/revista/cultura/raymond-y-miguel-celebraran-en-grande-25-anos-en-el-palacio-de-los-deportes-CD13329795",
+        "https://masvip.com.do/2019/09/15/mision-cumplida-raymond-y-miguel-llenaron-el-palacio-de-los-deportes/",
+        "https://samirsaba.com/2019/09/15/raymond-y-miguel-convocan-mas-de-7-mil-personas-en-el-palacio-de-los-deportes/",
+        "https://www.luminariastv.com/gabriel-arriba-hoy-al-palacio-de-los-deportes/",
+        "https://listindiario.com/entretenimiento/2019/12/15/595876/con-la-dominicanidad-a-flor-de-piel-ricardo-montaner-derrocha-romanticismo-en-el-palacio-de-los-deportes",
+        "https://listindiario.com/entretenimiento/2022/07/24/731449/reik-y-luis-fonsi-estremecieron-el-palacio-de-los-deportes-en-una-noche-para-los-romanticos",
+        "https://geohack.toolforge.org/geohack.php?pagename=Arena_BanReservas&params=18.474935_N_69.918789_W_"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Description",
+          "anchor": "Description"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "1974",
+          "anchor": "1974"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "1979-1998",
+          "anchor": "1979-1998"
+        },
+        {
+          "index": "5",
+          "level": 3,
+          "line": "2002-2013",
+          "anchor": "2002-2013"
+        },
+        {
+          "index": "6",
+          "level": 3,
+          "line": "2017-2019",
+          "anchor": "2017-2019"
+        },
+        {
+          "index": "7",
+          "level": 3,
+          "line": "2022-2026",
+          "anchor": "2022-2026"
+        },
+        {
+          "index": "8",
+          "level": 2,
+          "line": "Events and concerts",
+          "anchor": "Events_and_concerts"
+        },
+        {
+          "index": "9",
+          "level": 2,
+          "line": "Notes",
+          "anchor": "Notes"
+        },
+        {
+          "index": "10",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Basketball_pictogram.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Arena_BanReservas&groups=_a82baa77d9441ace3e404ed619d6cde4a411f1dc&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Arena_BanReservas&groups=_a82baa77d9441ace3e404ed619d6cde4a411f1dc&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Arena BanReservas"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Basketball_pictogram.svg/60px-Basketball_pictogram.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Basketball_pictogram.svg/120px-Basketball_pictogram.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 50,
+          "originalWidth": 300,
+          "originalHeight": 300,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "North America"
+          ],
+          "tableIndex": 3,
+          "tableCaption": null,
+          "rowIndex": 6,
+          "rowText": "Dominican Republic\nSanto Domingo\nPalacio de los Deportes Virgilio Travieso Soto\n1974\n8,337",
+          "rowHtml": "<tr>\n<td rowspan=\"8\"><a href=\"https://en.wikipedia.org/wiki/Dominican_Republic\" title=\"Dominican Republic\">Dominican Republic</a>\n</td>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Santo_Domingo,_Dominican_Republic\" class=\"mw-redirect\" title=\"Santo Domingo, Dominican Republic\">Santo Domingo</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Palacio_de_los_Deportes_Virgilio_Travieso_Soto\" class=\"mw-redirect\" title=\"Palacio de los Deportes Virgilio Travieso Soto\">Palacio de los Deportes Virgilio Travieso Soto</a>\n</td>\n<td align=\"center\">1974\n</td>\n<td align=\"right\">8,337\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 6,
+              "cell": {
+                "text": "Dominican Republic",
+                "lines": [
+                  "Dominican Republic"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Dominican Republic",
+                    "title": "Dominican Republic",
+                    "wikiTitle": "Dominican Republic",
+                    "href": "https://en.wikipedia.org/wiki/Dominican_Republic",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 6,
+              "cell": {
+                "text": "Santo Domingo",
+                "lines": [
+                  "Santo Domingo"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Santo Domingo",
+                    "title": "Santo Domingo, Dominican Republic",
+                    "wikiTitle": "Santo Domingo, Dominican Republic",
+                    "href": "https://en.wikipedia.org/wiki/Santo_Domingo,_Dominican_Republic",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 6,
+              "cell": {
+                "text": "Palacio de los Deportes Virgilio Travieso Soto",
+                "lines": [
+                  "Palacio de los Deportes Virgilio Travieso Soto"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Palacio de los Deportes Virgilio Travieso Soto",
+                    "title": "Palacio de los Deportes Virgilio Travieso Soto",
+                    "wikiTitle": "Palacio de los Deportes Virgilio Travieso Soto",
+                    "href": "https://en.wikipedia.org/wiki/Palacio_de_los_Deportes_Virgilio_Travieso_Soto",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 6,
+              "cell": {
+                "text": "1974",
+                "lines": [
+                  "1974"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 6,
+              "cell": {
+                "text": "8,337",
+                "lines": [
+                  "8,337"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 6,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Palacio de los Deportes Virgilio Travieso Soto",
+            "lines": [
+              "Palacio de los Deportes Virgilio Travieso Soto"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Palacio de los Deportes Virgilio Travieso Soto",
+                "title": "Palacio de los Deportes Virgilio Travieso Soto",
+                "wikiTitle": "Palacio de los Deportes Virgilio Travieso Soto",
+                "href": "https://en.wikipedia.org/wiki/Palacio_de_los_Deportes_Virgilio_Travieso_Soto",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:49:40.151Z"
+    },
+    {
+      "id": "wikipedia-page-21296433",
+      "pageId": 21296433,
+      "revisionId": null,
+      "title": "Gran Arena del Cibao",
+      "displayTitle": "Gran Arena del Cibao",
+      "url": "https://en.wikipedia.org/wiki/Gran_Arena_del_Cibao",
+      "wikidataItem": "Q5593976",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5593976",
+      "aliases": [
+        "Gran Arena del Cibao",
+        "Palacio de los Deportes"
+      ],
+      "requestedTitles": [
+        "Gran Arena del Cibao"
+      ],
+      "sourceLinkTexts": [
+        "Gran Arena del Cibao"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Gran_Arena_del_Cibao"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 19.4654,
+        "longitude": -70.7096,
+        "raw": "19.4654; -70.7096"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Gran Arena del Cibao",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Arena del Cibao Dr. Oscar Gobaira",
+            "lines": [
+              "Arena del Cibao Dr. Oscar Gobaira"
+            ],
+            "html": "<td class=\"infobox-data\">Arena del Cibao Dr. Oscar Gobaira</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Former names",
+            "key": "former_names",
+            "group": null,
+            "text": "Palacio de los Deportes",
+            "lines": [
+              "Palacio de los Deportes"
+            ],
+            "html": "<td class=\"infobox-data nickname\">Palacio de los Deportes</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "Av. Enriquillo 35\nSantiago de los Caballeros\nDominican Republic",
+            "lines": [
+              "Av. Enriquillo 35",
+              "Santiago de los Caballeros",
+              "Dominican Republic"
+            ],
+            "html": "<td class=\"infobox-data label\">Av. Enriquillo 35<br>Santiago de los Caballeros<br>Dominican Republic<span data-plural=\"1\"></span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Avenida Enriquillo 35, Santiago de los Caballeros, Dominican Republic",
+            "lines": [
+              "Avenida Enriquillo 35, Santiago de los Caballeros, Dominican Republic"
+            ],
+            "html": "<td class=\"infobox-data label\">Avenida Enriquillo 35, <a href=\"https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros\" title=\"Santiago de los Caballeros\">Santiago de los Caballeros</a>, <a href=\"https://en.wikipedia.org/wiki/Dominican_Republic\" title=\"Dominican Republic\">Dominican Republic</a></td>",
+            "links": [
+              {
+                "text": "Santiago de los Caballeros",
+                "title": "Santiago de los Caballeros",
+                "wikiTitle": "Santiago de los Caballeros",
+                "href": "https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Dominican Republic",
+                "title": "Dominican Republic",
+                "wikiTitle": "Dominican Republic",
+                "href": "https://en.wikipedia.org/wiki/Dominican_Republic",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "19°27′55″N 70°42′35″W﻿ / ﻿19.4654°N 70.7096°W﻿ / 19.4654; -70.7096",
+            "lines": [
+              "19°27′55″N 70°42′35″W﻿ / ﻿19.4654°N 70.7096°W﻿ / 19.4654; -70.7096"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Gran_Arena_del_Cibao&amp;params=19.4654_N_70.7096_W_type:landmark_region:DO\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">19°27′55″N</span> <span class=\"longitude\">70°42′35″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">19.4654°N 70.7096°W</span><span>﻿ / <span class=\"geo\">19.4654; -70.7096</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "19°27′55″N 70°42′35″W﻿ / ﻿19.4654°N 70.7096°W﻿ / 19.4654; -70.7096",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Gran_Arena_del_Cibao&params=19.4654_N_70.7096_W_type:landmark_region:DO",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "8,768 (Sports)\n6,670 (Concerts)",
+            "lines": [
+              "8,768 (Sports)",
+              "6,670 (Concerts)"
+            ],
+            "html": "<td class=\"infobox-data\">8,768 (Sports)<br>6,670 (Concerts)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1979",
+            "lines": [
+              "1979"
+            ],
+            "html": "<td class=\"infobox-data\">1979</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2008",
+            "lines": [
+              "2008"
+            ],
+            "html": "<td class=\"infobox-data\">2008</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "RD$528 million (renovations)",
+            "lines": [
+              "RD$528 million (renovations)"
+            ],
+            "html": "<td class=\"infobox-data\">RD$528 million (renovations)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Rafael Calventi Gaviño",
+            "lines": [
+              "Rafael Calventi Gaviño"
+            ],
+            "html": "<td class=\"infobox-data\">Rafael Calventi Gaviño</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Metros de Santiago (LNB)",
+            "lines": [
+              "Metros de Santiago (LNB)"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Metros_de_Santiago\" title=\"Metros de Santiago\">Metros de Santiago</a> (<a href=\"https://en.wikipedia.org/wiki/Liga_Nacional_de_Baloncesto\" title=\"Liga Nacional de Baloncesto\">LNB</a>)</td>",
+            "links": [
+              {
+                "text": "Metros de Santiago",
+                "title": "Metros de Santiago",
+                "wikiTitle": "Metros de Santiago",
+                "href": "https://en.wikipedia.org/wiki/Metros_de_Santiago",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "LNB",
+                "title": "Liga Nacional de Baloncesto",
+                "wikiTitle": "Liga Nacional de Baloncesto",
+                "href": "https://en.wikipedia.org/wiki/Liga_Nacional_de_Baloncesto",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Arena del Cibao Dr. Oscar Gobaira",
+              "lines": [
+                "Arena del Cibao Dr. Oscar Gobaira"
+              ],
+              "html": "<td class=\"infobox-data\">Arena del Cibao Dr. Oscar Gobaira</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "former_names": [
+            {
+              "label": "Former names",
+              "key": "former_names",
+              "group": null,
+              "text": "Palacio de los Deportes",
+              "lines": [
+                "Palacio de los Deportes"
+              ],
+              "html": "<td class=\"infobox-data nickname\">Palacio de los Deportes</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "Av. Enriquillo 35\nSantiago de los Caballeros\nDominican Republic",
+              "lines": [
+                "Av. Enriquillo 35",
+                "Santiago de los Caballeros",
+                "Dominican Republic"
+              ],
+              "html": "<td class=\"infobox-data label\">Av. Enriquillo 35<br>Santiago de los Caballeros<br>Dominican Republic<span data-plural=\"1\"></span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Avenida Enriquillo 35, Santiago de los Caballeros, Dominican Republic",
+              "lines": [
+                "Avenida Enriquillo 35, Santiago de los Caballeros, Dominican Republic"
+              ],
+              "html": "<td class=\"infobox-data label\">Avenida Enriquillo 35, <a href=\"https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros\" title=\"Santiago de los Caballeros\">Santiago de los Caballeros</a>, <a href=\"https://en.wikipedia.org/wiki/Dominican_Republic\" title=\"Dominican Republic\">Dominican Republic</a></td>",
+              "links": [
+                {
+                  "text": "Santiago de los Caballeros",
+                  "title": "Santiago de los Caballeros",
+                  "wikiTitle": "Santiago de los Caballeros",
+                  "href": "https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Dominican Republic",
+                  "title": "Dominican Republic",
+                  "wikiTitle": "Dominican Republic",
+                  "href": "https://en.wikipedia.org/wiki/Dominican_Republic",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "19°27′55″N 70°42′35″W﻿ / ﻿19.4654°N 70.7096°W﻿ / 19.4654; -70.7096",
+              "lines": [
+                "19°27′55″N 70°42′35″W﻿ / ﻿19.4654°N 70.7096°W﻿ / 19.4654; -70.7096"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Gran_Arena_del_Cibao&amp;params=19.4654_N_70.7096_W_type:landmark_region:DO\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">19°27′55″N</span> <span class=\"longitude\">70°42′35″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">19.4654°N 70.7096°W</span><span>﻿ / <span class=\"geo\">19.4654; -70.7096</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "19°27′55″N 70°42′35″W﻿ / ﻿19.4654°N 70.7096°W﻿ / 19.4654; -70.7096",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Gran_Arena_del_Cibao&params=19.4654_N_70.7096_W_type:landmark_region:DO",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "8,768 (Sports)\n6,670 (Concerts)",
+              "lines": [
+                "8,768 (Sports)",
+                "6,670 (Concerts)"
+              ],
+              "html": "<td class=\"infobox-data\">8,768 (Sports)<br>6,670 (Concerts)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1979",
+              "lines": [
+                "1979"
+              ],
+              "html": "<td class=\"infobox-data\">1979</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2008",
+              "lines": [
+                "2008"
+              ],
+              "html": "<td class=\"infobox-data\">2008</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "RD$528 million (renovations)",
+              "lines": [
+                "RD$528 million (renovations)"
+              ],
+              "html": "<td class=\"infobox-data\">RD$528 million (renovations)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Rafael Calventi Gaviño",
+              "lines": [
+                "Rafael Calventi Gaviño"
+              ],
+              "html": "<td class=\"infobox-data\">Rafael Calventi Gaviño</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Metros de Santiago (LNB)",
+              "lines": [
+                "Metros de Santiago (LNB)"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Metros_de_Santiago\" title=\"Metros de Santiago\">Metros de Santiago</a> (<a href=\"https://en.wikipedia.org/wiki/Liga_Nacional_de_Baloncesto\" title=\"Liga Nacional de Baloncesto\">LNB</a>)</td>",
+              "links": [
+                {
+                  "text": "Metros de Santiago",
+                  "title": "Metros de Santiago",
+                  "wikiTitle": "Metros de Santiago",
+                  "href": "https://en.wikipedia.org/wiki/Metros_de_Santiago",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "LNB",
+                  "title": "Liga Nacional de Baloncesto",
+                  "wikiTitle": "Liga Nacional de Baloncesto",
+                  "href": "https://en.wikipedia.org/wiki/Liga_Nacional_de_Baloncesto",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Arena del Cibao Dr. Oscar Gobaira"
+          ],
+          "former_names": [
+            "Palacio de los Deportes"
+          ],
+          "address": [
+            "Av. Enriquillo 35\nSantiago de los Caballeros\nDominican Republic"
+          ],
+          "location": [
+            "Avenida Enriquillo 35, Santiago de los Caballeros, Dominican Republic"
+          ],
+          "coordinates": [
+            "19°27′55″N 70°42′35″W﻿ / ﻿19.4654°N 70.7096°W﻿ / 19.4654; -70.7096"
+          ],
+          "capacity": [
+            "8,768 (Sports)\n6,670 (Concerts)"
+          ],
+          "opened": [
+            "1979"
+          ],
+          "renovated": [
+            "2008"
+          ],
+          "cost": [
+            "RD$528 million (renovations)"
+          ],
+          "architect": [
+            "Rafael Calventi Gaviño"
+          ],
+          "tenants": [
+            "Metros de Santiago (LNB)"
+          ]
+        },
+        "formerNames": [
+          "Palacio de los Deportes"
+        ],
+        "capacities": [
+          "8,768 (Sports)",
+          "6,670 (Concerts)"
+        ],
+        "tenants": [
+          "Metros de Santiago (LNB)"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Gran Arena del Cibao.png",
+            "fileName": "Gran Arena del Cibao.png",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Gran_Arena_del_Cibao.png",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gran_Arena_del_Cibao.png/250px-Gran_Arena_del_Cibao.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gran_Arena_del_Cibao.png",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Gran_Arena_del_Cibao.png",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Gran_Arena_del_Cibao.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 186,
+            "originalWidth": 429,
+            "originalHeight": 319,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Gran_Arena_del_Cibao&revid=1359916735&groups=_d7dae926d5a096d3ead97da2fb32947124b07b1a&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Gran_Arena_del_Cibao&revid=1359916735&groups=_d7dae926d5a096d3ead97da2fb32947124b07b1a&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Gran Arena del Cibao"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Gran Arena del Cibao</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Gran_Arena_del_Cibao.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gran_Arena_del_Cibao.png/250px-Gran_Arena_del_Cibao.png\" width=\"250\" height=\"186\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/2/26/Gran_Arena_del_Cibao.png 2x\" data-file-width=\"429\" data-file-height=\"319\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_d7dae926d5a096d3ead97da2fb32947124b07b1a&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Gran_Arena_del_Cibao&amp;revid=1359916735&amp;groups=_d7dae926d5a096d3ead97da2fb32947124b07b1a&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Gran_Arena_del_Cibao&amp;revid=1359916735&amp;groups=_d7dae926d5a096d3ead97da2fb32947124b07b1a&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Gran Arena del Cibao</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Arena del Cibao Dr. Oscar Gobaira</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Former names</div></th><td class=\"infobox-data nickname\">Palacio de los Deportes</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\">Av. Enriquillo 35<br>Santiago de los Caballeros<br>Dominican Republic<span data-plural=\"1\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">Avenida Enriquillo 35, <a href=\"https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros\" title=\"Santiago de los Caballeros\">Santiago de los Caballeros</a>, <a href=\"https://en.wikipedia.org/wiki/Dominican_Republic\" title=\"Dominican Republic\">Dominican Republic</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Gran_Arena_del_Cibao&amp;params=19.4654_N_70.7096_W_type:landmark_region:DO\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">19°27′55″N</span> <span class=\"longitude\">70°42′35″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">19.4654°N 70.7096°W</span><span>﻿ / <span class=\"geo\">19.4654; -70.7096</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">8,768 (Sports)<br>6,670 (Concerts)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1979</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2008</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">RD$528 million (renovations)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\">Rafael Calventi Gaviño</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Metros_de_Santiago\" title=\"Metros de Santiago\">Metros de Santiago</a> (<a href=\"https://en.wikipedia.org/wiki/Liga_Nacional_de_Baloncesto\" title=\"Liga Nacional de Baloncesto\">LNB</a>)</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Spanish-language_sources_(es)",
+        "CS1_European_Spanish-language_sources_(es-es)",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Santiago_de_los_Caballeros",
+        "Indoor_arenas_in_the_Dominican_Republic",
+        "Buildings_and_structures_in_Santiago_Province_(Dominican_Republic)",
+        "Basketball_venues_in_the_Dominican_Republic",
+        "Volleyball_venues_in_the_Dominican_Republic",
+        "Long_stubs_with_short_prose",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Gran_Arena_del_Cibao&params=19.4654_N_70.7096_W_type:landmark_region:DO",
+        "https://listindiario.com/entretenimiento/conciertos/20250722/gran-arena-cibao_866922.html",
+        "http://www.ticketexpress.com.do/ShowRecinto.aspx?id=11",
+        "https://www.diariolibre.com/deportes/mas-deportes/2025/04/21/baloncesto-el-techo-de-la-gran-arena-del-cibao-se-deteriora/3082170",
+        "https://listindiario.com/el-deporte/baloncesto/20230503/deterioro-afecta-arena-cibao-oscar-gobaira_751605.html",
+        "https://listindiario.com/la-republica/provincias/20250426/deteriora-gran-arena-cibao-santiago_855215.html",
+        "https://www.diariolibre.com/revista/aventura-se-presentar-el-30-de-agosto-en-arena-del-cibao-GYDL24844",
+        "https://republicadominicanalive.com/agenda/eventos-del-mes-de-agosto-2008-en-republica-dominicana/",
+        "https://hoy.com.do/conciertosaventura-esta-",
+        "https://www.diariolibre.com/revista/el-5to-piso-hoy-en-el-estadio-olmpico-CKDL201704",
+        "https://eldia.com.do/villalona-acompanara-julio-iglesias-en-show/",
+        "https://republicadominicanalive.com/agenda/eventos-en-el-mes-de-octubre-2009-en-republica-dominicana/",
+        "https://www.diariolibre.com/revista/gilberto-y-sergio-a-la-arena-del-cibao-hoy-EIDL228048",
+        "https://elnacional.com.do/raymond-y-miguel-llegan-esta-noche-a-la-gran-arena/",
+        "https://www.idominicanas.com/hector-acosta-promete-noche-llena-de/",
+        "https://listindiario.com/entretenimiento/2010/10/03/161081/enanitos-verdes-sorprende-en-la-gran-arena-del-cibao",
+        "https://republicadominicanalive.com/agenda/eventos-en-el-mes-de-octubre-2010-en-republica-dominicana/",
+        "https://www.idominicanas.com/payaso-kanqui-tu-super-amigo-la-arena/",
+        "https://www.diariolibre.com/revista/don-omar-llev-a-la-arena-del-cibao-su-danza-kuduro-FNDL270036",
+        "https://www.idominicanas.com/sold-out-el-concierto-de-don-omar-en/",
+        "https://republicadominicanalive.com/agenda/eventos-en-el-mes-de-diciembre-2010-en-republica-dominicana/",
+        "https://www.diariolibre.com/revista/silvio-rodrguez-al-gran-arena-del-cibao-FNDL278692",
+        "https://www.bmi.com/photos/entry/551280",
+        "https://noticiassin.com/entretenimiento/calle-13-pone-a-vibrar-el-gran-arena-del-cibao-73003",
+        "https://hoy.com.do/fin-de-semana-116/",
+        "https://actividadesartisticas.com/hallow-maniac-2012-trae-de-regreso-la/",
+        "https://www.idominicanas.com/tour-soplando-vida-de-jesus-adrian-romero-concluye-en-republica-dominicana/",
+        "https://www.paradard.com/eventos/conciertos/88-juntos-y-en-armonia-concierto-gran-arena-del-cibao",
+        "https://listindiario.com/entretenimiento/2015/10/20/392829/una-noche-de-merengue-con-el-pueblo-del-cibao",
+        "https://www.idominicanas.com/la-noche-del-pueblo-arena-del-cibao-lleno-total-honor-al-merengue/",
+        "https://www.diariolibre.com/revista/musica/gran-arena-del-cibao-vibrara-con-la-primera-edicion-del-holiday-urban-fest-EA2211336",
+        "https://ensegundos.do/2019/11/18/el-nene-la-amenazzy-triunfa-en-gran-arena-del-cibao/,%20https://ensegundos.do/2019/11/18/el-nene-la-amenazzy-triunfa-en-gran-arena-del-cibao/",
+        "https://elsoldesantiago.com/gabriel-repite-con-exitoso-concierto-gran-arena-del-cibao/",
+        "https://www.diariolibre.com/revista/musica/2022/06/16/don-miguelo-estara-en-la-arena-del-cibao-y-aqui-los-precios/1893458",
+        "https://hoy.com.do/don-miguelo-celebro-sus-17-anos-de-carrera-en-la-gran-arena-del-cibao/",
+        "https://listindiario.com/entretenimiento/conciertos/20240922/dj-adonis-casa-llena-mas-6-horas-arena-cibao_826610.html",
+        "https://listindiario.com/entretenimiento/conciertos/20240922/alfa-anuncia-concierto-gran-arena-cibao-espectaculo-adoni-amigos_826631.html",
+        "https://www.diariolibre.com/actualidad/nacional/2025/07/20/elvis-martinez-consagra-su-historia-en-santiago/3188428",
+        "https://listindiario.com/entretenimiento/conciertos/20250901/santiago-yaiilin-consolida-musica-urbana-primer-concierto-masivo-rd_872410.html",
+        "https://corazondigital.blogspot.com/2008/09/el-palacio-de-los-deportes-de-santiago.html"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Description",
+          "anchor": "Description"
+        },
+        {
+          "index": "2",
+          "level": 3,
+          "line": "Deteriorating infrastructure",
+          "anchor": "Deteriorating_infrastructure"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Concert venue",
+          "anchor": "Concert_venue"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "Notable events and concerts",
+          "anchor": "Notable_events_and_concerts"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "Notes",
+          "anchor": "Notes"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "7",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Gran_Arena_del_Cibao.png"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Gran Arena del Cibao.png",
+          "fileName": "Gran Arena del Cibao.png",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Gran_Arena_del_Cibao.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gran_Arena_del_Cibao.png/250px-Gran_Arena_del_Cibao.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gran_Arena_del_Cibao.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Gran_Arena_del_Cibao.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Gran_Arena_del_Cibao.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 186,
+          "originalWidth": 429,
+          "originalHeight": 319,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Gran_Arena_del_Cibao&revid=1359916735&groups=_d7dae926d5a096d3ead97da2fb32947124b07b1a&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Gran_Arena_del_Cibao&revid=1359916735&groups=_d7dae926d5a096d3ead97da2fb32947124b07b1a&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Gran Arena del Cibao"
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "North America"
+          ],
+          "tableIndex": 3,
+          "tableCaption": null,
+          "rowIndex": 9,
+          "rowText": "Santiago de los Caballeros\nGran Arena del Cibao\n1978\n9,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros\" title=\"Santiago de los Caballeros\">Santiago de los Caballeros</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Gran_Arena_del_Cibao\" title=\"Gran Arena del Cibao\">Gran Arena del Cibao</a>\n</td>\n<td align=\"center\">1978\n</td>\n<td align=\"right\">9,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 6,
+              "cell": {
+                "text": "Dominican Republic",
+                "lines": [
+                  "Dominican Republic"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Dominican Republic",
+                    "title": "Dominican Republic",
+                    "wikiTitle": "Dominican Republic",
+                    "href": "https://en.wikipedia.org/wiki/Dominican_Republic",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 9,
+              "cell": {
+                "text": "Santiago de los Caballeros",
+                "lines": [
+                  "Santiago de los Caballeros"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Santiago de los Caballeros",
+                    "title": "Santiago de los Caballeros",
+                    "wikiTitle": "Santiago de los Caballeros",
+                    "href": "https://en.wikipedia.org/wiki/Santiago_de_los_Caballeros",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 9,
+              "cell": {
+                "text": "Gran Arena del Cibao",
+                "lines": [
+                  "Gran Arena del Cibao"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Gran Arena del Cibao",
+                    "title": "Gran Arena del Cibao",
+                    "wikiTitle": "Gran Arena del Cibao",
+                    "href": "https://en.wikipedia.org/wiki/Gran_Arena_del_Cibao",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 9,
+              "cell": {
+                "text": "1978",
+                "lines": [
+                  "1978"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 9,
+              "cell": {
+                "text": "9,000",
+                "lines": [
+                  "9,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 9,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Gran Arena del Cibao",
+            "lines": [
+              "Gran Arena del Cibao"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Gran Arena del Cibao",
+                "title": "Gran Arena del Cibao",
+                "wikiTitle": "Gran Arena del Cibao",
+                "href": "https://en.wikipedia.org/wiki/Gran_Arena_del_Cibao",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:49:40.275Z"
+    }
+  ]
+}

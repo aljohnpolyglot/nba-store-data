@@ -1,0 +1,4433 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Colombia",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 5
+  },
+  "stats": {
+    "arenaCount": 5,
+    "sourceRowCount": 5,
+    "mediaRecordCount": 30,
+    "sourceTypeCounts": {
+      "world_master_list": 5
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-28997444",
+      "pageId": 28997444,
+      "revisionId": null,
+      "title": "Coliseo Álvaro Sánchez Silva",
+      "displayTitle": "Coliseo Álvaro Sánchez Silva",
+      "url": "https://en.wikipedia.org/wiki/Coliseo_%C3%81lvaro_S%C3%A1nchez_Silva",
+      "wikidataItem": "Q5145761",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5145761",
+      "aliases": [
+        "Coliseo Álvaro Sánchez Silva",
+        "Álvaro Sánchez Silva Coliseum"
+      ],
+      "requestedTitles": [
+        "Coliseo Álvaro Sánchez Silva"
+      ],
+      "sourceLinkTexts": [
+        "Coliseo Álvaro Sánchez Silva"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Coliseo_%C3%81lvaro_S%C3%A1nchez_Silva"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": null,
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Álvaro Sánchez Silva Coliseum",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Neiva, Huila",
+            "lines": [
+              "Neiva, Huila"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Neiva\" class=\"mw-redirect\" title=\"Neiva\">Neiva</a>, <a href=\"https://en.wikipedia.org/wiki/Huila_Department\" title=\"Huila Department\">Huila</a></td>",
+            "links": [
+              {
+                "text": "Neiva",
+                "title": "Neiva",
+                "wikiTitle": "Neiva",
+                "href": "https://en.wikipedia.org/wiki/Neiva",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Huila",
+                "title": "Huila Department",
+                "wikiTitle": "Huila Department",
+                "href": "https://en.wikipedia.org/wiki/Huila_Department",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "8000",
+            "lines": [
+              "8000"
+            ],
+            "html": "<td class=\"infobox-data\">8000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "group": null,
+            "text": "Indoor Sporting Arena",
+            "lines": [
+              "Indoor Sporting Arena"
+            ],
+            "html": "<td class=\"infobox-data category\">Indoor Sporting Arena</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1986",
+            "lines": [
+              "1986"
+            ],
+            "html": "<td class=\"infobox-data\">1986</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2010",
+            "lines": [
+              "2010"
+            ],
+            "html": "<td class=\"infobox-data\">2010</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-te-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-te-1"
+              }
+            ]
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Neiva, Huila",
+              "lines": [
+                "Neiva, Huila"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Neiva\" class=\"mw-redirect\" title=\"Neiva\">Neiva</a>, <a href=\"https://en.wikipedia.org/wiki/Huila_Department\" title=\"Huila Department\">Huila</a></td>",
+              "links": [
+                {
+                  "text": "Neiva",
+                  "title": "Neiva",
+                  "wikiTitle": "Neiva",
+                  "href": "https://en.wikipedia.org/wiki/Neiva",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Huila",
+                  "title": "Huila Department",
+                  "wikiTitle": "Huila Department",
+                  "href": "https://en.wikipedia.org/wiki/Huila_Department",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "8000",
+              "lines": [
+                "8000"
+              ],
+              "html": "<td class=\"infobox-data\">8000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "type": [
+            {
+              "label": "Type",
+              "key": "type",
+              "group": null,
+              "text": "Indoor Sporting Arena",
+              "lines": [
+                "Indoor Sporting Arena"
+              ],
+              "html": "<td class=\"infobox-data category\">Indoor Sporting Arena</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1986",
+              "lines": [
+                "1986"
+              ],
+              "html": "<td class=\"infobox-data\">1986</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2010",
+              "lines": [
+                "2010"
+              ],
+              "html": "<td class=\"infobox-data\">2010</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-te-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-te-1"
+                }
+              ]
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Neiva, Huila"
+          ],
+          "capacity": [
+            "8000"
+          ],
+          "type": [
+            "Indoor Sporting Arena"
+          ],
+          "opened": [
+            "1986"
+          ],
+          "renovated": [
+            "2010"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "8000"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_%C3%81lvaro_S%C3%A1nchez_Silva&revid=1334287270&groups=_d9ffe68345777fcbefd7f873d054d7bdd2096bd9&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_%C3%81lvaro_S%C3%A1nchez_Silva&revid=1334287270&groups=_d9ffe68345777fcbefd7f873d054d7bdd2096bd9&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Álvaro Sánchez Silva Coliseum"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Álvaro Sánchez Silva Coliseum</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_d9ffe68345777fcbefd7f873d054d7bdd2096bd9&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_%C3%81lvaro_S%C3%A1nchez_Silva&amp;revid=1334287270&amp;groups=_d9ffe68345777fcbefd7f873d054d7bdd2096bd9&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_%C3%81lvaro_S%C3%A1nchez_Silva&amp;revid=1334287270&amp;groups=_d9ffe68345777fcbefd7f873d054d7bdd2096bd9&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Álvaro Sánchez Silva Coliseum</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Neiva\" class=\"mw-redirect\" title=\"Neiva\">Neiva</a>, <a href=\"https://en.wikipedia.org/wiki/Huila_Department\" title=\"Huila Department\">Huila</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">8000</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Type</th><td class=\"infobox-data category\">Indoor Sporting Arena</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1986</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2010</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Webarchive_template_wayback_links",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Indoor_arenas_in_Colombia",
+        "Sport_in_Neiva",
+        "Buildings_and_structures_in_Huila_Department",
+        "Basketball_venues_in_Colombia",
+        "All_stub_articles",
+        "South_American_sports_venue_stubs",
+        "Colombian_building_and_structure_stubs",
+        "Colombian_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "http://www.lanacion.com.co/2010/07/12/instalan-maderamen-en-el-coliseo-de-neiva/",
+        "https://web.archive.org/web/20110927110505/http://www.lanacion.com.co/2010/07/12/instalan-maderamen-en-el-coliseo-de-neiva/",
+        "http://elperiodicodeportivo.com.co/index.php?modulo=articulos&accion=verArticulo&id=1311"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Colosseo_2020.jpg",
+        "Flag_of_Colombia.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_%C3%81lvaro_S%C3%A1nchez_Silva&revid=1334287270&groups=_d9ffe68345777fcbefd7f873d054d7bdd2096bd9&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_%C3%81lvaro_S%C3%A1nchez_Silva&revid=1334287270&groups=_d9ffe68345777fcbefd7f873d054d7bdd2096bd9&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Álvaro Sánchez Silva Coliseum"
+        },
+        {
+          "fileTitle": "File:Colosseo 2020.jpg",
+          "fileName": "Colosseo 2020.jpg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Colosseo_2020.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/40px-Colosseo_2020.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Colosseo_2020.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Colosseo_2020.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/60px-Colosseo_2020.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 21,
+          "originalWidth": 12051,
+          "originalHeight": 8442,
+          "fileType": null,
+          "alt": "Stub icon 1",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Flag of Colombia.svg",
+          "fileName": "Flag of Colombia.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Colombia.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Colombia.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Colombia.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/60px-Flag_of_Colombia.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Stub icon 2",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 94,
+          "rowText": "Neiva\nColiseo Álvaro Sánchez Silva\n1986\n8,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Neiva\" class=\"mw-redirect\" title=\"Neiva\">Neiva</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Coliseo_%C3%81lvaro_S%C3%A1nchez_Silva\" title=\"Coliseo Álvaro Sánchez Silva\">Coliseo Álvaro Sánchez Silva</a>\n</td>\n<td>1986\n</td>\n<td>8,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 89,
+              "cell": {
+                "text": "Colombia",
+                "lines": [
+                  "Colombia"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Colombia",
+                    "title": "Colombia",
+                    "wikiTitle": "Colombia",
+                    "href": "https://en.wikipedia.org/wiki/Colombia",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 94,
+              "cell": {
+                "text": "Neiva",
+                "lines": [
+                  "Neiva"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Neiva",
+                    "title": "Neiva",
+                    "wikiTitle": "Neiva",
+                    "href": "https://en.wikipedia.org/wiki/Neiva",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 94,
+              "cell": {
+                "text": "Coliseo Álvaro Sánchez Silva",
+                "lines": [
+                  "Coliseo Álvaro Sánchez Silva"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo Álvaro Sánchez Silva",
+                    "title": "Coliseo Álvaro Sánchez Silva",
+                    "wikiTitle": "Coliseo Álvaro Sánchez Silva",
+                    "href": "https://en.wikipedia.org/wiki/Coliseo_%C3%81lvaro_S%C3%A1nchez_Silva",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 94,
+              "cell": {
+                "text": "1986",
+                "lines": [
+                  "1986"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 94,
+              "cell": {
+                "text": "8,000",
+                "lines": [
+                  "8,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 94,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Coliseo Álvaro Sánchez Silva",
+            "lines": [
+              "Coliseo Álvaro Sánchez Silva"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo Álvaro Sánchez Silva",
+                "title": "Coliseo Álvaro Sánchez Silva",
+                "wikiTitle": "Coliseo Álvaro Sánchez Silva",
+                "href": "https://en.wikipedia.org/wiki/Coliseo_%C3%81lvaro_S%C3%A1nchez_Silva",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:31.277Z"
+    },
+    {
+      "id": "wikipedia-page-50506615",
+      "pageId": 50506615,
+      "revisionId": null,
+      "title": "Coliseo Bicentenario",
+      "displayTitle": "Coliseo Bicentenario",
+      "url": "https://en.wikipedia.org/wiki/Coliseo_Bicentenario",
+      "wikidataItem": "Q25066533",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q25066533",
+      "aliases": [
+        "Coliseo Bicentenario"
+      ],
+      "requestedTitles": [
+        "Coliseo Bicentenario"
+      ],
+      "sourceLinkTexts": [
+        "Coliseo Bicentenario"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Coliseo_Bicentenario"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 7.1382,
+        "longitude": -73.1163,
+        "raw": "7.1382; -73.1163"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Coliseo Bicentenario",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Bucaramanga, Colombia",
+            "lines": [
+              "Bucaramanga, Colombia"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Bucaramanga\" title=\"Bucaramanga\">Bucaramanga</a>, <a href=\"https://en.wikipedia.org/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>",
+            "links": [
+              {
+                "text": "Bucaramanga",
+                "title": "Bucaramanga",
+                "wikiTitle": "Bucaramanga",
+                "href": "https://en.wikipedia.org/wiki/Bucaramanga",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Colombia",
+                "title": "Colombia",
+                "wikiTitle": "Colombia",
+                "href": "https://en.wikipedia.org/wiki/Colombia",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "INDERBU",
+            "lines": [
+              "INDERBU"
+            ],
+            "html": "<td class=\"infobox-data agent\">INDERBU</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "7,000",
+            "lines": [
+              "7,000"
+            ],
+            "html": "<td class=\"infobox-data\">7,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "2011",
+            "lines": [
+              "2011"
+            ],
+            "html": "<td class=\"infobox-data\">2011</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Real Bucaramanga",
+            "lines": [
+              "Real Bucaramanga"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/w/index.php?title=Real_Bucaramanga&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Real Bucaramanga (page does not exist)\">Real Bucaramanga</a></td>",
+            "links": [
+              {
+                "text": "Real Bucaramanga",
+                "title": "Real Bucaramanga (page does not exist)",
+                "wikiTitle": "Real Bucaramanga",
+                "href": "https://en.wikipedia.org/w/index.php?title=Real_Bucaramanga&action=edit&redlink=1",
+                "blueArticle": false,
+                "redLink": true,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Bucaramanga, Colombia",
+              "lines": [
+                "Bucaramanga, Colombia"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Bucaramanga\" title=\"Bucaramanga\">Bucaramanga</a>, <a href=\"https://en.wikipedia.org/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>",
+              "links": [
+                {
+                  "text": "Bucaramanga",
+                  "title": "Bucaramanga",
+                  "wikiTitle": "Bucaramanga",
+                  "href": "https://en.wikipedia.org/wiki/Bucaramanga",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Colombia",
+                  "title": "Colombia",
+                  "wikiTitle": "Colombia",
+                  "href": "https://en.wikipedia.org/wiki/Colombia",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "INDERBU",
+              "lines": [
+                "INDERBU"
+              ],
+              "html": "<td class=\"infobox-data agent\">INDERBU</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "7,000",
+              "lines": [
+                "7,000"
+              ],
+              "html": "<td class=\"infobox-data\">7,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "2011",
+              "lines": [
+                "2011"
+              ],
+              "html": "<td class=\"infobox-data\">2011</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Real Bucaramanga",
+              "lines": [
+                "Real Bucaramanga"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/w/index.php?title=Real_Bucaramanga&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Real Bucaramanga (page does not exist)\">Real Bucaramanga</a></td>",
+              "links": [
+                {
+                  "text": "Real Bucaramanga",
+                  "title": "Real Bucaramanga (page does not exist)",
+                  "wikiTitle": "Real Bucaramanga",
+                  "href": "https://en.wikipedia.org/w/index.php?title=Real_Bucaramanga&action=edit&redlink=1",
+                  "blueArticle": false,
+                  "redLink": true,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Bucaramanga, Colombia"
+          ],
+          "owner": [
+            "INDERBU"
+          ],
+          "capacity": [
+            "7,000"
+          ],
+          "opened": [
+            "2011"
+          ],
+          "tenants": [
+            "Real Bucaramanga"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "7,000"
+        ],
+        "tenants": [
+          "Real Bucaramanga"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Coliseo Bicentenario de Bucaramanga.jpg",
+            "fileName": "Coliseo Bicentenario de Bucaramanga.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Coliseo_Bicentenario_de_Bucaramanga.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coliseo_Bicentenario_de_Bucaramanga.jpg/250px-Coliseo_Bicentenario_de_Bucaramanga.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coliseo_Bicentenario_de_Bucaramanga.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coliseo_Bicentenario_de_Bucaramanga.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coliseo_Bicentenario_de_Bucaramanga.jpg/500px-Coliseo_Bicentenario_de_Bucaramanga.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 141,
+            "originalWidth": 3072,
+            "originalHeight": 1728,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Bicentenario&revid=1329632064&groups=_7b739be69144103bb4c1624f6b89fddda2cb7ba2&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Bicentenario&revid=1329632064&groups=_7b739be69144103bb4c1624f6b89fddda2cb7ba2&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Coliseo Bicentenario"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Coliseo Bicentenario</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Coliseo_Bicentenario_de_Bucaramanga.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coliseo_Bicentenario_de_Bucaramanga.jpg/250px-Coliseo_Bicentenario_de_Bucaramanga.jpg\" width=\"250\" height=\"141\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coliseo_Bicentenario_de_Bucaramanga.jpg/500px-Coliseo_Bicentenario_de_Bucaramanga.jpg 2x\" data-file-width=\"3072\" data-file-height=\"1728\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_7b739be69144103bb4c1624f6b89fddda2cb7ba2&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_Bicentenario&amp;revid=1329632064&amp;groups=_7b739be69144103bb4c1624f6b89fddda2cb7ba2&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_Bicentenario&amp;revid=1329632064&amp;groups=_7b739be69144103bb4c1624f6b89fddda2cb7ba2&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Coliseo Bicentenario</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Bucaramanga\" title=\"Bucaramanga\">Bucaramanga</a>, <a href=\"https://en.wikipedia.org/wiki/Colombia\" title=\"Colombia\">Colombia</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">INDERBU</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">7,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">2011</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/w/index.php?title=Real_Bucaramanga&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Real Bucaramanga (page does not exist)\">Real Bucaramanga</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Colombia",
+        "Santander_Department",
+        "Sports_venues_completed_in_2011",
+        "Badminton_venues",
+        "All_stub_articles",
+        "South_American_sports_venue_stubs",
+        "Colombian_building_and_structure_stubs",
+        "Colombian_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "http://caracol.com.co/radio/2012/02/13/deportes/1329153000_624482.html",
+        "https://web.archive.org/web/20160603140103/http://fcf.com.co/index.php/las-selecciones/futsal-futplaya/1732-bucaramanga-recibio-a-delegacion-fifa-para-mundial-de-futsal",
+        "http://fcf.com.co/index.php/las-selecciones/futsal-futplaya/1732-bucaramanga-recibio-a-delegacion-fifa-para-mundial-de-futsal",
+        "http://www.vanguardia.com/historico/96456-coliseo-bicentenario-llevara-el-nombre-de-alejandro-galvis-ramir",
+        "https://web.archive.org/web/20160919232258/http://www.indersantander.gov.co/noticias_detalle.php?id=851",
+        "http://www.indersantander.gov.co/noticias_detalle.php?id=851",
+        "https://web.archive.org/web/20150904142241/http://www.fifa.com/futsalworldcup/destination/cities/city=1576/index.html",
+        "https://web.archive.org/web/20150929072830/https://ligaargosfutsal.com/clubes/real-bucaramanga",
+        "https://ligaargosfutsal.com/clubes/real-bucaramanga",
+        "http://www.vanguardia.com/deportes/microfutbol/176705-el-bicentenariazo",
+        "https://web.archive.org/web/20160822032830/http://fevepatin.net/site/estados-unidos-campeon-del-mundial-de-hockey-mayores/",
+        "http://fevepatin.net/site/estados-unidos-campeon-del-mundial-de-hockey-mayores/",
+        "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_Bicentenario&params=7.1382_N_73.1163_W_type:landmark_globe:earth_region:CO"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Coliseo_Bicentenario_de_Bucaramanga.jpg",
+        "Colosseo_2020.jpg",
+        "Flag_of_Colombia.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Coliseo Bicentenario de Bucaramanga.jpg",
+          "fileName": "Coliseo Bicentenario de Bucaramanga.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coliseo_Bicentenario_de_Bucaramanga.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coliseo_Bicentenario_de_Bucaramanga.jpg/250px-Coliseo_Bicentenario_de_Bucaramanga.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coliseo_Bicentenario_de_Bucaramanga.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coliseo_Bicentenario_de_Bucaramanga.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coliseo_Bicentenario_de_Bucaramanga.jpg/500px-Coliseo_Bicentenario_de_Bucaramanga.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 141,
+          "originalWidth": 3072,
+          "originalHeight": 1728,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Bicentenario&revid=1329632064&groups=_7b739be69144103bb4c1624f6b89fddda2cb7ba2&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Bicentenario&revid=1329632064&groups=_7b739be69144103bb4c1624f6b89fddda2cb7ba2&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Coliseo Bicentenario"
+        },
+        {
+          "fileTitle": "File:Colosseo 2020.jpg",
+          "fileName": "Colosseo 2020.jpg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Colosseo_2020.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/40px-Colosseo_2020.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Colosseo_2020.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Colosseo_2020.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/60px-Colosseo_2020.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 21,
+          "originalWidth": 12051,
+          "originalHeight": 8442,
+          "fileType": null,
+          "alt": "Stub icon 1",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Flag of Colombia.svg",
+          "fileName": "Flag of Colombia.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Colombia.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Colombia.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Colombia.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/60px-Flag_of_Colombia.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Stub icon 2",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 93,
+          "rowText": "Bucaramanga\nColiseo Bicentenario\n2011\n7,600",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Bucaramanga\" title=\"Bucaramanga\">Bucaramanga</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Coliseo_Bicentenario\" title=\"Coliseo Bicentenario\">Coliseo Bicentenario</a>\n</td>\n<td>2011\n</td>\n<td>7,600\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 89,
+              "cell": {
+                "text": "Colombia",
+                "lines": [
+                  "Colombia"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Colombia",
+                    "title": "Colombia",
+                    "wikiTitle": "Colombia",
+                    "href": "https://en.wikipedia.org/wiki/Colombia",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 93,
+              "cell": {
+                "text": "Bucaramanga",
+                "lines": [
+                  "Bucaramanga"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Bucaramanga",
+                    "title": "Bucaramanga",
+                    "wikiTitle": "Bucaramanga",
+                    "href": "https://en.wikipedia.org/wiki/Bucaramanga",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 93,
+              "cell": {
+                "text": "Coliseo Bicentenario",
+                "lines": [
+                  "Coliseo Bicentenario"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo Bicentenario",
+                    "title": "Coliseo Bicentenario",
+                    "wikiTitle": "Coliseo Bicentenario",
+                    "href": "https://en.wikipedia.org/wiki/Coliseo_Bicentenario",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 93,
+              "cell": {
+                "text": "2011",
+                "lines": [
+                  "2011"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 93,
+              "cell": {
+                "text": "7,600",
+                "lines": [
+                  "7,600"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 93,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Coliseo Bicentenario",
+            "lines": [
+              "Coliseo Bicentenario"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo Bicentenario",
+                "title": "Coliseo Bicentenario",
+                "wikiTitle": "Coliseo Bicentenario",
+                "href": "https://en.wikipedia.org/wiki/Coliseo_Bicentenario",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:31.238Z"
+    },
+    {
+      "id": "wikipedia-page-5337155",
+      "pageId": 5337155,
+      "revisionId": null,
+      "title": "Coliseo El Pueblo",
+      "displayTitle": "Coliseo El Pueblo",
+      "url": "https://en.wikipedia.org/wiki/Coliseo_El_Pueblo",
+      "wikidataItem": "Q976776",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q976776",
+      "aliases": [
+        "Coliseo El Pueblo"
+      ],
+      "requestedTitles": [
+        "Coliseo El Pueblo"
+      ],
+      "sourceLinkTexts": [
+        "Coliseo El Pueblo"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Coliseo_El_Pueblo"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 3.4134333,
+        "longitude": -76.5518639,
+        "raw": "3.4134333; -76.5518639"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Coliseo El Pueblo",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Cali, Colombia",
+            "lines": [
+              "Cali, Colombia"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Cali\" title=\"Cali\">Cali</a>, <a href=\"https://en.wikipedia.org/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>",
+            "links": [
+              {
+                "text": "Cali",
+                "title": "Cali",
+                "wikiTitle": "Cali",
+                "href": "https://en.wikipedia.org/wiki/Cali",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Colombia",
+                "title": "Colombia",
+                "wikiTitle": "Colombia",
+                "href": "https://en.wikipedia.org/wiki/Colombia",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "03°24′48.36″N 76°33′6.71″W﻿ / ﻿3.4134333°N 76.5518639°W﻿ / 3.4134333; -76.5518639",
+            "lines": [
+              "03°24′48.36″N 76°33′6.71″W﻿ / ﻿3.4134333°N 76.5518639°W﻿ / 3.4134333; -76.5518639"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Coliseo_El_Pueblo&amp;params=03_24_48.36_N_76_33_6.71_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">03°24′48.36″N</span> <span class=\"longitude\">76°33′6.71″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">3.4134333°N 76.5518639°W</span><span>﻿ / <span class=\"geo\">3.4134333; -76.5518639</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "03°24′48.36″N 76°33′6.71″W﻿ / ﻿3.4134333°N 76.5518639°W﻿ / 3.4134333; -76.5518639",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_El_Pueblo&params=03_24_48.36_N_76_33_6.71_W_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Cali City Hall",
+            "lines": [
+              "Cali City Hall"
+            ],
+            "html": "<td class=\"infobox-data agent\">Cali City Hall</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Secretary of Sports and Recreation of Cali",
+            "lines": [
+              "Secretary of Sports and Recreation of Cali"
+            ],
+            "html": "<td class=\"infobox-data agent\">Secretary of Sports and Recreation of Cali</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "12,000",
+            "lines": [
+              "12,000"
+            ],
+            "html": "<td class=\"infobox-data\">12,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "30 July 1971",
+            "lines": [
+              "30 July 1971"
+            ],
+            "html": "<td class=\"infobox-data\">30 July 1971</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "April 2016",
+            "lines": [
+              "April 2016"
+            ],
+            "html": "<td class=\"infobox-data\">April 2016</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Libia Yusti\nPedro Enrique Richardson",
+            "lines": [
+              "Libia Yusti",
+              "Pedro Enrique Richardson"
+            ],
+            "html": "<td class=\"infobox-data\">Libia Yusti<br>Pedro Enrique Richardson</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Project manager",
+            "key": "project_manager",
+            "group": "Construction",
+            "text": "Mayor of Santiago de Cali",
+            "lines": [
+              "Mayor of Santiago de Cali"
+            ],
+            "html": "<td class=\"infobox-data\">Mayor of Santiago de Cali</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Structural engineer",
+            "key": "structural_engineer",
+            "group": "Construction",
+            "text": "Guillermo González Zuleta",
+            "lines": [
+              "Guillermo González Zuleta"
+            ],
+            "html": "<td class=\"infobox-data\">Guillermo González Zuleta</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Cali, Colombia",
+              "lines": [
+                "Cali, Colombia"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Cali\" title=\"Cali\">Cali</a>, <a href=\"https://en.wikipedia.org/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>",
+              "links": [
+                {
+                  "text": "Cali",
+                  "title": "Cali",
+                  "wikiTitle": "Cali",
+                  "href": "https://en.wikipedia.org/wiki/Cali",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Colombia",
+                  "title": "Colombia",
+                  "wikiTitle": "Colombia",
+                  "href": "https://en.wikipedia.org/wiki/Colombia",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "03°24′48.36″N 76°33′6.71″W﻿ / ﻿3.4134333°N 76.5518639°W﻿ / 3.4134333; -76.5518639",
+              "lines": [
+                "03°24′48.36″N 76°33′6.71″W﻿ / ﻿3.4134333°N 76.5518639°W﻿ / 3.4134333; -76.5518639"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Coliseo_El_Pueblo&amp;params=03_24_48.36_N_76_33_6.71_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">03°24′48.36″N</span> <span class=\"longitude\">76°33′6.71″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">3.4134333°N 76.5518639°W</span><span>﻿ / <span class=\"geo\">3.4134333; -76.5518639</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "03°24′48.36″N 76°33′6.71″W﻿ / ﻿3.4134333°N 76.5518639°W﻿ / 3.4134333; -76.5518639",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_El_Pueblo&params=03_24_48.36_N_76_33_6.71_W_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Cali City Hall",
+              "lines": [
+                "Cali City Hall"
+              ],
+              "html": "<td class=\"infobox-data agent\">Cali City Hall</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Secretary of Sports and Recreation of Cali",
+              "lines": [
+                "Secretary of Sports and Recreation of Cali"
+              ],
+              "html": "<td class=\"infobox-data agent\">Secretary of Sports and Recreation of Cali</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "12,000",
+              "lines": [
+                "12,000"
+              ],
+              "html": "<td class=\"infobox-data\">12,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "30 July 1971",
+              "lines": [
+                "30 July 1971"
+              ],
+              "html": "<td class=\"infobox-data\">30 July 1971</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "April 2016",
+              "lines": [
+                "April 2016"
+              ],
+              "html": "<td class=\"infobox-data\">April 2016</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Libia Yusti\nPedro Enrique Richardson",
+              "lines": [
+                "Libia Yusti",
+                "Pedro Enrique Richardson"
+              ],
+              "html": "<td class=\"infobox-data\">Libia Yusti<br>Pedro Enrique Richardson</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "project_manager": [
+            {
+              "label": "Project manager",
+              "key": "project_manager",
+              "group": "Construction",
+              "text": "Mayor of Santiago de Cali",
+              "lines": [
+                "Mayor of Santiago de Cali"
+              ],
+              "html": "<td class=\"infobox-data\">Mayor of Santiago de Cali</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "structural_engineer": [
+            {
+              "label": "Structural engineer",
+              "key": "structural_engineer",
+              "group": "Construction",
+              "text": "Guillermo González Zuleta",
+              "lines": [
+                "Guillermo González Zuleta"
+              ],
+              "html": "<td class=\"infobox-data\">Guillermo González Zuleta</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Cali, Colombia"
+          ],
+          "coordinates": [
+            "03°24′48.36″N 76°33′6.71″W﻿ / ﻿3.4134333°N 76.5518639°W﻿ / 3.4134333; -76.5518639"
+          ],
+          "owner": [
+            "Cali City Hall"
+          ],
+          "operator": [
+            "Secretary of Sports and Recreation of Cali"
+          ],
+          "capacity": [
+            "12,000"
+          ],
+          "opened": [
+            "30 July 1971"
+          ],
+          "renovated": [
+            "April 2016"
+          ],
+          "architect": [
+            "Libia Yusti\nPedro Enrique Richardson"
+          ],
+          "project_manager": [
+            "Mayor of Santiago de Cali"
+          ],
+          "structural_engineer": [
+            "Guillermo González Zuleta"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "12,000"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Coliseo El Pueblo - Cali . Unidad Deportiva Alberto Galindo.JPG",
+            "fileName": "Coliseo El Pueblo - Cali . Unidad Deportiva Alberto Galindo.JPG",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG/250px-Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG/500px-Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 188,
+            "originalWidth": 4608,
+            "originalHeight": 3456,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_El_Pueblo&revid=1329965060&groups=_60333d7679a040800e1920015d144947c19df947&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_El_Pueblo&revid=1329965060&groups=_60333d7679a040800e1920015d144947c19df947&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Coliseo El Pueblo"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Coliseo El Pueblo</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG/250px-Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG\" width=\"250\" height=\"188\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG/500px-Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG 2x\" data-file-width=\"4608\" data-file-height=\"3456\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_60333d7679a040800e1920015d144947c19df947&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_El_Pueblo&amp;revid=1329965060&amp;groups=_60333d7679a040800e1920015d144947c19df947&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_El_Pueblo&amp;revid=1329965060&amp;groups=_60333d7679a040800e1920015d144947c19df947&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Coliseo El Pueblo</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Cali\" title=\"Cali\">Cali</a>, <a href=\"https://en.wikipedia.org/wiki/Colombia\" title=\"Colombia\">Colombia</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Coliseo_El_Pueblo&amp;params=03_24_48.36_N_76_33_6.71_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">03°24′48.36″N</span> <span class=\"longitude\">76°33′6.71″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">3.4134333°N 76.5518639°W</span><span>﻿ / <span class=\"geo\">3.4134333; -76.5518639</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Cali City Hall</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">Secretary of Sports and Recreation of Cali</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">12,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">30 July 1971</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">April 2016</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\">Libia Yusti<br>Pedro Enrique Richardson</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Project manager</div></th><td class=\"infobox-data\">Mayor of Santiago de Cali</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Structural engineer</div></th><td class=\"infobox-data\">Guillermo González Zuleta</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Webarchive_template_wayback_links",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_May_2016",
+        "Commons_category_link_from_Wikidata",
+        "Sports_venues_completed_in_1971",
+        "Indoor_arenas_in_Colombia",
+        "Buildings_and_structures_in_Cali",
+        "Basketball_venues_in_Colombia",
+        "Sport_in_Cali",
+        "All_stub_articles",
+        "South_American_sports_venue_stubs",
+        "Colombian_building_and_structure_stubs",
+        "Colombian_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_El_Pueblo&params=03_24_48.36_N_76_33_6.71_W_type:landmark",
+        "http://cali.vive.in/porlaciudad/cali/lugares_porlaciudad_cali/coliseodelpueblo/LUGAR-WEB-FICHA_LUGAR_VIVEIN-4179937.html",
+        "https://web.archive.org/web/20081024093114/http://cali.vive.in/porlaciudad/cali/lugares_porlaciudad_cali/coliseodelpueblo/LUGAR-WEB-FICHA_LUGAR_VIVEIN-4179937.html",
+        "http://boxrec.com/boxer/2501",
+        "http://www.slamdunk.ru/history/worldcup?Id=3061"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Events",
+          "anchor": "Events"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG",
+        "Commons-logo.svg",
+        "Flag_of_Brazil.svg",
+        "Flag_of_South_Korea.svg",
+        "Flag_of_the_Philippines.svg",
+        "Flag_of_Spain.svg",
+        "Flag_of_Thailand.svg",
+        "Flag_of_Lithuania.svg",
+        "Colosseo_2020.jpg",
+        "Flag_of_Colombia.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Coliseo El Pueblo - Cali . Unidad Deportiva Alberto Galindo.JPG",
+          "fileName": "Coliseo El Pueblo - Cali . Unidad Deportiva Alberto Galindo.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG/250px-Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG/500px-Coliseo_El_Pueblo_-_Cali_._Unidad_Deportiva_Alberto_Galindo.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 4608,
+          "originalHeight": 3456,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_El_Pueblo&revid=1329965060&groups=_60333d7679a040800e1920015d144947c19df947&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_El_Pueblo&revid=1329965060&groups=_60333d7679a040800e1920015d144947c19df947&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Coliseo El Pueblo"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/40px-Flag_of_Brazil.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/60px-Flag_of_Brazil.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 22,
+          "height": 15,
+          "originalWidth": 1000,
+          "originalHeight": 700,
+          "fileType": null,
+          "alt": "Brazil",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/40px-Flag_of_South_Korea.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/60px-Flag_of_South_Korea.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "South Korea",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/40px-Flag_of_the_Philippines.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/60px-Flag_of_the_Philippines.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Philippines",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/40px-Flag_of_Spain.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/60px-Flag_of_Spain.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 750,
+          "originalHeight": 500,
+          "fileType": null,
+          "alt": "Spain",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/40px-Flag_of_Thailand.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/60px-Flag_of_Thailand.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Thailand",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/40px-Flag_of_Lithuania.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/60px-Flag_of_Lithuania.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 14,
+          "originalWidth": 1000,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Lithuania",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Colosseo 2020.jpg",
+          "fileName": "Colosseo 2020.jpg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Colosseo_2020.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/40px-Colosseo_2020.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Colosseo_2020.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Colosseo_2020.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/60px-Colosseo_2020.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 21,
+          "originalWidth": 12051,
+          "originalHeight": 8442,
+          "fileType": null,
+          "alt": "Stub icon 1",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Flag of Colombia.svg",
+          "fileName": "Flag of Colombia.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Colombia.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Colombia.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Colombia.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/60px-Flag_of_Colombia.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Stub icon 2",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 92,
+          "rowText": "Cali\nColiseo El Pueblo\n1971\n12,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Cali\" title=\"Cali\">Cali</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Coliseo_El_Pueblo\" title=\"Coliseo El Pueblo\">Coliseo El Pueblo</a>\n</td>\n<td>1971\n</td>\n<td>12,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 89,
+              "cell": {
+                "text": "Colombia",
+                "lines": [
+                  "Colombia"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Colombia",
+                    "title": "Colombia",
+                    "wikiTitle": "Colombia",
+                    "href": "https://en.wikipedia.org/wiki/Colombia",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 92,
+              "cell": {
+                "text": "Cali",
+                "lines": [
+                  "Cali"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Cali",
+                    "title": "Cali",
+                    "wikiTitle": "Cali",
+                    "href": "https://en.wikipedia.org/wiki/Cali",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 92,
+              "cell": {
+                "text": "Coliseo El Pueblo",
+                "lines": [
+                  "Coliseo El Pueblo"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo El Pueblo",
+                    "title": "Coliseo El Pueblo",
+                    "wikiTitle": "Coliseo El Pueblo",
+                    "href": "https://en.wikipedia.org/wiki/Coliseo_El_Pueblo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 92,
+              "cell": {
+                "text": "1971",
+                "lines": [
+                  "1971"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 92,
+              "cell": {
+                "text": "12,000",
+                "lines": [
+                  "12,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 92,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Coliseo El Pueblo",
+            "lines": [
+              "Coliseo El Pueblo"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo El Pueblo",
+                "title": "Coliseo El Pueblo",
+                "wikiTitle": "Coliseo El Pueblo",
+                "href": "https://en.wikipedia.org/wiki/Coliseo_El_Pueblo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:30.877Z"
+    },
+    {
+      "id": "wikipedia-page-36300915",
+      "pageId": 36300915,
+      "revisionId": null,
+      "title": "Coliseo Iván de Bedout",
+      "displayTitle": "Coliseo Iván de Bedout",
+      "url": "https://en.wikipedia.org/wiki/Coliseo_Iv%C3%A1n_de_Bedout",
+      "wikidataItem": "Q39052310",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q39052310",
+      "aliases": [
+        "Coliseo Iván de Bedout",
+        "Iván de Beodut Coliseum"
+      ],
+      "requestedTitles": [
+        "Coliseo Iván de Bedout"
+      ],
+      "sourceLinkTexts": [
+        "Coliseo Iván de Bedout"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Coliseo_Iv%C3%A1n_de_Bedout"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 6.2562,
+        "longitude": -75.5879,
+        "raw": "6.2562; -75.5879"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Iván de Beodut Coliseum",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Coliseo Cubierto Iván de Bedout",
+            "lines": [
+              "Coliseo Cubierto Iván de Bedout"
+            ],
+            "html": "<td class=\"infobox-data\">Coliseo Cubierto Iván de Bedout</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Carrera 48 #70-10\nMedellín, Antioquia, Colombia",
+            "lines": [
+              "Carrera 48 #70-10",
+              "Medellín, Antioquia, Colombia"
+            ],
+            "html": "<td class=\"infobox-data label\">Carrera 48 #70-10 <br><a href=\"https://en.wikipedia.org/wiki/Medell%C3%ADn,_Antioquia\" class=\"mw-redirect\" title=\"Medellín, Antioquia\">Medellín, Antioquia</a>, Colombia</td>",
+            "links": [
+              {
+                "text": "Medellín, Antioquia",
+                "title": "Medellín, Antioquia",
+                "wikiTitle": "Medellín, Antioquia",
+                "href": "https://en.wikipedia.org/wiki/Medell%C3%ADn,_Antioquia",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "6°15′22″N 75°35′16″W﻿ / ﻿6.2562°N 75.5879°W﻿ / 6.2562; -75.5879",
+            "lines": [
+              "6°15′22″N 75°35′16″W﻿ / ﻿6.2562°N 75.5879°W﻿ / 6.2562; -75.5879"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Coliseo_Iv%C3%A1n_de_Bedout&amp;params=6.2562_N_75.5879_W_type:landmark_globe:earth_region:CO\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">6°15′22″N</span> <span class=\"longitude\">75°35′16″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">6.2562°N 75.5879°W</span><span>﻿ / <span class=\"geo\">6.2562; -75.5879</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "6°15′22″N 75°35′16″W﻿ / ﻿6.2562°N 75.5879°W﻿ / 6.2562; -75.5879",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_Iv%C3%A1n_de_Bedout&params=6.2562_N_75.5879_W_type:landmark_globe:earth_region:CO",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "Basketball: 6,000\nFutsal: 6,000",
+            "lines": [
+              "Basketball: 6,000",
+              "Futsal: 6,000"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Basketball\" title=\"Basketball\">Basketball</a>: 6,000<br><a href=\"https://en.wikipedia.org/wiki/Futsal\" title=\"Futsal\">Futsal</a>: 6,000</td>",
+            "links": [
+              {
+                "text": "Basketball",
+                "title": "Basketball",
+                "wikiTitle": "Basketball",
+                "href": "https://en.wikipedia.org/wiki/Basketball",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Futsal",
+                "title": "Futsal",
+                "wikiTitle": "Futsal",
+                "href": "https://en.wikipedia.org/wiki/Futsal",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Surface",
+            "key": "surface",
+            "group": null,
+            "text": "Parquet",
+            "lines": [
+              "Parquet"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Parquetry#Basketball_courts\" class=\"mw-redirect\" title=\"Parquetry\">Parquet</a></td>",
+            "links": [
+              {
+                "text": "Parquet",
+                "title": "Parquetry",
+                "wikiTitle": "Parquetry",
+                "href": "https://en.wikipedia.org/wiki/Parquetry#Basketball_courts",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1955",
+            "lines": [
+              "1955"
+            ],
+            "html": "<td class=\"infobox-data\">1955</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2010, 2016",
+            "lines": [
+              "2010, 2016"
+            ],
+            "html": "<td class=\"infobox-data\">2010, 2016</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Arrieros de Antioquia",
+            "lines": [
+              "Arrieros de Antioquia"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\">Arrieros de Antioquia</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Coliseo Cubierto Iván de Bedout",
+              "lines": [
+                "Coliseo Cubierto Iván de Bedout"
+              ],
+              "html": "<td class=\"infobox-data\">Coliseo Cubierto Iván de Bedout</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Carrera 48 #70-10\nMedellín, Antioquia, Colombia",
+              "lines": [
+                "Carrera 48 #70-10",
+                "Medellín, Antioquia, Colombia"
+              ],
+              "html": "<td class=\"infobox-data label\">Carrera 48 #70-10 <br><a href=\"https://en.wikipedia.org/wiki/Medell%C3%ADn,_Antioquia\" class=\"mw-redirect\" title=\"Medellín, Antioquia\">Medellín, Antioquia</a>, Colombia</td>",
+              "links": [
+                {
+                  "text": "Medellín, Antioquia",
+                  "title": "Medellín, Antioquia",
+                  "wikiTitle": "Medellín, Antioquia",
+                  "href": "https://en.wikipedia.org/wiki/Medell%C3%ADn,_Antioquia",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "6°15′22″N 75°35′16″W﻿ / ﻿6.2562°N 75.5879°W﻿ / 6.2562; -75.5879",
+              "lines": [
+                "6°15′22″N 75°35′16″W﻿ / ﻿6.2562°N 75.5879°W﻿ / 6.2562; -75.5879"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Coliseo_Iv%C3%A1n_de_Bedout&amp;params=6.2562_N_75.5879_W_type:landmark_globe:earth_region:CO\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">6°15′22″N</span> <span class=\"longitude\">75°35′16″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">6.2562°N 75.5879°W</span><span>﻿ / <span class=\"geo\">6.2562; -75.5879</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "6°15′22″N 75°35′16″W﻿ / ﻿6.2562°N 75.5879°W﻿ / 6.2562; -75.5879",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_Iv%C3%A1n_de_Bedout&params=6.2562_N_75.5879_W_type:landmark_globe:earth_region:CO",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "Basketball: 6,000\nFutsal: 6,000",
+              "lines": [
+                "Basketball: 6,000",
+                "Futsal: 6,000"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Basketball\" title=\"Basketball\">Basketball</a>: 6,000<br><a href=\"https://en.wikipedia.org/wiki/Futsal\" title=\"Futsal\">Futsal</a>: 6,000</td>",
+              "links": [
+                {
+                  "text": "Basketball",
+                  "title": "Basketball",
+                  "wikiTitle": "Basketball",
+                  "href": "https://en.wikipedia.org/wiki/Basketball",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Futsal",
+                  "title": "Futsal",
+                  "wikiTitle": "Futsal",
+                  "href": "https://en.wikipedia.org/wiki/Futsal",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "surface": [
+            {
+              "label": "Surface",
+              "key": "surface",
+              "group": null,
+              "text": "Parquet",
+              "lines": [
+                "Parquet"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Parquetry#Basketball_courts\" class=\"mw-redirect\" title=\"Parquetry\">Parquet</a></td>",
+              "links": [
+                {
+                  "text": "Parquet",
+                  "title": "Parquetry",
+                  "wikiTitle": "Parquetry",
+                  "href": "https://en.wikipedia.org/wiki/Parquetry#Basketball_courts",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1955",
+              "lines": [
+                "1955"
+              ],
+              "html": "<td class=\"infobox-data\">1955</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2010, 2016",
+              "lines": [
+                "2010, 2016"
+              ],
+              "html": "<td class=\"infobox-data\">2010, 2016</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Arrieros de Antioquia",
+              "lines": [
+                "Arrieros de Antioquia"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\">Arrieros de Antioquia</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Coliseo Cubierto Iván de Bedout"
+          ],
+          "location": [
+            "Carrera 48 #70-10\nMedellín, Antioquia, Colombia"
+          ],
+          "coordinates": [
+            "6°15′22″N 75°35′16″W﻿ / ﻿6.2562°N 75.5879°W﻿ / 6.2562; -75.5879"
+          ],
+          "capacity": [
+            "Basketball: 6,000\nFutsal: 6,000"
+          ],
+          "surface": [
+            "Parquet"
+          ],
+          "opened": [
+            "1955"
+          ],
+          "renovated": [
+            "2010, 2016"
+          ],
+          "tenants": [
+            "Arrieros de Antioquia"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "Basketball: 6,000",
+          "Futsal: 6,000"
+        ],
+        "tenants": [
+          "Arrieros de Antioquia"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Coliseo de Baloncesto Ivan de Bedout (3).jpg",
+            "fileName": "Coliseo de Baloncesto Ivan de Bedout (3).jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Coliseo_de_Baloncesto_Ivan_de_Bedout_(3).jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coliseo_de_Baloncesto_Ivan_de_Bedout_%283%29.jpg/250px-Coliseo_de_Baloncesto_Ivan_de_Bedout_%283%29.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coliseo_de_Baloncesto_Ivan_de_Bedout_(3).jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coliseo_de_Baloncesto_Ivan_de_Bedout_(3).jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coliseo_de_Baloncesto_Ivan_de_Bedout_%283%29.jpg/500px-Coliseo_de_Baloncesto_Ivan_de_Bedout_%283%29.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 188,
+            "originalWidth": 3648,
+            "originalHeight": 2736,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Iv%C3%A1n_de_Bedout&revid=1329393856&groups=_3477932b3ecbdd40bc644ecaa4cf2314637fbb1c&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Iv%C3%A1n_de_Bedout&revid=1329393856&groups=_3477932b3ecbdd40bc644ecaa4cf2314637fbb1c&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Iván de Beodut Coliseum"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Iván de Beodut Coliseum</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\" lang=\"Spanish\">Coliseo Iván de Bedout</div></td></tr><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\">Coliseo Cubierto Mayor</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Coliseo_de_Baloncesto_Ivan_de_Bedout_(3).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coliseo_de_Baloncesto_Ivan_de_Bedout_%283%29.jpg/250px-Coliseo_de_Baloncesto_Ivan_de_Bedout_%283%29.jpg\" width=\"250\" height=\"188\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coliseo_de_Baloncesto_Ivan_de_Bedout_%283%29.jpg/500px-Coliseo_de_Baloncesto_Ivan_de_Bedout_%283%29.jpg 2x\" data-file-width=\"3648\" data-file-height=\"2736\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_3477932b3ecbdd40bc644ecaa4cf2314637fbb1c&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_Iv%C3%A1n_de_Bedout&amp;revid=1329393856&amp;groups=_3477932b3ecbdd40bc644ecaa4cf2314637fbb1c&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_Iv%C3%A1n_de_Bedout&amp;revid=1329393856&amp;groups=_3477932b3ecbdd40bc644ecaa4cf2314637fbb1c&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Iván de Beodut Coliseum</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Coliseo Cubierto Iván de Bedout</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">Carrera 48 #70-10 <br><a href=\"https://en.wikipedia.org/wiki/Medell%C3%ADn,_Antioquia\" class=\"mw-redirect\" title=\"Medellín, Antioquia\">Medellín, Antioquia</a>, Colombia</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Coliseo_Iv%C3%A1n_de_Bedout&amp;params=6.2562_N_75.5879_W_type:landmark_globe:earth_region:CO\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">6°15′22″N</span> <span class=\"longitude\">75°35′16″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">6.2562°N 75.5879°W</span><span>﻿ / <span class=\"geo\">6.2562; -75.5879</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Basketball\" title=\"Basketball\">Basketball</a>: 6,000<br><a href=\"https://en.wikipedia.org/wiki/Futsal\" title=\"Futsal\">Futsal</a>: 6,000</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Surface</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Parquetry#Basketball_courts\" class=\"mw-redirect\" title=\"Parquetry\">Parquet</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1955</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2010, 2016</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\">Arrieros de Antioquia</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Articles_needing_additional_references_from_August_2017",
+        "All_articles_needing_additional_references",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Basketball_venues_in_Colombia",
+        "Buildings_and_structures_in_Medellín",
+        "Indoor_arenas_in_Colombia",
+        "Sport_in_Medellín",
+        "Sports_venues_completed_in_1955",
+        "Sports_venues_in_Colombia",
+        "1955_establishments_in_Colombia",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_Iv%C3%A1n_de_Bedout&params=6.2562_N_75.5879_W_type:landmark_globe:earth_region:CO",
+        "http://www.fiba.basketball/americup/2017/venues/ivandebedout",
+        "https://www.google.com/search?as_eq=wikipedia&q=%22Coliseo+Iv%C3%A1n+de+Bedout%22",
+        "https://www.google.com/search?tbm=nws&q=%22Coliseo+Iv%C3%A1n+de+Bedout%22+-wikipedia&tbs=ar:1",
+        "https://www.google.com/search?&q=%22Coliseo+Iv%C3%A1n+de+Bedout%22&tbs=bkt:s&tbm=bks",
+        "https://www.google.com/search?tbs=bks:1&q=%22Coliseo+Iv%C3%A1n+de+Bedout%22+-wikipedia",
+        "https://scholar.google.com/scholar?q=%22Coliseo+Iv%C3%A1n+de+Bedout%22",
+        "https://www.jstor.org/action/doBasicSearch?Query=%22Coliseo+Iv%C3%A1n+de+Bedout%22&acc=on&wc=on",
+        "https://web.archive.org/web/20170825234429/http://www.colombiasports.net/wp-content/uploads/2016/09/iv%C3%A1n-de-bedout-.jpg"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Question_book-new.svg",
+        "Coliseo_de_Baloncesto_Ivan_de_Bedout_(3).jpg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Question book-new.svg",
+          "fileName": "Question book-new.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 39,
+          "originalWidth": 512,
+          "originalHeight": 399,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Coliseo de Baloncesto Ivan de Bedout (3).jpg",
+          "fileName": "Coliseo de Baloncesto Ivan de Bedout (3).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coliseo_de_Baloncesto_Ivan_de_Bedout_(3).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coliseo_de_Baloncesto_Ivan_de_Bedout_%283%29.jpg/250px-Coliseo_de_Baloncesto_Ivan_de_Bedout_%283%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coliseo_de_Baloncesto_Ivan_de_Bedout_(3).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coliseo_de_Baloncesto_Ivan_de_Bedout_(3).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coliseo_de_Baloncesto_Ivan_de_Bedout_%283%29.jpg/500px-Coliseo_de_Baloncesto_Ivan_de_Bedout_%283%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 3648,
+          "originalHeight": 2736,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Iv%C3%A1n_de_Bedout&revid=1329393856&groups=_3477932b3ecbdd40bc644ecaa4cf2314637fbb1c&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Iv%C3%A1n_de_Bedout&revid=1329393856&groups=_3477932b3ecbdd40bc644ecaa4cf2314637fbb1c&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Iván de Beodut Coliseum"
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 95,
+          "rowText": "Medellín\nColiseo Iván de Bedout\n1955\n8,000",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Medell%C3%ADn\" title=\"Medellín\">Medellín</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Coliseo_Iv%C3%A1n_de_Bedout\" title=\"Coliseo Iván de Bedout\">Coliseo Iván de Bedout</a>\n</td>\n<td>1955\n</td>\n<td>8,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 89,
+              "cell": {
+                "text": "Colombia",
+                "lines": [
+                  "Colombia"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Colombia",
+                    "title": "Colombia",
+                    "wikiTitle": "Colombia",
+                    "href": "https://en.wikipedia.org/wiki/Colombia",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 95,
+              "cell": {
+                "text": "Medellín",
+                "lines": [
+                  "Medellín"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Medellín",
+                    "title": "Medellín",
+                    "wikiTitle": "Medellín",
+                    "href": "https://en.wikipedia.org/wiki/Medell%C3%ADn",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 95,
+              "cell": {
+                "text": "Coliseo Iván de Bedout",
+                "lines": [
+                  "Coliseo Iván de Bedout"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo Iván de Bedout",
+                    "title": "Coliseo Iván de Bedout",
+                    "wikiTitle": "Coliseo Iván de Bedout",
+                    "href": "https://en.wikipedia.org/wiki/Coliseo_Iv%C3%A1n_de_Bedout",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 95,
+              "cell": {
+                "text": "1955",
+                "lines": [
+                  "1955"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 95,
+              "cell": {
+                "text": "8,000",
+                "lines": [
+                  "8,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 95,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Coliseo Iván de Bedout",
+            "lines": [
+              "Coliseo Iván de Bedout"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo Iván de Bedout",
+                "title": "Coliseo Iván de Bedout",
+                "wikiTitle": "Coliseo Iván de Bedout",
+                "href": "https://en.wikipedia.org/wiki/Coliseo_Iv%C3%A1n_de_Bedout",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:31.604Z"
+    },
+    {
+      "id": "wikipedia-page-6132363",
+      "pageId": 6132363,
+      "revisionId": null,
+      "title": "Movistar Arena (Bogotá)",
+      "displayTitle": "Movistar Arena (Bogotá)",
+      "url": "https://en.wikipedia.org/wiki/Movistar_Arena_(Bogot%C3%A1)",
+      "wikidataItem": "Q5145745",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5145745",
+      "aliases": [
+        "Movistar Arena Bogotá",
+        "Coliseo Cubierto El Campín",
+        "Movistar Arena",
+        "Movistar Arena (Bogotá)"
+      ],
+      "requestedTitles": [
+        "Movistar Arena Bogotá"
+      ],
+      "sourceLinkTexts": [
+        "Movistar Arena Bogotá"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Movistar_Arena_Bogot%C3%A1"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 4.64917,
+        "longitude": -74.07722,
+        "raw": "4.64917; -74.07722"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Movistar Arena",
+        "groups": [
+          "Construction",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Former names",
+            "key": "former_names",
+            "group": null,
+            "text": "Coliseo Cubierto El Campín",
+            "lines": [
+              "Coliseo Cubierto El Campín"
+            ],
+            "html": "<td class=\"infobox-data nickname\">Coliseo Cubierto El Campín</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Carrera 30 con calle 63\nCundinamarca\nBogotá, Colombia",
+            "lines": [
+              "Carrera 30 con calle 63",
+              "Cundinamarca",
+              "Bogotá, Colombia"
+            ],
+            "html": "<td class=\"infobox-data label\">Carrera 30 con calle 63<br>Cundinamarca<br><a href=\"https://en.wikipedia.org/wiki/Bogot%C3%A1\" title=\"Bogotá\">Bogotá</a>, <a href=\"https://en.wikipedia.org/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>",
+            "links": [
+              {
+                "text": "Bogotá",
+                "title": "Bogotá",
+                "wikiTitle": "Bogotá",
+                "href": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Colombia",
+                "title": "Colombia",
+                "wikiTitle": "Colombia",
+                "href": "https://en.wikipedia.org/wiki/Colombia",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "4°38′57″N 74°4′38″W﻿ / ﻿4.64917°N 74.07722°W﻿ / 4.64917; -74.07722",
+            "lines": [
+              "4°38′57″N 74°4′38″W﻿ / ﻿4.64917°N 74.07722°W﻿ / 4.64917; -74.07722"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Movistar_Arena_(Bogot%C3%A1)&amp;params=4_38_57_N_74_4_38_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">4°38′57″N</span> <span class=\"longitude\">74°4′38″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">4.64917°N 74.07722°W</span><span>﻿ / <span class=\"geo\">4.64917; -74.07722</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "4°38′57″N 74°4′38″W﻿ / ﻿4.64917°N 74.07722°W﻿ / 4.64917; -74.07722",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Movistar_Arena_(Bogot%C3%A1)&params=4_38_57_N_74_4_38_W_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Alcaldía de Bogotá, Colombiana de Escenarios",
+            "lines": [
+              "Alcaldía de Bogotá, Colombiana de Escenarios"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://es.wikipedia.org/wiki/Concejo_de_Bogot%C3%A1\" class=\"extiw\" title=\"es:Concejo de Bogotá\">Alcaldía de Bogotá</a>, Colombiana de Escenarios</td>",
+            "links": [
+              {
+                "text": "Alcaldía de Bogotá",
+                "title": "es:Concejo de Bogotá",
+                "wikiTitle": null,
+                "href": "https://es.wikipedia.org/wiki/Concejo_de_Bogot%C3%A1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "14,000",
+            "lines": [
+              "14,000"
+            ],
+            "html": "<td class=\"infobox-data\">14,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Executive suites",
+            "key": "executive_suites",
+            "group": null,
+            "text": "20",
+            "lines": [
+              "20"
+            ],
+            "html": "<td class=\"infobox-data\">20</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Surface",
+            "key": "surface",
+            "group": null,
+            "text": "37.000 m2",
+            "lines": [
+              "37.000 m2"
+            ],
+            "html": "<td class=\"infobox-data\">37.000 m2</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Public transit",
+            "key": "public_transit",
+            "group": null,
+            "text": "Movistar Arena Station",
+            "lines": [
+              "Movistar Arena Station"
+            ],
+            "html": "<td class=\"infobox-data\"><span><a href=\"https://en.wikipedia.org/wiki/File:TransMilenio_S._A._Bogot%C3%A1_logo.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TransMilenio_S._A._Bogot%C3%A1_logo.svg/40px-TransMilenio_S._A._Bogot%C3%A1_logo.svg.png\" width=\"26\" height=\"21\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TransMilenio_S._A._Bogot%C3%A1_logo.svg/60px-TransMilenio_S._A._Bogot%C3%A1_logo.svg.png 2x\" data-file-width=\"512\" data-file-height=\"411\"></a></span><a href=\"https://en.wikipedia.org/wiki/Movistar_Arena_(TransMilenio)\" title=\"Movistar Arena (TransMilenio)\">Movistar Arena Station</a></td>",
+            "links": [
+              {
+                "text": "",
+                "title": "File:TransMilenio S. A. Bogotá logo.svg",
+                "wikiTitle": "File:TransMilenio S. A. Bogotá logo.svg",
+                "href": "https://en.wikipedia.org/wiki/File:TransMilenio_S._A._Bogot%C3%A1_logo.svg",
+                "blueArticle": false,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Movistar Arena Station",
+                "title": "Movistar Arena (TransMilenio)",
+                "wikiTitle": "Movistar Arena (TransMilenio)",
+                "href": "https://en.wikipedia.org/wiki/Movistar_Arena_(TransMilenio)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [
+              {
+                "fileTitle": "File:TransMilenio S. A. Bogotá logo.svg",
+                "fileName": "TransMilenio S. A. Bogotá logo.svg",
+                "kind": "logo",
+                "filePageUrl": "https://en.wikipedia.org/wiki/File:TransMilenio_S._A._Bogot%C3%A1_logo.svg",
+                "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TransMilenio_S._A._Bogot%C3%A1_logo.svg/40px-TransMilenio_S._A._Bogot%C3%A1_logo.svg.png",
+                "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/TransMilenio_S._A._Bogot%C3%A1_logo.svg",
+                "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/TransMilenio_S._A._Bogot%C3%A1_logo.svg",
+                "srcset": [
+                  {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TransMilenio_S._A._Bogot%C3%A1_logo.svg/60px-TransMilenio_S._A._Bogot%C3%A1_logo.svg.png",
+                    "descriptor": "2x"
+                  }
+                ],
+                "width": 26,
+                "height": 21,
+                "originalWidth": 512,
+                "originalHeight": 411,
+                "fileType": null,
+                "alt": null,
+                "title": null,
+                "caption": null
+              }
+            ],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "26 May 1971 (1971-05-26)",
+            "lines": [
+              "26 May 1971 (1971-05-26)"
+            ],
+            "html": "<td class=\"infobox-data\">26&nbsp;May&nbsp;1971<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1971-05-26</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1 May 1973 (1973-05-01)",
+            "lines": [
+              "1 May 1973 (1973-05-01)"
+            ],
+            "html": "<td class=\"infobox-data\">1&nbsp;May&nbsp;1973<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1973-05-01</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2017-2018",
+            "lines": [
+              "2017-2018"
+            ],
+            "html": "<td class=\"infobox-data\">2017-2018</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Structural engineer",
+            "key": "structural_engineer",
+            "group": "Construction",
+            "text": "Eng. Guillermo Gonzalez Zuleta",
+            "lines": [
+              "Eng. Guillermo Gonzalez Zuleta"
+            ],
+            "html": "<td class=\"infobox-data\">Eng. <a href=\"https://en.wikipedia.org/w/index.php?title=Guillermo_Gonzalez_Zuleta&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guillermo Gonzalez Zuleta (page does not exist)\">Guillermo Gonzalez Zuleta</a></td>",
+            "links": [
+              {
+                "text": "Guillermo Gonzalez Zuleta",
+                "title": "Guillermo Gonzalez Zuleta (page does not exist)",
+                "wikiTitle": "Guillermo Gonzalez Zuleta",
+                "href": "https://en.wikipedia.org/w/index.php?title=Guillermo_Gonzalez_Zuleta&action=edit&redlink=1",
+                "blueArticle": false,
+                "redLink": true,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "General contractor",
+            "key": "general_contractor",
+            "group": "Construction",
+            "text": "Jorge Alvarado, Germán Guerrero and Oscar Lobo Reveiz",
+            "lines": [
+              "Jorge Alvarado, Germán Guerrero and Oscar Lobo Reveiz"
+            ],
+            "html": "<td class=\"infobox-data\">Jorge Alvarado, Germán Guerrero and Oscar Lobo Reveiz</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "www.movistararena.co",
+            "lines": [
+              "www.movistararena.co"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"https://www.movistararena.co/\">www<wbr>.movistararena<wbr>.co</a></span></td>",
+            "links": [
+              {
+                "text": "www.movistararena.co",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://www.movistararena.co/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "former_names": [
+            {
+              "label": "Former names",
+              "key": "former_names",
+              "group": null,
+              "text": "Coliseo Cubierto El Campín",
+              "lines": [
+                "Coliseo Cubierto El Campín"
+              ],
+              "html": "<td class=\"infobox-data nickname\">Coliseo Cubierto El Campín</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Carrera 30 con calle 63\nCundinamarca\nBogotá, Colombia",
+              "lines": [
+                "Carrera 30 con calle 63",
+                "Cundinamarca",
+                "Bogotá, Colombia"
+              ],
+              "html": "<td class=\"infobox-data label\">Carrera 30 con calle 63<br>Cundinamarca<br><a href=\"https://en.wikipedia.org/wiki/Bogot%C3%A1\" title=\"Bogotá\">Bogotá</a>, <a href=\"https://en.wikipedia.org/wiki/Colombia\" title=\"Colombia\">Colombia</a></td>",
+              "links": [
+                {
+                  "text": "Bogotá",
+                  "title": "Bogotá",
+                  "wikiTitle": "Bogotá",
+                  "href": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Colombia",
+                  "title": "Colombia",
+                  "wikiTitle": "Colombia",
+                  "href": "https://en.wikipedia.org/wiki/Colombia",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "4°38′57″N 74°4′38″W﻿ / ﻿4.64917°N 74.07722°W﻿ / 4.64917; -74.07722",
+              "lines": [
+                "4°38′57″N 74°4′38″W﻿ / ﻿4.64917°N 74.07722°W﻿ / 4.64917; -74.07722"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Movistar_Arena_(Bogot%C3%A1)&amp;params=4_38_57_N_74_4_38_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">4°38′57″N</span> <span class=\"longitude\">74°4′38″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">4.64917°N 74.07722°W</span><span>﻿ / <span class=\"geo\">4.64917; -74.07722</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "4°38′57″N 74°4′38″W﻿ / ﻿4.64917°N 74.07722°W﻿ / 4.64917; -74.07722",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Movistar_Arena_(Bogot%C3%A1)&params=4_38_57_N_74_4_38_W_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Alcaldía de Bogotá, Colombiana de Escenarios",
+              "lines": [
+                "Alcaldía de Bogotá, Colombiana de Escenarios"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://es.wikipedia.org/wiki/Concejo_de_Bogot%C3%A1\" class=\"extiw\" title=\"es:Concejo de Bogotá\">Alcaldía de Bogotá</a>, Colombiana de Escenarios</td>",
+              "links": [
+                {
+                  "text": "Alcaldía de Bogotá",
+                  "title": "es:Concejo de Bogotá",
+                  "wikiTitle": null,
+                  "href": "https://es.wikipedia.org/wiki/Concejo_de_Bogot%C3%A1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "14,000",
+              "lines": [
+                "14,000"
+              ],
+              "html": "<td class=\"infobox-data\">14,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "executive_suites": [
+            {
+              "label": "Executive suites",
+              "key": "executive_suites",
+              "group": null,
+              "text": "20",
+              "lines": [
+                "20"
+              ],
+              "html": "<td class=\"infobox-data\">20</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "surface": [
+            {
+              "label": "Surface",
+              "key": "surface",
+              "group": null,
+              "text": "37.000 m2",
+              "lines": [
+                "37.000 m2"
+              ],
+              "html": "<td class=\"infobox-data\">37.000 m2</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "public_transit": [
+            {
+              "label": "Public transit",
+              "key": "public_transit",
+              "group": null,
+              "text": "Movistar Arena Station",
+              "lines": [
+                "Movistar Arena Station"
+              ],
+              "html": "<td class=\"infobox-data\"><span><a href=\"https://en.wikipedia.org/wiki/File:TransMilenio_S._A._Bogot%C3%A1_logo.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TransMilenio_S._A._Bogot%C3%A1_logo.svg/40px-TransMilenio_S._A._Bogot%C3%A1_logo.svg.png\" width=\"26\" height=\"21\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TransMilenio_S._A._Bogot%C3%A1_logo.svg/60px-TransMilenio_S._A._Bogot%C3%A1_logo.svg.png 2x\" data-file-width=\"512\" data-file-height=\"411\"></a></span><a href=\"https://en.wikipedia.org/wiki/Movistar_Arena_(TransMilenio)\" title=\"Movistar Arena (TransMilenio)\">Movistar Arena Station</a></td>",
+              "links": [
+                {
+                  "text": "",
+                  "title": "File:TransMilenio S. A. Bogotá logo.svg",
+                  "wikiTitle": "File:TransMilenio S. A. Bogotá logo.svg",
+                  "href": "https://en.wikipedia.org/wiki/File:TransMilenio_S._A._Bogot%C3%A1_logo.svg",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Movistar Arena Station",
+                  "title": "Movistar Arena (TransMilenio)",
+                  "wikiTitle": "Movistar Arena (TransMilenio)",
+                  "href": "https://en.wikipedia.org/wiki/Movistar_Arena_(TransMilenio)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [
+                {
+                  "fileTitle": "File:TransMilenio S. A. Bogotá logo.svg",
+                  "fileName": "TransMilenio S. A. Bogotá logo.svg",
+                  "kind": "logo",
+                  "filePageUrl": "https://en.wikipedia.org/wiki/File:TransMilenio_S._A._Bogot%C3%A1_logo.svg",
+                  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TransMilenio_S._A._Bogot%C3%A1_logo.svg/40px-TransMilenio_S._A._Bogot%C3%A1_logo.svg.png",
+                  "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/TransMilenio_S._A._Bogot%C3%A1_logo.svg",
+                  "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/TransMilenio_S._A._Bogot%C3%A1_logo.svg",
+                  "srcset": [
+                    {
+                      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TransMilenio_S._A._Bogot%C3%A1_logo.svg/60px-TransMilenio_S._A._Bogot%C3%A1_logo.svg.png",
+                      "descriptor": "2x"
+                    }
+                  ],
+                  "width": 26,
+                  "height": 21,
+                  "originalWidth": 512,
+                  "originalHeight": 411,
+                  "fileType": null,
+                  "alt": null,
+                  "title": null,
+                  "caption": null
+                }
+              ],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "26 May 1971 (1971-05-26)",
+              "lines": [
+                "26 May 1971 (1971-05-26)"
+              ],
+              "html": "<td class=\"infobox-data\">26&nbsp;May&nbsp;1971<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1971-05-26</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1 May 1973 (1973-05-01)",
+              "lines": [
+                "1 May 1973 (1973-05-01)"
+              ],
+              "html": "<td class=\"infobox-data\">1&nbsp;May&nbsp;1973<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1973-05-01</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2017-2018",
+              "lines": [
+                "2017-2018"
+              ],
+              "html": "<td class=\"infobox-data\">2017-2018</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "structural_engineer": [
+            {
+              "label": "Structural engineer",
+              "key": "structural_engineer",
+              "group": "Construction",
+              "text": "Eng. Guillermo Gonzalez Zuleta",
+              "lines": [
+                "Eng. Guillermo Gonzalez Zuleta"
+              ],
+              "html": "<td class=\"infobox-data\">Eng. <a href=\"https://en.wikipedia.org/w/index.php?title=Guillermo_Gonzalez_Zuleta&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guillermo Gonzalez Zuleta (page does not exist)\">Guillermo Gonzalez Zuleta</a></td>",
+              "links": [
+                {
+                  "text": "Guillermo Gonzalez Zuleta",
+                  "title": "Guillermo Gonzalez Zuleta (page does not exist)",
+                  "wikiTitle": "Guillermo Gonzalez Zuleta",
+                  "href": "https://en.wikipedia.org/w/index.php?title=Guillermo_Gonzalez_Zuleta&action=edit&redlink=1",
+                  "blueArticle": false,
+                  "redLink": true,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "general_contractor": [
+            {
+              "label": "General contractor",
+              "key": "general_contractor",
+              "group": "Construction",
+              "text": "Jorge Alvarado, Germán Guerrero and Oscar Lobo Reveiz",
+              "lines": [
+                "Jorge Alvarado, Germán Guerrero and Oscar Lobo Reveiz"
+              ],
+              "html": "<td class=\"infobox-data\">Jorge Alvarado, Germán Guerrero and Oscar Lobo Reveiz</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "www.movistararena.co",
+              "lines": [
+                "www.movistararena.co"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"https://www.movistararena.co/\">www<wbr>.movistararena<wbr>.co</a></span></td>",
+              "links": [
+                {
+                  "text": "www.movistararena.co",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://www.movistararena.co/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "former_names": [
+            "Coliseo Cubierto El Campín"
+          ],
+          "location": [
+            "Carrera 30 con calle 63\nCundinamarca\nBogotá, Colombia"
+          ],
+          "coordinates": [
+            "4°38′57″N 74°4′38″W﻿ / ﻿4.64917°N 74.07722°W﻿ / 4.64917; -74.07722"
+          ],
+          "owner": [
+            "Alcaldía de Bogotá, Colombiana de Escenarios"
+          ],
+          "capacity": [
+            "14,000"
+          ],
+          "executive_suites": [
+            "20"
+          ],
+          "surface": [
+            "37.000 m2"
+          ],
+          "public_transit": [
+            "Movistar Arena Station"
+          ],
+          "groundbreaking": [
+            "26 May 1971 (1971-05-26)"
+          ],
+          "opened": [
+            "1 May 1973 (1973-05-01)"
+          ],
+          "renovated": [
+            "2017-2018"
+          ],
+          "structural_engineer": [
+            "Eng. Guillermo Gonzalez Zuleta"
+          ],
+          "general_contractor": [
+            "Jorge Alvarado, Germán Guerrero and Oscar Lobo Reveiz"
+          ],
+          "website": [
+            "www.movistararena.co"
+          ]
+        },
+        "formerNames": [
+          "Coliseo Cubierto El Campín"
+        ],
+        "capacities": [
+          "14,000"
+        ],
+        "tenants": [],
+        "websites": [
+          "https://www.movistararena.co/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:Movistar Arena logo.svg",
+            "fileName": "Movistar Arena logo.svg",
+            "kind": "logo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Movistar_Arena_logo.svg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Movistar_Arena_logo.svg/250px-Movistar_Arena_logo.svg.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Movistar_Arena_logo.svg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Movistar_Arena_logo.svg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Movistar_Arena_logo.svg/500px-Movistar_Arena_logo.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 38,
+            "originalWidth": 100,
+            "originalHeight": 15,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": "File:Ma2 Bog agt 2019.jpg",
+            "fileName": "Ma2 Bog agt 2019.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Ma2_Bog_agt_2019.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ma2_Bog_agt_2019.jpg/250px-Ma2_Bog_agt_2019.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ma2_Bog_agt_2019.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ma2_Bog_agt_2019.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ma2_Bog_agt_2019.jpg/500px-Ma2_Bog_agt_2019.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 169,
+            "originalWidth": 2560,
+            "originalHeight": 1729,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "The Movistar Arena in September 2018."
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Movistar_Arena_%28Bogot%C3%A1%29&revid=1363501646&groups=_24e9e522dc8186e5da34cda05a03382a6f290e2a&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Movistar_Arena_%28Bogot%C3%A1%29&revid=1363501646&groups=_24e9e522dc8186e5da34cda05a03382a6f290e2a&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Movistar Arena"
+          },
+          {
+            "fileTitle": "File:TransMilenio S. A. Bogotá logo.svg",
+            "fileName": "TransMilenio S. A. Bogotá logo.svg",
+            "kind": "logo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:TransMilenio_S._A._Bogot%C3%A1_logo.svg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TransMilenio_S._A._Bogot%C3%A1_logo.svg/40px-TransMilenio_S._A._Bogot%C3%A1_logo.svg.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/TransMilenio_S._A._Bogot%C3%A1_logo.svg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/TransMilenio_S._A._Bogot%C3%A1_logo.svg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TransMilenio_S._A._Bogot%C3%A1_logo.svg/60px-TransMilenio_S._A._Bogot%C3%A1_logo.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 26,
+            "height": 21,
+            "originalWidth": 512,
+            "originalHeight": 411,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Movistar Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size notpageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Movistar_Arena_logo.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Movistar_Arena_logo.svg/250px-Movistar_Arena_logo.svg.png\" width=\"250\" height=\"38\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Movistar_Arena_logo.svg/500px-Movistar_Arena_logo.svg.png 2x\" data-file-width=\"100\" data-file-height=\"15\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Ma2_Bog_agt_2019.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ma2_Bog_agt_2019.jpg/250px-Ma2_Bog_agt_2019.jpg\" width=\"250\" height=\"169\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ma2_Bog_agt_2019.jpg/500px-Ma2_Bog_agt_2019.jpg 2x\" data-file-width=\"2560\" data-file-height=\"1729\"></a></span><div class=\"infobox-caption\">The Movistar Arena in September 2018.</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_24e9e522dc8186e5da34cda05a03382a6f290e2a&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Movistar_Arena_%28Bogot%C3%A1%29&amp;revid=1363501646&amp;groups=_24e9e522dc8186e5da34cda05a03382a6f290e2a&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Movistar_Arena_%28Bogot%C3%A1%29&amp;revid=1363501646&amp;groups=_24e9e522dc8186e5da34cda05a03382a6f290e2a&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Movistar Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Former names</div></th><td class=\"infobox-data nickname\">Coliseo Cubierto El Campín</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">Carrera 30 con calle 63<br>Cundinamarca<br><a href=\"https://en.wikipedia.org/wiki/Bogot%C3%A1\" title=\"Bogotá\">Bogotá</a>, <a href=\"https://en.wikipedia.org/wiki/Colombia\" title=\"Colombia\">Colombia</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Movistar_Arena_(Bogot%C3%A1)&amp;params=4_38_57_N_74_4_38_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">4°38′57″N</span> <span class=\"longitude\">74°4′38″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">4.64917°N 74.07722°W</span><span>﻿ / <span class=\"geo\">4.64917; -74.07722</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://es.wikipedia.org/wiki/Concejo_de_Bogot%C3%A1\" class=\"extiw\" title=\"es:Concejo de Bogotá\">Alcaldía de Bogotá</a>, Colombiana de Escenarios</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">14,000</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Executive suites</div></th><td class=\"infobox-data\">20</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Surface</th><td class=\"infobox-data\">37.000 m2</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Public&nbsp;transit</th><td class=\"infobox-data\"><span><a href=\"https://en.wikipedia.org/wiki/File:TransMilenio_S._A._Bogot%C3%A1_logo.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TransMilenio_S._A._Bogot%C3%A1_logo.svg/40px-TransMilenio_S._A._Bogot%C3%A1_logo.svg.png\" width=\"26\" height=\"21\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TransMilenio_S._A._Bogot%C3%A1_logo.svg/60px-TransMilenio_S._A._Bogot%C3%A1_logo.svg.png 2x\" data-file-width=\"512\" data-file-height=\"411\"></a></span><a href=\"https://en.wikipedia.org/wiki/Movistar_Arena_(TransMilenio)\" title=\"Movistar Arena (TransMilenio)\">Movistar Arena Station</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">26&nbsp;May&nbsp;1971<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1971-05-26</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1&nbsp;May&nbsp;1973<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1973-05-01</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2017-2018</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Structural engineer</div></th><td class=\"infobox-data\">Eng. <a href=\"https://en.wikipedia.org/w/index.php?title=Guillermo_Gonzalez_Zuleta&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Guillermo Gonzalez Zuleta (page does not exist)\">Guillermo Gonzalez Zuleta</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>General contractor</div></th><td class=\"infobox-data\">Jorge Alvarado, Germán Guerrero and Oscar Lobo Reveiz</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"https://www.movistararena.co/\">www<wbr>.movistararena<wbr>.co</a></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Spanish-language_sources_(es)",
+        "All_articles_with_dead_external_links",
+        "Articles_with_dead_external_links_from_July_2026",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Use_dmy_dates_from_October_2019",
+        "Articles_needing_translation_from_Spanish_Wikipedia",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_June_2022",
+        "Commons_category_link_from_Wikidata",
+        "Indoor_arenas_in_Colombia",
+        "Sports_venues_completed_in_1973",
+        "Sports_venues_in_Bogotá",
+        "Basketball_venues_in_Colombia",
+        "1973_establishments_in_Colombia",
+        "Tennis_venues_in_Colombia",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Movistar_Arena_(Bogot%C3%A1)&params=4_38_57_N_74_4_38_W_type:landmark",
+        "http://www.portafolio.co/el-impulso-del-movistar-arena-a-la-economia-naranja-de-bogota-521768",
+        "https://www.semana.com/nacion/articulo/el-coliseo-el-campin-ahora-se-llamara-movistar-arena-bogota/561103",
+        "https://www.elespectador.com/deportes/tenis/articulo191964-pete-sampras-andre-agassi-y-martina-hingis-vendran-colombia",
+        "https://caracol.com.co/radio/2010/12/02/deportes/1291281300_393434.html",
+        "https://www.eltiempo.com/Multimedia/especiales/nadaldjokovic/index.html",
+        "https://www.eltiempo.com/archivo/documento/CMS-11340201",
+        "https://web.archive.org/web/20120412001007/http://www.foxsportsla.com/tenis/Exhibicion-de-lujo-en-Colombia-Federer-vs-Tsonga-20120313-0053.html",
+        "http://www.foxsportsla.com/tenis/Exhibicion-de-lujo-en-Colombia-Federer-vs-Tsonga-20120313-0053.html",
+        "https://web.archive.org/web/20110814051158/http://www.banrepcultural.org/blaavirtual/historia/bogota/campin2a.htm",
+        "http://www.banrepcultural.org/blaavirtual/historia/bogota/campin2a.htm",
+        "http://www.eltiempo.com/archivo/documento/CMS-8791017",
+        "https://web.archive.org/web/20110124054407/http://elespectador.com/noticias/bogota/articulo-245945-coliseo-el-campin-seria-demolido",
+        "http://www.elespectador.com/noticias/bogota/articulo-245945-coliseo-el-campin-seria-demolido",
+        "http://www.eltiempo.com/archivo/documento/CMS-8791937",
+        "http://www.eltiempo.com/colombia/bogota/ARTICULO-WEB-NEW_NOTA_INTERIOR-8792693.html",
+        "http://www.semana.com/noticias-nacion/polemica-posible-demolicion-del-coliseo-campin/150525.aspx",
+        "https://www.publimetro.co/co/bogota/2018/04/17/asi-quedara-movistar-arena-reemplaza-al-coliseo-campin.html",
+        "https://web.archive.org/web/20160306050752/http://www.idrd.gov.co/www/section-594.jsp#329",
+        "http://www.idrd.gov.co/www/section-594.jsp#329",
+        "http://www.semana.com/nacion/articulo/el-coliseo-el-campin-ahora-se-llamara-movistar-arena-bogota/561103",
+        "https://colombia.as.com/actualidad/que-dijo-el-movistar-arena-sobre-la-proyeccion-de-la-bandera-de-israel-en-su-fachada-n/",
+        "https://www.infobae.com/colombia/2023/10/12/de-quien-fue-la-idea-de-proyectar-la-bandera-de-israel-movistar-arena-respondio/",
+        "https://www.elespectador.com/bogota/esto-dijo-el-movistar-arena-tras-polemica-por-proyectar-la-bandera-israel/",
+        "https://web.archive.org/web/20120317020907/http://bogota.vive.in/enescena/bogota/obras/abril2008/EVENTO-WEB-FICHA_EVENTO_VIVEIN-4137974.html",
+        "http://bogota.vive.in/enescena/bogota/obras/abril2008/EVENTO-WEB-FICHA_EVENTO_VIVEIN-4137974.html",
+        "https://translate.google.com/translate?&u=https://es.wikipedia.org/wiki/Movistar_Arena&sl=es&tl=en&prev=_t&hl=en",
+        "https://deepl.com",
+        "https://translate.google.com/",
+        "https://www.movistararena.co/",
+        "https://www.elespectador.com/resizer/v2/LXTCL2UVWZBUFJBFKFPO6ZDZ4Q.jfif?auth=315ea20c647f6da9ae10e5042d93fbda1dcd8cd3ff105d3d7379d386727f127c&width=920&height=613&smart=true&quality=60",
+        "https://maps.google.com/maps?q=http://bbs.keyhole.com/ubb/download.php?Number=929781&t=k&om=1",
+        "https://web.archive.org/web/20070714034233/http://www.aydconstruction.com/obras/campin.htm",
+        "https://web.archive.org/web/20070917085746/http://www.lablaa.org/blaavirtual/historia/bogota/campin2a.htm",
+        "https://musicbrainz.org/place/0d12edbd-23f8-4045-a34a-0d4c9beb0b7b"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Tennis matches",
+          "anchor": "Tennis_matches"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "As El Campín Coliseum",
+          "anchor": "As_El_Campín_Coliseum"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "Renovation",
+          "anchor": "Renovation"
+        },
+        {
+          "index": "5",
+          "level": 3,
+          "line": "As Movistar Arena",
+          "anchor": "As_Movistar_Arena"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "Other events",
+          "anchor": "Other_events"
+        },
+        {
+          "index": "7",
+          "level": 2,
+          "line": "Concerts",
+          "anchor": "Concerts"
+        },
+        {
+          "index": "8",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "9",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "10",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Japanese_A_to_English_A.svg",
+        "Movistar_Arena_logo.svg",
+        "Ma2_Bog_agt_2019.jpg",
+        "TransMilenio_S._A._Bogotá_logo.svg",
+        "Bogota_Coliseo_El_Campín.JPG",
+        "Searchtool.svg",
+        "Commons-logo.svg",
+        "OOjs_UI_icon_edit-ltr-progressive.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Japanese A to English A.svg",
+          "fileName": "Japanese A to English A.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Japanese_A_to_English_A.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Japanese_A_to_English_A.svg/60px-Japanese_A_to_English_A.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Japanese_A_to_English_A.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Japanese_A_to_English_A.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Japanese_A_to_English_A.svg/120px-Japanese_A_to_English_A.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 16,
+          "originalWidth": 475,
+          "originalHeight": 150,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Movistar Arena logo.svg",
+          "fileName": "Movistar Arena logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Movistar_Arena_logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Movistar_Arena_logo.svg/250px-Movistar_Arena_logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Movistar_Arena_logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Movistar_Arena_logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Movistar_Arena_logo.svg/500px-Movistar_Arena_logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 38,
+          "originalWidth": 100,
+          "originalHeight": 15,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Ma2 Bog agt 2019.jpg",
+          "fileName": "Ma2 Bog agt 2019.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Ma2_Bog_agt_2019.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ma2_Bog_agt_2019.jpg/250px-Ma2_Bog_agt_2019.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ma2_Bog_agt_2019.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ma2_Bog_agt_2019.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ma2_Bog_agt_2019.jpg/500px-Ma2_Bog_agt_2019.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 169,
+          "originalWidth": 2560,
+          "originalHeight": 1729,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The Movistar Arena in September 2018."
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Movistar_Arena_%28Bogot%C3%A1%29&revid=1363501646&groups=_24e9e522dc8186e5da34cda05a03382a6f290e2a&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Movistar_Arena_%28Bogot%C3%A1%29&revid=1363501646&groups=_24e9e522dc8186e5da34cda05a03382a6f290e2a&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Movistar Arena"
+        },
+        {
+          "fileTitle": "File:TransMilenio S. A. Bogotá logo.svg",
+          "fileName": "TransMilenio S. A. Bogotá logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:TransMilenio_S._A._Bogot%C3%A1_logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TransMilenio_S._A._Bogot%C3%A1_logo.svg/40px-TransMilenio_S._A._Bogot%C3%A1_logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/TransMilenio_S._A._Bogot%C3%A1_logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/TransMilenio_S._A._Bogot%C3%A1_logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TransMilenio_S._A._Bogot%C3%A1_logo.svg/60px-TransMilenio_S._A._Bogot%C3%A1_logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 26,
+          "height": 21,
+          "originalWidth": 512,
+          "originalHeight": 411,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Bogota Coliseo El Campín.JPG",
+          "fileName": "Bogota Coliseo El Campín.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Bogota_Coliseo_El_Camp%C3%ADn.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bogota_Coliseo_El_Camp%C3%ADn.JPG/250px-Bogota_Coliseo_El_Camp%C3%ADn.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bogota_Coliseo_El_Camp%C3%ADn.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Bogota_Coliseo_El_Camp%C3%ADn.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bogota_Coliseo_El_Camp%C3%ADn.JPG/500px-Bogota_Coliseo_El_Camp%C3%ADn.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 3190,
+          "originalHeight": 2393,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "El Campín Coliseum in 2011"
+        },
+        {
+          "fileTitle": "File:Searchtool.svg",
+          "fileName": "Searchtool.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Searchtool.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Searchtool.svg/20px-Searchtool.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Searchtool.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Searchtool.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Searchtool.svg/40px-Searchtool.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 16,
+          "height": 16,
+          "originalWidth": 512,
+          "originalHeight": 512,
+          "fileType": null,
+          "alt": "image icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 40,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 89,
+          "rowText": "Colombia\nBogotá\nMovistar Arena Bogotá\n1973\n14,000",
+          "rowHtml": "<tr>\n<td rowspan=\"14\"><a href=\"https://en.wikipedia.org/wiki/Colombia\" title=\"Colombia\">Colombia</a>\n</td>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Bogot%C3%A1\" title=\"Bogotá\">Bogotá</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Movistar_Arena_Bogot%C3%A1\" class=\"mw-redirect\" title=\"Movistar Arena Bogotá\">Movistar Arena Bogotá</a>\n</td>\n<td>1973\n</td>\n<td>14,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 89,
+              "cell": {
+                "text": "Colombia",
+                "lines": [
+                  "Colombia"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Colombia",
+                    "title": "Colombia",
+                    "wikiTitle": "Colombia",
+                    "href": "https://en.wikipedia.org/wiki/Colombia",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 89,
+              "cell": {
+                "text": "Bogotá",
+                "lines": [
+                  "Bogotá"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Bogotá",
+                    "title": "Bogotá",
+                    "wikiTitle": "Bogotá",
+                    "href": "https://en.wikipedia.org/wiki/Bogot%C3%A1",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 89,
+              "cell": {
+                "text": "Movistar Arena Bogotá",
+                "lines": [
+                  "Movistar Arena Bogotá"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Movistar Arena Bogotá",
+                    "title": "Movistar Arena Bogotá",
+                    "wikiTitle": "Movistar Arena Bogotá",
+                    "href": "https://en.wikipedia.org/wiki/Movistar_Arena_Bogot%C3%A1",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 89,
+              "cell": {
+                "text": "1973",
+                "lines": [
+                  "1973"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 89,
+              "cell": {
+                "text": "14,000",
+                "lines": [
+                  "14,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 89,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Movistar Arena Bogotá",
+            "lines": [
+              "Movistar Arena Bogotá"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Movistar Arena Bogotá",
+                "title": "Movistar Arena Bogotá",
+                "wikiTitle": "Movistar Arena Bogotá",
+                "href": "https://en.wikipedia.org/wiki/Movistar_Arena_Bogot%C3%A1",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:31.256Z"
+    }
+  ]
+}

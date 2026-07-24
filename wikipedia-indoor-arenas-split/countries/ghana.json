@@ -1,0 +1,642 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Ghana",
+  "coverage": {
+    "mode": "inferred_from_infobox_or_other_lists",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 0
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 2,
+    "sourceTypeCounts": {
+      "country_or_region_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-76107824",
+      "pageId": 76107824,
+      "revisionId": null,
+      "title": "Borteyman Sports Complex",
+      "displayTitle": "Borteyman Sports Complex",
+      "url": "https://en.wikipedia.org/wiki/Borteyman_Sports_Complex",
+      "wikidataItem": "Q123349076",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q123349076",
+      "aliases": [
+        "Borteyman Sports Complex"
+      ],
+      "requestedTitles": [
+        "Borteyman Sports Complex"
+      ],
+      "sourceLinkTexts": [
+        "Borteyman Sports Complex"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Borteyman_Sports_Complex"
+      ],
+      "sourcePages": [
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": null,
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Borteyman Sports Complex",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "Borteyman\nGhana",
+            "lines": [
+              "Borteyman",
+              "Ghana"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Borteyman\" title=\"Borteyman\">Borteyman</a><br><a href=\"https://en.wikipedia.org/wiki/Ghana\" title=\"Ghana\">Ghana</a><span data-plural=\"1\"></span></td>",
+            "links": [
+              {
+                "text": "Borteyman",
+                "title": "Borteyman",
+                "wikiTitle": "Borteyman",
+                "href": "https://en.wikipedia.org/wiki/Borteyman",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Ghana",
+                "title": "Ghana",
+                "wikiTitle": "Ghana",
+                "href": "https://en.wikipedia.org/wiki/Ghana",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "5000",
+            "lines": [
+              "5000"
+            ],
+            "html": "<td class=\"infobox-data\">5000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "13th February, 2024",
+            "lines": [
+              "13th February, 2024"
+            ],
+            "html": "<td class=\"infobox-data\">13th February, 2024</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "$145 million",
+            "lines": [
+              "$145 million"
+            ],
+            "html": "<td class=\"infobox-data\">$145 million</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-1"
+              }
+            ]
+          }
+        ],
+        "facts": {
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "Borteyman\nGhana",
+              "lines": [
+                "Borteyman",
+                "Ghana"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Borteyman\" title=\"Borteyman\">Borteyman</a><br><a href=\"https://en.wikipedia.org/wiki/Ghana\" title=\"Ghana\">Ghana</a><span data-plural=\"1\"></span></td>",
+              "links": [
+                {
+                  "text": "Borteyman",
+                  "title": "Borteyman",
+                  "wikiTitle": "Borteyman",
+                  "href": "https://en.wikipedia.org/wiki/Borteyman",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Ghana",
+                  "title": "Ghana",
+                  "wikiTitle": "Ghana",
+                  "href": "https://en.wikipedia.org/wiki/Ghana",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "5000",
+              "lines": [
+                "5000"
+              ],
+              "html": "<td class=\"infobox-data\">5000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "13th February, 2024",
+              "lines": [
+                "13th February, 2024"
+              ],
+              "html": "<td class=\"infobox-data\">13th February, 2024</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "$145 million",
+              "lines": [
+                "$145 million"
+              ],
+              "html": "<td class=\"infobox-data\">$145 million</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-1"
+                }
+              ]
+            }
+          ]
+        },
+        "factsText": {
+          "address": [
+            "Borteyman\nGhana"
+          ],
+          "capacity": [
+            "5000"
+          ],
+          "opened": [
+            "13th February, 2024"
+          ],
+          "cost": [
+            "$145 million"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "5000"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Borteyman_Sports_Complex&revid=1351566503&groups=_b7ad74d8a1ac68ea340b0b25c2503be2c92000f1&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Borteyman_Sports_Complex&revid=1351566503&groups=_b7ad74d8a1ac68ea340b0b25c2503be2c92000f1&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Borteyman Sports Complex"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Borteyman Sports Complex</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_b7ad74d8a1ac68ea340b0b25c2503be2c92000f1&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Borteyman_Sports_Complex&amp;revid=1351566503&amp;groups=_b7ad74d8a1ac68ea340b0b25c2503be2c92000f1&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Borteyman_Sports_Complex&amp;revid=1351566503&amp;groups=_b7ad74d8a1ac68ea340b0b25c2503be2c92000f1&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Borteyman Sports Complex</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Borteyman\" title=\"Borteyman\">Borteyman</a><br><a href=\"https://en.wikipedia.org/wiki/Ghana\" title=\"Ghana\">Ghana</a><span data-plural=\"1\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">5000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">13th February, 2024</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">$145 million</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Commons_category_link_from_Wikidata",
+        "Ghana_articles_missing_geocoordinate_data",
+        "All_articles_needing_coordinates",
+        "Articles_missing_coordinates_with_coordinates_on_Wikidata",
+        "Sports_venues_in_Ghana",
+        "Buildings_and_structures_in_Accra",
+        "2024_establishments_in_Ghana",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://starrfm.com.gh/2021/08/africa-games-prez-akufo-addo-cuts-sod-for-construction-of-borteyman-sports-complex/?amp=1",
+        "https://citinewsroom.com/2024/02/akufo-addo-commissions-borteyman-sports-complex/",
+        "https://www.myjoyonline.com/president-akufo-addo-commissions-borteyman-sports-facilities-ghana-ready-to-host-historical-13th-african-games/",
+        "https://adma.gov.gh/2021/09/03/president-cuts-sod-for-the-construction-of-a-sports-complex-at-borteyman-towards-the-2023-all-african-games/",
+        "https://starrfm.com.gh/2021/08/africa-games-prez-akufo-addo-cuts-sod-for-construction-of-borteyman-sports-complex/",
+        "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Borteyman-Sports-Complex-to-be-converted-to-University-of-Sport-for-Dev-t-after-African-Games-Sports-Minister-1916885",
+        "https://www.ug.edu.gh/news/president-akufo-addo-cuts-sod-ug-borteyman-land-construction-13th-african-games-sporting#:~:text=The%20President%20of%20the%20Republic,-the-art%20sporting%20facility.",
+        "https://www.asaaseradio.com/akufo-addo-commissions-borteyman-sports-complex-ahead-of-13th-african-games-in-march/",
+        "https://thechronicle.com.gh/borteyman-sports-complex-ready-for-all-african-games/",
+        "https://www.myjoyonline.com/african-games-2023-akufo-addo-cuts-sod-for-145m-borteyman-sports-complex/",
+        "https://www.graphic.com.gh/sports/sports-news/africa-games-borteyman-comes-alive.html",
+        "https://thefourthestategh.com/2025/03/african-games-whats-next-for-the-multi-million-dollar-borteyman-sports-complex/",
+        "https://gna.org.gh/2024/02/borteyman-sports-complex-will-serve-as-centre-of-excellence-sports-minister/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Construction",
+          "anchor": "Construction"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Overview",
+          "anchor": "Overview"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Facilities",
+          "anchor": "Facilities"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Commons-logo.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Borteyman_Sports_Complex&revid=1351566503&groups=_b7ad74d8a1ac68ea340b0b25c2503be2c92000f1&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Borteyman_Sports_Complex&revid=1351566503&groups=_b7ad74d8a1ac68ea340b0b25c2503be2c92000f1&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Borteyman Sports Complex"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 40,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 30,
+          "rowText": "Ghana\nAccra\nBorteyman Sports Complex\n2024\n5,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Ghana\" title=\"Ghana\">Ghana</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Accra\" title=\"Accra\">Accra</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Borteyman_Sports_Complex\" title=\"Borteyman Sports Complex\">Borteyman Sports Complex</a>\n</td>\n<td align=\"center\">2024\n</td>\n<td align=\"center\">5,000\n</td>\n<td>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "Ghana",
+                "lines": [
+                  "Ghana"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ghana",
+                    "title": "Ghana",
+                    "wikiTitle": "Ghana",
+                    "href": "https://en.wikipedia.org/wiki/Ghana",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "Accra",
+                "lines": [
+                  "Accra"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Accra",
+                    "title": "Accra",
+                    "wikiTitle": "Accra",
+                    "href": "https://en.wikipedia.org/wiki/Accra",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "Borteyman Sports Complex",
+                "lines": [
+                  "Borteyman Sports Complex"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Borteyman Sports Complex",
+                    "title": "Borteyman Sports Complex",
+                    "wikiTitle": "Borteyman Sports Complex",
+                    "href": "https://en.wikipedia.org/wiki/Borteyman_Sports_Complex",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "2024",
+                "lines": [
+                  "2024"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "5,000",
+                "lines": [
+                  "5,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Borteyman Sports Complex",
+            "lines": [
+              "Borteyman Sports Complex"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Borteyman Sports Complex",
+                "title": "Borteyman Sports Complex",
+                "wikiTitle": "Borteyman Sports Complex",
+                "href": "https://en.wikipedia.org/wiki/Borteyman_Sports_Complex",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:52:21.79Z"
+    }
+  ]
+}

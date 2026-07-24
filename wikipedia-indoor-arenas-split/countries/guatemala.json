@@ -1,0 +1,773 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Guatemala",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 3,
+    "sourceTypeCounts": {
+      "world_master_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-8101693",
+      "pageId": 8101693,
+      "revisionId": null,
+      "title": "Domo Polideportivo de la CDAG",
+      "displayTitle": "Domo Polideportivo de la CDAG",
+      "url": "https://en.wikipedia.org/wiki/Domo_Polideportivo_de_la_CDAG",
+      "wikidataItem": "Q5291330",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5291330",
+      "aliases": [
+        "Domo Polideportivo",
+        "Domo Polideportivo de la CDAG"
+      ],
+      "requestedTitles": [
+        "Domo Polideportivo"
+      ],
+      "sourceLinkTexts": [
+        "Domo Polideportivo"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Domo_Polideportivo"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 14.59417,
+        "longitude": -90.53222,
+        "raw": "14.59417; -90.53222"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Domo Polideportivo de la CDAG",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Domo Polideportivo de la Confederación Deportiva Autónoma de Guatemala",
+            "lines": [
+              "Domo Polideportivo de la Confederación Deportiva Autónoma de Guatemala"
+            ],
+            "html": "<td class=\"infobox-data\">Domo Polideportivo de la Confederación Deportiva Autónoma de Guatemala</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Guatemala City, Guatemala",
+            "lines": [
+              "Guatemala City, Guatemala"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Guatemala_City\" title=\"Guatemala City\">Guatemala City</a>, <a href=\"https://en.wikipedia.org/wiki/Guatemala\" title=\"Guatemala\">Guatemala</a></td>",
+            "links": [
+              {
+                "text": "Guatemala City",
+                "title": "Guatemala City",
+                "wikiTitle": "Guatemala City",
+                "href": "https://en.wikipedia.org/wiki/Guatemala_City",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Guatemala",
+                "title": "Guatemala",
+                "wikiTitle": "Guatemala",
+                "href": "https://en.wikipedia.org/wiki/Guatemala",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "CDAG",
+            "lines": [
+              "CDAG"
+            ],
+            "html": "<td class=\"infobox-data agent\">CDAG</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "CDAG",
+            "lines": [
+              "CDAG"
+            ],
+            "html": "<td class=\"infobox-data agent\">CDAG</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "7,500",
+            "lines": [
+              "7,500"
+            ],
+            "html": "<td class=\"infobox-data\">7,500</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "2000",
+            "lines": [
+              "2000"
+            ],
+            "html": "<td class=\"infobox-data\">2000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "2000 FIFA Futsal World Championship\nIV CONCACAF Futsal Championship",
+            "lines": [
+              "2000 FIFA Futsal World Championship",
+              "IV CONCACAF Futsal Championship"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/2000_FIFA_Futsal_World_Championship\" title=\"2000 FIFA Futsal World Championship\">2000 FIFA Futsal World Championship</a><br><a href=\"https://en.wikipedia.org/wiki/2008_CONCACAF_Futsal_Championship\" title=\"2008 CONCACAF Futsal Championship\">IV CONCACAF Futsal Championship</a></td>",
+            "links": [
+              {
+                "text": "2000 FIFA Futsal World Championship",
+                "title": "2000 FIFA Futsal World Championship",
+                "wikiTitle": "2000 FIFA Futsal World Championship",
+                "href": "https://en.wikipedia.org/wiki/2000_FIFA_Futsal_World_Championship",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "IV CONCACAF Futsal Championship",
+                "title": "2008 CONCACAF Futsal Championship",
+                "wikiTitle": "2008 CONCACAF Futsal Championship",
+                "href": "https://en.wikipedia.org/wiki/2008_CONCACAF_Futsal_Championship",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Domo Polideportivo de la Confederación Deportiva Autónoma de Guatemala",
+              "lines": [
+                "Domo Polideportivo de la Confederación Deportiva Autónoma de Guatemala"
+              ],
+              "html": "<td class=\"infobox-data\">Domo Polideportivo de la Confederación Deportiva Autónoma de Guatemala</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Guatemala City, Guatemala",
+              "lines": [
+                "Guatemala City, Guatemala"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Guatemala_City\" title=\"Guatemala City\">Guatemala City</a>, <a href=\"https://en.wikipedia.org/wiki/Guatemala\" title=\"Guatemala\">Guatemala</a></td>",
+              "links": [
+                {
+                  "text": "Guatemala City",
+                  "title": "Guatemala City",
+                  "wikiTitle": "Guatemala City",
+                  "href": "https://en.wikipedia.org/wiki/Guatemala_City",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Guatemala",
+                  "title": "Guatemala",
+                  "wikiTitle": "Guatemala",
+                  "href": "https://en.wikipedia.org/wiki/Guatemala",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "CDAG",
+              "lines": [
+                "CDAG"
+              ],
+              "html": "<td class=\"infobox-data agent\">CDAG</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "CDAG",
+              "lines": [
+                "CDAG"
+              ],
+              "html": "<td class=\"infobox-data agent\">CDAG</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "7,500",
+              "lines": [
+                "7,500"
+              ],
+              "html": "<td class=\"infobox-data\">7,500</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "2000",
+              "lines": [
+                "2000"
+              ],
+              "html": "<td class=\"infobox-data\">2000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "2000 FIFA Futsal World Championship\nIV CONCACAF Futsal Championship",
+              "lines": [
+                "2000 FIFA Futsal World Championship",
+                "IV CONCACAF Futsal Championship"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/2000_FIFA_Futsal_World_Championship\" title=\"2000 FIFA Futsal World Championship\">2000 FIFA Futsal World Championship</a><br><a href=\"https://en.wikipedia.org/wiki/2008_CONCACAF_Futsal_Championship\" title=\"2008 CONCACAF Futsal Championship\">IV CONCACAF Futsal Championship</a></td>",
+              "links": [
+                {
+                  "text": "2000 FIFA Futsal World Championship",
+                  "title": "2000 FIFA Futsal World Championship",
+                  "wikiTitle": "2000 FIFA Futsal World Championship",
+                  "href": "https://en.wikipedia.org/wiki/2000_FIFA_Futsal_World_Championship",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "IV CONCACAF Futsal Championship",
+                  "title": "2008 CONCACAF Futsal Championship",
+                  "wikiTitle": "2008 CONCACAF Futsal Championship",
+                  "href": "https://en.wikipedia.org/wiki/2008_CONCACAF_Futsal_Championship",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Domo Polideportivo de la Confederación Deportiva Autónoma de Guatemala"
+          ],
+          "location": [
+            "Guatemala City, Guatemala"
+          ],
+          "owner": [
+            "CDAG"
+          ],
+          "operator": [
+            "CDAG"
+          ],
+          "capacity": [
+            "7,500"
+          ],
+          "opened": [
+            "2000"
+          ],
+          "tenants": [
+            "2000 FIFA Futsal World Championship\nIV CONCACAF Futsal Championship"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "7,500"
+        ],
+        "tenants": [
+          "2000 FIFA Futsal World Championship",
+          "IV CONCACAF Futsal Championship"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Domo Polideportivo.JPG",
+            "fileName": "Domo Polideportivo.JPG",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Domo_Polideportivo.JPG",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Domo_Polideportivo.JPG/250px-Domo_Polideportivo.JPG",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Domo_Polideportivo.JPG",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Domo_Polideportivo.JPG",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Domo_Polideportivo.JPG/500px-Domo_Polideportivo.JPG",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 141,
+            "originalWidth": 4320,
+            "originalHeight": 2432,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Domo_Polideportivo_de_la_CDAG&revid=1289416791&groups=_9f39510a79381d1e87b87fcc5a5d05bd6f63181c&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Domo_Polideportivo_de_la_CDAG&revid=1289416791&groups=_9f39510a79381d1e87b87fcc5a5d05bd6f63181c&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Domo Polideportivo de la CDAG"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Domo Polideportivo de la CDAG</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\">Domo de la Zona 13</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Domo_Polideportivo.JPG\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Domo_Polideportivo.JPG/250px-Domo_Polideportivo.JPG\" width=\"250\" height=\"141\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Domo_Polideportivo.JPG/500px-Domo_Polideportivo.JPG 2x\" data-file-width=\"4320\" data-file-height=\"2432\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_9f39510a79381d1e87b87fcc5a5d05bd6f63181c&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Domo_Polideportivo_de_la_CDAG&amp;revid=1289416791&amp;groups=_9f39510a79381d1e87b87fcc5a5d05bd6f63181c&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Domo_Polideportivo_de_la_CDAG&amp;revid=1289416791&amp;groups=_9f39510a79381d1e87b87fcc5a5d05bd6f63181c&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Domo Polideportivo de la CDAG</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Domo Polideportivo de la Confederación Deportiva Autónoma de Guatemala</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Guatemala_City\" title=\"Guatemala City\">Guatemala City</a>, <a href=\"https://en.wikipedia.org/wiki/Guatemala\" title=\"Guatemala\">Guatemala</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">CDAG</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">CDAG</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">7,500</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">2000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/2000_FIFA_Futsal_World_Championship\" title=\"2000 FIFA Futsal World Championship\">2000 FIFA Futsal World Championship</a><br><a href=\"https://en.wikipedia.org/wiki/2008_CONCACAF_Futsal_Championship\" title=\"2008 CONCACAF Futsal Championship\">IV CONCACAF Futsal Championship</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "CS1_maint:_deprecated_archival_service",
+        "CS1_Spanish-language_sources_(es)",
+        "All_articles_with_dead_external_links",
+        "Articles_with_dead_external_links_from_October_2010",
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "2000_establishments_in_Guatemala",
+        "Multi-purpose_stadiums_in_Guatemala",
+        "Sports_venues_in_Guatemala_City",
+        "Indoor_arenas_in_Guatemala",
+        "Basketball_venues_in_Guatemala",
+        "Volleyball_venues_in_Guatemala",
+        "Sports_venues_completed_in_2000",
+        "All_stub_articles",
+        "Guatemalan_building_and_structure_stubs",
+        "Central_American_sports_venue_stubs",
+        "Guatemalan_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "http://www.prensalibre.com/pl/2003/mayo/04/55283.html",
+        "https://web.archive.org/web/20081206122236/http://www.fifa.com/mm/document/afdeveloping/techdevp/futsal_00_tr_gua_169.pdf",
+        "https://www.fifa.com/mm/document/afdeveloping/techdevp/futsal_00_tr_gua_169.pdf",
+        "https://web.archive.org/web/20070321151212/http://www.wwe.com/worldwide/guatemala/guatemalamarch07",
+        "http://www.wwe.com/worldwide/guatemala/guatemalamarch07",
+        "https://web.archive.org/web/20070218020146/http://www.wwe.com/schedules/events/eventdetail/?id=3893048",
+        "http://www.wwe.com/schedules/events/eventdetail/?id=3893048",
+        "http://www.concacaf.com/competitions/futsal/viewArticle.asp?lang=en&id=4024",
+        "http://www.concacaf.com/competitions/futsal/viewArticle.asp?lang=en&id=4097",
+        "https://geohack.toolforge.org/geohack.php?pagename=Domo_Polideportivo_de_la_CDAG&params=14_35_39_N_90_31_56_W_type:landmark"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Events",
+          "anchor": "Events"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Domo_Polideportivo.JPG",
+        "Flag_of_Guatemala.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Domo Polideportivo.JPG",
+          "fileName": "Domo Polideportivo.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Domo_Polideportivo.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Domo_Polideportivo.JPG/250px-Domo_Polideportivo.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Domo_Polideportivo.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Domo_Polideportivo.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Domo_Polideportivo.JPG/500px-Domo_Polideportivo.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 141,
+          "originalWidth": 4320,
+          "originalHeight": 2432,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Domo_Polideportivo_de_la_CDAG&revid=1289416791&groups=_9f39510a79381d1e87b87fcc5a5d05bd6f63181c&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Domo_Polideportivo_de_la_CDAG&revid=1289416791&groups=_9f39510a79381d1e87b87fcc5a5d05bd6f63181c&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Domo Polideportivo de la CDAG"
+        },
+        {
+          "fileTitle": "File:Flag of Guatemala.svg",
+          "fileName": "Flag of Guatemala.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Guatemala.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/40px-Flag_of_Guatemala.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Guatemala.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Guatemala.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/120px-Flag_of_Guatemala.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 40,
+          "height": 25,
+          "originalWidth": 960,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "North America"
+          ],
+          "tableIndex": 3,
+          "tableCaption": null,
+          "rowIndex": 16,
+          "rowText": "Guatemala\nGuatemala City\nDomo Polideportivo\n2000\n7,500",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Guatemala\" title=\"Guatemala\">Guatemala</a>\n</td>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Guatemala_City\" title=\"Guatemala City\">Guatemala City</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Domo_Polideportivo\" class=\"mw-redirect\" title=\"Domo Polideportivo\">Domo Polideportivo</a>\n</td>\n<td align=\"center\">2000\n</td>\n<td align=\"right\">7,500\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 16,
+              "cell": {
+                "text": "Guatemala",
+                "lines": [
+                  "Guatemala"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Guatemala",
+                    "title": "Guatemala",
+                    "wikiTitle": "Guatemala",
+                    "href": "https://en.wikipedia.org/wiki/Guatemala",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 16,
+              "cell": {
+                "text": "Guatemala City",
+                "lines": [
+                  "Guatemala City"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Guatemala City",
+                    "title": "Guatemala City",
+                    "wikiTitle": "Guatemala City",
+                    "href": "https://en.wikipedia.org/wiki/Guatemala_City",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 16,
+              "cell": {
+                "text": "Domo Polideportivo",
+                "lines": [
+                  "Domo Polideportivo"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Domo Polideportivo",
+                    "title": "Domo Polideportivo",
+                    "wikiTitle": "Domo Polideportivo",
+                    "href": "https://en.wikipedia.org/wiki/Domo_Polideportivo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 16,
+              "cell": {
+                "text": "2000",
+                "lines": [
+                  "2000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 16,
+              "cell": {
+                "text": "7,500",
+                "lines": [
+                  "7,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 16,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Domo Polideportivo",
+            "lines": [
+              "Domo Polideportivo"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Domo Polideportivo",
+                "title": "Domo Polideportivo",
+                "wikiTitle": "Domo Polideportivo",
+                "href": "https://en.wikipedia.org/wiki/Domo_Polideportivo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:49:40.6Z"
+    }
+  ]
+}

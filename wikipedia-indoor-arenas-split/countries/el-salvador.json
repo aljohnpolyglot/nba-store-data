@@ -1,0 +1,756 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "El Salvador",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 6,
+    "sourceTypeCounts": {
+      "world_master_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-24647026",
+      "pageId": 24647026,
+      "revisionId": null,
+      "title": "Gimnasio Nacional José Adolfo Pineda",
+      "displayTitle": "Gimnasio Nacional José Adolfo Pineda",
+      "url": "https://en.wikipedia.org/wiki/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda",
+      "wikidataItem": "Q5562761",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5562761",
+      "aliases": [
+        "Gimnasio Nacional José Adolfo Pineda",
+        "Arena José Adolfo Pineda"
+      ],
+      "requestedTitles": [
+        "Gimnasio Nacional José Adolfo Pineda"
+      ],
+      "sourceLinkTexts": [
+        "Gimnasio Nacional José Adolfo Pineda"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 13.69806,
+        "longitude": -89.21,
+        "raw": "13.69806; -89.21000"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Arena José Adolfo Pineda",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "San Salvador, El Salvador",
+            "lines": [
+              "San Salvador, El Salvador"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/San_Salvador\" title=\"San Salvador\">San Salvador</a>, <a href=\"https://en.wikipedia.org/wiki/El_Salvador\" title=\"El Salvador\">El Salvador</a></td>",
+            "links": [
+              {
+                "text": "San Salvador",
+                "title": "San Salvador",
+                "wikiTitle": "San Salvador",
+                "href": "https://en.wikipedia.org/wiki/San_Salvador",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "El Salvador",
+                "title": "El Salvador",
+                "wikiTitle": "El Salvador",
+                "href": "https://en.wikipedia.org/wiki/El_Salvador",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "13°41′53″N 89°12′36″W﻿ / ﻿13.69806°N 89.21000°W﻿ / 13.69806; -89.21000",
+            "lines": [
+              "13°41′53″N 89°12′36″W﻿ / ﻿13.69806°N 89.21000°W﻿ / 13.69806; -89.21000"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda&amp;params=13_41_53_N_89_12_36_W_region:AR-C_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">13°41′53″N</span> <span class=\"longitude\">89°12′36″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">13.69806°N 89.21000°W</span><span>﻿ / <span class=\"geo\">13.69806; -89.21000</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "13°41′53″N 89°12′36″W﻿ / ﻿13.69806°N 89.21000°W﻿ / 13.69806; -89.21000",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda&params=13_41_53_N_89_12_36_W_region:AR-C_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "12,900",
+            "lines": [
+              "12,900"
+            ],
+            "html": "<td class=\"infobox-data\">12,900</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "1950",
+            "lines": [
+              "1950"
+            ],
+            "html": "<td class=\"infobox-data\">1950</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1956 (1956)",
+            "lines": [
+              "1956 (1956)"
+            ],
+            "html": "<td class=\"infobox-data\">1956<span>&nbsp;(<span class=\"bday dtstart published updated\">1956</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "San Salvador, El Salvador",
+              "lines": [
+                "San Salvador, El Salvador"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/San_Salvador\" title=\"San Salvador\">San Salvador</a>, <a href=\"https://en.wikipedia.org/wiki/El_Salvador\" title=\"El Salvador\">El Salvador</a></td>",
+              "links": [
+                {
+                  "text": "San Salvador",
+                  "title": "San Salvador",
+                  "wikiTitle": "San Salvador",
+                  "href": "https://en.wikipedia.org/wiki/San_Salvador",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "El Salvador",
+                  "title": "El Salvador",
+                  "wikiTitle": "El Salvador",
+                  "href": "https://en.wikipedia.org/wiki/El_Salvador",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "13°41′53″N 89°12′36″W﻿ / ﻿13.69806°N 89.21000°W﻿ / 13.69806; -89.21000",
+              "lines": [
+                "13°41′53″N 89°12′36″W﻿ / ﻿13.69806°N 89.21000°W﻿ / 13.69806; -89.21000"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda&amp;params=13_41_53_N_89_12_36_W_region:AR-C_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">13°41′53″N</span> <span class=\"longitude\">89°12′36″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">13.69806°N 89.21000°W</span><span>﻿ / <span class=\"geo\">13.69806; -89.21000</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "13°41′53″N 89°12′36″W﻿ / ﻿13.69806°N 89.21000°W﻿ / 13.69806; -89.21000",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda&params=13_41_53_N_89_12_36_W_region:AR-C_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "12,900",
+              "lines": [
+                "12,900"
+              ],
+              "html": "<td class=\"infobox-data\">12,900</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "1950",
+              "lines": [
+                "1950"
+              ],
+              "html": "<td class=\"infobox-data\">1950</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1956 (1956)",
+              "lines": [
+                "1956 (1956)"
+              ],
+              "html": "<td class=\"infobox-data\">1956<span>&nbsp;(<span class=\"bday dtstart published updated\">1956</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "San Salvador, El Salvador"
+          ],
+          "coordinates": [
+            "13°41′53″N 89°12′36″W﻿ / ﻿13.69806°N 89.21000°W﻿ / 13.69806; -89.21000"
+          ],
+          "capacity": [
+            "12,900"
+          ],
+          "groundbreaking": [
+            "1950"
+          ],
+          "opened": [
+            "1956 (1956)"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "12,900"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Gimnasio Nacional José Adolfo Pineda.jpg",
+            "fileName": "Gimnasio Nacional José Adolfo Pineda.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg/330px-Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 300,
+            "height": 254,
+            "originalWidth": 744,
+            "originalHeight": 629,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda&revid=1352142122&groups=_984296921b1cc636ace202c613ede3cba69a7a9f&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda&revid=1352142122&groups=_984296921b1cc636ace202c613ede3cba69a7a9f&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Arena José Adolfo Pineda"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Arena José Adolfo Pineda</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg/330px-Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg\" width=\"300\" height=\"254\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/f/ff/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg 2x\" data-file-width=\"744\" data-file-height=\"629\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_984296921b1cc636ace202c613ede3cba69a7a9f&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda&amp;revid=1352142122&amp;groups=_984296921b1cc636ace202c613ede3cba69a7a9f&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda&amp;revid=1352142122&amp;groups=_984296921b1cc636ace202c613ede3cba69a7a9f&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Arena José Adolfo Pineda</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/San_Salvador\" title=\"San Salvador\">San Salvador</a>, <a href=\"https://en.wikipedia.org/wiki/El_Salvador\" title=\"El Salvador\">El Salvador</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda&amp;params=13_41_53_N_89_12_36_W_region:AR-C_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">13°41′53″N</span> <span class=\"longitude\">89°12′36″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">13.69806°N 89.21000°W</span><span>﻿ / <span class=\"geo\">13.69806; -89.21000</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">12,900</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">1950</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1956<span>&nbsp;(<span class=\"bday dtstart published updated\">1956</span>)</span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Spanish-language_sources_(es)",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "All_articles_with_dead_external_links",
+        "Articles_with_dead_external_links_from_December_2019",
+        "Articles_with_permanently_dead_external_links",
+        "Webarchive_template_wayback_links",
+        "Indoor_arenas_in_El_Salvador",
+        "Basketball_venues_in_El_Salvador",
+        "Volleyball_venues_in_El_Salvador",
+        "Sports_venues_in_San_Salvador",
+        "Netball_venues",
+        "1956_establishments_in_El_Salvador",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda&params=13_41_53_N_89_12_36_W_region:AR-C_type:landmark",
+        "https://diario.elmundo.sv/santa-tecla-bc-se-aferra-a-su-ventaja/",
+        "http://online.indes.gob.sv/index.php?option=com_content&view=article&id=113&Itemid=56",
+        "http://www.worldstadiums.com/stadium_pictures/middle_america/el_salvador/san_salvador_gimnasio.shtml",
+        "https://web.archive.org/web/20090926061707/http://www.worldstadiums.com/stadium_pictures/middle_america/el_salvador/san_salvador_gimnasio.shtml"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Gimnasio_Nacional_José_Adolfo_Pineda.jpg",
+        "Flag_of_the_Philippines.svg",
+        "Flag_of_the_United_States.svg",
+        "Flag_of_Hong_Kong_(1959–1997).svg",
+        "Flag_of_Mexico.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Gimnasio Nacional José Adolfo Pineda.jpg",
+          "fileName": "Gimnasio Nacional José Adolfo Pineda.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg/330px-Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 300,
+          "height": 254,
+          "originalWidth": 744,
+          "originalHeight": 629,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda&revid=1352142122&groups=_984296921b1cc636ace202c613ede3cba69a7a9f&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda&revid=1352142122&groups=_984296921b1cc636ace202c613ede3cba69a7a9f&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Arena José Adolfo Pineda"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/40px-Flag_of_the_Philippines.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/60px-Flag_of_the_Philippines.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Philippines",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/60px-Flag_of_the_United_States.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1235,
+          "originalHeight": 650,
+          "fileType": null,
+          "alt": "United States",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Hong_Kong_%281959%E2%80%931997%29.svg/40px-Flag_of_Hong_Kong_%281959%E2%80%931997%29.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_Hong_Kong_%281959%E2%80%931997%29.svg/60px-Flag_of_Hong_Kong_%281959%E2%80%931997%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/40px-Flag_of_Mexico.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/60px-Flag_of_Mexico.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 13,
+          "originalWidth": 980,
+          "originalHeight": 560,
+          "fileType": null,
+          "alt": "Mexico",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "North America"
+          ],
+          "tableIndex": 3,
+          "tableCaption": null,
+          "rowIndex": 14,
+          "rowText": "El Salvador\nSan Salvador\nGimnasio Nacional José Adolfo Pineda\n1956\n12,500",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/El_Salvador\" title=\"El Salvador\">El Salvador</a>\n</td>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/San_Salvador\" title=\"San Salvador\">San Salvador</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda\" title=\"Gimnasio Nacional José Adolfo Pineda\">Gimnasio Nacional José Adolfo Pineda</a>\n</td>\n<td align=\"center\">1956\n</td>\n<td align=\"right\">12,500\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 14,
+              "cell": {
+                "text": "El Salvador",
+                "lines": [
+                  "El Salvador"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "El Salvador",
+                    "title": "El Salvador",
+                    "wikiTitle": "El Salvador",
+                    "href": "https://en.wikipedia.org/wiki/El_Salvador",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 14,
+              "cell": {
+                "text": "San Salvador",
+                "lines": [
+                  "San Salvador"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "San Salvador",
+                    "title": "San Salvador",
+                    "wikiTitle": "San Salvador",
+                    "href": "https://en.wikipedia.org/wiki/San_Salvador",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 14,
+              "cell": {
+                "text": "Gimnasio Nacional José Adolfo Pineda",
+                "lines": [
+                  "Gimnasio Nacional José Adolfo Pineda"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Gimnasio Nacional José Adolfo Pineda",
+                    "title": "Gimnasio Nacional José Adolfo Pineda",
+                    "wikiTitle": "Gimnasio Nacional José Adolfo Pineda",
+                    "href": "https://en.wikipedia.org/wiki/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 14,
+              "cell": {
+                "text": "1956",
+                "lines": [
+                  "1956"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 14,
+              "cell": {
+                "text": "12,500",
+                "lines": [
+                  "12,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 14,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Gimnasio Nacional José Adolfo Pineda",
+            "lines": [
+              "Gimnasio Nacional José Adolfo Pineda"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Gimnasio Nacional José Adolfo Pineda",
+                "title": "Gimnasio Nacional José Adolfo Pineda",
+                "wikiTitle": "Gimnasio Nacional José Adolfo Pineda",
+                "href": "https://en.wikipedia.org/wiki/Gimnasio_Nacional_Jos%C3%A9_Adolfo_Pineda",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:49:40.038Z"
+    }
+  ]
+}

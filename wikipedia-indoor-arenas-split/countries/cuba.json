@@ -1,0 +1,1330 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Cuba",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 12,
+    "sourceTypeCounts": {
+      "world_master_list": 1,
+      "arena_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-34457098",
+      "pageId": 34457098,
+      "revisionId": null,
+      "title": "Coliseo de la Ciudad Deportiva",
+      "displayTitle": "Coliseo de la Ciudad Deportiva",
+      "url": "https://en.wikipedia.org/wiki/Coliseo_de_la_Ciudad_Deportiva",
+      "wikidataItem": "Q5145758",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5145758",
+      "aliases": [
+        "Coliseo de la Ciudad Deportiva"
+      ],
+      "requestedTitles": [
+        "Coliseo de la Ciudad Deportiva"
+      ],
+      "sourceLinkTexts": [
+        "Coliseo de la Ciudad Deportiva"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Coliseo_de_la_Ciudad_Deportiva"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas by capacity"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "arena_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 23.10257,
+        "longitude": -82.39304,
+        "raw": "23.10257; -82.39304"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "",
+        "groups": [
+          "General information",
+          "Dimensions",
+          "Technical details",
+          "Design and construction"
+        ],
+        "fields": [
+          {
+            "label": "Type",
+            "key": "type",
+            "group": "General information",
+            "text": "Coliseum",
+            "lines": [
+              "Coliseum"
+            ],
+            "html": "<td class=\"infobox-data category\">Coliseum</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architectural style",
+            "key": "architectural_style",
+            "group": "General information",
+            "text": "International",
+            "lines": [
+              "International"
+            ],
+            "html": "<td class=\"infobox-data category\">International</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": "General information",
+            "text": "Havana, Cuba",
+            "lines": [
+              "Havana, Cuba"
+            ],
+            "html": "<td class=\"infobox-data label\">Havana, Cuba<span data-plural=\"1\"></span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "General information",
+            "text": "November 1952",
+            "lines": [
+              "November 1952"
+            ],
+            "html": "<td class=\"infobox-data\">November 1952</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Inaugurated",
+            "key": "inaugurated",
+            "group": "General information",
+            "text": "26 February 1958",
+            "lines": [
+              "26 February 1958"
+            ],
+            "html": "<td class=\"infobox-data\">26 February 1958</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "General information",
+            "text": "4 million pesos (1958)",
+            "lines": [
+              "4 million pesos (1958)"
+            ],
+            "html": "<td class=\"infobox-data\">4 million pesos (1958)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Diameter",
+            "key": "diameter",
+            "group": "Dimensions",
+            "text": "103.2 m (339 ft)",
+            "lines": [
+              "103.2 m (339 ft)"
+            ],
+            "html": "<td class=\"infobox-data\">103.2&nbsp;m (339&nbsp;ft)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Structural system",
+            "key": "structural_system",
+            "group": "Technical details",
+            "text": "Dome",
+            "lines": [
+              "Dome"
+            ],
+            "html": "<td class=\"infobox-data category\">Dome</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Material",
+            "key": "material",
+            "group": "Technical details",
+            "text": "Reinfoced concrete",
+            "lines": [
+              "Reinfoced concrete"
+            ],
+            "html": "<td class=\"infobox-data category\">Reinfoced concrete</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Floor area",
+            "key": "floor_area",
+            "group": "Technical details",
+            "text": "20 mil m2",
+            "lines": [
+              "20 mil m2"
+            ],
+            "html": "<td class=\"infobox-data\">20 mil m<sup>2</sup></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architects",
+            "key": "architects",
+            "group": "Design and construction",
+            "text": "Nicolás Arroyo Márquez & Gabriela Menéndez García-Beltrán",
+            "lines": [
+              "Nicolás Arroyo Márquez & Gabriela Menéndez García-Beltrán"
+            ],
+            "html": "<td class=\"infobox-data\">Nicolás Arroyo Márquez &amp; Gabriela Menéndez García-Beltrán</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architecture firm",
+            "key": "architecture_firm",
+            "group": "Design and construction",
+            "text": "Arroyo y Menendez Architects",
+            "lines": [
+              "Arroyo y Menendez Architects"
+            ],
+            "html": "<td class=\"infobox-data\">Arroyo y Menendez Architects</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Developer",
+            "key": "developer",
+            "group": "Design and construction",
+            "text": "Ministerio de Obras Públicas",
+            "lines": [
+              "Ministerio de Obras Públicas"
+            ],
+            "html": "<td class=\"infobox-data\">Ministerio de Obras Públicas</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "type": [
+            {
+              "label": "Type",
+              "key": "type",
+              "group": "General information",
+              "text": "Coliseum",
+              "lines": [
+                "Coliseum"
+              ],
+              "html": "<td class=\"infobox-data category\">Coliseum</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architectural_style": [
+            {
+              "label": "Architectural style",
+              "key": "architectural_style",
+              "group": "General information",
+              "text": "International",
+              "lines": [
+                "International"
+              ],
+              "html": "<td class=\"infobox-data category\">International</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": "General information",
+              "text": "Havana, Cuba",
+              "lines": [
+                "Havana, Cuba"
+              ],
+              "html": "<td class=\"infobox-data label\">Havana, Cuba<span data-plural=\"1\"></span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "General information",
+              "text": "November 1952",
+              "lines": [
+                "November 1952"
+              ],
+              "html": "<td class=\"infobox-data\">November 1952</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "inaugurated": [
+            {
+              "label": "Inaugurated",
+              "key": "inaugurated",
+              "group": "General information",
+              "text": "26 February 1958",
+              "lines": [
+                "26 February 1958"
+              ],
+              "html": "<td class=\"infobox-data\">26 February 1958</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "General information",
+              "text": "4 million pesos (1958)",
+              "lines": [
+                "4 million pesos (1958)"
+              ],
+              "html": "<td class=\"infobox-data\">4 million pesos (1958)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "diameter": [
+            {
+              "label": "Diameter",
+              "key": "diameter",
+              "group": "Dimensions",
+              "text": "103.2 m (339 ft)",
+              "lines": [
+                "103.2 m (339 ft)"
+              ],
+              "html": "<td class=\"infobox-data\">103.2&nbsp;m (339&nbsp;ft)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "structural_system": [
+            {
+              "label": "Structural system",
+              "key": "structural_system",
+              "group": "Technical details",
+              "text": "Dome",
+              "lines": [
+                "Dome"
+              ],
+              "html": "<td class=\"infobox-data category\">Dome</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "material": [
+            {
+              "label": "Material",
+              "key": "material",
+              "group": "Technical details",
+              "text": "Reinfoced concrete",
+              "lines": [
+                "Reinfoced concrete"
+              ],
+              "html": "<td class=\"infobox-data category\">Reinfoced concrete</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "floor_area": [
+            {
+              "label": "Floor area",
+              "key": "floor_area",
+              "group": "Technical details",
+              "text": "20 mil m2",
+              "lines": [
+                "20 mil m2"
+              ],
+              "html": "<td class=\"infobox-data\">20 mil m<sup>2</sup></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architects": [
+            {
+              "label": "Architects",
+              "key": "architects",
+              "group": "Design and construction",
+              "text": "Nicolás Arroyo Márquez & Gabriela Menéndez García-Beltrán",
+              "lines": [
+                "Nicolás Arroyo Márquez & Gabriela Menéndez García-Beltrán"
+              ],
+              "html": "<td class=\"infobox-data\">Nicolás Arroyo Márquez &amp; Gabriela Menéndez García-Beltrán</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architecture_firm": [
+            {
+              "label": "Architecture firm",
+              "key": "architecture_firm",
+              "group": "Design and construction",
+              "text": "Arroyo y Menendez Architects",
+              "lines": [
+                "Arroyo y Menendez Architects"
+              ],
+              "html": "<td class=\"infobox-data\">Arroyo y Menendez Architects</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "developer": [
+            {
+              "label": "Developer",
+              "key": "developer",
+              "group": "Design and construction",
+              "text": "Ministerio de Obras Públicas",
+              "lines": [
+                "Ministerio de Obras Públicas"
+              ],
+              "html": "<td class=\"infobox-data\">Ministerio de Obras Públicas</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "type": [
+            "Coliseum"
+          ],
+          "architectural_style": [
+            "International"
+          ],
+          "location": [
+            "Havana, Cuba"
+          ],
+          "groundbreaking": [
+            "November 1952"
+          ],
+          "inaugurated": [
+            "26 February 1958"
+          ],
+          "cost": [
+            "4 million pesos (1958)"
+          ],
+          "diameter": [
+            "103.2 m (339 ft)"
+          ],
+          "structural_system": [
+            "Dome"
+          ],
+          "material": [
+            "Reinfoced concrete"
+          ],
+          "floor_area": [
+            "20 mil m2"
+          ],
+          "architects": [
+            "Nicolás Arroyo Márquez & Gabriela Menéndez García-Beltrán"
+          ],
+          "architecture_firm": [
+            "Arroyo y Menendez Architects"
+          ],
+          "developer": [
+            "Ministerio de Obras Públicas"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:PALACIO DE DEPORTES, HAVANA, CUBA.jpg",
+            "fileName": "PALACIO DE DEPORTES, HAVANA, CUBA.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:PALACIO_DE_DEPORTES,_HAVANA,_CUBA.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/PALACIO_DE_DEPORTES%2C_HAVANA%2C_CUBA.jpg/330px-PALACIO_DE_DEPORTES%2C_HAVANA%2C_CUBA.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/PALACIO_DE_DEPORTES%2C_HAVANA%2C_CUBA.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/PALACIO_DE_DEPORTES%2C_HAVANA%2C_CUBA.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/PALACIO_DE_DEPORTES%2C_HAVANA%2C_CUBA.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 280,
+            "height": 182,
+            "originalWidth": 514,
+            "originalHeight": 334,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_de_la_Ciudad_Deportiva&revid=1364380360&groups=_692e7f2934b45785e69daa0f8979c82969f8fe63&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_de_la_Ciudad_Deportiva&revid=1364380360&groups=_692e7f2934b45785e69daa0f8979c82969f8fe63&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of the Coliseo de la Ciudad Deportiva area"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><tbody><tr><th colspan=\"2\" class=\"infobox-above fn org\">Coliseo de la Ciudad Deportiva</th></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size\"><a href=\"https://en.wikipedia.org/wiki/File:PALACIO_DE_DEPORTES,_HAVANA,_CUBA.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/PALACIO_DE_DEPORTES%2C_HAVANA%2C_CUBA.jpg/330px-PALACIO_DE_DEPORTES%2C_HAVANA%2C_CUBA.jpg\" width=\"280\" height=\"182\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/b/bf/PALACIO_DE_DEPORTES%2C_HAVANA%2C_CUBA.jpg 2x\" data-file-width=\"514\" data-file-height=\"334\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_692e7f2934b45785e69daa0f8979c82969f8fe63&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_de_la_Ciudad_Deportiva&amp;revid=1364380360&amp;groups=_692e7f2934b45785e69daa0f8979c82969f8fe63&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_de_la_Ciudad_Deportiva&amp;revid=1364380360&amp;groups=_692e7f2934b45785e69daa0f8979c82969f8fe63&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of the Coliseo de la Ciudad Deportiva area</div></td></tr><tr><th colspan=\"2\" class=\"infobox-header\"><div>General information</div></th></tr><tr><th scope=\"row\" class=\"infobox-label\">Type</th><td class=\"infobox-data category\">Coliseum</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Architectural style</div></th><td class=\"infobox-data category\">International</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">Havana, Cuba<span data-plural=\"1\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">November 1952</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Inaugurated</th><td class=\"infobox-data\">26 February 1958</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Cost</th><td class=\"infobox-data\">4 million pesos (1958)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Dimensions</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Diameter</th><td class=\"infobox-data\">103.2&nbsp;m (339&nbsp;ft)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Technical&nbsp;details</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Structural&nbsp;system</th><td class=\"infobox-data category\">Dome</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Material</th><td class=\"infobox-data category\">Reinfoced concrete</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Floor&nbsp;area</th><td class=\"infobox-data\">20 mil m<sup>2</sup></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Design and construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Architects</th><td class=\"infobox-data\">Nicolás Arroyo Márquez &amp; Gabriela Menéndez García-Beltrán</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Architecture firm</div></th><td class=\"infobox-data\">Arroyo y Menendez Architects</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Developer</th><td class=\"infobox-data\">Ministerio de Obras Públicas</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_needing_additional_references_from_August_2022",
+        "All_articles_needing_additional_references",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_August_2022",
+        "Commons_category_link_is_on_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Cuba",
+        "Sports_venues_in_Havana",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://cubanartnewsarchive.org/2016/10/25/preview-cuban-architects-at-home-and-in-exile-the-modernist-generation/",
+        "https://cubaenlamemoria.wordpress.com/2013/02/26/el-palacio-de-convenciones-y-deportes-1944-la-ciudad-deportiva-1957/",
+        "https://content.time.com/time/subscriber/article/0,33009,894104-2,00.html",
+        "https://web.archive.org/web/20160306034742/http://www.rollingstones.com/2016/03/01/the-rolling-stones-announce-free-concert-in-cuba/",
+        "http://www.rollingstones.com/2016/03/01/the-rolling-stones-announce-free-concert-in-cuba/",
+        "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_de_la_Ciudad_Deportiva&params=23.10257_N_82.39304_W_source:wikidata",
+        "https://www.google.com/search?as_eq=wikipedia&q=%22Coliseo+de+la+Ciudad+Deportiva%22",
+        "https://www.google.com/search?tbm=nws&q=%22Coliseo+de+la+Ciudad+Deportiva%22+-wikipedia&tbs=ar:1",
+        "https://www.google.com/search?&q=%22Coliseo+de+la+Ciudad+Deportiva%22&tbs=bkt:s&tbm=bks",
+        "https://www.google.com/search?tbs=bks:1&q=%22Coliseo+de+la+Ciudad+Deportiva%22+-wikipedia",
+        "https://scholar.google.com/scholar?q=%22Coliseo+de+la+Ciudad+Deportiva%22",
+        "https://www.jstor.org/action/doBasicSearch?Query=%22Coliseo+de+la+Ciudad+Deportiva%22&acc=on&wc=on",
+        "https://mapio.net/pic/p-120073597/",
+        "https://www.youtube.com/watch?v=oI1cd8KvlQw",
+        "https://www.shutterstock.com/video/clip-1058380033-circa-1959---military-tribunal-puts-batista",
+        "https://musicbrainz.org/place/3e42e1dc-e496-48f0-935c-f1cdfdddd279"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Architecture",
+          "anchor": "Architecture"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Sculpture",
+          "anchor": "Sculpture"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "1959 trials",
+          "anchor": "1959_trials"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "Interest",
+          "anchor": "Interest"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "Gallery",
+          "anchor": "Gallery"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "7",
+          "level": 2,
+          "line": "Notes",
+          "anchor": "Notes"
+        },
+        {
+          "index": "8",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "9",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Ciudad-Deportiva,_Havana,_Cuba-en-construccion.jpg",
+        "Ciudad-Deportiva,_Havana,_Cuba-en-construccion.2.jpg",
+        "Ciudad-Deportiva,_Havana,_Cuba.jpg",
+        "Question_book-new.svg",
+        "PALACIO_DE_DEPORTES,_HAVANA,_CUBA.jpg",
+        "Palacio_de_los_Deportes,_Ciudad_Deportiva._Havana,_Cuba._Nicolás_Arroyo_&_Gabriela_Menendez.jpg",
+        "Coliseo_de_la_Ciudad_Deportiva_Jesús_Sosa_Blanco_1959_trial.jpg",
+        "Flag_of_Cuba.svg",
+        "Commons-logo.svg",
+        "Wikisource-logo.svg",
+        "OOjs_UI_icon_edit-ltr-progressive.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Question book-new.svg",
+          "fileName": "Question book-new.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 39,
+          "originalWidth": 512,
+          "originalHeight": 399,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:PALACIO DE DEPORTES, HAVANA, CUBA.jpg",
+          "fileName": "PALACIO DE DEPORTES, HAVANA, CUBA.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:PALACIO_DE_DEPORTES,_HAVANA,_CUBA.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/PALACIO_DE_DEPORTES%2C_HAVANA%2C_CUBA.jpg/330px-PALACIO_DE_DEPORTES%2C_HAVANA%2C_CUBA.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/PALACIO_DE_DEPORTES%2C_HAVANA%2C_CUBA.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/PALACIO_DE_DEPORTES%2C_HAVANA%2C_CUBA.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/PALACIO_DE_DEPORTES%2C_HAVANA%2C_CUBA.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 280,
+          "height": 182,
+          "originalWidth": 514,
+          "originalHeight": 334,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_de_la_Ciudad_Deportiva&revid=1364380360&groups=_692e7f2934b45785e69daa0f8979c82969f8fe63&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_de_la_Ciudad_Deportiva&revid=1364380360&groups=_692e7f2934b45785e69daa0f8979c82969f8fe63&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of the Coliseo de la Ciudad Deportiva area"
+        },
+        {
+          "fileTitle": "File:Palacio de los Deportes, Ciudad Deportiva. Havana, Cuba. Nicolás Arroyo & Gabriela Menendez.jpg",
+          "fileName": "Palacio de los Deportes, Ciudad Deportiva. Havana, Cuba. Nicolás Arroyo & Gabriela Menendez.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Palacio_de_los_Deportes,_Ciudad_Deportiva._Havana,_Cuba._Nicol%C3%A1s_Arroyo_%26_Gabriela_Menendez.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Palacio_de_los_Deportes%2C_Ciudad_Deportiva._Havana%2C_Cuba._Nicol%C3%A1s_Arroyo_%26_Gabriela_Menendez.jpg/250px-Palacio_de_los_Deportes%2C_Ciudad_Deportiva._Havana%2C_Cuba._Nicol%C3%A1s_Arroyo_%26_Gabriela_Menendez.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Palacio_de_los_Deportes%2C_Ciudad_Deportiva._Havana%2C_Cuba._Nicol%C3%A1s_Arroyo_%26_Gabriela_Menendez.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Palacio_de_los_Deportes%2C_Ciudad_Deportiva._Havana%2C_Cuba._Nicol%C3%A1s_Arroyo_%26_Gabriela_Menendez.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Palacio_de_los_Deportes%2C_Ciudad_Deportiva._Havana%2C_Cuba._Nicol%C3%A1s_Arroyo_%26_Gabriela_Menendez.jpg/500px-Palacio_de_los_Deportes%2C_Ciudad_Deportiva._Havana%2C_Cuba._Nicol%C3%A1s_Arroyo_%26_Gabriela_Menendez.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 197,
+          "originalWidth": 775,
+          "originalHeight": 612,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Palacio de los Deportes, Ciudad Deportiva. Havana, Cuba. Nicolás Arroyo & Gabriela Menendez."
+        },
+        {
+          "fileTitle": "File:Coliseo de la Ciudad Deportiva Jesús Sosa Blanco 1959 trial.jpg",
+          "fileName": "Coliseo de la Ciudad Deportiva Jesús Sosa Blanco 1959 trial.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coliseo_de_la_Ciudad_Deportiva_Jes%C3%BAs_Sosa_Blanco_1959_trial.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Coliseo_de_la_Ciudad_Deportiva_Jes%C3%BAs_Sosa_Blanco_1959_trial.jpg/250px-Coliseo_de_la_Ciudad_Deportiva_Jes%C3%BAs_Sosa_Blanco_1959_trial.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coliseo_de_la_Ciudad_Deportiva_Jes%C3%BAs_Sosa_Blanco_1959_trial.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coliseo_de_la_Ciudad_Deportiva_Jes%C3%BAs_Sosa_Blanco_1959_trial.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Coliseo_de_la_Ciudad_Deportiva_Jes%C3%BAs_Sosa_Blanco_1959_trial.jpg/500px-Coliseo_de_la_Ciudad_Deportiva_Jes%C3%BAs_Sosa_Blanco_1959_trial.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 165,
+          "originalWidth": 600,
+          "originalHeight": 397,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Coliseo de la Ciudad Deportiva_Jesús Sosa Blanco 1959 trial"
+        },
+        {
+          "fileTitle": "File:Ciudad-Deportiva, Havana, Cuba-en-construccion.jpg",
+          "fileName": "Ciudad-Deportiva, Havana, Cuba-en-construccion.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Ciudad-Deportiva,_Havana,_Cuba-en-construccion.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ciudad-Deportiva%2C_Havana%2C_Cuba-en-construccion.jpg/330px-Ciudad-Deportiva%2C_Havana%2C_Cuba-en-construccion.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ciudad-Deportiva%2C_Havana%2C_Cuba-en-construccion.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ciudad-Deportiva%2C_Havana%2C_Cuba-en-construccion.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Ciudad-Deportiva%2C_Havana%2C_Cuba-en-construccion.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 183,
+          "height": 120,
+          "originalWidth": 800,
+          "originalHeight": 527,
+          "fileType": null,
+          "alt": "Ciudad Deportiva_under construction",
+          "title": "Ciudad Deportiva_under construction",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Ciudad-Deportiva, Havana, Cuba-en-construccion.2.jpg",
+          "fileName": "Ciudad-Deportiva, Havana, Cuba-en-construccion.2.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Ciudad-Deportiva,_Havana,_Cuba-en-construccion.2.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ciudad-Deportiva%2C_Havana%2C_Cuba-en-construccion.2.jpg/330px-Ciudad-Deportiva%2C_Havana%2C_Cuba-en-construccion.2.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ciudad-Deportiva%2C_Havana%2C_Cuba-en-construccion.2.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ciudad-Deportiva%2C_Havana%2C_Cuba-en-construccion.2.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Ciudad-Deportiva%2C_Havana%2C_Cuba-en-construccion.2.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 190,
+          "height": 120,
+          "originalWidth": 572,
+          "originalHeight": 362,
+          "fileType": null,
+          "alt": "Ciudad Deportiva_under construction.2",
+          "title": "Ciudad Deportiva_under construction.2",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Ciudad-Deportiva, Havana, Cuba.jpg",
+          "fileName": "Ciudad-Deportiva, Havana, Cuba.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Ciudad-Deportiva,_Havana,_Cuba.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ciudad-Deportiva%2C_Havana%2C_Cuba.jpg/250px-Ciudad-Deportiva%2C_Havana%2C_Cuba.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ciudad-Deportiva%2C_Havana%2C_Cuba.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ciudad-Deportiva%2C_Havana%2C_Cuba.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ciudad-Deportiva%2C_Havana%2C_Cuba.jpg/500px-Ciudad-Deportiva%2C_Havana%2C_Cuba.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 149,
+          "height": 120,
+          "originalWidth": 640,
+          "originalHeight": 518,
+          "fileType": null,
+          "alt": "Ciudad Deportiva, Havana",
+          "title": "Ciudad Deportiva, Havana",
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "icon",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/40px-Flag_of_Cuba.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/120px-Flag_of_Cuba.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 32,
+          "height": 16,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "flag",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 40,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Wikisource-logo.svg",
+          "fileName": "Wikisource-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Wikisource-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/40px-Wikisource-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Wikisource-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Wikisource-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/120px-Wikisource-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 38,
+          "height": 40,
+          "originalWidth": 410,
+          "originalHeight": 430,
+          "fileType": null,
+          "alt": "Wikisource logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "North America"
+          ],
+          "tableIndex": 3,
+          "tableCaption": null,
+          "rowIndex": 4,
+          "rowText": "Cuba\nHavana\nColiseo de la Ciudad Deportiva\n1957\n9,000",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Cuba\" title=\"Cuba\">Cuba</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Havana\" title=\"Havana\">Havana</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Coliseo_de_la_Ciudad_Deportiva\" title=\"Coliseo de la Ciudad Deportiva\">Coliseo de la Ciudad Deportiva</a>\n</td>\n<td align=\"center\">1957\n</td>\n<td align=\"right\">9,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "Cuba",
+                "lines": [
+                  "Cuba"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Cuba",
+                    "title": "Cuba",
+                    "wikiTitle": "Cuba",
+                    "href": "https://en.wikipedia.org/wiki/Cuba",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "Havana",
+                "lines": [
+                  "Havana"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Havana",
+                    "title": "Havana",
+                    "wikiTitle": "Havana",
+                    "href": "https://en.wikipedia.org/wiki/Havana",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "Coliseo de la Ciudad Deportiva",
+                "lines": [
+                  "Coliseo de la Ciudad Deportiva"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo de la Ciudad Deportiva",
+                    "title": "Coliseo de la Ciudad Deportiva",
+                    "wikiTitle": "Coliseo de la Ciudad Deportiva",
+                    "href": "https://en.wikipedia.org/wiki/Coliseo_de_la_Ciudad_Deportiva",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "1957",
+                "lines": [
+                  "1957"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "9,000",
+                "lines": [
+                  "9,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Coliseo de la Ciudad Deportiva",
+            "lines": [
+              "Coliseo de la Ciudad Deportiva"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo de la Ciudad Deportiva",
+                "title": "Coliseo de la Ciudad Deportiva",
+                "wikiTitle": "Coliseo de la Ciudad Deportiva",
+                "href": "https://en.wikipedia.org/wiki/Coliseo_de_la_Ciudad_Deportiva",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas by capacity",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_by_capacity",
+          "sourceRevisionId": null,
+          "sourceType": "arena_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 172,
+          "rowText": "Coliseo de la Ciudad Deportiva\n15,000\nHavana\nCuba",
+          "rowHtml": "<tr>\n<th scope=\"row\"><a href=\"https://en.wikipedia.org/wiki/Coliseo_de_la_Ciudad_Deportiva\" title=\"Coliseo de la Ciudad Deportiva\">Coliseo de la Ciudad Deportiva</a>\n</th>\n<td>15,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Havana\" title=\"Havana\">Havana</a>\n</td>\n<td><span class=\"flagicon nowrap\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/40px-Flag_of_Cuba.svg.png\" width=\"23\" height=\"12\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/60px-Flag_of_Cuba.svg.png 2x\" data-file-width=\"1200\" data-file-height=\"600\"></span></span> </span><a href=\"https://en.wikipedia.org/wiki/Cuba\" title=\"Cuba\">Cuba</a>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 172,
+              "cell": {
+                "text": "Coliseo de la Ciudad Deportiva",
+                "lines": [
+                  "Coliseo de la Ciudad Deportiva"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo de la Ciudad Deportiva",
+                    "title": "Coliseo de la Ciudad Deportiva",
+                    "wikiTitle": "Coliseo de la Ciudad Deportiva",
+                    "href": "https://en.wikipedia.org/wiki/Coliseo_de_la_Ciudad_Deportiva",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 172,
+              "cell": {
+                "text": "15,000",
+                "lines": [
+                  "15,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 172,
+              "cell": {
+                "text": "Havana",
+                "lines": [
+                  "Havana"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Havana",
+                    "title": "Havana",
+                    "wikiTitle": "Havana",
+                    "href": "https://en.wikipedia.org/wiki/Havana",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 172,
+              "cell": {
+                "text": "Cuba",
+                "lines": [
+                  "Cuba"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Cuba",
+                    "title": "Cuba",
+                    "wikiTitle": "Cuba",
+                    "href": "https://en.wikipedia.org/wiki/Cuba",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": null,
+                    "fileName": null,
+                    "kind": "photo",
+                    "filePageUrl": null,
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/40px-Flag_of_Cuba.svg.png",
+                    "originalRedirectUrl": null,
+                    "enwikiOriginalRedirectUrl": null,
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/60px-Flag_of_Cuba.svg.png",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 23,
+                    "height": 12,
+                    "originalWidth": 1200,
+                    "originalHeight": 600,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 172,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": null,
+              "fileName": null,
+              "kind": "photo",
+              "filePageUrl": null,
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/40px-Flag_of_Cuba.svg.png",
+              "originalRedirectUrl": null,
+              "enwikiOriginalRedirectUrl": null,
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/60px-Flag_of_Cuba.svg.png",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 23,
+              "height": 12,
+              "originalWidth": 1200,
+              "originalHeight": 600,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Coliseo de la Ciudad Deportiva",
+            "lines": [
+              "Coliseo de la Ciudad Deportiva"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo de la Ciudad Deportiva",
+                "title": "Coliseo de la Ciudad Deportiva",
+                "wikiTitle": "Coliseo de la Ciudad Deportiva",
+                "href": "https://en.wikipedia.org/wiki/Coliseo_de_la_Ciudad_Deportiva",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:49:39.855Z"
+    }
+  ]
+}

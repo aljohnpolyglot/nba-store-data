@@ -1,0 +1,625 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Democratic Republic of the Congo",
+  "coverage": {
+    "mode": "inferred_from_infobox_or_other_lists",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 0
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 3,
+    "sourceTypeCounts": {
+      "country_or_region_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-76408377",
+      "pageId": 76408377,
+      "revisionId": null,
+      "title": "Kinshasa Arena",
+      "displayTitle": "Kinshasa Arena",
+      "url": "https://en.wikipedia.org/wiki/Kinshasa_Arena",
+      "wikidataItem": "Q125315011",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q125315011",
+      "aliases": [
+        "Kinshasa Arena"
+      ],
+      "requestedTitles": [
+        "Kinshasa Arena"
+      ],
+      "sourceLinkTexts": [
+        "Kinshasa Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Kinshasa_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": null,
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Kinshasa Arena",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "Kinshasa\nDemocratic Republic of the Congo",
+            "lines": [
+              "Kinshasa",
+              "Democratic Republic of the Congo"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Kinshasa\" title=\"Kinshasa\">Kinshasa</a><br>Democratic Republic of the Congo<span data-plural=\"1\"></span></td>",
+            "links": [
+              {
+                "text": "Kinshasa",
+                "title": "Kinshasa",
+                "wikiTitle": "Kinshasa",
+                "href": "https://en.wikipedia.org/wiki/Kinshasa",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "20,000",
+            "lines": [
+              "20,000"
+            ],
+            "html": "<td class=\"infobox-data\">20,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "group": null,
+            "text": "Indoor arena",
+            "lines": [
+              "Indoor arena"
+            ],
+            "html": "<td class=\"infobox-data category\">Indoor arena</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "13 October 2023",
+            "lines": [
+              "13 October 2023"
+            ],
+            "html": "<td class=\"infobox-data\">13 October 2023</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Builder",
+            "key": "builder",
+            "group": "Construction",
+            "text": "SUMMA",
+            "lines": [
+              "SUMMA"
+            ],
+            "html": "<td class=\"infobox-data\">SUMMA</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "Kinshasa\nDemocratic Republic of the Congo",
+              "lines": [
+                "Kinshasa",
+                "Democratic Republic of the Congo"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Kinshasa\" title=\"Kinshasa\">Kinshasa</a><br>Democratic Republic of the Congo<span data-plural=\"1\"></span></td>",
+              "links": [
+                {
+                  "text": "Kinshasa",
+                  "title": "Kinshasa",
+                  "wikiTitle": "Kinshasa",
+                  "href": "https://en.wikipedia.org/wiki/Kinshasa",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "20,000",
+              "lines": [
+                "20,000"
+              ],
+              "html": "<td class=\"infobox-data\">20,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "type": [
+            {
+              "label": "Type",
+              "key": "type",
+              "group": null,
+              "text": "Indoor arena",
+              "lines": [
+                "Indoor arena"
+              ],
+              "html": "<td class=\"infobox-data category\">Indoor arena</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "13 October 2023",
+              "lines": [
+                "13 October 2023"
+              ],
+              "html": "<td class=\"infobox-data\">13 October 2023</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "builder": [
+            {
+              "label": "Builder",
+              "key": "builder",
+              "group": "Construction",
+              "text": "SUMMA",
+              "lines": [
+                "SUMMA"
+              ],
+              "html": "<td class=\"infobox-data\">SUMMA</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "address": [
+            "Kinshasa\nDemocratic Republic of the Congo"
+          ],
+          "capacity": [
+            "20,000"
+          ],
+          "type": [
+            "Indoor arena"
+          ],
+          "groundbreaking": [
+            "13 October 2023"
+          ],
+          "builder": [
+            "SUMMA"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "20,000"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Kinshasa_Arena&revid=1327978421&groups=_d01244a69521c0df6d2b4aa3c960fe15f63c6036&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Kinshasa_Arena&revid=1327978421&groups=_d01244a69521c0df6d2b4aa3c960fe15f63c6036&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Kinshasa Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Kinshasa Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_d01244a69521c0df6d2b4aa3c960fe15f63c6036&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Kinshasa_Arena&amp;revid=1327978421&amp;groups=_d01244a69521c0df6d2b4aa3c960fe15f63c6036&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Kinshasa_Arena&amp;revid=1327978421&amp;groups=_d01244a69521c0df6d2b4aa3c960fe15f63c6036&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Kinshasa Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Kinshasa\" title=\"Kinshasa\">Kinshasa</a><br>Democratic Republic of the Congo<span data-plural=\"1\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">20,000</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Type</th><td class=\"infobox-data category\">Indoor arena</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">13 October 2023</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Builder</th><td class=\"infobox-data\">SUMMA</td></tr></tbody></table>"
+      },
+      "categories": [
+        "CS1_French-language_sources_(fr)",
+        "Use_dmy_dates_from_March_2024",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Democratic_Republic_of_the_Congo_articles_missing_geocoordinate_data",
+        "All_articles_needing_coordinates",
+        "Articles_missing_coordinates_with_coordinates_on_Wikidata",
+        "Basketball_in_the_Democratic_Republic_of_the_Congo",
+        "Indoor_arenas_under_construction",
+        "Buildings_and_structures_in_Kinshasa",
+        "Proposed_indoor_arenas",
+        "Indoor_arenas_in_the_Republic_of_the_Congo",
+        "All_stub_articles",
+        "Democratic_Republic_of_the_Congo_building_and_structure_stubs",
+        "Basketball_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://sportnewsafrica.com/en/at-a-glance/basketball-dr-congo-the-construction-of-kinshasa-arena-in-sight/",
+        "https://www.aa.com.tr/fr/afrique/la-rdc-signe-un-contrat-avec-la-soci%C3%A9t%C3%A9-turque-summa-pour-la-construction-de-kinshasa-arena-/2633355",
+        "https://nzadinews.net/kinshasa-lancement-officiel-des-travaux-de-construction-de-larena/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+        "Basketball_stub.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Kinshasa_Arena&revid=1327978421&groups=_d01244a69521c0df6d2b4aa3c960fe15f63c6036&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Kinshasa_Arena&revid=1327978421&groups=_d01244a69521c0df6d2b4aa3c960fe15f63c6036&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Kinshasa Arena"
+        },
+        {
+          "fileTitle": "File:Flag of the Democratic Republic of the Congo.svg",
+          "fileName": "Flag of the Democratic Republic of the Congo.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/40px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/60px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 23,
+          "originalWidth": 800,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Basketball stub.svg",
+          "fileName": "Basketball stub.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Basketball_stub.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Basketball_stub.svg/40px-Basketball_stub.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Basketball_stub.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Basketball_stub.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Basketball_stub.svg/120px-Basketball_stub.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 35,
+          "height": 35,
+          "originalWidth": 48,
+          "originalHeight": 48,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Future arenas"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 3,
+          "rowText": "Democratic Republic of Congo\nKinshasa\nKinshasa Arena\n2023\n20,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Democratic_Republic_of_Congo\" class=\"mw-redirect\" title=\"Democratic Republic of Congo\">Democratic Republic of Congo</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Kinshasa\" title=\"Kinshasa\">Kinshasa</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Kinshasa_Arena\" title=\"Kinshasa Arena\">Kinshasa Arena</a>\n</td>\n<td align=\"center\">2023\n</td>\n<td align=\"center\">20,000\n</td>\n<td align=\"center\">\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "Democratic Republic of Congo",
+                "lines": [
+                  "Democratic Republic of Congo"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Democratic Republic of Congo",
+                    "title": "Democratic Republic of Congo",
+                    "wikiTitle": "Democratic Republic of Congo",
+                    "href": "https://en.wikipedia.org/wiki/Democratic_Republic_of_Congo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "Kinshasa",
+                "lines": [
+                  "Kinshasa"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Kinshasa",
+                    "title": "Kinshasa",
+                    "wikiTitle": "Kinshasa",
+                    "href": "https://en.wikipedia.org/wiki/Kinshasa",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "Kinshasa Arena",
+                "lines": [
+                  "Kinshasa Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Kinshasa Arena",
+                    "title": "Kinshasa Arena",
+                    "wikiTitle": "Kinshasa Arena",
+                    "href": "https://en.wikipedia.org/wiki/Kinshasa_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Broke ground",
+              "headerKey": "broke_ground",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "2023",
+                "lines": [
+                  "2023"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "20,000",
+                "lines": [
+                  "20,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Kinshasa Arena",
+            "lines": [
+              "Kinshasa Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Kinshasa Arena",
+                "title": "Kinshasa Arena",
+                "wikiTitle": "Kinshasa Arena",
+                "href": "https://en.wikipedia.org/wiki/Kinshasa_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:52:22.536Z"
+    }
+  ]
+}

@@ -1,0 +1,922 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Ecuador",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 4,
+    "sourceTypeCounts": {
+      "world_master_list": 1,
+      "arena_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-4942135",
+      "pageId": 4942135,
+      "revisionId": null,
+      "title": "Coliseo General Rumiñahui",
+      "displayTitle": "Coliseo General Rumiñahui",
+      "url": "https://en.wikipedia.org/wiki/Coliseo_General_Rumi%C3%B1ahui",
+      "wikidataItem": "Q4356807",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q4356807",
+      "aliases": [
+        "Coliseo General Rumiñahui"
+      ],
+      "requestedTitles": [
+        "Coliseo General Rumiñahui"
+      ],
+      "sourceLinkTexts": [
+        "Coliseo General Rumiñahui"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Coliseo_General_Rumi%C3%B1ahui"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas by capacity"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "arena_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": -0.213392,
+        "longitude": -78.490097,
+        "raw": "-0.213392; -78.490097"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Coliseo General Rumiñahui",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "Av. Diego Ladrón de Guevara",
+            "lines": [
+              "Av. Diego Ladrón de Guevara"
+            ],
+            "html": "<td class=\"infobox-data label\">Av. Diego Ladrón de Guevara<span data-plural=\"0\"></span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Quito, Ecuador",
+            "lines": [
+              "Quito, Ecuador"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Quito\" title=\"Quito\">Quito</a>, Ecuador</td>",
+            "links": [
+              {
+                "text": "Quito",
+                "title": "Quito",
+                "wikiTitle": "Quito",
+                "href": "https://en.wikipedia.org/wiki/Quito",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "0°12′48″S 78°29′24″W﻿ / ﻿0.213392°S 78.490097°W﻿ / -0.213392; -78.490097",
+            "lines": [
+              "0°12′48″S 78°29′24″W﻿ / ﻿0.213392°S 78.490097°W﻿ / -0.213392; -78.490097"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Coliseo_General_Rumi%C3%B1ahui&amp;params=0.213392_S_78.490097_W_type:landmark_region:EC\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">0°12′48″S</span> <span class=\"longitude\">78°29′24″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">0.213392°S 78.490097°W</span><span>﻿ / <span class=\"geo\">-0.213392; -78.490097</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "0°12′48″S 78°29′24″W﻿ / ﻿0.213392°S 78.490097°W﻿ / -0.213392; -78.490097",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_General_Rumi%C3%B1ahui&params=0.213392_S_78.490097_W_type:landmark_region:EC",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Concentración Deportiva de Pichincha",
+            "lines": [
+              "Concentración Deportiva de Pichincha"
+            ],
+            "html": "<td class=\"infobox-data agent\">Concentración Deportiva de Pichincha</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "16,750",
+            "lines": [
+              "16,750"
+            ],
+            "html": "<td class=\"infobox-data\">16,750</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "July 9, 1992",
+            "lines": [
+              "July 9, 1992"
+            ],
+            "html": "<td class=\"infobox-data\">July 9, 1992</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "US$17,396,230",
+            "lines": [
+              "US$17,396,230"
+            ],
+            "html": "<td class=\"infobox-data\">US$17,396,230</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "Av. Diego Ladrón de Guevara",
+              "lines": [
+                "Av. Diego Ladrón de Guevara"
+              ],
+              "html": "<td class=\"infobox-data label\">Av. Diego Ladrón de Guevara<span data-plural=\"0\"></span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Quito, Ecuador",
+              "lines": [
+                "Quito, Ecuador"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Quito\" title=\"Quito\">Quito</a>, Ecuador</td>",
+              "links": [
+                {
+                  "text": "Quito",
+                  "title": "Quito",
+                  "wikiTitle": "Quito",
+                  "href": "https://en.wikipedia.org/wiki/Quito",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "0°12′48″S 78°29′24″W﻿ / ﻿0.213392°S 78.490097°W﻿ / -0.213392; -78.490097",
+              "lines": [
+                "0°12′48″S 78°29′24″W﻿ / ﻿0.213392°S 78.490097°W﻿ / -0.213392; -78.490097"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Coliseo_General_Rumi%C3%B1ahui&amp;params=0.213392_S_78.490097_W_type:landmark_region:EC\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">0°12′48″S</span> <span class=\"longitude\">78°29′24″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">0.213392°S 78.490097°W</span><span>﻿ / <span class=\"geo\">-0.213392; -78.490097</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "0°12′48″S 78°29′24″W﻿ / ﻿0.213392°S 78.490097°W﻿ / -0.213392; -78.490097",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_General_Rumi%C3%B1ahui&params=0.213392_S_78.490097_W_type:landmark_region:EC",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Concentración Deportiva de Pichincha",
+              "lines": [
+                "Concentración Deportiva de Pichincha"
+              ],
+              "html": "<td class=\"infobox-data agent\">Concentración Deportiva de Pichincha</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "16,750",
+              "lines": [
+                "16,750"
+              ],
+              "html": "<td class=\"infobox-data\">16,750</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "July 9, 1992",
+              "lines": [
+                "July 9, 1992"
+              ],
+              "html": "<td class=\"infobox-data\">July 9, 1992</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "US$17,396,230",
+              "lines": [
+                "US$17,396,230"
+              ],
+              "html": "<td class=\"infobox-data\">US$17,396,230</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "address": [
+            "Av. Diego Ladrón de Guevara"
+          ],
+          "location": [
+            "Quito, Ecuador"
+          ],
+          "coordinates": [
+            "0°12′48″S 78°29′24″W﻿ / ﻿0.213392°S 78.490097°W﻿ / -0.213392; -78.490097"
+          ],
+          "owner": [
+            "Concentración Deportiva de Pichincha"
+          ],
+          "capacity": [
+            "16,750"
+          ],
+          "opened": [
+            "July 9, 1992"
+          ],
+          "cost": [
+            "US$17,396,230"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "16,750"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_General_Rumi%C3%B1ahui&revid=1337404739&groups=_93e8fc47c49f13b605d027b47f71745d1756b44a&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_General_Rumi%C3%B1ahui&revid=1337404739&groups=_93e8fc47c49f13b605d027b47f71745d1756b44a&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Coliseo General Rumiñahui"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Coliseo General Rumiñahui</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_93e8fc47c49f13b605d027b47f71745d1756b44a&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_General_Rumi%C3%B1ahui&amp;revid=1337404739&amp;groups=_93e8fc47c49f13b605d027b47f71745d1756b44a&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_General_Rumi%C3%B1ahui&amp;revid=1337404739&amp;groups=_93e8fc47c49f13b605d027b47f71745d1756b44a&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Coliseo General Rumiñahui</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\">Av. Diego Ladrón de Guevara<span data-plural=\"0\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Quito\" title=\"Quito\">Quito</a>, Ecuador</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Coliseo_General_Rumi%C3%B1ahui&amp;params=0.213392_S_78.490097_W_type:landmark_region:EC\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">0°12′48″S</span> <span class=\"longitude\">78°29′24″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">0.213392°S 78.490097°W</span><span>﻿ / <span class=\"geo\">-0.213392; -78.490097</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Concentración Deportiva de Pichincha</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">16,750</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">July 9, 1992</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">US$17,396,230</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Articles_lacking_sources_from_May_2020",
+        "All_articles_lacking_sources",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Sports_venues_in_Quito",
+        "Indoor_arenas_in_Ecuador",
+        "Sports_venues_completed_in_1992",
+        "Basketball_venues_in_Ecuador",
+        "Volleyball_venues_in_Ecuador",
+        "1992_establishments_in_South_America",
+        "All_stub_articles",
+        "South_American_sports_venue_stubs",
+        "Ecuadorian_sport_stubs",
+        "Ecuadorian_building_and_structure_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_General_Rumi%C3%B1ahui&params=0.213392_S_78.490097_W_type:landmark_region:EC",
+        "https://www.google.com/search?as_eq=wikipedia&q=%22Coliseo+General+Rumi%C3%B1ahui%22",
+        "https://www.google.com/search?tbm=nws&q=%22Coliseo+General+Rumi%C3%B1ahui%22+-wikipedia&tbs=ar:1",
+        "https://www.google.com/search?&q=%22Coliseo+General+Rumi%C3%B1ahui%22&tbs=bkt:s&tbm=bks",
+        "https://www.google.com/search?tbs=bks:1&q=%22Coliseo+General+Rumi%C3%B1ahui%22+-wikipedia",
+        "https://scholar.google.com/scholar?q=%22Coliseo+General+Rumi%C3%B1ahui%22",
+        "https://www.jstor.org/action/doBasicSearch?Query=%22Coliseo+General+Rumi%C3%B1ahui%22&acc=on&wc=on",
+        "https://www.ieanjesus.org.ec/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Concerts and events",
+          "anchor": "Concerts_and_events"
+        }
+      ],
+      "referencedFileTitles": [
+        "Question_book-new.svg",
+        "Flag_of_Ecuador.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Question book-new.svg",
+          "fileName": "Question book-new.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 39,
+          "originalWidth": 512,
+          "originalHeight": 399,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_General_Rumi%C3%B1ahui&revid=1337404739&groups=_93e8fc47c49f13b605d027b47f71745d1756b44a&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_General_Rumi%C3%B1ahui&revid=1337404739&groups=_93e8fc47c49f13b605d027b47f71745d1756b44a&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Coliseo General Rumiñahui"
+        },
+        {
+          "fileTitle": "File:Flag of Ecuador.svg",
+          "fileName": "Flag of Ecuador.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Ecuador.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/40px-Flag_of_Ecuador.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Ecuador.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Ecuador.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/60px-Flag_of_Ecuador.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 1440,
+          "originalHeight": 960,
+          "fileType": null,
+          "alt": "Flag of Ecuador",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 103,
+          "rowText": "Ecuador\nQuito\nColiseo General Rumiñahui\n1992\n16,000",
+          "rowHtml": "<tr>\n<td rowspan=\"6\"><a href=\"https://en.wikipedia.org/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a>\n</td>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Quito\" title=\"Quito\">Quito</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Coliseo_General_Rumi%C3%B1ahui\" title=\"Coliseo General Rumiñahui\">Coliseo General Rumiñahui</a>\n</td>\n<td>1992\n</td>\n<td>16,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 103,
+              "cell": {
+                "text": "Ecuador",
+                "lines": [
+                  "Ecuador"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ecuador",
+                    "title": "Ecuador",
+                    "wikiTitle": "Ecuador",
+                    "href": "https://en.wikipedia.org/wiki/Ecuador",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 103,
+              "cell": {
+                "text": "Quito",
+                "lines": [
+                  "Quito"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Quito",
+                    "title": "Quito",
+                    "wikiTitle": "Quito",
+                    "href": "https://en.wikipedia.org/wiki/Quito",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 103,
+              "cell": {
+                "text": "Coliseo General Rumiñahui",
+                "lines": [
+                  "Coliseo General Rumiñahui"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo General Rumiñahui",
+                    "title": "Coliseo General Rumiñahui",
+                    "wikiTitle": "Coliseo General Rumiñahui",
+                    "href": "https://en.wikipedia.org/wiki/Coliseo_General_Rumi%C3%B1ahui",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 103,
+              "cell": {
+                "text": "1992",
+                "lines": [
+                  "1992"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 103,
+              "cell": {
+                "text": "16,000",
+                "lines": [
+                  "16,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 103,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Coliseo General Rumiñahui",
+            "lines": [
+              "Coliseo General Rumiñahui"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo General Rumiñahui",
+                "title": "Coliseo General Rumiñahui",
+                "wikiTitle": "Coliseo General Rumiñahui",
+                "href": "https://en.wikipedia.org/wiki/Coliseo_General_Rumi%C3%B1ahui",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas by capacity",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_by_capacity",
+          "sourceRevisionId": null,
+          "sourceType": "arena_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 129,
+          "rowText": "Coliseo General Rumiñahui\n16,000\nQuito\nEcuador",
+          "rowHtml": "<tr>\n<th scope=\"row\"><a href=\"https://en.wikipedia.org/wiki/Coliseo_General_Rumi%C3%B1ahui\" title=\"Coliseo General Rumiñahui\">Coliseo General Rumiñahui</a>\n</th>\n<td>16,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Quito\" title=\"Quito\">Quito</a>\n</td>\n<td><span class=\"flagicon nowrap\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/40px-Flag_of_Ecuador.svg.png\" width=\"23\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/60px-Flag_of_Ecuador.svg.png 2x\" data-file-width=\"1440\" data-file-height=\"960\"></span></span> </span><a href=\"https://en.wikipedia.org/wiki/Ecuador\" title=\"Ecuador\">Ecuador</a>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 129,
+              "cell": {
+                "text": "Coliseo General Rumiñahui",
+                "lines": [
+                  "Coliseo General Rumiñahui"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo General Rumiñahui",
+                    "title": "Coliseo General Rumiñahui",
+                    "wikiTitle": "Coliseo General Rumiñahui",
+                    "href": "https://en.wikipedia.org/wiki/Coliseo_General_Rumi%C3%B1ahui",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 129,
+              "cell": {
+                "text": "16,000",
+                "lines": [
+                  "16,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 129,
+              "cell": {
+                "text": "Quito",
+                "lines": [
+                  "Quito"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Quito",
+                    "title": "Quito",
+                    "wikiTitle": "Quito",
+                    "href": "https://en.wikipedia.org/wiki/Quito",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 129,
+              "cell": {
+                "text": "Ecuador",
+                "lines": [
+                  "Ecuador"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ecuador",
+                    "title": "Ecuador",
+                    "wikiTitle": "Ecuador",
+                    "href": "https://en.wikipedia.org/wiki/Ecuador",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": null,
+                    "fileName": null,
+                    "kind": "photo",
+                    "filePageUrl": null,
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/40px-Flag_of_Ecuador.svg.png",
+                    "originalRedirectUrl": null,
+                    "enwikiOriginalRedirectUrl": null,
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/60px-Flag_of_Ecuador.svg.png",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 23,
+                    "height": 15,
+                    "originalWidth": 1440,
+                    "originalHeight": 960,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 129,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": null,
+              "fileName": null,
+              "kind": "photo",
+              "filePageUrl": null,
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/40px-Flag_of_Ecuador.svg.png",
+              "originalRedirectUrl": null,
+              "enwikiOriginalRedirectUrl": null,
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/60px-Flag_of_Ecuador.svg.png",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 23,
+              "height": 15,
+              "originalWidth": 1440,
+              "originalHeight": 960,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Coliseo General Rumiñahui",
+            "lines": [
+              "Coliseo General Rumiñahui"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo General Rumiñahui",
+                "title": "Coliseo General Rumiñahui",
+                "wikiTitle": "Coliseo General Rumiñahui",
+                "href": "https://en.wikipedia.org/wiki/Coliseo_General_Rumi%C3%B1ahui",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:31.958Z"
+    }
+  ]
+}

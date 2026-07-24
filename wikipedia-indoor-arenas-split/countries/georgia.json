@@ -1,0 +1,2724 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Georgia",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 3
+  },
+  "stats": {
+    "arenaCount": 3,
+    "sourceRowCount": 3,
+    "mediaRecordCount": 13,
+    "sourceTypeCounts": {
+      "world_master_list": 3
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-54190802",
+      "pageId": 54190802,
+      "revisionId": null,
+      "title": "Black Sea Arena",
+      "displayTitle": "Black Sea Arena",
+      "url": "https://en.wikipedia.org/wiki/Black_Sea_Arena",
+      "wikidataItem": "Q30098862",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q30098862",
+      "aliases": [
+        "Black Sea Arena"
+      ],
+      "requestedTitles": [
+        "Black Sea Arena"
+      ],
+      "sourceLinkTexts": [
+        "Black Sea Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Black_Sea_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 41.93843778,
+        "longitude": 41.77476833,
+        "raw": "41.93843778; 41.77476833"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Black Sea Arena",
+        "groups": [
+          "Construction",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Shekvetili, Guria, Georgia",
+            "lines": [
+              "Shekvetili, Guria, Georgia"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Shekvetili\" title=\"Shekvetili\">Shekvetili</a>, <a href=\"https://en.wikipedia.org/wiki/Guria\" title=\"Guria\">Guria</a>, <a href=\"https://en.wikipedia.org/wiki/Georgia_(country)\" title=\"Georgia (country)\">Georgia</a></td>",
+            "links": [
+              {
+                "text": "Shekvetili",
+                "title": "Shekvetili",
+                "wikiTitle": "Shekvetili",
+                "href": "https://en.wikipedia.org/wiki/Shekvetili",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Guria",
+                "title": "Guria",
+                "wikiTitle": "Guria",
+                "href": "https://en.wikipedia.org/wiki/Guria",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Georgia",
+                "title": "Georgia (country)",
+                "wikiTitle": "Georgia (country)",
+                "href": "https://en.wikipedia.org/wiki/Georgia_(country)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "41°56′18.376″N 41°46′29.166″E﻿ / ﻿41.93843778°N 41.77476833°E﻿ / 41.93843778; 41.77476833",
+            "lines": [
+              "41°56′18.376″N 41°46′29.166″E﻿ / ﻿41.93843778°N 41.77476833°E﻿ / 41.93843778; 41.77476833"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Black_Sea_Arena&amp;params=41_56_18.376_N_41_46_29.166_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">41°56′18.376″N</span> <span class=\"longitude\">41°46′29.166″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">41.93843778°N 41.77476833°E</span><span>﻿ / <span class=\"geo\">41.93843778; 41.77476833</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "41°56′18.376″N 41°46′29.166″E﻿ / ﻿41.93843778°N 41.77476833°E﻿ / 41.93843778; 41.77476833",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Black_Sea_Arena&params=41_56_18.376_N_41_46_29.166_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "9,000",
+            "lines": [
+              "9,000"
+            ],
+            "html": "<td class=\"infobox-data\">9,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "2008",
+            "lines": [
+              "2008"
+            ],
+            "html": "<td class=\"infobox-data\">2008</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "31 July 2016 (2016-07-31)",
+            "lines": [
+              "31 July 2016 (2016-07-31)"
+            ],
+            "html": "<td class=\"infobox-data\">31&nbsp;July&nbsp;2016<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2016-07-31</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "₾200 million GEL\n($93 million USD)",
+            "lines": [
+              "₾200 million GEL",
+              "($93 million USD)"
+            ],
+            "html": "<td class=\"infobox-data\">₾200 million <a href=\"https://en.wikipedia.org/wiki/Georgian_lari\" title=\"Georgian lari\">GEL</a><br>(<a href=\"https://en.wikipedia.org/wiki/$\" class=\"mw-redirect\" title=\"$\">$</a>93 million USD)</td>",
+            "links": [
+              {
+                "text": "GEL",
+                "title": "Georgian lari",
+                "wikiTitle": "Georgian lari",
+                "href": "https://en.wikipedia.org/wiki/Georgian_lari",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "$",
+                "title": "$",
+                "wikiTitle": "$",
+                "href": "https://en.wikipedia.org/wiki/$",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Drei Architekten",
+            "lines": [
+              "Drei Architekten"
+            ],
+            "html": "<td class=\"infobox-data\">Drei Architekten</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "www.bsa.ge",
+            "lines": [
+              "www.bsa.ge"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.bsa.ge/\">www<wbr>.bsa<wbr>.ge</a></span></td>",
+            "links": [
+              {
+                "text": "www.bsa.ge",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://www.bsa.ge/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Shekvetili, Guria, Georgia",
+              "lines": [
+                "Shekvetili, Guria, Georgia"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Shekvetili\" title=\"Shekvetili\">Shekvetili</a>, <a href=\"https://en.wikipedia.org/wiki/Guria\" title=\"Guria\">Guria</a>, <a href=\"https://en.wikipedia.org/wiki/Georgia_(country)\" title=\"Georgia (country)\">Georgia</a></td>",
+              "links": [
+                {
+                  "text": "Shekvetili",
+                  "title": "Shekvetili",
+                  "wikiTitle": "Shekvetili",
+                  "href": "https://en.wikipedia.org/wiki/Shekvetili",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Guria",
+                  "title": "Guria",
+                  "wikiTitle": "Guria",
+                  "href": "https://en.wikipedia.org/wiki/Guria",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Georgia",
+                  "title": "Georgia (country)",
+                  "wikiTitle": "Georgia (country)",
+                  "href": "https://en.wikipedia.org/wiki/Georgia_(country)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "41°56′18.376″N 41°46′29.166″E﻿ / ﻿41.93843778°N 41.77476833°E﻿ / 41.93843778; 41.77476833",
+              "lines": [
+                "41°56′18.376″N 41°46′29.166″E﻿ / ﻿41.93843778°N 41.77476833°E﻿ / 41.93843778; 41.77476833"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Black_Sea_Arena&amp;params=41_56_18.376_N_41_46_29.166_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">41°56′18.376″N</span> <span class=\"longitude\">41°46′29.166″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">41.93843778°N 41.77476833°E</span><span>﻿ / <span class=\"geo\">41.93843778; 41.77476833</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "41°56′18.376″N 41°46′29.166″E﻿ / ﻿41.93843778°N 41.77476833°E﻿ / 41.93843778; 41.77476833",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Black_Sea_Arena&params=41_56_18.376_N_41_46_29.166_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "9,000",
+              "lines": [
+                "9,000"
+              ],
+              "html": "<td class=\"infobox-data\">9,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "2008",
+              "lines": [
+                "2008"
+              ],
+              "html": "<td class=\"infobox-data\">2008</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "31 July 2016 (2016-07-31)",
+              "lines": [
+                "31 July 2016 (2016-07-31)"
+              ],
+              "html": "<td class=\"infobox-data\">31&nbsp;July&nbsp;2016<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2016-07-31</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "₾200 million GEL\n($93 million USD)",
+              "lines": [
+                "₾200 million GEL",
+                "($93 million USD)"
+              ],
+              "html": "<td class=\"infobox-data\">₾200 million <a href=\"https://en.wikipedia.org/wiki/Georgian_lari\" title=\"Georgian lari\">GEL</a><br>(<a href=\"https://en.wikipedia.org/wiki/$\" class=\"mw-redirect\" title=\"$\">$</a>93 million USD)</td>",
+              "links": [
+                {
+                  "text": "GEL",
+                  "title": "Georgian lari",
+                  "wikiTitle": "Georgian lari",
+                  "href": "https://en.wikipedia.org/wiki/Georgian_lari",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "$",
+                  "title": "$",
+                  "wikiTitle": "$",
+                  "href": "https://en.wikipedia.org/wiki/$",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Drei Architekten",
+              "lines": [
+                "Drei Architekten"
+              ],
+              "html": "<td class=\"infobox-data\">Drei Architekten</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "www.bsa.ge",
+              "lines": [
+                "www.bsa.ge"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.bsa.ge/\">www<wbr>.bsa<wbr>.ge</a></span></td>",
+              "links": [
+                {
+                  "text": "www.bsa.ge",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://www.bsa.ge/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Shekvetili, Guria, Georgia"
+          ],
+          "coordinates": [
+            "41°56′18.376″N 41°46′29.166″E﻿ / ﻿41.93843778°N 41.77476833°E﻿ / 41.93843778; 41.77476833"
+          ],
+          "capacity": [
+            "9,000"
+          ],
+          "groundbreaking": [
+            "2008"
+          ],
+          "opened": [
+            "31 July 2016 (2016-07-31)"
+          ],
+          "cost": [
+            "₾200 million GEL\n($93 million USD)"
+          ],
+          "architect": [
+            "Drei Architekten"
+          ],
+          "website": [
+            "www.bsa.ge"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "9,000"
+        ],
+        "tenants": [],
+        "websites": [
+          "http://www.bsa.ge/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:Black Sea Arena logo.png",
+            "fileName": "Black Sea Arena logo.png",
+            "kind": "logo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Black_Sea_Arena_logo.png",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Black_Sea_Arena_logo.png/250px-Black_Sea_Arena_logo.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Black_Sea_Arena_logo.png",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Black_Sea_Arena_logo.png",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/en/a/a0/Black_Sea_Arena_logo.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 68,
+            "originalWidth": 338,
+            "originalHeight": 92,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": "File:BSA Black Sea Arena (cropped).jpg",
+            "fileName": "BSA Black Sea Arena (cropped).jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:BSA_Black_Sea_Arena_(cropped).jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/BSA_Black_Sea_Arena_%28cropped%29.jpg/250px-BSA_Black_Sea_Arena_%28cropped%29.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/BSA_Black_Sea_Arena_(cropped).jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/BSA_Black_Sea_Arena_(cropped).jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/BSA_Black_Sea_Arena_%28cropped%29.jpg/500px-BSA_Black_Sea_Arena_%28cropped%29.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 141,
+            "originalWidth": 1536,
+            "originalHeight": 865,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Black_Sea_Arena&revid=1329612392&groups=_ef7ff352571e18105bedeb8bc4cc38e1bacb6478&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Black_Sea_Arena&revid=1329612392&groups=_ef7ff352571e18105bedeb8bc4cc38e1bacb6478&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Black Sea Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Black Sea Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\" lang=\"ka\">ბლექ სი არენა</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"notpageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Black_Sea_Arena_logo.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Black_Sea_Arena_logo.png/250px-Black_Sea_Arena_logo.png\" width=\"250\" height=\"68\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/en/a/a0/Black_Sea_Arena_logo.png 2x\" data-file-width=\"338\" data-file-height=\"92\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:BSA_Black_Sea_Arena_(cropped).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/BSA_Black_Sea_Arena_%28cropped%29.jpg/250px-BSA_Black_Sea_Arena_%28cropped%29.jpg\" width=\"250\" height=\"141\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/BSA_Black_Sea_Arena_%28cropped%29.jpg/500px-BSA_Black_Sea_Arena_%28cropped%29.jpg 2x\" data-file-width=\"1536\" data-file-height=\"865\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_ef7ff352571e18105bedeb8bc4cc38e1bacb6478&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Black_Sea_Arena&amp;revid=1329612392&amp;groups=_ef7ff352571e18105bedeb8bc4cc38e1bacb6478&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Black_Sea_Arena&amp;revid=1329612392&amp;groups=_ef7ff352571e18105bedeb8bc4cc38e1bacb6478&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Black Sea Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Shekvetili\" title=\"Shekvetili\">Shekvetili</a>, <a href=\"https://en.wikipedia.org/wiki/Guria\" title=\"Guria\">Guria</a>, <a href=\"https://en.wikipedia.org/wiki/Georgia_(country)\" title=\"Georgia (country)\">Georgia</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Black_Sea_Arena&amp;params=41_56_18.376_N_41_46_29.166_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">41°56′18.376″N</span> <span class=\"longitude\">41°46′29.166″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">41.93843778°N 41.77476833°E</span><span>﻿ / <span class=\"geo\">41.93843778; 41.77476833</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">9,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">2008</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">31&nbsp;July&nbsp;2016<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2016-07-31</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">₾200 million <a href=\"https://en.wikipedia.org/wiki/Georgian_lari\" title=\"Georgian lari\">GEL</a><br>(<a href=\"https://en.wikipedia.org/wiki/$\" class=\"mw-redirect\" title=\"$\">$</a>93 million USD)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\">Drei Architekten</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.bsa.ge/\">www<wbr>.bsa<wbr>.ge</a></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "All_articles_with_dead_external_links",
+        "Articles_with_dead_external_links_from_October_2019",
+        "Articles_with_permanently_dead_external_links",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Commons_category_link_is_on_Wikidata",
+        "Official_website_different_in_Wikidata_and_Wikipedia",
+        "Indoor_arenas_in_Georgia_(country)",
+        "Music_venues_in_Georgia_(country)",
+        "Buildings_and_structures_in_Guria",
+        "Music_venues_completed_in_2016",
+        "2016_establishments_in_Georgia_(country)",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Black_Sea_Arena&params=41_56_18.376_N_41_46_29.166_E_type:landmark",
+        "https://www.sbp.de/en/project/black-sea-arena/",
+        "http://agenda.ge/news/62928/eng",
+        "http://agenda.ge/news/63893/eng",
+        "http://www.tabula.ge/en/story/114539-aerosmith-to-hold-concert-in-batumi-on-may-20",
+        "http://agenda.ge/news/80408/eng",
+        "http://cbw.ge/georgia/ennio-morricone-announces-concert-at-the-black-sea-arena/",
+        "https://www.georgianjournal.ge/arts-a-culture/33766-elton-johns-concerts-in-georgia-postponed.html",
+        "http://www.eltonjohn.com/eltons-first-concert-in-shekvetili-georgia-announced/",
+        "https://www.georgianjournal.ge/culture/34356-led-zeppelins-robert-plant-to-perform-in-georgia-on-july-19-this-summer.html",
+        "http://georgiatoday.ge/news/15445/Pop%E2%80%99s-Black-Eyed-Peas-to-Play-at-Black-Sea-Arena-in-June",
+        "https://1tv.ge/en/news/concert-of-jessie-j-to-be-held-at-black-sea-arena/",
+        "https://www.georgianjournal.ge/society/35820-30-seconds-to-mars-to-perform-in-georgia.html",
+        "https://cbw.ge/events/black-sea-arena-yard-to-host-limperatrice-concert-on-august-15",
+        "https://cbw.ge/culture/events-of-black-sea-arena-to-postpone-until-the-summer-of-2021",
+        "https://georgiatoday.ge/black-sea-arena-launches-wide-scale-campaign-in-georgia-branded-as-starring-georgia/",
+        "https://georgianjournal.ge/culture/37772-black-sea-arena-to-host-onerepublic.html",
+        "https://cbw.ge/culture/onerepublic-concert-in-georgia-canceled-amid-to-russia-ukraine-war",
+        "https://civil.ge/archives/612472",
+        "https://www.theguardian.com/music/article/2024/jun/12/massive-attack-pull-out-of-gig-in-georgia-in-solidarity-with-protesters",
+        "https://search.worldcat.org/issn/0261-3077",
+        "http://www.bsa.ge",
+        "http://bsa.gov.ge"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Concerts",
+          "anchor": "Concerts"
+        },
+        {
+          "index": "2",
+          "level": 3,
+          "line": "Cancelled Concerts",
+          "anchor": "Cancelled_Concerts"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Controversies",
+          "anchor": "Controversies"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "Notes",
+          "anchor": "Notes"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Black_Sea_Arena_logo.png",
+        "BSA_Black_Sea_Arena_(cropped).jpg",
+        "Commons-logo.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Black Sea Arena logo.png",
+          "fileName": "Black Sea Arena logo.png",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Black_Sea_Arena_logo.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Black_Sea_Arena_logo.png/250px-Black_Sea_Arena_logo.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Black_Sea_Arena_logo.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Black_Sea_Arena_logo.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/a/a0/Black_Sea_Arena_logo.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 68,
+          "originalWidth": 338,
+          "originalHeight": 92,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:BSA Black Sea Arena (cropped).jpg",
+          "fileName": "BSA Black Sea Arena (cropped).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:BSA_Black_Sea_Arena_(cropped).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/BSA_Black_Sea_Arena_%28cropped%29.jpg/250px-BSA_Black_Sea_Arena_%28cropped%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/BSA_Black_Sea_Arena_(cropped).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/BSA_Black_Sea_Arena_(cropped).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/BSA_Black_Sea_Arena_%28cropped%29.jpg/500px-BSA_Black_Sea_Arena_%28cropped%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 141,
+          "originalWidth": 1536,
+          "originalHeight": 865,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Black_Sea_Arena&revid=1329612392&groups=_ef7ff352571e18105bedeb8bc4cc38e1bacb6478&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Black_Sea_Arena&revid=1329612392&groups=_ef7ff352571e18105bedeb8bc4cc38e1bacb6478&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Black Sea Arena"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 304,
+          "rowText": "Shekvetili\nBlack Sea Arena\n2016\n10,000\nConcerts",
+          "rowHtml": "<tr>\n<td rowspan=\"1\"><a href=\"https://en.wikipedia.org/wiki/Shekvetili\" title=\"Shekvetili\">Shekvetili</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Black_Sea_Arena\" title=\"Black Sea Arena\">Black Sea Arena</a>\n</td>\n<td>2016\n</td>\n<td>10,000\n</td>\n<td>Concerts\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 302,
+              "cell": {
+                "text": "Georgia",
+                "lines": [
+                  "Georgia"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Georgia",
+                    "title": "Georgia (country)",
+                    "wikiTitle": "Georgia (country)",
+                    "href": "https://en.wikipedia.org/wiki/Georgia_(country)",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 304,
+              "cell": {
+                "text": "Shekvetili",
+                "lines": [
+                  "Shekvetili"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Shekvetili",
+                    "title": "Shekvetili",
+                    "wikiTitle": "Shekvetili",
+                    "href": "https://en.wikipedia.org/wiki/Shekvetili",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 304,
+              "cell": {
+                "text": "Black Sea Arena",
+                "lines": [
+                  "Black Sea Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Black Sea Arena",
+                    "title": "Black Sea Arena",
+                    "wikiTitle": "Black Sea Arena",
+                    "href": "https://en.wikipedia.org/wiki/Black_Sea_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 304,
+              "cell": {
+                "text": "2016",
+                "lines": [
+                  "2016"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 304,
+              "cell": {
+                "text": "10,000",
+                "lines": [
+                  "10,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 304,
+              "cell": {
+                "text": "Concerts",
+                "lines": [
+                  "Concerts"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Black Sea Arena",
+            "lines": [
+              "Black Sea Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Black Sea Arena",
+                "title": "Black Sea Arena",
+                "wikiTitle": "Black Sea Arena",
+                "href": "https://en.wikipedia.org/wiki/Black_Sea_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:36:10.53Z"
+    },
+    {
+      "id": "wikipedia-page-54879783",
+      "pageId": 54879783,
+      "revisionId": null,
+      "title": "Olympic Palace",
+      "displayTitle": "Olympic Palace",
+      "url": "https://en.wikipedia.org/wiki/Olympic_Palace",
+      "wikidataItem": "Q37181445",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q37181445",
+      "aliases": [
+        "Olympic Palace",
+        "Tbilisi Olympic Palace"
+      ],
+      "requestedTitles": [
+        "Olympic Palace"
+      ],
+      "sourceLinkTexts": [
+        "Olympic Palace"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Olympic_Palace"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 41.7181,
+        "longitude": 44.7279,
+        "raw": "41.7181; 44.7279"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Tbilisi Olympic Palace",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Tbilisi, Georgia",
+            "lines": [
+              "Tbilisi, Georgia"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Tbilisi\" title=\"Tbilisi\">Tbilisi</a>, <a href=\"https://en.wikipedia.org/wiki/Georgia_(country)\" title=\"Georgia (country)\">Georgia</a></td>",
+            "links": [
+              {
+                "text": "Tbilisi",
+                "title": "Tbilisi",
+                "wikiTitle": "Tbilisi",
+                "href": "https://en.wikipedia.org/wiki/Tbilisi",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Georgia",
+                "title": "Georgia (country)",
+                "wikiTitle": "Georgia (country)",
+                "href": "https://en.wikipedia.org/wiki/Georgia_(country)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "41°43′05″N 44°43′40″E﻿ / ﻿41.7181°N 44.7279°E﻿ / 41.7181; 44.7279",
+            "lines": [
+              "41°43′05″N 44°43′40″E﻿ / ﻿41.7181°N 44.7279°E﻿ / 41.7181; 44.7279"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Olympic_Palace&amp;params=41.7181_N_44.7279_E_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">41°43′05″N</span> <span class=\"longitude\">44°43′40″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">41.7181°N 44.7279°E</span><span>﻿ / <span class=\"geo\">41.7181; 44.7279</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "41°43′05″N 44°43′40″E﻿ / ﻿41.7181°N 44.7279°E﻿ / 41.7181; 44.7279",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Olympic_Palace&params=41.7181_N_44.7279_E_",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Government of Georgia",
+            "lines": [
+              "Government of Georgia"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Georgia_(country)\" title=\"Government of Georgia (country)\">Government of Georgia</a></td>",
+            "links": [
+              {
+                "text": "Government of Georgia",
+                "title": "Government of Georgia (country)",
+                "wikiTitle": "Government of Georgia (country)",
+                "href": "https://en.wikipedia.org/wiki/Government_of_Georgia_(country)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "Grand Hall: 3,600 (sports) or 4,000 (concerts)\nTbilisi Arena: 10,000 (basketball)",
+            "lines": [
+              "Grand Hall: 3,600 (sports) or 4,000 (concerts)",
+              "Tbilisi Arena: 10,000 (basketball)"
+            ],
+            "html": "<td class=\"infobox-data\">Grand Hall: 3,600 (sports) or 4,000 (<a href=\"https://en.wikipedia.org/wiki/Concerts\" class=\"mw-redirect\" title=\"Concerts\">concerts</a>)<br>Tbilisi Arena: 10,000 (basketball)</td>",
+            "links": [
+              {
+                "text": "concerts",
+                "title": "Concerts",
+                "wikiTitle": "Concerts",
+                "href": "https://en.wikipedia.org/wiki/Concerts",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "January 2015",
+            "lines": [
+              "January 2015"
+            ],
+            "html": "<td class=\"infobox-data\">January 2015</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "13 July 2015",
+            "lines": [
+              "13 July 2015"
+            ],
+            "html": "<td class=\"infobox-data\">13 July 2015</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Expanded",
+            "key": "expanded",
+            "group": "Construction",
+            "text": "2022 (arena)",
+            "lines": [
+              "2022 (arena)"
+            ],
+            "html": "<td class=\"infobox-data\">2022 (arena)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Tbilisi, Georgia",
+              "lines": [
+                "Tbilisi, Georgia"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Tbilisi\" title=\"Tbilisi\">Tbilisi</a>, <a href=\"https://en.wikipedia.org/wiki/Georgia_(country)\" title=\"Georgia (country)\">Georgia</a></td>",
+              "links": [
+                {
+                  "text": "Tbilisi",
+                  "title": "Tbilisi",
+                  "wikiTitle": "Tbilisi",
+                  "href": "https://en.wikipedia.org/wiki/Tbilisi",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Georgia",
+                  "title": "Georgia (country)",
+                  "wikiTitle": "Georgia (country)",
+                  "href": "https://en.wikipedia.org/wiki/Georgia_(country)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "41°43′05″N 44°43′40″E﻿ / ﻿41.7181°N 44.7279°E﻿ / 41.7181; 44.7279",
+              "lines": [
+                "41°43′05″N 44°43′40″E﻿ / ﻿41.7181°N 44.7279°E﻿ / 41.7181; 44.7279"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Olympic_Palace&amp;params=41.7181_N_44.7279_E_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">41°43′05″N</span> <span class=\"longitude\">44°43′40″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">41.7181°N 44.7279°E</span><span>﻿ / <span class=\"geo\">41.7181; 44.7279</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "41°43′05″N 44°43′40″E﻿ / ﻿41.7181°N 44.7279°E﻿ / 41.7181; 44.7279",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Olympic_Palace&params=41.7181_N_44.7279_E_",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Government of Georgia",
+              "lines": [
+                "Government of Georgia"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Georgia_(country)\" title=\"Government of Georgia (country)\">Government of Georgia</a></td>",
+              "links": [
+                {
+                  "text": "Government of Georgia",
+                  "title": "Government of Georgia (country)",
+                  "wikiTitle": "Government of Georgia (country)",
+                  "href": "https://en.wikipedia.org/wiki/Government_of_Georgia_(country)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "Grand Hall: 3,600 (sports) or 4,000 (concerts)\nTbilisi Arena: 10,000 (basketball)",
+              "lines": [
+                "Grand Hall: 3,600 (sports) or 4,000 (concerts)",
+                "Tbilisi Arena: 10,000 (basketball)"
+              ],
+              "html": "<td class=\"infobox-data\">Grand Hall: 3,600 (sports) or 4,000 (<a href=\"https://en.wikipedia.org/wiki/Concerts\" class=\"mw-redirect\" title=\"Concerts\">concerts</a>)<br>Tbilisi Arena: 10,000 (basketball)</td>",
+              "links": [
+                {
+                  "text": "concerts",
+                  "title": "Concerts",
+                  "wikiTitle": "Concerts",
+                  "href": "https://en.wikipedia.org/wiki/Concerts",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "January 2015",
+              "lines": [
+                "January 2015"
+              ],
+              "html": "<td class=\"infobox-data\">January 2015</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "13 July 2015",
+              "lines": [
+                "13 July 2015"
+              ],
+              "html": "<td class=\"infobox-data\">13 July 2015</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "expanded": [
+            {
+              "label": "Expanded",
+              "key": "expanded",
+              "group": "Construction",
+              "text": "2022 (arena)",
+              "lines": [
+                "2022 (arena)"
+              ],
+              "html": "<td class=\"infobox-data\">2022 (arena)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Tbilisi, Georgia"
+          ],
+          "coordinates": [
+            "41°43′05″N 44°43′40″E﻿ / ﻿41.7181°N 44.7279°E﻿ / 41.7181; 44.7279"
+          ],
+          "owner": [
+            "Government of Georgia"
+          ],
+          "capacity": [
+            "Grand Hall: 3,600 (sports) or 4,000 (concerts)\nTbilisi Arena: 10,000 (basketball)"
+          ],
+          "groundbreaking": [
+            "January 2015"
+          ],
+          "opened": [
+            "13 July 2015"
+          ],
+          "expanded": [
+            "2022 (arena)"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "Grand Hall: 3,600 (sports) or 4,000 (concerts)",
+          "Tbilisi Arena: 10,000 (basketball)"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Olympic Palace (Tbilisi, GEO) 2017.jpg",
+            "fileName": "Olympic Palace (Tbilisi, GEO) 2017.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Olympic_Palace_(Tbilisi,_GEO)_2017.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Olympic_Palace_%28Tbilisi%2C_GEO%29_2017.jpg/250px-Olympic_Palace_%28Tbilisi%2C_GEO%29_2017.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Olympic_Palace_(Tbilisi%2C_GEO)_2017.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Olympic_Palace_(Tbilisi%2C_GEO)_2017.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Olympic_Palace_%28Tbilisi%2C_GEO%29_2017.jpg/500px-Olympic_Palace_%28Tbilisi%2C_GEO%29_2017.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 139,
+            "originalWidth": 1963,
+            "originalHeight": 1091,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Entrance to Olympic Sports Palace in 2017"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Olympic_Palace&revid=1363526981&groups=_2239840ab32c5c7d7fed698f021f73dc5b98b1ee&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Olympic_Palace&revid=1363526981&groups=_2239840ab32c5c7d7fed698f021f73dc5b98b1ee&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Tbilisi Olympic Palace"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Tbilisi Olympic Palace</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\" lang=\"ka\">ოლიმპიური სასახლე</div></td></tr><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\">Tbilisi New Sports Palace</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Olympic_Palace_(Tbilisi,_GEO)_2017.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Olympic_Palace_%28Tbilisi%2C_GEO%29_2017.jpg/250px-Olympic_Palace_%28Tbilisi%2C_GEO%29_2017.jpg\" width=\"250\" height=\"139\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Olympic_Palace_%28Tbilisi%2C_GEO%29_2017.jpg/500px-Olympic_Palace_%28Tbilisi%2C_GEO%29_2017.jpg 2x\" data-file-width=\"1963\" data-file-height=\"1091\"></a></span><div class=\"infobox-caption\">Entrance to Olympic Sports Palace in 2017</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_2239840ab32c5c7d7fed698f021f73dc5b98b1ee&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Olympic_Palace&amp;revid=1363526981&amp;groups=_2239840ab32c5c7d7fed698f021f73dc5b98b1ee&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Olympic_Palace&amp;revid=1363526981&amp;groups=_2239840ab32c5c7d7fed698f021f73dc5b98b1ee&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Tbilisi Olympic Palace</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Tbilisi\" title=\"Tbilisi\">Tbilisi</a>, <a href=\"https://en.wikipedia.org/wiki/Georgia_(country)\" title=\"Georgia (country)\">Georgia</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Olympic_Palace&amp;params=41.7181_N_44.7279_E_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">41°43′05″N</span> <span class=\"longitude\">44°43′40″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">41.7181°N 44.7279°E</span><span>﻿ / <span class=\"geo\">41.7181; 44.7279</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Georgia_(country)\" title=\"Government of Georgia (country)\">Government of Georgia</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">Grand Hall: 3,600 (sports) or 4,000 (<a href=\"https://en.wikipedia.org/wiki/Concerts\" class=\"mw-redirect\" title=\"Concerts\">concerts</a>)<br>Tbilisi Arena: 10,000 (basketball)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">January 2015</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">13 July 2015</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Expanded</th><td class=\"infobox-data\">2022 (arena)</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Georgian-language_sources_(ka)",
+        "All_articles_with_dead_external_links",
+        "Articles_with_dead_external_links_from_August_2025",
+        "Articles_with_permanently_dead_external_links",
+        "CS1_Polish-language_sources_(pl)",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Articles_containing_Georgian-language_text",
+        "Commons_category_link_from_Wikidata",
+        "Basketball_venues_in_Georgia_(country)",
+        "Buildings_and_structures_completed_in_2015",
+        "Buildings_and_structures_in_Tbilisi",
+        "Handball_venues_in_Georgia_(country)",
+        "Indoor_arenas_in_Georgia_(country)",
+        "Sports_venues_completed_in_2015",
+        "Sports_venues_in_Tbilisi",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Olympic_Palace&params=41.7181_N_44.7279_E_",
+        "https://web.archive.org/web/20170813232116/http://magda.ge/olimp/olympic-palace/?lang=en",
+        "http://magda.ge/olimp/olympic-palace/?lang=en",
+        "http://agenda.ge/news/38921/eng",
+        "http://gbf.ge/news/rogori-iqneba-akhali-sportis-sasakhle-ministris-moadgilis-komentarebi",
+        "https://doi.org/10.52340%2F9789941995514",
+        "http://smsorg.ge/olympic-palace/",
+        "https://www.fiba.basketball/eurobasket/2022/news/fiba-europe-delegation-visits-tbilisi-to-see-progress-of-new-arena",
+        "https://agenda.ge/en/news/2022/1699",
+        "https://www.gov.ge/index.php?lang_id=ENG&sec_id=574&info_id=82403",
+        "https://web.archive.org/web/20170105101727/http://www.uefa.com/futsaleuro/season=2018/standings/round=2000849/group=2005294/index.html",
+        "http://www.uefa.com/futsaleuro/season=2018/standings/round=2000849/group=2005294/index.html",
+        "http://agenda.ge/news/79603/eng",
+        "https://archive.ihf.info/en-us/mediacentre/news/newsdetails.aspx?ID=4857",
+        "http://www.junioreurovision.tv/page/blog?id=268592",
+        "https://1tv.ge/news/levan-djordjoliani-sabavshvo-evroviziistvis-saqartvelos-20-mde-qveynis-warmomadgeneli-ewveva-ghonisdziebas-akhali-sportis-sasakhle-umaspindzlebs-da-mayurebels-dauviwyari-shou-elodeba/",
+        "https://junioreurovision.tv/story/18-countries-participating-junior-eurovision-2025",
+        "https://escspot.pl/2025/11/24/gruzja-byc-moze-zmienila-arene-eurowizji-junior-2025/",
+        "https://www.mmafighting.com/raf-wrestling/491924/merab-dvalishvili-vs-henry-cejudo-set-for-rafs-international-debut-in-georgia-arman-tsarukyan-to-compete"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Construction and facilities",
+          "anchor": "Construction_and_facilities"
+        },
+        {
+          "index": "2",
+          "level": 3,
+          "line": "Tbilisi Arena",
+          "anchor": "Tbilisi_Arena"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Events",
+          "anchor": "Events"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Olympic_Palace_(Tbilisi,_GEO)_2017.jpg",
+        "Tbilisi_Arena.jpg",
+        "Commons-logo.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Olympic Palace (Tbilisi, GEO) 2017.jpg",
+          "fileName": "Olympic Palace (Tbilisi, GEO) 2017.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Olympic_Palace_(Tbilisi,_GEO)_2017.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Olympic_Palace_%28Tbilisi%2C_GEO%29_2017.jpg/250px-Olympic_Palace_%28Tbilisi%2C_GEO%29_2017.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Olympic_Palace_(Tbilisi%2C_GEO)_2017.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Olympic_Palace_(Tbilisi%2C_GEO)_2017.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b5/Olympic_Palace_%28Tbilisi%2C_GEO%29_2017.jpg/500px-Olympic_Palace_%28Tbilisi%2C_GEO%29_2017.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 139,
+          "originalWidth": 1963,
+          "originalHeight": 1091,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Entrance to Olympic Sports Palace in 2017"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Olympic_Palace&revid=1363526981&groups=_2239840ab32c5c7d7fed698f021f73dc5b98b1ee&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Olympic_Palace&revid=1363526981&groups=_2239840ab32c5c7d7fed698f021f73dc5b98b1ee&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Tbilisi Olympic Palace"
+        },
+        {
+          "fileTitle": "File:Tbilisi Arena.jpg",
+          "fileName": "Tbilisi Arena.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Tbilisi_Arena.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Tbilisi_Arena.jpg/250px-Tbilisi_Arena.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tbilisi_Arena.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Tbilisi_Arena.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Tbilisi_Arena.jpg/500px-Tbilisi_Arena.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 141,
+          "originalWidth": 1572,
+          "originalHeight": 884,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Tbilisi Arena during the opening day of EuroBasket 2022"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 303,
+          "rowText": "Olympic Palace\n2015\n10,000\nJunior Eurovision Song Contest 2017",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Olympic_Palace\" title=\"Olympic Palace\">Olympic Palace</a>\n</td>\n<td>2015\n</td>\n<td>10,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Junior_Eurovision_Song_Contest_2017\" title=\"Junior Eurovision Song Contest 2017\">Junior Eurovision Song Contest 2017</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 302,
+              "cell": {
+                "text": "Georgia",
+                "lines": [
+                  "Georgia"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Georgia",
+                    "title": "Georgia (country)",
+                    "wikiTitle": "Georgia (country)",
+                    "href": "https://en.wikipedia.org/wiki/Georgia_(country)",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 302,
+              "cell": {
+                "text": "Tbilisi",
+                "lines": [
+                  "Tbilisi"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Tbilisi",
+                    "title": "Tbilisi",
+                    "wikiTitle": "Tbilisi",
+                    "href": "https://en.wikipedia.org/wiki/Tbilisi",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 303,
+              "cell": {
+                "text": "Olympic Palace",
+                "lines": [
+                  "Olympic Palace"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Olympic Palace",
+                    "title": "Olympic Palace",
+                    "wikiTitle": "Olympic Palace",
+                    "href": "https://en.wikipedia.org/wiki/Olympic_Palace",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 303,
+              "cell": {
+                "text": "2015",
+                "lines": [
+                  "2015"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 303,
+              "cell": {
+                "text": "10,000",
+                "lines": [
+                  "10,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 303,
+              "cell": {
+                "text": "Junior Eurovision Song Contest 2017",
+                "lines": [
+                  "Junior Eurovision Song Contest 2017"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Junior Eurovision Song Contest 2017",
+                    "title": "Junior Eurovision Song Contest 2017",
+                    "wikiTitle": "Junior Eurovision Song Contest 2017",
+                    "href": "https://en.wikipedia.org/wiki/Junior_Eurovision_Song_Contest_2017",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Olympic Palace",
+            "lines": [
+              "Olympic Palace"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Olympic Palace",
+                "title": "Olympic Palace",
+                "wikiTitle": "Olympic Palace",
+                "href": "https://en.wikipedia.org/wiki/Olympic_Palace",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:36:10.523Z"
+    },
+    {
+      "id": "wikipedia-page-17328241",
+      "pageId": 17328241,
+      "revisionId": null,
+      "title": "Tbilisi Sports Palace",
+      "displayTitle": "Tbilisi Sports Palace",
+      "url": "https://en.wikipedia.org/wiki/Tbilisi_Sports_Palace",
+      "wikidataItem": "Q2919558",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q2919558",
+      "aliases": [
+        "Tbilisi Sports Palace"
+      ],
+      "requestedTitles": [
+        "Tbilisi Sports Palace"
+      ],
+      "sourceLinkTexts": [
+        "Tbilisi Sports Palace"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Tbilisi_Sports_Palace"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 41.72,
+        "longitude": 44.78,
+        "raw": "41.720; 44.780"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Tbilisi Sports Palace",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "May 26 sqr. 1, Tbilisi 380071, Georgia",
+            "lines": [
+              "May 26 sqr. 1, Tbilisi 380071, Georgia"
+            ],
+            "html": "<td class=\"infobox-data label\">May 26 sqr. 1, Tbilisi 380071, Georgia</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-1"
+              }
+            ]
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "41°43′12″N 44°46′48″E﻿ / ﻿41.720°N 44.780°E﻿ / 41.720; 44.780",
+            "lines": [
+              "41°43′12″N 44°46′48″E﻿ / ﻿41.720°N 44.780°E﻿ / 41.720; 44.780"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Tbilisi_Sports_Palace&amp;params=41.72_N_44.78_E_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">41°43′12″N</span> <span class=\"longitude\">44°46′48″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">41.720°N 44.780°E</span><span>﻿ / <span class=\"geo\">41.720; 44.780</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "41°43′12″N 44°46′48″E﻿ / ﻿41.720°N 44.780°E﻿ / 41.720; 44.780",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Tbilisi_Sports_Palace&params=41.72_N_44.78_E_",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Logic Group Ltd",
+            "lines": [
+              "Logic Group Ltd"
+            ],
+            "html": "<td class=\"infobox-data agent\">Logic Group Ltd</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Logic Group Ltd",
+            "lines": [
+              "Logic Group Ltd"
+            ],
+            "html": "<td class=\"infobox-data agent\">Logic Group Ltd</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "9,700 (basketball)\n11,000 (concerts)",
+            "lines": [
+              "9,700 (basketball)",
+              "11,000 (concerts)"
+            ],
+            "html": "<td class=\"infobox-data\">9,700 (<a href=\"https://en.wikipedia.org/wiki/Basketball\" title=\"Basketball\">basketball</a>)<br> 11,000 (<a href=\"https://en.wikipedia.org/wiki/Concerts\" class=\"mw-redirect\" title=\"Concerts\">concerts</a>)</td>",
+            "links": [
+              {
+                "text": "basketball",
+                "title": "Basketball",
+                "wikiTitle": "Basketball",
+                "href": "https://en.wikipedia.org/wiki/Basketball",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "concerts",
+                "title": "Concerts",
+                "wikiTitle": "Concerts",
+                "href": "https://en.wikipedia.org/wiki/Concerts",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Surface",
+            "key": "surface",
+            "group": null,
+            "text": "Parquet",
+            "lines": [
+              "Parquet"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Parquet\" title=\"Parquet\">Parquet</a></td>",
+            "links": [
+              {
+                "text": "Parquet",
+                "title": "Parquet",
+                "wikiTitle": "Parquet",
+                "href": "https://en.wikipedia.org/wiki/Parquet",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "12 May 1961",
+            "lines": [
+              "12 May 1961"
+            ],
+            "html": "<td class=\"infobox-data\">12 May 1961</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2007",
+            "lines": [
+              "2007"
+            ],
+            "html": "<td class=\"infobox-data\">2007</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Vladimir Aleksi-MeskhishviliYuri KasradzeTemo JaparidzeDavid Kajaia",
+            "lines": [
+              "Vladimir Aleksi-MeskhishviliYuri KasradzeTemo JaparidzeDavid Kajaia"
+            ],
+            "html": "<td class=\"infobox-data\"><div class=\"plainlist\"><ul><li><a href=\"https://en.wikipedia.org/wiki/Vladimir_Aleksi-Meskhishvili\" class=\"mw-redirect\" title=\"Vladimir Aleksi-Meskhishvili\">Vladimir Aleksi-Meskhishvili</a></li><li>Yuri Kasradze</li><li>Temo Japaridze</li><li>David Kajaia</li></ul></div></td>",
+            "links": [
+              {
+                "text": "Vladimir Aleksi-Meskhishvili",
+                "title": "Vladimir Aleksi-Meskhishvili",
+                "wikiTitle": "Vladimir Aleksi-Meskhishvili",
+                "href": "https://en.wikipedia.org/wiki/Vladimir_Aleksi-Meskhishvili",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Georgia national basketball team",
+            "lines": [
+              "Georgia national basketball team"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Georgia_national_basketball_team\" class=\"mw-redirect\" title=\"Georgia national basketball team\">Georgia national basketball team</a></td>",
+            "links": [
+              {
+                "text": "Georgia national basketball team",
+                "title": "Georgia national basketball team",
+                "wikiTitle": "Georgia national basketball team",
+                "href": "https://en.wikipedia.org/wiki/Georgia_national_basketball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "May 26 sqr. 1, Tbilisi 380071, Georgia",
+              "lines": [
+                "May 26 sqr. 1, Tbilisi 380071, Georgia"
+              ],
+              "html": "<td class=\"infobox-data label\">May 26 sqr. 1, Tbilisi 380071, Georgia</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-1"
+                }
+              ]
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "41°43′12″N 44°46′48″E﻿ / ﻿41.720°N 44.780°E﻿ / 41.720; 44.780",
+              "lines": [
+                "41°43′12″N 44°46′48″E﻿ / ﻿41.720°N 44.780°E﻿ / 41.720; 44.780"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Tbilisi_Sports_Palace&amp;params=41.72_N_44.78_E_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">41°43′12″N</span> <span class=\"longitude\">44°46′48″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">41.720°N 44.780°E</span><span>﻿ / <span class=\"geo\">41.720; 44.780</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "41°43′12″N 44°46′48″E﻿ / ﻿41.720°N 44.780°E﻿ / 41.720; 44.780",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Tbilisi_Sports_Palace&params=41.72_N_44.78_E_",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Logic Group Ltd",
+              "lines": [
+                "Logic Group Ltd"
+              ],
+              "html": "<td class=\"infobox-data agent\">Logic Group Ltd</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Logic Group Ltd",
+              "lines": [
+                "Logic Group Ltd"
+              ],
+              "html": "<td class=\"infobox-data agent\">Logic Group Ltd</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "9,700 (basketball)\n11,000 (concerts)",
+              "lines": [
+                "9,700 (basketball)",
+                "11,000 (concerts)"
+              ],
+              "html": "<td class=\"infobox-data\">9,700 (<a href=\"https://en.wikipedia.org/wiki/Basketball\" title=\"Basketball\">basketball</a>)<br> 11,000 (<a href=\"https://en.wikipedia.org/wiki/Concerts\" class=\"mw-redirect\" title=\"Concerts\">concerts</a>)</td>",
+              "links": [
+                {
+                  "text": "basketball",
+                  "title": "Basketball",
+                  "wikiTitle": "Basketball",
+                  "href": "https://en.wikipedia.org/wiki/Basketball",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "concerts",
+                  "title": "Concerts",
+                  "wikiTitle": "Concerts",
+                  "href": "https://en.wikipedia.org/wiki/Concerts",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "surface": [
+            {
+              "label": "Surface",
+              "key": "surface",
+              "group": null,
+              "text": "Parquet",
+              "lines": [
+                "Parquet"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Parquet\" title=\"Parquet\">Parquet</a></td>",
+              "links": [
+                {
+                  "text": "Parquet",
+                  "title": "Parquet",
+                  "wikiTitle": "Parquet",
+                  "href": "https://en.wikipedia.org/wiki/Parquet",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "12 May 1961",
+              "lines": [
+                "12 May 1961"
+              ],
+              "html": "<td class=\"infobox-data\">12 May 1961</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2007",
+              "lines": [
+                "2007"
+              ],
+              "html": "<td class=\"infobox-data\">2007</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Vladimir Aleksi-MeskhishviliYuri KasradzeTemo JaparidzeDavid Kajaia",
+              "lines": [
+                "Vladimir Aleksi-MeskhishviliYuri KasradzeTemo JaparidzeDavid Kajaia"
+              ],
+              "html": "<td class=\"infobox-data\"><div class=\"plainlist\"><ul><li><a href=\"https://en.wikipedia.org/wiki/Vladimir_Aleksi-Meskhishvili\" class=\"mw-redirect\" title=\"Vladimir Aleksi-Meskhishvili\">Vladimir Aleksi-Meskhishvili</a></li><li>Yuri Kasradze</li><li>Temo Japaridze</li><li>David Kajaia</li></ul></div></td>",
+              "links": [
+                {
+                  "text": "Vladimir Aleksi-Meskhishvili",
+                  "title": "Vladimir Aleksi-Meskhishvili",
+                  "wikiTitle": "Vladimir Aleksi-Meskhishvili",
+                  "href": "https://en.wikipedia.org/wiki/Vladimir_Aleksi-Meskhishvili",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Georgia national basketball team",
+              "lines": [
+                "Georgia national basketball team"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Georgia_national_basketball_team\" class=\"mw-redirect\" title=\"Georgia national basketball team\">Georgia national basketball team</a></td>",
+              "links": [
+                {
+                  "text": "Georgia national basketball team",
+                  "title": "Georgia national basketball team",
+                  "wikiTitle": "Georgia national basketball team",
+                  "href": "https://en.wikipedia.org/wiki/Georgia_national_basketball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "May 26 sqr. 1, Tbilisi 380071, Georgia"
+          ],
+          "coordinates": [
+            "41°43′12″N 44°46′48″E﻿ / ﻿41.720°N 44.780°E﻿ / 41.720; 44.780"
+          ],
+          "owner": [
+            "Logic Group Ltd"
+          ],
+          "operator": [
+            "Logic Group Ltd"
+          ],
+          "capacity": [
+            "9,700 (basketball)\n11,000 (concerts)"
+          ],
+          "surface": [
+            "Parquet"
+          ],
+          "opened": [
+            "12 May 1961"
+          ],
+          "renovated": [
+            "2007"
+          ],
+          "architect": [
+            "Vladimir Aleksi-MeskhishviliYuri KasradzeTemo JaparidzeDavid Kajaia"
+          ],
+          "tenants": [
+            "Georgia national basketball team"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "9,700 (basketball)",
+          "11,000 (concerts)"
+        ],
+        "tenants": [
+          "Georgia national basketball team"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Sports Palace in Tbilisi - panoramio.jpg",
+            "fileName": "Sports Palace in Tbilisi - panoramio.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_Palace_in_Tbilisi_-_panoramio.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sports_Palace_in_Tbilisi_-_panoramio.jpg/250px-Sports_Palace_in_Tbilisi_-_panoramio.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_Palace_in_Tbilisi_-_panoramio.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_Palace_in_Tbilisi_-_panoramio.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sports_Palace_in_Tbilisi_-_panoramio.jpg/500px-Sports_Palace_in_Tbilisi_-_panoramio.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 167,
+            "originalWidth": 3456,
+            "originalHeight": 2304,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Tbilisi_Sports_Palace&revid=1360275366&groups=_e936211790251cd180f549546fb51116bea51ac4&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Tbilisi_Sports_Palace&revid=1360275366&groups=_e936211790251cd180f549546fb51116bea51ac4&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Tbilisi Sports Palace"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Tbilisi Sports Palace</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\" lang=\"ka\">თბილისის სპორტის სასახლე</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Sports_Palace_in_Tbilisi_-_panoramio.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sports_Palace_in_Tbilisi_-_panoramio.jpg/250px-Sports_Palace_in_Tbilisi_-_panoramio.jpg\" width=\"250\" height=\"167\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sports_Palace_in_Tbilisi_-_panoramio.jpg/500px-Sports_Palace_in_Tbilisi_-_panoramio.jpg 2x\" data-file-width=\"3456\" data-file-height=\"2304\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_e936211790251cd180f549546fb51116bea51ac4&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Tbilisi_Sports_Palace&amp;revid=1360275366&amp;groups=_e936211790251cd180f549546fb51116bea51ac4&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Tbilisi_Sports_Palace&amp;revid=1360275366&amp;groups=_e936211790251cd180f549546fb51116bea51ac4&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Tbilisi Sports Palace</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">May 26 sqr. 1, Tbilisi 380071, Georgia</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Tbilisi_Sports_Palace&amp;params=41.72_N_44.78_E_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">41°43′12″N</span> <span class=\"longitude\">44°46′48″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">41.720°N 44.780°E</span><span>﻿ / <span class=\"geo\">41.720; 44.780</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Logic Group Ltd</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">Logic Group Ltd</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">9,700 (<a href=\"https://en.wikipedia.org/wiki/Basketball\" title=\"Basketball\">basketball</a>)<br> 11,000 (<a href=\"https://en.wikipedia.org/wiki/Concerts\" class=\"mw-redirect\" title=\"Concerts\">concerts</a>)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Surface</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Parquet\" title=\"Parquet\">Parquet</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">12 May 1961</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2007</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><div class=\"plainlist\"><ul><li><a href=\"https://en.wikipedia.org/wiki/Vladimir_Aleksi-Meskhishvili\" class=\"mw-redirect\" title=\"Vladimir Aleksi-Meskhishvili\">Vladimir Aleksi-Meskhishvili</a></li><li>Yuri Kasradze</li><li>Temo Japaridze</li><li>David Kajaia</li></ul></div></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Georgia_national_basketball_team\" class=\"mw-redirect\" title=\"Georgia national basketball team\">Georgia national basketball team</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Webarchive_template_wayback_links",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Use_dmy_dates_from_June_2018",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Articles_containing_Georgian-language_text",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_June_2020",
+        "Commons_category_link_from_Wikidata",
+        "Buildings_and_structures_in_Tbilisi",
+        "Sports_venues_completed_in_1961",
+        "Basketball_venues_in_Georgia_(country)",
+        "Handball_venues_in_Georgia_(country)",
+        "Indoor_arenas_in_Georgia_(country)",
+        "Sports_venues_in_Tbilisi",
+        "Boxing_venues_in_Georgia_(country)",
+        "All_stub_articles",
+        "Georgia_(country)_building_and_structure_stubs",
+        "Georgia_(country)_sport_stubs",
+        "European_sports_venue_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Tbilisi_Sports_Palace&params=41.72_N_44.78_E_",
+        "https://www.sport.ge/sportcomplex/sportcomplex.html",
+        "http://www.bcdinamo.ge/english/history/hystory.html",
+        "https://web.archive.org/web/20070929001239/http://www.bcdinamo.ge/english/history/hystory.html",
+        "https://taa.net.ge/en/archive-geo/tbilisi-sports-palace/#:~:text=The%20shell%20roof%20is%2076,its%20vault%20is%2012.8%20meters",
+        "http://www.tbilisi.gov.ge/index.php?lang_id=ENG&sec_id=344&info_id=2465",
+        "https://web.archive.org/web/20110725070820/http://www.tbilisi.gov.ge/index.php?lang_id=ENG&sec_id=344&info_id=2465",
+        "http://www.geotimes.ge/index.php?m=home&newsid=6295",
+        "https://web.archive.org/web/20110209070539/http://geotimes.ge/index.php?m=home&newsid=6295",
+        "https://web.archive.org/web/20091020135447/http://www.investingeorgia.org/projects/view/237",
+        "http://www.investingeorgia.org/projects/view/237",
+        "https://agenda.ge/en/news/2024/41582",
+        "https://1tv.ge/lang/en/news/major-reconstruction-of-tbilisi-sports-palace-set-to-begin/",
+        "http://www.junioreurovision.tv/page/blog?id=junior_eurovision_2017_to_take_place_on_26th_november",
+        "http://www.junioreurovision.tv/page/blog?id=268592",
+        "http://www.sportspalace.ge"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Concerts",
+          "anchor": "Concerts"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Sports_Palace_in_Tbilisi_-_panoramio.jpg",
+        "Commons-logo.svg",
+        "Flag_of_Georgia.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Sports Palace in Tbilisi - panoramio.jpg",
+          "fileName": "Sports Palace in Tbilisi - panoramio.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_Palace_in_Tbilisi_-_panoramio.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sports_Palace_in_Tbilisi_-_panoramio.jpg/250px-Sports_Palace_in_Tbilisi_-_panoramio.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_Palace_in_Tbilisi_-_panoramio.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_Palace_in_Tbilisi_-_panoramio.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Sports_Palace_in_Tbilisi_-_panoramio.jpg/500px-Sports_Palace_in_Tbilisi_-_panoramio.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 3456,
+          "originalHeight": 2304,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Tbilisi_Sports_Palace&revid=1360275366&groups=_e936211790251cd180f549546fb51116bea51ac4&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Tbilisi_Sports_Palace&revid=1360275366&groups=_e936211790251cd180f549546fb51116bea51ac4&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Tbilisi Sports Palace"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Flag of Georgia.svg",
+          "fileName": "Flag of Georgia.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Georgia.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/40px-Flag_of_Georgia.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Georgia.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Georgia.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/60px-Flag_of_Georgia.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Flag of Georgia (country)",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 302,
+          "rowText": "Georgia\nTbilisi\nTbilisi Sports Palace\n1961\n11,000\nGeorgia national basketball team",
+          "rowHtml": "<tr>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Georgia_(country)\" title=\"Georgia (country)\">Georgia</a>\n</td>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Tbilisi\" title=\"Tbilisi\">Tbilisi</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Tbilisi_Sports_Palace\" title=\"Tbilisi Sports Palace\">Tbilisi Sports Palace</a>\n</td>\n<td>1961\n</td>\n<td>11,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Georgia_national_basketball_team\" class=\"mw-redirect\" title=\"Georgia national basketball team\">Georgia national basketball team</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 302,
+              "cell": {
+                "text": "Georgia",
+                "lines": [
+                  "Georgia"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Georgia",
+                    "title": "Georgia (country)",
+                    "wikiTitle": "Georgia (country)",
+                    "href": "https://en.wikipedia.org/wiki/Georgia_(country)",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 302,
+              "cell": {
+                "text": "Tbilisi",
+                "lines": [
+                  "Tbilisi"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Tbilisi",
+                    "title": "Tbilisi",
+                    "wikiTitle": "Tbilisi",
+                    "href": "https://en.wikipedia.org/wiki/Tbilisi",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 302,
+              "cell": {
+                "text": "Tbilisi Sports Palace",
+                "lines": [
+                  "Tbilisi Sports Palace"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Tbilisi Sports Palace",
+                    "title": "Tbilisi Sports Palace",
+                    "wikiTitle": "Tbilisi Sports Palace",
+                    "href": "https://en.wikipedia.org/wiki/Tbilisi_Sports_Palace",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 302,
+              "cell": {
+                "text": "1961",
+                "lines": [
+                  "1961"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 302,
+              "cell": {
+                "text": "11,000",
+                "lines": [
+                  "11,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 302,
+              "cell": {
+                "text": "Georgia national basketball team",
+                "lines": [
+                  "Georgia national basketball team"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Georgia national basketball team",
+                    "title": "Georgia national basketball team",
+                    "wikiTitle": "Georgia national basketball team",
+                    "href": "https://en.wikipedia.org/wiki/Georgia_national_basketball_team",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Tbilisi Sports Palace",
+            "lines": [
+              "Tbilisi Sports Palace"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Tbilisi Sports Palace",
+                "title": "Tbilisi Sports Palace",
+                "wikiTitle": "Tbilisi Sports Palace",
+                "href": "https://en.wikipedia.org/wiki/Tbilisi_Sports_Palace",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:36:09.284Z"
+    }
+  ]
+}

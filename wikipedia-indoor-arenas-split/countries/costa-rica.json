@@ -1,0 +1,1073 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Costa Rica",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 2
+  },
+  "stats": {
+    "arenaCount": 2,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 6,
+    "sourceTypeCounts": {
+      "world_master_list": 2
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-61297583",
+      "pageId": 61297583,
+      "revisionId": null,
+      "title": "Gimnasio Nacional",
+      "displayTitle": "Gimnasio Nacional",
+      "url": "https://en.wikipedia.org/wiki/Gimnasio_Nacional",
+      "wikidataItem": "Q74110247",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q74110247",
+      "aliases": [
+        "Gimnasio Nacional"
+      ],
+      "requestedTitles": [
+        "Gimnasio Nacional"
+      ],
+      "sourceLinkTexts": [
+        "Gimnasio Nacional"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Gimnasio_Nacional"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 9.93306,
+        "longitude": -84.09861,
+        "raw": "9.93306; -84.09861"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Gimnasio Nacional",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Gimnasio Nacional Eddy Cortés",
+            "lines": [
+              "Gimnasio Nacional Eddy Cortés"
+            ],
+            "html": "<td class=\"infobox-data\">Gimnasio Nacional Eddy Cortés</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "San José",
+            "lines": [
+              "San José"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica\" title=\"San José, Costa Rica\">San José</a> <span class=\"flagicon\"><span class=\"mw-image-border\"><a href=\"https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica\" title=\"San José, Costa Rica\"><img alt=\"San José, Costa Rica\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg/40px-Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg.png\" width=\"23\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg/60px-Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg.png 2x\" data-file-width=\"1100\" data-file-height=\"700\"></a></span></span></td>",
+            "links": [
+              {
+                "text": "San José",
+                "title": "San José, Costa Rica",
+                "wikiTitle": "San José, Costa Rica",
+                "href": "https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [
+              {
+                "fileTitle": null,
+                "fileName": null,
+                "kind": "photo",
+                "filePageUrl": null,
+                "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg/40px-Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg.png",
+                "originalRedirectUrl": null,
+                "enwikiOriginalRedirectUrl": null,
+                "srcset": [
+                  {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg/60px-Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg.png",
+                    "descriptor": "2x"
+                  }
+                ],
+                "width": 23,
+                "height": 15,
+                "originalWidth": 1100,
+                "originalHeight": 700,
+                "fileType": null,
+                "alt": "San José, Costa Rica",
+                "title": null,
+                "caption": null
+              }
+            ],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "9°55′59″N 84°5′55″W﻿ / ﻿9.93306°N 84.09861°W﻿ / 9.93306; -84.09861",
+            "lines": [
+              "9°55′59″N 84°5′55″W﻿ / ﻿9.93306°N 84.09861°W﻿ / 9.93306; -84.09861"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Gimnasio_Nacional&amp;params=9_55_59_N_84_5_55_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">9°55′59″N</span> <span class=\"longitude\">84°5′55″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">9.93306°N 84.09861°W</span><span>﻿ / <span class=\"geo\">9.93306; -84.09861</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "9°55′59″N 84°5′55″W﻿ / ﻿9.93306°N 84.09861°W﻿ / 9.93306; -84.09861",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Gimnasio_Nacional&params=9_55_59_N_84_5_55_W_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "4,000",
+            "lines": [
+              "4,000"
+            ],
+            "html": "<td class=\"infobox-data\">4,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "19 February 1960 (1960-02-19)",
+            "lines": [
+              "19 February 1960 (1960-02-19)"
+            ],
+            "html": "<td class=\"infobox-data\">19&nbsp;February&nbsp;1960<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1960-02-19</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2012, 2015",
+            "lines": [
+              "2012, 2015"
+            ],
+            "html": "<td class=\"infobox-data\">2012, 2015</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Gimnasio Nacional Eddy Cortés",
+              "lines": [
+                "Gimnasio Nacional Eddy Cortés"
+              ],
+              "html": "<td class=\"infobox-data\">Gimnasio Nacional Eddy Cortés</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "San José",
+              "lines": [
+                "San José"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica\" title=\"San José, Costa Rica\">San José</a> <span class=\"flagicon\"><span class=\"mw-image-border\"><a href=\"https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica\" title=\"San José, Costa Rica\"><img alt=\"San José, Costa Rica\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg/40px-Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg.png\" width=\"23\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg/60px-Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg.png 2x\" data-file-width=\"1100\" data-file-height=\"700\"></a></span></span></td>",
+              "links": [
+                {
+                  "text": "San José",
+                  "title": "San José, Costa Rica",
+                  "wikiTitle": "San José, Costa Rica",
+                  "href": "https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [
+                {
+                  "fileTitle": null,
+                  "fileName": null,
+                  "kind": "photo",
+                  "filePageUrl": null,
+                  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg/40px-Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg.png",
+                  "originalRedirectUrl": null,
+                  "enwikiOriginalRedirectUrl": null,
+                  "srcset": [
+                    {
+                      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg/60px-Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg.png",
+                      "descriptor": "2x"
+                    }
+                  ],
+                  "width": 23,
+                  "height": 15,
+                  "originalWidth": 1100,
+                  "originalHeight": 700,
+                  "fileType": null,
+                  "alt": "San José, Costa Rica",
+                  "title": null,
+                  "caption": null
+                }
+              ],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "9°55′59″N 84°5′55″W﻿ / ﻿9.93306°N 84.09861°W﻿ / 9.93306; -84.09861",
+              "lines": [
+                "9°55′59″N 84°5′55″W﻿ / ﻿9.93306°N 84.09861°W﻿ / 9.93306; -84.09861"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Gimnasio_Nacional&amp;params=9_55_59_N_84_5_55_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">9°55′59″N</span> <span class=\"longitude\">84°5′55″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">9.93306°N 84.09861°W</span><span>﻿ / <span class=\"geo\">9.93306; -84.09861</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "9°55′59″N 84°5′55″W﻿ / ﻿9.93306°N 84.09861°W﻿ / 9.93306; -84.09861",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Gimnasio_Nacional&params=9_55_59_N_84_5_55_W_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "4,000",
+              "lines": [
+                "4,000"
+              ],
+              "html": "<td class=\"infobox-data\">4,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "19 February 1960 (1960-02-19)",
+              "lines": [
+                "19 February 1960 (1960-02-19)"
+              ],
+              "html": "<td class=\"infobox-data\">19&nbsp;February&nbsp;1960<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1960-02-19</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2012, 2015",
+              "lines": [
+                "2012, 2015"
+              ],
+              "html": "<td class=\"infobox-data\">2012, 2015</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Gimnasio Nacional Eddy Cortés"
+          ],
+          "location": [
+            "San José"
+          ],
+          "coordinates": [
+            "9°55′59″N 84°5′55″W﻿ / ﻿9.93306°N 84.09861°W﻿ / 9.93306; -84.09861"
+          ],
+          "capacity": [
+            "4,000"
+          ],
+          "opened": [
+            "19 February 1960 (1960-02-19)"
+          ],
+          "renovated": [
+            "2012, 2015"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "4,000"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Gimnasio_Nacional&revid=1328835312&groups=_7d052ef4d00bcf9bada057160d79a2246b49b72b&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Gimnasio_Nacional&revid=1328835312&groups=_7d052ef4d00bcf9bada057160d79a2246b49b72b&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Gimnasio Nacional"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg/40px-Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg/60px-Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 23,
+            "height": 15,
+            "originalWidth": 1100,
+            "originalHeight": 700,
+            "fileType": null,
+            "alt": "San José, Costa Rica",
+            "title": null,
+            "caption": null
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Gimnasio Nacional</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\"><i>Gimnasio de La Sabana</i></div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_7d052ef4d00bcf9bada057160d79a2246b49b72b&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Gimnasio_Nacional&amp;revid=1328835312&amp;groups=_7d052ef4d00bcf9bada057160d79a2246b49b72b&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Gimnasio_Nacional&amp;revid=1328835312&amp;groups=_7d052ef4d00bcf9bada057160d79a2246b49b72b&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Gimnasio Nacional</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Gimnasio Nacional Eddy Cortés</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica\" title=\"San José, Costa Rica\">San José</a> <span class=\"flagicon\"><span class=\"mw-image-border\"><a href=\"https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica\" title=\"San José, Costa Rica\"><img alt=\"San José, Costa Rica\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg/40px-Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg.png\" width=\"23\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg/60px-Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg.png 2x\" data-file-width=\"1100\" data-file-height=\"700\"></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Gimnasio_Nacional&amp;params=9_55_59_N_84_5_55_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">9°55′59″N</span> <span class=\"longitude\">84°5′55″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">9.93306°N 84.09861°W</span><span>﻿ / <span class=\"geo\">9.93306; -84.09861</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">4,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">19&nbsp;February&nbsp;1960<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1960-02-19</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2012, 2015</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Articles_containing_Spanish-language_text",
+        "Sports_venues_completed_in_1960",
+        "Indoor_arenas_in_Costa_Rica",
+        "Sport_in_San_José,_Costa_Rica",
+        "Buildings_and_structures_in_San_José,_Costa_Rica",
+        "Buildings_and_structures_in_San_José_Province",
+        "Basketball_venues_in_Costa_Rica",
+        "All_stub_articles",
+        "Costa_Rican_building_and_structure_stubs",
+        "Central_American_sports_venue_stubs",
+        "Costa_Rican_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Gimnasio_Nacional&params=9_55_59_N_84_5_55_W_type:landmark",
+        "https://www.nacion.com/puro-deporte/otros-deportes/el-gimnasio-nacional-es-un-anciano-que-ya-no/DDGQRKDS75AHLMQR2K3AMXOSZA/story/",
+        "https://www.crhoy.com/deportes/gimnasio-nacional-una-joya-que-se-rejuvenece/",
+        "https://www.setlist.fm/search?query=costa+rica",
+        "https://www.setlist.fm/venue/gimnasio-nacional-san-jose-costa-rica-23d49cd3.html"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Concerts",
+          "anchor": "Concerts"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Bandera_de_San_José_(Costa_Rica).svg",
+        "Flag_of_Costa_Rica.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Gimnasio_Nacional&revid=1328835312&groups=_7d052ef4d00bcf9bada057160d79a2246b49b72b&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Gimnasio_Nacional&revid=1328835312&groups=_7d052ef4d00bcf9bada057160d79a2246b49b72b&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Gimnasio Nacional"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg/40px-Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg/60px-Bandera_de_San_Jos%C3%A9_%28Costa_Rica%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 1100,
+          "originalHeight": 700,
+          "fileType": null,
+          "alt": "San José, Costa Rica",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Flag of Costa Rica.svg",
+          "fileName": "Flag of Costa Rica.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Costa_Rica.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/40px-Flag_of_Costa_Rica.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Costa_Rica.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Costa_Rica.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/120px-Flag_of_Costa_Rica.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 40,
+          "height": 24,
+          "originalWidth": 1000,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "North America"
+          ],
+          "tableIndex": 3,
+          "tableCaption": null,
+          "rowIndex": 2,
+          "rowText": "Gimnasio Nacional\n1960\n4,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Gimnasio_Nacional\" title=\"Gimnasio Nacional\">Gimnasio Nacional</a>\n</td>\n<td align=\"center\">1960\n</td>\n<td align=\"right\">4,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "Costa Rica",
+                "lines": [
+                  "Costa Rica"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Costa Rica",
+                    "title": "Costa Rica",
+                    "wikiTitle": "Costa Rica",
+                    "href": "https://en.wikipedia.org/wiki/Costa_Rica",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "San José",
+                "lines": [
+                  "San José"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "San José",
+                    "title": "San José, Costa Rica",
+                    "wikiTitle": "San José, Costa Rica",
+                    "href": "https://en.wikipedia.org/wiki/San_Jos%C3%A9,_Costa_Rica",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "Gimnasio Nacional",
+                "lines": [
+                  "Gimnasio Nacional"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Gimnasio Nacional",
+                    "title": "Gimnasio Nacional",
+                    "wikiTitle": "Gimnasio Nacional",
+                    "href": "https://en.wikipedia.org/wiki/Gimnasio_Nacional",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "1960",
+                "lines": [
+                  "1960"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "4,000",
+                "lines": [
+                  "4,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Gimnasio Nacional",
+            "lines": [
+              "Gimnasio Nacional"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Gimnasio Nacional",
+                "title": "Gimnasio Nacional",
+                "wikiTitle": "Gimnasio Nacional",
+                "href": "https://en.wikipedia.org/wiki/Gimnasio_Nacional",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:49:39.31Z"
+    },
+    {
+      "id": "wikipedia-page-5686220",
+      "pageId": 5686220,
+      "revisionId": null,
+      "title": "Palacio de los Deportes (Heredia)",
+      "displayTitle": "Palacio de los Deportes (Heredia)",
+      "url": "https://en.wikipedia.org/wiki/Palacio_de_los_Deportes_(Heredia)",
+      "wikidataItem": "Q7126322",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7126322",
+      "aliases": [
+        "Palacio de los Deportes (Heredia)",
+        "Palacio de los Deportes"
+      ],
+      "requestedTitles": [
+        "Palacio de los Deportes (Heredia)"
+      ],
+      "sourceLinkTexts": [
+        "Palacio de los Deportes"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Palacio_de_los_Deportes_(Heredia)"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 9.999154,
+        "longitude": -84.122131,
+        "raw": "9.999154; -84.122131"
+      },
+      "leadParagraphs": [],
+      "infobox": null,
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_needing_additional_references_from_January_2010",
+        "All_articles_needing_additional_references",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Costa_Rica",
+        "Buildings_and_structures_in_Heredia_Province",
+        "Basketball_venues_in_Costa_Rica",
+        "All_stub_articles",
+        "Costa_Rican_building_and_structure_stubs",
+        "Central_American_sports_venue_stubs",
+        "Costa_Rican_sport_stubs"
+      ],
+      "externalLinks": [
+        "https://web.archive.org/web/20071116121115/http://palaciodelosdeportes.net:80/",
+        "http://palaciodelosdeportes.net/",
+        "https://geohack.toolforge.org/geohack.php?pagename=Palacio_de_los_Deportes_(Heredia)&params=9.999154_N_84.122131_W_type:landmark",
+        "https://www.google.com/search?as_eq=wikipedia&q=%22Palacio+de+los+Deportes%22+Heredia",
+        "https://www.google.com/search?tbm=nws&q=%22Palacio+de+los+Deportes%22+Heredia+-wikipedia&tbs=ar:1",
+        "https://www.google.com/search?&q=%22Palacio+de+los+Deportes%22+Heredia&tbs=bkt:s&tbm=bks",
+        "https://www.google.com/search?tbs=bks:1&q=%22Palacio+de+los+Deportes%22+Heredia+-wikipedia",
+        "https://scholar.google.com/scholar?q=%22Palacio+de+los+Deportes%22+Heredia",
+        "https://www.jstor.org/action/doBasicSearch?Query=%22Palacio+de+los+Deportes%22+Heredia&acc=on&wc=on",
+        "http://www.ayudemos.com"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Notable events",
+          "anchor": "Notable_events"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Question_book-new.svg",
+        "Flag_of_Costa_Rica.svg",
+        "Iglesia_de_Ladrillo_Goicoechea_1.JPG"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Question book-new.svg",
+          "fileName": "Question book-new.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 39,
+          "originalWidth": 512,
+          "originalHeight": 399,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Flag of Costa Rica.svg",
+          "fileName": "Flag of Costa Rica.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Costa_Rica.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/40px-Flag_of_Costa_Rica.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Costa_Rica.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Costa_Rica.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/120px-Flag_of_Costa_Rica.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 40,
+          "height": 24,
+          "originalWidth": 1000,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Iglesia de Ladrillo Goicoechea 1.JPG",
+          "fileName": "Iglesia de Ladrillo Goicoechea 1.JPG",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Iglesia_de_Ladrillo_Goicoechea_1.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Iglesia_de_Ladrillo_Goicoechea_1.JPG/60px-Iglesia_de_Ladrillo_Goicoechea_1.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Iglesia_de_Ladrillo_Goicoechea_1.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Iglesia_de_Ladrillo_Goicoechea_1.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Iglesia_de_Ladrillo_Goicoechea_1.JPG/120px-Iglesia_de_Ladrillo_Goicoechea_1.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 45,
+          "height": 34,
+          "originalWidth": 2048,
+          "originalHeight": 1536,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "North America"
+          ],
+          "tableIndex": 3,
+          "tableCaption": null,
+          "rowIndex": 3,
+          "rowText": "Heredia\nPalacio de los Deportes\n1989\n7,500",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Heredia,_Costa_Rica\" title=\"Heredia, Costa Rica\">Heredia</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Palacio_de_los_Deportes_(Heredia)\" title=\"Palacio de los Deportes (Heredia)\">Palacio de los Deportes</a>\n</td>\n<td align=\"center\">1989\n</td>\n<td align=\"right\">7,500\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "Costa Rica",
+                "lines": [
+                  "Costa Rica"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Costa Rica",
+                    "title": "Costa Rica",
+                    "wikiTitle": "Costa Rica",
+                    "href": "https://en.wikipedia.org/wiki/Costa_Rica",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "Heredia",
+                "lines": [
+                  "Heredia"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Heredia",
+                    "title": "Heredia, Costa Rica",
+                    "wikiTitle": "Heredia, Costa Rica",
+                    "href": "https://en.wikipedia.org/wiki/Heredia,_Costa_Rica",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "Palacio de los Deportes",
+                "lines": [
+                  "Palacio de los Deportes"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Palacio de los Deportes",
+                    "title": "Palacio de los Deportes (Heredia)",
+                    "wikiTitle": "Palacio de los Deportes (Heredia)",
+                    "href": "https://en.wikipedia.org/wiki/Palacio_de_los_Deportes_(Heredia)",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "1989",
+                "lines": [
+                  "1989"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "7,500",
+                "lines": [
+                  "7,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Palacio de los Deportes",
+            "lines": [
+              "Palacio de los Deportes"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Palacio de los Deportes",
+                "title": "Palacio de los Deportes (Heredia)",
+                "wikiTitle": "Palacio de los Deportes (Heredia)",
+                "href": "https://en.wikipedia.org/wiki/Palacio_de_los_Deportes_(Heredia)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:49:39.269Z"
+    }
+  ]
+}

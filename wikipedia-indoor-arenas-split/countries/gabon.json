@@ -1,0 +1,1155 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Gabon",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 1,
+    "sourceTypeCounts": {
+      "world_master_list": 1,
+      "country_or_region_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-56932457",
+      "pageId": 56932457,
+      "revisionId": null,
+      "title": "Palais des Sports de Libreville",
+      "displayTitle": "Palais des Sports de Libreville",
+      "url": "https://en.wikipedia.org/wiki/Palais_des_Sports_de_Libreville",
+      "wikidataItem": "Q55628426",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q55628426",
+      "aliases": [
+        "Le Palais des Sports de Libreville",
+        "Palais des Sports de Libreville"
+      ],
+      "requestedTitles": [
+        "Le Palais des Sports de Libreville"
+      ],
+      "sourceLinkTexts": [
+        "Le Palais des Sports de Libreville"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Le_Palais_des_Sports_de_Libreville"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 0.39472,
+        "longitude": 9.45278,
+        "raw": "0.39472; 9.45278"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Palais des Sports de Libreville",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Palais des Sports de Libreville",
+            "lines": [
+              "Palais des Sports de Libreville"
+            ],
+            "html": "<td class=\"infobox-data\">Palais des Sports de Libreville</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Quartier Petit-Paris, 3rd arrondissement,\nLibreville, Gabon",
+            "lines": [
+              "Quartier Petit-Paris, 3rd arrondissement,",
+              "Libreville, Gabon"
+            ],
+            "html": "<td class=\"infobox-data label\">Quartier Petit-Paris, 3rd <i><a href=\"https://en.wikipedia.org/wiki/Arrondissement\" title=\"Arrondissement\">arrondissement</a></i>,<br><a href=\"https://en.wikipedia.org/wiki/Libreville\" title=\"Libreville\">Libreville</a>, <a href=\"https://en.wikipedia.org/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>",
+            "links": [
+              {
+                "text": "arrondissement",
+                "title": "Arrondissement",
+                "wikiTitle": "Arrondissement",
+                "href": "https://en.wikipedia.org/wiki/Arrondissement",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Libreville",
+                "title": "Libreville",
+                "wikiTitle": "Libreville",
+                "href": "https://en.wikipedia.org/wiki/Libreville",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Gabon",
+                "title": "Gabon",
+                "wikiTitle": "Gabon",
+                "href": "https://en.wikipedia.org/wiki/Gabon",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "0°23′41″N 9°27′10″E﻿ / ﻿0.39472°N 9.45278°E﻿ / 0.39472; 9.45278",
+            "lines": [
+              "0°23′41″N 9°27′10″E﻿ / ﻿0.39472°N 9.45278°E﻿ / 0.39472; 9.45278"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Palais_des_Sports_de_Libreville&amp;params=0_23_41_N_9_27_10_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">0°23′41″N</span> <span class=\"longitude\">9°27′10″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">0.39472°N 9.45278°E</span><span>﻿ / <span class=\"geo\">0.39472; 9.45278</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "0°23′41″N 9°27′10″E﻿ / ﻿0.39472°N 9.45278°E﻿ / 0.39472; 9.45278",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Palais_des_Sports_de_Libreville&params=0_23_41_N_9_27_10_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Government of Gabon",
+            "lines": [
+              "Government of Gabon"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Gabon\" class=\"mw-redirect\" title=\"Government of Gabon\">Government of Gabon</a></td>",
+            "links": [
+              {
+                "text": "Government of Gabon",
+                "title": "Government of Gabon",
+                "wikiTitle": "Government of Gabon",
+                "href": "https://en.wikipedia.org/wiki/Government_of_Gabon",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "5,358 (seated); c. 6,000 (total)",
+            "lines": [
+              "5,358 (seated); c. 6,000 (total)"
+            ],
+            "html": "<td class=\"infobox-data\">5,358 (seated); c. 6,000 (total)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "group": null,
+            "text": "Multi-purpose indoor arena",
+            "lines": [
+              "Multi-purpose indoor arena"
+            ],
+            "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Multi-purpose_arena\" class=\"mw-redirect\" title=\"Multi-purpose arena\">Multi-purpose indoor arena</a></td>",
+            "links": [
+              {
+                "text": "Multi-purpose indoor arena",
+                "title": "Multi-purpose arena",
+                "wikiTitle": "Multi-purpose arena",
+                "href": "https://en.wikipedia.org/wiki/Multi-purpose_arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Surface",
+            "key": "surface",
+            "group": null,
+            "text": "15,220 m² total; 8,000 m² playing area",
+            "lines": [
+              "15,220 m² total; 8,000 m² playing area"
+            ],
+            "html": "<td class=\"infobox-data\">15,220 m² total; 8,000 m² playing area</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "13 April 2017",
+            "lines": [
+              "13 April 2017"
+            ],
+            "html": "<td class=\"infobox-data\">13 April 2017</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "2017–2018",
+            "lines": [
+              "2017–2018"
+            ],
+            "html": "<td class=\"infobox-data\">2017–2018</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "16 January 2018",
+            "lines": [
+              "16 January 2018"
+            ],
+            "html": "<td class=\"infobox-data\">16 January 2018</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Project manager",
+            "key": "project_manager",
+            "group": "Construction",
+            "text": "Société nouvelle générale d'études (SNGE)",
+            "lines": [
+              "Société nouvelle générale d'études (SNGE)"
+            ],
+            "html": "<td class=\"infobox-data\">Société nouvelle générale d'études (SNGE)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "General contractor",
+            "key": "general_contractor",
+            "group": "Construction",
+            "text": "China State Construction Engineering Corporation",
+            "lines": [
+              "China State Construction Engineering Corporation"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/China_State_Construction_Engineering_Corporation\" title=\"China State Construction Engineering Corporation\">China State Construction Engineering Corporation</a></td>",
+            "links": [
+              {
+                "text": "China State Construction Engineering Corporation",
+                "title": "China State Construction Engineering Corporation",
+                "wikiTitle": "China State Construction Engineering Corporation",
+                "href": "https://en.wikipedia.org/wiki/China_State_Construction_Engineering_Corporation",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Palais des Sports de Libreville",
+              "lines": [
+                "Palais des Sports de Libreville"
+              ],
+              "html": "<td class=\"infobox-data\">Palais des Sports de Libreville</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Quartier Petit-Paris, 3rd arrondissement,\nLibreville, Gabon",
+              "lines": [
+                "Quartier Petit-Paris, 3rd arrondissement,",
+                "Libreville, Gabon"
+              ],
+              "html": "<td class=\"infobox-data label\">Quartier Petit-Paris, 3rd <i><a href=\"https://en.wikipedia.org/wiki/Arrondissement\" title=\"Arrondissement\">arrondissement</a></i>,<br><a href=\"https://en.wikipedia.org/wiki/Libreville\" title=\"Libreville\">Libreville</a>, <a href=\"https://en.wikipedia.org/wiki/Gabon\" title=\"Gabon\">Gabon</a></td>",
+              "links": [
+                {
+                  "text": "arrondissement",
+                  "title": "Arrondissement",
+                  "wikiTitle": "Arrondissement",
+                  "href": "https://en.wikipedia.org/wiki/Arrondissement",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Libreville",
+                  "title": "Libreville",
+                  "wikiTitle": "Libreville",
+                  "href": "https://en.wikipedia.org/wiki/Libreville",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Gabon",
+                  "title": "Gabon",
+                  "wikiTitle": "Gabon",
+                  "href": "https://en.wikipedia.org/wiki/Gabon",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "0°23′41″N 9°27′10″E﻿ / ﻿0.39472°N 9.45278°E﻿ / 0.39472; 9.45278",
+              "lines": [
+                "0°23′41″N 9°27′10″E﻿ / ﻿0.39472°N 9.45278°E﻿ / 0.39472; 9.45278"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Palais_des_Sports_de_Libreville&amp;params=0_23_41_N_9_27_10_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">0°23′41″N</span> <span class=\"longitude\">9°27′10″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">0.39472°N 9.45278°E</span><span>﻿ / <span class=\"geo\">0.39472; 9.45278</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "0°23′41″N 9°27′10″E﻿ / ﻿0.39472°N 9.45278°E﻿ / 0.39472; 9.45278",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Palais_des_Sports_de_Libreville&params=0_23_41_N_9_27_10_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Government of Gabon",
+              "lines": [
+                "Government of Gabon"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Gabon\" class=\"mw-redirect\" title=\"Government of Gabon\">Government of Gabon</a></td>",
+              "links": [
+                {
+                  "text": "Government of Gabon",
+                  "title": "Government of Gabon",
+                  "wikiTitle": "Government of Gabon",
+                  "href": "https://en.wikipedia.org/wiki/Government_of_Gabon",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "5,358 (seated); c. 6,000 (total)",
+              "lines": [
+                "5,358 (seated); c. 6,000 (total)"
+              ],
+              "html": "<td class=\"infobox-data\">5,358 (seated); c. 6,000 (total)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "type": [
+            {
+              "label": "Type",
+              "key": "type",
+              "group": null,
+              "text": "Multi-purpose indoor arena",
+              "lines": [
+                "Multi-purpose indoor arena"
+              ],
+              "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Multi-purpose_arena\" class=\"mw-redirect\" title=\"Multi-purpose arena\">Multi-purpose indoor arena</a></td>",
+              "links": [
+                {
+                  "text": "Multi-purpose indoor arena",
+                  "title": "Multi-purpose arena",
+                  "wikiTitle": "Multi-purpose arena",
+                  "href": "https://en.wikipedia.org/wiki/Multi-purpose_arena",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "surface": [
+            {
+              "label": "Surface",
+              "key": "surface",
+              "group": null,
+              "text": "15,220 m² total; 8,000 m² playing area",
+              "lines": [
+                "15,220 m² total; 8,000 m² playing area"
+              ],
+              "html": "<td class=\"infobox-data\">15,220 m² total; 8,000 m² playing area</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "13 April 2017",
+              "lines": [
+                "13 April 2017"
+              ],
+              "html": "<td class=\"infobox-data\">13 April 2017</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "2017–2018",
+              "lines": [
+                "2017–2018"
+              ],
+              "html": "<td class=\"infobox-data\">2017–2018</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "16 January 2018",
+              "lines": [
+                "16 January 2018"
+              ],
+              "html": "<td class=\"infobox-data\">16 January 2018</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "project_manager": [
+            {
+              "label": "Project manager",
+              "key": "project_manager",
+              "group": "Construction",
+              "text": "Société nouvelle générale d'études (SNGE)",
+              "lines": [
+                "Société nouvelle générale d'études (SNGE)"
+              ],
+              "html": "<td class=\"infobox-data\">Société nouvelle générale d'études (SNGE)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "general_contractor": [
+            {
+              "label": "General contractor",
+              "key": "general_contractor",
+              "group": "Construction",
+              "text": "China State Construction Engineering Corporation",
+              "lines": [
+                "China State Construction Engineering Corporation"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/China_State_Construction_Engineering_Corporation\" title=\"China State Construction Engineering Corporation\">China State Construction Engineering Corporation</a></td>",
+              "links": [
+                {
+                  "text": "China State Construction Engineering Corporation",
+                  "title": "China State Construction Engineering Corporation",
+                  "wikiTitle": "China State Construction Engineering Corporation",
+                  "href": "https://en.wikipedia.org/wiki/China_State_Construction_Engineering_Corporation",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Palais des Sports de Libreville"
+          ],
+          "location": [
+            "Quartier Petit-Paris, 3rd arrondissement,\nLibreville, Gabon"
+          ],
+          "coordinates": [
+            "0°23′41″N 9°27′10″E﻿ / ﻿0.39472°N 9.45278°E﻿ / 0.39472; 9.45278"
+          ],
+          "owner": [
+            "Government of Gabon"
+          ],
+          "capacity": [
+            "5,358 (seated); c. 6,000 (total)"
+          ],
+          "type": [
+            "Multi-purpose indoor arena"
+          ],
+          "surface": [
+            "15,220 m² total; 8,000 m² playing area"
+          ],
+          "groundbreaking": [
+            "13 April 2017"
+          ],
+          "built": [
+            "2017–2018"
+          ],
+          "opened": [
+            "16 January 2018"
+          ],
+          "project_manager": [
+            "Société nouvelle générale d'études (SNGE)"
+          ],
+          "general_contractor": [
+            "China State Construction Engineering Corporation"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "5,358 (seated); c. 6,000 (total)"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Palais_des_Sports_de_Libreville&revid=1349811240&groups=_67ab1641196de405c76cc4734a7e6e2a1e78c6e2&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Palais_des_Sports_de_Libreville&revid=1349811240&groups=_67ab1641196de405c76cc4734a7e6e2a1e78c6e2&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Palais des Sports de Libreville"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Palais des Sports de Libreville</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_67ab1641196de405c76cc4734a7e6e2a1e78c6e2&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Palais_des_Sports_de_Libreville&amp;revid=1349811240&amp;groups=_67ab1641196de405c76cc4734a7e6e2a1e78c6e2&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Palais_des_Sports_de_Libreville&amp;revid=1349811240&amp;groups=_67ab1641196de405c76cc4734a7e6e2a1e78c6e2&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Palais des Sports de Libreville</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Palais des Sports de Libreville</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">Quartier Petit-Paris, 3rd <i><a href=\"https://en.wikipedia.org/wiki/Arrondissement\" title=\"Arrondissement\">arrondissement</a></i>,<br><a href=\"https://en.wikipedia.org/wiki/Libreville\" title=\"Libreville\">Libreville</a>, <a href=\"https://en.wikipedia.org/wiki/Gabon\" title=\"Gabon\">Gabon</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Palais_des_Sports_de_Libreville&amp;params=0_23_41_N_9_27_10_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">0°23′41″N</span> <span class=\"longitude\">9°27′10″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">0.39472°N 9.45278°E</span><span>﻿ / <span class=\"geo\">0.39472; 9.45278</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Gabon\" class=\"mw-redirect\" title=\"Government of Gabon\">Government of Gabon</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">5,358 (seated); c. 6,000 (total)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Type</th><td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Multi-purpose_arena\" class=\"mw-redirect\" title=\"Multi-purpose arena\">Multi-purpose indoor arena</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Surface</th><td class=\"infobox-data\">15,220 m² total; 8,000 m² playing area</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">13 April 2017</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">2017–2018</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">16 January 2018</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Project manager</div></th><td class=\"infobox-data\">Société nouvelle générale d'études (SNGE)</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>General contractor</div></th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/China_State_Construction_Engineering_Corporation\" title=\"China State Construction Engineering Corporation\">China State Construction Engineering Corporation</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_French-language_sources_(fr)",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Buildings_and_structures_in_Libreville",
+        "Indoor_arenas_in_Gabon",
+        "Sport_in_Libreville",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Palais_des_Sports_de_Libreville&params=0_23_41_N_9_27_10_E_type:landmark",
+        "https://www.lenouveaugabon.com/infrastructures/1801-13013-ali-bongo-inaugure-le-palais-des-sports-de-libreville",
+        "https://gabonactu.com/blog/2018/01/16/le-palais-des-sports-inaugure-a-un-jour-du-lancement-de-la-23eme-edition-de-la-can-de-handball/",
+        "https://gabonmatin.com/omnisports-a-quand-la-reouverture-du-palais-des-sports-de-libreville.html",
+        "https://www.gabonreview.com/gabon-le-palais-des-sports-inadapte-aux-competitions-sportives-6-ans-apres-son-inauguration/",
+        "https://www.union.sonapresse.com/fr/omnisports-construction-du-palais-des-sports-de-libreville",
+        "https://www.lenouveaugabon.com/infrastructures/1209-12486-le-palais-des-sports-de-libreville-pret-a-40",
+        "https://www.insidethegames.biz/articles/1060626/tunisia-and-egypt-secure-final-spots-at-african-mens-handball-championship",
+        "https://www.africanews.com/2018/01/29/tunisia-wins-2018-africa-cup-of-nations-handball-cup-for-the-10th-time/",
+        "https://www.fiba.basketball/africaleague/2020/qualifiers/groups",
+        "https://www.africa-press.net/gabon/sports/fegabab-hote-du-president-de-la-fiba-afrique-zone-4",
+        "https://gabonactu.com/covid-19-le-laboratoire-du-palais-des-sports-baptise-pr-daniel-gahouma/",
+        "https://www.agenceecofin.com/sante/2505-76909-covid-19-le-gabon-va-mettre-en-service-un-laboratoire-pouvant-effectuer-jusqu-a-10-000-tests-par-jour",
+        "https://lalibreville.com/covid-19-au-gabon-la-duree-dattente-des-resultats-reduite-a-24-heures-grace-au-laboratoire-pr-daniel-gahouma/",
+        "https://lalibreville.com/grace-au-laboratoire-pr-daniel-gahouma-le-gabon-est-devenu-le-pays-africain-qui-teste-le-plus-sa-population-par-tete-dhabitant/",
+        "https://english.news.cn/20240403/2b1dfcde0f2a4a3aae3e9ef0a9c7e7dc/c.html",
+        "https://www.globalsecurity.org/military/library/news/2024/04/mil-240402-voa07.htm",
+        "https://cruxnow.com/church-in-africa/2024/04/gabon-archbishop-says-national-dialogue-to-lay-the-groundwork-for-african-countrys-future"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Construction",
+          "anchor": "Construction"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Inauguration",
+          "anchor": "Inauguration"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Events",
+          "anchor": "Events"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "Handball",
+          "anchor": "Handball"
+        },
+        {
+          "index": "5",
+          "level": 3,
+          "line": "Basketball",
+          "anchor": "Basketball"
+        },
+        {
+          "index": "6",
+          "level": 3,
+          "line": "COVID-19 repurposing",
+          "anchor": "COVID-19_repurposing"
+        },
+        {
+          "index": "7",
+          "level": 3,
+          "line": "Inclusive National Dialogue (2024)",
+          "anchor": "Inclusive_National_Dialogue_(2024)"
+        },
+        {
+          "index": "8",
+          "level": 2,
+          "line": "Location",
+          "anchor": "Location"
+        },
+        {
+          "index": "9",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "10",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Palais_des_Sports_de_Libreville&revid=1349811240&groups=_67ab1641196de405c76cc4734a7e6e2a1e78c6e2&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Palais_des_Sports_de_Libreville&revid=1349811240&groups=_67ab1641196de405c76cc4734a7e6e2a1e78c6e2&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Palais des Sports de Libreville"
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Africa"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 23,
+          "rowText": "Gabon\nLibreville\nLe Palais des Sports de Libreville\n2018\n6,000\n2018 African Men's Handball Championship",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Gabon\" title=\"Gabon\">Gabon</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Libreville\" title=\"Libreville\">Libreville</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Le_Palais_des_Sports_de_Libreville\" class=\"mw-redirect\" title=\"Le Palais des Sports de Libreville\">Le Palais des Sports de Libreville</a>\n</td>\n<td align=\"center\">2018\n</td>\n<td align=\"right\">6,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/2018_African_Men%27s_Handball_Championship\" title=\"2018 African Men's Handball Championship\">2018 African Men's Handball Championship</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 23,
+              "cell": {
+                "text": "Gabon",
+                "lines": [
+                  "Gabon"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Gabon",
+                    "title": "Gabon",
+                    "wikiTitle": "Gabon",
+                    "href": "https://en.wikipedia.org/wiki/Gabon",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 23,
+              "cell": {
+                "text": "Libreville",
+                "lines": [
+                  "Libreville"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Libreville",
+                    "title": "Libreville",
+                    "wikiTitle": "Libreville",
+                    "href": "https://en.wikipedia.org/wiki/Libreville",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 23,
+              "cell": {
+                "text": "Le Palais des Sports de Libreville",
+                "lines": [
+                  "Le Palais des Sports de Libreville"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Le Palais des Sports de Libreville",
+                    "title": "Le Palais des Sports de Libreville",
+                    "wikiTitle": "Le Palais des Sports de Libreville",
+                    "href": "https://en.wikipedia.org/wiki/Le_Palais_des_Sports_de_Libreville",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 23,
+              "cell": {
+                "text": "2018",
+                "lines": [
+                  "2018"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 23,
+              "cell": {
+                "text": "6,000",
+                "lines": [
+                  "6,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 23,
+              "cell": {
+                "text": "2018 African Men's Handball Championship",
+                "lines": [
+                  "2018 African Men's Handball Championship"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "2018 African Men's Handball Championship",
+                    "title": "2018 African Men's Handball Championship",
+                    "wikiTitle": "2018 African Men's Handball Championship",
+                    "href": "https://en.wikipedia.org/wiki/2018_African_Men%27s_Handball_Championship",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Le Palais des Sports de Libreville",
+            "lines": [
+              "Le Palais des Sports de Libreville"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Le Palais des Sports de Libreville",
+                "title": "Le Palais des Sports de Libreville",
+                "wikiTitle": "Le Palais des Sports de Libreville",
+                "href": "https://en.wikipedia.org/wiki/Le_Palais_des_Sports_de_Libreville",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 29,
+          "rowText": "Gabon\nLibreville\nLe Palais des Sports de Libreville\n2018\n6,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Gabon\" title=\"Gabon\">Gabon</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Libreville\" title=\"Libreville\">Libreville</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Le_Palais_des_Sports_de_Libreville\" class=\"mw-redirect\" title=\"Le Palais des Sports de Libreville\">Le Palais des Sports de Libreville</a>\n</td>\n<td align=\"center\">2018\n</td>\n<td align=\"center\">6,000\n</td>\n<td>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 29,
+              "cell": {
+                "text": "Gabon",
+                "lines": [
+                  "Gabon"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Gabon",
+                    "title": "Gabon",
+                    "wikiTitle": "Gabon",
+                    "href": "https://en.wikipedia.org/wiki/Gabon",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 29,
+              "cell": {
+                "text": "Libreville",
+                "lines": [
+                  "Libreville"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Libreville",
+                    "title": "Libreville",
+                    "wikiTitle": "Libreville",
+                    "href": "https://en.wikipedia.org/wiki/Libreville",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 29,
+              "cell": {
+                "text": "Le Palais des Sports de Libreville",
+                "lines": [
+                  "Le Palais des Sports de Libreville"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Le Palais des Sports de Libreville",
+                    "title": "Le Palais des Sports de Libreville",
+                    "wikiTitle": "Le Palais des Sports de Libreville",
+                    "href": "https://en.wikipedia.org/wiki/Le_Palais_des_Sports_de_Libreville",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 29,
+              "cell": {
+                "text": "2018",
+                "lines": [
+                  "2018"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 29,
+              "cell": {
+                "text": "6,000",
+                "lines": [
+                  "6,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 29,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 29,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Le Palais des Sports de Libreville",
+            "lines": [
+              "Le Palais des Sports de Libreville"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Le Palais des Sports de Libreville",
+                "title": "Le Palais des Sports de Libreville",
+                "wikiTitle": "Le Palais des Sports de Libreville",
+                "href": "https://en.wikipedia.org/wiki/Le_Palais_des_Sports_de_Libreville",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T11:41:30.739Z"
+    }
+  ]
+}
