@@ -1,0 +1,2082 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Syria",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 2
+  },
+  "stats": {
+    "arenaCount": 2,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 8,
+    "sourceTypeCounts": {
+      "world_master_list": 2
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-39249278",
+      "pageId": 39249278,
+      "revisionId": null,
+      "title": "Al-Hamadaniah Sports Arena",
+      "displayTitle": "Al-Hamadaniah Sports Arena",
+      "url": "https://en.wikipedia.org/wiki/Al-Hamadaniah_Sports_Arena",
+      "wikidataItem": "Q15178825",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q15178825",
+      "aliases": [
+        "Al-Hamadaniah Sports Arena"
+      ],
+      "requestedTitles": [
+        "Al-Hamadaniah Sports Arena"
+      ],
+      "sourceLinkTexts": [
+        "Al-Hamadaniah Sports Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Al-Hamadaniah_Sports_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 36.18778,
+        "longitude": 37.11583,
+        "raw": "36.18778; 37.11583"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Al-Hamadaniah Sports Arena",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Salaheddine District, Aleppo, Syria",
+            "lines": [
+              "Salaheddine District, Aleppo, Syria"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Salaheddine_District\" title=\"Salaheddine District\">Salaheddine District</a>, <a href=\"https://en.wikipedia.org/wiki/Aleppo\" title=\"Aleppo\">Aleppo</a>, Syria</td>",
+            "links": [
+              {
+                "text": "Salaheddine District",
+                "title": "Salaheddine District",
+                "wikiTitle": "Salaheddine District",
+                "href": "https://en.wikipedia.org/wiki/Salaheddine_District",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Aleppo",
+                "title": "Aleppo",
+                "wikiTitle": "Aleppo",
+                "href": "https://en.wikipedia.org/wiki/Aleppo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Government of Syria",
+            "lines": [
+              "Government of Syria"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Council_of_Ministers_(Syria)\" class=\"mw-redirect\" title=\"Council of Ministers (Syria)\">Government of Syria</a></td>",
+            "links": [
+              {
+                "text": "Government of Syria",
+                "title": "Council of Ministers (Syria)",
+                "wikiTitle": "Council of Ministers (Syria)",
+                "href": "https://en.wikipedia.org/wiki/Council_of_Ministers_(Syria)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "General Sports Federation of Syria",
+            "lines": [
+              "General Sports Federation of Syria"
+            ],
+            "html": "<td class=\"infobox-data agent\">General Sports Federation of Syria</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "7,964 seats (sport)\n14,000 (maximum capacity)",
+            "lines": [
+              "7,964 seats (sport)",
+              "14,000 (maximum capacity)"
+            ],
+            "html": "<td class=\"infobox-data\">7,964 seats (sport)<br>14,000 (maximum capacity)</td>",
+            "links": [
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-atd-3",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-atd-3"
+              }
+            ]
+          },
+          {
+            "label": "Surface",
+            "key": "surface",
+            "group": null,
+            "text": "Parquet, variable",
+            "lines": [
+              "Parquet, variable"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Parquet\" title=\"Parquet\">Parquet</a>, variable</td>",
+            "links": [
+              {
+                "text": "Parquet",
+                "title": "Parquet",
+                "wikiTitle": "Parquet",
+                "href": "https://en.wikipedia.org/wiki/Parquet",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Record attendance",
+            "key": "record_attendance",
+            "group": null,
+            "text": "13.500\nSyria v Bahrain (1 July 2022)",
+            "lines": [
+              "13.500",
+              "Syria v Bahrain (1 July 2022)"
+            ],
+            "html": "<td class=\"infobox-data\">13.500<br><a href=\"https://en.wikipedia.org/wiki/Syria_national_basketball_team\" class=\"mw-redirect\" title=\"Syria national basketball team\">Syria</a> v <a href=\"https://en.wikipedia.org/wiki/Bahrain_national_basketball_team\" class=\"mw-redirect\" title=\"Bahrain national basketball team\">Bahrain</a> (1 July 2022)</td>",
+            "links": [
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-atd-3",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              },
+              {
+                "text": "Syria",
+                "title": "Syria national basketball team",
+                "wikiTitle": "Syria national basketball team",
+                "href": "https://en.wikipedia.org/wiki/Syria_national_basketball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Bahrain",
+                "title": "Bahrain national basketball team",
+                "wikiTitle": "Bahrain national basketball team",
+                "href": "https://en.wikipedia.org/wiki/Bahrain_national_basketball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-atd-3"
+              },
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-atd-3"
+              }
+            ]
+          },
+          {
+            "label": "Field size",
+            "key": "field_size",
+            "group": null,
+            "text": "60 by 25 metres (66 by 27 yd)",
+            "lines": [
+              "60 by 25 metres (66 by 27 yd)"
+            ],
+            "html": "<td class=\"infobox-data\">60 by 25 metres (66 by 27&nbsp;yd)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "2004–2020",
+            "lines": [
+              "2004–2020"
+            ],
+            "html": "<td class=\"infobox-data\">2004–2020</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "17 December 2021",
+            "lines": [
+              "17 December 2021"
+            ],
+            "html": "<td class=\"infobox-data\">17 December 2021</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "LS 64.4 billion",
+            "lines": [
+              "LS 64.4 billion"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Syrian_pound\" title=\"Syrian pound\">LS</a>&nbsp;64.4&nbsp;billion</td>",
+            "links": [
+              {
+                "text": "LS",
+                "title": "Syrian pound",
+                "wikiTitle": "Syrian pound",
+                "href": "https://en.wikipedia.org/wiki/Syrian_pound",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[a]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              },
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-tishr-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[a]",
+                "href": "https://en.wikipedia.org/#cite_note-2"
+              },
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-tishr-1"
+              }
+            ]
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Mazen Zain Al Din",
+            "lines": [
+              "Mazen Zain Al Din"
+            ],
+            "html": "<td class=\"infobox-data\">Mazen Zain Al Din</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-tishr-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-tishr-1"
+              }
+            ]
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Syria national basketball team (2022–present)\nAl-Ittihad SC (2021–present)",
+            "lines": [
+              "Syria national basketball team (2022–present)",
+              "Al-Ittihad SC (2021–present)"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><div class=\"center\"><a href=\"https://en.wikipedia.org/wiki/Syria_national_basketball_team\" class=\"mw-redirect\" title=\"Syria national basketball team\">Syria national basketball team</a> (2022–present)<br><a href=\"https://en.wikipedia.org/wiki/Al-Ittihad_SC_Aleppo_(men%27s_basketball)\" title=\"Al-Ittihad SC Aleppo (men's basketball)\">Al-Ittihad SC</a> (2021–present)</div></td>",
+            "links": [
+              {
+                "text": "Syria national basketball team",
+                "title": "Syria national basketball team",
+                "wikiTitle": "Syria national basketball team",
+                "href": "https://en.wikipedia.org/wiki/Syria_national_basketball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Al-Ittihad SC",
+                "title": "Al-Ittihad SC Aleppo (men's basketball)",
+                "wikiTitle": "Al-Ittihad SC Aleppo (men's basketball)",
+                "href": "https://en.wikipedia.org/wiki/Al-Ittihad_SC_Aleppo_(men%27s_basketball)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Salaheddine District, Aleppo, Syria",
+              "lines": [
+                "Salaheddine District, Aleppo, Syria"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Salaheddine_District\" title=\"Salaheddine District\">Salaheddine District</a>, <a href=\"https://en.wikipedia.org/wiki/Aleppo\" title=\"Aleppo\">Aleppo</a>, Syria</td>",
+              "links": [
+                {
+                  "text": "Salaheddine District",
+                  "title": "Salaheddine District",
+                  "wikiTitle": "Salaheddine District",
+                  "href": "https://en.wikipedia.org/wiki/Salaheddine_District",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Aleppo",
+                  "title": "Aleppo",
+                  "wikiTitle": "Aleppo",
+                  "href": "https://en.wikipedia.org/wiki/Aleppo",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Government of Syria",
+              "lines": [
+                "Government of Syria"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Council_of_Ministers_(Syria)\" class=\"mw-redirect\" title=\"Council of Ministers (Syria)\">Government of Syria</a></td>",
+              "links": [
+                {
+                  "text": "Government of Syria",
+                  "title": "Council of Ministers (Syria)",
+                  "wikiTitle": "Council of Ministers (Syria)",
+                  "href": "https://en.wikipedia.org/wiki/Council_of_Ministers_(Syria)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "General Sports Federation of Syria",
+              "lines": [
+                "General Sports Federation of Syria"
+              ],
+              "html": "<td class=\"infobox-data agent\">General Sports Federation of Syria</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "7,964 seats (sport)\n14,000 (maximum capacity)",
+              "lines": [
+                "7,964 seats (sport)",
+                "14,000 (maximum capacity)"
+              ],
+              "html": "<td class=\"infobox-data\">7,964 seats (sport)<br>14,000 (maximum capacity)</td>",
+              "links": [
+                {
+                  "text": "[2]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-atd-3",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-atd-3"
+                }
+              ]
+            }
+          ],
+          "surface": [
+            {
+              "label": "Surface",
+              "key": "surface",
+              "group": null,
+              "text": "Parquet, variable",
+              "lines": [
+                "Parquet, variable"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Parquet\" title=\"Parquet\">Parquet</a>, variable</td>",
+              "links": [
+                {
+                  "text": "Parquet",
+                  "title": "Parquet",
+                  "wikiTitle": "Parquet",
+                  "href": "https://en.wikipedia.org/wiki/Parquet",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "record_attendance": [
+            {
+              "label": "Record attendance",
+              "key": "record_attendance",
+              "group": null,
+              "text": "13.500\nSyria v Bahrain (1 July 2022)",
+              "lines": [
+                "13.500",
+                "Syria v Bahrain (1 July 2022)"
+              ],
+              "html": "<td class=\"infobox-data\">13.500<br><a href=\"https://en.wikipedia.org/wiki/Syria_national_basketball_team\" class=\"mw-redirect\" title=\"Syria national basketball team\">Syria</a> v <a href=\"https://en.wikipedia.org/wiki/Bahrain_national_basketball_team\" class=\"mw-redirect\" title=\"Bahrain national basketball team\">Bahrain</a> (1 July 2022)</td>",
+              "links": [
+                {
+                  "text": "[2]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-atd-3",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                },
+                {
+                  "text": "Syria",
+                  "title": "Syria national basketball team",
+                  "wikiTitle": "Syria national basketball team",
+                  "href": "https://en.wikipedia.org/wiki/Syria_national_basketball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Bahrain",
+                  "title": "Bahrain national basketball team",
+                  "wikiTitle": "Bahrain national basketball team",
+                  "href": "https://en.wikipedia.org/wiki/Bahrain_national_basketball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-atd-3"
+                },
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-atd-3"
+                }
+              ]
+            }
+          ],
+          "field_size": [
+            {
+              "label": "Field size",
+              "key": "field_size",
+              "group": null,
+              "text": "60 by 25 metres (66 by 27 yd)",
+              "lines": [
+                "60 by 25 metres (66 by 27 yd)"
+              ],
+              "html": "<td class=\"infobox-data\">60 by 25 metres (66 by 27&nbsp;yd)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "2004–2020",
+              "lines": [
+                "2004–2020"
+              ],
+              "html": "<td class=\"infobox-data\">2004–2020</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "17 December 2021",
+              "lines": [
+                "17 December 2021"
+              ],
+              "html": "<td class=\"infobox-data\">17 December 2021</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "LS 64.4 billion",
+              "lines": [
+                "LS 64.4 billion"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Syrian_pound\" title=\"Syrian pound\">LS</a>&nbsp;64.4&nbsp;billion</td>",
+              "links": [
+                {
+                  "text": "LS",
+                  "title": "Syrian pound",
+                  "wikiTitle": "Syrian pound",
+                  "href": "https://en.wikipedia.org/wiki/Syrian_pound",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "[a]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-2",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                },
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-tishr-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[a]",
+                  "href": "https://en.wikipedia.org/#cite_note-2"
+                },
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-tishr-1"
+                }
+              ]
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Mazen Zain Al Din",
+              "lines": [
+                "Mazen Zain Al Din"
+              ],
+              "html": "<td class=\"infobox-data\">Mazen Zain Al Din</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-tishr-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-tishr-1"
+                }
+              ]
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Syria national basketball team (2022–present)\nAl-Ittihad SC (2021–present)",
+              "lines": [
+                "Syria national basketball team (2022–present)",
+                "Al-Ittihad SC (2021–present)"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><div class=\"center\"><a href=\"https://en.wikipedia.org/wiki/Syria_national_basketball_team\" class=\"mw-redirect\" title=\"Syria national basketball team\">Syria national basketball team</a> (2022–present)<br><a href=\"https://en.wikipedia.org/wiki/Al-Ittihad_SC_Aleppo_(men%27s_basketball)\" title=\"Al-Ittihad SC Aleppo (men's basketball)\">Al-Ittihad SC</a> (2021–present)</div></td>",
+              "links": [
+                {
+                  "text": "Syria national basketball team",
+                  "title": "Syria national basketball team",
+                  "wikiTitle": "Syria national basketball team",
+                  "href": "https://en.wikipedia.org/wiki/Syria_national_basketball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Al-Ittihad SC",
+                  "title": "Al-Ittihad SC Aleppo (men's basketball)",
+                  "wikiTitle": "Al-Ittihad SC Aleppo (men's basketball)",
+                  "href": "https://en.wikipedia.org/wiki/Al-Ittihad_SC_Aleppo_(men%27s_basketball)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Salaheddine District, Aleppo, Syria"
+          ],
+          "owner": [
+            "Government of Syria"
+          ],
+          "operator": [
+            "General Sports Federation of Syria"
+          ],
+          "capacity": [
+            "7,964 seats (sport)\n14,000 (maximum capacity)"
+          ],
+          "surface": [
+            "Parquet, variable"
+          ],
+          "record_attendance": [
+            "13.500\nSyria v Bahrain (1 July 2022)"
+          ],
+          "field_size": [
+            "60 by 25 metres (66 by 27 yd)"
+          ],
+          "built": [
+            "2004–2020"
+          ],
+          "opened": [
+            "17 December 2021"
+          ],
+          "cost": [
+            "LS 64.4 billion"
+          ],
+          "architect": [
+            "Mazen Zain Al Din"
+          ],
+          "tenants": [
+            "Syria national basketball team (2022–present)\nAl-Ittihad SC (2021–present)"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "7,964 seats (sport)",
+          "14,000 (maximum capacity)"
+        ],
+        "tenants": [
+          "Syria national basketball team (2022–present)",
+          "Al-Ittihad SC (2021–present)"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Hamadania arena.jpg",
+            "fileName": "Hamadania arena.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Hamadania_arena.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hamadania_arena.jpg/250px-Hamadania_arena.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hamadania_arena.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Hamadania_arena.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hamadania_arena.jpg/500px-Hamadania_arena.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 167,
+            "originalWidth": 698,
+            "originalHeight": 465,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Al-Hamadaniah_Sports_Arena&revid=1327602377&groups=_1f7307b57e8ae3103a24041c8cd1432ffd98c73c&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Al-Hamadaniah_Sports_Arena&revid=1327602377&groups=_1f7307b57e8ae3103a24041c8cd1432ffd98c73c&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Al-Hamadaniah Sports Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Al-Hamadaniah Sports Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\"><i>صالة الحمدانية الرياضية</i></div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Hamadania_arena.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hamadania_arena.jpg/250px-Hamadania_arena.jpg\" width=\"250\" height=\"167\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hamadania_arena.jpg/500px-Hamadania_arena.jpg 2x\" data-file-width=\"698\" data-file-height=\"465\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_1f7307b57e8ae3103a24041c8cd1432ffd98c73c&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Al-Hamadaniah_Sports_Arena&amp;revid=1327602377&amp;groups=_1f7307b57e8ae3103a24041c8cd1432ffd98c73c&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Al-Hamadaniah_Sports_Arena&amp;revid=1327602377&amp;groups=_1f7307b57e8ae3103a24041c8cd1432ffd98c73c&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Al-Hamadaniah Sports Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Salaheddine_District\" title=\"Salaheddine District\">Salaheddine District</a>, <a href=\"https://en.wikipedia.org/wiki/Aleppo\" title=\"Aleppo\">Aleppo</a>, Syria</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Council_of_Ministers_(Syria)\" class=\"mw-redirect\" title=\"Council of Ministers (Syria)\">Government of Syria</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">General Sports Federation of Syria</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">7,964 seats (sport)<br>14,000 (maximum capacity)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Surface</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Parquet\" title=\"Parquet\">Parquet</a>, variable</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Record attendance</div></th><td class=\"infobox-data\">13.500<br><a href=\"https://en.wikipedia.org/wiki/Syria_national_basketball_team\" class=\"mw-redirect\" title=\"Syria national basketball team\">Syria</a> v <a href=\"https://en.wikipedia.org/wiki/Bahrain_national_basketball_team\" class=\"mw-redirect\" title=\"Bahrain national basketball team\">Bahrain</a> (1 July 2022)</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Field size</div></th><td class=\"infobox-data\">60 by 25 metres (66 by 27&nbsp;yd)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">2004–2020</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">17 December 2021</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Syrian_pound\" title=\"Syrian pound\">LS</a>&nbsp;64.4&nbsp;billion</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\">Mazen Zain Al Din</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><div class=\"center\"><a href=\"https://en.wikipedia.org/wiki/Syria_national_basketball_team\" class=\"mw-redirect\" title=\"Syria national basketball team\">Syria national basketball team</a> (2022–present)<br><a href=\"https://en.wikipedia.org/wiki/Al-Ittihad_SC_Aleppo_(men%27s_basketball)\" title=\"Al-Ittihad SC Aleppo (men's basketball)\">Al-Ittihad SC</a> (2021–present)</div></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Webarchive_template_wayback_links",
+        "All_articles_with_dead_external_links",
+        "Articles_with_dead_external_links_from_November_2025",
+        "CS1_maint:_deprecated_archival_service",
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Articles_containing_Arabic-language_text",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_December_2023",
+        "Coordinates_on_Wikidata",
+        "Sports_venues_in_Aleppo",
+        "Handball_venues_in_Syria",
+        "Basketball_venues_in_Syria",
+        "Sports_venues_completed_in_2012",
+        "2012_establishments_in_Syria",
+        "Volleyball_venues_in_Syria",
+        "Indoor_arenas_in_Syria",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "http://www.tishreen.news.sy/tishreen/public/read/56885",
+        "https://web.archive.org/web/20160304032758/http://www.tishreen.news.sy/tishreen/public/read/56885",
+        "https://www.fiba.basketball/basketballworldcup/2023/news/13500-fans-in-syria-and-all-the-huge-crowds-for-world-cup-qualifiers-third-window",
+        "https://youtube.com/yVs798OQQL8",
+        "http://www.hutteensc.com/forum/showthread.php?t=86451",
+        "http://www.alazmenah.com/?page=show_det&category_id=7&id=25147",
+        "https://www.asia-basket.com/Syria/games-schedule.aspx?SectionID=21&League=1&Season=2021-2022&LName=Syria",
+        "https://www.fiba.basketball/basketballworldcup/2023/asian-qualifiers/game/0107/Syria-Bahrain",
+        "https://www.fiba.basketball/basketballworldcup/2023/asian-qualifiers/game/0407/Syria-Iran",
+        "https://geohack.toolforge.org/geohack.php?pagename=Al-Hamadaniah_Sports_Arena&params=36_11_16_N_37_06_57_E_type:landmark"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Notes",
+          "anchor": "Notes"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Hamadania_arena.jpg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Hamadania arena.jpg",
+          "fileName": "Hamadania arena.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Hamadania_arena.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hamadania_arena.jpg/250px-Hamadania_arena.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hamadania_arena.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Hamadania_arena.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Hamadania_arena.jpg/500px-Hamadania_arena.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 698,
+          "originalHeight": 465,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Al-Hamadaniah_Sports_Arena&revid=1327602377&groups=_1f7307b57e8ae3103a24041c8cd1432ffd98c73c&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Al-Hamadaniah_Sports_Arena&revid=1327602377&groups=_1f7307b57e8ae3103a24041c8cd1432ffd98c73c&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Al-Hamadaniah Sports Arena"
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 422,
+          "rowText": "Al-Hamadaniah Sports Arena\n2012\n8,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Al-Hamadaniah_Sports_Arena\" title=\"Al-Hamadaniah Sports Arena\">Al-Hamadaniah Sports Arena</a>\n</td>\n<td>2012\n</td>\n<td>8,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 421,
+              "cell": {
+                "text": "Syria",
+                "lines": [
+                  "Syria"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Syria",
+                    "title": "Syria",
+                    "wikiTitle": "Syria",
+                    "href": "https://en.wikipedia.org/wiki/Syria",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 421,
+              "cell": {
+                "text": "Aleppo",
+                "lines": [
+                  "Aleppo"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Aleppo",
+                    "title": "Aleppo",
+                    "wikiTitle": "Aleppo",
+                    "href": "https://en.wikipedia.org/wiki/Aleppo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 422,
+              "cell": {
+                "text": "Al-Hamadaniah Sports Arena",
+                "lines": [
+                  "Al-Hamadaniah Sports Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Al-Hamadaniah Sports Arena",
+                    "title": "Al-Hamadaniah Sports Arena",
+                    "wikiTitle": "Al-Hamadaniah Sports Arena",
+                    "href": "https://en.wikipedia.org/wiki/Al-Hamadaniah_Sports_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 422,
+              "cell": {
+                "text": "2012",
+                "lines": [
+                  "2012"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 422,
+              "cell": {
+                "text": "8,000",
+                "lines": [
+                  "8,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 422,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Al-Hamadaniah Sports Arena",
+            "lines": [
+              "Al-Hamadaniah Sports Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Al-Hamadaniah Sports Arena",
+                "title": "Al-Hamadaniah Sports Arena",
+                "wikiTitle": "Al-Hamadaniah Sports Arena",
+                "href": "https://en.wikipedia.org/wiki/Al-Hamadaniah_Sports_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:42.918Z"
+    },
+    {
+      "id": "wikipedia-page-39279988",
+      "pageId": 39279988,
+      "revisionId": null,
+      "title": "Al-Shaba Sports Arena",
+      "displayTitle": "Al-Shaba Sports Arena",
+      "url": "https://en.wikipedia.org/wiki/Al-Shaba_Sports_Arena",
+      "wikidataItem": "Q15178808",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q15178808",
+      "aliases": [
+        "Al-Assad Sports Arena",
+        "Al-Shaba Sports Arena"
+      ],
+      "requestedTitles": [
+        "Al-Assad Sports Arena"
+      ],
+      "sourceLinkTexts": [
+        "Al-Assad Sports Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Al-Assad_Sports_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 36.20583,
+        "longitude": 37.14556,
+        "raw": "36.20583; 37.14556"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Al-Shaba Sports Arena",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Aleppo, Syria",
+            "lines": [
+              "Aleppo, Syria"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Aleppo\" title=\"Aleppo\">Aleppo</a>, <span class=\"flagicon\"><span class=\"mw-image-border\"><a href=\"https://en.wikipedia.org/wiki/Syria\" title=\"Syria\"><img alt=\"Syria\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/40px-Flag_of_Syria_%282025-%29.svg.png\" width=\"23\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/60px-Flag_of_Syria_%282025-%29.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\"></a></span></span> <a href=\"https://en.wikipedia.org/wiki/Syria\" title=\"Syria\">Syria</a>&nbsp;</td>",
+            "links": [
+              {
+                "text": "Aleppo",
+                "title": "Aleppo",
+                "wikiTitle": "Aleppo",
+                "href": "https://en.wikipedia.org/wiki/Aleppo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "",
+                "title": "Syria",
+                "wikiTitle": "Syria",
+                "href": "https://en.wikipedia.org/wiki/Syria",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [
+              {
+                "fileTitle": null,
+                "fileName": null,
+                "kind": "photo",
+                "filePageUrl": null,
+                "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/40px-Flag_of_Syria_%282025-%29.svg.png",
+                "originalRedirectUrl": null,
+                "enwikiOriginalRedirectUrl": null,
+                "srcset": [
+                  {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/60px-Flag_of_Syria_%282025-%29.svg.png",
+                    "descriptor": "2x"
+                  }
+                ],
+                "width": 23,
+                "height": 15,
+                "originalWidth": 900,
+                "originalHeight": 600,
+                "fileType": null,
+                "alt": "Syria",
+                "title": null,
+                "caption": null
+              }
+            ],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Government of Syria",
+            "lines": [
+              "Government of Syria"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Syria\" title=\"Government of Syria\">Government of Syria</a></td>",
+            "links": [
+              {
+                "text": "Government of Syria",
+                "title": "Government of Syria",
+                "wikiTitle": "Government of Syria",
+                "href": "https://en.wikipedia.org/wiki/Government_of_Syria",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Ministry of Education",
+            "lines": [
+              "Ministry of Education"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Ministry_of_Education_(Syria)\" title=\"Ministry of Education (Syria)\">Ministry of Education</a></td>",
+            "links": [
+              {
+                "text": "Ministry of Education",
+                "title": "Ministry of Education (Syria)",
+                "wikiTitle": "Ministry of Education (Syria)",
+                "href": "https://en.wikipedia.org/wiki/Ministry_of_Education_(Syria)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "3,500",
+            "lines": [
+              "3,500"
+            ],
+            "html": "<td class=\"infobox-data\">3,500</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1978",
+            "lines": [
+              "1978"
+            ],
+            "html": "<td class=\"infobox-data\">1978</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Al-Ittihad SC (1978–2021)\nAl-Ittihad SC Women (1978–2021)\nJalaa SC (1978–present)\nAl-Hurriya SC\nOuroube SC\nAl Sekak CFS SC",
+            "lines": [
+              "Al-Ittihad SC (1978–2021)",
+              "Al-Ittihad SC Women (1978–2021)",
+              "Jalaa SC (1978–present)",
+              "Al-Hurriya SC",
+              "Ouroube SC",
+              "Al Sekak CFS SC"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><div class=\"center\"><a href=\"https://en.wikipedia.org/wiki/Al-Ittihad_SC_Aleppo_(men%27s_basketball)\" title=\"Al-Ittihad SC Aleppo (men's basketball)\">Al-Ittihad SC</a> (1978–2021)<br><a href=\"https://en.wikipedia.org/wiki/Al-Ittihad_SC_Aleppo_(women%27s_basketball)\" title=\"Al-Ittihad SC Aleppo (women's basketball)\">Al-Ittihad SC Women</a> (1978–2021)<br><a href=\"https://en.wikipedia.org/wiki/Jalaa_SC_(men%27s_basketball)\" class=\"mw-redirect\" title=\"Jalaa SC (men's basketball)\">Jalaa SC</a> (1978–present)<br>Al-Hurriya SC <br> <a href=\"https://en.wikipedia.org/wiki/Ouroube_SC_(women%27s_basketball)\" title=\"Ouroube SC (women's basketball)\">Ouroube SC</a> <br> Al Sekak CFS SC</div></td>",
+            "links": [
+              {
+                "text": "Al-Ittihad SC",
+                "title": "Al-Ittihad SC Aleppo (men's basketball)",
+                "wikiTitle": "Al-Ittihad SC Aleppo (men's basketball)",
+                "href": "https://en.wikipedia.org/wiki/Al-Ittihad_SC_Aleppo_(men%27s_basketball)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Al-Ittihad SC Women",
+                "title": "Al-Ittihad SC Aleppo (women's basketball)",
+                "wikiTitle": "Al-Ittihad SC Aleppo (women's basketball)",
+                "href": "https://en.wikipedia.org/wiki/Al-Ittihad_SC_Aleppo_(women%27s_basketball)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Jalaa SC",
+                "title": "Jalaa SC (men's basketball)",
+                "wikiTitle": "Jalaa SC (men's basketball)",
+                "href": "https://en.wikipedia.org/wiki/Jalaa_SC_(men%27s_basketball)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Ouroube SC",
+                "title": "Ouroube SC (women's basketball)",
+                "wikiTitle": "Ouroube SC (women's basketball)",
+                "href": "https://en.wikipedia.org/wiki/Ouroube_SC_(women%27s_basketball)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Aleppo, Syria",
+              "lines": [
+                "Aleppo, Syria"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Aleppo\" title=\"Aleppo\">Aleppo</a>, <span class=\"flagicon\"><span class=\"mw-image-border\"><a href=\"https://en.wikipedia.org/wiki/Syria\" title=\"Syria\"><img alt=\"Syria\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/40px-Flag_of_Syria_%282025-%29.svg.png\" width=\"23\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/60px-Flag_of_Syria_%282025-%29.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\"></a></span></span> <a href=\"https://en.wikipedia.org/wiki/Syria\" title=\"Syria\">Syria</a>&nbsp;</td>",
+              "links": [
+                {
+                  "text": "Aleppo",
+                  "title": "Aleppo",
+                  "wikiTitle": "Aleppo",
+                  "href": "https://en.wikipedia.org/wiki/Aleppo",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "",
+                  "title": "Syria",
+                  "wikiTitle": "Syria",
+                  "href": "https://en.wikipedia.org/wiki/Syria",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [
+                {
+                  "fileTitle": null,
+                  "fileName": null,
+                  "kind": "photo",
+                  "filePageUrl": null,
+                  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/40px-Flag_of_Syria_%282025-%29.svg.png",
+                  "originalRedirectUrl": null,
+                  "enwikiOriginalRedirectUrl": null,
+                  "srcset": [
+                    {
+                      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/60px-Flag_of_Syria_%282025-%29.svg.png",
+                      "descriptor": "2x"
+                    }
+                  ],
+                  "width": 23,
+                  "height": 15,
+                  "originalWidth": 900,
+                  "originalHeight": 600,
+                  "fileType": null,
+                  "alt": "Syria",
+                  "title": null,
+                  "caption": null
+                }
+              ],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Government of Syria",
+              "lines": [
+                "Government of Syria"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Syria\" title=\"Government of Syria\">Government of Syria</a></td>",
+              "links": [
+                {
+                  "text": "Government of Syria",
+                  "title": "Government of Syria",
+                  "wikiTitle": "Government of Syria",
+                  "href": "https://en.wikipedia.org/wiki/Government_of_Syria",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Ministry of Education",
+              "lines": [
+                "Ministry of Education"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Ministry_of_Education_(Syria)\" title=\"Ministry of Education (Syria)\">Ministry of Education</a></td>",
+              "links": [
+                {
+                  "text": "Ministry of Education",
+                  "title": "Ministry of Education (Syria)",
+                  "wikiTitle": "Ministry of Education (Syria)",
+                  "href": "https://en.wikipedia.org/wiki/Ministry_of_Education_(Syria)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "3,500",
+              "lines": [
+                "3,500"
+              ],
+              "html": "<td class=\"infobox-data\">3,500</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1978",
+              "lines": [
+                "1978"
+              ],
+              "html": "<td class=\"infobox-data\">1978</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Al-Ittihad SC (1978–2021)\nAl-Ittihad SC Women (1978–2021)\nJalaa SC (1978–present)\nAl-Hurriya SC\nOuroube SC\nAl Sekak CFS SC",
+              "lines": [
+                "Al-Ittihad SC (1978–2021)",
+                "Al-Ittihad SC Women (1978–2021)",
+                "Jalaa SC (1978–present)",
+                "Al-Hurriya SC",
+                "Ouroube SC",
+                "Al Sekak CFS SC"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><div class=\"center\"><a href=\"https://en.wikipedia.org/wiki/Al-Ittihad_SC_Aleppo_(men%27s_basketball)\" title=\"Al-Ittihad SC Aleppo (men's basketball)\">Al-Ittihad SC</a> (1978–2021)<br><a href=\"https://en.wikipedia.org/wiki/Al-Ittihad_SC_Aleppo_(women%27s_basketball)\" title=\"Al-Ittihad SC Aleppo (women's basketball)\">Al-Ittihad SC Women</a> (1978–2021)<br><a href=\"https://en.wikipedia.org/wiki/Jalaa_SC_(men%27s_basketball)\" class=\"mw-redirect\" title=\"Jalaa SC (men's basketball)\">Jalaa SC</a> (1978–present)<br>Al-Hurriya SC <br> <a href=\"https://en.wikipedia.org/wiki/Ouroube_SC_(women%27s_basketball)\" title=\"Ouroube SC (women's basketball)\">Ouroube SC</a> <br> Al Sekak CFS SC</div></td>",
+              "links": [
+                {
+                  "text": "Al-Ittihad SC",
+                  "title": "Al-Ittihad SC Aleppo (men's basketball)",
+                  "wikiTitle": "Al-Ittihad SC Aleppo (men's basketball)",
+                  "href": "https://en.wikipedia.org/wiki/Al-Ittihad_SC_Aleppo_(men%27s_basketball)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Al-Ittihad SC Women",
+                  "title": "Al-Ittihad SC Aleppo (women's basketball)",
+                  "wikiTitle": "Al-Ittihad SC Aleppo (women's basketball)",
+                  "href": "https://en.wikipedia.org/wiki/Al-Ittihad_SC_Aleppo_(women%27s_basketball)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Jalaa SC",
+                  "title": "Jalaa SC (men's basketball)",
+                  "wikiTitle": "Jalaa SC (men's basketball)",
+                  "href": "https://en.wikipedia.org/wiki/Jalaa_SC_(men%27s_basketball)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Ouroube SC",
+                  "title": "Ouroube SC (women's basketball)",
+                  "wikiTitle": "Ouroube SC (women's basketball)",
+                  "href": "https://en.wikipedia.org/wiki/Ouroube_SC_(women%27s_basketball)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Aleppo, Syria"
+          ],
+          "owner": [
+            "Government of Syria"
+          ],
+          "operator": [
+            "Ministry of Education"
+          ],
+          "capacity": [
+            "3,500"
+          ],
+          "opened": [
+            "1978"
+          ],
+          "tenants": [
+            "Al-Ittihad SC (1978–2021)\nAl-Ittihad SC Women (1978–2021)\nJalaa SC (1978–present)\nAl-Hurriya SC\nOuroube SC\nAl Sekak CFS SC"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "3,500"
+        ],
+        "tenants": [
+          "Al-Ittihad SC (1978–2021)",
+          "Al-Ittihad SC Women (1978–2021)",
+          "Jalaa SC (1978–present)",
+          "Al-Hurriya SC",
+          "Ouroube SC",
+          "Al Sekak CFS SC"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Al-Assad Arena (30.12.2017).jpg",
+            "fileName": "Al-Assad Arena (30.12.2017).jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Al-Assad_Arena_(30.12.2017).jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Al-Assad_Arena_%2830.12.2017%29.jpg/250px-Al-Assad_Arena_%2830.12.2017%29.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Al-Assad_Arena_(30.12.2017).jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Al-Assad_Arena_(30.12.2017).jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Al-Assad_Arena_%2830.12.2017%29.jpg/500px-Al-Assad_Arena_%2830.12.2017%29.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 225,
+            "height": 127,
+            "originalWidth": 960,
+            "originalHeight": 541,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "The Sports Arena in 2017"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Al-Shaba_Sports_Arena&revid=1349933367&groups=_b633e22fe5441c88adc89863f58307f9d76db2a9&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Al-Shaba_Sports_Arena&revid=1349933367&groups=_b633e22fe5441c88adc89863f58307f9d76db2a9&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Al-Shaba Sports Arena"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/40px-Flag_of_Syria_%282025-%29.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/60px-Flag_of_Syria_%282025-%29.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 23,
+            "height": 15,
+            "originalWidth": 900,
+            "originalHeight": 600,
+            "fileType": null,
+            "alt": "Syria",
+            "title": null,
+            "caption": null
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Al-Shaba Sports Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Al-Assad_Arena_(30.12.2017).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Al-Assad_Arena_%2830.12.2017%29.jpg/250px-Al-Assad_Arena_%2830.12.2017%29.jpg\" width=\"225\" height=\"127\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Al-Assad_Arena_%2830.12.2017%29.jpg/500px-Al-Assad_Arena_%2830.12.2017%29.jpg 2x\" data-file-width=\"960\" data-file-height=\"541\"></a></span><div class=\"infobox-caption\">The Sports Arena in 2017</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_b633e22fe5441c88adc89863f58307f9d76db2a9&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Al-Shaba_Sports_Arena&amp;revid=1349933367&amp;groups=_b633e22fe5441c88adc89863f58307f9d76db2a9&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Al-Shaba_Sports_Arena&amp;revid=1349933367&amp;groups=_b633e22fe5441c88adc89863f58307f9d76db2a9&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Al-Shaba Sports Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Aleppo\" title=\"Aleppo\">Aleppo</a>, <span class=\"flagicon\"><span class=\"mw-image-border\"><a href=\"https://en.wikipedia.org/wiki/Syria\" title=\"Syria\"><img alt=\"Syria\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/40px-Flag_of_Syria_%282025-%29.svg.png\" width=\"23\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/60px-Flag_of_Syria_%282025-%29.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\"></a></span></span> <a href=\"https://en.wikipedia.org/wiki/Syria\" title=\"Syria\">Syria</a>&nbsp;</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Syria\" title=\"Government of Syria\">Government of Syria</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Ministry_of_Education_(Syria)\" title=\"Ministry of Education (Syria)\">Ministry of Education</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">3,500</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1978</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><div class=\"center\"><a href=\"https://en.wikipedia.org/wiki/Al-Ittihad_SC_Aleppo_(men%27s_basketball)\" title=\"Al-Ittihad SC Aleppo (men's basketball)\">Al-Ittihad SC</a> (1978–2021)<br><a href=\"https://en.wikipedia.org/wiki/Al-Ittihad_SC_Aleppo_(women%27s_basketball)\" title=\"Al-Ittihad SC Aleppo (women's basketball)\">Al-Ittihad SC Women</a> (1978–2021)<br><a href=\"https://en.wikipedia.org/wiki/Jalaa_SC_(men%27s_basketball)\" class=\"mw-redirect\" title=\"Jalaa SC (men's basketball)\">Jalaa SC</a> (1978–present)<br>Al-Hurriya SC <br> <a href=\"https://en.wikipedia.org/wiki/Ouroube_SC_(women%27s_basketball)\" title=\"Ouroube SC (women's basketball)\">Ouroube SC</a> <br> Al Sekak CFS SC</div></td></tr></tbody></table>"
+      },
+      "categories": [
+        "CS1_maint:_deprecated_archival_service",
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Articles_containing_Arabic-language_text",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_December_2023",
+        "Coordinates_on_Wikidata",
+        "Sports_venues_in_Aleppo",
+        "Handball_venues_in_Syria",
+        "Basketball_venues_in_Syria",
+        "Volleyball_venues_in_Syria",
+        "Sports_venues_completed_in_1978",
+        "1978_establishments_in_Syria",
+        "Indoor_arenas_in_Syria",
+        "All_stub_articles",
+        "Middle_Eastern_sports_venue_stubs",
+        "Syrian_building_and_structure_stubs",
+        "Syrian_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "http://www.nouhworld.com/article/%D8%B5%D8%A7%D9%84%D8%A9_%D8%A7%D9%84%D8%A3%D8%B3%D8%AF_%D9%85%D9%86%D8%A7%D8%B1%D8%A9_%D8%AD%D9%84%D8%A8_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9.html",
+        "http://jamahir.alwehda.gov.sy/__archives.asp?FileName=45166987920110406224807",
+        "https://geohack.toolforge.org/geohack.php?pagename=Al-Shaba_Sports_Arena&params=36_12_21_N_37_08_44_E_type:landmark"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Al-Assad_Arena_(30.12.2017).jpg",
+        "Flag_of_Syria_(2025-).svg",
+        "Al-Assad_hall_Aleppo.jpg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Al-Assad Arena (30.12.2017).jpg",
+          "fileName": "Al-Assad Arena (30.12.2017).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Al-Assad_Arena_(30.12.2017).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Al-Assad_Arena_%2830.12.2017%29.jpg/250px-Al-Assad_Arena_%2830.12.2017%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Al-Assad_Arena_(30.12.2017).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Al-Assad_Arena_(30.12.2017).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Al-Assad_Arena_%2830.12.2017%29.jpg/500px-Al-Assad_Arena_%2830.12.2017%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 225,
+          "height": 127,
+          "originalWidth": 960,
+          "originalHeight": 541,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The Sports Arena in 2017"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Al-Shaba_Sports_Arena&revid=1349933367&groups=_b633e22fe5441c88adc89863f58307f9d76db2a9&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Al-Shaba_Sports_Arena&revid=1349933367&groups=_b633e22fe5441c88adc89863f58307f9d76db2a9&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Al-Shaba Sports Arena"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/40px-Flag_of_Syria_%282025-%29.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/60px-Flag_of_Syria_%282025-%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Syria",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Al-Assad hall Aleppo.jpg",
+          "fileName": "Al-Assad hall Aleppo.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Al-Assad_hall_Aleppo.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Al-Assad_hall_Aleppo.jpg/250px-Al-Assad_hall_Aleppo.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Al-Assad_hall_Aleppo.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Al-Assad_hall_Aleppo.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Al-Assad_hall_Aleppo.jpg/500px-Al-Assad_hall_Aleppo.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 166,
+          "originalWidth": 800,
+          "originalHeight": 531,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Al-Shaba Sports Arena in 2011"
+        },
+        {
+          "fileTitle": "File:Flag of Syria (2025-).svg",
+          "fileName": "Flag of Syria (2025-).svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Syria_(2025-).svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/40px-Flag_of_Syria_%282025-%29.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Syria_(2025-).svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Syria_(2025-).svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Flag_of_Syria_%282025-%29.svg/60px-Flag_of_Syria_%282025-%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Flag of Syria",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 421,
+          "rowText": "Syria\nAleppo\nAl-Assad Sports Arena\n1978\n5,000",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Syria\" title=\"Syria\">Syria</a>\n</td>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Aleppo\" title=\"Aleppo\">Aleppo</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Al-Assad_Sports_Arena\" class=\"mw-redirect\" title=\"Al-Assad Sports Arena\">Al-Assad Sports Arena</a>\n</td>\n<td>1978\n</td>\n<td>5,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 421,
+              "cell": {
+                "text": "Syria",
+                "lines": [
+                  "Syria"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Syria",
+                    "title": "Syria",
+                    "wikiTitle": "Syria",
+                    "href": "https://en.wikipedia.org/wiki/Syria",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 421,
+              "cell": {
+                "text": "Aleppo",
+                "lines": [
+                  "Aleppo"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Aleppo",
+                    "title": "Aleppo",
+                    "wikiTitle": "Aleppo",
+                    "href": "https://en.wikipedia.org/wiki/Aleppo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 421,
+              "cell": {
+                "text": "Al-Assad Sports Arena",
+                "lines": [
+                  "Al-Assad Sports Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Al-Assad Sports Arena",
+                    "title": "Al-Assad Sports Arena",
+                    "wikiTitle": "Al-Assad Sports Arena",
+                    "href": "https://en.wikipedia.org/wiki/Al-Assad_Sports_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 421,
+              "cell": {
+                "text": "1978",
+                "lines": [
+                  "1978"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 421,
+              "cell": {
+                "text": "5,000",
+                "lines": [
+                  "5,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 421,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Al-Assad Sports Arena",
+            "lines": [
+              "Al-Assad Sports Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Al-Assad Sports Arena",
+                "title": "Al-Assad Sports Arena",
+                "wikiTitle": "Al-Assad Sports Arena",
+                "href": "https://en.wikipedia.org/wiki/Al-Assad_Sports_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:42.912Z"
+    }
+  ]
+}

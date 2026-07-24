@@ -1,0 +1,648 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Saudi Arabia",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 2,
+    "sourceTypeCounts": {
+      "world_master_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-22790898",
+      "pageId": 22790898,
+      "revisionId": null,
+      "title": "GPYW Indoor Stadium",
+      "displayTitle": "GPYW Indoor Stadium",
+      "url": "https://en.wikipedia.org/wiki/GPYW_Indoor_Stadium",
+      "wikidataItem": "Q5514361",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5514361",
+      "aliases": [
+        "GPYW Indoor Stadium"
+      ],
+      "requestedTitles": [
+        "GPYW Indoor Stadium"
+      ],
+      "sourceLinkTexts": [
+        "GPYW Indoor Stadium"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/GPYW_Indoor_Stadium"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 24.66028,
+        "longitude": 46.72611,
+        "raw": "24.66028; 46.72611"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "GPYW Indoor Stadium",
+        "groups": [
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "General Presidency of Youth Welfare Indoor Stadium",
+            "lines": [
+              "General Presidency of Youth Welfare Indoor Stadium"
+            ],
+            "html": "<td class=\"infobox-data\">General Presidency of Youth Welfare Indoor Stadium</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Riyadh, Saudi Arabia",
+            "lines": [
+              "Riyadh, Saudi Arabia"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Riyadh\" title=\"Riyadh\">Riyadh</a>, <a href=\"https://en.wikipedia.org/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>",
+            "links": [
+              {
+                "text": "Riyadh",
+                "title": "Riyadh",
+                "wikiTitle": "Riyadh",
+                "href": "https://en.wikipedia.org/wiki/Riyadh",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Saudi Arabia",
+                "title": "Saudi Arabia",
+                "wikiTitle": "Saudi Arabia",
+                "href": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "24°39′37″N 46°43′34″E﻿ / ﻿24.66028°N 46.72611°E﻿ / 24.66028; 46.72611",
+            "lines": [
+              "24°39′37″N 46°43′34″E﻿ / ﻿24.66028°N 46.72611°E﻿ / 24.66028; 46.72611"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=GPYW_Indoor_Stadium&amp;params=24_39_37_N_46_43_34_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">24°39′37″N</span> <span class=\"longitude\">46°43′34″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">24.66028°N 46.72611°E</span><span>﻿ / <span class=\"geo\">24.66028; 46.72611</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "24°39′37″N 46°43′34″E﻿ / ﻿24.66028°N 46.72611°E﻿ / 24.66028; 46.72611",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=GPYW_Indoor_Stadium&params=24_39_37_N_46_43_34_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "5,000",
+            "lines": [
+              "5,000"
+            ],
+            "html": "<td class=\"infobox-data\">5,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Al-Hilal",
+            "lines": [
+              "Al-Hilal"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Al-Hilal_(basketball)\" class=\"mw-redirect\" title=\"Al-Hilal (basketball)\">Al-Hilal</a></td>",
+            "links": [
+              {
+                "text": "Al-Hilal",
+                "title": "Al-Hilal (basketball)",
+                "wikiTitle": "Al-Hilal (basketball)",
+                "href": "https://en.wikipedia.org/wiki/Al-Hilal_(basketball)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "General Presidency of Youth Welfare Indoor Stadium",
+              "lines": [
+                "General Presidency of Youth Welfare Indoor Stadium"
+              ],
+              "html": "<td class=\"infobox-data\">General Presidency of Youth Welfare Indoor Stadium</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Riyadh, Saudi Arabia",
+              "lines": [
+                "Riyadh, Saudi Arabia"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Riyadh\" title=\"Riyadh\">Riyadh</a>, <a href=\"https://en.wikipedia.org/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td>",
+              "links": [
+                {
+                  "text": "Riyadh",
+                  "title": "Riyadh",
+                  "wikiTitle": "Riyadh",
+                  "href": "https://en.wikipedia.org/wiki/Riyadh",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Saudi Arabia",
+                  "title": "Saudi Arabia",
+                  "wikiTitle": "Saudi Arabia",
+                  "href": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "24°39′37″N 46°43′34″E﻿ / ﻿24.66028°N 46.72611°E﻿ / 24.66028; 46.72611",
+              "lines": [
+                "24°39′37″N 46°43′34″E﻿ / ﻿24.66028°N 46.72611°E﻿ / 24.66028; 46.72611"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=GPYW_Indoor_Stadium&amp;params=24_39_37_N_46_43_34_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">24°39′37″N</span> <span class=\"longitude\">46°43′34″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">24.66028°N 46.72611°E</span><span>﻿ / <span class=\"geo\">24.66028; 46.72611</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "24°39′37″N 46°43′34″E﻿ / ﻿24.66028°N 46.72611°E﻿ / 24.66028; 46.72611",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=GPYW_Indoor_Stadium&params=24_39_37_N_46_43_34_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "5,000",
+              "lines": [
+                "5,000"
+              ],
+              "html": "<td class=\"infobox-data\">5,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Al-Hilal",
+              "lines": [
+                "Al-Hilal"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Al-Hilal_(basketball)\" class=\"mw-redirect\" title=\"Al-Hilal (basketball)\">Al-Hilal</a></td>",
+              "links": [
+                {
+                  "text": "Al-Hilal",
+                  "title": "Al-Hilal (basketball)",
+                  "wikiTitle": "Al-Hilal (basketball)",
+                  "href": "https://en.wikipedia.org/wiki/Al-Hilal_(basketball)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "General Presidency of Youth Welfare Indoor Stadium"
+          ],
+          "location": [
+            "Riyadh, Saudi Arabia"
+          ],
+          "coordinates": [
+            "24°39′37″N 46°43′34″E﻿ / ﻿24.66028°N 46.72611°E﻿ / 24.66028; 46.72611"
+          ],
+          "capacity": [
+            "5,000"
+          ],
+          "tenants": [
+            "Al-Hilal"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "5,000"
+        ],
+        "tenants": [
+          "Al-Hilal"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=GPYW_Indoor_Stadium&revid=1329797780&groups=_b5c60ec7f148f1d106e4b6dce6101de6f084a968&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=GPYW_Indoor_Stadium&revid=1329797780&groups=_b5c60ec7f148f1d106e4b6dce6101de6f084a968&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of GPYW Indoor Stadium"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">GPYW Indoor Stadium</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_b5c60ec7f148f1d106e4b6dce6101de6f084a968&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=GPYW_Indoor_Stadium&amp;revid=1329797780&amp;groups=_b5c60ec7f148f1d106e4b6dce6101de6f084a968&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=GPYW_Indoor_Stadium&amp;revid=1329797780&amp;groups=_b5c60ec7f148f1d106e4b6dce6101de6f084a968&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of GPYW Indoor Stadium</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">General Presidency of Youth Welfare Indoor Stadium</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Riyadh\" title=\"Riyadh\">Riyadh</a>, <a href=\"https://en.wikipedia.org/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=GPYW_Indoor_Stadium&amp;params=24_39_37_N_46_43_34_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">24°39′37″N</span> <span class=\"longitude\">46°43′34″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">24.66028°N 46.72611°E</span><span>﻿ / <span class=\"geo\">24.66028; 46.72611</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">5,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Al-Hilal_(basketball)\" class=\"mw-redirect\" title=\"Al-Hilal (basketball)\">Al-Hilal</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_Arabic-language_sources_(ar)",
+        "Indoor_arenas_in_Saudi_Arabia",
+        "Basketball_venues_in_Saudi_Arabia",
+        "Volleyball_venues_in_Saudi_Arabia",
+        "All_stub_articles",
+        "Middle_Eastern_sports_venue_stubs",
+        "Saudi_Arabian_sport_stubs",
+        "Saudi_Arabian_building_and_structure_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=GPYW_Indoor_Stadium&params=24_39_37_N_46_43_34_E_type:landmark",
+        "https://web.archive.org/web/20100722091233/http://www.gpyw.gov.sa/",
+        "https://web.archive.org/web/20090215024023/http://www.saudiembassy.net/Publications/MagSummer96/sports.html"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Flag_of_Saudi_Arabia.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=GPYW_Indoor_Stadium&revid=1329797780&groups=_b5c60ec7f148f1d106e4b6dce6101de6f084a968&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=GPYW_Indoor_Stadium&revid=1329797780&groups=_b5c60ec7f148f1d106e4b6dce6101de6f084a968&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of GPYW Indoor Stadium"
+        },
+        {
+          "fileTitle": "File:Flag of Saudi Arabia.svg",
+          "fileName": "Flag of Saudi Arabia.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Saudi_Arabia.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/40px-Flag_of_Saudi_Arabia.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Saudi_Arabia.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Saudi_Arabia.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/60px-Flag_of_Saudi_Arabia.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 417,
+          "rowText": "Saudi Arabia\nRiyadh\nGPYW Indoor Stadium\n5,000\nAl-Hilal",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Saudi_Arabia\" title=\"Saudi Arabia\">Saudi Arabia</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Riyadh\" title=\"Riyadh\">Riyadh</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/GPYW_Indoor_Stadium\" title=\"GPYW Indoor Stadium\">GPYW Indoor Stadium</a>\n</td>\n<td>\n</td>\n<td>5,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Al-Hilal_(basketball)\" class=\"mw-redirect\" title=\"Al-Hilal (basketball)\">Al-Hilal</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 417,
+              "cell": {
+                "text": "Saudi Arabia",
+                "lines": [
+                  "Saudi Arabia"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Saudi Arabia",
+                    "title": "Saudi Arabia",
+                    "wikiTitle": "Saudi Arabia",
+                    "href": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 417,
+              "cell": {
+                "text": "Riyadh",
+                "lines": [
+                  "Riyadh"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Riyadh",
+                    "title": "Riyadh",
+                    "wikiTitle": "Riyadh",
+                    "href": "https://en.wikipedia.org/wiki/Riyadh",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 417,
+              "cell": {
+                "text": "GPYW Indoor Stadium",
+                "lines": [
+                  "GPYW Indoor Stadium"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "GPYW Indoor Stadium",
+                    "title": "GPYW Indoor Stadium",
+                    "wikiTitle": "GPYW Indoor Stadium",
+                    "href": "https://en.wikipedia.org/wiki/GPYW_Indoor_Stadium",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 417,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 417,
+              "cell": {
+                "text": "5,000",
+                "lines": [
+                  "5,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 417,
+              "cell": {
+                "text": "Al-Hilal",
+                "lines": [
+                  "Al-Hilal"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Al-Hilal",
+                    "title": "Al-Hilal (basketball)",
+                    "wikiTitle": "Al-Hilal (basketball)",
+                    "href": "https://en.wikipedia.org/wiki/Al-Hilal_(basketball)",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "GPYW Indoor Stadium",
+            "lines": [
+              "GPYW Indoor Stadium"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "GPYW Indoor Stadium",
+                "title": "GPYW Indoor Stadium",
+                "wikiTitle": "GPYW Indoor Stadium",
+                "href": "https://en.wikipedia.org/wiki/GPYW_Indoor_Stadium",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:41.506Z"
+    }
+  ]
+}

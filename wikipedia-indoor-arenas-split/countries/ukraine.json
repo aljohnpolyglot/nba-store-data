@@ -1,0 +1,2484 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Ukraine",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 2
+  },
+  "stats": {
+    "arenaCount": 2,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 20,
+    "sourceTypeCounts": {
+      "world_master_list": 2
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-18334671",
+      "pageId": 18334671,
+      "revisionId": null,
+      "title": "Illichivets Indoor Sports Complex",
+      "displayTitle": "Illichivets Indoor Sports Complex",
+      "url": "https://en.wikipedia.org/wiki/Illichivets_Indoor_Sports_Complex",
+      "wikidataItem": "Q4438163",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q4438163",
+      "aliases": [
+        "Sportkompleks Illichivets",
+        "Illichivets Indoor Sports Complex"
+      ],
+      "requestedTitles": [
+        "Sportkompleks Illichivets"
+      ],
+      "sourceLinkTexts": [
+        "Sportkompleks Illichivets"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Sportkompleks_Illichivets"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 47.0875,
+        "longitude": 37.52889,
+        "raw": "47.08750; 37.52889"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Illichivets Indoor Sports Complex",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Nakhimova Avenue 53, Mariupol, Donetsk Oblast",
+            "lines": [
+              "Nakhimova Avenue 53, Mariupol, Donetsk Oblast"
+            ],
+            "html": "<td class=\"infobox-data label\">Nakhimova Avenue 53, <a href=\"https://en.wikipedia.org/wiki/Mariupol\" title=\"Mariupol\">Mariupol</a>, <a href=\"https://en.wikipedia.org/wiki/Donetsk_Oblast\" title=\"Donetsk Oblast\">Donetsk Oblast</a></td>",
+            "links": [
+              {
+                "text": "Mariupol",
+                "title": "Mariupol",
+                "wikiTitle": "Mariupol",
+                "href": "https://en.wikipedia.org/wiki/Mariupol",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Donetsk Oblast",
+                "title": "Donetsk Oblast",
+                "wikiTitle": "Donetsk Oblast",
+                "href": "https://en.wikipedia.org/wiki/Donetsk_Oblast",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "47°05′15″N 37°31′44″E﻿ / ﻿47.08750°N 37.52889°E﻿ / 47.08750; 37.52889",
+            "lines": [
+              "47°05′15″N 37°31′44″E﻿ / ﻿47.08750°N 37.52889°E﻿ / 47.08750; 37.52889"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Illichivets_Indoor_Sports_Complex&amp;params=47_05_15_N_37_31_44_E_type:landmark_region:UA\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">47°05′15″N</span> <span class=\"longitude\">37°31′44″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">47.08750°N 37.52889°E</span><span>﻿ / <span class=\"geo\">47.08750; 37.52889</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "47°05′15″N 37°31′44″E﻿ / ﻿47.08750°N 37.52889°E﻿ / 47.08750; 37.52889",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Illichivets_Indoor_Sports_Complex&params=47_05_15_N_37_31_44_E_type:landmark_region:UA",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "5,500",
+            "lines": [
+              "5,500"
+            ],
+            "html": "<td class=\"infobox-data\">5,500</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Field size",
+            "key": "field_size",
+            "group": null,
+            "text": "168 m × 136 m (551 ft × 446 ft)",
+            "lines": [
+              "168 m × 136 m (551 ft × 446 ft)"
+            ],
+            "html": "<td class=\"infobox-data\">168&nbsp;m ×&nbsp;136&nbsp;m (551&nbsp;ft ×&nbsp;446&nbsp;ft)</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-SA-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-SA-1"
+              }
+            ]
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "November 2005",
+            "lines": [
+              "November 2005"
+            ],
+            "html": "<td class=\"infobox-data\">November 2005</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "9 May 2007",
+            "lines": [
+              "9 May 2007"
+            ],
+            "html": "<td class=\"infobox-data\">9 May 2007</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2024",
+            "lines": [
+              "2024"
+            ],
+            "html": "<td class=\"infobox-data\">2024</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Mariupol Metallurgical Plant",
+            "lines": [
+              "Mariupol Metallurgical Plant"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Illich_Steel_and_Iron_Works\" title=\"Illich Steel and Iron Works\">Mariupol Metallurgical Plant</a></td>",
+            "links": [
+              {
+                "text": "Mariupol Metallurgical Plant",
+                "title": "Illich Steel and Iron Works",
+                "wikiTitle": "Illich Steel and Iron Works",
+                "href": "https://en.wikipedia.org/wiki/Illich_Steel_and_Iron_Works",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "FC Avanhard Kramatorsk (football) (until 2022)",
+            "lines": [
+              "FC Avanhard Kramatorsk (football) (until 2022)"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/FC_Avanhard_Kramatorsk\" class=\"mw-redirect\" title=\"FC Avanhard Kramatorsk\">FC Avanhard Kramatorsk</a> (football) (until 2022)</td>",
+            "links": [
+              {
+                "text": "FC Avanhard Kramatorsk",
+                "title": "FC Avanhard Kramatorsk",
+                "wikiTitle": "FC Avanhard Kramatorsk",
+                "href": "https://en.wikipedia.org/wiki/FC_Avanhard_Kramatorsk",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Nakhimova Avenue 53, Mariupol, Donetsk Oblast",
+              "lines": [
+                "Nakhimova Avenue 53, Mariupol, Donetsk Oblast"
+              ],
+              "html": "<td class=\"infobox-data label\">Nakhimova Avenue 53, <a href=\"https://en.wikipedia.org/wiki/Mariupol\" title=\"Mariupol\">Mariupol</a>, <a href=\"https://en.wikipedia.org/wiki/Donetsk_Oblast\" title=\"Donetsk Oblast\">Donetsk Oblast</a></td>",
+              "links": [
+                {
+                  "text": "Mariupol",
+                  "title": "Mariupol",
+                  "wikiTitle": "Mariupol",
+                  "href": "https://en.wikipedia.org/wiki/Mariupol",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Donetsk Oblast",
+                  "title": "Donetsk Oblast",
+                  "wikiTitle": "Donetsk Oblast",
+                  "href": "https://en.wikipedia.org/wiki/Donetsk_Oblast",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "47°05′15″N 37°31′44″E﻿ / ﻿47.08750°N 37.52889°E﻿ / 47.08750; 37.52889",
+              "lines": [
+                "47°05′15″N 37°31′44″E﻿ / ﻿47.08750°N 37.52889°E﻿ / 47.08750; 37.52889"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Illichivets_Indoor_Sports_Complex&amp;params=47_05_15_N_37_31_44_E_type:landmark_region:UA\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">47°05′15″N</span> <span class=\"longitude\">37°31′44″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">47.08750°N 37.52889°E</span><span>﻿ / <span class=\"geo\">47.08750; 37.52889</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "47°05′15″N 37°31′44″E﻿ / ﻿47.08750°N 37.52889°E﻿ / 47.08750; 37.52889",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Illichivets_Indoor_Sports_Complex&params=47_05_15_N_37_31_44_E_type:landmark_region:UA",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "5,500",
+              "lines": [
+                "5,500"
+              ],
+              "html": "<td class=\"infobox-data\">5,500</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "field_size": [
+            {
+              "label": "Field size",
+              "key": "field_size",
+              "group": null,
+              "text": "168 m × 136 m (551 ft × 446 ft)",
+              "lines": [
+                "168 m × 136 m (551 ft × 446 ft)"
+              ],
+              "html": "<td class=\"infobox-data\">168&nbsp;m ×&nbsp;136&nbsp;m (551&nbsp;ft ×&nbsp;446&nbsp;ft)</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-SA-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-SA-1"
+                }
+              ]
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "November 2005",
+              "lines": [
+                "November 2005"
+              ],
+              "html": "<td class=\"infobox-data\">November 2005</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "9 May 2007",
+              "lines": [
+                "9 May 2007"
+              ],
+              "html": "<td class=\"infobox-data\">9 May 2007</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2024",
+              "lines": [
+                "2024"
+              ],
+              "html": "<td class=\"infobox-data\">2024</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Mariupol Metallurgical Plant",
+              "lines": [
+                "Mariupol Metallurgical Plant"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Illich_Steel_and_Iron_Works\" title=\"Illich Steel and Iron Works\">Mariupol Metallurgical Plant</a></td>",
+              "links": [
+                {
+                  "text": "Mariupol Metallurgical Plant",
+                  "title": "Illich Steel and Iron Works",
+                  "wikiTitle": "Illich Steel and Iron Works",
+                  "href": "https://en.wikipedia.org/wiki/Illich_Steel_and_Iron_Works",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "FC Avanhard Kramatorsk (football) (until 2022)",
+              "lines": [
+                "FC Avanhard Kramatorsk (football) (until 2022)"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/FC_Avanhard_Kramatorsk\" class=\"mw-redirect\" title=\"FC Avanhard Kramatorsk\">FC Avanhard Kramatorsk</a> (football) (until 2022)</td>",
+              "links": [
+                {
+                  "text": "FC Avanhard Kramatorsk",
+                  "title": "FC Avanhard Kramatorsk",
+                  "wikiTitle": "FC Avanhard Kramatorsk",
+                  "href": "https://en.wikipedia.org/wiki/FC_Avanhard_Kramatorsk",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Nakhimova Avenue 53, Mariupol, Donetsk Oblast"
+          ],
+          "coordinates": [
+            "47°05′15″N 37°31′44″E﻿ / ﻿47.08750°N 37.52889°E﻿ / 47.08750; 37.52889"
+          ],
+          "capacity": [
+            "5,500"
+          ],
+          "field_size": [
+            "168 m × 136 m (551 ft × 446 ft)"
+          ],
+          "groundbreaking": [
+            "November 2005"
+          ],
+          "opened": [
+            "9 May 2007"
+          ],
+          "renovated": [
+            "2024"
+          ],
+          "architect": [
+            "Mariupol Metallurgical Plant"
+          ],
+          "tenants": [
+            "FC Avanhard Kramatorsk (football) (until 2022)"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "5,500"
+        ],
+        "tenants": [
+          "FC Avanhard Kramatorsk (football) (until 2022)"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Спорткомплекс Ильичевец - panoramio.jpg",
+            "fileName": "Спорткомплекс Ильичевец - panoramio.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg/250px-%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg/500px-%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 139,
+            "originalWidth": 1080,
+            "originalHeight": 602,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Illichivets_Indoor_Sports_Complex&revid=1329801471&groups=_8c59e436627bde2c1b80730d24d72c9d283ae48a&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Illichivets_Indoor_Sports_Complex&revid=1329801471&groups=_8c59e436627bde2c1b80730d24d72c9d283ae48a&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Illichivets Indoor Sports Complex"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Illichivets Indoor Sports Complex</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\">Illichivets Sports Complex</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg/250px-%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg\" width=\"250\" height=\"139\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg/500px-%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg 2x\" data-file-width=\"1080\" data-file-height=\"602\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_8c59e436627bde2c1b80730d24d72c9d283ae48a&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Illichivets_Indoor_Sports_Complex&amp;revid=1329801471&amp;groups=_8c59e436627bde2c1b80730d24d72c9d283ae48a&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Illichivets_Indoor_Sports_Complex&amp;revid=1329801471&amp;groups=_8c59e436627bde2c1b80730d24d72c9d283ae48a&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Illichivets Indoor Sports Complex</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">Nakhimova Avenue 53, <a href=\"https://en.wikipedia.org/wiki/Mariupol\" title=\"Mariupol\">Mariupol</a>, <a href=\"https://en.wikipedia.org/wiki/Donetsk_Oblast\" title=\"Donetsk Oblast\">Donetsk Oblast</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Illichivets_Indoor_Sports_Complex&amp;params=47_05_15_N_37_31_44_E_type:landmark_region:UA\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">47°05′15″N</span> <span class=\"longitude\">37°31′44″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">47.08750°N 37.52889°E</span><span>﻿ / <span class=\"geo\">47.08750; 37.52889</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">5,500</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Field size</div></th><td class=\"infobox-data\">168&nbsp;m ×&nbsp;136&nbsp;m (551&nbsp;ft ×&nbsp;446&nbsp;ft)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">November 2005</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">9 May 2007</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2024</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Illich_Steel_and_Iron_Works\" title=\"Illich Steel and Iron Works\">Mariupol Metallurgical Plant</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/FC_Avanhard_Kramatorsk\" class=\"mw-redirect\" title=\"FC Avanhard Kramatorsk\">FC Avanhard Kramatorsk</a> (football) (until 2022)</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Ukrainian-language_sources_(uk)",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Use_dmy_dates_from_December_2024",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Articles_containing_Ukrainian-language_text",
+        "Articles_containing_Russian-language_text",
+        "Commons_category_link_from_Wikidata",
+        "Articles_with_Russian-language_sources_(ru)",
+        "Indoor_arenas_in_Ukraine",
+        "Sport_in_Mariupol",
+        "Sports_venues_in_Donetsk_Oblast",
+        "Basketball_venues_in_Ukraine",
+        "Football_venues_in_Donetsk_Oblast",
+        "Former_buildings_and_structures_in_Ukraine",
+        "Sports_venues_completed_in_2007",
+        "2007_establishments_in_Ukraine",
+        "All_stub_articles",
+        "Ukrainian_sports_venue_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Illichivets_Indoor_Sports_Complex&params=47_05_15_N_37_31_44_E_type:landmark_region:UA",
+        "https://www.systemair.com/za/about-us/references/sports-complex-illichivets/",
+        "https://touristl.com/listing/illichivets-sports-complex/",
+        "http://www.stc.kiev.ua/nashi-roboti/327-krytyj-sportivnyj-kompleks-ilichevets.html",
+        "https://fcmariupol.com/illychyvets-stadium/",
+        "https://news.storyua.com/Sport/13687.html",
+        "https://glavcom.ua/country/society/u-mariupoli-diti-pokazali-yakiy-viglyad-zaraz-maje-stadion-video-862309.html",
+        "https://www.bbc.co.uk/news/resources/idt-ca98fa24-29a3-4c74-aa7d-ce38f756270d"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "General information",
+          "anchor": "General_information"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Sporting events",
+          "anchor": "Sporting_events"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Gallery",
+          "anchor": "Gallery"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Панорама_спорткомплекса_Ильичевец_-_panoramio.jpg",
+        "Строительство_спорткомплекса_«Ильичёвец»_03.jpg",
+        "Мариуполь,_строительство_спорткомплекса_«Ильичёвец»_02.jpg",
+        "Мариуполь,_строительство_спорткомплекса_«Ильичёвец»_01.jpg",
+        "Illichivets_Sports_Complex,_Mariupol2.jpg",
+        "Спорткомплекс_Ильичевец_-_panoramio.jpg",
+        "Mariupol_Illichivets_Sports_Complex.jpg",
+        "Flag_of_Ukraine.svg",
+        "Commons-logo.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Спорткомплекс Ильичевец - panoramio.jpg",
+          "fileName": "Спорткомплекс Ильичевец - panoramio.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg/250px-%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg/500px-%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 139,
+          "originalWidth": 1080,
+          "originalHeight": 602,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Illichivets_Indoor_Sports_Complex&revid=1329801471&groups=_8c59e436627bde2c1b80730d24d72c9d283ae48a&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Illichivets_Indoor_Sports_Complex&revid=1329801471&groups=_8c59e436627bde2c1b80730d24d72c9d283ae48a&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Illichivets Indoor Sports Complex"
+        },
+        {
+          "fileTitle": "File:Mariupol Illichivets Sports Complex.jpg",
+          "fileName": "Mariupol Illichivets Sports Complex.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Mariupol_Illichivets_Sports_Complex.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mariupol_Illichivets_Sports_Complex.jpg/250px-Mariupol_Illichivets_Sports_Complex.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mariupol_Illichivets_Sports_Complex.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Mariupol_Illichivets_Sports_Complex.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mariupol_Illichivets_Sports_Complex.jpg/500px-Mariupol_Illichivets_Sports_Complex.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 101,
+          "originalWidth": 1511,
+          "originalHeight": 613,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Indoor football field with artificial turf"
+        },
+        {
+          "fileTitle": "File:Панорама спорткомплекса Ильичевец - panoramio.jpg",
+          "fileName": "Панорама спорткомплекса Ильичевец - panoramio.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg/120px-%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg/250px-%D0%9F%D0%B0%D0%BD%D0%BE%D1%80%D0%B0%D0%BC%D0%B0_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D0%B5%D0%B2%D0%B5%D1%86_-_panoramio.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 65,
+          "originalWidth": 1300,
+          "originalHeight": 699,
+          "fileType": null,
+          "alt": "Illichivets Sports Complex building",
+          "title": "Illichivets Sports Complex building",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Строительство спорткомплекса «Ильичёвец» 03.jpg",
+          "fileName": "Строительство спорткомплекса «Ильичёвец» 03.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_03.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_03.jpg/120px-%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_03.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_03.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_03.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_03.jpg/250px-%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_03.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 69,
+          "originalWidth": 2100,
+          "originalHeight": 1200,
+          "fileType": null,
+          "alt": "Construction in February 2006",
+          "title": "Construction in February 2006",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Мариуполь, строительство спорткомплекса «Ильичёвец» 02.jpg",
+          "fileName": "Мариуполь, строительство спорткомплекса «Ильичёвец» 02.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C,_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_02.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C%2C_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_02.jpg/120px-%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C%2C_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_02.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C%2C_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_02.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C%2C_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_02.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C%2C_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_02.jpg/250px-%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C%2C_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_02.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 82,
+          "originalWidth": 1024,
+          "originalHeight": 700,
+          "fileType": null,
+          "alt": "Construction in July 2006",
+          "title": "Construction in July 2006",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Мариуполь, строительство спорткомплекса «Ильичёвец» 01.jpg",
+          "fileName": "Мариуполь, строительство спорткомплекса «Ильичёвец» 01.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C,_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_01.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C%2C_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_01.jpg/120px-%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C%2C_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_01.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C%2C_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_01.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C%2C_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_01.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C%2C_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_01.jpg/250px-%D0%9C%D0%B0%D1%80%D0%B8%D1%83%D0%BF%D0%BE%D0%BB%D1%8C%2C_%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%B0_%C2%AB%D0%98%D0%BB%D1%8C%D0%B8%D1%87%D1%91%D0%B2%D0%B5%D1%86%C2%BB_01.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 120,
+          "originalWidth": 1000,
+          "originalHeight": 1000,
+          "fileType": null,
+          "alt": "Construction in September 2006",
+          "title": "Construction in September 2006",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Illichivets Sports Complex, Mariupol2.jpg",
+          "fileName": "Illichivets Sports Complex, Mariupol2.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Illichivets_Sports_Complex,_Mariupol2.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Illichivets_Sports_Complex%2C_Mariupol2.jpg/120px-Illichivets_Sports_Complex%2C_Mariupol2.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Illichivets_Sports_Complex%2C_Mariupol2.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Illichivets_Sports_Complex%2C_Mariupol2.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Illichivets_Sports_Complex%2C_Mariupol2.jpg/250px-Illichivets_Sports_Complex%2C_Mariupol2.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 90,
+          "originalWidth": 800,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Complex entrance",
+          "title": "Complex entrance",
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "icon",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/40px-Flag_of_Ukraine.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/120px-Flag_of_Ukraine.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 32,
+          "height": 21,
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "fileType": null,
+          "alt": "flag",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Flag of Ukraine.svg",
+          "fileName": "Flag of Ukraine.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Ukraine.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/40px-Flag_of_Ukraine.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Ukraine.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Ukraine.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/60px-Flag_of_Ukraine.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 1044,
+          "rowText": "Mariupol\nSportkompleks Illichivets\n2007\n12,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Mariupol\" title=\"Mariupol\">Mariupol</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Sportkompleks_Illichivets\" class=\"mw-redirect\" title=\"Sportkompleks Illichivets\">Sportkompleks Illichivets</a>\n</td>\n<td>2007\n</td>\n<td>12,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 1043,
+              "cell": {
+                "text": "Ukraine",
+                "lines": [
+                  "Ukraine"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ukraine",
+                    "title": "Ukraine",
+                    "wikiTitle": "Ukraine",
+                    "href": "https://en.wikipedia.org/wiki/Ukraine",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1044,
+              "cell": {
+                "text": "Mariupol",
+                "lines": [
+                  "Mariupol"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Mariupol",
+                    "title": "Mariupol",
+                    "wikiTitle": "Mariupol",
+                    "href": "https://en.wikipedia.org/wiki/Mariupol",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1044,
+              "cell": {
+                "text": "Sportkompleks Illichivets",
+                "lines": [
+                  "Sportkompleks Illichivets"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Sportkompleks Illichivets",
+                    "title": "Sportkompleks Illichivets",
+                    "wikiTitle": "Sportkompleks Illichivets",
+                    "href": "https://en.wikipedia.org/wiki/Sportkompleks_Illichivets",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1044,
+              "cell": {
+                "text": "2007",
+                "lines": [
+                  "2007"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1044,
+              "cell": {
+                "text": "12,000",
+                "lines": [
+                  "12,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1044,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Sportkompleks Illichivets",
+            "lines": [
+              "Sportkompleks Illichivets"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Sportkompleks Illichivets",
+                "title": "Sportkompleks Illichivets",
+                "wikiTitle": "Sportkompleks Illichivets",
+                "href": "https://en.wikipedia.org/wiki/Sportkompleks_Illichivets",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:49:31.036Z"
+    },
+    {
+      "id": "wikipedia-page-1082452",
+      "pageId": 1082452,
+      "revisionId": null,
+      "title": "Palace of Sports, Kyiv",
+      "displayTitle": "Palace of Sports, Kyiv",
+      "url": "https://en.wikipedia.org/wiki/Palace_of_Sports,_Kyiv",
+      "wikidataItem": "Q32966",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q32966",
+      "aliases": [
+        "Palace of Sports, Kyiv",
+        "Palats Sportu",
+        "Palace of Sports"
+      ],
+      "requestedTitles": [
+        "Palace of Sports, Kyiv"
+      ],
+      "sourceLinkTexts": [
+        "Palats Sportu"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Palace_of_Sports,_Kyiv"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 50.43722,
+        "longitude": 30.52222,
+        "raw": "50.43722; 30.52222"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Palace of Sports",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Shevchenko, Kyiv, Ukraine",
+            "lines": [
+              "Shevchenko, Kyiv, Ukraine"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Shevchenkivskyi_District,_Kyiv\" title=\"Shevchenkivskyi District, Kyiv\">Shevchenko</a>, <a href=\"https://en.wikipedia.org/wiki/Kyiv\" title=\"Kyiv\">Kyiv</a>, <a href=\"https://en.wikipedia.org/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td>",
+            "links": [
+              {
+                "text": "Shevchenko",
+                "title": "Shevchenkivskyi District, Kyiv",
+                "wikiTitle": "Shevchenkivskyi District, Kyiv",
+                "href": "https://en.wikipedia.org/wiki/Shevchenkivskyi_District,_Kyiv",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Kyiv",
+                "title": "Kyiv",
+                "wikiTitle": "Kyiv",
+                "href": "https://en.wikipedia.org/wiki/Kyiv",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Ukraine",
+                "title": "Ukraine",
+                "wikiTitle": "Ukraine",
+                "href": "https://en.wikipedia.org/wiki/Ukraine",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "50°26′14″N 30°31′20″E﻿ / ﻿50.43722°N 30.52222°E﻿ / 50.43722; 30.52222",
+            "lines": [
+              "50°26′14″N 30°31′20″E﻿ / ﻿50.43722°N 30.52222°E﻿ / 50.43722; 30.52222"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Palace_of_Sports,_Kyiv&amp;params=50_26_14_N_30_31_20_E_type:landmark_region:UA\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">50°26′14″N</span> <span class=\"longitude\">30°31′20″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">50.43722°N 30.52222°E</span><span>﻿ / <span class=\"geo\">50.43722; 30.52222</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "50°26′14″N 30°31′20″E﻿ / ﻿50.43722°N 30.52222°E﻿ / 50.43722; 30.52222",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Palace_of_Sports,_Kyiv&params=50_26_14_N_30_31_20_E_type:landmark_region:UA",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Kyivskyi Palats Sportu CJSC",
+            "lines": [
+              "Kyivskyi Palats Sportu CJSC"
+            ],
+            "html": "<td class=\"infobox-data agent\">Kyivskyi Palats Sportu CJSC</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "Concerts: 10,000\nIce hockey: ≤7,000",
+            "lines": [
+              "Concerts: 10,000",
+              "Ice hockey: ≤7,000"
+            ],
+            "html": "<td class=\"infobox-data\">Concerts: 10,000<br> <a href=\"https://en.wikipedia.org/wiki/Ice_hockey\" title=\"Ice hockey\">Ice hockey</a>: ≤7,000</td>",
+            "links": [
+              {
+                "text": "Ice hockey",
+                "title": "Ice hockey",
+                "wikiTitle": "Ice hockey",
+                "href": "https://en.wikipedia.org/wiki/Ice_hockey",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Surface",
+            "key": "surface",
+            "group": null,
+            "text": "floor/ice variable",
+            "lines": [
+              "floor/ice variable"
+            ],
+            "html": "<td class=\"infobox-data\">floor/ice variable</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Field size",
+            "key": "field_size",
+            "group": null,
+            "text": "66 m x 102 m",
+            "lines": [
+              "66 m x 102 m"
+            ],
+            "html": "<td class=\"infobox-data\">66 m x 102 m</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Public transit",
+            "key": "public_transit",
+            "group": null,
+            "text": "Kyiv Metro:\nat Ploshcha Ukrainskykh Heroiv\nat Palats Sportu",
+            "lines": [
+              "Kyiv Metro:",
+              "at Ploshcha Ukrainskykh Heroiv",
+              "at Palats Sportu"
+            ],
+            "html": "<td class=\"infobox-data\"><b><a href=\"https://en.wikipedia.org/wiki/Kyiv_Metro\" title=\"Kyiv Metro\">Kyiv Metro</a>:</b> <br> <span><a href=\"https://en.wikipedia.org/wiki/Obolonsko%E2%80%93Teremkivska_line\" title=\"Obolonsko–Teremkivska line\"><img alt=\"Line 2\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyiv_Metro_Line_2.svg/20px-Kyiv_Metro_Line_2.svg.png\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyiv_Metro_Line_2.svg/40px-Kyiv_Metro_Line_2.svg.png 2x\" data-file-width=\"80\" data-file-height=\"80\"></a></span> at <a href=\"https://en.wikipedia.org/wiki/Ploshcha_Ukrainskykh_Heroiv_(Kyiv_Metro)\" title=\"Ploshcha Ukrainskykh Heroiv (Kyiv Metro)\">Ploshcha Ukrainskykh Heroiv</a> <br> <span><a href=\"https://en.wikipedia.org/wiki/Syretsko%E2%80%93Pecherska_line\" title=\"Syretsko–Pecherska line\"><img alt=\"Line 3\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kyiv_Metro_Line_3.svg/20px-Kyiv_Metro_Line_3.svg.png\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kyiv_Metro_Line_3.svg/40px-Kyiv_Metro_Line_3.svg.png 2x\" data-file-width=\"80\" data-file-height=\"80\"></a></span> at <a href=\"https://en.wikipedia.org/wiki/Palats_Sportu_(Kyiv_Metro)\" title=\"Palats Sportu (Kyiv Metro)\">Palats Sportu</a></td>",
+            "links": [
+              {
+                "text": "Kyiv Metro",
+                "title": "Kyiv Metro",
+                "wikiTitle": "Kyiv Metro",
+                "href": "https://en.wikipedia.org/wiki/Kyiv_Metro",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "",
+                "title": "Obolonsko–Teremkivska line",
+                "wikiTitle": "Obolonsko–Teremkivska line",
+                "href": "https://en.wikipedia.org/wiki/Obolonsko%E2%80%93Teremkivska_line",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Ploshcha Ukrainskykh Heroiv",
+                "title": "Ploshcha Ukrainskykh Heroiv (Kyiv Metro)",
+                "wikiTitle": "Ploshcha Ukrainskykh Heroiv (Kyiv Metro)",
+                "href": "https://en.wikipedia.org/wiki/Ploshcha_Ukrainskykh_Heroiv_(Kyiv_Metro)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "",
+                "title": "Syretsko–Pecherska line",
+                "wikiTitle": "Syretsko–Pecherska line",
+                "href": "https://en.wikipedia.org/wiki/Syretsko%E2%80%93Pecherska_line",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Palats Sportu",
+                "title": "Palats Sportu (Kyiv Metro)",
+                "wikiTitle": "Palats Sportu (Kyiv Metro)",
+                "href": "https://en.wikipedia.org/wiki/Palats_Sportu_(Kyiv_Metro)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [
+              {
+                "fileTitle": null,
+                "fileName": null,
+                "kind": "photo",
+                "filePageUrl": null,
+                "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyiv_Metro_Line_2.svg/20px-Kyiv_Metro_Line_2.svg.png",
+                "originalRedirectUrl": null,
+                "enwikiOriginalRedirectUrl": null,
+                "srcset": [
+                  {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyiv_Metro_Line_2.svg/40px-Kyiv_Metro_Line_2.svg.png",
+                    "descriptor": "2x"
+                  }
+                ],
+                "width": 15,
+                "height": 15,
+                "originalWidth": 80,
+                "originalHeight": 80,
+                "fileType": null,
+                "alt": "Line 2",
+                "title": null,
+                "caption": null
+              },
+              {
+                "fileTitle": null,
+                "fileName": null,
+                "kind": "photo",
+                "filePageUrl": null,
+                "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kyiv_Metro_Line_3.svg/20px-Kyiv_Metro_Line_3.svg.png",
+                "originalRedirectUrl": null,
+                "enwikiOriginalRedirectUrl": null,
+                "srcset": [
+                  {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kyiv_Metro_Line_3.svg/40px-Kyiv_Metro_Line_3.svg.png",
+                    "descriptor": "2x"
+                  }
+                ],
+                "width": 15,
+                "height": 15,
+                "originalWidth": 80,
+                "originalHeight": 80,
+                "fileType": null,
+                "alt": "Line 3",
+                "title": null,
+                "caption": null
+              }
+            ],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "1958–1960",
+            "lines": [
+              "1958–1960"
+            ],
+            "html": "<td class=\"infobox-data\">1958–1960</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "December 9, 1960",
+            "lines": [
+              "December 9, 1960"
+            ],
+            "html": "<td class=\"infobox-data\">December 9, 1960</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "1981–82, 2004–05, 2010–11",
+            "lines": [
+              "1981–82, 2004–05, 2010–11"
+            ],
+            "html": "<td class=\"infobox-data\">1981–82, 2004–05, 2010–11</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Mykhailo Hrechyna, O. Zavarov",
+            "lines": [
+              "Mykhailo Hrechyna, O. Zavarov"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Mykhailo_Hrechyna\" title=\"Mykhailo Hrechyna\">Mykhailo Hrechyna</a>, O. Zavarov</td>",
+            "links": [
+              {
+                "text": "Mykhailo Hrechyna",
+                "title": "Mykhailo Hrechyna",
+                "wikiTitle": "Mykhailo Hrechyna",
+                "href": "https://en.wikipedia.org/wiki/Mykhailo_Hrechyna",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Kyiv-Basket (2018–present)",
+            "lines": [
+              "Kyiv-Basket (2018–present)"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Kyiv-Basket\" class=\"mw-redirect\" title=\"Kyiv-Basket\">Kyiv-Basket</a> (2018–present)</td>",
+            "links": [
+              {
+                "text": "Kyiv-Basket",
+                "title": "Kyiv-Basket",
+                "wikiTitle": "Kyiv-Basket",
+                "href": "https://en.wikipedia.org/wiki/Kyiv-Basket",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Shevchenko, Kyiv, Ukraine",
+              "lines": [
+                "Shevchenko, Kyiv, Ukraine"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Shevchenkivskyi_District,_Kyiv\" title=\"Shevchenkivskyi District, Kyiv\">Shevchenko</a>, <a href=\"https://en.wikipedia.org/wiki/Kyiv\" title=\"Kyiv\">Kyiv</a>, <a href=\"https://en.wikipedia.org/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td>",
+              "links": [
+                {
+                  "text": "Shevchenko",
+                  "title": "Shevchenkivskyi District, Kyiv",
+                  "wikiTitle": "Shevchenkivskyi District, Kyiv",
+                  "href": "https://en.wikipedia.org/wiki/Shevchenkivskyi_District,_Kyiv",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Kyiv",
+                  "title": "Kyiv",
+                  "wikiTitle": "Kyiv",
+                  "href": "https://en.wikipedia.org/wiki/Kyiv",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Ukraine",
+                  "title": "Ukraine",
+                  "wikiTitle": "Ukraine",
+                  "href": "https://en.wikipedia.org/wiki/Ukraine",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "50°26′14″N 30°31′20″E﻿ / ﻿50.43722°N 30.52222°E﻿ / 50.43722; 30.52222",
+              "lines": [
+                "50°26′14″N 30°31′20″E﻿ / ﻿50.43722°N 30.52222°E﻿ / 50.43722; 30.52222"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Palace_of_Sports,_Kyiv&amp;params=50_26_14_N_30_31_20_E_type:landmark_region:UA\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">50°26′14″N</span> <span class=\"longitude\">30°31′20″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">50.43722°N 30.52222°E</span><span>﻿ / <span class=\"geo\">50.43722; 30.52222</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "50°26′14″N 30°31′20″E﻿ / ﻿50.43722°N 30.52222°E﻿ / 50.43722; 30.52222",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Palace_of_Sports,_Kyiv&params=50_26_14_N_30_31_20_E_type:landmark_region:UA",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Kyivskyi Palats Sportu CJSC",
+              "lines": [
+                "Kyivskyi Palats Sportu CJSC"
+              ],
+              "html": "<td class=\"infobox-data agent\">Kyivskyi Palats Sportu CJSC</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "Concerts: 10,000\nIce hockey: ≤7,000",
+              "lines": [
+                "Concerts: 10,000",
+                "Ice hockey: ≤7,000"
+              ],
+              "html": "<td class=\"infobox-data\">Concerts: 10,000<br> <a href=\"https://en.wikipedia.org/wiki/Ice_hockey\" title=\"Ice hockey\">Ice hockey</a>: ≤7,000</td>",
+              "links": [
+                {
+                  "text": "Ice hockey",
+                  "title": "Ice hockey",
+                  "wikiTitle": "Ice hockey",
+                  "href": "https://en.wikipedia.org/wiki/Ice_hockey",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "surface": [
+            {
+              "label": "Surface",
+              "key": "surface",
+              "group": null,
+              "text": "floor/ice variable",
+              "lines": [
+                "floor/ice variable"
+              ],
+              "html": "<td class=\"infobox-data\">floor/ice variable</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "field_size": [
+            {
+              "label": "Field size",
+              "key": "field_size",
+              "group": null,
+              "text": "66 m x 102 m",
+              "lines": [
+                "66 m x 102 m"
+              ],
+              "html": "<td class=\"infobox-data\">66 m x 102 m</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "public_transit": [
+            {
+              "label": "Public transit",
+              "key": "public_transit",
+              "group": null,
+              "text": "Kyiv Metro:\nat Ploshcha Ukrainskykh Heroiv\nat Palats Sportu",
+              "lines": [
+                "Kyiv Metro:",
+                "at Ploshcha Ukrainskykh Heroiv",
+                "at Palats Sportu"
+              ],
+              "html": "<td class=\"infobox-data\"><b><a href=\"https://en.wikipedia.org/wiki/Kyiv_Metro\" title=\"Kyiv Metro\">Kyiv Metro</a>:</b> <br> <span><a href=\"https://en.wikipedia.org/wiki/Obolonsko%E2%80%93Teremkivska_line\" title=\"Obolonsko–Teremkivska line\"><img alt=\"Line 2\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyiv_Metro_Line_2.svg/20px-Kyiv_Metro_Line_2.svg.png\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyiv_Metro_Line_2.svg/40px-Kyiv_Metro_Line_2.svg.png 2x\" data-file-width=\"80\" data-file-height=\"80\"></a></span> at <a href=\"https://en.wikipedia.org/wiki/Ploshcha_Ukrainskykh_Heroiv_(Kyiv_Metro)\" title=\"Ploshcha Ukrainskykh Heroiv (Kyiv Metro)\">Ploshcha Ukrainskykh Heroiv</a> <br> <span><a href=\"https://en.wikipedia.org/wiki/Syretsko%E2%80%93Pecherska_line\" title=\"Syretsko–Pecherska line\"><img alt=\"Line 3\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kyiv_Metro_Line_3.svg/20px-Kyiv_Metro_Line_3.svg.png\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kyiv_Metro_Line_3.svg/40px-Kyiv_Metro_Line_3.svg.png 2x\" data-file-width=\"80\" data-file-height=\"80\"></a></span> at <a href=\"https://en.wikipedia.org/wiki/Palats_Sportu_(Kyiv_Metro)\" title=\"Palats Sportu (Kyiv Metro)\">Palats Sportu</a></td>",
+              "links": [
+                {
+                  "text": "Kyiv Metro",
+                  "title": "Kyiv Metro",
+                  "wikiTitle": "Kyiv Metro",
+                  "href": "https://en.wikipedia.org/wiki/Kyiv_Metro",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "",
+                  "title": "Obolonsko–Teremkivska line",
+                  "wikiTitle": "Obolonsko–Teremkivska line",
+                  "href": "https://en.wikipedia.org/wiki/Obolonsko%E2%80%93Teremkivska_line",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Ploshcha Ukrainskykh Heroiv",
+                  "title": "Ploshcha Ukrainskykh Heroiv (Kyiv Metro)",
+                  "wikiTitle": "Ploshcha Ukrainskykh Heroiv (Kyiv Metro)",
+                  "href": "https://en.wikipedia.org/wiki/Ploshcha_Ukrainskykh_Heroiv_(Kyiv_Metro)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "",
+                  "title": "Syretsko–Pecherska line",
+                  "wikiTitle": "Syretsko–Pecherska line",
+                  "href": "https://en.wikipedia.org/wiki/Syretsko%E2%80%93Pecherska_line",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Palats Sportu",
+                  "title": "Palats Sportu (Kyiv Metro)",
+                  "wikiTitle": "Palats Sportu (Kyiv Metro)",
+                  "href": "https://en.wikipedia.org/wiki/Palats_Sportu_(Kyiv_Metro)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [
+                {
+                  "fileTitle": null,
+                  "fileName": null,
+                  "kind": "photo",
+                  "filePageUrl": null,
+                  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyiv_Metro_Line_2.svg/20px-Kyiv_Metro_Line_2.svg.png",
+                  "originalRedirectUrl": null,
+                  "enwikiOriginalRedirectUrl": null,
+                  "srcset": [
+                    {
+                      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyiv_Metro_Line_2.svg/40px-Kyiv_Metro_Line_2.svg.png",
+                      "descriptor": "2x"
+                    }
+                  ],
+                  "width": 15,
+                  "height": 15,
+                  "originalWidth": 80,
+                  "originalHeight": 80,
+                  "fileType": null,
+                  "alt": "Line 2",
+                  "title": null,
+                  "caption": null
+                },
+                {
+                  "fileTitle": null,
+                  "fileName": null,
+                  "kind": "photo",
+                  "filePageUrl": null,
+                  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kyiv_Metro_Line_3.svg/20px-Kyiv_Metro_Line_3.svg.png",
+                  "originalRedirectUrl": null,
+                  "enwikiOriginalRedirectUrl": null,
+                  "srcset": [
+                    {
+                      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kyiv_Metro_Line_3.svg/40px-Kyiv_Metro_Line_3.svg.png",
+                      "descriptor": "2x"
+                    }
+                  ],
+                  "width": 15,
+                  "height": 15,
+                  "originalWidth": 80,
+                  "originalHeight": 80,
+                  "fileType": null,
+                  "alt": "Line 3",
+                  "title": null,
+                  "caption": null
+                }
+              ],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "1958–1960",
+              "lines": [
+                "1958–1960"
+              ],
+              "html": "<td class=\"infobox-data\">1958–1960</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "December 9, 1960",
+              "lines": [
+                "December 9, 1960"
+              ],
+              "html": "<td class=\"infobox-data\">December 9, 1960</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "1981–82, 2004–05, 2010–11",
+              "lines": [
+                "1981–82, 2004–05, 2010–11"
+              ],
+              "html": "<td class=\"infobox-data\">1981–82, 2004–05, 2010–11</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Mykhailo Hrechyna, O. Zavarov",
+              "lines": [
+                "Mykhailo Hrechyna, O. Zavarov"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Mykhailo_Hrechyna\" title=\"Mykhailo Hrechyna\">Mykhailo Hrechyna</a>, O. Zavarov</td>",
+              "links": [
+                {
+                  "text": "Mykhailo Hrechyna",
+                  "title": "Mykhailo Hrechyna",
+                  "wikiTitle": "Mykhailo Hrechyna",
+                  "href": "https://en.wikipedia.org/wiki/Mykhailo_Hrechyna",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Kyiv-Basket (2018–present)",
+              "lines": [
+                "Kyiv-Basket (2018–present)"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Kyiv-Basket\" class=\"mw-redirect\" title=\"Kyiv-Basket\">Kyiv-Basket</a> (2018–present)</td>",
+              "links": [
+                {
+                  "text": "Kyiv-Basket",
+                  "title": "Kyiv-Basket",
+                  "wikiTitle": "Kyiv-Basket",
+                  "href": "https://en.wikipedia.org/wiki/Kyiv-Basket",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Shevchenko, Kyiv, Ukraine"
+          ],
+          "coordinates": [
+            "50°26′14″N 30°31′20″E﻿ / ﻿50.43722°N 30.52222°E﻿ / 50.43722; 30.52222"
+          ],
+          "owner": [
+            "Kyivskyi Palats Sportu CJSC"
+          ],
+          "capacity": [
+            "Concerts: 10,000\nIce hockey: ≤7,000"
+          ],
+          "surface": [
+            "floor/ice variable"
+          ],
+          "field_size": [
+            "66 m x 102 m"
+          ],
+          "public_transit": [
+            "Kyiv Metro:\nat Ploshcha Ukrainskykh Heroiv\nat Palats Sportu"
+          ],
+          "built": [
+            "1958–1960"
+          ],
+          "opened": [
+            "December 9, 1960"
+          ],
+          "renovated": [
+            "1981–82, 2004–05, 2010–11"
+          ],
+          "architect": [
+            "Mykhailo Hrechyna, O. Zavarov"
+          ],
+          "tenants": [
+            "Kyiv-Basket (2018–present)"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "Concerts: 10,000",
+          "Ice hockey: ≤7,000"
+        ],
+        "tenants": [
+          "Kyiv-Basket (2018–present)"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Kyiv Palace of Sports at night.jpg",
+            "fileName": "Kyiv Palace of Sports at night.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Kyiv_Palace_of_Sports_at_night.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kyiv_Palace_of_Sports_at_night.jpg/250px-Kyiv_Palace_of_Sports_at_night.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kyiv_Palace_of_Sports_at_night.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Kyiv_Palace_of_Sports_at_night.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kyiv_Palace_of_Sports_at_night.jpg/500px-Kyiv_Palace_of_Sports_at_night.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 188,
+            "originalWidth": 4080,
+            "originalHeight": 3072,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Palace of Sports at night"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Palace_of_Sports%2C_Kyiv&revid=1360208433&groups=_5b682a788d5b61d07d8962d0a71b80ff010f0224&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Palace_of_Sports%2C_Kyiv&revid=1360208433&groups=_5b682a788d5b61d07d8962d0a71b80ff010f0224&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Palace of Sports"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyiv_Metro_Line_2.svg/20px-Kyiv_Metro_Line_2.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyiv_Metro_Line_2.svg/40px-Kyiv_Metro_Line_2.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 15,
+            "height": 15,
+            "originalWidth": 80,
+            "originalHeight": 80,
+            "fileType": null,
+            "alt": "Line 2",
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kyiv_Metro_Line_3.svg/20px-Kyiv_Metro_Line_3.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kyiv_Metro_Line_3.svg/40px-Kyiv_Metro_Line_3.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 15,
+            "height": 15,
+            "originalWidth": 80,
+            "originalHeight": 80,
+            "fileType": null,
+            "alt": "Line 3",
+            "title": null,
+            "caption": null
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Palace of Sports</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\" lang=\"uk\">Палац Спорту</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Kyiv_Palace_of_Sports_at_night.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kyiv_Palace_of_Sports_at_night.jpg/250px-Kyiv_Palace_of_Sports_at_night.jpg\" width=\"250\" height=\"188\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kyiv_Palace_of_Sports_at_night.jpg/500px-Kyiv_Palace_of_Sports_at_night.jpg 2x\" data-file-width=\"4080\" data-file-height=\"3072\"></a></span><div class=\"infobox-caption\">Palace of Sports at night</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_5b682a788d5b61d07d8962d0a71b80ff010f0224&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Palace_of_Sports%2C_Kyiv&amp;revid=1360208433&amp;groups=_5b682a788d5b61d07d8962d0a71b80ff010f0224&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Palace_of_Sports%2C_Kyiv&amp;revid=1360208433&amp;groups=_5b682a788d5b61d07d8962d0a71b80ff010f0224&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Palace of Sports</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Shevchenkivskyi_District,_Kyiv\" title=\"Shevchenkivskyi District, Kyiv\">Shevchenko</a>, <a href=\"https://en.wikipedia.org/wiki/Kyiv\" title=\"Kyiv\">Kyiv</a>, <a href=\"https://en.wikipedia.org/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Palace_of_Sports,_Kyiv&amp;params=50_26_14_N_30_31_20_E_type:landmark_region:UA\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">50°26′14″N</span> <span class=\"longitude\">30°31′20″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">50.43722°N 30.52222°E</span><span>﻿ / <span class=\"geo\">50.43722; 30.52222</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Kyivskyi Palats Sportu CJSC</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">Concerts: 10,000<br> <a href=\"https://en.wikipedia.org/wiki/Ice_hockey\" title=\"Ice hockey\">Ice hockey</a>: ≤7,000</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Surface</th><td class=\"infobox-data\">floor/ice variable</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Field size</div></th><td class=\"infobox-data\">66 m x 102 m</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Public&nbsp;transit</th><td class=\"infobox-data\"><b><a href=\"https://en.wikipedia.org/wiki/Kyiv_Metro\" title=\"Kyiv Metro\">Kyiv Metro</a>:</b> <br> <span><a href=\"https://en.wikipedia.org/wiki/Obolonsko%E2%80%93Teremkivska_line\" title=\"Obolonsko–Teremkivska line\"><img alt=\"Line 2\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyiv_Metro_Line_2.svg/20px-Kyiv_Metro_Line_2.svg.png\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyiv_Metro_Line_2.svg/40px-Kyiv_Metro_Line_2.svg.png 2x\" data-file-width=\"80\" data-file-height=\"80\"></a></span> at <a href=\"https://en.wikipedia.org/wiki/Ploshcha_Ukrainskykh_Heroiv_(Kyiv_Metro)\" title=\"Ploshcha Ukrainskykh Heroiv (Kyiv Metro)\">Ploshcha Ukrainskykh Heroiv</a> <br> <span><a href=\"https://en.wikipedia.org/wiki/Syretsko%E2%80%93Pecherska_line\" title=\"Syretsko–Pecherska line\"><img alt=\"Line 3\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kyiv_Metro_Line_3.svg/20px-Kyiv_Metro_Line_3.svg.png\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kyiv_Metro_Line_3.svg/40px-Kyiv_Metro_Line_3.svg.png 2x\" data-file-width=\"80\" data-file-height=\"80\"></a></span> at <a href=\"https://en.wikipedia.org/wiki/Palats_Sportu_(Kyiv_Metro)\" title=\"Palats Sportu (Kyiv Metro)\">Palats Sportu</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">1958–1960</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">December 9, 1960</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">1981–82, 2004–05, 2010–11</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Mykhailo_Hrechyna\" title=\"Mykhailo Hrechyna\">Mykhailo Hrechyna</a>, O. Zavarov</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Kyiv-Basket\" class=\"mw-redirect\" title=\"Kyiv-Basket\">Kyiv-Basket</a> (2018–present)</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Pages_using_the_Phonos_extension",
+        "CS1:_unfit_URL",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Articles_needing_translation_from_Ukrainian_Wikipedia",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Articles_containing_Ukrainian-language_text",
+        "Pages_with_Ukrainian_IPA",
+        "Pages_including_recorded_pronunciations",
+        "Commons_category_link_from_Wikidata",
+        "Official_website_different_in_Wikidata_and_Wikipedia",
+        "Articles_with_Ukrainian-language_sources_(uk)",
+        "Articles_containing_Polish-language_text",
+        "Sports_venues_completed_in_1960",
+        "Indoor_arenas_in_Ukraine",
+        "Ice_hockey_venues_in_Ukraine",
+        "Sports_venues_in_Kyiv",
+        "Pecherskyi_District",
+        "1960_establishments_in_Ukraine",
+        "Concert_halls_in_Ukraine",
+        "Modernist_architecture_in_Kyiv",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Palace_of_Sports,_Kyiv&params=50_26_14_N_30_31_20_E_type:landmark_region:UA",
+        "https://web.archive.org/web/20200806040350/https://erch2014.com/puteshestviya/100712-dvorec-sporta-kiev-istoriya-sozdaniya-kompleksa.html",
+        "https://web.archive.org/web/20160916040124/http://www.spalace.com.ua/index.php/the-palats-sportu-covered-arena",
+        "http://www.spalace.com.ua/index.php/the-palats-sportu-covered-arena",
+        "http://esctoday.com/3102/ntu_and_ebu_confirm_palats_sportu/",
+        "http://esctoday.com/3533/renovation_of_palats_sportu_has_begun/",
+        "http://esctoday.com/4311/ntu_president_doubts_about_palats_sportu_expenses/",
+        "http://esctoday.com/3910/palats_sportu_must_be_finished_by_20_april/",
+        "http://esctoday.com/4362/kyiv_the_stage_is_taking_shape/",
+        "http://esctoday.com/4444/palats_sportu_scene_is_getting_ready/",
+        "https://sport.ua/news/123815-v-kieve-otkryli-obnovlenniy-dvorets-sporta",
+        "https://web.archive.org/web/20120831003332/http://www.fig-gymnastics.com/vsite/vcontent/content/transnews/0,10869,5187-187975-19728-44545-314230-17968-5233-layout188-205197-news-item,00.html",
+        "http://www.fig-gymnastics.com/vsite/vcontent/content/transnews/0,10869,5187-187975-19728-44545-314230-17968-5233-layout188-205197-news-item,00.html",
+        "https://translate.google.com/translate?&u=https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BB%D0%B0%D1%86_%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%83_(%D0%9A%D0%B8%D1%97%D0%B2)&sl=uk&tl=en&prev=_t&hl=en",
+        "https://deepl.com",
+        "https://translate.google.com/",
+        "http://spalace.com.ua/",
+        "https://musicbrainz.org/place/8d9cce88-f5d0-46a9-8df8-b969449532b2"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 3,
+          "line": "Renovations",
+          "anchor": "Renovations"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Events",
+          "anchor": "Events"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "Sport",
+          "anchor": "Sport"
+        },
+        {
+          "index": "5",
+          "level": 3,
+          "line": "Eurovision",
+          "anchor": "Eurovision"
+        },
+        {
+          "index": "6",
+          "level": 3,
+          "line": "Concerts",
+          "anchor": "Concerts"
+        },
+        {
+          "index": "7",
+          "level": 3,
+          "line": "Business",
+          "anchor": "Business"
+        },
+        {
+          "index": "8",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "9",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "LL-Q8798_(ukr)-Tohaomg-Палац_спорту.wav",
+        "Japanese_A_to_English_A.svg",
+        "Kyiv_Palace_of_Sports_at_night.jpg",
+        "Kyiv_Metro_Line_2.svg",
+        "Kyiv_Metro_Line_3.svg",
+        "Ukraine_Basketball_SuperLeague_final_Budivelnyk-Khimik_29-04-2017.jpg",
+        "Commons-logo.svg",
+        "Symbol_category_class.svg",
+        "OOjs_UI_icon_edit-ltr-progressive.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Japanese A to English A.svg",
+          "fileName": "Japanese A to English A.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Japanese_A_to_English_A.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Japanese_A_to_English_A.svg/60px-Japanese_A_to_English_A.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Japanese_A_to_English_A.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Japanese_A_to_English_A.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Japanese_A_to_English_A.svg/120px-Japanese_A_to_English_A.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 16,
+          "originalWidth": 475,
+          "originalHeight": 150,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Kyiv Palace of Sports at night.jpg",
+          "fileName": "Kyiv Palace of Sports at night.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Kyiv_Palace_of_Sports_at_night.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kyiv_Palace_of_Sports_at_night.jpg/250px-Kyiv_Palace_of_Sports_at_night.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kyiv_Palace_of_Sports_at_night.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Kyiv_Palace_of_Sports_at_night.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kyiv_Palace_of_Sports_at_night.jpg/500px-Kyiv_Palace_of_Sports_at_night.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 4080,
+          "originalHeight": 3072,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Palace of Sports at night"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Palace_of_Sports%2C_Kyiv&revid=1360208433&groups=_5b682a788d5b61d07d8962d0a71b80ff010f0224&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Palace_of_Sports%2C_Kyiv&revid=1360208433&groups=_5b682a788d5b61d07d8962d0a71b80ff010f0224&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Palace of Sports"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyiv_Metro_Line_2.svg/20px-Kyiv_Metro_Line_2.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kyiv_Metro_Line_2.svg/40px-Kyiv_Metro_Line_2.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 15,
+          "height": 15,
+          "originalWidth": 80,
+          "originalHeight": 80,
+          "fileType": null,
+          "alt": "Line 2",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kyiv_Metro_Line_3.svg/20px-Kyiv_Metro_Line_3.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kyiv_Metro_Line_3.svg/40px-Kyiv_Metro_Line_3.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 15,
+          "height": 15,
+          "originalWidth": 80,
+          "originalHeight": 80,
+          "fileType": null,
+          "alt": "Line 3",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Ukraine Basketball SuperLeague final Budivelnyk-Khimik 29-04-2017.jpg",
+          "fileName": "Ukraine Basketball SuperLeague final Budivelnyk-Khimik 29-04-2017.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Ukraine_Basketball_SuperLeague_final_Budivelnyk-Khimik_29-04-2017.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ukraine_Basketball_SuperLeague_final_Budivelnyk-Khimik_29-04-2017.jpg/250px-Ukraine_Basketball_SuperLeague_final_Budivelnyk-Khimik_29-04-2017.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ukraine_Basketball_SuperLeague_final_Budivelnyk-Khimik_29-04-2017.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ukraine_Basketball_SuperLeague_final_Budivelnyk-Khimik_29-04-2017.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ukraine_Basketball_SuperLeague_final_Budivelnyk-Khimik_29-04-2017.jpg/500px-Ukraine_Basketball_SuperLeague_final_Budivelnyk-Khimik_29-04-2017.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 4608,
+          "originalHeight": 3456,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "2016–17 Ukrainian Basketball SuperLeague final, Budivelnyk vs. Khimik (April 2017)"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/20px-Symbol_category_class.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/40px-Symbol_category_class.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 16,
+          "height": 16,
+          "originalWidth": 180,
+          "originalHeight": 185,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 1043,
+          "rowText": "Ukraine\nKyiv\nPalats Sportu\n1960\n6,500\nEurovision Song Contest 2005",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Ukraine\" title=\"Ukraine\">Ukraine</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Kyiv\" title=\"Kyiv\">Kyiv</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Palace_of_Sports,_Kyiv\" title=\"Palace of Sports, Kyiv\">Palats Sportu</a>\n</td>\n<td>1960\n</td>\n<td>6,500\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2005\" title=\"Eurovision Song Contest 2005\">Eurovision Song Contest 2005</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1043,
+              "cell": {
+                "text": "Ukraine",
+                "lines": [
+                  "Ukraine"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ukraine",
+                    "title": "Ukraine",
+                    "wikiTitle": "Ukraine",
+                    "href": "https://en.wikipedia.org/wiki/Ukraine",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1043,
+              "cell": {
+                "text": "Kyiv",
+                "lines": [
+                  "Kyiv"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Kyiv",
+                    "title": "Kyiv",
+                    "wikiTitle": "Kyiv",
+                    "href": "https://en.wikipedia.org/wiki/Kyiv",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1043,
+              "cell": {
+                "text": "Palats Sportu",
+                "lines": [
+                  "Palats Sportu"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Palats Sportu",
+                    "title": "Palace of Sports, Kyiv",
+                    "wikiTitle": "Palace of Sports, Kyiv",
+                    "href": "https://en.wikipedia.org/wiki/Palace_of_Sports,_Kyiv",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1043,
+              "cell": {
+                "text": "1960",
+                "lines": [
+                  "1960"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1043,
+              "cell": {
+                "text": "6,500",
+                "lines": [
+                  "6,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1043,
+              "cell": {
+                "text": "Eurovision Song Contest 2005",
+                "lines": [
+                  "Eurovision Song Contest 2005"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Eurovision Song Contest 2005",
+                    "title": "Eurovision Song Contest 2005",
+                    "wikiTitle": "Eurovision Song Contest 2005",
+                    "href": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2005",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Palats Sportu",
+            "lines": [
+              "Palats Sportu"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Palats Sportu",
+                "title": "Palace of Sports, Kyiv",
+                "wikiTitle": "Palace of Sports, Kyiv",
+                "href": "https://en.wikipedia.org/wiki/Palace_of_Sports,_Kyiv",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:49:30.991Z"
+    }
+  ]
+}

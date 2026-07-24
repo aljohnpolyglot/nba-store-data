@@ -1,0 +1,1127 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Rwanda",
+  "coverage": {
+    "mode": "inferred_from_infobox_or_other_lists",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 0
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 4,
+    "sourceTypeCounts": {
+      "country_or_region_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-61123679",
+      "pageId": 61123679,
+      "revisionId": null,
+      "title": "BK Arena",
+      "displayTitle": "BK Arena",
+      "url": "https://en.wikipedia.org/wiki/BK_Arena",
+      "wikidataItem": "Q65050783",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q65050783",
+      "aliases": [
+        "BK Arena",
+        "Kigali Arena (2019–2022)"
+      ],
+      "requestedTitles": [
+        "BK Arena"
+      ],
+      "sourceLinkTexts": [
+        "BK Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/BK_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": -1.951719,
+        "longitude": 30.11558,
+        "raw": "-1.951719; 30.115580"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "BK Arena",
+        "groups": [
+          "Construction",
+          "Tenants",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Former names",
+            "key": "former_names",
+            "group": null,
+            "text": "Kigali Arena (2019–2022)",
+            "lines": [
+              "Kigali Arena (2019–2022)"
+            ],
+            "html": "<td class=\"infobox-data nickname\">Kigali Arena (2019–2022)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Kigali, Rwanda",
+            "lines": [
+              "Kigali, Rwanda"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Kigali\" title=\"Kigali\">Kigali</a>, <a href=\"https://en.wikipedia.org/wiki/Rwanda\" title=\"Rwanda\">Rwanda</a></td>",
+            "links": [
+              {
+                "text": "Kigali",
+                "title": "Kigali",
+                "wikiTitle": "Kigali",
+                "href": "https://en.wikipedia.org/wiki/Kigali",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Rwanda",
+                "title": "Rwanda",
+                "wikiTitle": "Rwanda",
+                "href": "https://en.wikipedia.org/wiki/Rwanda",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "1°57′06″S 30°06′56″E﻿ / ﻿1.951719°S 30.115580°E﻿ / -1.951719; 30.115580",
+            "lines": [
+              "1°57′06″S 30°06′56″E﻿ / ﻿1.951719°S 30.115580°E﻿ / -1.951719; 30.115580"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=BK_Arena&amp;params=1.951719_S_30.11558_E_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">1°57′06″S</span> <span class=\"longitude\">30°06′56″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">1.951719°S 30.115580°E</span><span>﻿ / <span class=\"geo\">-1.951719; 30.115580</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "1°57′06″S 30°06′56″E﻿ / ﻿1.951719°S 30.115580°E﻿ / -1.951719; 30.115580",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=BK_Arena&params=1.951719_S_30.11558_E_",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Rwanda Ministry of Sports & Rwanda Housing Authority",
+            "lines": [
+              "Rwanda Ministry of Sports & Rwanda Housing Authority"
+            ],
+            "html": "<td class=\"infobox-data agent\">Rwanda Ministry of Sports &amp; Rwanda Housing Authority</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "10,000",
+            "lines": [
+              "10,000"
+            ],
+            "html": "<td class=\"infobox-data\">10,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "group": null,
+            "text": "Indoor arena",
+            "lines": [
+              "Indoor arena"
+            ],
+            "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Indoor_arena\" class=\"mw-redirect\" title=\"Indoor arena\">Indoor arena</a></td>",
+            "links": [
+              {
+                "text": "Indoor arena",
+                "title": "Indoor arena",
+                "wikiTitle": "Indoor arena",
+                "href": "https://en.wikipedia.org/wiki/Indoor_arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Record attendance",
+            "key": "record_attendance",
+            "group": null,
+            "text": "10,152",
+            "lines": [
+              "10,152"
+            ],
+            "html": "<td class=\"infobox-data\">10,152</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Field size",
+            "key": "field_size",
+            "group": null,
+            "text": "28,750 m2 (construction area)",
+            "lines": [
+              "28,750 m2 (construction area)"
+            ],
+            "html": "<td class=\"infobox-data\">28,750 m<sup>2</sup> (construction area)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "19 January 2019",
+            "lines": [
+              "19 January 2019"
+            ],
+            "html": "<td class=\"infobox-data\">19 January 2019</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "9 August 2019",
+            "lines": [
+              "9 August 2019"
+            ],
+            "html": "<td class=\"infobox-data\">9 August 2019</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "$104 Million",
+            "lines": [
+              "$104 Million"
+            ],
+            "html": "<td class=\"infobox-data\">$104 Million</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Builder",
+            "key": "builder",
+            "group": "Construction",
+            "text": "SUMMA",
+            "lines": [
+              "SUMMA"
+            ],
+            "html": "<td class=\"infobox-data\">SUMMA</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Main contractors",
+            "key": "main_contractors",
+            "group": "Construction",
+            "text": "Rwanda Housing Authority",
+            "lines": [
+              "Rwanda Housing Authority"
+            ],
+            "html": "<td class=\"infobox-data\">Rwanda Housing Authority</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Rwanda Basketball League",
+            "lines": [
+              "Rwanda Basketball League"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Rwanda_Basketball_League\" title=\"Rwanda Basketball League\">Rwanda Basketball League</a></td>",
+            "links": [
+              {
+                "text": "Rwanda Basketball League",
+                "title": "Rwanda Basketball League",
+                "wikiTitle": "Rwanda Basketball League",
+                "href": "https://en.wikipedia.org/wiki/Rwanda_Basketball_League",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "www.kigaliarena.rw",
+            "lines": [
+              "www.kigaliarena.rw"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.kigaliarena.rw/\">www<wbr>.kigaliarena<wbr>.rw</a></span></td>",
+            "links": [
+              {
+                "text": "www.kigaliarena.rw",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://www.kigaliarena.rw/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "former_names": [
+            {
+              "label": "Former names",
+              "key": "former_names",
+              "group": null,
+              "text": "Kigali Arena (2019–2022)",
+              "lines": [
+                "Kigali Arena (2019–2022)"
+              ],
+              "html": "<td class=\"infobox-data nickname\">Kigali Arena (2019–2022)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Kigali, Rwanda",
+              "lines": [
+                "Kigali, Rwanda"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Kigali\" title=\"Kigali\">Kigali</a>, <a href=\"https://en.wikipedia.org/wiki/Rwanda\" title=\"Rwanda\">Rwanda</a></td>",
+              "links": [
+                {
+                  "text": "Kigali",
+                  "title": "Kigali",
+                  "wikiTitle": "Kigali",
+                  "href": "https://en.wikipedia.org/wiki/Kigali",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Rwanda",
+                  "title": "Rwanda",
+                  "wikiTitle": "Rwanda",
+                  "href": "https://en.wikipedia.org/wiki/Rwanda",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "1°57′06″S 30°06′56″E﻿ / ﻿1.951719°S 30.115580°E﻿ / -1.951719; 30.115580",
+              "lines": [
+                "1°57′06″S 30°06′56″E﻿ / ﻿1.951719°S 30.115580°E﻿ / -1.951719; 30.115580"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=BK_Arena&amp;params=1.951719_S_30.11558_E_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">1°57′06″S</span> <span class=\"longitude\">30°06′56″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">1.951719°S 30.115580°E</span><span>﻿ / <span class=\"geo\">-1.951719; 30.115580</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "1°57′06″S 30°06′56″E﻿ / ﻿1.951719°S 30.115580°E﻿ / -1.951719; 30.115580",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=BK_Arena&params=1.951719_S_30.11558_E_",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Rwanda Ministry of Sports & Rwanda Housing Authority",
+              "lines": [
+                "Rwanda Ministry of Sports & Rwanda Housing Authority"
+              ],
+              "html": "<td class=\"infobox-data agent\">Rwanda Ministry of Sports &amp; Rwanda Housing Authority</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "10,000",
+              "lines": [
+                "10,000"
+              ],
+              "html": "<td class=\"infobox-data\">10,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "type": [
+            {
+              "label": "Type",
+              "key": "type",
+              "group": null,
+              "text": "Indoor arena",
+              "lines": [
+                "Indoor arena"
+              ],
+              "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Indoor_arena\" class=\"mw-redirect\" title=\"Indoor arena\">Indoor arena</a></td>",
+              "links": [
+                {
+                  "text": "Indoor arena",
+                  "title": "Indoor arena",
+                  "wikiTitle": "Indoor arena",
+                  "href": "https://en.wikipedia.org/wiki/Indoor_arena",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "record_attendance": [
+            {
+              "label": "Record attendance",
+              "key": "record_attendance",
+              "group": null,
+              "text": "10,152",
+              "lines": [
+                "10,152"
+              ],
+              "html": "<td class=\"infobox-data\">10,152</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "field_size": [
+            {
+              "label": "Field size",
+              "key": "field_size",
+              "group": null,
+              "text": "28,750 m2 (construction area)",
+              "lines": [
+                "28,750 m2 (construction area)"
+              ],
+              "html": "<td class=\"infobox-data\">28,750 m<sup>2</sup> (construction area)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "19 January 2019",
+              "lines": [
+                "19 January 2019"
+              ],
+              "html": "<td class=\"infobox-data\">19 January 2019</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "9 August 2019",
+              "lines": [
+                "9 August 2019"
+              ],
+              "html": "<td class=\"infobox-data\">9 August 2019</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "$104 Million",
+              "lines": [
+                "$104 Million"
+              ],
+              "html": "<td class=\"infobox-data\">$104 Million</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "builder": [
+            {
+              "label": "Builder",
+              "key": "builder",
+              "group": "Construction",
+              "text": "SUMMA",
+              "lines": [
+                "SUMMA"
+              ],
+              "html": "<td class=\"infobox-data\">SUMMA</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "main_contractors": [
+            {
+              "label": "Main contractors",
+              "key": "main_contractors",
+              "group": "Construction",
+              "text": "Rwanda Housing Authority",
+              "lines": [
+                "Rwanda Housing Authority"
+              ],
+              "html": "<td class=\"infobox-data\">Rwanda Housing Authority</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Rwanda Basketball League",
+              "lines": [
+                "Rwanda Basketball League"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Rwanda_Basketball_League\" title=\"Rwanda Basketball League\">Rwanda Basketball League</a></td>",
+              "links": [
+                {
+                  "text": "Rwanda Basketball League",
+                  "title": "Rwanda Basketball League",
+                  "wikiTitle": "Rwanda Basketball League",
+                  "href": "https://en.wikipedia.org/wiki/Rwanda_Basketball_League",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "www.kigaliarena.rw",
+              "lines": [
+                "www.kigaliarena.rw"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.kigaliarena.rw/\">www<wbr>.kigaliarena<wbr>.rw</a></span></td>",
+              "links": [
+                {
+                  "text": "www.kigaliarena.rw",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://www.kigaliarena.rw/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "former_names": [
+            "Kigali Arena (2019–2022)"
+          ],
+          "location": [
+            "Kigali, Rwanda"
+          ],
+          "coordinates": [
+            "1°57′06″S 30°06′56″E﻿ / ﻿1.951719°S 30.115580°E﻿ / -1.951719; 30.115580"
+          ],
+          "owner": [
+            "Rwanda Ministry of Sports & Rwanda Housing Authority"
+          ],
+          "capacity": [
+            "10,000"
+          ],
+          "type": [
+            "Indoor arena"
+          ],
+          "record_attendance": [
+            "10,152"
+          ],
+          "field_size": [
+            "28,750 m2 (construction area)"
+          ],
+          "groundbreaking": [
+            "19 January 2019"
+          ],
+          "opened": [
+            "9 August 2019"
+          ],
+          "cost": [
+            "$104 Million"
+          ],
+          "builder": [
+            "SUMMA"
+          ],
+          "main_contractors": [
+            "Rwanda Housing Authority"
+          ],
+          "tenants": [
+            "Rwanda Basketball League"
+          ],
+          "website": [
+            "www.kigaliarena.rw"
+          ]
+        },
+        "formerNames": [
+          "Kigali Arena (2019–2022)"
+        ],
+        "capacities": [
+          "10,000"
+        ],
+        "tenants": [
+          "Rwanda Basketball League"
+        ],
+        "websites": [
+          "http://www.kigaliarena.rw/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:Kigali Arena logo 2022.png",
+            "fileName": "Kigali Arena logo 2022.png",
+            "kind": "logo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Kigali_Arena_logo_2022.png",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Kigali_Arena_logo_2022.png/250px-Kigali_Arena_logo_2022.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kigali_Arena_logo_2022.png",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Kigali_Arena_logo_2022.png",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Kigali_Arena_logo_2022.png/500px-Kigali_Arena_logo_2022.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 96,
+            "originalWidth": 508,
+            "originalHeight": 196,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=BK_Arena&revid=1355325701&groups=_99a741e1bd337f40834e802cdb4c3da63aabf522&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=BK_Arena&revid=1355325701&groups=_99a741e1bd337f40834e802cdb4c3da63aabf522&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of BK Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">BK Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size notpageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Kigali_Arena_logo_2022.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Kigali_Arena_logo_2022.png/250px-Kigali_Arena_logo_2022.png\" width=\"250\" height=\"96\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Kigali_Arena_logo_2022.png/500px-Kigali_Arena_logo_2022.png 2x\" data-file-width=\"508\" data-file-height=\"196\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_99a741e1bd337f40834e802cdb4c3da63aabf522&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=BK_Arena&amp;revid=1355325701&amp;groups=_99a741e1bd337f40834e802cdb4c3da63aabf522&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=BK_Arena&amp;revid=1355325701&amp;groups=_99a741e1bd337f40834e802cdb4c3da63aabf522&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of BK Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Former names</div></th><td class=\"infobox-data nickname\">Kigali Arena (2019–2022)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Kigali\" title=\"Kigali\">Kigali</a>, <a href=\"https://en.wikipedia.org/wiki/Rwanda\" title=\"Rwanda\">Rwanda</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=BK_Arena&amp;params=1.951719_S_30.11558_E_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">1°57′06″S</span> <span class=\"longitude\">30°06′56″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">1.951719°S 30.115580°E</span><span>﻿ / <span class=\"geo\">-1.951719; 30.115580</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Rwanda Ministry of Sports &amp; Rwanda Housing Authority</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">10,000</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Type</th><td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Indoor_arena\" class=\"mw-redirect\" title=\"Indoor arena\">Indoor arena</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Record attendance</div></th><td class=\"infobox-data\">10,152</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Field size</div></th><td class=\"infobox-data\">28,750 m<sup>2</sup> (construction area)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">19 January 2019</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">9 August 2019</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">$104 Million</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Builder</th><td class=\"infobox-data\">SUMMA</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Main contractors</div></th><td class=\"infobox-data\">Rwanda Housing Authority</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Rwanda_Basketball_League\" title=\"Rwanda Basketball League\">Rwanda Basketball League</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.kigaliarena.rw/\">www<wbr>.kigaliarena<wbr>.rw</a></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Use_dmy_dates_from_December_2024",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Commons_category_link_from_Wikidata",
+        "Official_website_different_in_Wikidata_and_Wikipedia",
+        "Indoor_arenas_in_Rwanda",
+        "Sports_venues_completed_in_2019",
+        "Sports_venues_in_Kigali",
+        "2019_establishments_in_Rwanda",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=BK_Arena&params=1.951719_S_30.11558_E_",
+        "https://www.iq-mag.net/2019/08/10k-cap-kigali-arena-opens-rwanda/",
+        "https://www.newtimes.co.rw/entertainment/bruce-melodie-signs-rwf-150-million-deal-kigali-arena-brand-ambassador",
+        "https://www.kigalitoday.com/imyidagaduro/ibirori/article/kigali-arena-na-bruce-melodie-basinye-amasezerano-y-ubufatanye",
+        "https://www.newtimes.co.rw/news/kigali-arena-rebrands-bk-arena",
+        "https://web.archive.org/web/20200225091752/http://www.rha.gov.rw/index.php?id=177&tx_ttnews%5Btt_news%5D=225&cHash=d6ab65353ad50582ed933949d1d54377",
+        "http://www.rha.gov.rw/index.php?id=177&tx_ttnews%5Btt_news%5D=225&cHash=d6ab65353ad50582ed933949d1d54377",
+        "https://www.newtimes.co.rw/sports/state-art-kigali-arena-nears-completion",
+        "https://www.newtimes.co.rw/sports/kigali-arena-breathes-new-life-rwandan-basketball",
+        "https://www.forbes.com/sites/jefffeld/2019/07/31/nbas-basketball-africa-league-gets-one-step-closer-to-reality-with-announcement-of-host-cities/",
+        "https://ktpress.rw/2019/09/now-president-kagame-wishes-kigali-arena-had-20-000-capacity/",
+        "https://www.youtube.com/watch?v=-Cn6Z02Njtw",
+        "https://inside.fifa.com/origin1904-p.cxm.fifa.com/about-fifa/congress/fifa-congress-2023",
+        "https://www.billboard.com/music/rb-hip-hop/doja-cat-global-citizen-move-afrika-south-africa-rwanda-1236179063/",
+        "http://www.kigaliarena.rw",
+        "http://bkarena.rw/",
+        "https://www.youtube.com/watch?v=tQY4TWRHPZA"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Construction",
+          "anchor": "Construction"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Events",
+          "anchor": "Events"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Features",
+          "anchor": "Features"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Kigali_Arena_logo_2022.png",
+        "BK_ARENA(ENTERTAINMENT_HOUSE).jpg",
+        "Commons-logo.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Kigali Arena logo 2022.png",
+          "fileName": "Kigali Arena logo 2022.png",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Kigali_Arena_logo_2022.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Kigali_Arena_logo_2022.png/250px-Kigali_Arena_logo_2022.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kigali_Arena_logo_2022.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Kigali_Arena_logo_2022.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Kigali_Arena_logo_2022.png/500px-Kigali_Arena_logo_2022.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 96,
+          "originalWidth": 508,
+          "originalHeight": 196,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=BK_Arena&revid=1355325701&groups=_99a741e1bd337f40834e802cdb4c3da63aabf522&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=BK_Arena&revid=1355325701&groups=_99a741e1bd337f40834e802cdb4c3da63aabf522&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of BK Arena"
+        },
+        {
+          "fileTitle": "File:BK ARENA(ENTERTAINMENT HOUSE).jpg",
+          "fileName": "BK ARENA(ENTERTAINMENT HOUSE).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:BK_ARENA(ENTERTAINMENT_HOUSE).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BK_ARENA%28ENTERTAINMENT_HOUSE%29.jpg/330px-BK_ARENA%28ENTERTAINMENT_HOUSE%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/BK_ARENA(ENTERTAINMENT_HOUSE).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/BK_ARENA(ENTERTAINMENT_HOUSE).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BK_ARENA%28ENTERTAINMENT_HOUSE%29.jpg/960px-BK_ARENA%28ENTERTAINMENT_HOUSE%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 302,
+          "height": 145,
+          "originalWidth": 3987,
+          "originalHeight": 1908,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "BK ARENA-KIGALI RWANDA"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 40,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 50,
+          "rowText": "Rwanda\nKigali\nBK Arena\n2019\n10,000",
+          "rowHtml": "<tr>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Rwanda\" title=\"Rwanda\">Rwanda</a>\n</td>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Kigali\" title=\"Kigali\">Kigali</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/BK_Arena\" title=\"BK Arena\">BK Arena</a>\n</td>\n<td align=\"center\">2019\n</td>\n<td align=\"center\">10,000\n</td>\n<td>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 50,
+              "cell": {
+                "text": "Rwanda",
+                "lines": [
+                  "Rwanda"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Rwanda",
+                    "title": "Rwanda",
+                    "wikiTitle": "Rwanda",
+                    "href": "https://en.wikipedia.org/wiki/Rwanda",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 50,
+              "cell": {
+                "text": "Kigali",
+                "lines": [
+                  "Kigali"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Kigali",
+                    "title": "Kigali",
+                    "wikiTitle": "Kigali",
+                    "href": "https://en.wikipedia.org/wiki/Kigali",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 50,
+              "cell": {
+                "text": "BK Arena",
+                "lines": [
+                  "BK Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "BK Arena",
+                    "title": "BK Arena",
+                    "wikiTitle": "BK Arena",
+                    "href": "https://en.wikipedia.org/wiki/BK_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 50,
+              "cell": {
+                "text": "2019",
+                "lines": [
+                  "2019"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 50,
+              "cell": {
+                "text": "10,000",
+                "lines": [
+                  "10,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 50,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 50,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "BK Arena",
+            "lines": [
+              "BK Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "BK Arena",
+                "title": "BK Arena",
+                "wikiTitle": "BK Arena",
+                "href": "https://en.wikipedia.org/wiki/BK_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:52:22.584Z"
+    }
+  ]
+}

@@ -1,0 +1,2639 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Singapore",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 3
+  },
+  "stats": {
+    "arenaCount": 3,
+    "sourceRowCount": 3,
+    "mediaRecordCount": 15,
+    "sourceTypeCounts": {
+      "world_master_list": 3
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-22856034",
+      "pageId": 22856034,
+      "revisionId": null,
+      "title": "Bishan Sports Hall",
+      "displayTitle": "Bishan Sports Hall",
+      "url": "https://en.wikipedia.org/wiki/Bishan_Sports_Hall",
+      "wikidataItem": "Q4917333",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q4917333",
+      "aliases": [
+        "Bishan Sports Hall"
+      ],
+      "requestedTitles": [
+        "Bishan Sports Hall"
+      ],
+      "sourceLinkTexts": [
+        "Bishan Sports Hall"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Bishan_Sports_Hall"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 1.3555444,
+        "longitude": 103.8509556,
+        "raw": "1.3555444; 103.8509556"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Bishan Sports Hall",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Bishan, Singapore",
+            "lines": [
+              "Bishan, Singapore"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Bishan,_Singapore\" title=\"Bishan, Singapore\">Bishan</a>, <a href=\"https://en.wikipedia.org/wiki/Singapore\" title=\"Singapore\">Singapore</a></td>",
+            "links": [
+              {
+                "text": "Bishan",
+                "title": "Bishan, Singapore",
+                "wikiTitle": "Bishan, Singapore",
+                "href": "https://en.wikipedia.org/wiki/Bishan,_Singapore",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Singapore",
+                "title": "Singapore",
+                "wikiTitle": "Singapore",
+                "href": "https://en.wikipedia.org/wiki/Singapore",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "1°21′19.96″N 103°51′3.44″E﻿ / ﻿1.3555444°N 103.8509556°E﻿ / 1.3555444; 103.8509556",
+            "lines": [
+              "1°21′19.96″N 103°51′3.44″E﻿ / ﻿1.3555444°N 103.8509556°E﻿ / 1.3555444; 103.8509556"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Bishan_Sports_Hall&amp;params=1_21_19.96_N_103_51_3.44_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">1°21′19.96″N</span> <span class=\"longitude\">103°51′3.44″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">1.3555444°N 103.8509556°E</span><span>﻿ / <span class=\"geo\">1.3555444; 103.8509556</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "1°21′19.96″N 103°51′3.44″E﻿ / ﻿1.3555444°N 103.8509556°E﻿ / 1.3555444; 103.8509556",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Bishan_Sports_Hall&params=1_21_19.96_N_103_51_3.44_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Singapore Sports Council",
+            "lines": [
+              "Singapore Sports Council"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Singapore_Sports_Council\" class=\"mw-redirect\" title=\"Singapore Sports Council\">Singapore Sports Council</a></td>",
+            "links": [
+              {
+                "text": "Singapore Sports Council",
+                "title": "Singapore Sports Council",
+                "wikiTitle": "Singapore Sports Council",
+                "href": "https://en.wikipedia.org/wiki/Singapore_Sports_Council",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Singapore Sports Council",
+            "lines": [
+              "Singapore Sports Council"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Singapore_Sports_Council\" class=\"mw-redirect\" title=\"Singapore Sports Council\">Singapore Sports Council</a></td>",
+            "links": [
+              {
+                "text": "Singapore Sports Council",
+                "title": "Singapore Sports Council",
+                "wikiTitle": "Singapore Sports Council",
+                "href": "https://en.wikipedia.org/wiki/Singapore_Sports_Council",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "1,920",
+            "lines": [
+              "1,920"
+            ],
+            "html": "<td class=\"infobox-data\">1,920</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2009 (for the 2010 Summer Youth Olympics)",
+            "lines": [
+              "2009 (for the 2010 Summer Youth Olympics)"
+            ],
+            "html": "<td class=\"infobox-data\">2009 (for the <a href=\"https://en.wikipedia.org/wiki/2010_Summer_Youth_Olympics\" title=\"2010 Summer Youth Olympics\">2010 Summer Youth Olympics</a>)</td>",
+            "links": [
+              {
+                "text": "2010 Summer Youth Olympics",
+                "title": "2010 Summer Youth Olympics",
+                "wikiTitle": "2010 Summer Youth Olympics",
+                "href": "https://en.wikipedia.org/wiki/2010_Summer_Youth_Olympics",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Bishan, Singapore",
+              "lines": [
+                "Bishan, Singapore"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Bishan,_Singapore\" title=\"Bishan, Singapore\">Bishan</a>, <a href=\"https://en.wikipedia.org/wiki/Singapore\" title=\"Singapore\">Singapore</a></td>",
+              "links": [
+                {
+                  "text": "Bishan",
+                  "title": "Bishan, Singapore",
+                  "wikiTitle": "Bishan, Singapore",
+                  "href": "https://en.wikipedia.org/wiki/Bishan,_Singapore",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Singapore",
+                  "title": "Singapore",
+                  "wikiTitle": "Singapore",
+                  "href": "https://en.wikipedia.org/wiki/Singapore",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "1°21′19.96″N 103°51′3.44″E﻿ / ﻿1.3555444°N 103.8509556°E﻿ / 1.3555444; 103.8509556",
+              "lines": [
+                "1°21′19.96″N 103°51′3.44″E﻿ / ﻿1.3555444°N 103.8509556°E﻿ / 1.3555444; 103.8509556"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Bishan_Sports_Hall&amp;params=1_21_19.96_N_103_51_3.44_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">1°21′19.96″N</span> <span class=\"longitude\">103°51′3.44″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">1.3555444°N 103.8509556°E</span><span>﻿ / <span class=\"geo\">1.3555444; 103.8509556</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "1°21′19.96″N 103°51′3.44″E﻿ / ﻿1.3555444°N 103.8509556°E﻿ / 1.3555444; 103.8509556",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Bishan_Sports_Hall&params=1_21_19.96_N_103_51_3.44_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Singapore Sports Council",
+              "lines": [
+                "Singapore Sports Council"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Singapore_Sports_Council\" class=\"mw-redirect\" title=\"Singapore Sports Council\">Singapore Sports Council</a></td>",
+              "links": [
+                {
+                  "text": "Singapore Sports Council",
+                  "title": "Singapore Sports Council",
+                  "wikiTitle": "Singapore Sports Council",
+                  "href": "https://en.wikipedia.org/wiki/Singapore_Sports_Council",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Singapore Sports Council",
+              "lines": [
+                "Singapore Sports Council"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Singapore_Sports_Council\" class=\"mw-redirect\" title=\"Singapore Sports Council\">Singapore Sports Council</a></td>",
+              "links": [
+                {
+                  "text": "Singapore Sports Council",
+                  "title": "Singapore Sports Council",
+                  "wikiTitle": "Singapore Sports Council",
+                  "href": "https://en.wikipedia.org/wiki/Singapore_Sports_Council",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "1,920",
+              "lines": [
+                "1,920"
+              ],
+              "html": "<td class=\"infobox-data\">1,920</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2009 (for the 2010 Summer Youth Olympics)",
+              "lines": [
+                "2009 (for the 2010 Summer Youth Olympics)"
+              ],
+              "html": "<td class=\"infobox-data\">2009 (for the <a href=\"https://en.wikipedia.org/wiki/2010_Summer_Youth_Olympics\" title=\"2010 Summer Youth Olympics\">2010 Summer Youth Olympics</a>)</td>",
+              "links": [
+                {
+                  "text": "2010 Summer Youth Olympics",
+                  "title": "2010 Summer Youth Olympics",
+                  "wikiTitle": "2010 Summer Youth Olympics",
+                  "href": "https://en.wikipedia.org/wiki/2010_Summer_Youth_Olympics",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Bishan, Singapore"
+          ],
+          "coordinates": [
+            "1°21′19.96″N 103°51′3.44″E﻿ / ﻿1.3555444°N 103.8509556°E﻿ / 1.3555444; 103.8509556"
+          ],
+          "owner": [
+            "Singapore Sports Council"
+          ],
+          "operator": [
+            "Singapore Sports Council"
+          ],
+          "capacity": [
+            "1,920"
+          ],
+          "renovated": [
+            "2009 (for the 2010 Summer Youth Olympics)"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "1,920"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Bishan Sports Hall, Singapore, during the 2010 Summer Youth Olympics - 20100816.JPG",
+            "fileName": "Bishan Sports Hall, Singapore, during the 2010 Summer Youth Olympics - 20100816.JPG",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Bishan_Sports_Hall,_Singapore,_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG/250px-Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG/500px-Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 167,
+            "originalWidth": 3872,
+            "originalHeight": 2592,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Bishan Sports Hall during the 2010 Summer Youth Olympics"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Bishan_Sports_Hall&revid=1329964441&groups=_65031ed83381e2e08e2688b452dd35c99029fb22&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Bishan_Sports_Hall&revid=1329964441&groups=_65031ed83381e2e08e2688b452dd35c99029fb22&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Bishan Sports Hall"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Bishan Sports Hall</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Bishan_Sports_Hall,_Singapore,_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG/250px-Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG\" width=\"250\" height=\"167\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG/500px-Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG 2x\" data-file-width=\"3872\" data-file-height=\"2592\"></a></span><div class=\"infobox-caption\">Bishan Sports Hall during the <a href=\"https://en.wikipedia.org/wiki/2010_Summer_Youth_Olympics\" title=\"2010 Summer Youth Olympics\">2010 Summer Youth Olympics</a></div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_65031ed83381e2e08e2688b452dd35c99029fb22&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Bishan_Sports_Hall&amp;revid=1329964441&amp;groups=_65031ed83381e2e08e2688b452dd35c99029fb22&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Bishan_Sports_Hall&amp;revid=1329964441&amp;groups=_65031ed83381e2e08e2688b452dd35c99029fb22&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Bishan Sports Hall</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Bishan,_Singapore\" title=\"Bishan, Singapore\">Bishan</a>, <a href=\"https://en.wikipedia.org/wiki/Singapore\" title=\"Singapore\">Singapore</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Bishan_Sports_Hall&amp;params=1_21_19.96_N_103_51_3.44_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">1°21′19.96″N</span> <span class=\"longitude\">103°51′3.44″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">1.3555444°N 103.8509556°E</span><span>﻿ / <span class=\"geo\">1.3555444; 103.8509556</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Singapore_Sports_Council\" class=\"mw-redirect\" title=\"Singapore Sports Council\">Singapore Sports Council</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Singapore_Sports_Council\" class=\"mw-redirect\" title=\"Singapore Sports Council\">Singapore Sports Council</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">1,920</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2009 (for the <a href=\"https://en.wikipedia.org/wiki/2010_Summer_Youth_Olympics\" title=\"2010 Summer Youth Olympics\">2010 Summer Youth Olympics</a>)</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Webarchive_template_wayback_links",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Use_British_English_from_November_2014",
+        "All_Wikipedia_articles_written_in_British_English",
+        "Use_dmy_dates_from_November_2014",
+        "Indoor_arenas_in_Singapore",
+        "Venues_of_the_2010_Summer_Youth_Olympics",
+        "Buildings_and_structures_in_Bishan,_Singapore",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Bishan_Sports_Hall&params=1_21_19.96_N_103_51_3.44_E_type:landmark",
+        "http://www.singapore2010.sg/public/sg2010/en/en_venues/en_compvenues/en_bishan_sports_hall.html",
+        "https://web.archive.org/web/20100418153759/http://www.singapore2010.sg/public/sg2010/en/en_venues/en_compvenues/en_bishan_sports_hall.html"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "2010 Summer Youth Olympics",
+          "anchor": "2010_Summer_Youth_Olympics"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Bishan_Sports_Hall,_Singapore,_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG",
+        "YOGArtisticGymnastics-BishanSportsHall-Singapore-20100816-14.JPG"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Bishan Sports Hall, Singapore, during the 2010 Summer Youth Olympics - 20100816.JPG",
+          "fileName": "Bishan Sports Hall, Singapore, during the 2010 Summer Youth Olympics - 20100816.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Bishan_Sports_Hall,_Singapore,_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG/250px-Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG/500px-Bishan_Sports_Hall%2C_Singapore%2C_during_the_2010_Summer_Youth_Olympics_-_20100816.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 3872,
+          "originalHeight": 2592,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Bishan Sports Hall during the 2010 Summer Youth Olympics"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Bishan_Sports_Hall&revid=1329964441&groups=_65031ed83381e2e08e2688b452dd35c99029fb22&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Bishan_Sports_Hall&revid=1329964441&groups=_65031ed83381e2e08e2688b452dd35c99029fb22&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Bishan Sports Hall"
+        },
+        {
+          "fileTitle": "File:YOGArtisticGymnastics-BishanSportsHall-Singapore-20100816-14.JPG",
+          "fileName": "YOGArtisticGymnastics-BishanSportsHall-Singapore-20100816-14.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:YOGArtisticGymnastics-BishanSportsHall-Singapore-20100816-14.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/YOGArtisticGymnastics-BishanSportsHall-Singapore-20100816-14.JPG/250px-YOGArtisticGymnastics-BishanSportsHall-Singapore-20100816-14.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/YOGArtisticGymnastics-BishanSportsHall-Singapore-20100816-14.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/YOGArtisticGymnastics-BishanSportsHall-Singapore-20100816-14.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/YOGArtisticGymnastics-BishanSportsHall-Singapore-20100816-14.JPG/500px-YOGArtisticGymnastics-BishanSportsHall-Singapore-20100816-14.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 3872,
+          "originalHeight": 2592,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Bishan Sports Hall set up for the gymnastics competitions during the 2010 Summer Youth Olympics"
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 418,
+          "rowText": "Singapore\nSingapore\nBishan Sports Hall\n1,920\n2010 Summer Youth Olympics",
+          "rowHtml": "<tr>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Singapore\" title=\"Singapore\">Singapore</a>\n</td>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Singapore\" title=\"Singapore\">Singapore</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Bishan_Sports_Hall\" title=\"Bishan Sports Hall\">Bishan Sports Hall</a>\n</td>\n<td>\n</td>\n<td>1,920\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/2010_Summer_Youth_Olympics\" title=\"2010 Summer Youth Olympics\">2010 Summer Youth Olympics</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 418,
+              "cell": {
+                "text": "Singapore",
+                "lines": [
+                  "Singapore"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Singapore",
+                    "title": "Singapore",
+                    "wikiTitle": "Singapore",
+                    "href": "https://en.wikipedia.org/wiki/Singapore",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 418,
+              "cell": {
+                "text": "Singapore",
+                "lines": [
+                  "Singapore"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Singapore",
+                    "title": "Singapore",
+                    "wikiTitle": "Singapore",
+                    "href": "https://en.wikipedia.org/wiki/Singapore",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 418,
+              "cell": {
+                "text": "Bishan Sports Hall",
+                "lines": [
+                  "Bishan Sports Hall"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Bishan Sports Hall",
+                    "title": "Bishan Sports Hall",
+                    "wikiTitle": "Bishan Sports Hall",
+                    "href": "https://en.wikipedia.org/wiki/Bishan_Sports_Hall",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 418,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 418,
+              "cell": {
+                "text": "1,920",
+                "lines": [
+                  "1,920"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 418,
+              "cell": {
+                "text": "2010 Summer Youth Olympics",
+                "lines": [
+                  "2010 Summer Youth Olympics"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "2010 Summer Youth Olympics",
+                    "title": "2010 Summer Youth Olympics",
+                    "wikiTitle": "2010 Summer Youth Olympics",
+                    "href": "https://en.wikipedia.org/wiki/2010_Summer_Youth_Olympics",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Bishan Sports Hall",
+            "lines": [
+              "Bishan Sports Hall"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Bishan Sports Hall",
+                "title": "Bishan Sports Hall",
+                "wikiTitle": "Bishan Sports Hall",
+                "href": "https://en.wikipedia.org/wiki/Bishan_Sports_Hall",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:41.512Z"
+    },
+    {
+      "id": "wikipedia-page-4230849",
+      "pageId": 4230849,
+      "revisionId": null,
+      "title": "Singapore Indoor Stadium",
+      "displayTitle": "Singapore Indoor Stadium",
+      "url": "https://en.wikipedia.org/wiki/Singapore_Indoor_Stadium",
+      "wikidataItem": "Q618988",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q618988",
+      "aliases": [
+        "Singapore Indoor Stadium"
+      ],
+      "requestedTitles": [
+        "Singapore Indoor Stadium"
+      ],
+      "sourceLinkTexts": [
+        "Singapore Indoor Stadium"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Singapore_Indoor_Stadium"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 1.3006,
+        "longitude": 103.8744,
+        "raw": "1.3006; 103.8744"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Singapore Indoor Stadium",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "2 Stadium Walk, Singapore 397691",
+            "lines": [
+              "2 Stadium Walk, Singapore 397691"
+            ],
+            "html": "<td class=\"infobox-data label\">2 Stadium Walk, Singapore 397691</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "1°18′02″N 103°52′28″E﻿ / ﻿1.3006°N 103.8744°E﻿ / 1.3006; 103.8744",
+            "lines": [
+              "1°18′02″N 103°52′28″E﻿ / ﻿1.3006°N 103.8744°E﻿ / 1.3006; 103.8744"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Singapore_Indoor_Stadium&amp;params=1.3006_N_103.8744_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">1°18′02″N</span> <span class=\"longitude\">103°52′28″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">1.3006°N 103.8744°E</span><span>﻿ / <span class=\"geo\">1.3006; 103.8744</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "1°18′02″N 103°52′28″E﻿ / ﻿1.3006°N 103.8744°E﻿ / 1.3006; 103.8744",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Singapore_Indoor_Stadium&params=1.3006_N_103.8744_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Government of Singapore",
+            "lines": [
+              "Government of Singapore"
+            ],
+            "html": "<td class=\"infobox-data agent\">Government of Singapore</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Sport Singapore",
+            "lines": [
+              "Sport Singapore"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Sport_Singapore\" title=\"Sport Singapore\">Sport Singapore</a></td>",
+            "links": [
+              {
+                "text": "Sport Singapore",
+                "title": "Sport Singapore",
+                "wikiTitle": "Sport Singapore",
+                "href": "https://en.wikipedia.org/wiki/Sport_Singapore",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "Concerts: 8,000–9,000\nSporting events: 12,000\nMaximum: 15,000",
+            "lines": [
+              "Concerts: 8,000–9,000",
+              "Sporting events: 12,000",
+              "Maximum: 15,000"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Concert\" title=\"Concert\">Concerts</a>: 8,000–9,000<br><a href=\"https://en.wikipedia.org/wiki/Sport\" title=\"Sport\">Sporting events</a>: 12,000<br>Maximum: 15,000</td>",
+            "links": [
+              {
+                "text": "Concerts",
+                "title": "Concert",
+                "wikiTitle": "Concert",
+                "href": "https://en.wikipedia.org/wiki/Concert",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Sporting events",
+                "title": "Sport",
+                "wikiTitle": "Sport",
+                "href": "https://en.wikipedia.org/wiki/Sport",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Public transit",
+            "key": "public_transit",
+            "group": null,
+            "text": "CC6  Stadium\nEW10  Kallang\nTE23  Tanjong Rhu",
+            "lines": [
+              "CC6  Stadium",
+              "EW10  Kallang",
+              "TE23  Tanjong Rhu"
+            ],
+            "html": "<td class=\"infobox-data\"><span><span class=\"l\"><span class=\"lc\"><span class=\"nowrap\"> </span></span></span><span><b>CC6</b></span><span><span class=\"nowrap\"> </span></span></span> <a href=\"https://en.wikipedia.org/wiki/Stadium_MRT_station\" title=\"Stadium MRT station\">Stadium</a><br><span><span class=\"l\"><span class=\"lc\"><span class=\"nowrap\"> </span></span></span><span><b>EW10</b></span><span><span class=\"nowrap\"> </span></span></span> <a href=\"https://en.wikipedia.org/wiki/Kallang_MRT_station\" title=\"Kallang MRT station\">Kallang</a><br><span><span class=\"l\"><span class=\"lc\"><span class=\"nowrap\"> </span></span></span><span><b>TE23</b></span><span><span class=\"nowrap\"> </span></span></span> <a href=\"https://en.wikipedia.org/wiki/Tanjong_Rhu_MRT_station\" title=\"Tanjong Rhu MRT station\">Tanjong Rhu</a></td>",
+            "links": [
+              {
+                "text": "Stadium",
+                "title": "Stadium MRT station",
+                "wikiTitle": "Stadium MRT station",
+                "href": "https://en.wikipedia.org/wiki/Stadium_MRT_station",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Kallang",
+                "title": "Kallang MRT station",
+                "wikiTitle": "Kallang MRT station",
+                "href": "https://en.wikipedia.org/wiki/Kallang_MRT_station",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Tanjong Rhu",
+                "title": "Tanjong Rhu MRT station",
+                "wikiTitle": "Tanjong Rhu MRT station",
+                "href": "https://en.wikipedia.org/wiki/Tanjong_Rhu_MRT_station",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "1 January 1985 (1985-01-01)",
+            "lines": [
+              "1 January 1985 (1985-01-01)"
+            ],
+            "html": "<td class=\"infobox-data\">1&nbsp;January 1985<span>&nbsp;(<span class=\"bday dtstart published updated\">1985-01-01</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "1 March 1987 (1987-03-01)",
+            "lines": [
+              "1 March 1987 (1987-03-01)"
+            ],
+            "html": "<td class=\"infobox-data\">1&nbsp;March 1987<span>&nbsp;(<span class=\"bday dtstart published updated\">1987-03-01</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "31 December 1989 (1989-12-31)",
+            "lines": [
+              "31 December 1989 (1989-12-31)"
+            ],
+            "html": "<td class=\"infobox-data\">31&nbsp;December 1989<span>&nbsp;(<span class=\"bday dtstart published updated\">1989-12-31</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "S$90 million",
+            "lines": [
+              "S$90 million"
+            ],
+            "html": "<td class=\"infobox-data\">S$90&nbsp;million</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Kenzo Tange",
+            "lines": [
+              "Kenzo Tange"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Kenzo_Tange\" class=\"mw-redirect\" title=\"Kenzo Tange\">Kenzo Tange</a></td>",
+            "links": [
+              {
+                "text": "Kenzo Tange",
+                "title": "Kenzo Tange",
+                "wikiTitle": "Kenzo Tange",
+                "href": "https://en.wikipedia.org/wiki/Kenzo_Tange",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Sport Singapore\nSingapore Slingers\nSingapore Slammers (IPTL, 2014–2016)\nSingapore Open",
+            "lines": [
+              "Sport Singapore",
+              "Singapore Slingers",
+              "Singapore Slammers (IPTL, 2014–2016)",
+              "Singapore Open"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Sport_Singapore\" title=\"Sport Singapore\">Sport Singapore</a><br><a href=\"https://en.wikipedia.org/wiki/Singapore_Slingers\" title=\"Singapore Slingers\">Singapore Slingers</a><br><a href=\"https://en.wikipedia.org/wiki/Singapore_Slammers\" title=\"Singapore Slammers\">Singapore Slammers</a> (<a href=\"https://en.wikipedia.org/wiki/International_Premier_Tennis_League\" title=\"International Premier Tennis League\">IPTL</a>, 2014–2016)<br><a href=\"https://en.wikipedia.org/wiki/Singapore_Open_(badminton)\" title=\"Singapore Open (badminton)\">Singapore Open</a></td>",
+            "links": [
+              {
+                "text": "Sport Singapore",
+                "title": "Sport Singapore",
+                "wikiTitle": "Sport Singapore",
+                "href": "https://en.wikipedia.org/wiki/Sport_Singapore",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Singapore Slingers",
+                "title": "Singapore Slingers",
+                "wikiTitle": "Singapore Slingers",
+                "href": "https://en.wikipedia.org/wiki/Singapore_Slingers",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Singapore Slammers",
+                "title": "Singapore Slammers",
+                "wikiTitle": "Singapore Slammers",
+                "href": "https://en.wikipedia.org/wiki/Singapore_Slammers",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "IPTL",
+                "title": "International Premier Tennis League",
+                "wikiTitle": "International Premier Tennis League",
+                "href": "https://en.wikipedia.org/wiki/International_Premier_Tennis_League",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Singapore Open",
+                "title": "Singapore Open (badminton)",
+                "wikiTitle": "Singapore Open (badminton)",
+                "href": "https://en.wikipedia.org/wiki/Singapore_Open_(badminton)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "2 Stadium Walk, Singapore 397691",
+              "lines": [
+                "2 Stadium Walk, Singapore 397691"
+              ],
+              "html": "<td class=\"infobox-data label\">2 Stadium Walk, Singapore 397691</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "1°18′02″N 103°52′28″E﻿ / ﻿1.3006°N 103.8744°E﻿ / 1.3006; 103.8744",
+              "lines": [
+                "1°18′02″N 103°52′28″E﻿ / ﻿1.3006°N 103.8744°E﻿ / 1.3006; 103.8744"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Singapore_Indoor_Stadium&amp;params=1.3006_N_103.8744_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">1°18′02″N</span> <span class=\"longitude\">103°52′28″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">1.3006°N 103.8744°E</span><span>﻿ / <span class=\"geo\">1.3006; 103.8744</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "1°18′02″N 103°52′28″E﻿ / ﻿1.3006°N 103.8744°E﻿ / 1.3006; 103.8744",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Singapore_Indoor_Stadium&params=1.3006_N_103.8744_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Government of Singapore",
+              "lines": [
+                "Government of Singapore"
+              ],
+              "html": "<td class=\"infobox-data agent\">Government of Singapore</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Sport Singapore",
+              "lines": [
+                "Sport Singapore"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Sport_Singapore\" title=\"Sport Singapore\">Sport Singapore</a></td>",
+              "links": [
+                {
+                  "text": "Sport Singapore",
+                  "title": "Sport Singapore",
+                  "wikiTitle": "Sport Singapore",
+                  "href": "https://en.wikipedia.org/wiki/Sport_Singapore",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "Concerts: 8,000–9,000\nSporting events: 12,000\nMaximum: 15,000",
+              "lines": [
+                "Concerts: 8,000–9,000",
+                "Sporting events: 12,000",
+                "Maximum: 15,000"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Concert\" title=\"Concert\">Concerts</a>: 8,000–9,000<br><a href=\"https://en.wikipedia.org/wiki/Sport\" title=\"Sport\">Sporting events</a>: 12,000<br>Maximum: 15,000</td>",
+              "links": [
+                {
+                  "text": "Concerts",
+                  "title": "Concert",
+                  "wikiTitle": "Concert",
+                  "href": "https://en.wikipedia.org/wiki/Concert",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Sporting events",
+                  "title": "Sport",
+                  "wikiTitle": "Sport",
+                  "href": "https://en.wikipedia.org/wiki/Sport",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "public_transit": [
+            {
+              "label": "Public transit",
+              "key": "public_transit",
+              "group": null,
+              "text": "CC6  Stadium\nEW10  Kallang\nTE23  Tanjong Rhu",
+              "lines": [
+                "CC6  Stadium",
+                "EW10  Kallang",
+                "TE23  Tanjong Rhu"
+              ],
+              "html": "<td class=\"infobox-data\"><span><span class=\"l\"><span class=\"lc\"><span class=\"nowrap\"> </span></span></span><span><b>CC6</b></span><span><span class=\"nowrap\"> </span></span></span> <a href=\"https://en.wikipedia.org/wiki/Stadium_MRT_station\" title=\"Stadium MRT station\">Stadium</a><br><span><span class=\"l\"><span class=\"lc\"><span class=\"nowrap\"> </span></span></span><span><b>EW10</b></span><span><span class=\"nowrap\"> </span></span></span> <a href=\"https://en.wikipedia.org/wiki/Kallang_MRT_station\" title=\"Kallang MRT station\">Kallang</a><br><span><span class=\"l\"><span class=\"lc\"><span class=\"nowrap\"> </span></span></span><span><b>TE23</b></span><span><span class=\"nowrap\"> </span></span></span> <a href=\"https://en.wikipedia.org/wiki/Tanjong_Rhu_MRT_station\" title=\"Tanjong Rhu MRT station\">Tanjong Rhu</a></td>",
+              "links": [
+                {
+                  "text": "Stadium",
+                  "title": "Stadium MRT station",
+                  "wikiTitle": "Stadium MRT station",
+                  "href": "https://en.wikipedia.org/wiki/Stadium_MRT_station",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Kallang",
+                  "title": "Kallang MRT station",
+                  "wikiTitle": "Kallang MRT station",
+                  "href": "https://en.wikipedia.org/wiki/Kallang_MRT_station",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Tanjong Rhu",
+                  "title": "Tanjong Rhu MRT station",
+                  "wikiTitle": "Tanjong Rhu MRT station",
+                  "href": "https://en.wikipedia.org/wiki/Tanjong_Rhu_MRT_station",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "1 January 1985 (1985-01-01)",
+              "lines": [
+                "1 January 1985 (1985-01-01)"
+              ],
+              "html": "<td class=\"infobox-data\">1&nbsp;January 1985<span>&nbsp;(<span class=\"bday dtstart published updated\">1985-01-01</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "1 March 1987 (1987-03-01)",
+              "lines": [
+                "1 March 1987 (1987-03-01)"
+              ],
+              "html": "<td class=\"infobox-data\">1&nbsp;March 1987<span>&nbsp;(<span class=\"bday dtstart published updated\">1987-03-01</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "31 December 1989 (1989-12-31)",
+              "lines": [
+                "31 December 1989 (1989-12-31)"
+              ],
+              "html": "<td class=\"infobox-data\">31&nbsp;December 1989<span>&nbsp;(<span class=\"bday dtstart published updated\">1989-12-31</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "S$90 million",
+              "lines": [
+                "S$90 million"
+              ],
+              "html": "<td class=\"infobox-data\">S$90&nbsp;million</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Kenzo Tange",
+              "lines": [
+                "Kenzo Tange"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Kenzo_Tange\" class=\"mw-redirect\" title=\"Kenzo Tange\">Kenzo Tange</a></td>",
+              "links": [
+                {
+                  "text": "Kenzo Tange",
+                  "title": "Kenzo Tange",
+                  "wikiTitle": "Kenzo Tange",
+                  "href": "https://en.wikipedia.org/wiki/Kenzo_Tange",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Sport Singapore\nSingapore Slingers\nSingapore Slammers (IPTL, 2014–2016)\nSingapore Open",
+              "lines": [
+                "Sport Singapore",
+                "Singapore Slingers",
+                "Singapore Slammers (IPTL, 2014–2016)",
+                "Singapore Open"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Sport_Singapore\" title=\"Sport Singapore\">Sport Singapore</a><br><a href=\"https://en.wikipedia.org/wiki/Singapore_Slingers\" title=\"Singapore Slingers\">Singapore Slingers</a><br><a href=\"https://en.wikipedia.org/wiki/Singapore_Slammers\" title=\"Singapore Slammers\">Singapore Slammers</a> (<a href=\"https://en.wikipedia.org/wiki/International_Premier_Tennis_League\" title=\"International Premier Tennis League\">IPTL</a>, 2014–2016)<br><a href=\"https://en.wikipedia.org/wiki/Singapore_Open_(badminton)\" title=\"Singapore Open (badminton)\">Singapore Open</a></td>",
+              "links": [
+                {
+                  "text": "Sport Singapore",
+                  "title": "Sport Singapore",
+                  "wikiTitle": "Sport Singapore",
+                  "href": "https://en.wikipedia.org/wiki/Sport_Singapore",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Singapore Slingers",
+                  "title": "Singapore Slingers",
+                  "wikiTitle": "Singapore Slingers",
+                  "href": "https://en.wikipedia.org/wiki/Singapore_Slingers",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Singapore Slammers",
+                  "title": "Singapore Slammers",
+                  "wikiTitle": "Singapore Slammers",
+                  "href": "https://en.wikipedia.org/wiki/Singapore_Slammers",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "IPTL",
+                  "title": "International Premier Tennis League",
+                  "wikiTitle": "International Premier Tennis League",
+                  "href": "https://en.wikipedia.org/wiki/International_Premier_Tennis_League",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Singapore Open",
+                  "title": "Singapore Open (badminton)",
+                  "wikiTitle": "Singapore Open (badminton)",
+                  "href": "https://en.wikipedia.org/wiki/Singapore_Open_(badminton)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "2 Stadium Walk, Singapore 397691"
+          ],
+          "coordinates": [
+            "1°18′02″N 103°52′28″E﻿ / ﻿1.3006°N 103.8744°E﻿ / 1.3006; 103.8744"
+          ],
+          "owner": [
+            "Government of Singapore"
+          ],
+          "operator": [
+            "Sport Singapore"
+          ],
+          "capacity": [
+            "Concerts: 8,000–9,000\nSporting events: 12,000\nMaximum: 15,000"
+          ],
+          "public_transit": [
+            "CC6  Stadium\nEW10  Kallang\nTE23  Tanjong Rhu"
+          ],
+          "groundbreaking": [
+            "1 January 1985 (1985-01-01)"
+          ],
+          "built": [
+            "1 March 1987 (1987-03-01)"
+          ],
+          "opened": [
+            "31 December 1989 (1989-12-31)"
+          ],
+          "cost": [
+            "S$90 million"
+          ],
+          "architect": [
+            "Kenzo Tange"
+          ],
+          "tenants": [
+            "Sport Singapore\nSingapore Slingers\nSingapore Slammers (IPTL, 2014–2016)\nSingapore Open"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "Concerts: 8,000–9,000",
+          "Sporting events: 12,000",
+          "Maximum: 15,000"
+        ],
+        "tenants": [
+          "Sport Singapore",
+          "Singapore Slingers",
+          "Singapore Slammers (IPTL, 2014–2016)",
+          "Singapore Open"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Kallang Indoor Stadium (8151029247).jpg",
+            "fileName": "Kallang Indoor Stadium (8151029247).jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Kallang_Indoor_Stadium_(8151029247).jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kallang_Indoor_Stadium_%288151029247%29.jpg/250px-Kallang_Indoor_Stadium_%288151029247%29.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kallang_Indoor_Stadium_(8151029247).jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Kallang_Indoor_Stadium_(8151029247).jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kallang_Indoor_Stadium_%288151029247%29.jpg/500px-Kallang_Indoor_Stadium_%288151029247%29.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 167,
+            "originalWidth": 1600,
+            "originalHeight": 1067,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Exterior view"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,15,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Singapore_Indoor_Stadium&revid=1360874573&groups=_b1482de40d64bad0a40f8a9e87b3adb0ae759d3f&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/15",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Singapore_Indoor_Stadium&revid=1360874573&groups=_b1482de40d64bad0a40f8a9e87b3adb0ae759d3f&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Singapore Indoor Stadium"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Singapore Indoor Stadium</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\">新加坡室内体育馆<br><i>Stadium Tertutup Singapura</i><br>சிங்கப்பூர் மூடப்பட்ட அரங்கம்</td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Kallang_Indoor_Stadium_(8151029247).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kallang_Indoor_Stadium_%288151029247%29.jpg/250px-Kallang_Indoor_Stadium_%288151029247%29.jpg\" width=\"250\" height=\"167\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kallang_Indoor_Stadium_%288151029247%29.jpg/500px-Kallang_Indoor_Stadium_%288151029247%29.jpg 2x\" data-file-width=\"1600\" data-file-height=\"1067\"></a></span><div class=\"infobox-caption\">Exterior view</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"15\" data-overlays=\"[&quot;_b1482de40d64bad0a40f8a9e87b3adb0ae759d3f&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,15,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Singapore_Indoor_Stadium&amp;revid=1360874573&amp;groups=_b1482de40d64bad0a40f8a9e87b3adb0ae759d3f&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/15, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Singapore_Indoor_Stadium&amp;revid=1360874573&amp;groups=_b1482de40d64bad0a40f8a9e87b3adb0ae759d3f&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Singapore Indoor Stadium</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">2 Stadium Walk, Singapore 397691</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Singapore_Indoor_Stadium&amp;params=1.3006_N_103.8744_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">1°18′02″N</span> <span class=\"longitude\">103°52′28″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">1.3006°N 103.8744°E</span><span>﻿ / <span class=\"geo\">1.3006; 103.8744</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Government of Singapore</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Sport_Singapore\" title=\"Sport Singapore\">Sport Singapore</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Concert\" title=\"Concert\">Concerts</a>: 8,000–9,000<br><a href=\"https://en.wikipedia.org/wiki/Sport\" title=\"Sport\">Sporting events</a>: 12,000<br>Maximum: 15,000</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Public&nbsp;transit</th><td class=\"infobox-data\"><span><span class=\"l\"><span class=\"lc\"><span class=\"nowrap\"> </span></span></span><span><b>CC6</b></span><span><span class=\"nowrap\"> </span></span></span> <a href=\"https://en.wikipedia.org/wiki/Stadium_MRT_station\" title=\"Stadium MRT station\">Stadium</a><br><span><span class=\"l\"><span class=\"lc\"><span class=\"nowrap\"> </span></span></span><span><b>EW10</b></span><span><span class=\"nowrap\"> </span></span></span> <a href=\"https://en.wikipedia.org/wiki/Kallang_MRT_station\" title=\"Kallang MRT station\">Kallang</a><br><span><span class=\"l\"><span class=\"lc\"><span class=\"nowrap\"> </span></span></span><span><b>TE23</b></span><span><span class=\"nowrap\"> </span></span></span> <a href=\"https://en.wikipedia.org/wiki/Tanjong_Rhu_MRT_station\" title=\"Tanjong Rhu MRT station\">Tanjong Rhu</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">1&nbsp;January 1985<span>&nbsp;(<span class=\"bday dtstart published updated\">1985-01-01</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">1&nbsp;March 1987<span>&nbsp;(<span class=\"bday dtstart published updated\">1987-03-01</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">31&nbsp;December 1989<span>&nbsp;(<span class=\"bday dtstart published updated\">1989-12-31</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">S$90&nbsp;million</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Kenzo_Tange\" class=\"mw-redirect\" title=\"Kenzo Tange\">Kenzo Tange</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Sport_Singapore\" title=\"Sport Singapore\">Sport Singapore</a><br><a href=\"https://en.wikipedia.org/wiki/Singapore_Slingers\" title=\"Singapore Slingers\">Singapore Slingers</a><br><a href=\"https://en.wikipedia.org/wiki/Singapore_Slammers\" title=\"Singapore Slammers\">Singapore Slammers</a> (<a href=\"https://en.wikipedia.org/wiki/International_Premier_Tennis_League\" title=\"International Premier Tennis League\">IPTL</a>, 2014–2016)<br><a href=\"https://en.wikipedia.org/wiki/Singapore_Open_(badminton)\" title=\"Singapore Open (badminton)\">Singapore Open</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "All_articles_with_dead_external_links",
+        "Articles_with_dead_external_links_from_May_2025",
+        "Articles_with_permanently_dead_external_links",
+        "CS1:_unfit_URL",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Use_British_English_from_January_2019",
+        "All_Wikipedia_articles_written_in_British_English",
+        "Use_dmy_dates_from_August_2025",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Incomplete_lists_from_May_2022",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_May_2022",
+        "Commons_category_link_from_Wikidata",
+        "ASEAN_Basketball_League_venues",
+        "Indoor_arenas_in_Singapore",
+        "Badminton_venues",
+        "Mixed_martial_arts_venues",
+        "Sports_venues_completed_in_1989",
+        "Basketball_venues_in_Singapore",
+        "Defunct_National_Basketball_League_(Australia)_venues",
+        "Kallang",
+        "Venues_of_the_2010_Summer_Youth_Olympics",
+        "1989_establishments_in_Singapore",
+        "International_Premier_Tennis_League",
+        "Tennis_venues_in_Singapore",
+        "Netball_venues_in_Singapore",
+        "20th-century_architecture_in_Singapore",
+        "ONE_Championship_venues",
+        "Ultimate_Fighting_Championship_venues",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Singapore_Indoor_Stadium&params=1.3006_N_103.8744_E_type:landmark",
+        "http://arquivo.pt/wayback/20160517203229/http://www.pollstarpro.com/files/charts2015/2015YearEndWorldwideTicketSalesTop200ArenaVenues.pdf",
+        "http://www.pollstarpro.com/files/charts2015/2015YearEndWorldwideTicketSalesTop200ArenaVenues.pdf",
+        "https://cnalifestyle.channelnewsasia.com/entertainment/dota-2-international-2022-singapore-337421",
+        "https://web.archive.org/web/20230626175536/https://cnalifestyle.channelnewsasia.com/entertainment/dota-2-international-2022-singapore-337421",
+        "https://web.archive.org/web/20131215133050/http://infopedia.nl.sg/articles/SIP_1596_2009-10-30.html?s=indoor%20stadium",
+        "http://infopedia.nl.sg/articles/SIP_1596_2009-10-30.html?s=indoor%20stadium",
+        "https://www.channelnewsasia.com/singapore/indoor-stadium-new-arena-kallang-mccy-4176951",
+        "https://www.channelnewsasia.com/commentary/kallang-alive-singapore-sports-school-athletes-indoor-stadium-olympics-ndr-snap-insight-4553936",
+        "https://www.straitstimes.com/singapore/politics/ndr-2024-singapore-sports-school-to-move-to-kallang-new-indoor-stadium-to-seat-18000",
+        "https://search.worldcat.org/issn/0585-3923",
+        "https://www.straitstimes.com/sport/new-18000-capacity-indoor-arena-at-kallang-fills-a-gap-among-singapore-s-sporting-venues",
+        "https://web.archive.org/web/20250723093822/https://www.straitstimes.com/sport/new-18000-capacity-indoor-arena-at-kallang-fills-a-gap-among-singapore-s-sporting-venues",
+        "https://www.straitstimes.com/life/entertainment/the-5-jewels-of-mandopop-china-s-joker-xue-is-the-newly-minted-gem",
+        "https://web.archive.org/web/20240901143637/https://www.straitstimes.com/life/entertainment/the-5-jewels-of-mandopop-china-s-joker-xue-is-the-newly-minted-gem",
+        "https://www.straitstimes.com/life/entertainment/concert-review-k-pop-girl-group-babymonster-cheered-on-by-growing-fan-base",
+        "https://web.archive.org/web/20250611025427/https://www.straitstimes.com/life/entertainment/concert-review-k-pop-girl-group-babymonster-cheered-on-by-growing-fan-base",
+        "https://web.archive.org/web/20161026163521/http://www.sportshub.com.sg/sportshubtix/Pages/IPTL2014.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/IPTL2014.aspx",
+        "https://web.archive.org/web/20161029215145/http://www.sportshub.com.sg/sportshubtix/pages/iptl2015.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/pages/iptl2015.aspx",
+        "https://web.archive.org/web/20161026163432/http://www.channelnewsasia.com/news/singapore/changes-afoot-for/2003442.html",
+        "http://www.channelnewsasia.com/news/singapore/changes-afoot-for/2003442.html",
+        "http://www.straitstimes.com/sport/tennis/tennis-roger-federer-to-play-in-singapore-for-the-first-time-in-december",
+        "http://www.channelnewsasia.com/news/sport/7-things-to-know-about/2356128.html",
+        "https://web.archive.org/web/20161026164522/http://www.sportshub.com.sg/sportshubtix/Pages/OUE-Singapore-Open-2016.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/OUE-Singapore-Open-2016.aspx",
+        "https://web.archive.org/web/20161025235714/http://onefc.com/events/61-one-championship.html",
+        "http://onefc.com/events/61-one-championship.html",
+        "https://web.archive.org/web/20161026164210/http://www.sportshub.com.sg/sportshubtix/Pages/WTAFinals-2016.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/WTAFinals-2016.aspx",
+        "https://web.archive.org/web/20161119035406/http://onefc.com/events/69-one-championship.html",
+        "http://onefc.com/events/69-one-championship.html",
+        "https://web.archive.org/web/20161120150349/http://www.sportshub.com.sg/sportshubtix/Pages/IPTL2016.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/IPTL2016.aspx",
+        "http://www.todayonline.com/entertainment/wwe-superstars-perform-singapore-june-28",
+        "http://www.eventfinda.sg/venue/singapore-indoor-stadium-singapore",
+        "http://www.eltonography.com/tours/1993.html",
+        "https://web.archive.org/web/20160917071225/http://www.eltonography.com/tours/1993.html",
+        "http://www.eltonography.com/tours/singapore.html",
+        "http://muzikmetal.blogspot.com/2011/04/metallica-live-in-singapore-1993.html",
+        "https://web.archive.org/web/20201001181932/http://muzikmetal.blogspot.com/2011/04/metallica-live-in-singapore-1993.html",
+        "https://themidnightcafe.org/2016/04/22/lossless-bootleg-bonanaza-bob-dylan-singapore-singapore-022494/",
+        "https://web.archive.org/web/20141025105326/http://www.philcollins-fr.com/Tours/bothtour.html",
+        "http://www.philcollins-fr.com/Tours/bothtour.html",
+        "http://www.tina-turner.nl/wildestdreamstour.php",
+        "http://www.bocelli.de/en/live/concert2004_1.htm",
+        "https://web.archive.org/web/20160304184957/http://www.bocelli.de/en/live/concert2004_1.htm",
+        "https://eastcoastlife.blogspot.sg/2007/01/rains-coming-world-tour-concert-2007.html",
+        "https://plumcrazyjingles.wordpress.com/2008/03/27/the-maroon-5-concert-in-singapore-2008/",
+        "https://web.archive.org/web/20161014000834/https://plumcrazyjingles.wordpress.com/2008/03/27/the-maroon-5-concert-in-singapore-2008/",
+        "https://love4concerts.wordpress.com/2008/08/22/avril/",
+        "https://web.archive.org/web/20161014001412/https://love4concerts.wordpress.com/2008/08/22/avril/",
+        "https://web.archive.org/web/20081205035757/http://eventful.com/singapore/events/kanye-west-glow-dark-tour-/E0-001-015029438-1",
+        "http://eventful.com/singapore/events/kanye-west-glow-dark-tour-/E0-001-015029438-1",
+        "https://web.archive.org/web/20190412125057/http://www.daintyflair.net/kyliex2008-concert/",
+        "http://www.daintyflair.net/kyliex2008-concert/",
+        "https://web.archive.org/web/20190412124517/https://coldplaying.com/coldplay-live-review-singapore-indoor-stadium-singapore-23rd-march-2009/",
+        "https://www.coldplaying.com/coldplay-live-review-singapore-indoor-stadium-singapore-23rd-march-2009/",
+        "https://web.archive.org/web/20190412155055/https://www.lamcproductions.com/pussycat-dolls-4-june-2009",
+        "http://www.lamcproductions.com/pussycat-dolls-4-june-2009",
+        "https://web.archive.org/web/20090607083848/http://news.asiaone.com/News/Latest+News/Showbiz/Story/A1Story20090603-145786.html",
+        "http://news.asiaone.com/News/Latest+News/Showbiz/Story/A1Story20090603-145786.html",
+        "http://singapore.eventful.com/events/super-band-2010-world-tour-final-voyage-singa-/E0-001-025297350-4",
+        "https://web.archive.org/web/20100312091000/http://news.asiaone.com/News/Latest+News/Showbiz/Story/A1Story20100309-203462.html",
+        "http://news.asiaone.com/News/Latest+News/Showbiz/Story/A1Story20100309-203462.html",
+        "https://web.archive.org/web/20140827155426/http://www.mtv.com/news/1652946/taylor-swift-announces-speak-now-world-tour-dates/",
+        "http://www.mtv.com/news/1652946/taylor-swift-announces-speak-now-world-tour-dates/",
+        "https://web.archive.org/web/20160409090556/http://news.asiaone.com/News/Latest+News/Showbiz/Story/A1Story20101123-248633.html",
+        "http://news.asiaone.com/News/Latest+News/Showbiz/Story/A1Story20101123-248633.html",
+        "http://sg.asia-city.com/events/news/tickets-michael-bubles-crazy-love-tour-now-sale",
+        "https://forums.vrzone.com/chit-chatting/988465-slash-feat-myles-kennedy-stone-temple-pilots-coming-singapore.html",
+        "https://web.archive.org/web/20201001212744/https://forums.vrzone.com/chit-chatting/988465-slash-feat-myles-kennedy-stone-temple-pilots-coming-singapore.html",
+        "https://web.archive.org/web/20160813023241/http://www.spinorbinmusic.com/item/672-concert-review-justin-bieber-my-world-tour-in-singapore",
+        "https://web.archive.org/web/20110221013911/http://news.asiaone.com/News/Latest+News/Showbiz/Story/A1Story20110215-263659.html",
+        "http://news.asiaone.com/News/Latest+News/Showbiz/Story/A1Story20110215-263659.html",
+        "http://www.insing.com/feature/avril-lavigne-live-in-singapore/id-9a793200/",
+        "https://web.archive.org/web/20160819124603/http://www.insing.com/feature/avril-lavigne-live-in-singapore/id-9a793200/",
+        "http://www.citynews.sg/2011/05/it%E2%80%99s-show-time/",
+        "https://web.archive.org/web/20160919210313/http://www.citynews.sg/2011/05/it%E2%80%99s-show-time/",
+        "http://todayonline.com/blogs/poparazzi/rain-perform-singapore-indoor-stadium",
+        "https://web.archive.org/web/20161012215259/http://www.todayonline.com/blogs/poparazzi/rain-perform-singapore-indoor-stadium",
+        "https://www.popcultureonline.net/kylie-minogue-aphrodite-live-concert-singapore/",
+        "http://cranberriesworld.com/live/concerts/singapore-indoor-stadium-2011-08-01/",
+        "http://www.powerofpop.com/james-blunt-live-in-singapore/",
+        "https://web.archive.org/web/20160822153355/http://www.powerofpop.com/james-blunt-live-in-singapore/",
+        "https://web.archive.org/web/20160813003059/http://www.spinorbinmusic.com/item/842-paramore-live-in-singapore-on-21-aug-2011",
+        "http://www.straitstimes.com/lifestyle/entertainment/singer-jacky-cheung-back-with-first-mandarin-song-in-seven-years",
+        "https://web.archive.org/web/20160920040703/http://www.straitstimes.com/lifestyle/entertainment/singer-jacky-cheung-back-with-first-mandarin-song-in-seven-years",
+        "http://www.insing.com/feature/boyband-westlife-performs-in-singapore-this-october/id-823e3e00/",
+        "http://www.powerofpop.com/westlife-live-in-singapore-2/",
+        "https://web.archive.org/web/20221202222108/https://www.hallyusg.net/2011/11/23/cover-2pm-hands-up-asia-tour-in-singapore/",
+        "https://hallyusg.net/2011/11/23/cover-2pm-hands-up-asia-tour-in-singapore/",
+        "https://www.superadrianme.com/event-2/elton-john-singapore-november/",
+        "https://web.archive.org/web/20190103004910/https://www.superadrianme.com/event-2/elton-john-singapore-november/",
+        "http://x-clusive.sg/2011/10/20/mnet-mama-to-happen-in-singapore-on-29th-november/",
+        "https://web.archive.org/web/20160822201559/http://x-clusive.sg/2011/10/20/mnet-mama-to-happen-in-singapore-on-29th-november/",
+        "http://www.asiae.co.kr/news/view.htm?idxno=2012011109142352307",
+        "https://web.archive.org/web/20230421175531/http://www.asiae.co.kr/news/view.htm?idxno=2012011109142352307",
+        "http://www.insing.com/events/evanescence-live-in-singapore/id-de600000/",
+        "https://web.archive.org/web/20160819093837/http://www.insing.com/events/evanescence-live-in-singapore/id-de600000/",
+        "http://sg.asia-city.com/events/news/duran-duran-perform-singapore-indoor-stadium-march-2012",
+        "http://cranberriesworld.com/live/concerts/singapore-indoor-stadium-2012-04-02/",
+        "http://www.insing.com/feature/concert-review-larc-en-ciel-singapore-2012/id-46453f00/",
+        "https://web.archive.org/web/20161021084448/http://www.channelnewsasia.com/news/singapore/case-over-profits-of/2940688.html",
+        "http://www.channelnewsasia.com/news/singapore/case-over-profits-of/2940688.html",
+        "https://www.superadrianme.com/event-2/lady-gaga-born-this-way-ball-in-singapore-28-may-2012/",
+        "https://web.archive.org/web/20190103055719/https://www.superadrianme.com/event-2/lady-gaga-born-this-way-ball-in-singapore-28-may-2012/",
+        "http://www.insing.com/events/the-stone-roses-live-in-singapore/id-87660000/",
+        "https://web.archive.org/web/20160819090947/http://www.insing.com/events/the-stone-roses-live-in-singapore/id-87660000/",
+        "http://sg.asia-city.com/events/news/beach-boys-perform-singapore-indoor-stadium-august-22?page=1",
+        "https://web.archive.org/web/20160811184511/http://sg.asia-city.com/events/news/beach-boys-perform-singapore-indoor-stadium-august-22?page=1",
+        "http://www.herworldplus.com/lifestyle/stuff-do/review-big-bang-alive-galaxy-world-tour-2012-singapore",
+        "https://sg.style.yahoo.com/blogs/singapore-showbiz/2ne1-coming-singapore-073835318.html",
+        "https://web.archive.org/web/20230617224428/https://sg.style.yahoo.com/blogs/singapore-showbiz/2ne1-coming-singapore-073835318.html",
+        "http://m.todayonline.com/blogs/poparazzi/stings-back-singapore-back-bass-tour",
+        "https://web.archive.org/web/20161012191444/http://m.todayonline.com/blogs/poparazzi/stings-back-singapore-back-bass-tour",
+        "https://web.archive.org/web/20121110112931/http://news.asiaone.com/News/Latest+News/Showbiz/Story/A1Story20121003-375156.html",
+        "http://news.asiaone.com/News/Latest+News/Showbiz/Story/A1Story20121003-375156.html",
+        "http://www.powerofpop.com/shm-live-in-sg/",
+        "http://sg.entertainment.yahoo.com/blogs/singapore-showbiz/script-set-singapore-concert-march-29-041746798.html",
+        "https://web.archive.org/web/20131212215158/http://entertainment.xin.msn.com/en/hallyu/girls%E2%80%99-generation-to-rock-singapore-on-october-12-1",
+        "http://entertainment.xin.msn.com/en/hallyu/girls%E2%80%99-generation-to-rock-singapore-on-october-12-1",
+        "https://web.archive.org/web/20160610020913/http://www.spinorbinmusic.com/2014/02/16/concert-review-avril-lavigne-live-in-singapore-on-february-15",
+        "http://www.todayonline.com/entertainment/music/music-reviews/cheer-chen-concert-45",
+        "https://web.archive.org/web/20170118055947/http://www.todayonline.com/entertainment/music/music-reviews/cheer-chen-concert-45",
+        "https://web.archive.org/web/20160814215748/http://www.offkey.sg/eric-clapton-live-in-singapore-2014-singapore-indoor-stadium/",
+        "http://www.offkey.sg/eric-clapton-live-in-singapore-2014-singapore-indoor-stadium/",
+        "https://www.bandwagon.asia/gigs/bruno-mars-live-in-singapore",
+        "https://web.archive.org/web/20160823023331/https://www.bandwagon.asia/gigs/bruno-mars-live-in-singapore",
+        "http://m.todayonline.com/entertainment/music/lionel-richie-hold-concert-singapore",
+        "https://web.archive.org/web/20161012185931/http://m.todayonline.com/entertainment/music/lionel-richie-hold-concert-singapore",
+        "https://web.archive.org/web/20160826204215/http://www.andrerieu.com/en/calendar/andre-rieu-tickets-singapore-indoor-stadium-singapore",
+        "http://www.andrerieu.com/en/calendar/andre-rieu-tickets-singapore-indoor-stadium-singapore",
+        "http://www.eventfinda.sg/news/2014/03/show-luo-returns-to-singapore",
+        "https://web.archive.org/web/20160805130804/http://www.eventfinda.sg/news/2014/03/show-luo-returns-to-singapore",
+        "http://x-clusive.sg/2014/04/26/2014-cnblue-live-cant-stop-in-singapore/",
+        "https://web.archive.org/web/20161023061619/http://x-clusive.sg/2014/04/26/2014-cnblue-live-cant-stop-in-singapore/",
+        "https://web.archive.org/web/20161017131346/http://www.sportshub.com.sg/sportshubtix/Pages/sam-hui-what-a-wonderful-world-2014.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/sam-hui-what-a-wonderful-world-2014.aspx",
+        "http://www.straitstimes.com/lifestyle/entertainment/concert-review-taylor-swift-brings-down-the-indoor-stadium-with-glittery",
+        "https://web.archive.org/web/20160803123737/http://www.straitstimes.com/lifestyle/entertainment/concert-review-taylor-swift-brings-down-the-indoor-stadium-with-glittery",
+        "http://www.billboard.com/articles/news/6150193/taylor-swift-red-all-time-country-tour",
+        "https://web.archive.org/web/20150601003002/http://www.billboard.com/articles/news/6150193/taylor-swift-red-all-time-country-tour",
+        "https://web.archive.org/web/20170205112817/http://www.sportshub.com.sg/sportshubtix/Pages/hillsong-united-welcome-zion.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/hillsong-united-welcome-zion.aspx",
+        "https://web.archive.org/web/20161014220810/http://www.sportshub.com.sg/sportshubtix/Pages/jonathan-lee-2014.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/jonathan-lee-2014.aspx",
+        "https://web.archive.org/web/20161013140935/http://www.sportshub.com.sg/sportshubtix/Pages/2014-2ne1-world-tour-all-or-nothing-in-singapore.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/2014-2ne1-world-tour-all-or-nothing-in-singapore.aspx",
+        "https://web.archive.org/web/20160811190231/http://www.sportshub.com.sg/sportshubtix/pages/exo-lost-planet.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/pages/exo-lost-planet.aspx",
+        "https://web.archive.org/web/20160811190028/http://www.sportshub.com.sg/sportshubtix/Pages/YG-FAMILY-2014-GALAXY-TOUR-POWER-IN-SINGAPORE.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/YG-FAMILY-2014-GALAXY-TOUR-POWER-IN-SINGAPORE.aspx",
+        "https://web.archive.org/web/20160811175446/http://www.sportshub.com.sg/sportshubtix/Pages/THE-SCRIPT-2015.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/THE-SCRIPT-2015.aspx",
+        "https://web.archive.org/web/20161029212839/http://www.sportshub.com.sg/sportshubtix/Pages/Super-Junior-2015.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Super-Junior-2015.aspx",
+        "http://www.straitstimes.com/lifestyle/entertainment/concert-review-katy-perrys-prismatic-world-tour-prizes-spectacle-over-sound",
+        "https://web.archive.org/web/20170514151244/http://www.sportshub.com.sg/sportshubtix/Pages/WWE-Live-Singapore-2015.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/WWE-Live-Singapore-2015.aspx",
+        "https://web.archive.org/web/20161026164621/http://www.sportshub.com.sg/sportshubtix/Pages/SG50-Sing-Along.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/SG50-Sing-Along.aspx",
+        "https://web.archive.org/web/20161105134919/http://www.sportshub.com.sg/sportshubtix/Pages/BigBang2015.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/BigBang2015.aspx",
+        "https://web.archive.org/web/20160808101211/http://www.sportshub.com.sg/sportshubtix/Pages/Jolin-2015.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Jolin-2015.aspx",
+        "https://web.archive.org/web/20161016024732/http://www.sportshub.com.sg/sportshubtix/Pages/Imagine-Dragons-Smoke-Mirror-Tour.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Imagine-Dragons-Smoke-Mirror-Tour.aspx",
+        "https://web.archive.org/web/20160811190438/http://www.sportshub.com.sg/sportshubtix/Pages/Wakin-Chau-2015.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Wakin-Chau-2015.aspx",
+        "https://web.archive.org/web/20161016023105/http://www.sportshub.com.sg/sportshubtix/Pages/JJ-Lin-2015.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/JJ-Lin-2015.aspx",
+        "https://web.archive.org/web/20160902160850/http://www.sportshub.com.sg/sportshubtix/Pages/Muse-2015.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Muse-2015.aspx",
+        "http://www.straitstimes.com/lifestyle/entertainment/electrifying-uprising",
+        "https://web.archive.org/web/20150628011135/http://taylorswift.com/news/251683",
+        "http://taylorswift.com/news/251683",
+        "https://web.archive.org/web/20161105132240/http://www.sportshub.com.sg/sportshubtix/Pages/Taylor-Swift-2015.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Taylor-Swift-2015.aspx",
+        "http://www.straitstimes.com/lifestyle/entertainment/taylor-swift-rocks-out-in-a-friendly-glittering-pop-extravaganza",
+        "https://web.archive.org/web/20161024230227/http://www.straitstimes.com/lifestyle/entertainment/taylor-swift-rocks-out-in-a-friendly-glittering-pop-extravaganza",
+        "https://web.archive.org/web/20161012192957/http://m.todayonline.com/entertainment/music/concert-review-she-and-aaron-yan-forever-stars-2015-singapore",
+        "http://m.todayonline.com/entertainment/music/concert-review-she-and-aaron-yan-forever-stars-2015-singapore",
+        "http://www.straitstimes.com/lifestyle/entertainment/k-pop-boyband-exo-march-on-despite-recent-hardship",
+        "https://web.archive.org/web/20161204152152/http://sportshub.com.sg/sportshubtix/Pages/Stella-Zhang-2016.aspx/",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Stella-Zhang-2016.aspx",
+        "http://www.straitstimes.com/lifestyle/entertainment/gigs-picks-stella-zhang-qing-fang-live-in-singapore-2016",
+        "https://web.archive.org/web/20161105131010/http://www.sportshub.com.sg/sportshubtix/Pages/CNBLUE-2016.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/CNBLUE-2016.aspx",
+        "https://web.archive.org/web/20160811184214/http://www.sportshub.com.sg/sportshubtix/Pages/Hebe-2016.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Hebe-2016.aspx",
+        "https://web.archive.org/web/20160915015004/http://www.sportshub.com.sg/sportshubtix/Pages/Disney-On-Ice-2016.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Disney-On-Ice-2016.aspx",
+        "https://tnp.straitstimes.com/m/music/tears-prompt-impromptu-duet-jessie-j-concert",
+        "https://web.archive.org/web/20161018103952/http://www.sportshub.com.sg/sportshubtix/Pages/AL!VE-2016.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/AL!VE-2016.aspx",
+        "https://www.asiaone.com/entertainment/s-korean-boy-band-ikon-delight-fans-first-concert-here",
+        "https://web.archive.org/web/20161018101554/http://www.sportshub.com.sg/sportshubtix/Pages/Selena-Gomez-2016.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Selena-Gomez-2016.aspx",
+        "https://web.archive.org/web/20161108075243/http://www.sportshub.com.sg/sportshubtix/Pages/Mayday-2016.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Mayday-2016.aspx",
+        "http://www.straitstimes.com/lifestyle/entertainment/concert-review-mayday-rock-it-for-three-hours-ashins-vocals-in-top-form",
+        "https://web.archive.org/web/20160923190638/http://www.straitstimes.com/lifestyle/entertainment/concert-review-mayday-rock-it-for-three-hours-ashins-vocals-in-top-form",
+        "https://web.archive.org/web/20161017204409/http://www.sportshub.com.sg/sportshubtix/Pages/Kit-Chan-2016.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Kit-Chan-2016.aspx",
+        "https://web.archive.org/web/20161024030943/http://www.sportshub.com.sg/sportshubtix/Pages/Fish-Leong-2016.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Fish-Leong-2016.aspx",
+        "http://www.straitstimes.com/lifestyle/entertainment/k-pop-superstars-bigbangs-made-tour-comes-here-on-oct-2-tickets-on-sale-from",
+        "https://web.archive.org/web/20161107054243/http://www.straitstimes.com/lifestyle/entertainment/k-pop-superstars-bigbangs-made-tour-comes-here-on-oct-2-tickets-on-sale-from?",
+        "https://web.archive.org/web/20160919073742/http://www.sportshub.com.sg/sportshubtix/Pages/Alan-Tam-2016.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Alan-Tam-2016.aspx",
+        "http://www.straitstimes.com/lifestyle/entertainment/a-taste-of-cantopop-history",
+        "https://web.archive.org/web/20161001213039/http://www.sportshub.com.sg/sportshubtix/Pages/Maher-Zain-2016.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Maher-Zain-2016.aspx",
+        "http://www.straitstimes.com/lifestyle/entertainment/concert-review-metallica-pull-out-all-stops-for-two-hour-odyssey",
+        "https://web.archive.org/web/20161115021559/http://www.sportshub.com.sg/sportshubtix/Pages/FTI-2017.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/FTI-2017.aspx",
+        "http://www.straitstimes.com/lifestyle/entertainment/spectacular-performance-by-jacky-cheung",
+        "https://web.archive.org/web/20170228124845/http://www.straitstimes.com/lifestyle/entertainment/spectacular-performance-by-jacky-cheung",
+        "https://web.archive.org/web/20161110123634/http://www.sportshub.com.sg/sportshubtix/Pages/Disney-On-Ice-2017.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Disney-On-Ice-2017.aspx",
+        "https://web.archive.org/web/20170116163527/http://www.sportshub.com.sg/sportshubtix/Pages/EXO-2017.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/EXO-2017.aspx",
+        "http://www.straitstimes.com/lifestyle/entertainment/sting-still-has-it",
+        "https://web.archive.org/web/20190103060212/https://www.straitstimes.com/lifestyle/entertainment/sting-still-has-it",
+        "https://web.archive.org/web/20230529163446/https://tnp.straitstimes.com/entertainment/music/britney-spears-perform-singapore-june-30-tickets-start-188",
+        "https://tnp.straitstimes.com/entertainment/music/britney-spears-perform-singapore-june-30-tickets-start-188",
+        "http://www.straitstimes.com/lifestyle/entertainment/britney-hit-me-one-more-time",
+        "https://web.archive.org/web/20201124234240/https://www.straitstimes.com/lifestyle/entertainment/britney-hit-me-one-more-time",
+        "http://www.straitstimes.com/lifestyle/in-pictures-britney-spears-performing-at-the-singapore-indoor-stadium",
+        "https://web.archive.org/web/20170519031857/http://www.sportshub.com.sg/sportshubtix/Pages/Grasshopper-2017.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Grasshopper-2017.aspx",
+        "https://web.archive.org/web/20170403014129/http://www.sportshub.com.sg/sportshubtix/Pages/thexx-2017.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/thexx-2017.aspx",
+        "http://www.themalaymailonline.com/showbiz/article/music-business-is-not-for-my-daughter-says-wakin-chau",
+        "http://www.straitstimes.com/lifestyle/michael-learns-to-rock-will-be-performing-at-singapore-indoor-stadium-on-sept-2",
+        "https://web.archive.org/web/20170403013754/http://www.sportshub.com.sg/sportshubtix/Pages/Mayday-2017.aspx",
+        "http://www.sportshub.com.sg/sportshubtix/Pages/Mayday-2017.aspx",
+        "https://www.8days.sg/sceneandheard/entertainment/super-show-7-to-hit-singapore-on-january-27-9459988?cid=toggle_8days_redirect",
+        "https://kbeatssg.wordpress.com/2018/02/01/upcoming-event-2018-launch-k-pop-show/",
+        "https://web.archive.org/web/20180203005716/https://kbeatssg.wordpress.com/2018/02/01/upcoming-event-2018-launch-k-pop-show/",
+        "https://consequence.net/2017/06/warpaint-to-open-harry-styles-2018-world-tour-dates/",
+        "https://www.hallyusg.net/2018/02/27/twiceland2insg/",
+        "https://web.archive.org/web/20180228041306/https://www.hallyusg.net/2018/02/27/twiceland2insg/",
+        "http://english.yonhapnews.co.kr/news/2018/04/02/0200000000AEN20180402009000315.html",
+        "https://web.archive.org/web/20180405031659/http://english.yonhapnews.co.kr/news/2018/04/02/0200000000AEN20180402009000315.html",
+        "https://web.archive.org/web/20180627173338/https://www.channelnewsasia.com/news/singapore/jj-lin-concert-world-tour-additional-dates-indoor-stadium-10443992",
+        "https://www.channelnewsasia.com/news/singapore/jj-lin-concert-world-tour-additional-dates-indoor-stadium-10443992",
+        "https://www.bandwagon.asia/articles/boyzone-to-perform-in-singapore-to-celebrate-25th-anniversary",
+        "https://web.archive.org/web/20180627173537/https://www.channelnewsasia.com/news/singapore/hallyupopfest-2018-btob-taeyeon-eric-nam-kpop-10474626",
+        "https://www.channelnewsasia.com/news/singapore/hallyupopfest-2018-btob-taeyeon-eric-nam-kpop-10474626",
+        "https://www.bandwagon.asia/articles/k-pop-group-seventeen-announce-asia-shows-including-singapore-jakarta-manila-kuala-lumpur",
+        "https://web.archive.org/web/20230422235641/https://www.bandwagon.asia/articles/k-pop-group-seventeen-announce-asia-shows-including-singapore-jakarta-manila-kuala-lumpur",
+        "https://www.straitstimes.com/lifestyle/entertainment/k-pop-festival-hallyupopfest-off-to-roaring-start-at-singapore-indoor",
+        "https://web.archive.org/web/20190526115209/https://www.straitstimes.com/lifestyle/entertainment/k-pop-festival-hallyupopfest-off-to-roaring-start-at-singapore-indoor",
+        "https://www.forbes.com/sites/jeffbenjamin/2025/01/09/bts-j-hope-announces-first-solo-tour-hope-on-the-stage-details/",
+        "https://web.archive.org/web/20250110113910/https://www.forbes.com/sites/jeffbenjamin/2025/01/09/bts-j-hope-announces-first-solo-tour-hope-on-the-stage-details/",
+        "http://www.sportshub.com.sg/",
+        "https://viaf.org/viaf/2909163159921801640001",
+        "https://musicbrainz.org/place/e655fe79-26a9-4cc2-aaa6-34f44845eb6d"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Capacity",
+          "anchor": "Capacity"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Transportation",
+          "anchor": "Transportation"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "Sporting events",
+          "anchor": "Sporting_events"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "Entertainment events",
+          "anchor": "Entertainment_events"
+        },
+        {
+          "index": "6",
+          "level": 3,
+          "line": "1990–2010",
+          "anchor": "1990–2010"
+        },
+        {
+          "index": "7",
+          "level": 3,
+          "line": "2011–2020",
+          "anchor": "2011–2020"
+        },
+        {
+          "index": "8",
+          "level": 3,
+          "line": "2021–present",
+          "anchor": "2021–present"
+        },
+        {
+          "index": "9",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "10",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "11",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Kallang_Indoor_Stadium_(8151029247).jpg",
+        "Singapore_Indoor_Stadium_interior_-_6_Nov_2024.jpg",
+        "Information_icon4.svg",
+        "Commons-logo.svg",
+        "Flag_of_Singapore.svg",
+        "Basketball_Clipart.svg",
+        "Sports_icon.png",
+        "GClef.svg",
+        "OOjs_UI_icon_edit-ltr-progressive.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Kallang Indoor Stadium (8151029247).jpg",
+          "fileName": "Kallang Indoor Stadium (8151029247).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Kallang_Indoor_Stadium_(8151029247).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kallang_Indoor_Stadium_%288151029247%29.jpg/250px-Kallang_Indoor_Stadium_%288151029247%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kallang_Indoor_Stadium_(8151029247).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Kallang_Indoor_Stadium_(8151029247).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Kallang_Indoor_Stadium_%288151029247%29.jpg/500px-Kallang_Indoor_Stadium_%288151029247%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 1600,
+          "originalHeight": 1067,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Exterior view"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,15,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Singapore_Indoor_Stadium&revid=1360874573&groups=_b1482de40d64bad0a40f8a9e87b3adb0ae759d3f&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/15",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Singapore_Indoor_Stadium&revid=1360874573&groups=_b1482de40d64bad0a40f8a9e87b3adb0ae759d3f&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Singapore Indoor Stadium"
+        },
+        {
+          "fileTitle": "File:Singapore Indoor Stadium interior - 6 Nov 2024.jpg",
+          "fileName": "Singapore Indoor Stadium interior - 6 Nov 2024.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Singapore_Indoor_Stadium_interior_-_6_Nov_2024.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Singapore_Indoor_Stadium_interior_-_6_Nov_2024.jpg/250px-Singapore_Indoor_Stadium_interior_-_6_Nov_2024.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Singapore_Indoor_Stadium_interior_-_6_Nov_2024.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Singapore_Indoor_Stadium_interior_-_6_Nov_2024.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Singapore_Indoor_Stadium_interior_-_6_Nov_2024.jpg/500px-Singapore_Indoor_Stadium_interior_-_6_Nov_2024.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 5712,
+          "originalHeight": 4284,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The interior of the Indoor Stadium in 2024."
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/20px-Information_icon4.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Information_icon4.svg/40px-Information_icon4.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 20,
+          "height": 20,
+          "originalWidth": 620,
+          "originalHeight": 620,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "icon",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/40px-Flag_of_Singapore.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/60px-Flag_of_Singapore.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 21,
+          "height": 14,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "flag",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "icon",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Basketball_Clipart.svg/20px-Basketball_Clipart.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Basketball_Clipart.svg/40px-Basketball_Clipart.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 19,
+          "height": 19,
+          "originalWidth": 400,
+          "originalHeight": 400,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sports_icon.png/40px-Sports_icon.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sports_icon.png/60px-Sports_icon.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 21,
+          "height": 19,
+          "originalWidth": 251,
+          "originalHeight": 226,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/GClef.svg/20px-GClef.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 7,
+          "height": 19,
+          "originalWidth": 15,
+          "originalHeight": 41,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/60px-Flag_of_Singapore.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/120px-Flag_of_Singapore.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 33,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Singapore",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 419,
+          "rowText": "Singapore Indoor Stadium\n1989\n12,000\nSingapore Slingers, Singapore Slammers",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Singapore_Indoor_Stadium\" title=\"Singapore Indoor Stadium\">Singapore Indoor Stadium</a>\n</td>\n<td>1989\n</td>\n<td>12,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Singapore_Slingers\" title=\"Singapore Slingers\">Singapore Slingers</a>, <a href=\"https://en.wikipedia.org/wiki/Singapore_Slammers\" title=\"Singapore Slammers\">Singapore Slammers</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 418,
+              "cell": {
+                "text": "Singapore",
+                "lines": [
+                  "Singapore"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Singapore",
+                    "title": "Singapore",
+                    "wikiTitle": "Singapore",
+                    "href": "https://en.wikipedia.org/wiki/Singapore",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 418,
+              "cell": {
+                "text": "Singapore",
+                "lines": [
+                  "Singapore"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Singapore",
+                    "title": "Singapore",
+                    "wikiTitle": "Singapore",
+                    "href": "https://en.wikipedia.org/wiki/Singapore",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 419,
+              "cell": {
+                "text": "Singapore Indoor Stadium",
+                "lines": [
+                  "Singapore Indoor Stadium"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Singapore Indoor Stadium",
+                    "title": "Singapore Indoor Stadium",
+                    "wikiTitle": "Singapore Indoor Stadium",
+                    "href": "https://en.wikipedia.org/wiki/Singapore_Indoor_Stadium",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 419,
+              "cell": {
+                "text": "1989",
+                "lines": [
+                  "1989"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 419,
+              "cell": {
+                "text": "12,000",
+                "lines": [
+                  "12,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 419,
+              "cell": {
+                "text": "Singapore Slingers, Singapore Slammers",
+                "lines": [
+                  "Singapore Slingers, Singapore Slammers"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Singapore Slingers",
+                    "title": "Singapore Slingers",
+                    "wikiTitle": "Singapore Slingers",
+                    "href": "https://en.wikipedia.org/wiki/Singapore_Slingers",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "Singapore Slammers",
+                    "title": "Singapore Slammers",
+                    "wikiTitle": "Singapore Slammers",
+                    "href": "https://en.wikipedia.org/wiki/Singapore_Slammers",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Singapore Indoor Stadium",
+            "lines": [
+              "Singapore Indoor Stadium"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Singapore Indoor Stadium",
+                "title": "Singapore Indoor Stadium",
+                "wikiTitle": "Singapore Indoor Stadium",
+                "href": "https://en.wikipedia.org/wiki/Singapore_Indoor_Stadium",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:43.818Z"
+    },
+    {
+      "id": "wikipedia-page-22858888",
+      "pageId": 22858888,
+      "revisionId": null,
+      "title": "Toa Payoh Sports Hall",
+      "displayTitle": "Toa Payoh Sports Hall",
+      "url": "https://en.wikipedia.org/wiki/Toa_Payoh_Sports_Hall",
+      "wikidataItem": "Q7811338",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7811338",
+      "aliases": [
+        "Toa Payoh Sports Hall"
+      ],
+      "requestedTitles": [
+        "Toa Payoh Sports Hall"
+      ],
+      "sourceLinkTexts": [
+        "Toa Payoh Sports Hall"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Toa_Payoh_Sports_Hall"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 1.330366,
+        "longitude": 103.851662,
+        "raw": "1.330366; 103.851662"
+      },
+      "leadParagraphs": [],
+      "infobox": null,
+      "categories": [
+        "Webarchive_template_wayback_links",
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Articles_needing_additional_references_from_February_2020",
+        "All_articles_needing_additional_references",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Singapore",
+        "Sports_venues_in_Singapore",
+        "Venues_of_the_2010_Summer_Youth_Olympics",
+        "Volleyball_venues_in_Singapore",
+        "Netball_venues_in_Singapore"
+      ],
+      "externalLinks": [
+        "http://singapore2010.sg/sports/venues/toapayohsportshall",
+        "https://web.archive.org/web/20090503171726/http://singapore2010.sg/sports/venues/toapayohsportshall",
+        "https://www.netball.org.sg/Events/Previous-Events/5-NATIONS-NETBALL-CUP-2007",
+        "https://geohack.toolforge.org/geohack.php?pagename=Toa_Payoh_Sports_Hall&params=1.330366_N_103.851662_E_type:landmark",
+        "https://www.google.com/search?as_eq=wikipedia&q=%22Toa+Payoh+Sports+Hall%22",
+        "https://www.google.com/search?tbm=nws&q=%22Toa+Payoh+Sports+Hall%22+-wikipedia&tbs=ar:1",
+        "https://www.google.com/search?&q=%22Toa+Payoh+Sports+Hall%22&tbs=bkt:s&tbm=bks",
+        "https://www.google.com/search?tbs=bks:1&q=%22Toa+Payoh+Sports+Hall%22+-wikipedia",
+        "https://scholar.google.com/scholar?q=%22Toa+Payoh+Sports+Hall%22",
+        "https://www.jstor.org/action/doBasicSearch?Query=%22Toa+Payoh+Sports+Hall%22&acc=on&wc=on"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Events",
+          "anchor": "Events"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Notes and references",
+          "anchor": "Notes_and_references"
+        }
+      ],
+      "referencedFileTitles": [
+        "Question_book-new.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Question book-new.svg",
+          "fileName": "Question book-new.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 39,
+          "originalWidth": 512,
+          "originalHeight": 399,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 420,
+          "rowText": "Toa Payoh Sports Hall\n2,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Toa_Payoh_Sports_Hall\" title=\"Toa Payoh Sports Hall\">Toa Payoh Sports Hall</a>\n</td>\n<td>\n</td>\n<td>2,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 418,
+              "cell": {
+                "text": "Singapore",
+                "lines": [
+                  "Singapore"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Singapore",
+                    "title": "Singapore",
+                    "wikiTitle": "Singapore",
+                    "href": "https://en.wikipedia.org/wiki/Singapore",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 418,
+              "cell": {
+                "text": "Singapore",
+                "lines": [
+                  "Singapore"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Singapore",
+                    "title": "Singapore",
+                    "wikiTitle": "Singapore",
+                    "href": "https://en.wikipedia.org/wiki/Singapore",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 420,
+              "cell": {
+                "text": "Toa Payoh Sports Hall",
+                "lines": [
+                  "Toa Payoh Sports Hall"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Toa Payoh Sports Hall",
+                    "title": "Toa Payoh Sports Hall",
+                    "wikiTitle": "Toa Payoh Sports Hall",
+                    "href": "https://en.wikipedia.org/wiki/Toa_Payoh_Sports_Hall",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 420,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 420,
+              "cell": {
+                "text": "2,000",
+                "lines": [
+                  "2,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 420,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Toa Payoh Sports Hall",
+            "lines": [
+              "Toa Payoh Sports Hall"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Toa Payoh Sports Hall",
+                "title": "Toa Payoh Sports Hall",
+                "wikiTitle": "Toa Payoh Sports Hall",
+                "href": "https://en.wikipedia.org/wiki/Toa_Payoh_Sports_Hall",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:41.508Z"
+    }
+  ]
+}

@@ -1,0 +1,4354 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "United Arab Emirates",
+  "coverage": {
+    "mode": "dedicated_country_list_plus_other_sources",
+    "hasDedicatedBlueLinkedArenaList": true,
+    "dedicatedListPages": "List of indoor arenas in the United Arab Emirates",
+    "worldMasterFallbackArenaCount": 3
+  },
+  "stats": {
+    "arenaCount": 3,
+    "sourceRowCount": 9,
+    "mediaRecordCount": 11,
+    "sourceTypeCounts": {
+      "world_master_list": 3,
+      "arena_list": 3,
+      "country_or_region_list": 3
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    },
+    {
+      "title": "List of indoor arenas in the United Arab Emirates",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_the_United_Arab_Emirates",
+      "revisionId": null,
+      "sections": [
+        "Currently in use",
+        "Under construction",
+        "Future arenas",
+        "See also",
+        "References",
+        "External links"
+      ],
+      "candidateRowCount": 3
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-60769898",
+      "pageId": 60769898,
+      "revisionId": null,
+      "title": "Coca-Cola Arena",
+      "displayTitle": "Coca-Cola Arena",
+      "url": "https://en.wikipedia.org/wiki/Coca-Cola_Arena",
+      "wikidataItem": "Q63859108",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q63859108",
+      "aliases": [
+        "Coca-Cola Arena"
+      ],
+      "requestedTitles": [
+        "Coca-Cola Arena"
+      ],
+      "sourceLinkTexts": [
+        "Coca-Cola Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Coca-Cola_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas by capacity",
+        "List of indoor arenas in the United Arab Emirates"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "arena_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [
+        "United Arab Emirates"
+      ],
+      "coordinates": {
+        "latitude": 25.20375,
+        "longitude": 55.265694,
+        "raw": "25.203750; 55.265694"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Coca-Cola Arena",
+        "groups": [
+          "Construction",
+          "Tenants",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "Dubai, United Arab Emirates",
+            "lines": [
+              "Dubai, United Arab Emirates"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Dubai\" title=\"Dubai\">Dubai</a>, United Arab Emirates<span data-plural=\"0\"></span></td>",
+            "links": [
+              {
+                "text": "Dubai",
+                "title": "Dubai",
+                "wikiTitle": "Dubai",
+                "href": "https://en.wikipedia.org/wiki/Dubai",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "25°12′13.5″N 55°15′56.5″E﻿ / ﻿25.203750°N 55.265694°E﻿ / 25.203750; 55.265694",
+            "lines": [
+              "25°12′13.5″N 55°15′56.5″E﻿ / ﻿25.203750°N 55.265694°E﻿ / 25.203750; 55.265694"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Coca-Cola_Arena&amp;params=25_12_13.5_N_55_15_56.5_E_region:AE_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°12′13.5″N</span> <span class=\"longitude\">55°15′56.5″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.203750°N 55.265694°E</span><span>﻿ / <span class=\"geo\">25.203750; 55.265694</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "25°12′13.5″N 55°15′56.5″E﻿ / ﻿25.203750°N 55.265694°E﻿ / 25.203750; 55.265694",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Coca-Cola_Arena&params=25_12_13.5_N_55_15_56.5_E_region:AE_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Dubai Holding",
+            "lines": [
+              "Dubai Holding"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Dubai_Holding\" title=\"Dubai Holding\">Dubai Holding</a></td>",
+            "links": [
+              {
+                "text": "Dubai Holding",
+                "title": "Dubai Holding",
+                "wikiTitle": "Dubai Holding",
+                "href": "https://en.wikipedia.org/wiki/Dubai_Holding",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Legends Global",
+            "lines": [
+              "Legends Global"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Legends_Global\" title=\"Legends Global\">Legends Global</a></td>",
+            "links": [
+              {
+                "text": "Legends Global",
+                "title": "Legends Global",
+                "wikiTitle": "Legends Global",
+                "href": "https://en.wikipedia.org/wiki/Legends_Global",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "17000",
+            "lines": [
+              "17000"
+            ],
+            "html": "<td class=\"infobox-data\">17000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "January 2017",
+            "lines": [
+              "January 2017"
+            ],
+            "html": "<td class=\"infobox-data\">January 2017</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "June 6, 2019",
+            "lines": [
+              "June 6, 2019"
+            ],
+            "html": "<td class=\"infobox-data\">June 6, 2019</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Populous",
+            "lines": [
+              "Populous"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Populous_(company)\" class=\"mw-redirect\" title=\"Populous (company)\">Populous</a></td>",
+            "links": [
+              {
+                "text": "Populous",
+                "title": "Populous (company)",
+                "wikiTitle": "Populous (company)",
+                "href": "https://en.wikipedia.org/wiki/Populous_(company)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Builder",
+            "key": "builder",
+            "group": "Construction",
+            "text": "ASGC",
+            "lines": [
+              "ASGC"
+            ],
+            "html": "<td class=\"infobox-data\">ASGC</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Dubai Basketball (EuroLeague)",
+            "lines": [
+              "Dubai Basketball (EuroLeague)"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Dubai_Basketball\" title=\"Dubai Basketball\">Dubai Basketball</a> (<a href=\"https://en.wikipedia.org/wiki/EuroLeague\" title=\"EuroLeague\">EuroLeague</a>)</td>",
+            "links": [
+              {
+                "text": "Dubai Basketball",
+                "title": "Dubai Basketball",
+                "wikiTitle": "Dubai Basketball",
+                "href": "https://en.wikipedia.org/wiki/Dubai_Basketball",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "EuroLeague",
+                "title": "EuroLeague",
+                "wikiTitle": "EuroLeague",
+                "href": "https://en.wikipedia.org/wiki/EuroLeague",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "www.coca-cola-arena.com",
+            "lines": [
+              "www.coca-cola-arena.com"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"https://www.coca-cola-arena.com/\">www<wbr>.coca-cola-arena<wbr>.com</a></span></td>",
+            "links": [
+              {
+                "text": "www.coca-cola-arena.com",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://www.coca-cola-arena.com/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "Dubai, United Arab Emirates",
+              "lines": [
+                "Dubai, United Arab Emirates"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Dubai\" title=\"Dubai\">Dubai</a>, United Arab Emirates<span data-plural=\"0\"></span></td>",
+              "links": [
+                {
+                  "text": "Dubai",
+                  "title": "Dubai",
+                  "wikiTitle": "Dubai",
+                  "href": "https://en.wikipedia.org/wiki/Dubai",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "25°12′13.5″N 55°15′56.5″E﻿ / ﻿25.203750°N 55.265694°E﻿ / 25.203750; 55.265694",
+              "lines": [
+                "25°12′13.5″N 55°15′56.5″E﻿ / ﻿25.203750°N 55.265694°E﻿ / 25.203750; 55.265694"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Coca-Cola_Arena&amp;params=25_12_13.5_N_55_15_56.5_E_region:AE_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°12′13.5″N</span> <span class=\"longitude\">55°15′56.5″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.203750°N 55.265694°E</span><span>﻿ / <span class=\"geo\">25.203750; 55.265694</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "25°12′13.5″N 55°15′56.5″E﻿ / ﻿25.203750°N 55.265694°E﻿ / 25.203750; 55.265694",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Coca-Cola_Arena&params=25_12_13.5_N_55_15_56.5_E_region:AE_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Dubai Holding",
+              "lines": [
+                "Dubai Holding"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Dubai_Holding\" title=\"Dubai Holding\">Dubai Holding</a></td>",
+              "links": [
+                {
+                  "text": "Dubai Holding",
+                  "title": "Dubai Holding",
+                  "wikiTitle": "Dubai Holding",
+                  "href": "https://en.wikipedia.org/wiki/Dubai_Holding",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Legends Global",
+              "lines": [
+                "Legends Global"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Legends_Global\" title=\"Legends Global\">Legends Global</a></td>",
+              "links": [
+                {
+                  "text": "Legends Global",
+                  "title": "Legends Global",
+                  "wikiTitle": "Legends Global",
+                  "href": "https://en.wikipedia.org/wiki/Legends_Global",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "17000",
+              "lines": [
+                "17000"
+              ],
+              "html": "<td class=\"infobox-data\">17000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "January 2017",
+              "lines": [
+                "January 2017"
+              ],
+              "html": "<td class=\"infobox-data\">January 2017</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "June 6, 2019",
+              "lines": [
+                "June 6, 2019"
+              ],
+              "html": "<td class=\"infobox-data\">June 6, 2019</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Populous",
+              "lines": [
+                "Populous"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Populous_(company)\" class=\"mw-redirect\" title=\"Populous (company)\">Populous</a></td>",
+              "links": [
+                {
+                  "text": "Populous",
+                  "title": "Populous (company)",
+                  "wikiTitle": "Populous (company)",
+                  "href": "https://en.wikipedia.org/wiki/Populous_(company)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "builder": [
+            {
+              "label": "Builder",
+              "key": "builder",
+              "group": "Construction",
+              "text": "ASGC",
+              "lines": [
+                "ASGC"
+              ],
+              "html": "<td class=\"infobox-data\">ASGC</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Dubai Basketball (EuroLeague)",
+              "lines": [
+                "Dubai Basketball (EuroLeague)"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Dubai_Basketball\" title=\"Dubai Basketball\">Dubai Basketball</a> (<a href=\"https://en.wikipedia.org/wiki/EuroLeague\" title=\"EuroLeague\">EuroLeague</a>)</td>",
+              "links": [
+                {
+                  "text": "Dubai Basketball",
+                  "title": "Dubai Basketball",
+                  "wikiTitle": "Dubai Basketball",
+                  "href": "https://en.wikipedia.org/wiki/Dubai_Basketball",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "EuroLeague",
+                  "title": "EuroLeague",
+                  "wikiTitle": "EuroLeague",
+                  "href": "https://en.wikipedia.org/wiki/EuroLeague",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "www.coca-cola-arena.com",
+              "lines": [
+                "www.coca-cola-arena.com"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"https://www.coca-cola-arena.com/\">www<wbr>.coca-cola-arena<wbr>.com</a></span></td>",
+              "links": [
+                {
+                  "text": "www.coca-cola-arena.com",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://www.coca-cola-arena.com/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "address": [
+            "Dubai, United Arab Emirates"
+          ],
+          "coordinates": [
+            "25°12′13.5″N 55°15′56.5″E﻿ / ﻿25.203750°N 55.265694°E﻿ / 25.203750; 55.265694"
+          ],
+          "owner": [
+            "Dubai Holding"
+          ],
+          "operator": [
+            "Legends Global"
+          ],
+          "capacity": [
+            "17000"
+          ],
+          "groundbreaking": [
+            "January 2017"
+          ],
+          "opened": [
+            "June 6, 2019"
+          ],
+          "architect": [
+            "Populous"
+          ],
+          "builder": [
+            "ASGC"
+          ],
+          "tenants": [
+            "Dubai Basketball (EuroLeague)"
+          ],
+          "website": [
+            "www.coca-cola-arena.com"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "17000"
+        ],
+        "tenants": [
+          "Dubai Basketball (EuroLeague)"
+        ],
+        "websites": [
+          "https://www.coca-cola-arena.com/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:Coca-Cola Arena.png",
+            "fileName": "Coca-Cola Arena.png",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Coca-Cola_Arena.png",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Coca-Cola_Arena.png/250px-Coca-Cola_Arena.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena.png",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena.png",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Coca-Cola_Arena.png/500px-Coca-Cola_Arena.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 85,
+            "originalWidth": 3508,
+            "originalHeight": 1196,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": "File:Coca-Cola Arena - 15 Nov 2019 .jpg",
+            "fileName": "Coca-Cola Arena - 15 Nov 2019 .jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/250px-Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/500px-Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 167,
+            "originalWidth": 6720,
+            "originalHeight": 4480,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coca-Cola_Arena&revid=1364140512&groups=_b4baeba68c5f1f433e56d71467aac7b480d1b2a7&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coca-Cola_Arena&revid=1364140512&groups=_b4baeba68c5f1f433e56d71467aac7b480d1b2a7&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Coca-Cola Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Coca-Cola Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size notpageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Coca-Cola_Arena.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Coca-Cola_Arena.png/250px-Coca-Cola_Arena.png\" width=\"250\" height=\"85\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Coca-Cola_Arena.png/500px-Coca-Cola_Arena.png 2x\" data-file-width=\"3508\" data-file-height=\"1196\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Coca-Cola_Arena_-_15_Nov_2019_.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/250px-Coca-Cola_Arena_-_15_Nov_2019_.jpg\" width=\"250\" height=\"167\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/500px-Coca-Cola_Arena_-_15_Nov_2019_.jpg 2x\" data-file-width=\"6720\" data-file-height=\"4480\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_b4baeba68c5f1f433e56d71467aac7b480d1b2a7&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coca-Cola_Arena&amp;revid=1364140512&amp;groups=_b4baeba68c5f1f433e56d71467aac7b480d1b2a7&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coca-Cola_Arena&amp;revid=1364140512&amp;groups=_b4baeba68c5f1f433e56d71467aac7b480d1b2a7&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Coca-Cola Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Dubai\" title=\"Dubai\">Dubai</a>, United Arab Emirates<span data-plural=\"0\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Coca-Cola_Arena&amp;params=25_12_13.5_N_55_15_56.5_E_region:AE_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°12′13.5″N</span> <span class=\"longitude\">55°15′56.5″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.203750°N 55.265694°E</span><span>﻿ / <span class=\"geo\">25.203750; 55.265694</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Dubai_Holding\" title=\"Dubai Holding\">Dubai Holding</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Legends_Global\" title=\"Legends Global\">Legends Global</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">17000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">January 2017</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">June 6, 2019</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Populous_(company)\" class=\"mw-redirect\" title=\"Populous (company)\">Populous</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Builder</th><td class=\"infobox-data\">ASGC</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Dubai_Basketball\" title=\"Dubai Basketball\">Dubai Basketball</a> (<a href=\"https://en.wikipedia.org/wiki/EuroLeague\" title=\"EuroLeague\">EuroLeague</a>)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"https://www.coca-cola-arena.com/\">www<wbr>.coca-cola-arena<wbr>.com</a></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Commons_category_link_from_Wikidata",
+        "2019_establishments_in_the_United_Arab_Emirates",
+        "Sports_venues_completed_in_2019",
+        "Indoor_arenas_in_the_United_Arab_Emirates",
+        "Entertainment_venues_in_the_United_Arab_Emirates",
+        "Music_venues_in_the_United_Arab_Emirates",
+        "Sports_venues_in_Dubai",
+        "Coca-Cola_buildings_and_structures",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Coca-Cola_Arena&params=25_12_13.5_N_55_15_56.5_E_region:AE_type:landmark",
+        "https://www.thenationalnews.com/arts-culture/on-stage/a-first-look-inside-dubai-s-coca-cola-arena-more-on-the-acts-the-food-and-future-plans-1.849571",
+        "https://www.thenationalnews.com/uae/dubai-arena-officially-named-coca-cola-arena-after-10-year-deal-is-signed-1.846202",
+        "https://dubaiofw.com/coca-cola-arena/",
+        "https://www.khaleejtimes.com/coca-cola-arena-and-bookmyshow-sign-partnership",
+        "https://www.khaleejtimes.com/nation/dubai/video-inside-look-of-dubais-coca-cola-arena-1",
+        "https://web.archive.org/web/20210730191837/https://www.citywalk.ae/en/cocacolaarena",
+        "https://www.citywalk.ae/en/cocacolaarena",
+        "https://gulfnews.com/going-out/inside-the-massive-coca-cola-arena-dubais-newest-events-venue-1.63053299",
+        "https://www.asgcgroup.com/news-media/news/mega-project-raising-the-coca-cola-arena-roof",
+        "https://gulfnews.com/uae/coca-cola-arena-to-switch-on-led-facade-on-may-16-1.63963345",
+        "https://about.coca-cola-arena.com/plan-your-visit",
+        "https://www.concertarchives.org/venues/coca-cola-arena?date=past&page=1#concert-table",
+        "https://www.coca-colacoliseum.com/events/detail/bini",
+        "https://web.archive.org/web/20240412205351/https://www.skysports.com/boxing/news/12183/12705796/floyd-mayweather-to-fight-youtuber-deji-in-november-showdown-in-dubai",
+        "https://www.skysports.com/boxing/news/12183/12705796/floyd-mayweather-to-fight-youtuber-deji-in-november-showdown-in-dubai",
+        "https://www.euroleaguebasketball.net/ngt/news/live-blog-u18-ratiopharm-ulm-vs-u18-zalgiris-kaunas/",
+        "https://www.fiba.basketball/en/events/basketball-champions-league-asia-east-2025/news/dubai-to-host-bcl-asia-2025",
+        "https://www.pba.ph/news/dubai-holds-san-miguel-barangay-ginebra-ph-cup-rematch",
+        "https://www.coca-cola-arena.com",
+        "https://www.coca-cola-arena.com/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Construction",
+          "anchor": "Construction"
+        },
+        {
+          "index": "2",
+          "level": 3,
+          "line": "Façade lighting",
+          "anchor": "Façade_lighting"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Location",
+          "anchor": "Location"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "Events hosted",
+          "anchor": "Events_hosted"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Coca-Cola_Arena.png",
+        "Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+        "CCA-PBA.jpg",
+        "Jo_Koy_at_Coca-Cola_Arena.jpg",
+        "Commons-logo.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Coca-Cola Arena.png",
+          "fileName": "Coca-Cola Arena.png",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coca-Cola_Arena.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Coca-Cola_Arena.png/250px-Coca-Cola_Arena.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Coca-Cola_Arena.png/500px-Coca-Cola_Arena.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 85,
+          "originalWidth": 3508,
+          "originalHeight": 1196,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Coca-Cola Arena - 15 Nov 2019 .jpg",
+          "fileName": "Coca-Cola Arena - 15 Nov 2019 .jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/250px-Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/500px-Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 6720,
+          "originalHeight": 4480,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coca-Cola_Arena&revid=1364140512&groups=_b4baeba68c5f1f433e56d71467aac7b480d1b2a7&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coca-Cola_Arena&revid=1364140512&groups=_b4baeba68c5f1f433e56d71467aac7b480d1b2a7&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Coca-Cola Arena"
+        },
+        {
+          "fileTitle": "File:CCA-PBA.jpg",
+          "fileName": "CCA-PBA.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:CCA-PBA.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/CCA-PBA.jpg/250px-CCA-PBA.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/CCA-PBA.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/CCA-PBA.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/CCA-PBA.jpg/500px-CCA-PBA.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 6720,
+          "originalHeight": 4480,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "A Philippine Basketball Association game held at the arena in 2019."
+        },
+        {
+          "fileTitle": "File:Jo Koy at Coca-Cola Arena.jpg",
+          "fileName": "Jo Koy at Coca-Cola Arena.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Jo_Koy_at_Coca-Cola_Arena.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jo_Koy_at_Coca-Cola_Arena.jpg/250px-Jo_Koy_at_Coca-Cola_Arena.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jo_Koy_at_Coca-Cola_Arena.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jo_Koy_at_Coca-Cola_Arena.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jo_Koy_at_Coca-Cola_Arena.jpg/500px-Jo_Koy_at_Coca-Cola_Arena.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 6720,
+          "originalHeight": 4480,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Jo Koy at Coca-Cola Arena - 2020"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 40,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 452,
+          "rowText": "Coca-Cola Arena\n2019\n17,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Coca-Cola_Arena\" title=\"Coca-Cola Arena\">Coca-Cola Arena</a>\n</td>\n<td>2019\n</td>\n<td>17,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 450,
+              "cell": {
+                "text": "United Arab Emirates",
+                "lines": [
+                  "United Arab Emirates"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "United Arab Emirates",
+                    "title": "United Arab Emirates",
+                    "wikiTitle": "United Arab Emirates",
+                    "href": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 451,
+              "cell": {
+                "text": "Dubai",
+                "lines": [
+                  "Dubai"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Dubai",
+                    "title": "Dubai",
+                    "wikiTitle": "Dubai",
+                    "href": "https://en.wikipedia.org/wiki/Dubai",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 452,
+              "cell": {
+                "text": "Coca-Cola Arena",
+                "lines": [
+                  "Coca-Cola Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coca-Cola Arena",
+                    "title": "Coca-Cola Arena",
+                    "wikiTitle": "Coca-Cola Arena",
+                    "href": "https://en.wikipedia.org/wiki/Coca-Cola_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 452,
+              "cell": {
+                "text": "2019",
+                "lines": [
+                  "2019"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 452,
+              "cell": {
+                "text": "17,000",
+                "lines": [
+                  "17,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 452,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Coca-Cola Arena",
+            "lines": [
+              "Coca-Cola Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coca-Cola Arena",
+                "title": "Coca-Cola Arena",
+                "wikiTitle": "Coca-Cola Arena",
+                "href": "https://en.wikipedia.org/wiki/Coca-Cola_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas by capacity",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_by_capacity",
+          "sourceRevisionId": null,
+          "sourceType": "arena_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 116,
+          "rowText": "Coca-Cola Arena\n17,000\nDubai\nUnited Arab Emirates",
+          "rowHtml": "<tr>\n<th><a href=\"https://en.wikipedia.org/wiki/Coca-Cola_Arena\" title=\"Coca-Cola Arena\">Coca-Cola Arena</a>\n</th>\n<td>17,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Dubai\" title=\"Dubai\">Dubai</a>\n</td>\n<td><span class=\"flagicon nowrap\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/40px-Flag_of_the_United_Arab_Emirates.svg.png\" width=\"23\" height=\"12\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/60px-Flag_of_the_United_Arab_Emirates.svg.png 2x\" data-file-width=\"1200\" data-file-height=\"600\"></span></span> </span><a href=\"https://en.wikipedia.org/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a>\n</td>\n<td><span><a href=\"https://en.wikipedia.org/wiki/File:Coca-Cola_Arena_-_15_Nov_2019_.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/250px-Coca-Cola_Arena_-_15_Nov_2019_.jpg\" width=\"150\" height=\"100\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/330px-Coca-Cola_Arena_-_15_Nov_2019_.jpg 2x\" data-file-width=\"6720\" data-file-height=\"4480\"></a></span>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 116,
+              "cell": {
+                "text": "Coca-Cola Arena",
+                "lines": [
+                  "Coca-Cola Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coca-Cola Arena",
+                    "title": "Coca-Cola Arena",
+                    "wikiTitle": "Coca-Cola Arena",
+                    "href": "https://en.wikipedia.org/wiki/Coca-Cola_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 116,
+              "cell": {
+                "text": "17,000",
+                "lines": [
+                  "17,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 116,
+              "cell": {
+                "text": "Dubai",
+                "lines": [
+                  "Dubai"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Dubai",
+                    "title": "Dubai",
+                    "wikiTitle": "Dubai",
+                    "href": "https://en.wikipedia.org/wiki/Dubai",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 116,
+              "cell": {
+                "text": "United Arab Emirates",
+                "lines": [
+                  "United Arab Emirates"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "United Arab Emirates",
+                    "title": "United Arab Emirates",
+                    "wikiTitle": "United Arab Emirates",
+                    "href": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": null,
+                    "fileName": null,
+                    "kind": "photo",
+                    "filePageUrl": null,
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/40px-Flag_of_the_United_Arab_Emirates.svg.png",
+                    "originalRedirectUrl": null,
+                    "enwikiOriginalRedirectUrl": null,
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/60px-Flag_of_the_United_Arab_Emirates.svg.png",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 23,
+                    "height": 12,
+                    "originalWidth": 1200,
+                    "originalHeight": 600,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 116,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [
+                  {
+                    "text": "",
+                    "title": "File:Coca-Cola Arena - 15 Nov 2019 .jpg",
+                    "wikiTitle": "File:Coca-Cola Arena - 15 Nov 2019 .jpg",
+                    "href": "https://en.wikipedia.org/wiki/File:Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": "File:Coca-Cola Arena - 15 Nov 2019 .jpg",
+                    "fileName": "Coca-Cola Arena - 15 Nov 2019 .jpg",
+                    "kind": "photo",
+                    "filePageUrl": "https://en.wikipedia.org/wiki/File:Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/250px-Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+                    "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+                    "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/330px-Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 150,
+                    "height": 100,
+                    "originalWidth": 6720,
+                    "originalHeight": 4480,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": null,
+              "fileName": null,
+              "kind": "photo",
+              "filePageUrl": null,
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/40px-Flag_of_the_United_Arab_Emirates.svg.png",
+              "originalRedirectUrl": null,
+              "enwikiOriginalRedirectUrl": null,
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/60px-Flag_of_the_United_Arab_Emirates.svg.png",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 23,
+              "height": 12,
+              "originalWidth": 1200,
+              "originalHeight": 600,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            },
+            {
+              "fileTitle": "File:Coca-Cola Arena - 15 Nov 2019 .jpg",
+              "fileName": "Coca-Cola Arena - 15 Nov 2019 .jpg",
+              "kind": "photo",
+              "filePageUrl": "https://en.wikipedia.org/wiki/File:Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/250px-Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+              "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+              "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/330px-Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 150,
+              "height": 100,
+              "originalWidth": 6720,
+              "originalHeight": 4480,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Coca-Cola Arena",
+            "lines": [
+              "Coca-Cola Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coca-Cola Arena",
+                "title": "Coca-Cola Arena",
+                "wikiTitle": "Coca-Cola Arena",
+                "href": "https://en.wikipedia.org/wiki/Coca-Cola_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in the United Arab Emirates",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_the_United_Arab_Emirates",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": "United Arab Emirates",
+          "sectionPath": [
+            "Currently in use"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 2,
+          "rowText": "2\nCoca-Cola Arena\n17,000\nDubai",
+          "rowHtml": "<tr>\n<td>2</td>\n<td><span><a href=\"https://en.wikipedia.org/wiki/File:Coca-Cola_Arena_-_15_Nov_2019_.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/250px-Coca-Cola_Arena_-_15_Nov_2019_.jpg\" width=\"150\" height=\"100\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/330px-Coca-Cola_Arena_-_15_Nov_2019_.jpg 2x\" data-file-width=\"6720\" data-file-height=\"4480\"></a></span></td>\n<td><a href=\"https://en.wikipedia.org/wiki/Coca-Cola_Arena\" title=\"Coca-Cola Arena\">Coca-Cola Arena</a></td>\n<td>17,000</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Dubai\" title=\"Dubai\">Dubai</a></td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "N°",
+              "headerKey": "n",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "2",
+                "lines": [
+                  "2"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [
+                  {
+                    "text": "",
+                    "title": "File:Coca-Cola Arena - 15 Nov 2019 .jpg",
+                    "wikiTitle": "File:Coca-Cola Arena - 15 Nov 2019 .jpg",
+                    "href": "https://en.wikipedia.org/wiki/File:Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": "File:Coca-Cola Arena - 15 Nov 2019 .jpg",
+                    "fileName": "Coca-Cola Arena - 15 Nov 2019 .jpg",
+                    "kind": "photo",
+                    "filePageUrl": "https://en.wikipedia.org/wiki/File:Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/250px-Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+                    "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+                    "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/330px-Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 150,
+                    "height": 100,
+                    "originalWidth": 6720,
+                    "originalHeight": 4480,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arenas",
+              "headerKey": "arenas",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "Coca-Cola Arena",
+                "lines": [
+                  "Coca-Cola Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coca-Cola Arena",
+                    "title": "Coca-Cola Arena",
+                    "wikiTitle": "Coca-Cola Arena",
+                    "href": "https://en.wikipedia.org/wiki/Coca-Cola_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "17,000",
+                "lines": [
+                  "17,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "Dubai",
+                "lines": [
+                  "Dubai"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Dubai",
+                    "title": "Dubai",
+                    "wikiTitle": "Dubai",
+                    "href": "https://en.wikipedia.org/wiki/Dubai",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenants",
+              "headerKey": "tenants",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": "File:Coca-Cola Arena - 15 Nov 2019 .jpg",
+              "fileName": "Coca-Cola Arena - 15 Nov 2019 .jpg",
+              "kind": "photo",
+              "filePageUrl": "https://en.wikipedia.org/wiki/File:Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/250px-Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+              "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+              "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Coca-Cola_Arena_-_15_Nov_2019_.jpg/330px-Coca-Cola_Arena_-_15_Nov_2019_.jpg",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 150,
+              "height": 100,
+              "originalWidth": 6720,
+              "originalHeight": 4480,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Coca-Cola Arena",
+            "lines": [
+              "Coca-Cola Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coca-Cola Arena",
+                "title": "Coca-Cola Arena",
+                "wikiTitle": "Coca-Cola Arena",
+                "href": "https://en.wikipedia.org/wiki/Coca-Cola_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:48.159Z"
+    },
+    {
+      "id": "wikipedia-page-66486413",
+      "pageId": 66486413,
+      "revisionId": null,
+      "title": "Etihad Arena",
+      "displayTitle": "Etihad Arena",
+      "url": "https://en.wikipedia.org/wiki/Etihad_Arena",
+      "wikidataItem": "Q105393795",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q105393795",
+      "aliases": [
+        "Etihad Arena"
+      ],
+      "requestedTitles": [
+        "Etihad Arena"
+      ],
+      "sourceLinkTexts": [
+        "Etihad Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Etihad_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas by capacity",
+        "List of indoor arenas in the United Arab Emirates"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "arena_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [
+        "United Arab Emirates"
+      ],
+      "coordinates": {
+        "latitude": 24.4603,
+        "longitude": 54.604,
+        "raw": "24.4603; 54.6040"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Etihad Arena",
+        "groups": [
+          "Construction",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "FJ63+4PQ - درب يَاس - Yas Island - YS2 - Abu Dhabi, Phone: 600 511115",
+            "lines": [
+              "FJ63+4PQ - درب يَاس - Yas Island - YS2 - Abu Dhabi, Phone: 600 511115"
+            ],
+            "html": "<td class=\"infobox-data label\">FJ63+4PQ - درب يَاس - Yas Island - YS2 - Abu Dhabi, Phone: 600 511115<span data-plural=\"0\"></span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Yas Island, Abu Dhabi, United Arab Emirates",
+            "lines": [
+              "Yas Island, Abu Dhabi, United Arab Emirates"
+            ],
+            "html": "<td class=\"infobox-data label\">Yas Island, Abu Dhabi, United Arab Emirates</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "24°27′37″N 54°36′14″E﻿ / ﻿24.4603°N 54.6040°E﻿ / 24.4603; 54.6040",
+            "lines": [
+              "24°27′37″N 54°36′14″E﻿ / ﻿24.4603°N 54.6040°E﻿ / 24.4603; 54.6040"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Etihad_Arena&amp;params=24.4603_N_54.6040_E_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">24°27′37″N</span> <span class=\"longitude\">54°36′14″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">24.4603°N 54.6040°E</span><span>﻿ / <span class=\"geo\">24.4603; 54.6040</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "24°27′37″N 54°36′14″E﻿ / ﻿24.4603°N 54.6040°E﻿ / 24.4603; 54.6040",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Etihad_Arena&params=24.4603_N_54.6040_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Miral",
+            "lines": [
+              "Miral"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Miral_Group_(company)\" title=\"Miral Group (company)\">Miral</a></td>",
+            "links": [
+              {
+                "text": "Miral",
+                "title": "Miral Group (company)",
+                "wikiTitle": "Miral Group (company)",
+                "href": "https://en.wikipedia.org/wiki/Miral_Group_(company)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Ethara",
+            "lines": [
+              "Ethara"
+            ],
+            "html": "<td class=\"infobox-data agent\">Ethara</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "18,000",
+            "lines": [
+              "18,000"
+            ],
+            "html": "<td class=\"infobox-data\">18,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "January 2021",
+            "lines": [
+              "January 2021"
+            ],
+            "html": "<td class=\"infobox-data\">January 2021</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "HOK",
+            "lines": [
+              "HOK"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/HOK_(firm)\" title=\"HOK (firm)\">HOK</a></td>",
+            "links": [
+              {
+                "text": "HOK",
+                "title": "HOK (firm)",
+                "wikiTitle": "HOK (firm)",
+                "href": "https://en.wikipedia.org/wiki/HOK_(firm)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "Official website",
+            "lines": [
+              "Official website"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"official-website\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://etihadarena.ae/\">Official website</a></span></span></td>",
+            "links": [
+              {
+                "text": "Official website",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://etihadarena.ae/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "FJ63+4PQ - درب يَاس - Yas Island - YS2 - Abu Dhabi, Phone: 600 511115",
+              "lines": [
+                "FJ63+4PQ - درب يَاس - Yas Island - YS2 - Abu Dhabi, Phone: 600 511115"
+              ],
+              "html": "<td class=\"infobox-data label\">FJ63+4PQ - درب يَاس - Yas Island - YS2 - Abu Dhabi, Phone: 600 511115<span data-plural=\"0\"></span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Yas Island, Abu Dhabi, United Arab Emirates",
+              "lines": [
+                "Yas Island, Abu Dhabi, United Arab Emirates"
+              ],
+              "html": "<td class=\"infobox-data label\">Yas Island, Abu Dhabi, United Arab Emirates</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "24°27′37″N 54°36′14″E﻿ / ﻿24.4603°N 54.6040°E﻿ / 24.4603; 54.6040",
+              "lines": [
+                "24°27′37″N 54°36′14″E﻿ / ﻿24.4603°N 54.6040°E﻿ / 24.4603; 54.6040"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Etihad_Arena&amp;params=24.4603_N_54.6040_E_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">24°27′37″N</span> <span class=\"longitude\">54°36′14″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">24.4603°N 54.6040°E</span><span>﻿ / <span class=\"geo\">24.4603; 54.6040</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "24°27′37″N 54°36′14″E﻿ / ﻿24.4603°N 54.6040°E﻿ / 24.4603; 54.6040",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Etihad_Arena&params=24.4603_N_54.6040_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Miral",
+              "lines": [
+                "Miral"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Miral_Group_(company)\" title=\"Miral Group (company)\">Miral</a></td>",
+              "links": [
+                {
+                  "text": "Miral",
+                  "title": "Miral Group (company)",
+                  "wikiTitle": "Miral Group (company)",
+                  "href": "https://en.wikipedia.org/wiki/Miral_Group_(company)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Ethara",
+              "lines": [
+                "Ethara"
+              ],
+              "html": "<td class=\"infobox-data agent\">Ethara</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "18,000",
+              "lines": [
+                "18,000"
+              ],
+              "html": "<td class=\"infobox-data\">18,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "January 2021",
+              "lines": [
+                "January 2021"
+              ],
+              "html": "<td class=\"infobox-data\">January 2021</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "HOK",
+              "lines": [
+                "HOK"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/HOK_(firm)\" title=\"HOK (firm)\">HOK</a></td>",
+              "links": [
+                {
+                  "text": "HOK",
+                  "title": "HOK (firm)",
+                  "wikiTitle": "HOK (firm)",
+                  "href": "https://en.wikipedia.org/wiki/HOK_(firm)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "Official website",
+              "lines": [
+                "Official website"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"official-website\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://etihadarena.ae/\">Official website</a></span></span></td>",
+              "links": [
+                {
+                  "text": "Official website",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://etihadarena.ae/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "address": [
+            "FJ63+4PQ - درب يَاس - Yas Island - YS2 - Abu Dhabi, Phone: 600 511115"
+          ],
+          "location": [
+            "Yas Island, Abu Dhabi, United Arab Emirates"
+          ],
+          "coordinates": [
+            "24°27′37″N 54°36′14″E﻿ / ﻿24.4603°N 54.6040°E﻿ / 24.4603; 54.6040"
+          ],
+          "owner": [
+            "Miral"
+          ],
+          "operator": [
+            "Ethara"
+          ],
+          "capacity": [
+            "18,000"
+          ],
+          "opened": [
+            "January 2021"
+          ],
+          "architect": [
+            "HOK"
+          ],
+          "website": [
+            "Official website"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "18,000"
+        ],
+        "tenants": [],
+        "websites": [
+          "http://etihadarena.ae/"
+        ],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Etihad_Arena&revid=1362995845&groups=_e262dfb471bc31c579028877ece865df3e2aadc7&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Etihad_Arena&revid=1362995845&groups=_e262dfb471bc31c579028877ece865df3e2aadc7&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Etihad Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Etihad Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_e262dfb471bc31c579028877ece865df3e2aadc7&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Etihad_Arena&amp;revid=1362995845&amp;groups=_e262dfb471bc31c579028877ece865df3e2aadc7&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Etihad_Arena&amp;revid=1362995845&amp;groups=_e262dfb471bc31c579028877ece865df3e2aadc7&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Etihad Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\">FJ63+4PQ - درب يَاس - Yas Island - YS2 - Abu Dhabi, Phone: 600 511115<span data-plural=\"0\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">Yas Island, Abu Dhabi, United Arab Emirates</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Etihad_Arena&amp;params=24.4603_N_54.6040_E_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">24°27′37″N</span> <span class=\"longitude\">54°36′14″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">24.4603°N 54.6040°E</span><span>﻿ / <span class=\"geo\">24.4603; 54.6040</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Miral_Group_(company)\" title=\"Miral Group (company)\">Miral</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">Ethara</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">18,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">January 2021</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/HOK_(firm)\" title=\"HOK (firm)\">HOK</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"official-website\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://etihadarena.ae/\">Official website</a></span></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Official_website_different_in_Wikidata_and_Wikipedia",
+        "Indoor_arenas_in_the_United_Arab_Emirates",
+        "Music_venues_in_the_United_Arab_Emirates",
+        "Sports_venues_in_Abu_Dhabi",
+        "Sports_venues_completed_in_2021",
+        "2021_establishments_in_the_United_Arab_Emirates",
+        "Etihad_Airways",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Etihad_Arena&params=24.4603_N_54.6040_E_type:landmark",
+        "https://miral.ae/news-item/etihad-and-miral-sign-agreement-naming-etihad-arena-the-new-entertainment-venue-on-yas-island/",
+        "https://www.hok.com/news/2017-06/hok-unveils-design-for-yas-arena-in-abu-dhabi/",
+        "https://www.fina.org/news/2417278/etihad-arena-the-best-venue-ever-well-probably",
+        "https://www.thestadiumbusiness.com/2020/01/09/etihad-takes-naming-rights-new-abu-dhabi-arena/",
+        "https://www.thestadiumbusiness.com/2020/03/16/etihad-arena-opening-date-pushed-back-coronavirus/",
+        "https://mmajunkie.usatoday.com/2021/01/ufc-limited-fans-attendance-etihad-arena-fight-island-mma-conor-mcgregor-dustin-poirier",
+        "https://www.mmafighting.com/2021/1/10/22223333/etihad-arena-lists-official-covid-19-safety-measures-for-fans-at-january-ufc-fight-island-shows",
+        "https://mmajunkie.usatoday.com/story/sports/ufc/2021/01/16/ufc-on-abc-1-results-max-holloway-masterclass-decision-vs-calvin-kattar/81687214007/",
+        "https://mmajunkie.usatoday.com/story/sports/ufc/2021/01/20/ufc-on-espn-20-results-michael-chiesa-grinds-out-neil-magny-stays-undefeated-welterweight/81683776007/",
+        "https://mmajunkie.usatoday.com/story/sports/ufc/2021/01/24/ufc-257-results-dustin-poirier-stuns-conor-mcgregor-second-round-finish/81680290007/",
+        "https://mmajunkie.usatoday.com/story/sports/ufc/2021/10/30/ufc-267-results-glover-teixeira-taps-jan-blachowicz-becomes-light-heavyweight-champ-at-42-years-old/81417838007/",
+        "https://mmajunkie.usatoday.com/story/sports/ufc/2022/10/22/ufc-280-results-islam-makhachev-vs-charles-oliveira-video-submission-nurmagomedov/81092818007/",
+        "https://mmajunkie.usatoday.com/story/sports/ufc/2023/10/21/ufc-294-results-islam-makhachev-vs-alexander-volkanovski-knock-out-head-kick-rematch/80409828007/",
+        "https://mmajunkie.usatoday.com/story/sports/ufc/2024/08/03/ufc-on-abc-7-umar-nurmagomedov-cory-sandhagen-decision-first-main-event-title-shot-next/74662003007/",
+        "https://mmajunkie.usatoday.com/story/sports/ufc/2024/10/26/ufc-308-results-highlights-ilia-topuria-first-knock-out-max-holloway-ko-featherweight-title/75869266007/",
+        "https://mmajunkie.usatoday.com/story/sports/ufc/2025/07/26/ufc-abu-dhabi-results-reinier-de-ridder-vs-robert-whittaker-split-decision/85390470007/",
+        "https://www.bbc.com/sport/mixed-martial-arts/articles/ckgkqzg1yv7o",
+        "https://www.fina.org/competitions/2/15th-fina-world-swimming-championships-25m-2021",
+        "https://bleacherreport.com/articles/10036524-floyd-mayweather-has-strong-display-vs-don-moore-in-abu-dhabi-boxing-exhibition",
+        "https://boxingjunkie.usatoday.com/2022/11/dmitry-bivol-dominates-overmatched-gilberto-ramirez-to-win-wide-decision",
+        "https://www.nba.com/news/bucks-hawks-to-play-2-preseason-games-in-abu-dhabi",
+        "https://www.nba.com/news/abu-dahbi-games-release-wolves-mavs-2023",
+        "https://www.hrw.org/news/2024/10/03/uae-nba-games-risk-sportswashing-abuses",
+        "https://www.nytimes.com/2024/10/10/business/nba-abu-dhabi-games.html",
+        "https://www.imaginedragonsmusic.com/tour/#/",
+        "https://www.etihadarena.ae/en/event-booking/linkin-park",
+        "https://www.newindianexpress.com/entertainment/hindi/2022/jun/05/iifa-awards-shershaah-leads-with-top-honours-vicky-kaushal-dedicates-award-to-irrfan-2462043.html",
+        "http://etihadarena.ae/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 3,
+          "line": "Sporting events",
+          "anchor": "Sporting_events"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "Concerts",
+          "anchor": "Concerts"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "Other events",
+          "anchor": "Other_events"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Etihad_Arena&revid=1362995845&groups=_e262dfb471bc31c579028877ece865df3e2aadc7&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Etihad_Arena&revid=1362995845&groups=_e262dfb471bc31c579028877ece865df3e2aadc7&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Etihad Arena"
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 450,
+          "rowText": "United Arab Emirates\nAbu Dhabi\nEtihad Arena\n2021\n18,000",
+          "rowHtml": "<tr>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Abu_Dhabi\" title=\"Abu Dhabi\">Abu Dhabi</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Etihad_Arena\" title=\"Etihad Arena\">Etihad Arena</a>\n</td>\n<td>2021\n</td>\n<td>18,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 450,
+              "cell": {
+                "text": "United Arab Emirates",
+                "lines": [
+                  "United Arab Emirates"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "United Arab Emirates",
+                    "title": "United Arab Emirates",
+                    "wikiTitle": "United Arab Emirates",
+                    "href": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 450,
+              "cell": {
+                "text": "Abu Dhabi",
+                "lines": [
+                  "Abu Dhabi"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Abu Dhabi",
+                    "title": "Abu Dhabi",
+                    "wikiTitle": "Abu Dhabi",
+                    "href": "https://en.wikipedia.org/wiki/Abu_Dhabi",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 450,
+              "cell": {
+                "text": "Etihad Arena",
+                "lines": [
+                  "Etihad Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Etihad Arena",
+                    "title": "Etihad Arena",
+                    "wikiTitle": "Etihad Arena",
+                    "href": "https://en.wikipedia.org/wiki/Etihad_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 450,
+              "cell": {
+                "text": "2021",
+                "lines": [
+                  "2021"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 450,
+              "cell": {
+                "text": "18,000",
+                "lines": [
+                  "18,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 450,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Etihad Arena",
+            "lines": [
+              "Etihad Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Etihad Arena",
+                "title": "Etihad Arena",
+                "wikiTitle": "Etihad Arena",
+                "href": "https://en.wikipedia.org/wiki/Etihad_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas by capacity",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_by_capacity",
+          "sourceRevisionId": null,
+          "sourceType": "arena_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 90,
+          "rowText": "Etihad Arena\n18,000\nAbu Dhabi\nUnited Arab Emirates",
+          "rowHtml": "<tr>\n<th scope=\"row\"><a href=\"https://en.wikipedia.org/wiki/Etihad_Arena\" title=\"Etihad Arena\">Etihad Arena</a>\n</th>\n<td>18,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Abu_Dhabi\" title=\"Abu Dhabi\">Abu Dhabi</a>\n</td>\n<td><span class=\"flagicon nowrap\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/40px-Flag_of_the_United_Arab_Emirates.svg.png\" width=\"23\" height=\"12\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/60px-Flag_of_the_United_Arab_Emirates.svg.png 2x\" data-file-width=\"1200\" data-file-height=\"600\"></span></span> </span><a href=\"https://en.wikipedia.org/wiki/United_Arab_Emirates\" title=\"United Arab Emirates\">United Arab Emirates</a>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 90,
+              "cell": {
+                "text": "Etihad Arena",
+                "lines": [
+                  "Etihad Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Etihad Arena",
+                    "title": "Etihad Arena",
+                    "wikiTitle": "Etihad Arena",
+                    "href": "https://en.wikipedia.org/wiki/Etihad_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 90,
+              "cell": {
+                "text": "18,000",
+                "lines": [
+                  "18,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 90,
+              "cell": {
+                "text": "Abu Dhabi",
+                "lines": [
+                  "Abu Dhabi"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Abu Dhabi",
+                    "title": "Abu Dhabi",
+                    "wikiTitle": "Abu Dhabi",
+                    "href": "https://en.wikipedia.org/wiki/Abu_Dhabi",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 90,
+              "cell": {
+                "text": "United Arab Emirates",
+                "lines": [
+                  "United Arab Emirates"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "United Arab Emirates",
+                    "title": "United Arab Emirates",
+                    "wikiTitle": "United Arab Emirates",
+                    "href": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": null,
+                    "fileName": null,
+                    "kind": "photo",
+                    "filePageUrl": null,
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/40px-Flag_of_the_United_Arab_Emirates.svg.png",
+                    "originalRedirectUrl": null,
+                    "enwikiOriginalRedirectUrl": null,
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/60px-Flag_of_the_United_Arab_Emirates.svg.png",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 23,
+                    "height": 12,
+                    "originalWidth": 1200,
+                    "originalHeight": 600,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 90,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": null,
+              "fileName": null,
+              "kind": "photo",
+              "filePageUrl": null,
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/40px-Flag_of_the_United_Arab_Emirates.svg.png",
+              "originalRedirectUrl": null,
+              "enwikiOriginalRedirectUrl": null,
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/60px-Flag_of_the_United_Arab_Emirates.svg.png",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 23,
+              "height": 12,
+              "originalWidth": 1200,
+              "originalHeight": 600,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Etihad Arena",
+            "lines": [
+              "Etihad Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Etihad Arena",
+                "title": "Etihad Arena",
+                "wikiTitle": "Etihad Arena",
+                "href": "https://en.wikipedia.org/wiki/Etihad_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in the United Arab Emirates",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_the_United_Arab_Emirates",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": "United Arab Emirates",
+          "sectionPath": [
+            "Currently in use"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 1,
+          "rowText": "1\nEtihad Arena\n18,000\nAbu Dhabi",
+          "rowHtml": "<tr>\n<td>1</td>\n<td></td>\n<td><a href=\"https://en.wikipedia.org/wiki/Etihad_Arena\" title=\"Etihad Arena\">Etihad Arena</a></td>\n<td>18,000</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Abu_Dhabi\" title=\"Abu Dhabi\">Abu Dhabi</a></td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "N°",
+              "headerKey": "n",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "1",
+                "lines": [
+                  "1"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arenas",
+              "headerKey": "arenas",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "Etihad Arena",
+                "lines": [
+                  "Etihad Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Etihad Arena",
+                    "title": "Etihad Arena",
+                    "wikiTitle": "Etihad Arena",
+                    "href": "https://en.wikipedia.org/wiki/Etihad_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "[1]",
+                    "title": null,
+                    "wikiTitle": null,
+                    "href": "https://en.wikipedia.org/#cite_note-1",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": true
+                  }
+                ],
+                "media": [],
+                "references": [
+                  {
+                    "label": "[1]",
+                    "href": "https://en.wikipedia.org/#cite_note-1"
+                  }
+                ]
+              }
+            },
+            {
+              "index": 3,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "18,000",
+                "lines": [
+                  "18,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "Abu Dhabi",
+                "lines": [
+                  "Abu Dhabi"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Abu Dhabi",
+                    "title": "Abu Dhabi",
+                    "wikiTitle": "Abu Dhabi",
+                    "href": "https://en.wikipedia.org/wiki/Abu_Dhabi",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenants",
+              "headerKey": "tenants",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Etihad Arena",
+            "lines": [
+              "Etihad Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Etihad Arena",
+                "title": "Etihad Arena",
+                "wikiTitle": "Etihad Arena",
+                "href": "https://en.wikipedia.org/wiki/Etihad_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-1"
+              }
+            ]
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:48.328Z"
+    },
+    {
+      "id": "wikipedia-page-26283132",
+      "pageId": 26283132,
+      "revisionId": null,
+      "title": "Hamdan Sports Complex",
+      "displayTitle": "Hamdan Sports Complex",
+      "url": "https://en.wikipedia.org/wiki/Hamdan_Sports_Complex",
+      "wikidataItem": "Q5310611",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5310611",
+      "aliases": [
+        "Hamdan Sports Complex"
+      ],
+      "requestedTitles": [
+        "Hamdan Sports Complex"
+      ],
+      "sourceLinkTexts": [
+        "Hamdan Sports Complex"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Hamdan_Sports_Complex"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas by capacity",
+        "List of indoor arenas in the United Arab Emirates"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "arena_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [
+        "United Arab Emirates"
+      ],
+      "coordinates": {
+        "latitude": 25.0512548,
+        "longitude": 55.3180397,
+        "raw": "25.0512548; 55.3180397"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Hamdan Sports Complex",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Hamdan Sports Complex",
+            "lines": [
+              "Hamdan Sports Complex"
+            ],
+            "html": "<td class=\"infobox-data\">Hamdan Sports Complex</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Dubai, United Arab Emirates",
+            "lines": [
+              "Dubai, United Arab Emirates"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Dubai,_United_Arab_Emirates\" class=\"mw-redirect\" title=\"Dubai, United Arab Emirates\">Dubai, United Arab Emirates</a></td>",
+            "links": [
+              {
+                "text": "Dubai, United Arab Emirates",
+                "title": "Dubai, United Arab Emirates",
+                "wikiTitle": "Dubai, United Arab Emirates",
+                "href": "https://en.wikipedia.org/wiki/Dubai,_United_Arab_Emirates",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "25°03′05″N 55°19′05″E﻿ / ﻿25.0512548°N 55.3180397°E﻿ / 25.0512548; 55.3180397",
+            "lines": [
+              "25°03′05″N 55°19′05″E﻿ / ﻿25.0512548°N 55.3180397°E﻿ / 25.0512548; 55.3180397"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Hamdan_Sports_Complex&amp;params=25.0512548_N_55.3180397_E_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°03′05″N</span> <span class=\"longitude\">55°19′05″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.0512548°N 55.3180397°E</span><span>﻿ / <span class=\"geo\">25.0512548; 55.3180397</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "25°03′05″N 55°19′05″E﻿ / ﻿25.0512548°N 55.3180397°E﻿ / 25.0512548; 55.3180397",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Hamdan_Sports_Complex&params=25.0512548_N_55.3180397_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Dubai Municipality",
+            "lines": [
+              "Dubai Municipality"
+            ],
+            "html": "<td class=\"infobox-data agent\">Dubai Municipality</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "15,000",
+            "lines": [
+              "15,000"
+            ],
+            "html": "<td class=\"infobox-data\">15,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "May 2008",
+            "lines": [
+              "May 2008"
+            ],
+            "html": "<td class=\"infobox-data\">May 2008</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "10 October 2010",
+            "lines": [
+              "10 October 2010"
+            ],
+            "html": "<td class=\"infobox-data\">10 October 2010</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-launches-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-launches-1"
+              }
+            ]
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "AED1.1 billion\nUSD $ 300 million\nEUR € 244 million",
+            "lines": [
+              "AED1.1 billion",
+              "USD $ 300 million",
+              "EUR € 244 million"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/UAE_dirham\" class=\"mw-redirect\" title=\"UAE dirham\">AED</a>1.1 billion <br> <a href=\"https://en.wikipedia.org/wiki/United_States_dollar\" title=\"United States dollar\">USD $</a> 300 million <br> <a href=\"https://en.wikipedia.org/wiki/Euro\" title=\"Euro\">EUR €</a> 244 million</td>",
+            "links": [
+              {
+                "text": "AED",
+                "title": "UAE dirham",
+                "wikiTitle": "UAE dirham",
+                "href": "https://en.wikipedia.org/wiki/UAE_dirham",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-launches-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              },
+              {
+                "text": "USD $",
+                "title": "United States dollar",
+                "wikiTitle": "United States dollar",
+                "href": "https://en.wikipedia.org/wiki/United_States_dollar",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "EUR €",
+                "title": "Euro",
+                "wikiTitle": "Euro",
+                "href": "https://en.wikipedia.org/wiki/Euro",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-launches-1"
+              }
+            ]
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Binladin Contracting Group LLC",
+            "lines": [
+              "Binladin Contracting Group LLC"
+            ],
+            "html": "<td class=\"infobox-data\">Binladin Contracting Group LLC</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Project manager",
+            "key": "project_manager",
+            "group": "Construction",
+            "text": "Binladin Contracting Group LLC",
+            "lines": [
+              "Binladin Contracting Group LLC"
+            ],
+            "html": "<td class=\"infobox-data\">Binladin Contracting Group LLC</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Structural engineer",
+            "key": "structural_engineer",
+            "group": "Construction",
+            "text": "Binladin Contracting Group LLC",
+            "lines": [
+              "Binladin Contracting Group LLC"
+            ],
+            "html": "<td class=\"infobox-data\">Binladin Contracting Group LLC</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "General contractor",
+            "key": "general_contractor",
+            "group": "Construction",
+            "text": "Binladin Contracting Group LLC",
+            "lines": [
+              "Binladin Contracting Group LLC"
+            ],
+            "html": "<td class=\"infobox-data\">Binladin Contracting Group LLC</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Main contractors",
+            "key": "main_contractors",
+            "group": "Construction",
+            "text": "Binladin Contracting Group LLC",
+            "lines": [
+              "Binladin Contracting Group LLC"
+            ],
+            "html": "<td class=\"infobox-data\">Binladin Contracting Group LLC</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "2010 World Swimming Championships (25m)\n2014 FIBA Under-17 World Championship\nIPTL (2014-present)\nBWF World Superseries Finals (2014-2017)",
+            "lines": [
+              "2010 World Swimming Championships (25m)",
+              "2014 FIBA Under-17 World Championship",
+              "IPTL (2014-present)",
+              "BWF World Superseries Finals (2014-2017)"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/2010_FINA_World_Swimming_Championships_(25_m)\" title=\"2010 FINA World Swimming Championships (25 m)\">2010 World Swimming Championships (25m)</a><br><a href=\"https://en.wikipedia.org/wiki/2014_FIBA_Under-17_World_Championship\" title=\"2014 FIBA Under-17 World Championship\">2014 FIBA Under-17 World Championship</a><br><a href=\"https://en.wikipedia.org/wiki/International_Premier_Tennis_League\" title=\"International Premier Tennis League\">IPTL</a> (2014-present)<br><a href=\"https://en.wikipedia.org/wiki/BWF_Super_Series_Masters_Finals\" class=\"mw-redirect\" title=\"BWF Super Series Masters Finals\">BWF World Superseries Finals</a> (2014-2017)</td>",
+            "links": [
+              {
+                "text": "2010 World Swimming Championships (25m)",
+                "title": "2010 FINA World Swimming Championships (25 m)",
+                "wikiTitle": "2010 FINA World Swimming Championships (25 m)",
+                "href": "https://en.wikipedia.org/wiki/2010_FINA_World_Swimming_Championships_(25_m)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "2014 FIBA Under-17 World Championship",
+                "title": "2014 FIBA Under-17 World Championship",
+                "wikiTitle": "2014 FIBA Under-17 World Championship",
+                "href": "https://en.wikipedia.org/wiki/2014_FIBA_Under-17_World_Championship",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-launches-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              },
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              },
+              {
+                "text": "IPTL",
+                "title": "International Premier Tennis League",
+                "wikiTitle": "International Premier Tennis League",
+                "href": "https://en.wikipedia.org/wiki/International_Premier_Tennis_League",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "BWF World Superseries Finals",
+                "title": "BWF Super Series Masters Finals",
+                "wikiTitle": "BWF Super Series Masters Finals",
+                "href": "https://en.wikipedia.org/wiki/BWF_Super_Series_Masters_Finals",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[3]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-3",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-launches-1"
+              },
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-2"
+              },
+              {
+                "label": "[3]",
+                "href": "https://en.wikipedia.org/#cite_note-3"
+              }
+            ]
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Hamdan Sports Complex",
+              "lines": [
+                "Hamdan Sports Complex"
+              ],
+              "html": "<td class=\"infobox-data\">Hamdan Sports Complex</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Dubai, United Arab Emirates",
+              "lines": [
+                "Dubai, United Arab Emirates"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Dubai,_United_Arab_Emirates\" class=\"mw-redirect\" title=\"Dubai, United Arab Emirates\">Dubai, United Arab Emirates</a></td>",
+              "links": [
+                {
+                  "text": "Dubai, United Arab Emirates",
+                  "title": "Dubai, United Arab Emirates",
+                  "wikiTitle": "Dubai, United Arab Emirates",
+                  "href": "https://en.wikipedia.org/wiki/Dubai,_United_Arab_Emirates",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "25°03′05″N 55°19′05″E﻿ / ﻿25.0512548°N 55.3180397°E﻿ / 25.0512548; 55.3180397",
+              "lines": [
+                "25°03′05″N 55°19′05″E﻿ / ﻿25.0512548°N 55.3180397°E﻿ / 25.0512548; 55.3180397"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Hamdan_Sports_Complex&amp;params=25.0512548_N_55.3180397_E_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°03′05″N</span> <span class=\"longitude\">55°19′05″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.0512548°N 55.3180397°E</span><span>﻿ / <span class=\"geo\">25.0512548; 55.3180397</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "25°03′05″N 55°19′05″E﻿ / ﻿25.0512548°N 55.3180397°E﻿ / 25.0512548; 55.3180397",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Hamdan_Sports_Complex&params=25.0512548_N_55.3180397_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Dubai Municipality",
+              "lines": [
+                "Dubai Municipality"
+              ],
+              "html": "<td class=\"infobox-data agent\">Dubai Municipality</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "15,000",
+              "lines": [
+                "15,000"
+              ],
+              "html": "<td class=\"infobox-data\">15,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "May 2008",
+              "lines": [
+                "May 2008"
+              ],
+              "html": "<td class=\"infobox-data\">May 2008</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "10 October 2010",
+              "lines": [
+                "10 October 2010"
+              ],
+              "html": "<td class=\"infobox-data\">10 October 2010</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-launches-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-launches-1"
+                }
+              ]
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "AED1.1 billion\nUSD $ 300 million\nEUR € 244 million",
+              "lines": [
+                "AED1.1 billion",
+                "USD $ 300 million",
+                "EUR € 244 million"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/UAE_dirham\" class=\"mw-redirect\" title=\"UAE dirham\">AED</a>1.1 billion <br> <a href=\"https://en.wikipedia.org/wiki/United_States_dollar\" title=\"United States dollar\">USD $</a> 300 million <br> <a href=\"https://en.wikipedia.org/wiki/Euro\" title=\"Euro\">EUR €</a> 244 million</td>",
+              "links": [
+                {
+                  "text": "AED",
+                  "title": "UAE dirham",
+                  "wikiTitle": "UAE dirham",
+                  "href": "https://en.wikipedia.org/wiki/UAE_dirham",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-launches-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                },
+                {
+                  "text": "USD $",
+                  "title": "United States dollar",
+                  "wikiTitle": "United States dollar",
+                  "href": "https://en.wikipedia.org/wiki/United_States_dollar",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "EUR €",
+                  "title": "Euro",
+                  "wikiTitle": "Euro",
+                  "href": "https://en.wikipedia.org/wiki/Euro",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-launches-1"
+                }
+              ]
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Binladin Contracting Group LLC",
+              "lines": [
+                "Binladin Contracting Group LLC"
+              ],
+              "html": "<td class=\"infobox-data\">Binladin Contracting Group LLC</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "project_manager": [
+            {
+              "label": "Project manager",
+              "key": "project_manager",
+              "group": "Construction",
+              "text": "Binladin Contracting Group LLC",
+              "lines": [
+                "Binladin Contracting Group LLC"
+              ],
+              "html": "<td class=\"infobox-data\">Binladin Contracting Group LLC</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "structural_engineer": [
+            {
+              "label": "Structural engineer",
+              "key": "structural_engineer",
+              "group": "Construction",
+              "text": "Binladin Contracting Group LLC",
+              "lines": [
+                "Binladin Contracting Group LLC"
+              ],
+              "html": "<td class=\"infobox-data\">Binladin Contracting Group LLC</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "general_contractor": [
+            {
+              "label": "General contractor",
+              "key": "general_contractor",
+              "group": "Construction",
+              "text": "Binladin Contracting Group LLC",
+              "lines": [
+                "Binladin Contracting Group LLC"
+              ],
+              "html": "<td class=\"infobox-data\">Binladin Contracting Group LLC</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "main_contractors": [
+            {
+              "label": "Main contractors",
+              "key": "main_contractors",
+              "group": "Construction",
+              "text": "Binladin Contracting Group LLC",
+              "lines": [
+                "Binladin Contracting Group LLC"
+              ],
+              "html": "<td class=\"infobox-data\">Binladin Contracting Group LLC</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "2010 World Swimming Championships (25m)\n2014 FIBA Under-17 World Championship\nIPTL (2014-present)\nBWF World Superseries Finals (2014-2017)",
+              "lines": [
+                "2010 World Swimming Championships (25m)",
+                "2014 FIBA Under-17 World Championship",
+                "IPTL (2014-present)",
+                "BWF World Superseries Finals (2014-2017)"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/2010_FINA_World_Swimming_Championships_(25_m)\" title=\"2010 FINA World Swimming Championships (25 m)\">2010 World Swimming Championships (25m)</a><br><a href=\"https://en.wikipedia.org/wiki/2014_FIBA_Under-17_World_Championship\" title=\"2014 FIBA Under-17 World Championship\">2014 FIBA Under-17 World Championship</a><br><a href=\"https://en.wikipedia.org/wiki/International_Premier_Tennis_League\" title=\"International Premier Tennis League\">IPTL</a> (2014-present)<br><a href=\"https://en.wikipedia.org/wiki/BWF_Super_Series_Masters_Finals\" class=\"mw-redirect\" title=\"BWF Super Series Masters Finals\">BWF World Superseries Finals</a> (2014-2017)</td>",
+              "links": [
+                {
+                  "text": "2010 World Swimming Championships (25m)",
+                  "title": "2010 FINA World Swimming Championships (25 m)",
+                  "wikiTitle": "2010 FINA World Swimming Championships (25 m)",
+                  "href": "https://en.wikipedia.org/wiki/2010_FINA_World_Swimming_Championships_(25_m)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "2014 FIBA Under-17 World Championship",
+                  "title": "2014 FIBA Under-17 World Championship",
+                  "wikiTitle": "2014 FIBA Under-17 World Championship",
+                  "href": "https://en.wikipedia.org/wiki/2014_FIBA_Under-17_World_Championship",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-launches-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                },
+                {
+                  "text": "[2]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-2",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                },
+                {
+                  "text": "IPTL",
+                  "title": "International Premier Tennis League",
+                  "wikiTitle": "International Premier Tennis League",
+                  "href": "https://en.wikipedia.org/wiki/International_Premier_Tennis_League",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "BWF World Superseries Finals",
+                  "title": "BWF Super Series Masters Finals",
+                  "wikiTitle": "BWF Super Series Masters Finals",
+                  "href": "https://en.wikipedia.org/wiki/BWF_Super_Series_Masters_Finals",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "[3]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-3",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-launches-1"
+                },
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-2"
+                },
+                {
+                  "label": "[3]",
+                  "href": "https://en.wikipedia.org/#cite_note-3"
+                }
+              ]
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Hamdan Sports Complex"
+          ],
+          "location": [
+            "Dubai, United Arab Emirates"
+          ],
+          "coordinates": [
+            "25°03′05″N 55°19′05″E﻿ / ﻿25.0512548°N 55.3180397°E﻿ / 25.0512548; 55.3180397"
+          ],
+          "owner": [
+            "Dubai Municipality"
+          ],
+          "capacity": [
+            "15,000"
+          ],
+          "groundbreaking": [
+            "May 2008"
+          ],
+          "opened": [
+            "10 October 2010"
+          ],
+          "cost": [
+            "AED1.1 billion\nUSD $ 300 million\nEUR € 244 million"
+          ],
+          "architect": [
+            "Binladin Contracting Group LLC"
+          ],
+          "project_manager": [
+            "Binladin Contracting Group LLC"
+          ],
+          "structural_engineer": [
+            "Binladin Contracting Group LLC"
+          ],
+          "general_contractor": [
+            "Binladin Contracting Group LLC"
+          ],
+          "main_contractors": [
+            "Binladin Contracting Group LLC"
+          ],
+          "tenants": [
+            "2010 World Swimming Championships (25m)\n2014 FIBA Under-17 World Championship\nIPTL (2014-present)\nBWF World Superseries Finals (2014-2017)"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "15,000"
+        ],
+        "tenants": [
+          "2010 World Swimming Championships (25m)",
+          "2014 FIBA Under-17 World Championship",
+          "IPTL (2014-present)",
+          "BWF World Superseries Finals (2014-2017)"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Hamdan_Sports_Complex&revid=1329798946&groups=_492ea1496a151f52c2dbfc79df35bb2506389c6d&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Hamdan_Sports_Complex&revid=1329798946&groups=_492ea1496a151f52c2dbfc79df35bb2506389c6d&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Hamdan Sports Complex"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Hamdan Sports Complex</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_492ea1496a151f52c2dbfc79df35bb2506389c6d&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Hamdan_Sports_Complex&amp;revid=1329798946&amp;groups=_492ea1496a151f52c2dbfc79df35bb2506389c6d&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Hamdan_Sports_Complex&amp;revid=1329798946&amp;groups=_492ea1496a151f52c2dbfc79df35bb2506389c6d&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Hamdan Sports Complex</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Hamdan Sports Complex</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Dubai,_United_Arab_Emirates\" class=\"mw-redirect\" title=\"Dubai, United Arab Emirates\">Dubai, United Arab Emirates</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Hamdan_Sports_Complex&amp;params=25.0512548_N_55.3180397_E_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°03′05″N</span> <span class=\"longitude\">55°19′05″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.0512548°N 55.3180397°E</span><span>﻿ / <span class=\"geo\">25.0512548; 55.3180397</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Dubai Municipality</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">15,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">May 2008</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">10 October 2010</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/UAE_dirham\" class=\"mw-redirect\" title=\"UAE dirham\">AED</a>1.1 billion <br> <a href=\"https://en.wikipedia.org/wiki/United_States_dollar\" title=\"United States dollar\">USD $</a> 300 million <br> <a href=\"https://en.wikipedia.org/wiki/Euro\" title=\"Euro\">EUR €</a> 244 million</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\">Binladin Contracting Group LLC</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Project manager</div></th><td class=\"infobox-data\">Binladin Contracting Group LLC</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Structural engineer</div></th><td class=\"infobox-data\">Binladin Contracting Group LLC</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>General contractor</div></th><td class=\"infobox-data\">Binladin Contracting Group LLC</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Main contractors</div></th><td class=\"infobox-data\">Binladin Contracting Group LLC</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/2010_FINA_World_Swimming_Championships_(25_m)\" title=\"2010 FINA World Swimming Championships (25 m)\">2010 World Swimming Championships (25m)</a><br><a href=\"https://en.wikipedia.org/wiki/2014_FIBA_Under-17_World_Championship\" title=\"2014 FIBA Under-17 World Championship\">2014 FIBA Under-17 World Championship</a><br><a href=\"https://en.wikipedia.org/wiki/International_Premier_Tennis_League\" title=\"International Premier Tennis League\">IPTL</a> (2014-present)<br><a href=\"https://en.wikipedia.org/wiki/BWF_Super_Series_Masters_Finals\" class=\"mw-redirect\" title=\"BWF Super Series Masters Finals\">BWF World Superseries Finals</a> (2014-2017)</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Indoor_arenas_in_the_United_Arab_Emirates",
+        "Sports_venues_in_Dubai",
+        "Badminton_venues",
+        "Basketball_venues_in_the_United_Arab_Emirates",
+        "Netball_venues_in_the_United_Arab_Emirates",
+        "Swimming_venues_in_the_United_Arab_Emirates",
+        "Volleyball_venues_in_the_United_Arab_Emirates",
+        "International_Premier_Tennis_League",
+        "2010_establishments_in_the_United_Arab_Emirates",
+        "Sports_venues_completed_in_2010",
+        "All_stub_articles",
+        "Middle_Eastern_sports_venue_stubs",
+        "United_Arab_Emirates_building_and_structure_stubs",
+        "Emirati_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://www.fiba.basketball/en/Page/3b11deab-cf07-4a72-ba73-781a1b1f09c5",
+        "https://web.archive.org/web/20140714164650/http://www.fiba.com/en/Page/3b11deab-cf07-4a72-ba73-781a1b1f09c5",
+        "http://www.insidethegames.biz/articles/1022808/countdown-on-until-opening-of-badminton-world-Super-Series-finals-in-dubai",
+        "http://gulfnews.com/sport/other-sports/fina-team-happy-with-progress-of-sports-complex-1.580729",
+        "https://web.archive.org/web/20080618010101/http://www.meed.com/sectors/construction/municipality-plans-dubai-sports-complex/1568844.article",
+        "http://www.meed.com/sectors/construction/municipality-plans-dubai-sports-complex/1568844.article",
+        "https://web.archive.org/web/20100522193243/http://www.thehindu.com/2004/12/18/stories/2004121805791800.htm",
+        "http://www.thehindu.com/2004/12/18/stories/2004121805791800.htm",
+        "https://www.fina.org/news/1914196/pr27-update-on-2010-2013-fina-world-championships-in-dubai-uae",
+        "https://www.fina.org/news/1913198/official-launch-of-the-mascot-of-the-fina-world-swimming-championships-25m-2010-in-dubai-uae",
+        "https://www.thenationalnews.com/sport/uae-open-asian-volleyball-championships-campaign-with-win-over-uzbekistan-1.586532",
+        "https://swimswam.com/hosszu-enters-17-events-fina-world-cup-dubai-start-lists/",
+        "https://gulfnews.com/uae/all-you-need-to-know-the-special-olympics-world-games-abu-dhabi-2019-1.1552461854806",
+        "https://olympics.com/en/news/world-karate-championships-2021-india-results",
+        "https://www.spin.ph/basketball/pacquiao-follows-35-point-showing-with-42-as-mpbl-exacts-revenge-in-dubai-a1374-20190929?ref=article_tag",
+        "http://www.emirates247.com/news/government/sheikh-hamdan-launches-dh1-1bn-dubai-sports-complex-2010-10-11-1.302007",
+        "https://geohack.toolforge.org/geohack.php?pagename=Hamdan_Sports_Complex&params=25.0512548_N_55.3180397_E_type:landmark",
+        "http://www.hamdansc.com/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Notable events",
+          "anchor": "Notable_events"
+        },
+        {
+          "index": "2",
+          "level": 3,
+          "line": "Major events",
+          "anchor": "Major_events"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "Other events",
+          "anchor": "Other_events"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "مجمع_حمدان_الرياضي.jpg",
+        "Flag_of_the_United_Arab_Emirates.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Hamdan_Sports_Complex&revid=1329798946&groups=_492ea1496a151f52c2dbfc79df35bb2506389c6d&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Hamdan_Sports_Complex&revid=1329798946&groups=_492ea1496a151f52c2dbfc79df35bb2506389c6d&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Hamdan Sports Complex"
+        },
+        {
+          "fileTitle": "File:مجمع حمدان الرياضي.jpg",
+          "fileName": "مجمع حمدان الرياضي.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:%D9%85%D8%AC%D9%85%D8%B9_%D8%AD%D9%85%D8%AF%D8%A7%D9%86_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/%D9%85%D8%AC%D9%85%D8%B9_%D8%AD%D9%85%D8%AF%D8%A7%D9%86_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A.jpg/250px-%D9%85%D8%AC%D9%85%D8%B9_%D8%AD%D9%85%D8%AF%D8%A7%D9%86_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%D9%85%D8%AC%D9%85%D8%B9_%D8%AD%D9%85%D8%AF%D8%A7%D9%86_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%D9%85%D8%AC%D9%85%D8%B9_%D8%AD%D9%85%D8%AF%D8%A7%D9%86_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/%D9%85%D8%AC%D9%85%D8%B9_%D8%AD%D9%85%D8%AF%D8%A7%D9%86_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A.jpg/500px-%D9%85%D8%AC%D9%85%D8%B9_%D8%AD%D9%85%D8%AF%D8%A7%D9%86_%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 5184,
+          "originalHeight": 3456,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Hamdan Sports Complex"
+        },
+        {
+          "fileTitle": "File:Flag of the United Arab Emirates.svg",
+          "fileName": "Flag of the United Arab Emirates.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_the_United_Arab_Emirates.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/40px-Flag_of_the_United_Arab_Emirates.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_the_United_Arab_Emirates.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_the_United_Arab_Emirates.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/60px-Flag_of_the_United_Arab_Emirates.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 15,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Flag of United Arab Emirates",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 451,
+          "rowText": "Dubai\nHamdan Sports Complex\n2010\n15,000\n2014 FIBA Under-17 World Championship, 2015 FIVB Volleyball Men's World Championship",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Dubai\" title=\"Dubai\">Dubai</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Hamdan_Sports_Complex\" title=\"Hamdan Sports Complex\">Hamdan Sports Complex</a>\n</td>\n<td>2010\n</td>\n<td>15,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/2014_FIBA_Under-17_World_Championship\" title=\"2014 FIBA Under-17 World Championship\">2014 FIBA Under-17 World Championship</a>, <a href=\"https://en.wikipedia.org/wiki/2015_FIVB_Volleyball_Men%27s_U23_World_Championship\" title=\"2015 FIVB Volleyball Men's U23 World Championship\">2015 FIVB Volleyball Men's World Championship</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 450,
+              "cell": {
+                "text": "United Arab Emirates",
+                "lines": [
+                  "United Arab Emirates"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "United Arab Emirates",
+                    "title": "United Arab Emirates",
+                    "wikiTitle": "United Arab Emirates",
+                    "href": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 451,
+              "cell": {
+                "text": "Dubai",
+                "lines": [
+                  "Dubai"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Dubai",
+                    "title": "Dubai",
+                    "wikiTitle": "Dubai",
+                    "href": "https://en.wikipedia.org/wiki/Dubai",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 451,
+              "cell": {
+                "text": "Hamdan Sports Complex",
+                "lines": [
+                  "Hamdan Sports Complex"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Hamdan Sports Complex",
+                    "title": "Hamdan Sports Complex",
+                    "wikiTitle": "Hamdan Sports Complex",
+                    "href": "https://en.wikipedia.org/wiki/Hamdan_Sports_Complex",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 451,
+              "cell": {
+                "text": "2010",
+                "lines": [
+                  "2010"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 451,
+              "cell": {
+                "text": "15,000",
+                "lines": [
+                  "15,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 451,
+              "cell": {
+                "text": "2014 FIBA Under-17 World Championship, 2015 FIVB Volleyball Men's World Championship",
+                "lines": [
+                  "2014 FIBA Under-17 World Championship, 2015 FIVB Volleyball Men's World Championship"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "2014 FIBA Under-17 World Championship",
+                    "title": "2014 FIBA Under-17 World Championship",
+                    "wikiTitle": "2014 FIBA Under-17 World Championship",
+                    "href": "https://en.wikipedia.org/wiki/2014_FIBA_Under-17_World_Championship",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "2015 FIVB Volleyball Men's World Championship",
+                    "title": "2015 FIVB Volleyball Men's U23 World Championship",
+                    "wikiTitle": "2015 FIVB Volleyball Men's U23 World Championship",
+                    "href": "https://en.wikipedia.org/wiki/2015_FIVB_Volleyball_Men%27s_U23_World_Championship",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Hamdan Sports Complex",
+            "lines": [
+              "Hamdan Sports Complex"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Hamdan Sports Complex",
+                "title": "Hamdan Sports Complex",
+                "wikiTitle": "Hamdan Sports Complex",
+                "href": "https://en.wikipedia.org/wiki/Hamdan_Sports_Complex",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas by capacity",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_by_capacity",
+          "sourceRevisionId": null,
+          "sourceType": "arena_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 176,
+          "rowText": "Hamdan Sports Complex\n15,000\nDubai\nUnited Arab Emirates",
+          "rowHtml": "<tr>\n<th scope=\"row\"><a href=\"https://en.wikipedia.org/wiki/Hamdan_Sports_Complex\" title=\"Hamdan Sports Complex\">Hamdan Sports Complex</a>\n</th>\n<td>15,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Dubai\" title=\"Dubai\">Dubai</a>\n</td>\n<td><span class=\"flagicon\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/40px-Flag_of_the_United_Arab_Emirates.svg.png\" width=\"23\" height=\"12\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/60px-Flag_of_the_United_Arab_Emirates.svg.png 2x\" data-file-width=\"1200\" data-file-height=\"600\"></span></span>&nbsp;</span>United Arab Emirates\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 176,
+              "cell": {
+                "text": "Hamdan Sports Complex",
+                "lines": [
+                  "Hamdan Sports Complex"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Hamdan Sports Complex",
+                    "title": "Hamdan Sports Complex",
+                    "wikiTitle": "Hamdan Sports Complex",
+                    "href": "https://en.wikipedia.org/wiki/Hamdan_Sports_Complex",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 176,
+              "cell": {
+                "text": "15,000",
+                "lines": [
+                  "15,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 176,
+              "cell": {
+                "text": "Dubai",
+                "lines": [
+                  "Dubai"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Dubai",
+                    "title": "Dubai",
+                    "wikiTitle": "Dubai",
+                    "href": "https://en.wikipedia.org/wiki/Dubai",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 176,
+              "cell": {
+                "text": "United Arab Emirates",
+                "lines": [
+                  "United Arab Emirates"
+                ],
+                "html": null,
+                "links": [],
+                "media": [
+                  {
+                    "fileTitle": null,
+                    "fileName": null,
+                    "kind": "photo",
+                    "filePageUrl": null,
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/40px-Flag_of_the_United_Arab_Emirates.svg.png",
+                    "originalRedirectUrl": null,
+                    "enwikiOriginalRedirectUrl": null,
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/60px-Flag_of_the_United_Arab_Emirates.svg.png",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 23,
+                    "height": 12,
+                    "originalWidth": 1200,
+                    "originalHeight": 600,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 176,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": null,
+              "fileName": null,
+              "kind": "photo",
+              "filePageUrl": null,
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/40px-Flag_of_the_United_Arab_Emirates.svg.png",
+              "originalRedirectUrl": null,
+              "enwikiOriginalRedirectUrl": null,
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/60px-Flag_of_the_United_Arab_Emirates.svg.png",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 23,
+              "height": 12,
+              "originalWidth": 1200,
+              "originalHeight": 600,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Hamdan Sports Complex",
+            "lines": [
+              "Hamdan Sports Complex"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Hamdan Sports Complex",
+                "title": "Hamdan Sports Complex",
+                "wikiTitle": "Hamdan Sports Complex",
+                "href": "https://en.wikipedia.org/wiki/Hamdan_Sports_Complex",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in the United Arab Emirates",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_the_United_Arab_Emirates",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": "United Arab Emirates",
+          "sectionPath": [
+            "Currently in use"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 3,
+          "rowText": "3\nHamdan Sports Complex\n15,000\nDubai",
+          "rowHtml": "<tr>\n<td>3</td>\n<td></td>\n<td><a href=\"https://en.wikipedia.org/wiki/Hamdan_Sports_Complex\" title=\"Hamdan Sports Complex\">Hamdan Sports Complex</a></td>\n<td>15,000</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Dubai\" title=\"Dubai\">Dubai</a></td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "N°",
+              "headerKey": "n",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "3",
+                "lines": [
+                  "3"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arenas",
+              "headerKey": "arenas",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "Hamdan Sports Complex",
+                "lines": [
+                  "Hamdan Sports Complex"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Hamdan Sports Complex",
+                    "title": "Hamdan Sports Complex",
+                    "wikiTitle": "Hamdan Sports Complex",
+                    "href": "https://en.wikipedia.org/wiki/Hamdan_Sports_Complex",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "[2]",
+                    "title": null,
+                    "wikiTitle": null,
+                    "href": "https://en.wikipedia.org/#cite_note-2",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": true
+                  }
+                ],
+                "media": [],
+                "references": [
+                  {
+                    "label": "[2]",
+                    "href": "https://en.wikipedia.org/#cite_note-2"
+                  }
+                ]
+              }
+            },
+            {
+              "index": 3,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "15,000",
+                "lines": [
+                  "15,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "Dubai",
+                "lines": [
+                  "Dubai"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Dubai",
+                    "title": "Dubai",
+                    "wikiTitle": "Dubai",
+                    "href": "https://en.wikipedia.org/wiki/Dubai",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenants",
+              "headerKey": "tenants",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Hamdan Sports Complex",
+            "lines": [
+              "Hamdan Sports Complex"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Hamdan Sports Complex",
+                "title": "Hamdan Sports Complex",
+                "wikiTitle": "Hamdan Sports Complex",
+                "href": "https://en.wikipedia.org/wiki/Hamdan_Sports_Complex",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-2"
+              }
+            ]
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:48.179Z"
+    }
+  ]
+}
