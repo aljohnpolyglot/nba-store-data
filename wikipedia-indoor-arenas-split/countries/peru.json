@@ -1,0 +1,3386 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Peru",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 4
+  },
+  "stats": {
+    "arenaCount": 4,
+    "sourceRowCount": 5,
+    "mediaRecordCount": 18,
+    "sourceTypeCounts": {
+      "world_master_list": 4,
+      "arena_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-12899544",
+      "pageId": 12899544,
+      "revisionId": null,
+      "title": "Coliseo Amauta",
+      "displayTitle": "Coliseo Amauta",
+      "url": "https://en.wikipedia.org/wiki/Coliseo_Amauta",
+      "wikidataItem": "Q5145739",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5145739",
+      "aliases": [
+        "Coliseo Amauta",
+        "Plaza Monumental of Chacra Ríos (1946–1968)",
+        "Coliseo Amauta (1968–2012)",
+        "Centro de Convenciones Agua Viva"
+      ],
+      "requestedTitles": [
+        "Coliseo Amauta"
+      ],
+      "sourceLinkTexts": [
+        "Coliseo Amauta"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Coliseo_Amauta"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas by capacity"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "arena_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": -12.0545889,
+        "longitude": -77.0632111,
+        "raw": "-12.0545889; -77.0632111"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Centro de Convenciones Agua Viva",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Former names",
+            "key": "former_names",
+            "group": null,
+            "text": "Plaza Monumental of Chacra Ríos (1946–1968)\nColiseo Amauta (1968–2012)",
+            "lines": [
+              "Plaza Monumental of Chacra Ríos (1946–1968)",
+              "Coliseo Amauta (1968–2012)"
+            ],
+            "html": "<td class=\"infobox-data nickname\">Plaza Monumental of Chacra Ríos (1946–1968)<br>Coliseo Amauta (1968–2012)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "Av. Naciones Unidas con Av. Arica\nLima 15081\nPeru",
+            "lines": [
+              "Av. Naciones Unidas con Av. Arica",
+              "Lima 15081",
+              "Peru"
+            ],
+            "html": "<td class=\"infobox-data label\">Av. Naciones Unidas con Av. Arica<br><a href=\"https://en.wikipedia.org/wiki/Lima\" title=\"Lima\">Lima</a> 15081<br><a href=\"https://en.wikipedia.org/wiki/Peru\" title=\"Peru\">Peru</a><span data-plural=\"0\"></span></td>",
+            "links": [
+              {
+                "text": "Lima",
+                "title": "Lima",
+                "wikiTitle": "Lima",
+                "href": "https://en.wikipedia.org/wiki/Lima",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Peru",
+                "title": "Peru",
+                "wikiTitle": "Peru",
+                "href": "https://en.wikipedia.org/wiki/Peru",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Cata, Breña",
+            "lines": [
+              "Cata, Breña"
+            ],
+            "html": "<td class=\"infobox-data label\">Cata, <a href=\"https://en.wikipedia.org/wiki/Bre%C3%B1a\" title=\"Breña\">Breña</a></td>",
+            "links": [
+              {
+                "text": "Breña",
+                "title": "Breña",
+                "wikiTitle": "Breña",
+                "href": "https://en.wikipedia.org/wiki/Bre%C3%B1a",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Comunidad Cristiana Agua Viva",
+            "lines": [
+              "Comunidad Cristiana Agua Viva"
+            ],
+            "html": "<td class=\"infobox-data agent\">Comunidad Cristiana Agua Viva</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "20,000",
+            "lines": [
+              "20,000"
+            ],
+            "html": "<td class=\"infobox-data\">20,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "14 February 1946 (1946-02-14)",
+            "lines": [
+              "14 February 1946 (1946-02-14)"
+            ],
+            "html": "<td class=\"infobox-data\">14&nbsp;February&nbsp;1946<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1946-02-14</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "1967–1968, 2011–2012",
+            "lines": [
+              "1967–1968, 2011–2012"
+            ],
+            "html": "<td class=\"infobox-data\">1967–1968, 2011–2012</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "former_names": [
+            {
+              "label": "Former names",
+              "key": "former_names",
+              "group": null,
+              "text": "Plaza Monumental of Chacra Ríos (1946–1968)\nColiseo Amauta (1968–2012)",
+              "lines": [
+                "Plaza Monumental of Chacra Ríos (1946–1968)",
+                "Coliseo Amauta (1968–2012)"
+              ],
+              "html": "<td class=\"infobox-data nickname\">Plaza Monumental of Chacra Ríos (1946–1968)<br>Coliseo Amauta (1968–2012)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "Av. Naciones Unidas con Av. Arica\nLima 15081\nPeru",
+              "lines": [
+                "Av. Naciones Unidas con Av. Arica",
+                "Lima 15081",
+                "Peru"
+              ],
+              "html": "<td class=\"infobox-data label\">Av. Naciones Unidas con Av. Arica<br><a href=\"https://en.wikipedia.org/wiki/Lima\" title=\"Lima\">Lima</a> 15081<br><a href=\"https://en.wikipedia.org/wiki/Peru\" title=\"Peru\">Peru</a><span data-plural=\"0\"></span></td>",
+              "links": [
+                {
+                  "text": "Lima",
+                  "title": "Lima",
+                  "wikiTitle": "Lima",
+                  "href": "https://en.wikipedia.org/wiki/Lima",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Peru",
+                  "title": "Peru",
+                  "wikiTitle": "Peru",
+                  "href": "https://en.wikipedia.org/wiki/Peru",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Cata, Breña",
+              "lines": [
+                "Cata, Breña"
+              ],
+              "html": "<td class=\"infobox-data label\">Cata, <a href=\"https://en.wikipedia.org/wiki/Bre%C3%B1a\" title=\"Breña\">Breña</a></td>",
+              "links": [
+                {
+                  "text": "Breña",
+                  "title": "Breña",
+                  "wikiTitle": "Breña",
+                  "href": "https://en.wikipedia.org/wiki/Bre%C3%B1a",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Comunidad Cristiana Agua Viva",
+              "lines": [
+                "Comunidad Cristiana Agua Viva"
+              ],
+              "html": "<td class=\"infobox-data agent\">Comunidad Cristiana Agua Viva</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "20,000",
+              "lines": [
+                "20,000"
+              ],
+              "html": "<td class=\"infobox-data\">20,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "14 February 1946 (1946-02-14)",
+              "lines": [
+                "14 February 1946 (1946-02-14)"
+              ],
+              "html": "<td class=\"infobox-data\">14&nbsp;February&nbsp;1946<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1946-02-14</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "1967–1968, 2011–2012",
+              "lines": [
+                "1967–1968, 2011–2012"
+              ],
+              "html": "<td class=\"infobox-data\">1967–1968, 2011–2012</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "former_names": [
+            "Plaza Monumental of Chacra Ríos (1946–1968)\nColiseo Amauta (1968–2012)"
+          ],
+          "address": [
+            "Av. Naciones Unidas con Av. Arica\nLima 15081\nPeru"
+          ],
+          "location": [
+            "Cata, Breña"
+          ],
+          "owner": [
+            "Comunidad Cristiana Agua Viva"
+          ],
+          "capacity": [
+            "20,000"
+          ],
+          "opened": [
+            "14 February 1946 (1946-02-14)"
+          ],
+          "renovated": [
+            "1967–1968, 2011–2012"
+          ]
+        },
+        "formerNames": [
+          "Plaza Monumental of Chacra Ríos (1946–1968)",
+          "Coliseo Amauta (1968–2012)"
+        ],
+        "capacities": [
+          "20,000"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Colisée Amauta.jpg",
+            "fileName": "Colisée Amauta.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Colis%C3%A9e_Amauta.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colis%C3%A9e_Amauta.jpg/250px-Colis%C3%A9e_Amauta.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Colis%C3%A9e_Amauta.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Colis%C3%A9e_Amauta.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colis%C3%A9e_Amauta.jpg/500px-Colis%C3%A9e_Amauta.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 192,
+            "originalWidth": 1010,
+            "originalHeight": 775,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Amauta&revid=1329036727&groups=_b2070253392e9fe07c9a440940548ec94d4f56b0&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Amauta&revid=1329036727&groups=_b2070253392e9fe07c9a440940548ec94d4f56b0&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Centro de Convenciones Agua Viva"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Centro de Convenciones Agua Viva</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Colis%C3%A9e_Amauta.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colis%C3%A9e_Amauta.jpg/250px-Colis%C3%A9e_Amauta.jpg\" width=\"250\" height=\"192\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colis%C3%A9e_Amauta.jpg/500px-Colis%C3%A9e_Amauta.jpg 2x\" data-file-width=\"1010\" data-file-height=\"775\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_b2070253392e9fe07c9a440940548ec94d4f56b0&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_Amauta&amp;revid=1329036727&amp;groups=_b2070253392e9fe07c9a440940548ec94d4f56b0&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_Amauta&amp;revid=1329036727&amp;groups=_b2070253392e9fe07c9a440940548ec94d4f56b0&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Centro de Convenciones Agua Viva</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Former names</div></th><td class=\"infobox-data nickname\">Plaza Monumental of Chacra Ríos (1946–1968)<br>Coliseo Amauta (1968–2012)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\">Av. Naciones Unidas con Av. Arica<br><a href=\"https://en.wikipedia.org/wiki/Lima\" title=\"Lima\">Lima</a> 15081<br><a href=\"https://en.wikipedia.org/wiki/Peru\" title=\"Peru\">Peru</a><span data-plural=\"0\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">Cata, <a href=\"https://en.wikipedia.org/wiki/Bre%C3%B1a\" title=\"Breña\">Breña</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Comunidad Cristiana Agua Viva</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">20,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">14&nbsp;February&nbsp;1946<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1946-02-14</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">1967–1968, 2011–2012</td></tr></tbody></table>"
+      },
+      "categories": [
+        "CS1_Spanish-language_sources_(es)",
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Articles_needing_translation_from_Spanish_Wikipedia",
+        "Articles_needing_additional_references_from_August_2007",
+        "All_articles_needing_additional_references",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Commons_category_link_from_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Sports_venues_in_Lima",
+        "Event_venues_established_in_1968",
+        "Indoor_arenas_in_Peru",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://web.archive.org/web/20170101234657/http://larepublica.pe/26-09-2012/coliseo-amauta-de-plaza-de-toros-centro-religioso",
+        "http://larepublica.pe/26-09-2012/coliseo-amauta-de-plaza-de-toros-centro-religioso",
+        "https://www2.congreso.gob.pe/sicr/cendocbib/con4_uibd.nsf/0DD72E3AC43606DC05257BE9006D9BAD/$FILE/1_pdfsam_desco00002.pdf",
+        "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_Amauta&params=12_03_16.52_S_77_03_47.56_W_type:landmark_scale:2000",
+        "https://translate.google.com/translate?&u=https://es.wikipedia.org/wiki/Coliseo_Amauta&sl=es&tl=en&prev=_t&hl=en",
+        "https://deepl.com",
+        "https://translate.google.com/",
+        "https://www.google.com/search?as_eq=wikipedia&q=%22Coliseo+Amauta%22",
+        "https://www.google.com/search?tbm=nws&q=%22Coliseo+Amauta%22+-wikipedia&tbs=ar:1",
+        "https://www.google.com/search?&q=%22Coliseo+Amauta%22&tbs=bkt:s&tbm=bks",
+        "https://www.google.com/search?tbs=bks:1&q=%22Coliseo+Amauta%22+-wikipedia",
+        "https://scholar.google.com/scholar?q=%22Coliseo+Amauta%22",
+        "https://www.jstor.org/action/doBasicSearch?Query=%22Coliseo+Amauta%22&acc=on&wc=on"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Events",
+          "anchor": "Events"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Concerts",
+          "anchor": "Concerts"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Japanese_A_to_English_A.svg",
+        "Question_book-new.svg",
+        "Colisée_Amauta.jpg",
+        "Commons-logo.svg",
+        "Flag_of_the_United_States.svg",
+        "Flag_of_Lima.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Japanese A to English A.svg",
+          "fileName": "Japanese A to English A.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Japanese_A_to_English_A.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Japanese_A_to_English_A.svg/60px-Japanese_A_to_English_A.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Japanese_A_to_English_A.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Japanese_A_to_English_A.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Japanese_A_to_English_A.svg/120px-Japanese_A_to_English_A.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 16,
+          "originalWidth": 475,
+          "originalHeight": 150,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Question book-new.svg",
+          "fileName": "Question book-new.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 39,
+          "originalWidth": 512,
+          "originalHeight": 399,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Colisée Amauta.jpg",
+          "fileName": "Colisée Amauta.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Colis%C3%A9e_Amauta.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colis%C3%A9e_Amauta.jpg/250px-Colis%C3%A9e_Amauta.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Colis%C3%A9e_Amauta.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Colis%C3%A9e_Amauta.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colis%C3%A9e_Amauta.jpg/500px-Colis%C3%A9e_Amauta.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 192,
+          "originalWidth": 1010,
+          "originalHeight": 775,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Amauta&revid=1329036727&groups=_b2070253392e9fe07c9a440940548ec94d4f56b0&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Amauta&revid=1329036727&groups=_b2070253392e9fe07c9a440940548ec94d4f56b0&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Centro de Convenciones Agua Viva"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/60px-Flag_of_the_United_States.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1235,
+          "originalHeight": 650,
+          "fileType": null,
+          "alt": "United States",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Flag of Lima.svg",
+          "fileName": "Flag of Lima.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Lima.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_Lima.svg/120px-Flag_of_Lima.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Lima.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Lima.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_Lima.svg/250px-Flag_of_Lima.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 90,
+          "height": 60,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "MTR Logo",
+          "title": "MTR Logo",
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 120,
+          "rowText": "Peru\nLima\nColiseo Amauta\n1948 (covered in 1968)\n20,000",
+          "rowHtml": "<tr>\n<td rowspan=\"16\"><a href=\"https://en.wikipedia.org/wiki/Peru\" title=\"Peru\">Peru</a>\n</td>\n<td rowspan=\"4\"><a href=\"https://en.wikipedia.org/wiki/Lima\" title=\"Lima\">Lima</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Coliseo_Amauta\" title=\"Coliseo Amauta\">Coliseo Amauta</a>\n</td>\n<td>1948 (covered in 1968)\n</td>\n<td>20,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 120,
+              "cell": {
+                "text": "Peru",
+                "lines": [
+                  "Peru"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Peru",
+                    "title": "Peru",
+                    "wikiTitle": "Peru",
+                    "href": "https://en.wikipedia.org/wiki/Peru",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 120,
+              "cell": {
+                "text": "Lima",
+                "lines": [
+                  "Lima"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Lima",
+                    "title": "Lima",
+                    "wikiTitle": "Lima",
+                    "href": "https://en.wikipedia.org/wiki/Lima",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 120,
+              "cell": {
+                "text": "Coliseo Amauta",
+                "lines": [
+                  "Coliseo Amauta"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo Amauta",
+                    "title": "Coliseo Amauta",
+                    "wikiTitle": "Coliseo Amauta",
+                    "href": "https://en.wikipedia.org/wiki/Coliseo_Amauta",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 120,
+              "cell": {
+                "text": "1948 (covered in 1968)",
+                "lines": [
+                  "1948 (covered in 1968)"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 120,
+              "cell": {
+                "text": "20,000",
+                "lines": [
+                  "20,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 120,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Coliseo Amauta",
+            "lines": [
+              "Coliseo Amauta"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo Amauta",
+                "title": "Coliseo Amauta",
+                "wikiTitle": "Coliseo Amauta",
+                "href": "https://en.wikipedia.org/wiki/Coliseo_Amauta",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas by capacity",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_by_capacity",
+          "sourceRevisionId": null,
+          "sourceType": "arena_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 28,
+          "rowText": "Coliseo Amauta\n20,000\nLima\nPeru",
+          "rowHtml": "<tr>\n<th scope=\"row\"><a href=\"https://en.wikipedia.org/wiki/Coliseo_Amauta\" title=\"Coliseo Amauta\">Coliseo Amauta</a>\n</th>\n<td>20,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Lima\" title=\"Lima\">Lima</a>\n</td>\n<td><span class=\"flagicon nowrap\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/40px-Flag_of_Peru.svg.png\" width=\"23\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/60px-Flag_of_Peru.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\"></span></span> </span><a href=\"https://en.wikipedia.org/wiki/Peru\" title=\"Peru\">Peru</a>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "Coliseo Amauta",
+                "lines": [
+                  "Coliseo Amauta"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo Amauta",
+                    "title": "Coliseo Amauta",
+                    "wikiTitle": "Coliseo Amauta",
+                    "href": "https://en.wikipedia.org/wiki/Coliseo_Amauta",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "20,000",
+                "lines": [
+                  "20,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "Lima",
+                "lines": [
+                  "Lima"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Lima",
+                    "title": "Lima",
+                    "wikiTitle": "Lima",
+                    "href": "https://en.wikipedia.org/wiki/Lima",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "Peru",
+                "lines": [
+                  "Peru"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Peru",
+                    "title": "Peru",
+                    "wikiTitle": "Peru",
+                    "href": "https://en.wikipedia.org/wiki/Peru",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": null,
+                    "fileName": null,
+                    "kind": "photo",
+                    "filePageUrl": null,
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/40px-Flag_of_Peru.svg.png",
+                    "originalRedirectUrl": null,
+                    "enwikiOriginalRedirectUrl": null,
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/60px-Flag_of_Peru.svg.png",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 23,
+                    "height": 15,
+                    "originalWidth": 900,
+                    "originalHeight": 600,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": null,
+              "fileName": null,
+              "kind": "photo",
+              "filePageUrl": null,
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/40px-Flag_of_Peru.svg.png",
+              "originalRedirectUrl": null,
+              "enwikiOriginalRedirectUrl": null,
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/60px-Flag_of_Peru.svg.png",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 23,
+              "height": 15,
+              "originalWidth": 900,
+              "originalHeight": 600,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Coliseo Amauta",
+            "lines": [
+              "Coliseo Amauta"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo Amauta",
+                "title": "Coliseo Amauta",
+                "wikiTitle": "Coliseo Amauta",
+                "href": "https://en.wikipedia.org/wiki/Coliseo_Amauta",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:32.068Z"
+    },
+    {
+      "id": "wikipedia-page-28905802",
+      "pageId": 28905802,
+      "revisionId": null,
+      "title": "Coliseo Cerrado",
+      "displayTitle": "Coliseo Cerrado",
+      "url": "https://en.wikipedia.org/wiki/Coliseo_Cerrado",
+      "wikidataItem": "Q5145740",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5145740",
+      "aliases": [
+        "Coliseo Cerrado",
+        "Coliseo Casa de la Juventud"
+      ],
+      "requestedTitles": [
+        "Coliseo Cerrado"
+      ],
+      "sourceLinkTexts": [
+        "Coliseo Casa de la Juventud"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Coliseo_Cerrado"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": -13.52639,
+        "longitude": -71.95694,
+        "raw": "-13.52639; -71.95694"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Coliseo Cerrado",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Coliseo Cerrado",
+            "lines": [
+              "Coliseo Cerrado"
+            ],
+            "html": "<td class=\"infobox-data\">Coliseo Cerrado</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Cusco, Peru",
+            "lines": [
+              "Cusco, Peru"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Cusco\" title=\"Cusco\">Cusco</a>, <a href=\"https://en.wikipedia.org/wiki/Peru\" title=\"Peru\">Peru</a></td>",
+            "links": [
+              {
+                "text": "Cusco",
+                "title": "Cusco",
+                "wikiTitle": "Cusco",
+                "href": "https://en.wikipedia.org/wiki/Cusco",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Peru",
+                "title": "Peru",
+                "wikiTitle": "Peru",
+                "href": "https://en.wikipedia.org/wiki/Peru",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Institute of Peru Sport (IPD)",
+            "lines": [
+              "Institute of Peru Sport (IPD)"
+            ],
+            "html": "<td class=\"infobox-data agent\">Institute of Peru Sport (IPD)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Institute of Peru Sport (IPD)",
+            "lines": [
+              "Institute of Peru Sport (IPD)"
+            ],
+            "html": "<td class=\"infobox-data agent\">Institute of Peru Sport (IPD)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "13,000",
+            "lines": [
+              "13,000"
+            ],
+            "html": "<td class=\"infobox-data\">13,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1980",
+            "lines": [
+              "1980"
+            ],
+            "html": "<td class=\"infobox-data\">1980</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "some Peru women's national volleyball team matches",
+            "lines": [
+              "some Peru women's national volleyball team matches"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\">some <a href=\"https://en.wikipedia.org/wiki/Peru_women%27s_national_volleyball_team\" title=\"Peru women's national volleyball team\">Peru women's national volleyball team</a> matches</td>",
+            "links": [
+              {
+                "text": "Peru women's national volleyball team",
+                "title": "Peru women's national volleyball team",
+                "wikiTitle": "Peru women's national volleyball team",
+                "href": "https://en.wikipedia.org/wiki/Peru_women%27s_national_volleyball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Coliseo Cerrado",
+              "lines": [
+                "Coliseo Cerrado"
+              ],
+              "html": "<td class=\"infobox-data\">Coliseo Cerrado</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Cusco, Peru",
+              "lines": [
+                "Cusco, Peru"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Cusco\" title=\"Cusco\">Cusco</a>, <a href=\"https://en.wikipedia.org/wiki/Peru\" title=\"Peru\">Peru</a></td>",
+              "links": [
+                {
+                  "text": "Cusco",
+                  "title": "Cusco",
+                  "wikiTitle": "Cusco",
+                  "href": "https://en.wikipedia.org/wiki/Cusco",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Peru",
+                  "title": "Peru",
+                  "wikiTitle": "Peru",
+                  "href": "https://en.wikipedia.org/wiki/Peru",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Institute of Peru Sport (IPD)",
+              "lines": [
+                "Institute of Peru Sport (IPD)"
+              ],
+              "html": "<td class=\"infobox-data agent\">Institute of Peru Sport (IPD)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Institute of Peru Sport (IPD)",
+              "lines": [
+                "Institute of Peru Sport (IPD)"
+              ],
+              "html": "<td class=\"infobox-data agent\">Institute of Peru Sport (IPD)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "13,000",
+              "lines": [
+                "13,000"
+              ],
+              "html": "<td class=\"infobox-data\">13,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1980",
+              "lines": [
+                "1980"
+              ],
+              "html": "<td class=\"infobox-data\">1980</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "some Peru women's national volleyball team matches",
+              "lines": [
+                "some Peru women's national volleyball team matches"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\">some <a href=\"https://en.wikipedia.org/wiki/Peru_women%27s_national_volleyball_team\" title=\"Peru women's national volleyball team\">Peru women's national volleyball team</a> matches</td>",
+              "links": [
+                {
+                  "text": "Peru women's national volleyball team",
+                  "title": "Peru women's national volleyball team",
+                  "wikiTitle": "Peru women's national volleyball team",
+                  "href": "https://en.wikipedia.org/wiki/Peru_women%27s_national_volleyball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Coliseo Cerrado"
+          ],
+          "location": [
+            "Cusco, Peru"
+          ],
+          "owner": [
+            "Institute of Peru Sport (IPD)"
+          ],
+          "operator": [
+            "Institute of Peru Sport (IPD)"
+          ],
+          "capacity": [
+            "13,000"
+          ],
+          "opened": [
+            "1980"
+          ],
+          "tenants": [
+            "some Peru women's national volleyball team matches"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "13,000"
+        ],
+        "tenants": [
+          "some Peru women's national volleyball team matches"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Cerrado&revid=1329632080&groups=_fad706761c2cefef6415e3d7e2d3a0a278a239f8&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Cerrado&revid=1329632080&groups=_fad706761c2cefef6415e3d7e2d3a0a278a239f8&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Coliseo Cerrado"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Coliseo Cerrado</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\">Casa De La Juventud</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_fad706761c2cefef6415e3d7e2d3a0a278a239f8&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_Cerrado&amp;revid=1329632080&amp;groups=_fad706761c2cefef6415e3d7e2d3a0a278a239f8&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_Cerrado&amp;revid=1329632080&amp;groups=_fad706761c2cefef6415e3d7e2d3a0a278a239f8&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Coliseo Cerrado</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Coliseo Cerrado</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Cusco\" title=\"Cusco\">Cusco</a>, <a href=\"https://en.wikipedia.org/wiki/Peru\" title=\"Peru\">Peru</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Institute of Peru Sport (IPD)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">Institute of Peru Sport (IPD)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">13,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1980</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\">some <a href=\"https://en.wikipedia.org/wiki/Peru_women%27s_national_volleyball_team\" title=\"Peru women's national volleyball team\">Peru women's national volleyball team</a> matches</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Peru",
+        "Buildings_and_structures_in_Cusco",
+        "All_stub_articles",
+        "Peruvian_building_and_structure_stubs",
+        "South_American_sports_venue_stubs",
+        "Peruvian_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://infraestructuraperuana.blogspot.com/search/label/COLISEOS",
+        "https://web.archive.org/web/20110708213516/http://www.cuscoculto.com/evento.php?id=540",
+        "http://www.cuscoculto.com/evento.php?id=540",
+        "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_Cerrado&params=13_31_35_S_71_57_25_W_type:landmark"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Flag_of_Peru.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Cerrado&revid=1329632080&groups=_fad706761c2cefef6415e3d7e2d3a0a278a239f8&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Cerrado&revid=1329632080&groups=_fad706761c2cefef6415e3d7e2d3a0a278a239f8&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Coliseo Cerrado"
+        },
+        {
+          "fileTitle": "File:Flag of Peru.svg",
+          "fileName": "Flag of Peru.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Peru.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/40px-Flag_of_Peru.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Peru.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Peru.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/60px-Flag_of_Peru.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Flag of Peru",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 124,
+          "rowText": "Cusco\nColiseo Casa de la Juventud\n1980\n12,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Cusco\" title=\"Cusco\">Cusco</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Coliseo_Cerrado\" title=\"Coliseo Cerrado\">Coliseo Casa de la Juventud</a>\n</td>\n<td>1980\n</td>\n<td>12,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 120,
+              "cell": {
+                "text": "Peru",
+                "lines": [
+                  "Peru"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Peru",
+                    "title": "Peru",
+                    "wikiTitle": "Peru",
+                    "href": "https://en.wikipedia.org/wiki/Peru",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 124,
+              "cell": {
+                "text": "Cusco",
+                "lines": [
+                  "Cusco"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Cusco",
+                    "title": "Cusco",
+                    "wikiTitle": "Cusco",
+                    "href": "https://en.wikipedia.org/wiki/Cusco",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 124,
+              "cell": {
+                "text": "Coliseo Casa de la Juventud",
+                "lines": [
+                  "Coliseo Casa de la Juventud"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo Casa de la Juventud",
+                    "title": "Coliseo Cerrado",
+                    "wikiTitle": "Coliseo Cerrado",
+                    "href": "https://en.wikipedia.org/wiki/Coliseo_Cerrado",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 124,
+              "cell": {
+                "text": "1980",
+                "lines": [
+                  "1980"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 124,
+              "cell": {
+                "text": "12,000",
+                "lines": [
+                  "12,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 124,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Coliseo Casa de la Juventud",
+            "lines": [
+              "Coliseo Casa de la Juventud"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo Casa de la Juventud",
+                "title": "Coliseo Cerrado",
+                "wikiTitle": "Coliseo Cerrado",
+                "href": "https://en.wikipedia.org/wiki/Coliseo_Cerrado",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:33.096Z"
+    },
+    {
+      "id": "wikipedia-page-12686251",
+      "pageId": 12686251,
+      "revisionId": null,
+      "title": "Coliseo Eduardo Dibós",
+      "displayTitle": "Coliseo Eduardo Dibós",
+      "url": "https://en.wikipedia.org/wiki/Coliseo_Eduardo_Dib%C3%B3s",
+      "wikidataItem": "Q5145746",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5145746",
+      "aliases": [
+        "Coliseo Eduardo Dibos",
+        "Coliseo Eduardo Dibós"
+      ],
+      "requestedTitles": [
+        "Coliseo Eduardo Dibos"
+      ],
+      "sourceLinkTexts": [
+        "Coliseo Eduardo Dibos"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Coliseo_Eduardo_Dibos"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": -12.111088,
+        "longitude": -77.001028,
+        "raw": "-12.111088; -77.001028"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Coliseo Eduardo Dibos",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Aviación and Angamos avenues, San Borja, Lima, Peru",
+            "lines": [
+              "Aviación and Angamos avenues, San Borja, Lima, Peru"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Avenida_Aviaci%C3%B3n\" title=\"Avenida Aviación\">Aviación</a> and <a href=\"https://en.wikipedia.org/wiki/Angamos_Avenue\" title=\"Angamos Avenue\">Angamos</a> avenues, <a href=\"https://en.wikipedia.org/wiki/San_Borja_District\" title=\"San Borja District\">San Borja</a>, <a href=\"https://en.wikipedia.org/wiki/Lima\" title=\"Lima\">Lima</a>, <a href=\"https://en.wikipedia.org/wiki/Peru\" title=\"Peru\">Peru</a></td>",
+            "links": [
+              {
+                "text": "Aviación",
+                "title": "Avenida Aviación",
+                "wikiTitle": "Avenida Aviación",
+                "href": "https://en.wikipedia.org/wiki/Avenida_Aviaci%C3%B3n",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Angamos",
+                "title": "Angamos Avenue",
+                "wikiTitle": "Angamos Avenue",
+                "href": "https://en.wikipedia.org/wiki/Angamos_Avenue",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "San Borja",
+                "title": "San Borja District",
+                "wikiTitle": "San Borja District",
+                "href": "https://en.wikipedia.org/wiki/San_Borja_District",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Lima",
+                "title": "Lima",
+                "wikiTitle": "Lima",
+                "href": "https://en.wikipedia.org/wiki/Lima",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Peru",
+                "title": "Peru",
+                "wikiTitle": "Peru",
+                "href": "https://en.wikipedia.org/wiki/Peru",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Peruvian Sports Institute",
+            "lines": [
+              "Peruvian Sports Institute"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Peruvian_Sports_Institute\" title=\"Peruvian Sports Institute\">Peruvian Sports Institute</a></td>",
+            "links": [
+              {
+                "text": "Peruvian Sports Institute",
+                "title": "Peruvian Sports Institute",
+                "wikiTitle": "Peruvian Sports Institute",
+                "href": "https://en.wikipedia.org/wiki/Peruvian_Sports_Institute",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Peruvian Sports Institute",
+            "lines": [
+              "Peruvian Sports Institute"
+            ],
+            "html": "<td class=\"infobox-data agent\">Peruvian Sports Institute</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "4,600",
+            "lines": [
+              "4,600"
+            ],
+            "html": "<td class=\"infobox-data\">4,600</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1989 (1989)",
+            "lines": [
+              "1989 (1989)"
+            ],
+            "html": "<td class=\"infobox-data\">1989<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1989</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Peru national basketball team\nPeru women's national volleyball team",
+            "lines": [
+              "Peru national basketball team",
+              "Peru women's national volleyball team"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Peru_national_basketball_team\" class=\"mw-redirect\" title=\"Peru national basketball team\">Peru national basketball team</a><br><a href=\"https://en.wikipedia.org/wiki/Peru_women%27s_national_volleyball_team\" title=\"Peru women's national volleyball team\">Peru women's national volleyball team</a></td>",
+            "links": [
+              {
+                "text": "Peru national basketball team",
+                "title": "Peru national basketball team",
+                "wikiTitle": "Peru national basketball team",
+                "href": "https://en.wikipedia.org/wiki/Peru_national_basketball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Peru women's national volleyball team",
+                "title": "Peru women's national volleyball team",
+                "wikiTitle": "Peru women's national volleyball team",
+                "href": "https://en.wikipedia.org/wiki/Peru_women%27s_national_volleyball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Aviación and Angamos avenues, San Borja, Lima, Peru",
+              "lines": [
+                "Aviación and Angamos avenues, San Borja, Lima, Peru"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Avenida_Aviaci%C3%B3n\" title=\"Avenida Aviación\">Aviación</a> and <a href=\"https://en.wikipedia.org/wiki/Angamos_Avenue\" title=\"Angamos Avenue\">Angamos</a> avenues, <a href=\"https://en.wikipedia.org/wiki/San_Borja_District\" title=\"San Borja District\">San Borja</a>, <a href=\"https://en.wikipedia.org/wiki/Lima\" title=\"Lima\">Lima</a>, <a href=\"https://en.wikipedia.org/wiki/Peru\" title=\"Peru\">Peru</a></td>",
+              "links": [
+                {
+                  "text": "Aviación",
+                  "title": "Avenida Aviación",
+                  "wikiTitle": "Avenida Aviación",
+                  "href": "https://en.wikipedia.org/wiki/Avenida_Aviaci%C3%B3n",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Angamos",
+                  "title": "Angamos Avenue",
+                  "wikiTitle": "Angamos Avenue",
+                  "href": "https://en.wikipedia.org/wiki/Angamos_Avenue",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "San Borja",
+                  "title": "San Borja District",
+                  "wikiTitle": "San Borja District",
+                  "href": "https://en.wikipedia.org/wiki/San_Borja_District",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Lima",
+                  "title": "Lima",
+                  "wikiTitle": "Lima",
+                  "href": "https://en.wikipedia.org/wiki/Lima",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Peru",
+                  "title": "Peru",
+                  "wikiTitle": "Peru",
+                  "href": "https://en.wikipedia.org/wiki/Peru",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Peruvian Sports Institute",
+              "lines": [
+                "Peruvian Sports Institute"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Peruvian_Sports_Institute\" title=\"Peruvian Sports Institute\">Peruvian Sports Institute</a></td>",
+              "links": [
+                {
+                  "text": "Peruvian Sports Institute",
+                  "title": "Peruvian Sports Institute",
+                  "wikiTitle": "Peruvian Sports Institute",
+                  "href": "https://en.wikipedia.org/wiki/Peruvian_Sports_Institute",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Peruvian Sports Institute",
+              "lines": [
+                "Peruvian Sports Institute"
+              ],
+              "html": "<td class=\"infobox-data agent\">Peruvian Sports Institute</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "4,600",
+              "lines": [
+                "4,600"
+              ],
+              "html": "<td class=\"infobox-data\">4,600</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1989 (1989)",
+              "lines": [
+                "1989 (1989)"
+              ],
+              "html": "<td class=\"infobox-data\">1989<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1989</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Peru national basketball team\nPeru women's national volleyball team",
+              "lines": [
+                "Peru national basketball team",
+                "Peru women's national volleyball team"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Peru_national_basketball_team\" class=\"mw-redirect\" title=\"Peru national basketball team\">Peru national basketball team</a><br><a href=\"https://en.wikipedia.org/wiki/Peru_women%27s_national_volleyball_team\" title=\"Peru women's national volleyball team\">Peru women's national volleyball team</a></td>",
+              "links": [
+                {
+                  "text": "Peru national basketball team",
+                  "title": "Peru national basketball team",
+                  "wikiTitle": "Peru national basketball team",
+                  "href": "https://en.wikipedia.org/wiki/Peru_national_basketball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Peru women's national volleyball team",
+                  "title": "Peru women's national volleyball team",
+                  "wikiTitle": "Peru women's national volleyball team",
+                  "href": "https://en.wikipedia.org/wiki/Peru_women%27s_national_volleyball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Aviación and Angamos avenues, San Borja, Lima, Peru"
+          ],
+          "owner": [
+            "Peruvian Sports Institute"
+          ],
+          "operator": [
+            "Peruvian Sports Institute"
+          ],
+          "capacity": [
+            "4,600"
+          ],
+          "opened": [
+            "1989 (1989)"
+          ],
+          "tenants": [
+            "Peru national basketball team\nPeru women's national volleyball team"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "4,600"
+        ],
+        "tenants": [
+          "Peru national basketball team",
+          "Peru women's national volleyball team"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Coliseo Eduardo Dibós 2017 exterior.jpg",
+            "fileName": "Coliseo Eduardo Dibós 2017 exterior.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg/250px-Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg/500px-Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 140,
+            "originalWidth": 4160,
+            "originalHeight": 2336,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Coliseo Eduardo Dibós in 2017 before its renovation."
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Eduardo_Dib%C3%B3s&revid=1351415053&groups=_470f1fc01adbeb66e15edcebf03719a4ae96c1ee&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Eduardo_Dib%C3%B3s&revid=1351415053&groups=_470f1fc01adbeb66e15edcebf03719a4ae96c1ee&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Coliseo Eduardo Dibos"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Coliseo Eduardo Dibos</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg/250px-Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg\" width=\"250\" height=\"140\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg/500px-Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg 2x\" data-file-width=\"4160\" data-file-height=\"2336\"></a></span><div class=\"infobox-caption\">Coliseo Eduardo Dibós in 2017 before its renovation.</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_470f1fc01adbeb66e15edcebf03719a4ae96c1ee&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_Eduardo_Dib%C3%B3s&amp;revid=1351415053&amp;groups=_470f1fc01adbeb66e15edcebf03719a4ae96c1ee&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_Eduardo_Dib%C3%B3s&amp;revid=1351415053&amp;groups=_470f1fc01adbeb66e15edcebf03719a4ae96c1ee&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Coliseo Eduardo Dibos</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Avenida_Aviaci%C3%B3n\" title=\"Avenida Aviación\">Aviación</a> and <a href=\"https://en.wikipedia.org/wiki/Angamos_Avenue\" title=\"Angamos Avenue\">Angamos</a> avenues, <a href=\"https://en.wikipedia.org/wiki/San_Borja_District\" title=\"San Borja District\">San Borja</a>, <a href=\"https://en.wikipedia.org/wiki/Lima\" title=\"Lima\">Lima</a>, <a href=\"https://en.wikipedia.org/wiki/Peru\" title=\"Peru\">Peru</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Peruvian_Sports_Institute\" title=\"Peruvian Sports Institute\">Peruvian Sports Institute</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">Peruvian Sports Institute</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">4,600</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1989<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1989</span>)</span></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Peru_national_basketball_team\" class=\"mw-redirect\" title=\"Peru national basketball team\">Peru national basketball team</a><br><a href=\"https://en.wikipedia.org/wiki/Peru_women%27s_national_volleyball_team\" title=\"Peru women's national volleyball team\">Peru women's national volleyball team</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Sports_venues_in_Lima",
+        "Indoor_arenas_in_Peru",
+        "Venues_of_the_2019_Pan_and_Parapan_American_Games",
+        "San_Borja_District",
+        "All_stub_articles",
+        "Peruvian_building_and_structure_stubs",
+        "South_American_sports_venue_stubs",
+        "Peruvian_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "http://www.ipd.gob.pe/institucional/memoria",
+        "https://www.lima2019.pe/en/venues/eduardo-dibos-coliseum",
+        "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_Eduardo_Dib%C3%B3s&params=12.111088_S_77.001028_W_type:landmark"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Overview",
+          "anchor": "Overview"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Coliseo_Eduardo_Dibós_2017_exterior.jpg",
+        "Basketball_pictogram.svg",
+        "Flag_of_Peru.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Coliseo Eduardo Dibós 2017 exterior.jpg",
+          "fileName": "Coliseo Eduardo Dibós 2017 exterior.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg/250px-Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg/500px-Coliseo_Eduardo_Dib%C3%B3s_2017_exterior.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 140,
+          "originalWidth": 4160,
+          "originalHeight": 2336,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Coliseo Eduardo Dibós in 2017 before its renovation."
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Eduardo_Dib%C3%B3s&revid=1351415053&groups=_470f1fc01adbeb66e15edcebf03719a4ae96c1ee&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Eduardo_Dib%C3%B3s&revid=1351415053&groups=_470f1fc01adbeb66e15edcebf03719a4ae96c1ee&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Coliseo Eduardo Dibos"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Basketball_pictogram.svg/60px-Basketball_pictogram.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Basketball_pictogram.svg/120px-Basketball_pictogram.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 50,
+          "originalWidth": 300,
+          "originalHeight": 300,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Flag of Peru.svg",
+          "fileName": "Flag of Peru.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Peru.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/40px-Flag_of_Peru.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Peru.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Peru.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/60px-Flag_of_Peru.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Flag of Peru",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 122,
+          "rowText": "Coliseo Eduardo Dibos\n1989\n6,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Coliseo_Eduardo_Dibos\" class=\"mw-redirect\" title=\"Coliseo Eduardo Dibos\">Coliseo Eduardo Dibos</a>\n</td>\n<td>1989\n</td>\n<td>6,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 120,
+              "cell": {
+                "text": "Peru",
+                "lines": [
+                  "Peru"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Peru",
+                    "title": "Peru",
+                    "wikiTitle": "Peru",
+                    "href": "https://en.wikipedia.org/wiki/Peru",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 120,
+              "cell": {
+                "text": "Lima",
+                "lines": [
+                  "Lima"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Lima",
+                    "title": "Lima",
+                    "wikiTitle": "Lima",
+                    "href": "https://en.wikipedia.org/wiki/Lima",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 122,
+              "cell": {
+                "text": "Coliseo Eduardo Dibos",
+                "lines": [
+                  "Coliseo Eduardo Dibos"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo Eduardo Dibos",
+                    "title": "Coliseo Eduardo Dibos",
+                    "wikiTitle": "Coliseo Eduardo Dibos",
+                    "href": "https://en.wikipedia.org/wiki/Coliseo_Eduardo_Dibos",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 122,
+              "cell": {
+                "text": "1989",
+                "lines": [
+                  "1989"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 122,
+              "cell": {
+                "text": "6,000",
+                "lines": [
+                  "6,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 122,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Coliseo Eduardo Dibos",
+            "lines": [
+              "Coliseo Eduardo Dibos"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo Eduardo Dibos",
+                "title": "Coliseo Eduardo Dibos",
+                "wikiTitle": "Coliseo Eduardo Dibos",
+                "href": "https://en.wikipedia.org/wiki/Coliseo_Eduardo_Dibos",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:33.075Z"
+    },
+    {
+      "id": "wikipedia-page-28905755",
+      "pageId": 28905755,
+      "revisionId": null,
+      "title": "Coliseo Gran Chimu",
+      "displayTitle": "Coliseo Gran Chimu",
+      "url": "https://en.wikipedia.org/wiki/Coliseo_Gran_Chimu",
+      "wikidataItem": "Q5145750",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5145750",
+      "aliases": [
+        "Coliseo Gran Chimu",
+        "Coliseo Gran hibernois\n© Le Petit Robert 2016"
+      ],
+      "requestedTitles": [
+        "Coliseo Gran Chimu"
+      ],
+      "sourceLinkTexts": [
+        "Coliseo Gran Chimu"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Coliseo_Gran_Chimu"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": -8.10472,
+        "longitude": -79.03139,
+        "raw": "-8.10472; -79.03139"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Coliseo Gran hibernois\n© Le Petit Robert 2016",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Coliseo Gran Chimú",
+            "lines": [
+              "Coliseo Gran Chimú"
+            ],
+            "html": "<td class=\"infobox-data\">Coliseo Gran Chimú</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Trujillo, Peru",
+            "lines": [
+              "Trujillo, Peru"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Trujillo,_Peru\" title=\"Trujillo, Peru\">Trujillo</a>, <a href=\"https://en.wikipedia.org/wiki/Peru\" title=\"Peru\">Peru</a></td>",
+            "links": [
+              {
+                "text": "Trujillo",
+                "title": "Trujillo, Peru",
+                "wikiTitle": "Trujillo, Peru",
+                "href": "https://en.wikipedia.org/wiki/Trujillo,_Peru",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Peru",
+                "title": "Peru",
+                "wikiTitle": "Peru",
+                "href": "https://en.wikipedia.org/wiki/Peru",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Institute of Peru Sport (IPD)",
+            "lines": [
+              "Institute of Peru Sport (IPD)"
+            ],
+            "html": "<td class=\"infobox-data agent\">Institute of Peru Sport (IPD)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Institute of Peru Sport (IPD)",
+            "lines": [
+              "Institute of Peru Sport (IPD)"
+            ],
+            "html": "<td class=\"infobox-data agent\">Institute of Peru Sport (IPD)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "7,000",
+            "lines": [
+              "7,000"
+            ],
+            "html": "<td class=\"infobox-data\">7,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "1965-1971",
+            "lines": [
+              "1965-1971"
+            ],
+            "html": "<td class=\"infobox-data\">1965-1971</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1971",
+            "lines": [
+              "1971"
+            ],
+            "html": "<td class=\"infobox-data\">1971</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Walter Weberhofer",
+            "lines": [
+              "Walter Weberhofer"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Walter_Weberhofer\" title=\"Walter Weberhofer\">Walter Weberhofer</a></td>",
+            "links": [
+              {
+                "text": "Walter Weberhofer",
+                "title": "Walter Weberhofer",
+                "wikiTitle": "Walter Weberhofer",
+                "href": "https://en.wikipedia.org/wiki/Walter_Weberhofer",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Structural engineer",
+            "key": "structural_engineer",
+            "group": "Construction",
+            "text": "Luis Zapata Baglieto, Ricardo Yamashiro",
+            "lines": [
+              "Luis Zapata Baglieto, Ricardo Yamashiro"
+            ],
+            "html": "<td class=\"infobox-data\">Luis Zapata Baglieto, Ricardo Yamashiro</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "General contractor",
+            "key": "general_contractor",
+            "group": "Construction",
+            "text": "Emasa Ingenierot, Arbulu y Pasos",
+            "lines": [
+              "Emasa Ingenierot, Arbulu y Pasos"
+            ],
+            "html": "<td class=\"infobox-data\">Emasa Ingenierot, Arbulu y Pasos</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "some 2011 FIVB Women's Junior World Championship, 1982 FIVB Women's World Championship, and Peru women's national volleyball team matches",
+            "lines": [
+              "some 2011 FIVB Women's Junior World Championship, 1982 FIVB Women's World Championship, and Peru women's national volleyball team matches"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\">some <a href=\"https://en.wikipedia.org/wiki/2011_FIVB_Women%27s_Junior_World_Championship\" class=\"mw-redirect\" title=\"2011 FIVB Women's Junior World Championship\">2011 FIVB Women's Junior World Championship</a>, <a href=\"https://en.wikipedia.org/wiki/1982_FIVB_Women%27s_World_Championship\" class=\"mw-redirect\" title=\"1982 FIVB Women's World Championship\">1982 FIVB Women's World Championship</a>, and <a href=\"https://en.wikipedia.org/wiki/Peru_women%27s_national_volleyball_team\" title=\"Peru women's national volleyball team\">Peru women's national volleyball team</a> matches</td>",
+            "links": [
+              {
+                "text": "2011 FIVB Women's Junior World Championship",
+                "title": "2011 FIVB Women's Junior World Championship",
+                "wikiTitle": "2011 FIVB Women's Junior World Championship",
+                "href": "https://en.wikipedia.org/wiki/2011_FIVB_Women%27s_Junior_World_Championship",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "1982 FIVB Women's World Championship",
+                "title": "1982 FIVB Women's World Championship",
+                "wikiTitle": "1982 FIVB Women's World Championship",
+                "href": "https://en.wikipedia.org/wiki/1982_FIVB_Women%27s_World_Championship",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Peru women's national volleyball team",
+                "title": "Peru women's national volleyball team",
+                "wikiTitle": "Peru women's national volleyball team",
+                "href": "https://en.wikipedia.org/wiki/Peru_women%27s_national_volleyball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Coliseo Gran Chimú",
+              "lines": [
+                "Coliseo Gran Chimú"
+              ],
+              "html": "<td class=\"infobox-data\">Coliseo Gran Chimú</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Trujillo, Peru",
+              "lines": [
+                "Trujillo, Peru"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Trujillo,_Peru\" title=\"Trujillo, Peru\">Trujillo</a>, <a href=\"https://en.wikipedia.org/wiki/Peru\" title=\"Peru\">Peru</a></td>",
+              "links": [
+                {
+                  "text": "Trujillo",
+                  "title": "Trujillo, Peru",
+                  "wikiTitle": "Trujillo, Peru",
+                  "href": "https://en.wikipedia.org/wiki/Trujillo,_Peru",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Peru",
+                  "title": "Peru",
+                  "wikiTitle": "Peru",
+                  "href": "https://en.wikipedia.org/wiki/Peru",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Institute of Peru Sport (IPD)",
+              "lines": [
+                "Institute of Peru Sport (IPD)"
+              ],
+              "html": "<td class=\"infobox-data agent\">Institute of Peru Sport (IPD)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Institute of Peru Sport (IPD)",
+              "lines": [
+                "Institute of Peru Sport (IPD)"
+              ],
+              "html": "<td class=\"infobox-data agent\">Institute of Peru Sport (IPD)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "7,000",
+              "lines": [
+                "7,000"
+              ],
+              "html": "<td class=\"infobox-data\">7,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "1965-1971",
+              "lines": [
+                "1965-1971"
+              ],
+              "html": "<td class=\"infobox-data\">1965-1971</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1971",
+              "lines": [
+                "1971"
+              ],
+              "html": "<td class=\"infobox-data\">1971</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Walter Weberhofer",
+              "lines": [
+                "Walter Weberhofer"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Walter_Weberhofer\" title=\"Walter Weberhofer\">Walter Weberhofer</a></td>",
+              "links": [
+                {
+                  "text": "Walter Weberhofer",
+                  "title": "Walter Weberhofer",
+                  "wikiTitle": "Walter Weberhofer",
+                  "href": "https://en.wikipedia.org/wiki/Walter_Weberhofer",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "structural_engineer": [
+            {
+              "label": "Structural engineer",
+              "key": "structural_engineer",
+              "group": "Construction",
+              "text": "Luis Zapata Baglieto, Ricardo Yamashiro",
+              "lines": [
+                "Luis Zapata Baglieto, Ricardo Yamashiro"
+              ],
+              "html": "<td class=\"infobox-data\">Luis Zapata Baglieto, Ricardo Yamashiro</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "general_contractor": [
+            {
+              "label": "General contractor",
+              "key": "general_contractor",
+              "group": "Construction",
+              "text": "Emasa Ingenierot, Arbulu y Pasos",
+              "lines": [
+                "Emasa Ingenierot, Arbulu y Pasos"
+              ],
+              "html": "<td class=\"infobox-data\">Emasa Ingenierot, Arbulu y Pasos</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "some 2011 FIVB Women's Junior World Championship, 1982 FIVB Women's World Championship, and Peru women's national volleyball team matches",
+              "lines": [
+                "some 2011 FIVB Women's Junior World Championship, 1982 FIVB Women's World Championship, and Peru women's national volleyball team matches"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\">some <a href=\"https://en.wikipedia.org/wiki/2011_FIVB_Women%27s_Junior_World_Championship\" class=\"mw-redirect\" title=\"2011 FIVB Women's Junior World Championship\">2011 FIVB Women's Junior World Championship</a>, <a href=\"https://en.wikipedia.org/wiki/1982_FIVB_Women%27s_World_Championship\" class=\"mw-redirect\" title=\"1982 FIVB Women's World Championship\">1982 FIVB Women's World Championship</a>, and <a href=\"https://en.wikipedia.org/wiki/Peru_women%27s_national_volleyball_team\" title=\"Peru women's national volleyball team\">Peru women's national volleyball team</a> matches</td>",
+              "links": [
+                {
+                  "text": "2011 FIVB Women's Junior World Championship",
+                  "title": "2011 FIVB Women's Junior World Championship",
+                  "wikiTitle": "2011 FIVB Women's Junior World Championship",
+                  "href": "https://en.wikipedia.org/wiki/2011_FIVB_Women%27s_Junior_World_Championship",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "1982 FIVB Women's World Championship",
+                  "title": "1982 FIVB Women's World Championship",
+                  "wikiTitle": "1982 FIVB Women's World Championship",
+                  "href": "https://en.wikipedia.org/wiki/1982_FIVB_Women%27s_World_Championship",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Peru women's national volleyball team",
+                  "title": "Peru women's national volleyball team",
+                  "wikiTitle": "Peru women's national volleyball team",
+                  "href": "https://en.wikipedia.org/wiki/Peru_women%27s_national_volleyball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Coliseo Gran Chimú"
+          ],
+          "location": [
+            "Trujillo, Peru"
+          ],
+          "owner": [
+            "Institute of Peru Sport (IPD)"
+          ],
+          "operator": [
+            "Institute of Peru Sport (IPD)"
+          ],
+          "capacity": [
+            "7,000"
+          ],
+          "built": [
+            "1965-1971"
+          ],
+          "opened": [
+            "1971"
+          ],
+          "architect": [
+            "Walter Weberhofer"
+          ],
+          "structural_engineer": [
+            "Luis Zapata Baglieto, Ricardo Yamashiro"
+          ],
+          "general_contractor": [
+            "Emasa Ingenierot, Arbulu y Pasos"
+          ],
+          "tenants": [
+            "some 2011 FIVB Women's Junior World Championship, 1982 FIVB Women's World Championship, and Peru women's national volleyball team matches"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "7,000"
+        ],
+        "tenants": [
+          "some 2011 FIVB Women's Junior World Championship, 1982 FIVB Women's World Championship, and Peru women's national volleyball team matches"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Gran_Chimu&revid=1329632104&groups=_4771533a2735622d4b666043f90efef8998cb733&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Gran_Chimu&revid=1329632104&groups=_4771533a2735622d4b666043f90efef8998cb733&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Coliseo Gran hibernois\n© Le Petit Robert 2016"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Coliseo Gran hibernois\n© Le Petit Robert 2016</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_4771533a2735622d4b666043f90efef8998cb733&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_Gran_Chimu&amp;revid=1329632104&amp;groups=_4771533a2735622d4b666043f90efef8998cb733&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_Gran_Chimu&amp;revid=1329632104&amp;groups=_4771533a2735622d4b666043f90efef8998cb733&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Coliseo Gran hibernois\n© Le Petit Robert 2016</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Coliseo Gran Chimú</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Trujillo,_Peru\" title=\"Trujillo, Peru\">Trujillo</a>, <a href=\"https://en.wikipedia.org/wiki/Peru\" title=\"Peru\">Peru</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Institute of Peru Sport (IPD)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">Institute of Peru Sport (IPD)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">7,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">1965-1971</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1971</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Walter_Weberhofer\" title=\"Walter Weberhofer\">Walter Weberhofer</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Structural engineer</div></th><td class=\"infobox-data\">Luis Zapata Baglieto, Ricardo Yamashiro</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>General contractor</div></th><td class=\"infobox-data\">Emasa Ingenierot, Arbulu y Pasos</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\">some <a href=\"https://en.wikipedia.org/wiki/2011_FIVB_Women%27s_Junior_World_Championship\" class=\"mw-redirect\" title=\"2011 FIVB Women's Junior World Championship\">2011 FIVB Women's Junior World Championship</a>, <a href=\"https://en.wikipedia.org/wiki/1982_FIVB_Women%27s_World_Championship\" class=\"mw-redirect\" title=\"1982 FIVB Women's World Championship\">1982 FIVB Women's World Championship</a>, and <a href=\"https://en.wikipedia.org/wiki/Peru_women%27s_national_volleyball_team\" title=\"Peru women's national volleyball team\">Peru women's national volleyball team</a> matches</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Peru",
+        "Buildings_and_structures_in_Trujillo,_Peru",
+        "Sports_in_Trujillo,_Peru",
+        "All_stub_articles",
+        "Peruvian_building_and_structure_stubs",
+        "South_American_sports_venue_stubs",
+        "Peruvian_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://infraestructuraperuana.blogspot.com/search/label/COLISEOS",
+        "http://trujilloinforma.com/index.php?option=com_content&task=view&id=3875&Itemid=6",
+        "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_Gran_Chimu&params=8_6_17_S_79_1_53_W_type:landmark"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Flag_of_Peru.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Gran_Chimu&revid=1329632104&groups=_4771533a2735622d4b666043f90efef8998cb733&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_Gran_Chimu&revid=1329632104&groups=_4771533a2735622d4b666043f90efef8998cb733&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Coliseo Gran hibernois\n© Le Petit Robert 2016"
+        },
+        {
+          "fileTitle": "File:Flag of Peru.svg",
+          "fileName": "Flag of Peru.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Peru.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/40px-Flag_of_Peru.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Peru.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Peru.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/60px-Flag_of_Peru.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Flag of Peru",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 125,
+          "rowText": "Trujillo\nColiseo Gran Chimu\n1971\n12,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Trujillo,_Peru\" title=\"Trujillo, Peru\">Trujillo</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Coliseo_Gran_Chimu\" title=\"Coliseo Gran Chimu\">Coliseo Gran Chimu</a>\n</td>\n<td>1971\n</td>\n<td>12,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 120,
+              "cell": {
+                "text": "Peru",
+                "lines": [
+                  "Peru"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Peru",
+                    "title": "Peru",
+                    "wikiTitle": "Peru",
+                    "href": "https://en.wikipedia.org/wiki/Peru",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 125,
+              "cell": {
+                "text": "Trujillo",
+                "lines": [
+                  "Trujillo"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Trujillo",
+                    "title": "Trujillo, Peru",
+                    "wikiTitle": "Trujillo, Peru",
+                    "href": "https://en.wikipedia.org/wiki/Trujillo,_Peru",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 125,
+              "cell": {
+                "text": "Coliseo Gran Chimu",
+                "lines": [
+                  "Coliseo Gran Chimu"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo Gran Chimu",
+                    "title": "Coliseo Gran Chimu",
+                    "wikiTitle": "Coliseo Gran Chimu",
+                    "href": "https://en.wikipedia.org/wiki/Coliseo_Gran_Chimu",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 125,
+              "cell": {
+                "text": "1971",
+                "lines": [
+                  "1971"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 125,
+              "cell": {
+                "text": "12,000",
+                "lines": [
+                  "12,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 125,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Coliseo Gran Chimu",
+            "lines": [
+              "Coliseo Gran Chimu"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo Gran Chimu",
+                "title": "Coliseo Gran Chimu",
+                "wikiTitle": "Coliseo Gran Chimu",
+                "href": "https://en.wikipedia.org/wiki/Coliseo_Gran_Chimu",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:33.101Z"
+    }
+  ]
+}

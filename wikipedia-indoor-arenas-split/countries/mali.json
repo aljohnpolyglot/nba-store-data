@@ -1,0 +1,663 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Mali",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 2,
+    "sourceTypeCounts": {
+      "world_master_list": 1,
+      "country_or_region_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-6693283",
+      "pageId": 6693283,
+      "revisionId": null,
+      "title": "Pavillon des Sports Modibo Keita",
+      "displayTitle": "Pavillon des Sports Modibo Keita",
+      "url": "https://en.wikipedia.org/wiki/Pavillon_des_Sports_Modibo_Keita",
+      "wikidataItem": "Q7155889",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7155889",
+      "aliases": [
+        "Pavillon des sports Modibo Keita",
+        "Pavillon des Sports Modibo Keita"
+      ],
+      "requestedTitles": [
+        "Pavillon des sports Modibo Keita"
+      ],
+      "sourceLinkTexts": [
+        "Pavillon des sports Modibo Keita"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Pavillon_des_sports_Modibo_Keita"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": null,
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Pavillon des Sports Modibo Keita",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Bamako, Mali",
+            "lines": [
+              "Bamako, Mali"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Bamako\" title=\"Bamako\">Bamako</a>, <a href=\"https://en.wikipedia.org/wiki/Mali\" title=\"Mali\">Mali</a></td>",
+            "links": [
+              {
+                "text": "Bamako",
+                "title": "Bamako",
+                "wikiTitle": "Bamako",
+                "href": "https://en.wikipedia.org/wiki/Bamako",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Mali",
+                "title": "Mali",
+                "wikiTitle": "Mali",
+                "href": "https://en.wikipedia.org/wiki/Mali",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1960 (1960)",
+            "lines": [
+              "1960 (1960)"
+            ],
+            "html": "<td class=\"infobox-data\">1960<span>&nbsp;(<span class=\"bday dtstart published updated\">1960</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2011",
+            "lines": [
+              "2011"
+            ],
+            "html": "<td class=\"infobox-data\">2011</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Bamako, Mali",
+              "lines": [
+                "Bamako, Mali"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Bamako\" title=\"Bamako\">Bamako</a>, <a href=\"https://en.wikipedia.org/wiki/Mali\" title=\"Mali\">Mali</a></td>",
+              "links": [
+                {
+                  "text": "Bamako",
+                  "title": "Bamako",
+                  "wikiTitle": "Bamako",
+                  "href": "https://en.wikipedia.org/wiki/Bamako",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Mali",
+                  "title": "Mali",
+                  "wikiTitle": "Mali",
+                  "href": "https://en.wikipedia.org/wiki/Mali",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1960 (1960)",
+              "lines": [
+                "1960 (1960)"
+              ],
+              "html": "<td class=\"infobox-data\">1960<span>&nbsp;(<span class=\"bday dtstart published updated\">1960</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2011",
+              "lines": [
+                "2011"
+              ],
+              "html": "<td class=\"infobox-data\">2011</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Bamako, Mali"
+          ],
+          "opened": [
+            "1960 (1960)"
+          ],
+          "renovated": [
+            "2011"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [],
+        "tenants": [],
+        "websites": [],
+        "media": [],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Pavillon des Sports Modibo Keita</caption><tbody><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Bamako\" title=\"Bamako\">Bamako</a>, <a href=\"https://en.wikipedia.org/wiki/Mali\" title=\"Mali\">Mali</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1960<span>&nbsp;(<span class=\"bday dtstart published updated\">1960</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2011</td></tr></tbody></table>"
+      },
+      "categories": [
+        "CS1_French-language_sources_(fr)",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_with_missing_coordinates",
+        "Mali_articles_missing_geocoordinate_data",
+        "All_articles_needing_coordinates",
+        "Articles_missing_coordinates_without_coordinates_on_Wikidata",
+        "Indoor_arenas_in_Mali",
+        "Buildings_and_structures_in_Bamako",
+        "Basketball_in_Mali",
+        "Handball_venues_in_Mali",
+        "All_stub_articles",
+        "West_African_sports_venue_stubs",
+        "Malian_sport_stubs"
+      ],
+      "externalLinks": [
+        "http://www.mjsports.gov.ml/index.php?option=com_content&task=view&id=798&Itemid=1",
+        "https://icimali.com/etat-delabre-du-pavillon-des-sports-du-stade-modibo-keita-la-premiere-dame-keita-aminata-maiga-choquee/",
+        "https://maliactu.net/le-plancher-du-pavillon-des-sports-en-degradation-avancee/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Flag_of_Mali.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Flag of Mali.svg",
+          "fileName": "Flag of Mali.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Mali.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/40px-Flag_of_Mali.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Mali.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Mali.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/60px-Flag_of_Mali.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Flag of Mali",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Africa"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 26,
+          "rowText": "Mali\nBamako\nPavillon des sports Modibo Keita\n3,000\n2009 Mali Handball Cup",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Mali\" title=\"Mali\">Mali</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Bamako\" title=\"Bamako\">Bamako</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Pavillon_des_sports_Modibo_Keita\" class=\"mw-redirect\" title=\"Pavillon des sports Modibo Keita\">Pavillon des sports Modibo Keita</a>\n</td>\n<td>\n</td>\n<td align=\"right\">3,000\n</td>\n<td>2009 Mali Handball Cup\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 26,
+              "cell": {
+                "text": "Mali",
+                "lines": [
+                  "Mali"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Mali",
+                    "title": "Mali",
+                    "wikiTitle": "Mali",
+                    "href": "https://en.wikipedia.org/wiki/Mali",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 26,
+              "cell": {
+                "text": "Bamako",
+                "lines": [
+                  "Bamako"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Bamako",
+                    "title": "Bamako",
+                    "wikiTitle": "Bamako",
+                    "href": "https://en.wikipedia.org/wiki/Bamako",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 26,
+              "cell": {
+                "text": "Pavillon des sports Modibo Keita",
+                "lines": [
+                  "Pavillon des sports Modibo Keita"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Pavillon des sports Modibo Keita",
+                    "title": "Pavillon des sports Modibo Keita",
+                    "wikiTitle": "Pavillon des sports Modibo Keita",
+                    "href": "https://en.wikipedia.org/wiki/Pavillon_des_sports_Modibo_Keita",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 26,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 26,
+              "cell": {
+                "text": "3,000",
+                "lines": [
+                  "3,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 26,
+              "cell": {
+                "text": "2009 Mali Handball Cup",
+                "lines": [
+                  "2009 Mali Handball Cup"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Pavillon des sports Modibo Keita",
+            "lines": [
+              "Pavillon des sports Modibo Keita"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Pavillon des sports Modibo Keita",
+                "title": "Pavillon des sports Modibo Keita",
+                "wikiTitle": "Pavillon des sports Modibo Keita",
+                "href": "https://en.wikipedia.org/wiki/Pavillon_des_sports_Modibo_Keita",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 37,
+          "rowText": "Mali\nBamako\nPavillon des sports Modibo Keita\n1960\n3,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Mali\" title=\"Mali\">Mali</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Bamako\" title=\"Bamako\">Bamako</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Pavillon_des_sports_Modibo_Keita\" class=\"mw-redirect\" title=\"Pavillon des sports Modibo Keita\">Pavillon des sports Modibo Keita</a>\n</td>\n<td align=\"center\">1960\n</td>\n<td align=\"center\">3,000\n</td>\n<td>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 37,
+              "cell": {
+                "text": "Mali",
+                "lines": [
+                  "Mali"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Mali",
+                    "title": "Mali",
+                    "wikiTitle": "Mali",
+                    "href": "https://en.wikipedia.org/wiki/Mali",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 37,
+              "cell": {
+                "text": "Bamako",
+                "lines": [
+                  "Bamako"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Bamako",
+                    "title": "Bamako",
+                    "wikiTitle": "Bamako",
+                    "href": "https://en.wikipedia.org/wiki/Bamako",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 37,
+              "cell": {
+                "text": "Pavillon des sports Modibo Keita",
+                "lines": [
+                  "Pavillon des sports Modibo Keita"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Pavillon des sports Modibo Keita",
+                    "title": "Pavillon des sports Modibo Keita",
+                    "wikiTitle": "Pavillon des sports Modibo Keita",
+                    "href": "https://en.wikipedia.org/wiki/Pavillon_des_sports_Modibo_Keita",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 37,
+              "cell": {
+                "text": "1960",
+                "lines": [
+                  "1960"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 37,
+              "cell": {
+                "text": "3,000",
+                "lines": [
+                  "3,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 37,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 37,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Pavillon des sports Modibo Keita",
+            "lines": [
+              "Pavillon des sports Modibo Keita"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Pavillon des sports Modibo Keita",
+                "title": "Pavillon des sports Modibo Keita",
+                "wikiTitle": "Pavillon des sports Modibo Keita",
+                "href": "https://en.wikipedia.org/wiki/Pavillon_des_sports_Modibo_Keita",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T11:41:31.378Z"
+    }
+  ]
+}

@@ -1,0 +1,1891 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Montenegro",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 2
+  },
+  "stats": {
+    "arenaCount": 2,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 11,
+    "sourceTypeCounts": {
+      "world_master_list": 2
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-2526765",
+      "pageId": 2526765,
+      "revisionId": null,
+      "title": "Morača Sports Center",
+      "displayTitle": "Morača Sports Center",
+      "url": "https://en.wikipedia.org/wiki/Mora%C4%8Da_Sports_Center",
+      "wikidataItem": "Q581727",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q581727",
+      "aliases": [
+        "Morača Sports Center",
+        "Morača Sports Centre\nSportski centar Morača"
+      ],
+      "requestedTitles": [
+        "Morača Sports Center"
+      ],
+      "sourceLinkTexts": [
+        "Morača Sports Center"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Mora%C4%8Da_Sports_Center"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 42.43778,
+        "longitude": 19.25417,
+        "raw": "42.43778; 19.25417"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Morača Sports Centre\nSportski centar Morača",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Podgorica, Montenegro",
+            "lines": [
+              "Podgorica, Montenegro"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Podgorica\" title=\"Podgorica\">Podgorica</a>, <a href=\"https://en.wikipedia.org/wiki/Montenegro\" title=\"Montenegro\">Montenegro</a></td>",
+            "links": [
+              {
+                "text": "Podgorica",
+                "title": "Podgorica",
+                "wikiTitle": "Podgorica",
+                "href": "https://en.wikipedia.org/wiki/Podgorica",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Montenegro",
+                "title": "Montenegro",
+                "wikiTitle": "Montenegro",
+                "href": "https://en.wikipedia.org/wiki/Montenegro",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "42°26′16″N 19°15′15″E﻿ / ﻿42.43778°N 19.25417°E﻿ / 42.43778; 19.25417",
+            "lines": [
+              "42°26′16″N 19°15′15″E﻿ / ﻿42.43778°N 19.25417°E﻿ / 42.43778; 19.25417"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Mora%C4%8Da_Sports_Center&amp;params=42_26_16_N_19_15_15_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">42°26′16″N</span> <span class=\"longitude\">19°15′15″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">42.43778°N 19.25417°E</span><span>﻿ / <span class=\"geo\">42.43778; 19.25417</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "42°26′16″N 19°15′15″E﻿ / ﻿42.43778°N 19.25417°E﻿ / 42.43778; 19.25417",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Mora%C4%8Da_Sports_Center&params=42_26_16_N_19_15_15_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "City of Podgorica",
+            "lines": [
+              "City of Podgorica"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Podgorica\" title=\"Podgorica\">City of Podgorica</a></td>",
+            "links": [
+              {
+                "text": "City of Podgorica",
+                "title": "Podgorica",
+                "wikiTitle": "Podgorica",
+                "href": "https://en.wikipedia.org/wiki/Podgorica",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "6,000",
+            "lines": [
+              "6,000"
+            ],
+            "html": "<td class=\"infobox-data\">6,000</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-1"
+              }
+            ]
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1978",
+            "lines": [
+              "1978"
+            ],
+            "html": "<td class=\"infobox-data\">1978</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2005, 2018",
+            "lines": [
+              "2005, 2018"
+            ],
+            "html": "<td class=\"infobox-data\">2005, 2018</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Expanded",
+            "key": "expanded",
+            "group": "Construction",
+            "text": "2018",
+            "lines": [
+              "2018"
+            ],
+            "html": "<td class=\"infobox-data\">2018</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "€4.5 million euros (2018 renovation)",
+            "lines": [
+              "€4.5 million euros (2018 renovation)"
+            ],
+            "html": "<td class=\"infobox-data\">€4.5 million <a href=\"https://en.wikipedia.org/wiki/Euro\" title=\"Euro\">euros</a> (2018 renovation)</td>",
+            "links": [
+              {
+                "text": "euros",
+                "title": "Euro",
+                "wikiTitle": "Euro",
+                "href": "https://en.wikipedia.org/wiki/Euro",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Miško Savov Dmitrović",
+            "lines": [
+              "Miško Savov Dmitrović"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/w/index.php?title=Mi%C5%A1ko_Dmitrovi%C4%87&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Miško Dmitrović (page does not exist)\">Miško Savov Dmitrović</a></td>",
+            "links": [
+              {
+                "text": "Miško Savov Dmitrović",
+                "title": "Miško Dmitrović (page does not exist)",
+                "wikiTitle": "Miško Dmitrović",
+                "href": "https://en.wikipedia.org/w/index.php?title=Mi%C5%A1ko_Dmitrovi%C4%87&action=edit&redlink=1",
+                "blueArticle": false,
+                "redLink": true,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "KK Budućnost\nŽRK Budućnost\nŽKK Budućnost",
+            "lines": [
+              "KK Budućnost",
+              "ŽRK Budućnost",
+              "ŽKK Budućnost"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/KK_Budu%C4%87nost\" title=\"KK Budućnost\">KK Budućnost</a><br><a href=\"https://en.wikipedia.org/wiki/%C5%BDRK_Budu%C4%87nost\" class=\"mw-redirect\" title=\"ŽRK Budućnost\">ŽRK Budućnost</a> <br><a href=\"https://en.wikipedia.org/wiki/%C5%BDKK_Budu%C4%87nost_Podgorica\" title=\"ŽKK Budućnost Podgorica\">ŽKK Budućnost</a></td>",
+            "links": [
+              {
+                "text": "KK Budućnost",
+                "title": "KK Budućnost",
+                "wikiTitle": "KK Budućnost",
+                "href": "https://en.wikipedia.org/wiki/KK_Budu%C4%87nost",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "ŽRK Budućnost",
+                "title": "ŽRK Budućnost",
+                "wikiTitle": "ŽRK Budućnost",
+                "href": "https://en.wikipedia.org/wiki/%C5%BDRK_Budu%C4%87nost",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "ŽKK Budućnost",
+                "title": "ŽKK Budućnost Podgorica",
+                "wikiTitle": "ŽKK Budućnost Podgorica",
+                "href": "https://en.wikipedia.org/wiki/%C5%BDKK_Budu%C4%87nost_Podgorica",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Podgorica, Montenegro",
+              "lines": [
+                "Podgorica, Montenegro"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Podgorica\" title=\"Podgorica\">Podgorica</a>, <a href=\"https://en.wikipedia.org/wiki/Montenegro\" title=\"Montenegro\">Montenegro</a></td>",
+              "links": [
+                {
+                  "text": "Podgorica",
+                  "title": "Podgorica",
+                  "wikiTitle": "Podgorica",
+                  "href": "https://en.wikipedia.org/wiki/Podgorica",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Montenegro",
+                  "title": "Montenegro",
+                  "wikiTitle": "Montenegro",
+                  "href": "https://en.wikipedia.org/wiki/Montenegro",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "42°26′16″N 19°15′15″E﻿ / ﻿42.43778°N 19.25417°E﻿ / 42.43778; 19.25417",
+              "lines": [
+                "42°26′16″N 19°15′15″E﻿ / ﻿42.43778°N 19.25417°E﻿ / 42.43778; 19.25417"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Mora%C4%8Da_Sports_Center&amp;params=42_26_16_N_19_15_15_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">42°26′16″N</span> <span class=\"longitude\">19°15′15″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">42.43778°N 19.25417°E</span><span>﻿ / <span class=\"geo\">42.43778; 19.25417</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "42°26′16″N 19°15′15″E﻿ / ﻿42.43778°N 19.25417°E﻿ / 42.43778; 19.25417",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Mora%C4%8Da_Sports_Center&params=42_26_16_N_19_15_15_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "City of Podgorica",
+              "lines": [
+                "City of Podgorica"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Podgorica\" title=\"Podgorica\">City of Podgorica</a></td>",
+              "links": [
+                {
+                  "text": "City of Podgorica",
+                  "title": "Podgorica",
+                  "wikiTitle": "Podgorica",
+                  "href": "https://en.wikipedia.org/wiki/Podgorica",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "6,000",
+              "lines": [
+                "6,000"
+              ],
+              "html": "<td class=\"infobox-data\">6,000</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-1"
+                }
+              ]
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1978",
+              "lines": [
+                "1978"
+              ],
+              "html": "<td class=\"infobox-data\">1978</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2005, 2018",
+              "lines": [
+                "2005, 2018"
+              ],
+              "html": "<td class=\"infobox-data\">2005, 2018</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "expanded": [
+            {
+              "label": "Expanded",
+              "key": "expanded",
+              "group": "Construction",
+              "text": "2018",
+              "lines": [
+                "2018"
+              ],
+              "html": "<td class=\"infobox-data\">2018</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "€4.5 million euros (2018 renovation)",
+              "lines": [
+                "€4.5 million euros (2018 renovation)"
+              ],
+              "html": "<td class=\"infobox-data\">€4.5 million <a href=\"https://en.wikipedia.org/wiki/Euro\" title=\"Euro\">euros</a> (2018 renovation)</td>",
+              "links": [
+                {
+                  "text": "euros",
+                  "title": "Euro",
+                  "wikiTitle": "Euro",
+                  "href": "https://en.wikipedia.org/wiki/Euro",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Miško Savov Dmitrović",
+              "lines": [
+                "Miško Savov Dmitrović"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/w/index.php?title=Mi%C5%A1ko_Dmitrovi%C4%87&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Miško Dmitrović (page does not exist)\">Miško Savov Dmitrović</a></td>",
+              "links": [
+                {
+                  "text": "Miško Savov Dmitrović",
+                  "title": "Miško Dmitrović (page does not exist)",
+                  "wikiTitle": "Miško Dmitrović",
+                  "href": "https://en.wikipedia.org/w/index.php?title=Mi%C5%A1ko_Dmitrovi%C4%87&action=edit&redlink=1",
+                  "blueArticle": false,
+                  "redLink": true,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "KK Budućnost\nŽRK Budućnost\nŽKK Budućnost",
+              "lines": [
+                "KK Budućnost",
+                "ŽRK Budućnost",
+                "ŽKK Budućnost"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/KK_Budu%C4%87nost\" title=\"KK Budućnost\">KK Budućnost</a><br><a href=\"https://en.wikipedia.org/wiki/%C5%BDRK_Budu%C4%87nost\" class=\"mw-redirect\" title=\"ŽRK Budućnost\">ŽRK Budućnost</a> <br><a href=\"https://en.wikipedia.org/wiki/%C5%BDKK_Budu%C4%87nost_Podgorica\" title=\"ŽKK Budućnost Podgorica\">ŽKK Budućnost</a></td>",
+              "links": [
+                {
+                  "text": "KK Budućnost",
+                  "title": "KK Budućnost",
+                  "wikiTitle": "KK Budućnost",
+                  "href": "https://en.wikipedia.org/wiki/KK_Budu%C4%87nost",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "ŽRK Budućnost",
+                  "title": "ŽRK Budućnost",
+                  "wikiTitle": "ŽRK Budućnost",
+                  "href": "https://en.wikipedia.org/wiki/%C5%BDRK_Budu%C4%87nost",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "ŽKK Budućnost",
+                  "title": "ŽKK Budućnost Podgorica",
+                  "wikiTitle": "ŽKK Budućnost Podgorica",
+                  "href": "https://en.wikipedia.org/wiki/%C5%BDKK_Budu%C4%87nost_Podgorica",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Podgorica, Montenegro"
+          ],
+          "coordinates": [
+            "42°26′16″N 19°15′15″E﻿ / ﻿42.43778°N 19.25417°E﻿ / 42.43778; 19.25417"
+          ],
+          "owner": [
+            "City of Podgorica"
+          ],
+          "capacity": [
+            "6,000"
+          ],
+          "opened": [
+            "1978"
+          ],
+          "renovated": [
+            "2005, 2018"
+          ],
+          "expanded": [
+            "2018"
+          ],
+          "cost": [
+            "€4.5 million euros (2018 renovation)"
+          ],
+          "architect": [
+            "Miško Savov Dmitrović"
+          ],
+          "tenants": [
+            "KK Budućnost\nŽRK Budućnost\nŽKK Budućnost"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "6,000"
+        ],
+        "tenants": [
+          "KK Budućnost",
+          "ŽRK Budućnost",
+          "ŽKK Budućnost"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Sports Center Moraca.jpg",
+            "fileName": "Sports Center Moraca.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_Center_Moraca.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sports_Center_Moraca.jpg/250px-Sports_Center_Moraca.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_Center_Moraca.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_Center_Moraca.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sports_Center_Moraca.jpg/500px-Sports_Center_Moraca.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 142,
+            "originalWidth": 3434,
+            "originalHeight": 1948,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Exterior of the Morača Sports Centre"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Mora%C4%8Da_Sports_Center&revid=1347266462&groups=_5725a81aceb23477a3b774d470302348e9324886&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Mora%C4%8Da_Sports_Center&revid=1347266462&groups=_5725a81aceb23477a3b774d470302348e9324886&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Morača Sports Centre\nSportski centar Morača"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Morača Sports Centre<br>Sportski centar Morača</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Sports_Center_Moraca.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sports_Center_Moraca.jpg/250px-Sports_Center_Moraca.jpg\" width=\"250\" height=\"142\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sports_Center_Moraca.jpg/500px-Sports_Center_Moraca.jpg 2x\" data-file-width=\"3434\" data-file-height=\"1948\"></a></span><div class=\"infobox-caption\">Exterior of the Morača Sports Centre</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_5725a81aceb23477a3b774d470302348e9324886&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Mora%C4%8Da_Sports_Center&amp;revid=1347266462&amp;groups=_5725a81aceb23477a3b774d470302348e9324886&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Mora%C4%8Da_Sports_Center&amp;revid=1347266462&amp;groups=_5725a81aceb23477a3b774d470302348e9324886&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Morača Sports Centre<br>Sportski centar Morača</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Podgorica\" title=\"Podgorica\">Podgorica</a>, <a href=\"https://en.wikipedia.org/wiki/Montenegro\" title=\"Montenegro\">Montenegro</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Mora%C4%8Da_Sports_Center&amp;params=42_26_16_N_19_15_15_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">42°26′16″N</span> <span class=\"longitude\">19°15′15″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">42.43778°N 19.25417°E</span><span>﻿ / <span class=\"geo\">42.43778; 19.25417</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Podgorica\" title=\"Podgorica\">City of Podgorica</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">6,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1978</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2005, 2018</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Expanded</th><td class=\"infobox-data\">2018</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">€4.5 million <a href=\"https://en.wikipedia.org/wiki/Euro\" title=\"Euro\">euros</a> (2018 renovation)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/w/index.php?title=Mi%C5%A1ko_Dmitrovi%C4%87&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Miško Dmitrović (page does not exist)\">Miško Savov Dmitrović</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/KK_Budu%C4%87nost\" title=\"KK Budućnost\">KK Budućnost</a><br><a href=\"https://en.wikipedia.org/wiki/%C5%BDRK_Budu%C4%87nost\" class=\"mw-redirect\" title=\"ŽRK Budućnost\">ŽRK Budućnost</a> <br><a href=\"https://en.wikipedia.org/wiki/%C5%BDKK_Budu%C4%87nost_Podgorica\" title=\"ŽKK Budućnost Podgorica\">ŽKK Budućnost</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_foreign_language_sources_(ISO_639-2)",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Commons_category_link_from_Wikidata",
+        "Basketball_venues_in_Montenegro",
+        "Handball_venues_in_Montenegro",
+        "Sports_venues_in_Podgorica",
+        "Indoor_arenas_in_Montenegro",
+        "Volleyball_venues_in_Montenegro",
+        "Sports_venues_completed_in_1978",
+        "1978_establishments_in_Yugoslavia",
+        "KK_Budućnost",
+        "Yugoslav_Montenegrin_architecture",
+        "1970s_establishments_in_Montenegro",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Mora%C4%8Da_Sports_Center&params=42_26_16_N_19_15_15_E_type:landmark",
+        "https://www.total-montenegro-news.com/sport/1140-reconstruction-of-the-sports-center-moraca",
+        "http://www.vijesti.me/sport/dusko-ivanovic-nadam-se-da-cu-jednog-dana-biti-selektor-crne-gore-948231",
+        "http://www.kkbuducnost.me/clanak297",
+        "http://pgsport.me/sadrzaj_sportski.html",
+        "https://rtcg.me/sport/ostalisportovi/599814/sportski-centar-moraca-postaje-mtel-dvorana-.html",
+        "https://bijelodugme50.com/podgorica-22-11-2025/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Facilities",
+          "anchor": "Facilities"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Sporting events hosted",
+          "anchor": "Sporting_events_hosted"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "Concerts and other events",
+          "anchor": "Concerts_and_other_events"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Sports_Center_Moraca.jpg",
+        "Podgorica_Moraca_Sports_Center_IMG_1285_Ulitsa_Ivana_Milutinovića.JPG",
+        "Commons-logo.svg",
+        "Flag_of_Podgorica,_Montenegro.svg",
+        "Flag_of_Montenegro.svg",
+        "Coat_of_Arms_of_Podgorica.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Sports Center Moraca.jpg",
+          "fileName": "Sports Center Moraca.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_Center_Moraca.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sports_Center_Moraca.jpg/250px-Sports_Center_Moraca.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_Center_Moraca.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_Center_Moraca.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Sports_Center_Moraca.jpg/500px-Sports_Center_Moraca.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 142,
+          "originalWidth": 3434,
+          "originalHeight": 1948,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Exterior of the Morača Sports Centre"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Mora%C4%8Da_Sports_Center&revid=1347266462&groups=_5725a81aceb23477a3b774d470302348e9324886&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Mora%C4%8Da_Sports_Center&revid=1347266462&groups=_5725a81aceb23477a3b774d470302348e9324886&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Morača Sports Centre\nSportski centar Morača"
+        },
+        {
+          "fileTitle": "File:Podgorica Moraca Sports Center IMG 1285 Ulitsa Ivana Milutinovića.JPG",
+          "fileName": "Podgorica Moraca Sports Center IMG 1285 Ulitsa Ivana Milutinovića.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Podgorica_Moraca_Sports_Center_IMG_1285_Ulitsa_Ivana_Milutinovi%C4%87a.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Podgorica_Moraca_Sports_Center_IMG_1285_Ulitsa_Ivana_Milutinovi%C4%87a.JPG/250px-Podgorica_Moraca_Sports_Center_IMG_1285_Ulitsa_Ivana_Milutinovi%C4%87a.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Podgorica_Moraca_Sports_Center_IMG_1285_Ulitsa_Ivana_Milutinovi%C4%87a.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Podgorica_Moraca_Sports_Center_IMG_1285_Ulitsa_Ivana_Milutinovi%C4%87a.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Podgorica_Moraca_Sports_Center_IMG_1285_Ulitsa_Ivana_Milutinovi%C4%87a.JPG/500px-Podgorica_Moraca_Sports_Center_IMG_1285_Ulitsa_Ivana_Milutinovi%C4%87a.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 137,
+          "originalWidth": 4535,
+          "originalHeight": 2483,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Entrance to the main hall in 2015"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 40,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Podgorica%2C_Montenegro.svg/40px-Flag_of_Podgorica%2C_Montenegro.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Podgorica%2C_Montenegro.svg/60px-Flag_of_Podgorica%2C_Montenegro.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 2400,
+          "originalHeight": 1200,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/40px-Flag_of_Montenegro.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/60px-Flag_of_Montenegro.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Montenegro",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Coat of Arms of Podgorica.svg",
+          "fileName": "Coat of Arms of Podgorica.svg",
+          "kind": "drawing",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coat_of_Arms_of_Podgorica.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Coat_of_Arms_of_Podgorica.svg/120px-Coat_of_Arms_of_Podgorica.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coat_of_Arms_of_Podgorica.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coat_of_Arms_of_Podgorica.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Coat_of_Arms_of_Podgorica.svg/250px-Coat_of_Arms_of_Podgorica.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 100,
+          "height": 83,
+          "originalWidth": 600,
+          "originalHeight": 495,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 613,
+          "rowText": "Montenegro\nPodgorica\nMorača Sports Center\n1978\n4,000\nSUPERKOMBAT World Grand Prix I 2012",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Montenegro\" title=\"Montenegro\">Montenegro</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Podgorica\" title=\"Podgorica\">Podgorica</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Mora%C4%8Da_Sports_Center\" title=\"Morača Sports Center\">Morača Sports Center</a>\n</td>\n<td>1978\n</td>\n<td>4,000\n</td>\n<td><a href=\"https://en.wikipedia.org/w/index.php?title=SUPERKOMBAT_World_Grand_Prix_I_2012&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"SUPERKOMBAT World Grand Prix I 2012 (page does not exist)\">SUPERKOMBAT World Grand Prix I 2012</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 613,
+              "cell": {
+                "text": "Montenegro",
+                "lines": [
+                  "Montenegro"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Montenegro",
+                    "title": "Montenegro",
+                    "wikiTitle": "Montenegro",
+                    "href": "https://en.wikipedia.org/wiki/Montenegro",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 613,
+              "cell": {
+                "text": "Podgorica",
+                "lines": [
+                  "Podgorica"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Podgorica",
+                    "title": "Podgorica",
+                    "wikiTitle": "Podgorica",
+                    "href": "https://en.wikipedia.org/wiki/Podgorica",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 613,
+              "cell": {
+                "text": "Morača Sports Center",
+                "lines": [
+                  "Morača Sports Center"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Morača Sports Center",
+                    "title": "Morača Sports Center",
+                    "wikiTitle": "Morača Sports Center",
+                    "href": "https://en.wikipedia.org/wiki/Mora%C4%8Da_Sports_Center",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 613,
+              "cell": {
+                "text": "1978",
+                "lines": [
+                  "1978"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 613,
+              "cell": {
+                "text": "4,000",
+                "lines": [
+                  "4,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 613,
+              "cell": {
+                "text": "SUPERKOMBAT World Grand Prix I 2012",
+                "lines": [
+                  "SUPERKOMBAT World Grand Prix I 2012"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "SUPERKOMBAT World Grand Prix I 2012",
+                    "title": "SUPERKOMBAT World Grand Prix I 2012 (page does not exist)",
+                    "wikiTitle": "SUPERKOMBAT World Grand Prix I 2012",
+                    "href": "https://en.wikipedia.org/w/index.php?title=SUPERKOMBAT_World_Grand_Prix_I_2012&action=edit&redlink=1",
+                    "blueArticle": false,
+                    "redLink": true,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Morača Sports Center",
+            "lines": [
+              "Morača Sports Center"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Morača Sports Center",
+                "title": "Morača Sports Center",
+                "wikiTitle": "Morača Sports Center",
+                "href": "https://en.wikipedia.org/wiki/Mora%C4%8Da_Sports_Center",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:46:30.514Z"
+    },
+    {
+      "id": "wikipedia-page-40646734",
+      "pageId": 40646734,
+      "revisionId": null,
+      "title": "Topolica Sport Hall",
+      "displayTitle": "Topolica Sport Hall",
+      "url": "https://en.wikipedia.org/wiki/Topolica_Sport_Hall",
+      "wikidataItem": "Q16632707",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q16632707",
+      "aliases": [
+        "Topolica Sport Hall"
+      ],
+      "requestedTitles": [
+        "Topolica Sport Hall"
+      ],
+      "sourceLinkTexts": [
+        "Topolica Sport Hall"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Topolica_Sport_Hall"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 42.1,
+        "longitude": 19.1,
+        "raw": "42.1000; 19.1000"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Topolica Sport Hall",
+        "groups": [
+          "Construction",
+          "Tenants",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "Ul, 85 Bulevar Revolucije, Bar",
+            "lines": [
+              "Ul, 85 Bulevar Revolucije, Bar"
+            ],
+            "html": "<td class=\"infobox-data label\">Ul, 85 Bulevar Revolucije, Bar<span data-plural=\"0\"></span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Bar, Montenegro",
+            "lines": [
+              "Bar, Montenegro"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Bar,_Montenegro\" title=\"Bar, Montenegro\">Bar, Montenegro</a></td>",
+            "links": [
+              {
+                "text": "Bar, Montenegro",
+                "title": "Bar, Montenegro",
+                "wikiTitle": "Bar, Montenegro",
+                "href": "https://en.wikipedia.org/wiki/Bar,_Montenegro",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "2,625",
+            "lines": [
+              "2,625"
+            ],
+            "html": "<td class=\"infobox-data\">2,625</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "November 23, 2009",
+            "lines": [
+              "November 23, 2009"
+            ],
+            "html": "<td class=\"infobox-data\">November 23, 2009</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "KK Mornar Bar (2009–present)\nRK Mornar Bar\nŽOK Luka Bar\nOK Galeb",
+            "lines": [
+              "KK Mornar Bar (2009–present)",
+              "RK Mornar Bar",
+              "ŽOK Luka Bar",
+              "OK Galeb"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/KK_Mornar_Bar\" title=\"KK Mornar Bar\">KK Mornar Bar</a> (2009–present) <br> <a href=\"https://en.wikipedia.org/wiki/RK_Mornar_Bar\" title=\"RK Mornar Bar\">RK Mornar Bar</a> <br><a href=\"https://en.wikipedia.org/wiki/%C5%BDOK_Luka_Bar\" title=\"ŽOK Luka Bar\">ŽOK Luka Bar</a> <br><a href=\"https://en.wikipedia.org/w/index.php?title=OK_Galeb&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"OK Galeb (page does not exist)\">OK Galeb</a></td>",
+            "links": [
+              {
+                "text": "KK Mornar Bar",
+                "title": "KK Mornar Bar",
+                "wikiTitle": "KK Mornar Bar",
+                "href": "https://en.wikipedia.org/wiki/KK_Mornar_Bar",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "RK Mornar Bar",
+                "title": "RK Mornar Bar",
+                "wikiTitle": "RK Mornar Bar",
+                "href": "https://en.wikipedia.org/wiki/RK_Mornar_Bar",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "ŽOK Luka Bar",
+                "title": "ŽOK Luka Bar",
+                "wikiTitle": "ŽOK Luka Bar",
+                "href": "https://en.wikipedia.org/wiki/%C5%BDOK_Luka_Bar",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "OK Galeb",
+                "title": "OK Galeb (page does not exist)",
+                "wikiTitle": "OK Galeb",
+                "href": "https://en.wikipedia.org/w/index.php?title=OK_Galeb&action=edit&redlink=1",
+                "blueArticle": false,
+                "redLink": true,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "srcegrada.me/en",
+            "lines": [
+              "srcegrada.me/en"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"https://srcegrada.me/en\">srcegrada<wbr>.me<wbr>/en</a></span></td>",
+            "links": [
+              {
+                "text": "srcegrada.me/en",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://srcegrada.me/en",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "Ul, 85 Bulevar Revolucije, Bar",
+              "lines": [
+                "Ul, 85 Bulevar Revolucije, Bar"
+              ],
+              "html": "<td class=\"infobox-data label\">Ul, 85 Bulevar Revolucije, Bar<span data-plural=\"0\"></span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Bar, Montenegro",
+              "lines": [
+                "Bar, Montenegro"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Bar,_Montenegro\" title=\"Bar, Montenegro\">Bar, Montenegro</a></td>",
+              "links": [
+                {
+                  "text": "Bar, Montenegro",
+                  "title": "Bar, Montenegro",
+                  "wikiTitle": "Bar, Montenegro",
+                  "href": "https://en.wikipedia.org/wiki/Bar,_Montenegro",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "2,625",
+              "lines": [
+                "2,625"
+              ],
+              "html": "<td class=\"infobox-data\">2,625</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "November 23, 2009",
+              "lines": [
+                "November 23, 2009"
+              ],
+              "html": "<td class=\"infobox-data\">November 23, 2009</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "KK Mornar Bar (2009–present)\nRK Mornar Bar\nŽOK Luka Bar\nOK Galeb",
+              "lines": [
+                "KK Mornar Bar (2009–present)",
+                "RK Mornar Bar",
+                "ŽOK Luka Bar",
+                "OK Galeb"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/KK_Mornar_Bar\" title=\"KK Mornar Bar\">KK Mornar Bar</a> (2009–present) <br> <a href=\"https://en.wikipedia.org/wiki/RK_Mornar_Bar\" title=\"RK Mornar Bar\">RK Mornar Bar</a> <br><a href=\"https://en.wikipedia.org/wiki/%C5%BDOK_Luka_Bar\" title=\"ŽOK Luka Bar\">ŽOK Luka Bar</a> <br><a href=\"https://en.wikipedia.org/w/index.php?title=OK_Galeb&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"OK Galeb (page does not exist)\">OK Galeb</a></td>",
+              "links": [
+                {
+                  "text": "KK Mornar Bar",
+                  "title": "KK Mornar Bar",
+                  "wikiTitle": "KK Mornar Bar",
+                  "href": "https://en.wikipedia.org/wiki/KK_Mornar_Bar",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "RK Mornar Bar",
+                  "title": "RK Mornar Bar",
+                  "wikiTitle": "RK Mornar Bar",
+                  "href": "https://en.wikipedia.org/wiki/RK_Mornar_Bar",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "ŽOK Luka Bar",
+                  "title": "ŽOK Luka Bar",
+                  "wikiTitle": "ŽOK Luka Bar",
+                  "href": "https://en.wikipedia.org/wiki/%C5%BDOK_Luka_Bar",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "OK Galeb",
+                  "title": "OK Galeb (page does not exist)",
+                  "wikiTitle": "OK Galeb",
+                  "href": "https://en.wikipedia.org/w/index.php?title=OK_Galeb&action=edit&redlink=1",
+                  "blueArticle": false,
+                  "redLink": true,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "srcegrada.me/en",
+              "lines": [
+                "srcegrada.me/en"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"https://srcegrada.me/en\">srcegrada<wbr>.me<wbr>/en</a></span></td>",
+              "links": [
+                {
+                  "text": "srcegrada.me/en",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://srcegrada.me/en",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "address": [
+            "Ul, 85 Bulevar Revolucije, Bar"
+          ],
+          "location": [
+            "Bar, Montenegro"
+          ],
+          "capacity": [
+            "2,625"
+          ],
+          "opened": [
+            "November 23, 2009"
+          ],
+          "tenants": [
+            "KK Mornar Bar (2009–present)\nRK Mornar Bar\nŽOK Luka Bar\nOK Galeb"
+          ],
+          "website": [
+            "srcegrada.me/en"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "2,625"
+        ],
+        "tenants": [
+          "KK Mornar Bar (2009–present)",
+          "RK Mornar Bar",
+          "ŽOK Luka Bar",
+          "OK Galeb"
+        ],
+        "websites": [
+          "https://srcegrada.me/en"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:Sportska dvorana Topolica.jpg",
+            "fileName": "Sportska dvorana Topolica.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Sportska_dvorana_Topolica.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sportska_dvorana_Topolica.jpg/250px-Sportska_dvorana_Topolica.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sportska_dvorana_Topolica.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sportska_dvorana_Topolica.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sportska_dvorana_Topolica.jpg/500px-Sportska_dvorana_Topolica.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 101,
+            "originalWidth": 1484,
+            "originalHeight": 600,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Topolica_Sport_Hall&revid=1361404187&groups=_d30246e03fc1ad6f235540ec3f915599b48525c5&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Topolica_Sport_Hall&revid=1361404187&groups=_d30246e03fc1ad6f235540ec3f915599b48525c5&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Topolica Sport Hall"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Topolica Sport Hall</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Sportska_dvorana_Topolica.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sportska_dvorana_Topolica.jpg/250px-Sportska_dvorana_Topolica.jpg\" width=\"250\" height=\"101\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sportska_dvorana_Topolica.jpg/500px-Sportska_dvorana_Topolica.jpg 2x\" data-file-width=\"1484\" data-file-height=\"600\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_d30246e03fc1ad6f235540ec3f915599b48525c5&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Topolica_Sport_Hall&amp;revid=1361404187&amp;groups=_d30246e03fc1ad6f235540ec3f915599b48525c5&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Topolica_Sport_Hall&amp;revid=1361404187&amp;groups=_d30246e03fc1ad6f235540ec3f915599b48525c5&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Topolica Sport Hall</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\">Ul, 85 Bulevar Revolucije, Bar<span data-plural=\"0\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Bar,_Montenegro\" title=\"Bar, Montenegro\">Bar, Montenegro</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">2,625</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">November 23, 2009</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/KK_Mornar_Bar\" title=\"KK Mornar Bar\">KK Mornar Bar</a> (2009–present) <br> <a href=\"https://en.wikipedia.org/wiki/RK_Mornar_Bar\" title=\"RK Mornar Bar\">RK Mornar Bar</a> <br><a href=\"https://en.wikipedia.org/wiki/%C5%BDOK_Luka_Bar\" title=\"ŽOK Luka Bar\">ŽOK Luka Bar</a> <br><a href=\"https://en.wikipedia.org/w/index.php?title=OK_Galeb&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"OK Galeb (page does not exist)\">OK Galeb</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"https://srcegrada.me/en\">srcegrada<wbr>.me<wbr>/en</a></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Articles_containing_Montenegrin-language_text",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Montenegro",
+        "Basketball_venues_in_Montenegro",
+        "Buildings_and_structures_in_Bar,_Montenegro",
+        "Handball_venues_in_Montenegro",
+        "Sport_in_Bar,_Montenegro",
+        "All_stub_articles",
+        "European_sports_venue_stubs",
+        "Montenegrin_sport_stubs",
+        "Montenegrin_building_and_structure_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://barinfo.me/barski-kalendar-23-novembar/",
+        "https://geohack.toolforge.org/geohack.php?pagename=Topolica_Sport_Hall&params=42.1000_N_19.1000_E_source:wikidata-and-enwiki-cat-tree_region:ME",
+        "https://srcegrada.me/en"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Sportska_dvorana_Topolica.jpg",
+        "Flag_of_Montenegro.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Sportska dvorana Topolica.jpg",
+          "fileName": "Sportska dvorana Topolica.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sportska_dvorana_Topolica.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sportska_dvorana_Topolica.jpg/250px-Sportska_dvorana_Topolica.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sportska_dvorana_Topolica.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sportska_dvorana_Topolica.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Sportska_dvorana_Topolica.jpg/500px-Sportska_dvorana_Topolica.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 101,
+          "originalWidth": 1484,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Topolica_Sport_Hall&revid=1361404187&groups=_d30246e03fc1ad6f235540ec3f915599b48525c5&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Topolica_Sport_Hall&revid=1361404187&groups=_d30246e03fc1ad6f235540ec3f915599b48525c5&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Topolica Sport Hall"
+        },
+        {
+          "fileTitle": "File:Flag of Montenegro.svg",
+          "fileName": "Flag of Montenegro.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Montenegro.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/40px-Flag_of_Montenegro.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Montenegro.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Montenegro.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/60px-Flag_of_Montenegro.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 15,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Flag of Montenegro",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 614,
+          "rowText": "Bar\nTopolica Sport Hall\n2009\n3,000\nKK Mornar Bar",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Bar,_Montenegro\" title=\"Bar, Montenegro\">Bar</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Topolica_Sport_Hall\" title=\"Topolica Sport Hall\">Topolica Sport Hall</a>\n</td>\n<td>2009\n</td>\n<td>3,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/KK_Mornar_Bar\" title=\"KK Mornar Bar\">KK Mornar Bar</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 613,
+              "cell": {
+                "text": "Montenegro",
+                "lines": [
+                  "Montenegro"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Montenegro",
+                    "title": "Montenegro",
+                    "wikiTitle": "Montenegro",
+                    "href": "https://en.wikipedia.org/wiki/Montenegro",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 614,
+              "cell": {
+                "text": "Bar",
+                "lines": [
+                  "Bar"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Bar",
+                    "title": "Bar, Montenegro",
+                    "wikiTitle": "Bar, Montenegro",
+                    "href": "https://en.wikipedia.org/wiki/Bar,_Montenegro",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 614,
+              "cell": {
+                "text": "Topolica Sport Hall",
+                "lines": [
+                  "Topolica Sport Hall"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Topolica Sport Hall",
+                    "title": "Topolica Sport Hall",
+                    "wikiTitle": "Topolica Sport Hall",
+                    "href": "https://en.wikipedia.org/wiki/Topolica_Sport_Hall",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 614,
+              "cell": {
+                "text": "2009",
+                "lines": [
+                  "2009"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 614,
+              "cell": {
+                "text": "3,000",
+                "lines": [
+                  "3,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 614,
+              "cell": {
+                "text": "KK Mornar Bar",
+                "lines": [
+                  "KK Mornar Bar"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "KK Mornar Bar",
+                    "title": "KK Mornar Bar",
+                    "wikiTitle": "KK Mornar Bar",
+                    "href": "https://en.wikipedia.org/wiki/KK_Mornar_Bar",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Topolica Sport Hall",
+            "lines": [
+              "Topolica Sport Hall"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Topolica Sport Hall",
+                "title": "Topolica Sport Hall",
+                "wikiTitle": "Topolica Sport Hall",
+                "href": "https://en.wikipedia.org/wiki/Topolica_Sport_Hall",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:46:29.503Z"
+    }
+  ]
+}

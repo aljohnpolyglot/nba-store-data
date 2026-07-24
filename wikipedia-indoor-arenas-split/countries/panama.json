@@ -1,0 +1,1434 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Panama",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 13,
+    "sourceTypeCounts": {
+      "world_master_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-31242677",
+      "pageId": 31242677,
+      "revisionId": null,
+      "title": "Roberto Durán Arena",
+      "displayTitle": "Roberto Durán Arena",
+      "url": "https://en.wikipedia.org/wiki/Roberto_Dur%C3%A1n_Arena",
+      "wikidataItem": "Q7351677",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7351677",
+      "aliases": [
+        "Roberto Durán Arena",
+        "Gimnasio Nuevo Panamá"
+      ],
+      "requestedTitles": [
+        "Roberto Durán Arena"
+      ],
+      "sourceLinkTexts": [
+        "Roberto Durán Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Roberto_Dur%C3%A1n_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 9.03583,
+        "longitude": -79.46944,
+        "raw": "9.03583; -79.46944"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Roberto Durán Arena",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Roberto Durán Arena",
+            "lines": [
+              "Roberto Durán Arena"
+            ],
+            "html": "<td class=\"infobox-data\">Roberto Durán Arena</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Former names",
+            "key": "former_names",
+            "group": null,
+            "text": "Gimnasio Nuevo Panamá",
+            "lines": [
+              "Gimnasio Nuevo Panamá"
+            ],
+            "html": "<td class=\"infobox-data nickname\">Gimnasio Nuevo Panamá</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Panama City, Panama",
+            "lines": [
+              "Panama City, Panama"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Panama_City\" title=\"Panama City\">Panama City</a>, <a href=\"https://en.wikipedia.org/wiki/Panama\" title=\"Panama\">Panama</a></td>",
+            "links": [
+              {
+                "text": "Panama City",
+                "title": "Panama City",
+                "wikiTitle": "Panama City",
+                "href": "https://en.wikipedia.org/wiki/Panama_City",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Panama",
+                "title": "Panama",
+                "wikiTitle": "Panama",
+                "href": "https://en.wikipedia.org/wiki/Panama",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "18,000 (Multi-purpose)\n9,917 (Seating)",
+            "lines": [
+              "18,000 (Multi-purpose)",
+              "9,917 (Seating)"
+            ],
+            "html": "<td class=\"infobox-data\"><b>18,000</b> (Multi-purpose) <br> 9,917 (Seating) </td>",
+            "links": [
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              },
+              {
+                "text": "[4]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-Capacity-4",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2"
+              },
+              {
+                "label": "[4]",
+                "href": "https://en.wikipedia.org/#cite_note-Capacity-4"
+              }
+            ]
+          },
+          {
+            "label": "Surface",
+            "key": "surface",
+            "group": null,
+            "text": "Junckers Pro Complete 44 (22mm hardwood parquet)",
+            "lines": [
+              "Junckers Pro Complete 44 (22mm hardwood parquet)"
+            ],
+            "html": "<td class=\"infobox-data\">Junckers Pro Complete 44 (22mm hardwood parquet)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "1970",
+            "lines": [
+              "1970"
+            ],
+            "html": "<td class=\"infobox-data\">1970</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1970",
+            "lines": [
+              "1970"
+            ],
+            "html": "<td class=\"infobox-data\">1970 </td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-RR_Arquitectos-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-RR_Arquitectos-1"
+              }
+            ]
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2008-2009\n2025",
+            "lines": [
+              "2008-2009",
+              "2025"
+            ],
+            "html": "<td class=\"infobox-data\">2008-2009 <br> 2025 </td>",
+            "links": [
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              },
+              {
+                "text": "[3]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-2025_Controversy-3",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2"
+              },
+              {
+                "label": "[3]",
+                "href": "https://en.wikipedia.org/#cite_note-2025_Controversy-3"
+              }
+            ]
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "$15,497,985.26\n(2008-09 renovations)",
+            "lines": [
+              "$15,497,985.26",
+              "(2008-09 renovations)"
+            ],
+            "html": "<td class=\"infobox-data\">$15,497,985.26 <br> <b>(2008-09 renovations)</b> </td>",
+            "links": [
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2"
+              }
+            ]
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Gustavo Díaz\nJorge Rodríguez\nJulio Rovi",
+            "lines": [
+              "Gustavo Díaz",
+              "Jorge Rodríguez",
+              "Julio Rovi"
+            ],
+            "html": "<td class=\"infobox-data\">Gustavo Díaz <br> Jorge Rodríguez <br> Julio Rovi </td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-RR_Arquitectos-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-RR_Arquitectos-1"
+              }
+            ]
+          },
+          {
+            "label": "Builder",
+            "key": "builder",
+            "group": "Construction",
+            "text": "RR Arquitectos\nAPROCOSA (2008-09)",
+            "lines": [
+              "RR Arquitectos",
+              "APROCOSA (2008-09)"
+            ],
+            "html": "<td class=\"infobox-data\">RR Arquitectos <br> APROCOSA (2008-09) </td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-RR_Arquitectos-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              },
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-RR_Arquitectos-1"
+              },
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2"
+              }
+            ]
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Panama men's national basketball team",
+            "lines": [
+              "Panama men's national basketball team"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Panama_men%27s_national_basketball_team\" title=\"Panama men's national basketball team\">Panama men's national basketball team</a></td>",
+            "links": [
+              {
+                "text": "Panama men's national basketball team",
+                "title": "Panama men's national basketball team",
+                "wikiTitle": "Panama men's national basketball team",
+                "href": "https://en.wikipedia.org/wiki/Panama_men%27s_national_basketball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Roberto Durán Arena",
+              "lines": [
+                "Roberto Durán Arena"
+              ],
+              "html": "<td class=\"infobox-data\">Roberto Durán Arena</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "former_names": [
+            {
+              "label": "Former names",
+              "key": "former_names",
+              "group": null,
+              "text": "Gimnasio Nuevo Panamá",
+              "lines": [
+                "Gimnasio Nuevo Panamá"
+              ],
+              "html": "<td class=\"infobox-data nickname\">Gimnasio Nuevo Panamá</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Panama City, Panama",
+              "lines": [
+                "Panama City, Panama"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Panama_City\" title=\"Panama City\">Panama City</a>, <a href=\"https://en.wikipedia.org/wiki/Panama\" title=\"Panama\">Panama</a></td>",
+              "links": [
+                {
+                  "text": "Panama City",
+                  "title": "Panama City",
+                  "wikiTitle": "Panama City",
+                  "href": "https://en.wikipedia.org/wiki/Panama_City",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Panama",
+                  "title": "Panama",
+                  "wikiTitle": "Panama",
+                  "href": "https://en.wikipedia.org/wiki/Panama",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "18,000 (Multi-purpose)\n9,917 (Seating)",
+              "lines": [
+                "18,000 (Multi-purpose)",
+                "9,917 (Seating)"
+              ],
+              "html": "<td class=\"infobox-data\"><b>18,000</b> (Multi-purpose) <br> 9,917 (Seating) </td>",
+              "links": [
+                {
+                  "text": "[2]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                },
+                {
+                  "text": "[4]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-Capacity-4",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2"
+                },
+                {
+                  "label": "[4]",
+                  "href": "https://en.wikipedia.org/#cite_note-Capacity-4"
+                }
+              ]
+            }
+          ],
+          "surface": [
+            {
+              "label": "Surface",
+              "key": "surface",
+              "group": null,
+              "text": "Junckers Pro Complete 44 (22mm hardwood parquet)",
+              "lines": [
+                "Junckers Pro Complete 44 (22mm hardwood parquet)"
+              ],
+              "html": "<td class=\"infobox-data\">Junckers Pro Complete 44 (22mm hardwood parquet)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "1970",
+              "lines": [
+                "1970"
+              ],
+              "html": "<td class=\"infobox-data\">1970</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1970",
+              "lines": [
+                "1970"
+              ],
+              "html": "<td class=\"infobox-data\">1970 </td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-RR_Arquitectos-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-RR_Arquitectos-1"
+                }
+              ]
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2008-2009\n2025",
+              "lines": [
+                "2008-2009",
+                "2025"
+              ],
+              "html": "<td class=\"infobox-data\">2008-2009 <br> 2025 </td>",
+              "links": [
+                {
+                  "text": "[2]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                },
+                {
+                  "text": "[3]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-2025_Controversy-3",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2"
+                },
+                {
+                  "label": "[3]",
+                  "href": "https://en.wikipedia.org/#cite_note-2025_Controversy-3"
+                }
+              ]
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "$15,497,985.26\n(2008-09 renovations)",
+              "lines": [
+                "$15,497,985.26",
+                "(2008-09 renovations)"
+              ],
+              "html": "<td class=\"infobox-data\">$15,497,985.26 <br> <b>(2008-09 renovations)</b> </td>",
+              "links": [
+                {
+                  "text": "[2]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2"
+                }
+              ]
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Gustavo Díaz\nJorge Rodríguez\nJulio Rovi",
+              "lines": [
+                "Gustavo Díaz",
+                "Jorge Rodríguez",
+                "Julio Rovi"
+              ],
+              "html": "<td class=\"infobox-data\">Gustavo Díaz <br> Jorge Rodríguez <br> Julio Rovi </td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-RR_Arquitectos-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-RR_Arquitectos-1"
+                }
+              ]
+            }
+          ],
+          "builder": [
+            {
+              "label": "Builder",
+              "key": "builder",
+              "group": "Construction",
+              "text": "RR Arquitectos\nAPROCOSA (2008-09)",
+              "lines": [
+                "RR Arquitectos",
+                "APROCOSA (2008-09)"
+              ],
+              "html": "<td class=\"infobox-data\">RR Arquitectos <br> APROCOSA (2008-09) </td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-RR_Arquitectos-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                },
+                {
+                  "text": "[2]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-RR_Arquitectos-1"
+                },
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-APROCOSA-2"
+                }
+              ]
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Panama men's national basketball team",
+              "lines": [
+                "Panama men's national basketball team"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Panama_men%27s_national_basketball_team\" title=\"Panama men's national basketball team\">Panama men's national basketball team</a></td>",
+              "links": [
+                {
+                  "text": "Panama men's national basketball team",
+                  "title": "Panama men's national basketball team",
+                  "wikiTitle": "Panama men's national basketball team",
+                  "href": "https://en.wikipedia.org/wiki/Panama_men%27s_national_basketball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Roberto Durán Arena"
+          ],
+          "former_names": [
+            "Gimnasio Nuevo Panamá"
+          ],
+          "location": [
+            "Panama City, Panama"
+          ],
+          "capacity": [
+            "18,000 (Multi-purpose)\n9,917 (Seating)"
+          ],
+          "surface": [
+            "Junckers Pro Complete 44 (22mm hardwood parquet)"
+          ],
+          "built": [
+            "1970"
+          ],
+          "opened": [
+            "1970"
+          ],
+          "renovated": [
+            "2008-2009\n2025"
+          ],
+          "cost": [
+            "$15,497,985.26\n(2008-09 renovations)"
+          ],
+          "architect": [
+            "Gustavo Díaz\nJorge Rodríguez\nJulio Rovi"
+          ],
+          "builder": [
+            "RR Arquitectos\nAPROCOSA (2008-09)"
+          ],
+          "tenants": [
+            "Panama men's national basketball team"
+          ]
+        },
+        "formerNames": [
+          "Gimnasio Nuevo Panamá"
+        ],
+        "capacities": [
+          "18,000 (Multi-purpose)",
+          "9,917 (Seating)"
+        ],
+        "tenants": [
+          "Panama men's national basketball team"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Flag of Panama.svg",
+            "fileName": "Flag of Panama.svg",
+            "kind": "icon",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Panama.svg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/120px-Flag_of_Panama.svg.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Panama.svg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Panama.svg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 100,
+            "height": 67,
+            "originalWidth": 900,
+            "originalHeight": 600,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Roberto_Dur%C3%A1n_Arena&revid=1363527724&groups=_385271a5a41f9efed92863c9785b0a3ece0a49f5&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Roberto_Dur%C3%A1n_Arena&revid=1363527724&groups=_385271a5a41f9efed92863c9785b0a3ece0a49f5&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Roberto Durán Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Roberto Durán Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\" lang=\"es\">Arena Roberto Durán</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span><a href=\"https://en.wikipedia.org/wiki/File:Flag_of_Panama.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/120px-Flag_of_Panama.svg.png\" width=\"100\" height=\"67\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_385271a5a41f9efed92863c9785b0a3ece0a49f5&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Roberto_Dur%C3%A1n_Arena&amp;revid=1363527724&amp;groups=_385271a5a41f9efed92863c9785b0a3ece0a49f5&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Roberto_Dur%C3%A1n_Arena&amp;revid=1363527724&amp;groups=_385271a5a41f9efed92863c9785b0a3ece0a49f5&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Roberto Durán Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Roberto Durán Arena</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Former names</div></th><td class=\"infobox-data nickname\">Gimnasio Nuevo Panamá</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Panama_City\" title=\"Panama City\">Panama City</a>, <a href=\"https://en.wikipedia.org/wiki/Panama\" title=\"Panama\">Panama</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\"><b>18,000</b> (Multi-purpose) <br> 9,917 (Seating) </td></tr><tr><th scope=\"row\" class=\"infobox-label\">Surface</th><td class=\"infobox-data\">Junckers Pro Complete 44 (22mm hardwood parquet)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">1970</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1970 </td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2008-2009 <br> 2025 </td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">$15,497,985.26 <br> <b>(2008-09 renovations)</b> </td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\">Gustavo Díaz <br> Jorge Rodríguez <br> Julio Rovi </td></tr><tr><th scope=\"row\" class=\"infobox-label\">Builder</th><td class=\"infobox-data\">RR Arquitectos <br> APROCOSA (2008-09) </td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Panama_men%27s_national_basketball_team\" title=\"Panama men's national basketball team\">Panama men's national basketball team</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Spanish-language_sources_(es)",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Panama",
+        "Sports_venues_in_Panama_City",
+        "Basketball_venues_in_Panama",
+        "Volleyball_venues_in_Panama",
+        "All_stub_articles",
+        "Panamanian_sport_stubs",
+        "Central_American_sports_venue_stubs",
+        "Panamanian_building_and_structure_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Roberto_Dur%C3%A1n_Arena&params=9_02_09_N_79_28_10_W_source:eswiki_region:PA_type:landmark",
+        "https://www.rodarq.net/gimnasio-roberto-duran-antiguo-nuevo-panama/",
+        "https://www.prensa.com/impresa/deportes/Obras-gimnasio-van-buen-paso_0_2312018815.html",
+        "https://www.laestrella.com.pa/deportes/la-realidad-de-los-estadios-en-panama-avance-y-rescate-HJ15492995",
+        "http://portal.diaadia.com.pa/archivo/04242009/dep02.html",
+        "https://www.fiba.basketball/en/news/basketballworldcup-2023-americas-qualifiers-news-argentina-dominican-republic-and-mexico-will-host-the-fiba-basketball-world-cup-2023-americas-1st-window-in-november",
+        "https://www.fiba.basketball/en/news/fiba-statement-regarding-the-games-cuba-vs-panama-and-cuba-vs-uruguay"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "FIBA-sanctioned matches hosted at the venue",
+          "anchor": "FIBA-sanctioned_matches_hosted_at_the_venue"
+        },
+        {
+          "index": "2",
+          "level": 3,
+          "line": "2019 FIBA Basketball World Cup qualification (Americas)",
+          "anchor": "2019_FIBA_Basketball_World_Cup_qualification_(Americas)"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "2023 FIBA Basketball World Cup qualification (Americas)",
+          "anchor": "2023_FIBA_Basketball_World_Cup_qualification_(Americas)"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "2027 FIBA Basketball World Cup qualification (Americas)",
+          "anchor": "2027_FIBA_Basketball_World_Cup_qualification_(Americas)"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "Notes",
+          "anchor": "Notes"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Flag_of_Panama.svg",
+        "Flag_of_Argentina.svg",
+        "Flag_of_Paraguay.svg",
+        "Flag_of_Uruguay.svg",
+        "Flag_of_the_United_States.svg",
+        "Flag_of_Mexico.svg",
+        "Flag_of_Puerto_Rico.svg",
+        "Flag_of_Canada_(Pantone).svg",
+        "Flag_of_the_Dominican_Republic.svg",
+        "Flag_of_the_Bahamas.svg",
+        "Flag_of_Cuba.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Flag of Panama.svg",
+          "fileName": "Flag of Panama.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Panama.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/120px-Flag_of_Panama.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Panama.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Panama.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/250px-Flag_of_Panama.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 100,
+          "height": 67,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Roberto_Dur%C3%A1n_Arena&revid=1363527724&groups=_385271a5a41f9efed92863c9785b0a3ece0a49f5&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Roberto_Dur%C3%A1n_Arena&revid=1363527724&groups=_385271a5a41f9efed92863c9785b0a3ece0a49f5&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Roberto Durán Arena"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/40px-Flag_of_Panama.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/60px-Flag_of_Panama.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/40px-Flag_of_Argentina.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/60px-Flag_of_Argentina.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 14,
+          "originalWidth": 800,
+          "originalHeight": 500,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/40px-Flag_of_Paraguay.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/60px-Flag_of_Paraguay.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 13,
+          "originalWidth": 1200,
+          "originalHeight": 660,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/40px-Flag_of_Uruguay.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/60px-Flag_of_Uruguay.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 512,
+          "originalHeight": 341,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/60px-Flag_of_the_United_States.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1235,
+          "originalHeight": 650,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/40px-Flag_of_Mexico.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/60px-Flag_of_Mexico.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 13,
+          "originalWidth": 980,
+          "originalHeight": 560,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/40px-Flag_of_Puerto_Rico.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/60px-Flag_of_Puerto_Rico.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/40px-Flag_of_the_Dominican_Republic.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/60px-Flag_of_the_Dominican_Republic.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/40px-Flag_of_the_Bahamas.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/60px-Flag_of_the_Bahamas.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/40px-Flag_of_Cuba.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/60px-Flag_of_Cuba.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "North America"
+          ],
+          "tableIndex": 3,
+          "tableCaption": null,
+          "rowIndex": 45,
+          "rowText": "Panama\nPanama City\nRoberto Durán Arena\n1970\n8,417",
+          "rowHtml": "<tr>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Panama\" title=\"Panama\">Panama</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Panama_City,_Panama\" class=\"mw-redirect\" title=\"Panama City, Panama\">Panama City</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Roberto_Dur%C3%A1n_Arena\" title=\"Roberto Durán Arena\">Roberto Durán Arena</a>\n</td>\n<td align=\"center\">1970\n</td>\n<td align=\"right\">8,417\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 45,
+              "cell": {
+                "text": "Panama",
+                "lines": [
+                  "Panama"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Panama",
+                    "title": "Panama",
+                    "wikiTitle": "Panama",
+                    "href": "https://en.wikipedia.org/wiki/Panama",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 45,
+              "cell": {
+                "text": "Panama City",
+                "lines": [
+                  "Panama City"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Panama City",
+                    "title": "Panama City, Panama",
+                    "wikiTitle": "Panama City, Panama",
+                    "href": "https://en.wikipedia.org/wiki/Panama_City,_Panama",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 45,
+              "cell": {
+                "text": "Roberto Durán Arena",
+                "lines": [
+                  "Roberto Durán Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Roberto Durán Arena",
+                    "title": "Roberto Durán Arena",
+                    "wikiTitle": "Roberto Durán Arena",
+                    "href": "https://en.wikipedia.org/wiki/Roberto_Dur%C3%A1n_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 45,
+              "cell": {
+                "text": "1970",
+                "lines": [
+                  "1970"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 45,
+              "cell": {
+                "text": "8,417",
+                "lines": [
+                  "8,417"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 45,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Roberto Durán Arena",
+            "lines": [
+              "Roberto Durán Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Roberto Durán Arena",
+                "title": "Roberto Durán Arena",
+                "wikiTitle": "Roberto Durán Arena",
+                "href": "https://en.wikipedia.org/wiki/Roberto_Dur%C3%A1n_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:49:43.661Z"
+    }
+  ]
+}

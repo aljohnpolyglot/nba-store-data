@@ -1,0 +1,1370 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "North Korea",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 13,
+    "sourceTypeCounts": {
+      "world_master_list": 1,
+      "arena_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-38128749",
+      "pageId": 38128749,
+      "revisionId": null,
+      "title": "Pyongyang Gymnasium",
+      "displayTitle": "Pyongyang Gymnasium",
+      "url": "https://en.wikipedia.org/wiki/Pyongyang_Gymnasium",
+      "wikidataItem": "Q7263150",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7263150",
+      "aliases": [
+        "Pyongyang Gymnasium",
+        "Pyongyang Indoor Stadium",
+        "평양체육관\nPyongyang Gymnasium"
+      ],
+      "requestedTitles": [
+        "Pyongyang Gymnasium"
+      ],
+      "sourceLinkTexts": [
+        "Pyongyang Indoor Stadium",
+        "Pyongyang Gymnasium"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Pyongyang_Gymnasium"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas by capacity"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "arena_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 39.02278,
+        "longitude": 125.73444,
+        "raw": "39.02278; 125.73444"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "평양체육관\nPyongyang Gymnasium",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Pyongyang Indoor Stadium",
+            "lines": [
+              "Pyongyang Indoor Stadium"
+            ],
+            "html": "<td class=\"infobox-data\">Pyongyang Indoor Stadium</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Pyongyang, North Korea",
+            "lines": [
+              "Pyongyang, North Korea"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Pyongyang\" title=\"Pyongyang\">Pyongyang</a>, <a href=\"https://en.wikipedia.org/wiki/North_Korea\" title=\"North Korea\">North Korea</a></td>",
+            "links": [
+              {
+                "text": "Pyongyang",
+                "title": "Pyongyang",
+                "wikiTitle": "Pyongyang",
+                "href": "https://en.wikipedia.org/wiki/Pyongyang",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "North Korea",
+                "title": "North Korea",
+                "wikiTitle": "North Korea",
+                "href": "https://en.wikipedia.org/wiki/North_Korea",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "39°01′22″N 125°44′04″E﻿ / ﻿39.02278°N 125.73444°E﻿ / 39.02278; 125.73444",
+            "lines": [
+              "39°01′22″N 125°44′04″E﻿ / ﻿39.02278°N 125.73444°E﻿ / 39.02278; 125.73444"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Pyongyang_Gymnasium&amp;params=39_01_22_N_125_44_04_E_region:KP_type:landmark_source:kolossus-kowiki\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">39°01′22″N</span> <span class=\"longitude\">125°44′04″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">39.02278°N 125.73444°E</span><span>﻿ / <span class=\"geo\">39.02278; 125.73444</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "39°01′22″N 125°44′04″E﻿ / ﻿39.02278°N 125.73444°E﻿ / 39.02278; 125.73444",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Pyongyang_Gymnasium&params=39_01_22_N_125_44_04_E_region:KP_type:landmark_source:kolossus-kowiki",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "20,100 (sports and concerts)",
+            "lines": [
+              "20,100 (sports and concerts)"
+            ],
+            "html": "<td class=\"infobox-data\">20,100 (sports and concerts)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Surface",
+            "key": "surface",
+            "group": null,
+            "text": "Parquet",
+            "lines": [
+              "Parquet"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Parquet\" title=\"Parquet\">Parquet</a></td>",
+            "links": [
+              {
+                "text": "Parquet",
+                "title": "Parquet",
+                "wikiTitle": "Parquet",
+                "href": "https://en.wikipedia.org/wiki/Parquet",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "April 1973",
+            "lines": [
+              "April 1973"
+            ],
+            "html": "<td class=\"infobox-data\">April 1973</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2013",
+            "lines": [
+              "2013"
+            ],
+            "html": "<td class=\"infobox-data\">2013</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Yun Ko-gwang",
+            "lines": [
+              "Yun Ko-gwang"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/w/index.php?title=Yun_Ko-gwang&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yun Ko-gwang (page does not exist)\">Yun Ko-gwang</a></td>",
+            "links": [
+              {
+                "text": "Yun Ko-gwang",
+                "title": "Yun Ko-gwang (page does not exist)",
+                "wikiTitle": "Yun Ko-gwang",
+                "href": "https://en.wikipedia.org/w/index.php?title=Yun_Ko-gwang&action=edit&redlink=1",
+                "blueArticle": false,
+                "redLink": true,
+                "external": false
+              },
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-1"
+              }
+            ]
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Pyongyang Indoor Stadium",
+              "lines": [
+                "Pyongyang Indoor Stadium"
+              ],
+              "html": "<td class=\"infobox-data\">Pyongyang Indoor Stadium</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Pyongyang, North Korea",
+              "lines": [
+                "Pyongyang, North Korea"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Pyongyang\" title=\"Pyongyang\">Pyongyang</a>, <a href=\"https://en.wikipedia.org/wiki/North_Korea\" title=\"North Korea\">North Korea</a></td>",
+              "links": [
+                {
+                  "text": "Pyongyang",
+                  "title": "Pyongyang",
+                  "wikiTitle": "Pyongyang",
+                  "href": "https://en.wikipedia.org/wiki/Pyongyang",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "North Korea",
+                  "title": "North Korea",
+                  "wikiTitle": "North Korea",
+                  "href": "https://en.wikipedia.org/wiki/North_Korea",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "39°01′22″N 125°44′04″E﻿ / ﻿39.02278°N 125.73444°E﻿ / 39.02278; 125.73444",
+              "lines": [
+                "39°01′22″N 125°44′04″E﻿ / ﻿39.02278°N 125.73444°E﻿ / 39.02278; 125.73444"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Pyongyang_Gymnasium&amp;params=39_01_22_N_125_44_04_E_region:KP_type:landmark_source:kolossus-kowiki\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">39°01′22″N</span> <span class=\"longitude\">125°44′04″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">39.02278°N 125.73444°E</span><span>﻿ / <span class=\"geo\">39.02278; 125.73444</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "39°01′22″N 125°44′04″E﻿ / ﻿39.02278°N 125.73444°E﻿ / 39.02278; 125.73444",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Pyongyang_Gymnasium&params=39_01_22_N_125_44_04_E_region:KP_type:landmark_source:kolossus-kowiki",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "20,100 (sports and concerts)",
+              "lines": [
+                "20,100 (sports and concerts)"
+              ],
+              "html": "<td class=\"infobox-data\">20,100 (sports and concerts)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "surface": [
+            {
+              "label": "Surface",
+              "key": "surface",
+              "group": null,
+              "text": "Parquet",
+              "lines": [
+                "Parquet"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Parquet\" title=\"Parquet\">Parquet</a></td>",
+              "links": [
+                {
+                  "text": "Parquet",
+                  "title": "Parquet",
+                  "wikiTitle": "Parquet",
+                  "href": "https://en.wikipedia.org/wiki/Parquet",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "April 1973",
+              "lines": [
+                "April 1973"
+              ],
+              "html": "<td class=\"infobox-data\">April 1973</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2013",
+              "lines": [
+                "2013"
+              ],
+              "html": "<td class=\"infobox-data\">2013</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Yun Ko-gwang",
+              "lines": [
+                "Yun Ko-gwang"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/w/index.php?title=Yun_Ko-gwang&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yun Ko-gwang (page does not exist)\">Yun Ko-gwang</a></td>",
+              "links": [
+                {
+                  "text": "Yun Ko-gwang",
+                  "title": "Yun Ko-gwang (page does not exist)",
+                  "wikiTitle": "Yun Ko-gwang",
+                  "href": "https://en.wikipedia.org/w/index.php?title=Yun_Ko-gwang&action=edit&redlink=1",
+                  "blueArticle": false,
+                  "redLink": true,
+                  "external": false
+                },
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-1"
+                }
+              ]
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Pyongyang Indoor Stadium"
+          ],
+          "location": [
+            "Pyongyang, North Korea"
+          ],
+          "coordinates": [
+            "39°01′22″N 125°44′04″E﻿ / ﻿39.02278°N 125.73444°E﻿ / 39.02278; 125.73444"
+          ],
+          "capacity": [
+            "20,100 (sports and concerts)"
+          ],
+          "surface": [
+            "Parquet"
+          ],
+          "opened": [
+            "April 1973"
+          ],
+          "renovated": [
+            "2013"
+          ],
+          "architect": [
+            "Yun Ko-gwang"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "20,100 (sports and concerts)"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Laika ac Pyongyang Indoor Stadium (12144535375).jpg",
+            "fileName": "Laika ac Pyongyang Indoor Stadium (12144535375).jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg/250px-Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg/500px-Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 166,
+            "originalWidth": 4860,
+            "originalHeight": 3233,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Exterior of the Pyongyang Gymnasium"
+          },
+          {
+            "fileTitle": "File:OSM Map Pyongyang 2025.svg",
+            "fileName": "OSM Map Pyongyang 2025.svg",
+            "kind": "map",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:OSM_Map_Pyongyang_2025.svg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/OSM_Map_Pyongyang_2025.svg/250px-OSM_Map_Pyongyang_2025.svg.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/OSM_Map_Pyongyang_2025.svg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/OSM_Map_Pyongyang_2025.svg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/OSM_Map_Pyongyang_2025.svg/500px-OSM_Map_Pyongyang_2025.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 208,
+            "originalWidth": 414,
+            "originalHeight": 345,
+            "fileType": null,
+            "alt": "평양체육관 Pyongyang Gymnasium is located in Pyongyang",
+            "title": "평양체육관 Pyongyang Gymnasium is located in Pyongyang",
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [],
+            "width": 7,
+            "height": 7,
+            "originalWidth": 64,
+            "originalHeight": 64,
+            "fileType": null,
+            "alt": "평양체육관 Pyongyang Gymnasium",
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,15,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Pyongyang_Gymnasium&revid=1343193470&groups=_f761dbe9185d7bc9004f0986bfd54cef11e44e95&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/15",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Pyongyang_Gymnasium&revid=1343193470&groups=_f761dbe9185d7bc9004f0986bfd54cef11e44e95&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of 평양체육관\nPyongyang Gymnasium"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">평양체육관<br>Pyongyang Gymnasium</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\">Pyongyang Indoor Stadium</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg/250px-Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg\" width=\"250\" height=\"166\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg/500px-Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg 2x\" data-file-width=\"4860\" data-file-height=\"3233\"></a></span><div class=\"infobox-caption\">Exterior of the Pyongyang Gymnasium</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><div class=\"center\"><div class=\"locmap\"><div><div><span class=\"notpageimage noviewer\"><a href=\"https://en.wikipedia.org/wiki/File:OSM_Map_Pyongyang_2025.svg\" class=\"mw-file-description\" title=\"평양체육관 Pyongyang Gymnasium is located in Pyongyang\"><img alt=\"평양체육관 Pyongyang Gymnasium is located in Pyongyang\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/OSM_Map_Pyongyang_2025.svg/250px-OSM_Map_Pyongyang_2025.svg.png\" width=\"250\" height=\"208\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/OSM_Map_Pyongyang_2025.svg/500px-OSM_Map_Pyongyang_2025.svg.png 2x\" data-file-width=\"414\" data-file-height=\"345\"></a></span><div class=\"od notheme\"><div class=\"id\"><span class=\"notpageimage noviewer\"><span title=\"평양체육관 Pyongyang Gymnasium\"><img alt=\"평양체육관 Pyongyang Gymnasium\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png\" width=\"7\" height=\"7\" class=\"mw-file-element\" data-file-width=\"64\" data-file-height=\"64\"></span></span></div><div class=\"pr\"><div>평양체육관<br>Pyongyang Gymnasium</div></div></div></div><div>Location in <a href=\"https://en.wikipedia.org/wiki/Pyongyang\" title=\"Pyongyang\">Pyongyang</a></div></div></div></div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"15\" data-overlays=\"[&quot;_f761dbe9185d7bc9004f0986bfd54cef11e44e95&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,15,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Pyongyang_Gymnasium&amp;revid=1343193470&amp;groups=_f761dbe9185d7bc9004f0986bfd54cef11e44e95&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/15, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Pyongyang_Gymnasium&amp;revid=1343193470&amp;groups=_f761dbe9185d7bc9004f0986bfd54cef11e44e95&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of 평양체육관<br>Pyongyang Gymnasium</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Pyongyang Indoor Stadium</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Pyongyang\" title=\"Pyongyang\">Pyongyang</a>, <a href=\"https://en.wikipedia.org/wiki/North_Korea\" title=\"North Korea\">North Korea</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Pyongyang_Gymnasium&amp;params=39_01_22_N_125_44_04_E_region:KP_type:landmark_source:kolossus-kowiki\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">39°01′22″N</span> <span class=\"longitude\">125°44′04″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">39.02278°N 125.73444°E</span><span>﻿ / <span class=\"geo\">39.02278; 125.73444</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">20,100 (sports and concerts)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Surface</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Parquet\" title=\"Parquet\">Parquet</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">April 1973</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2013</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/w/index.php?title=Yun_Ko-gwang&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Yun Ko-gwang (page does not exist)\">Yun Ko-gwang</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Commons_category_link_is_on_Wikidata",
+        "Indoor_arenas_in_North_Korea",
+        "Sports_venues_completed_in_1973",
+        "Sports_venues_in_Pyongyang",
+        "Basketball_venues_in_North_Korea",
+        "Volleyball_venues_in_North_Korea",
+        "1973_establishments_in_North_Korea",
+        "All_stub_articles",
+        "Asian_sports_venue_stubs",
+        "North_Korean_sport_stubs",
+        "North_Korean_building_and_structure_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Pyongyang_Gymnasium&params=39_01_22_N_125_44_04_E_region:KP_type:landmark_source:kolossus-kowiki",
+        "https://search.worldcat.org/issn/1727-9208",
+        "http://www.worldstadiums.com/asia/countries/north_korea.shtml",
+        "https://structurae.net/structures/20060508"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Laika_ac_Pyongyang_Indoor_Stadium_(11984760636).jpg",
+        "Laika_ac_Pyongyang_Indoor_Stadium_(12145190096).jpg",
+        "Pyongyang_Indoor_Stadium_(15457536003).jpg",
+        "Pyongyang_Indoor_Stadium_(16077201215).jpg",
+        "Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg",
+        "OSM_Map_Pyongyang_2025.svg",
+        "Red_pog.svg",
+        "Commons-logo.svg",
+        "Arirang_Mass_Games_01.JPG",
+        "OOjs_UI_icon_edit-ltr-progressive.svg",
+        "Flag_of_North_Korea.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Laika ac Pyongyang Indoor Stadium (12144535375).jpg",
+          "fileName": "Laika ac Pyongyang Indoor Stadium (12144535375).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg/250px-Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg/500px-Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 166,
+          "originalWidth": 4860,
+          "originalHeight": 3233,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Exterior of the Pyongyang Gymnasium"
+        },
+        {
+          "fileTitle": "File:OSM Map Pyongyang 2025.svg",
+          "fileName": "OSM Map Pyongyang 2025.svg",
+          "kind": "map",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:OSM_Map_Pyongyang_2025.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/OSM_Map_Pyongyang_2025.svg/250px-OSM_Map_Pyongyang_2025.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/OSM_Map_Pyongyang_2025.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/OSM_Map_Pyongyang_2025.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/OSM_Map_Pyongyang_2025.svg/500px-OSM_Map_Pyongyang_2025.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 208,
+          "originalWidth": 414,
+          "originalHeight": 345,
+          "fileType": null,
+          "alt": "평양체육관 Pyongyang Gymnasium is located in Pyongyang",
+          "title": "평양체육관 Pyongyang Gymnasium is located in Pyongyang",
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Red_pog.svg/20px-Red_pog.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 7,
+          "height": 7,
+          "originalWidth": 64,
+          "originalHeight": 64,
+          "fileType": null,
+          "alt": "평양체육관 Pyongyang Gymnasium",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,15,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Pyongyang_Gymnasium&revid=1343193470&groups=_f761dbe9185d7bc9004f0986bfd54cef11e44e95&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/15",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Pyongyang_Gymnasium&revid=1343193470&groups=_f761dbe9185d7bc9004f0986bfd54cef11e44e95&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of 평양체육관\nPyongyang Gymnasium"
+        },
+        {
+          "fileTitle": "File:Laika ac Pyongyang Indoor Stadium (11984760636).jpg",
+          "fileName": "Laika ac Pyongyang Indoor Stadium (11984760636).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Laika_ac_Pyongyang_Indoor_Stadium_(11984760636).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Laika_ac_Pyongyang_Indoor_Stadium_%2811984760636%29.jpg/250px-Laika_ac_Pyongyang_Indoor_Stadium_%2811984760636%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Laika_ac_Pyongyang_Indoor_Stadium_(11984760636).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Laika_ac_Pyongyang_Indoor_Stadium_(11984760636).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Laika_ac_Pyongyang_Indoor_Stadium_%2811984760636%29.jpg/500px-Laika_ac_Pyongyang_Indoor_Stadium_%2811984760636%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 180,
+          "height": 120,
+          "originalWidth": 5103,
+          "originalHeight": 3395,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Laika ac Pyongyang Indoor Stadium (12145190096).jpg",
+          "fileName": "Laika ac Pyongyang Indoor Stadium (12145190096).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Laika_ac_Pyongyang_Indoor_Stadium_(12145190096).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Laika_ac_Pyongyang_Indoor_Stadium_%2812145190096%29.jpg/250px-Laika_ac_Pyongyang_Indoor_Stadium_%2812145190096%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Laika_ac_Pyongyang_Indoor_Stadium_(12145190096).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Laika_ac_Pyongyang_Indoor_Stadium_(12145190096).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Laika_ac_Pyongyang_Indoor_Stadium_%2812145190096%29.jpg/500px-Laika_ac_Pyongyang_Indoor_Stadium_%2812145190096%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 180,
+          "height": 120,
+          "originalWidth": 4971,
+          "originalHeight": 3315,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Pyongyang Indoor Stadium (15457536003).jpg",
+          "fileName": "Pyongyang Indoor Stadium (15457536003).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Pyongyang_Indoor_Stadium_(15457536003).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Pyongyang_Indoor_Stadium_%2815457536003%29.jpg/250px-Pyongyang_Indoor_Stadium_%2815457536003%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pyongyang_Indoor_Stadium_(15457536003).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Pyongyang_Indoor_Stadium_(15457536003).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Pyongyang_Indoor_Stadium_%2815457536003%29.jpg/500px-Pyongyang_Indoor_Stadium_%2815457536003%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 180,
+          "height": 101,
+          "originalWidth": 4912,
+          "originalHeight": 2760,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Pyongyang Indoor Stadium (16077201215).jpg",
+          "fileName": "Pyongyang Indoor Stadium (16077201215).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Pyongyang_Indoor_Stadium_(16077201215).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pyongyang_Indoor_Stadium_%2816077201215%29.jpg/250px-Pyongyang_Indoor_Stadium_%2816077201215%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pyongyang_Indoor_Stadium_(16077201215).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Pyongyang_Indoor_Stadium_(16077201215).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pyongyang_Indoor_Stadium_%2816077201215%29.jpg/500px-Pyongyang_Indoor_Stadium_%2816077201215%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 180,
+          "height": 101,
+          "originalWidth": 4912,
+          "originalHeight": 2760,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Arirang Mass Games 01.JPG",
+          "fileName": "Arirang Mass Games 01.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Arirang_Mass_Games_01.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Arirang_Mass_Games_01.JPG/120px-Arirang_Mass_Games_01.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Arirang_Mass_Games_01.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Arirang_Mass_Games_01.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Arirang_Mass_Games_01.JPG/250px-Arirang_Mass_Games_01.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 90,
+          "originalWidth": 3488,
+          "originalHeight": 2616,
+          "fileType": null,
+          "alt": "Rungnado May Day Stadium, North Korea.",
+          "title": "Rungnado May Day Stadium, North Korea.",
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Flag of North Korea.svg",
+          "fileName": "Flag of North Korea.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_North_Korea.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/40px-Flag_of_North_Korea.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_North_Korea.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_North_Korea.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/60px-Flag_of_North_Korea.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 15,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Flag of North Korea",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 262,
+          "rowText": "Pyongyang Indoor Stadium\n1973\n20,100",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Pyongyang_Gymnasium\" title=\"Pyongyang Gymnasium\">Pyongyang Indoor Stadium</a>\n</td>\n<td>1973\n</td>\n<td>20,100\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 261,
+              "cell": {
+                "text": "Korea (North)",
+                "lines": [
+                  "Korea (North)"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Korea (North)",
+                    "title": "Korea (North)",
+                    "wikiTitle": "Korea (North)",
+                    "href": "https://en.wikipedia.org/wiki/Korea_(North)",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 261,
+              "cell": {
+                "text": "Pyongyang",
+                "lines": [
+                  "Pyongyang"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Pyongyang",
+                    "title": "Pyongyang",
+                    "wikiTitle": "Pyongyang",
+                    "href": "https://en.wikipedia.org/wiki/Pyongyang",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 262,
+              "cell": {
+                "text": "Pyongyang Indoor Stadium",
+                "lines": [
+                  "Pyongyang Indoor Stadium"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Pyongyang Indoor Stadium",
+                    "title": "Pyongyang Gymnasium",
+                    "wikiTitle": "Pyongyang Gymnasium",
+                    "href": "https://en.wikipedia.org/wiki/Pyongyang_Gymnasium",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 262,
+              "cell": {
+                "text": "1973",
+                "lines": [
+                  "1973"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 262,
+              "cell": {
+                "text": "20,100",
+                "lines": [
+                  "20,100"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 262,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Pyongyang Indoor Stadium",
+            "lines": [
+              "Pyongyang Indoor Stadium"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Pyongyang Indoor Stadium",
+                "title": "Pyongyang Gymnasium",
+                "wikiTitle": "Pyongyang Gymnasium",
+                "href": "https://en.wikipedia.org/wiki/Pyongyang_Gymnasium",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas by capacity",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_by_capacity",
+          "sourceRevisionId": null,
+          "sourceType": "arena_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 22,
+          "rowText": "Pyongyang Gymnasium\n20,100\nPyongyang\nNorth Korea",
+          "rowHtml": "<tr>\n<th scope=\"row\"><a href=\"https://en.wikipedia.org/wiki/Pyongyang_Gymnasium\" title=\"Pyongyang Gymnasium\">Pyongyang Gymnasium</a>\n</th>\n<td>20,100\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Pyongyang\" title=\"Pyongyang\">Pyongyang</a>\n</td>\n<td><span class=\"flagicon nowrap\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/40px-Flag_of_North_Korea.svg.png\" width=\"23\" height=\"12\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/60px-Flag_of_North_Korea.svg.png 2x\" data-file-width=\"1200\" data-file-height=\"600\"></span></span> </span><a href=\"https://en.wikipedia.org/wiki/North_Korea\" title=\"North Korea\">North Korea</a>\n</td>\n<td><span><a href=\"https://en.wikipedia.org/wiki/File:Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg/250px-Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg\" width=\"150\" height=\"100\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg/330px-Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg 2x\" data-file-width=\"4860\" data-file-height=\"3233\"></a></span>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 22,
+              "cell": {
+                "text": "Pyongyang Gymnasium",
+                "lines": [
+                  "Pyongyang Gymnasium"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Pyongyang Gymnasium",
+                    "title": "Pyongyang Gymnasium",
+                    "wikiTitle": "Pyongyang Gymnasium",
+                    "href": "https://en.wikipedia.org/wiki/Pyongyang_Gymnasium",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 22,
+              "cell": {
+                "text": "20,100",
+                "lines": [
+                  "20,100"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 22,
+              "cell": {
+                "text": "Pyongyang",
+                "lines": [
+                  "Pyongyang"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Pyongyang",
+                    "title": "Pyongyang",
+                    "wikiTitle": "Pyongyang",
+                    "href": "https://en.wikipedia.org/wiki/Pyongyang",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 22,
+              "cell": {
+                "text": "North Korea",
+                "lines": [
+                  "North Korea"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "North Korea",
+                    "title": "North Korea",
+                    "wikiTitle": "North Korea",
+                    "href": "https://en.wikipedia.org/wiki/North_Korea",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": null,
+                    "fileName": null,
+                    "kind": "photo",
+                    "filePageUrl": null,
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/40px-Flag_of_North_Korea.svg.png",
+                    "originalRedirectUrl": null,
+                    "enwikiOriginalRedirectUrl": null,
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/60px-Flag_of_North_Korea.svg.png",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 23,
+                    "height": 12,
+                    "originalWidth": 1200,
+                    "originalHeight": 600,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 22,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [
+                  {
+                    "text": "",
+                    "title": "File:Laika ac Pyongyang Indoor Stadium (12144535375).jpg",
+                    "wikiTitle": "File:Laika ac Pyongyang Indoor Stadium (12144535375).jpg",
+                    "href": "https://en.wikipedia.org/wiki/File:Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": "File:Laika ac Pyongyang Indoor Stadium (12144535375).jpg",
+                    "fileName": "Laika ac Pyongyang Indoor Stadium (12144535375).jpg",
+                    "kind": "photo",
+                    "filePageUrl": "https://en.wikipedia.org/wiki/File:Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg",
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg/250px-Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg",
+                    "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg",
+                    "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg",
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg/330px-Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 150,
+                    "height": 100,
+                    "originalWidth": 4860,
+                    "originalHeight": 3233,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": null,
+              "fileName": null,
+              "kind": "photo",
+              "filePageUrl": null,
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/40px-Flag_of_North_Korea.svg.png",
+              "originalRedirectUrl": null,
+              "enwikiOriginalRedirectUrl": null,
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/60px-Flag_of_North_Korea.svg.png",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 23,
+              "height": 12,
+              "originalWidth": 1200,
+              "originalHeight": 600,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            },
+            {
+              "fileTitle": "File:Laika ac Pyongyang Indoor Stadium (12144535375).jpg",
+              "fileName": "Laika ac Pyongyang Indoor Stadium (12144535375).jpg",
+              "kind": "photo",
+              "filePageUrl": "https://en.wikipedia.org/wiki/File:Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg",
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg/250px-Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg",
+              "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg",
+              "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Laika_ac_Pyongyang_Indoor_Stadium_(12144535375).jpg",
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg/330px-Laika_ac_Pyongyang_Indoor_Stadium_%2812144535375%29.jpg",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 150,
+              "height": 100,
+              "originalWidth": 4860,
+              "originalHeight": 3233,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Pyongyang Gymnasium",
+            "lines": [
+              "Pyongyang Gymnasium"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Pyongyang Gymnasium",
+                "title": "Pyongyang Gymnasium",
+                "wikiTitle": "Pyongyang Gymnasium",
+                "href": "https://en.wikipedia.org/wiki/Pyongyang_Gymnasium",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T11:54:51.507Z"
+    }
+  ]
+}

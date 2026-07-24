@@ -1,0 +1,670 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Mozambique",
+  "coverage": {
+    "mode": "inferred_from_infobox_or_other_lists",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 0
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 2,
+    "sourceTypeCounts": {
+      "country_or_region_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-76426643",
+      "pageId": 76426643,
+      "revisionId": null,
+      "title": "Pavilhão do Maxaquene",
+      "displayTitle": "Pavilhão do Maxaquene",
+      "url": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_do_Maxaquene",
+      "wikidataItem": "Q125372032",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q125372032",
+      "aliases": [
+        "Pavilhão do Maxaquene"
+      ],
+      "requestedTitles": [
+        "Pavilhão do Maxaquene"
+      ],
+      "sourceLinkTexts": [
+        "Pavilhão do Maxaquene"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_do_Maxaquene"
+      ],
+      "sourcePages": [
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": -25.9746,
+        "longitude": 32.5771,
+        "raw": "-25.9746; 32.5771"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Pavilhão do Maxaquene",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Pavilhao Millenium Bim Maxaquene",
+            "lines": [
+              "Pavilhao Millenium Bim Maxaquene"
+            ],
+            "html": "<td class=\"infobox-data\">Pavilhao Millenium Bim Maxaquene</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Maputo, Mozambique",
+            "lines": [
+              "Maputo, Mozambique"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Maputo\" title=\"Maputo\">Maputo</a>, Mozambique</td>",
+            "links": [
+              {
+                "text": "Maputo",
+                "title": "Maputo",
+                "wikiTitle": "Maputo",
+                "href": "https://en.wikipedia.org/wiki/Maputo",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "25°58′29″S 32°34′38″E﻿ / ﻿25.9746°S 32.5771°E﻿ / -25.9746; 32.5771",
+            "lines": [
+              "25°58′29″S 32°34′38″E﻿ / ﻿25.9746°S 32.5771°E﻿ / -25.9746; 32.5771"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Pavilh%C3%A3o_do_Maxaquene&amp;params=25.9746_S_32.5771_E_type:landmark_region:MZ\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°58′29″S</span> <span class=\"longitude\">32°34′38″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.9746°S 32.5771°E</span><span>﻿ / <span class=\"geo\">-25.9746; 32.5771</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "25°58′29″S 32°34′38″E﻿ / ﻿25.9746°S 32.5771°E﻿ / -25.9746; 32.5771",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Pavilh%C3%A3o_do_Maxaquene&params=25.9746_S_32.5771_E_type:landmark_region:MZ",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "5,000",
+            "lines": [
+              "5,000"
+            ],
+            "html": "<td class=\"infobox-data\">5,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "2011",
+            "lines": [
+              "2011"
+            ],
+            "html": "<td class=\"infobox-data\">2011</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "C.D. Maxaquene",
+            "lines": [
+              "C.D. Maxaquene"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/C.D._Maxaquene_(basketball)\" title=\"C.D. Maxaquene (basketball)\">C.D. Maxaquene</a></td>",
+            "links": [
+              {
+                "text": "C.D. Maxaquene",
+                "title": "C.D. Maxaquene (basketball)",
+                "wikiTitle": "C.D. Maxaquene (basketball)",
+                "href": "https://en.wikipedia.org/wiki/C.D._Maxaquene_(basketball)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Pavilhao Millenium Bim Maxaquene",
+              "lines": [
+                "Pavilhao Millenium Bim Maxaquene"
+              ],
+              "html": "<td class=\"infobox-data\">Pavilhao Millenium Bim Maxaquene</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Maputo, Mozambique",
+              "lines": [
+                "Maputo, Mozambique"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Maputo\" title=\"Maputo\">Maputo</a>, Mozambique</td>",
+              "links": [
+                {
+                  "text": "Maputo",
+                  "title": "Maputo",
+                  "wikiTitle": "Maputo",
+                  "href": "https://en.wikipedia.org/wiki/Maputo",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "25°58′29″S 32°34′38″E﻿ / ﻿25.9746°S 32.5771°E﻿ / -25.9746; 32.5771",
+              "lines": [
+                "25°58′29″S 32°34′38″E﻿ / ﻿25.9746°S 32.5771°E﻿ / -25.9746; 32.5771"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Pavilh%C3%A3o_do_Maxaquene&amp;params=25.9746_S_32.5771_E_type:landmark_region:MZ\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°58′29″S</span> <span class=\"longitude\">32°34′38″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.9746°S 32.5771°E</span><span>﻿ / <span class=\"geo\">-25.9746; 32.5771</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "25°58′29″S 32°34′38″E﻿ / ﻿25.9746°S 32.5771°E﻿ / -25.9746; 32.5771",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Pavilh%C3%A3o_do_Maxaquene&params=25.9746_S_32.5771_E_type:landmark_region:MZ",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "5,000",
+              "lines": [
+                "5,000"
+              ],
+              "html": "<td class=\"infobox-data\">5,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "2011",
+              "lines": [
+                "2011"
+              ],
+              "html": "<td class=\"infobox-data\">2011</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "C.D. Maxaquene",
+              "lines": [
+                "C.D. Maxaquene"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/C.D._Maxaquene_(basketball)\" title=\"C.D. Maxaquene (basketball)\">C.D. Maxaquene</a></td>",
+              "links": [
+                {
+                  "text": "C.D. Maxaquene",
+                  "title": "C.D. Maxaquene (basketball)",
+                  "wikiTitle": "C.D. Maxaquene (basketball)",
+                  "href": "https://en.wikipedia.org/wiki/C.D._Maxaquene_(basketball)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Pavilhao Millenium Bim Maxaquene"
+          ],
+          "location": [
+            "Maputo, Mozambique"
+          ],
+          "coordinates": [
+            "25°58′29″S 32°34′38″E﻿ / ﻿25.9746°S 32.5771°E﻿ / -25.9746; 32.5771"
+          ],
+          "capacity": [
+            "5,000"
+          ],
+          "opened": [
+            "2011"
+          ],
+          "tenants": [
+            "C.D. Maxaquene"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "5,000"
+        ],
+        "tenants": [
+          "C.D. Maxaquene"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Pavilh%C3%A3o_do_Maxaquene&revid=1335502669&groups=_733d83dcf55b7aebd719b3f8b7ac5b435725922e&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Pavilh%C3%A3o_do_Maxaquene&revid=1335502669&groups=_733d83dcf55b7aebd719b3f8b7ac5b435725922e&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Pavilhão do Maxaquene"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Pavilhão do Maxaquene</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_733d83dcf55b7aebd719b3f8b7ac5b435725922e&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Pavilh%C3%A3o_do_Maxaquene&amp;revid=1335502669&amp;groups=_733d83dcf55b7aebd719b3f8b7ac5b435725922e&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Pavilh%C3%A3o_do_Maxaquene&amp;revid=1335502669&amp;groups=_733d83dcf55b7aebd719b3f8b7ac5b435725922e&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Pavilhão do Maxaquene</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Pavilhao Millenium Bim Maxaquene</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Maputo\" title=\"Maputo\">Maputo</a>, Mozambique</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Pavilh%C3%A3o_do_Maxaquene&amp;params=25.9746_S_32.5771_E_type:landmark_region:MZ\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°58′29″S</span> <span class=\"longitude\">32°34′38″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.9746°S 32.5771°E</span><span>﻿ / <span class=\"geo\">-25.9746; 32.5771</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">5,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">2011</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/C.D._Maxaquene_(basketball)\" title=\"C.D. Maxaquene (basketball)\">C.D. Maxaquene</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Use_dmy_dates_from_January_2026",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_January_2026",
+        "Sports_venues_in_Mozambique",
+        "Buildings_and_structures_in_Maputo",
+        "All_stub_articles",
+        "East_African_sports_venue_stubs",
+        "Mozambican_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Pavilh%C3%A3o_do_Maxaquene&params=25.9746_S_32.5771_E_type:landmark_region:MZ",
+        "https://www.fiba.basketball/pre-oqtwomen/africa/2019/pavilhaomilleniumbimmaxaquene",
+        "https://www.tvm.co.mz/index.php/desporto/modalidades/item/9093-pavilhao-do-maxaquene-acolhe-torneio-internacional-de-basquetebol"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Flag_of_Mozambique.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Pavilh%C3%A3o_do_Maxaquene&revid=1335502669&groups=_733d83dcf55b7aebd719b3f8b7ac5b435725922e&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Pavilh%C3%A3o_do_Maxaquene&revid=1335502669&groups=_733d83dcf55b7aebd719b3f8b7ac5b435725922e&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Pavilhão do Maxaquene"
+        },
+        {
+          "fileTitle": "File:Flag of Mozambique.svg",
+          "fileName": "Flag of Mozambique.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Mozambique.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/40px-Flag_of_Mozambique.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Mozambique.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Mozambique.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/60px-Flag_of_Mozambique.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 43,
+          "rowText": "Mozambique\nMaputo\nPavilhão do Maxaquene\n2011\n5,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Mozambique\" title=\"Mozambique\">Mozambique</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Maputo\" title=\"Maputo\">Maputo</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Pavilh%C3%A3o_do_Maxaquene\" title=\"Pavilhão do Maxaquene\">Pavilhão do Maxaquene</a>\n</td>\n<td align=\"center\">2011\n</td>\n<td align=\"center\">5,000\n</td>\n<td>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 43,
+              "cell": {
+                "text": "Mozambique",
+                "lines": [
+                  "Mozambique"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Mozambique",
+                    "title": "Mozambique",
+                    "wikiTitle": "Mozambique",
+                    "href": "https://en.wikipedia.org/wiki/Mozambique",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 43,
+              "cell": {
+                "text": "Maputo",
+                "lines": [
+                  "Maputo"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Maputo",
+                    "title": "Maputo",
+                    "wikiTitle": "Maputo",
+                    "href": "https://en.wikipedia.org/wiki/Maputo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 43,
+              "cell": {
+                "text": "Pavilhão do Maxaquene",
+                "lines": [
+                  "Pavilhão do Maxaquene"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Pavilhão do Maxaquene",
+                    "title": "Pavilhão do Maxaquene",
+                    "wikiTitle": "Pavilhão do Maxaquene",
+                    "href": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_do_Maxaquene",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 43,
+              "cell": {
+                "text": "2011",
+                "lines": [
+                  "2011"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 43,
+              "cell": {
+                "text": "5,000",
+                "lines": [
+                  "5,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 43,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 43,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Pavilhão do Maxaquene",
+            "lines": [
+              "Pavilhão do Maxaquene"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Pavilhão do Maxaquene",
+                "title": "Pavilhão do Maxaquene",
+                "wikiTitle": "Pavilhão do Maxaquene",
+                "href": "https://en.wikipedia.org/wiki/Pavilh%C3%A3o_do_Maxaquene",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:52:21.794Z"
+    }
+  ]
+}

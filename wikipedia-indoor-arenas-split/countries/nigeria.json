@@ -1,0 +1,4057 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Nigeria",
+  "coverage": {
+    "mode": "inferred_from_infobox_or_other_lists",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 0
+  },
+  "stats": {
+    "arenaCount": 4,
+    "sourceRowCount": 4,
+    "mediaRecordCount": 50,
+    "sourceTypeCounts": {
+      "country_or_region_list": 4
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-4031724",
+      "pageId": 4031724,
+      "revisionId": null,
+      "title": "Ahmadu Bello Stadium",
+      "displayTitle": "Ahmadu Bello Stadium",
+      "url": "https://en.wikipedia.org/wiki/Ahmadu_Bello_Stadium",
+      "wikidataItem": "Q401013",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q401013",
+      "aliases": [
+        "Ahmadu Bello Stadium"
+      ],
+      "requestedTitles": [
+        "Ahmadu Bello Stadium"
+      ],
+      "sourceLinkTexts": [
+        "Ahmadu Bello Stadium"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Ahmadu_Bello_Stadium"
+      ],
+      "sourcePages": [
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 10.4975,
+        "longitude": 7.38167,
+        "raw": "10.49750; 7.38167"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Ahmadu Bello Stadium",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Kaduna",
+            "lines": [
+              "Kaduna"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Kaduna_(city)\" class=\"mw-redirect\" title=\"Kaduna (city)\">Kaduna</a></td>",
+            "links": [
+              {
+                "text": "Kaduna",
+                "title": "Kaduna (city)",
+                "wikiTitle": "Kaduna (city)",
+                "href": "https://en.wikipedia.org/wiki/Kaduna_(city)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "10°29′51″N 7°22′54″E﻿ / ﻿10.49750°N 7.38167°E﻿ / 10.49750; 7.38167",
+            "lines": [
+              "10°29′51″N 7°22′54″E﻿ / ﻿10.49750°N 7.38167°E﻿ / 10.49750; 7.38167"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Ahmadu_Bello_Stadium&amp;params=10_29_51_N_7_22_54_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">10°29′51″N</span> <span class=\"longitude\">7°22′54″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">10.49750°N 7.38167°E</span><span>﻿ / <span class=\"geo\">10.49750; 7.38167</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "10°29′51″N 7°22′54″E﻿ / ﻿10.49750°N 7.38167°E﻿ / 10.49750; 7.38167",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Ahmadu_Bello_Stadium&params=10_29_51_N_7_22_54_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "16,000",
+            "lines": [
+              "16,000"
+            ],
+            "html": "<td class=\"infobox-data\">16,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "1965",
+            "lines": [
+              "1965"
+            ],
+            "html": "<td class=\"infobox-data\">1965</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1965",
+            "lines": [
+              "1965"
+            ],
+            "html": "<td class=\"infobox-data\">1965</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Jane Drew and Maxwell Fry",
+            "lines": [
+              "Jane Drew and Maxwell Fry"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Jane_Drew\" title=\"Jane Drew\">Jane Drew</a> and <a href=\"https://en.wikipedia.org/wiki/Maxwell_Fry\" title=\"Maxwell Fry\">Maxwell Fry</a></td>",
+            "links": [
+              {
+                "text": "Jane Drew",
+                "title": "Jane Drew",
+                "wikiTitle": "Jane Drew",
+                "href": "https://en.wikipedia.org/wiki/Jane_Drew",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Maxwell Fry",
+                "title": "Maxwell Fry",
+                "wikiTitle": "Maxwell Fry",
+                "href": "https://en.wikipedia.org/wiki/Maxwell_Fry",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Kaduna United F.C.",
+            "lines": [
+              "Kaduna United F.C."
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Kaduna_United_F.C.\" title=\"Kaduna United F.C.\">Kaduna United F.C.</a></td>",
+            "links": [
+              {
+                "text": "Kaduna United F.C.",
+                "title": "Kaduna United F.C.",
+                "wikiTitle": "Kaduna United F.C.",
+                "href": "https://en.wikipedia.org/wiki/Kaduna_United_F.C.",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Kaduna",
+              "lines": [
+                "Kaduna"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Kaduna_(city)\" class=\"mw-redirect\" title=\"Kaduna (city)\">Kaduna</a></td>",
+              "links": [
+                {
+                  "text": "Kaduna",
+                  "title": "Kaduna (city)",
+                  "wikiTitle": "Kaduna (city)",
+                  "href": "https://en.wikipedia.org/wiki/Kaduna_(city)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "10°29′51″N 7°22′54″E﻿ / ﻿10.49750°N 7.38167°E﻿ / 10.49750; 7.38167",
+              "lines": [
+                "10°29′51″N 7°22′54″E﻿ / ﻿10.49750°N 7.38167°E﻿ / 10.49750; 7.38167"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Ahmadu_Bello_Stadium&amp;params=10_29_51_N_7_22_54_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">10°29′51″N</span> <span class=\"longitude\">7°22′54″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">10.49750°N 7.38167°E</span><span>﻿ / <span class=\"geo\">10.49750; 7.38167</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "10°29′51″N 7°22′54″E﻿ / ﻿10.49750°N 7.38167°E﻿ / 10.49750; 7.38167",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Ahmadu_Bello_Stadium&params=10_29_51_N_7_22_54_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "16,000",
+              "lines": [
+                "16,000"
+              ],
+              "html": "<td class=\"infobox-data\">16,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "1965",
+              "lines": [
+                "1965"
+              ],
+              "html": "<td class=\"infobox-data\">1965</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1965",
+              "lines": [
+                "1965"
+              ],
+              "html": "<td class=\"infobox-data\">1965</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Jane Drew and Maxwell Fry",
+              "lines": [
+                "Jane Drew and Maxwell Fry"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Jane_Drew\" title=\"Jane Drew\">Jane Drew</a> and <a href=\"https://en.wikipedia.org/wiki/Maxwell_Fry\" title=\"Maxwell Fry\">Maxwell Fry</a></td>",
+              "links": [
+                {
+                  "text": "Jane Drew",
+                  "title": "Jane Drew",
+                  "wikiTitle": "Jane Drew",
+                  "href": "https://en.wikipedia.org/wiki/Jane_Drew",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Maxwell Fry",
+                  "title": "Maxwell Fry",
+                  "wikiTitle": "Maxwell Fry",
+                  "href": "https://en.wikipedia.org/wiki/Maxwell_Fry",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Kaduna United F.C.",
+              "lines": [
+                "Kaduna United F.C."
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Kaduna_United_F.C.\" title=\"Kaduna United F.C.\">Kaduna United F.C.</a></td>",
+              "links": [
+                {
+                  "text": "Kaduna United F.C.",
+                  "title": "Kaduna United F.C.",
+                  "wikiTitle": "Kaduna United F.C.",
+                  "href": "https://en.wikipedia.org/wiki/Kaduna_United_F.C.",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Kaduna"
+          ],
+          "coordinates": [
+            "10°29′51″N 7°22′54″E﻿ / ﻿10.49750°N 7.38167°E﻿ / 10.49750; 7.38167"
+          ],
+          "capacity": [
+            "16,000"
+          ],
+          "built": [
+            "1965"
+          ],
+          "opened": [
+            "1965"
+          ],
+          "architect": [
+            "Jane Drew and Maxwell Fry"
+          ],
+          "tenants": [
+            "Kaduna United F.C."
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "16,000"
+        ],
+        "tenants": [
+          "Kaduna United F.C."
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Ahmadu Bello Stadium Kaduna Entrance Path.jpg",
+            "fileName": "Ahmadu Bello Stadium Kaduna Entrance Path.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg/250px-Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg/500px-Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 188,
+            "originalWidth": 4160,
+            "originalHeight": 3120,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Ahmadu_Bello_Stadium&revid=1360377246&groups=_a0138482e4a457d29c7916bdbcdc72aada37c89e&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Ahmadu_Bello_Stadium&revid=1360377246&groups=_a0138482e4a457d29c7916bdbcdc72aada37c89e&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Ahmadu Bello Stadium"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Ahmadu Bello Stadium</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span><a href=\"https://en.wikipedia.org/wiki/File:Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg/250px-Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg\" width=\"250\" height=\"188\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg/500px-Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg 2x\" data-file-width=\"4160\" data-file-height=\"3120\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_a0138482e4a457d29c7916bdbcdc72aada37c89e&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Ahmadu_Bello_Stadium&amp;revid=1360377246&amp;groups=_a0138482e4a457d29c7916bdbcdc72aada37c89e&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Ahmadu_Bello_Stadium&amp;revid=1360377246&amp;groups=_a0138482e4a457d29c7916bdbcdc72aada37c89e&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Ahmadu Bello Stadium</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Kaduna_(city)\" class=\"mw-redirect\" title=\"Kaduna (city)\">Kaduna</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Ahmadu_Bello_Stadium&amp;params=10_29_51_N_7_22_54_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">10°29′51″N</span> <span class=\"longitude\">7°22′54″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">10.49750°N 7.38167°E</span><span>﻿ / <span class=\"geo\">10.49750; 7.38167</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">16,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">1965</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1965</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Jane_Drew\" title=\"Jane Drew\">Jane Drew</a> and <a href=\"https://en.wikipedia.org/wiki/Maxwell_Fry\" title=\"Maxwell Fry\">Maxwell Fry</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Kaduna_United_F.C.\" title=\"Kaduna United F.C.\">Kaduna United F.C.</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Use_dmy_dates_from_June_2026",
+        "Use_Nigerian_English_from_June_2026",
+        "All_Wikipedia_articles_written_in_Nigerian_English",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Buildings_and_structures_in_Kaduna",
+        "Football_venues_in_Nigeria",
+        "Sports_venues_in_Nigeria",
+        "All_stub_articles",
+        "West_African_sports_venue_stubs",
+        "Nigerian_building_and_structure_stubs",
+        "Nigerian_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Ahmadu_Bello_Stadium&params=10_29_51_N_7_22_54_E_type:landmark",
+        "https://www.theguardian.com/football/2016/mar/25/diaster-avoided-nigeria-egypt"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Notable football events",
+          "anchor": "Notable_football_events"
+        },
+        {
+          "index": "2",
+          "level": 3,
+          "line": "1998 African Women's Championship",
+          "anchor": "1998_African_Women's_Championship"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "1999 FIFA World Youth Championship",
+          "anchor": "1999_FIFA_World_Youth_Championship"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "2009 FIFA U-17 World Cup",
+          "anchor": "2009_FIFA_U-17_World_Cup"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg",
+        "Nigerian_Public_Domain_719.jpg",
+        "Flag_of_Nigeria.svg",
+        "Flag_of_Morocco.svg",
+        "Flag_of_the_Democratic_Republic_of_the_Congo_(1997–2006).svg",
+        "Flag_of_Egypt.svg",
+        "Flag_of_Cameroon.svg",
+        "Flag_of_Ghana.svg",
+        "Flag_of_Croatia.svg",
+        "Flag_of_Argentina.svg",
+        "Flag_of_Kazakhstan.svg",
+        "Flag_of_Costa_Rica.svg",
+        "Flag_of_Spain.svg",
+        "Flag_of_Mali.svg",
+        "Flag_of_Uruguay.svg",
+        "Flag_of_South_Korea.svg",
+        "Flag_of_Algeria.svg",
+        "Flag_of_Italy.svg",
+        "Flag_of_the_United_States.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Ahmadu Bello Stadium Kaduna Entrance Path.jpg",
+          "fileName": "Ahmadu Bello Stadium Kaduna Entrance Path.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg/250px-Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg/500px-Ahmadu_Bello_Stadium_Kaduna_Entrance_Path.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 4160,
+          "originalHeight": 3120,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Ahmadu_Bello_Stadium&revid=1360377246&groups=_a0138482e4a457d29c7916bdbcdc72aada37c89e&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Ahmadu_Bello_Stadium&revid=1360377246&groups=_a0138482e4a457d29c7916bdbcdc72aada37c89e&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Ahmadu Bello Stadium"
+        },
+        {
+          "fileTitle": "File:Nigerian Public Domain 719.jpg",
+          "fileName": "Nigerian Public Domain 719.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Nigerian_Public_Domain_719.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Nigerian_Public_Domain_719.jpg/250px-Nigerian_Public_Domain_719.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Nigerian_Public_Domain_719.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Nigerian_Public_Domain_719.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Nigerian_Public_Domain_719.jpg/500px-Nigerian_Public_Domain_719.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 147,
+          "originalWidth": 1045,
+          "originalHeight": 615,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Ahmadu Bello Stadium during the opening ceremony."
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/40px-Flag_of_Nigeria.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/60px-Flag_of_Nigeria.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/40px-Flag_of_Morocco.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/60px-Flag_of_Morocco.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_the_Democratic_Republic_of_the_Congo_%281997%E2%80%932006%29.svg/40px-Flag_of_the_Democratic_Republic_of_the_Congo_%281997%E2%80%932006%29.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_the_Democratic_Republic_of_the_Congo_%281997%E2%80%932006%29.svg/60px-Flag_of_the_Democratic_Republic_of_the_Congo_%281997%E2%80%932006%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/40px-Flag_of_Egypt.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/60px-Flag_of_Egypt.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/40px-Flag_of_Cameroon.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/60px-Flag_of_Cameroon.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/40px-Flag_of_Ghana.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/60px-Flag_of_Ghana.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/40px-Flag_of_Croatia.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/60px-Flag_of_Croatia.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/40px-Flag_of_Argentina.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/60px-Flag_of_Argentina.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 14,
+          "originalWidth": 800,
+          "originalHeight": 500,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/40px-Flag_of_Kazakhstan.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/60px-Flag_of_Kazakhstan.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1000,
+          "originalHeight": 500,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/40px-Flag_of_Costa_Rica.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/60px-Flag_of_Costa_Rica.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 14,
+          "originalWidth": 1000,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/40px-Flag_of_Spain.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/60px-Flag_of_Spain.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 750,
+          "originalHeight": 500,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/40px-Flag_of_Mali.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/60px-Flag_of_Mali.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/40px-Flag_of_Uruguay.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/60px-Flag_of_Uruguay.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 512,
+          "originalHeight": 341,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/40px-Flag_of_South_Korea.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/60px-Flag_of_South_Korea.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/40px-Flag_of_Algeria.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/60px-Flag_of_Algeria.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/40px-Flag_of_Italy.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/60px-Flag_of_Italy.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 1500,
+          "originalHeight": 1000,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/60px-Flag_of_the_United_States.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1235,
+          "originalHeight": 650,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 49,
+          "rowText": "Kaduna\nAhmadu Bello Stadium\n1965",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Kaduna_(city)\" class=\"mw-redirect\" title=\"Kaduna (city)\">Kaduna</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Ahmadu_Bello_Stadium\" title=\"Ahmadu Bello Stadium\">Ahmadu Bello Stadium</a>\n</td>\n<td align=\"center\">1965\n</td>\n<td align=\"center\">\n</td>\n<td>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 46,
+              "cell": {
+                "text": "Nigeria",
+                "lines": [
+                  "Nigeria"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Nigeria",
+                    "title": "Nigeria",
+                    "wikiTitle": "Nigeria",
+                    "href": "https://en.wikipedia.org/wiki/Nigeria",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 49,
+              "cell": {
+                "text": "Kaduna",
+                "lines": [
+                  "Kaduna"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Kaduna",
+                    "title": "Kaduna (city)",
+                    "wikiTitle": "Kaduna (city)",
+                    "href": "https://en.wikipedia.org/wiki/Kaduna_(city)",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 49,
+              "cell": {
+                "text": "Ahmadu Bello Stadium",
+                "lines": [
+                  "Ahmadu Bello Stadium"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ahmadu Bello Stadium",
+                    "title": "Ahmadu Bello Stadium",
+                    "wikiTitle": "Ahmadu Bello Stadium",
+                    "href": "https://en.wikipedia.org/wiki/Ahmadu_Bello_Stadium",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 49,
+              "cell": {
+                "text": "1965",
+                "lines": [
+                  "1965"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 49,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 49,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 49,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Ahmadu Bello Stadium",
+            "lines": [
+              "Ahmadu Bello Stadium"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Ahmadu Bello Stadium",
+                "title": "Ahmadu Bello Stadium",
+                "wikiTitle": "Ahmadu Bello Stadium",
+                "href": "https://en.wikipedia.org/wiki/Ahmadu_Bello_Stadium",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:52:22.507Z"
+    },
+    {
+      "id": "wikipedia-page-77744691",
+      "pageId": 77744691,
+      "revisionId": null,
+      "title": "Edo Arena",
+      "displayTitle": "Edo Arena",
+      "url": "https://en.wikipedia.org/wiki/Edo_Arena",
+      "wikidataItem": "Q130289002",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q130289002",
+      "aliases": [
+        "Edo Arena"
+      ],
+      "requestedTitles": [
+        "Edo Arena"
+      ],
+      "sourceLinkTexts": [
+        "Edo Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Edo_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": null,
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Edo Arena",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "Former Garrick Memorial School Ground, Ekehuan Road\nBenin City\nNigeria",
+            "lines": [
+              "Former Garrick Memorial School Ground, Ekehuan Road",
+              "Benin City",
+              "Nigeria"
+            ],
+            "html": "<td class=\"infobox-data label\">Former Garrick Memorial School Ground, Ekehuan Road<br><a href=\"https://en.wikipedia.org/wiki/Benin_City\" title=\"Benin City\">Benin City</a><br>Nigeria<span data-plural=\"1\"></span></td>",
+            "links": [
+              {
+                "text": "Benin City",
+                "title": "Benin City",
+                "wikiTitle": "Benin City",
+                "href": "https://en.wikipedia.org/wiki/Benin_City",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "6,000",
+            "lines": [
+              "6,000"
+            ],
+            "html": "<td class=\"infobox-data\">6,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "28 August 2024",
+            "lines": [
+              "28 August 2024"
+            ],
+            "html": "<td class=\"infobox-data\">28 August 2024</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "2025",
+            "lines": [
+              "2025"
+            ],
+            "html": "<td class=\"infobox-data\">2025</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "Former Garrick Memorial School Ground, Ekehuan Road\nBenin City\nNigeria",
+              "lines": [
+                "Former Garrick Memorial School Ground, Ekehuan Road",
+                "Benin City",
+                "Nigeria"
+              ],
+              "html": "<td class=\"infobox-data label\">Former Garrick Memorial School Ground, Ekehuan Road<br><a href=\"https://en.wikipedia.org/wiki/Benin_City\" title=\"Benin City\">Benin City</a><br>Nigeria<span data-plural=\"1\"></span></td>",
+              "links": [
+                {
+                  "text": "Benin City",
+                  "title": "Benin City",
+                  "wikiTitle": "Benin City",
+                  "href": "https://en.wikipedia.org/wiki/Benin_City",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "6,000",
+              "lines": [
+                "6,000"
+              ],
+              "html": "<td class=\"infobox-data\">6,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "28 August 2024",
+              "lines": [
+                "28 August 2024"
+              ],
+              "html": "<td class=\"infobox-data\">28 August 2024</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "2025",
+              "lines": [
+                "2025"
+              ],
+              "html": "<td class=\"infobox-data\">2025</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "address": [
+            "Former Garrick Memorial School Ground, Ekehuan Road\nBenin City\nNigeria"
+          ],
+          "capacity": [
+            "6,000"
+          ],
+          "groundbreaking": [
+            "28 August 2024"
+          ],
+          "opened": [
+            "2025"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "6,000"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Edo_Arena&revid=1345147333&groups=_96ca3d007c1cb184f47edb354373a36ef444dc0f&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Edo_Arena&revid=1345147333&groups=_96ca3d007c1cb184f47edb354373a36ef444dc0f&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Edo Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Edo Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\">Rema's Dome</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_96ca3d007c1cb184f47edb354373a36ef444dc0f&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Edo_Arena&amp;revid=1345147333&amp;groups=_96ca3d007c1cb184f47edb354373a36ef444dc0f&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Edo_Arena&amp;revid=1345147333&amp;groups=_96ca3d007c1cb184f47edb354373a36ef444dc0f&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Edo Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\">Former Garrick Memorial School Ground, Ekehuan Road<br><a href=\"https://en.wikipedia.org/wiki/Benin_City\" title=\"Benin City\">Benin City</a><br>Nigeria<span data-plural=\"1\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">6,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">28 August 2024</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">2025</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Nigeria_articles_missing_geocoordinate_data",
+        "All_articles_needing_coordinates",
+        "Articles_missing_coordinates_with_coordinates_on_Wikidata",
+        "Proposed_indoor_arenas",
+        "Indoor_arenas_under_construction",
+        "Sports_venues_in_Nigeria",
+        "Benin_City",
+        "Sport_in_Edo_State",
+        "Indoor_arenas_in_Nigeria",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://www.thisdaylive.com/index.php/2024/08/29/obaseki-rema-perform-groundbreaking-for-6000-capacity-edo-arena/",
+        "https://www.vanguardngr.com/2024/08/obaseki-to-name-edo-arena-after-rema/",
+        "https://dailypost.ng/2024/08/29/gov-obaseki-names-edo-arena-after-rema/",
+        "https://tribuneonlineng.com/why-i-named-edo-arena-after-rema-obaseki/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Edo_Arena&revid=1345147333&groups=_96ca3d007c1cb184f47edb354373a36ef444dc0f&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Edo_Arena&revid=1345147333&groups=_96ca3d007c1cb184f47edb354373a36ef444dc0f&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Edo Arena"
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Future arenas"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 5,
+          "rowText": "Benin City\nEdo Arena\n2024\n6,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Benin_City\" title=\"Benin City\">Benin City</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Edo_Arena\" title=\"Edo Arena\">Edo Arena</a>\n</td>\n<td align=\"center\">2024\n</td>\n<td align=\"center\">6,000\n</td>\n<td align=\"center\">\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "Nigeria",
+                "lines": [
+                  "Nigeria"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Nigeria",
+                    "title": "Nigeria",
+                    "wikiTitle": "Nigeria",
+                    "href": "https://en.wikipedia.org/wiki/Nigeria",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 5,
+              "cell": {
+                "text": "Benin City",
+                "lines": [
+                  "Benin City"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Benin City",
+                    "title": "Benin City",
+                    "wikiTitle": "Benin City",
+                    "href": "https://en.wikipedia.org/wiki/Benin_City",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 5,
+              "cell": {
+                "text": "Edo Arena",
+                "lines": [
+                  "Edo Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Edo Arena",
+                    "title": "Edo Arena",
+                    "wikiTitle": "Edo Arena",
+                    "href": "https://en.wikipedia.org/wiki/Edo_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Broke ground",
+              "headerKey": "broke_ground",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 5,
+              "cell": {
+                "text": "2024",
+                "lines": [
+                  "2024"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 5,
+              "cell": {
+                "text": "6,000",
+                "lines": [
+                  "6,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 5,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 5,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Edo Arena",
+            "lines": [
+              "Edo Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Edo Arena",
+                "title": "Edo Arena",
+                "wikiTitle": "Edo Arena",
+                "href": "https://en.wikipedia.org/wiki/Edo_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:52:23.22Z"
+    },
+    {
+      "id": "wikipedia-page-76408341",
+      "pageId": 76408341,
+      "revisionId": null,
+      "title": "Lagos Arena",
+      "displayTitle": "Lagos Arena",
+      "url": "https://en.wikipedia.org/wiki/Lagos_Arena",
+      "wikidataItem": "Q125315008",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q125315008",
+      "aliases": [
+        "Lagos Arena"
+      ],
+      "requestedTitles": [
+        "Lagos Arena"
+      ],
+      "sourceLinkTexts": [
+        "Lagos Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Lagos_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": null,
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Lagos Arena",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "Palms Mall, 1 Bisway Street, Maroko\nLekki, Lagos State\nNigeria",
+            "lines": [
+              "Palms Mall, 1 Bisway Street, Maroko",
+              "Lekki, Lagos State",
+              "Nigeria"
+            ],
+            "html": "<td class=\"infobox-data label\">Palms Mall, 1 Bisway Street, Maroko<br><a href=\"https://en.wikipedia.org/wiki/Lekki\" title=\"Lekki\">Lekki</a>, <a href=\"https://en.wikipedia.org/wiki/Lagos_State\" title=\"Lagos State\">Lagos State</a><br>Nigeria<span data-plural=\"1\"></span></td>",
+            "links": [
+              {
+                "text": "Lekki",
+                "title": "Lekki",
+                "wikiTitle": "Lekki",
+                "href": "https://en.wikipedia.org/wiki/Lekki",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Lagos State",
+                "title": "Lagos State",
+                "wikiTitle": "Lagos State",
+                "href": "https://en.wikipedia.org/wiki/Lagos_State",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Tayo Amusan’s Persianas Group and Nigeria Sovereign Investment Authority (40.5%)",
+            "lines": [
+              "Tayo Amusan’s Persianas Group and Nigeria Sovereign Investment Authority (40.5%)"
+            ],
+            "html": "<td class=\"infobox-data agent\">Tayo Amusan’s Persianas Group and <a href=\"https://en.wikipedia.org/wiki/Nigeria_Sovereign_Investment_Authority\" title=\"Nigeria Sovereign Investment Authority\">Nigeria Sovereign Investment Authority</a> (40.5%)</td>",
+            "links": [
+              {
+                "text": "Nigeria Sovereign Investment Authority",
+                "title": "Nigeria Sovereign Investment Authority",
+                "wikiTitle": "Nigeria Sovereign Investment Authority",
+                "href": "https://en.wikipedia.org/wiki/Nigeria_Sovereign_Investment_Authority",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "12,000",
+            "lines": [
+              "12,000"
+            ],
+            "html": "<td class=\"infobox-data\">12,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Field size",
+            "key": "field_size",
+            "group": null,
+            "text": "25,250 m2",
+            "lines": [
+              "25,250 m2"
+            ],
+            "html": "<td class=\"infobox-data\">25,250 m2</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "24 February 2024",
+            "lines": [
+              "24 February 2024"
+            ],
+            "html": "<td class=\"infobox-data\">24 February 2024</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "December 2027 (proposed)",
+            "lines": [
+              "December 2027 (proposed)"
+            ],
+            "html": "<td class=\"infobox-data\">December 2027 (proposed)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Yazgan Design Architecture",
+            "lines": [
+              "Yazgan Design Architecture"
+            ],
+            "html": "<td class=\"infobox-data\">Yazgan Design Architecture</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "Palms Mall, 1 Bisway Street, Maroko\nLekki, Lagos State\nNigeria",
+              "lines": [
+                "Palms Mall, 1 Bisway Street, Maroko",
+                "Lekki, Lagos State",
+                "Nigeria"
+              ],
+              "html": "<td class=\"infobox-data label\">Palms Mall, 1 Bisway Street, Maroko<br><a href=\"https://en.wikipedia.org/wiki/Lekki\" title=\"Lekki\">Lekki</a>, <a href=\"https://en.wikipedia.org/wiki/Lagos_State\" title=\"Lagos State\">Lagos State</a><br>Nigeria<span data-plural=\"1\"></span></td>",
+              "links": [
+                {
+                  "text": "Lekki",
+                  "title": "Lekki",
+                  "wikiTitle": "Lekki",
+                  "href": "https://en.wikipedia.org/wiki/Lekki",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Lagos State",
+                  "title": "Lagos State",
+                  "wikiTitle": "Lagos State",
+                  "href": "https://en.wikipedia.org/wiki/Lagos_State",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Tayo Amusan’s Persianas Group and Nigeria Sovereign Investment Authority (40.5%)",
+              "lines": [
+                "Tayo Amusan’s Persianas Group and Nigeria Sovereign Investment Authority (40.5%)"
+              ],
+              "html": "<td class=\"infobox-data agent\">Tayo Amusan’s Persianas Group and <a href=\"https://en.wikipedia.org/wiki/Nigeria_Sovereign_Investment_Authority\" title=\"Nigeria Sovereign Investment Authority\">Nigeria Sovereign Investment Authority</a> (40.5%)</td>",
+              "links": [
+                {
+                  "text": "Nigeria Sovereign Investment Authority",
+                  "title": "Nigeria Sovereign Investment Authority",
+                  "wikiTitle": "Nigeria Sovereign Investment Authority",
+                  "href": "https://en.wikipedia.org/wiki/Nigeria_Sovereign_Investment_Authority",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "12,000",
+              "lines": [
+                "12,000"
+              ],
+              "html": "<td class=\"infobox-data\">12,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "field_size": [
+            {
+              "label": "Field size",
+              "key": "field_size",
+              "group": null,
+              "text": "25,250 m2",
+              "lines": [
+                "25,250 m2"
+              ],
+              "html": "<td class=\"infobox-data\">25,250 m2</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "24 February 2024",
+              "lines": [
+                "24 February 2024"
+              ],
+              "html": "<td class=\"infobox-data\">24 February 2024</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "December 2027 (proposed)",
+              "lines": [
+                "December 2027 (proposed)"
+              ],
+              "html": "<td class=\"infobox-data\">December 2027 (proposed)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Yazgan Design Architecture",
+              "lines": [
+                "Yazgan Design Architecture"
+              ],
+              "html": "<td class=\"infobox-data\">Yazgan Design Architecture</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "address": [
+            "Palms Mall, 1 Bisway Street, Maroko\nLekki, Lagos State\nNigeria"
+          ],
+          "owner": [
+            "Tayo Amusan’s Persianas Group and Nigeria Sovereign Investment Authority (40.5%)"
+          ],
+          "capacity": [
+            "12,000"
+          ],
+          "field_size": [
+            "25,250 m2"
+          ],
+          "groundbreaking": [
+            "24 February 2024"
+          ],
+          "opened": [
+            "December 2027 (proposed)"
+          ],
+          "architect": [
+            "Yazgan Design Architecture"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "12,000"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Lagos_Arena&revid=1340023014&groups=_86fda7cc4fce2bd4fc1efa919f848385f3f47109&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Lagos_Arena&revid=1340023014&groups=_86fda7cc4fce2bd4fc1efa919f848385f3f47109&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Lagos Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Lagos Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_86fda7cc4fce2bd4fc1efa919f848385f3f47109&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Lagos_Arena&amp;revid=1340023014&amp;groups=_86fda7cc4fce2bd4fc1efa919f848385f3f47109&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Lagos_Arena&amp;revid=1340023014&amp;groups=_86fda7cc4fce2bd4fc1efa919f848385f3f47109&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Lagos Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\">Palms Mall, 1 Bisway Street, Maroko<br><a href=\"https://en.wikipedia.org/wiki/Lekki\" title=\"Lekki\">Lekki</a>, <a href=\"https://en.wikipedia.org/wiki/Lagos_State\" title=\"Lagos State\">Lagos State</a><br>Nigeria<span data-plural=\"1\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Tayo Amusan’s Persianas Group and <a href=\"https://en.wikipedia.org/wiki/Nigeria_Sovereign_Investment_Authority\" title=\"Nigeria Sovereign Investment Authority\">Nigeria Sovereign Investment Authority</a> (40.5%)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">12,000</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Field size</div></th><td class=\"infobox-data\">25,250 m2</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">24 February 2024</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">December 2027 (proposed)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\">Yazgan Design Architecture</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Use_dmy_dates_from_March_2024",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Nigeria_articles_missing_geocoordinate_data",
+        "All_articles_needing_coordinates",
+        "Articles_missing_coordinates_with_coordinates_on_Wikidata",
+        "Indoor_arenas_under_construction",
+        "Lekki",
+        "Sports_venues_in_Nigeria",
+        "Proposed_indoor_arenas",
+        "Indoor_arenas_in_Nigeria",
+        "All_stub_articles",
+        "Basketball_stubs",
+        "West_African_sports_venue_stubs",
+        "Nigerian_building_and_structure_stubs",
+        "Nigerian_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://www.livenationentertainment.com/2024/02/africas-first-purpose-built-entertainment-arena-set-to-open-in-lagos-nigeria/",
+        "https://worldarchitecture.org/architecture-projects/hvgcz/lagos-arena-project-pages.html",
+        "https://theafricanmirror.africa/news/new-lagos-arena-marks-growing-investment-in-sports-and-entertainment-sectors/",
+        "https://lagosarenaguide.com/blog/lagos-arena-misses-december-2025-opening-date-a-long-way-from-completion/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Basketball_stub.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Lagos_Arena&revid=1340023014&groups=_86fda7cc4fce2bd4fc1efa919f848385f3f47109&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Lagos_Arena&revid=1340023014&groups=_86fda7cc4fce2bd4fc1efa919f848385f3f47109&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Lagos Arena"
+        },
+        {
+          "fileTitle": "File:Basketball stub.svg",
+          "fileName": "Basketball stub.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Basketball_stub.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Basketball_stub.svg/40px-Basketball_stub.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Basketball_stub.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Basketball_stub.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Basketball_stub.svg/120px-Basketball_stub.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 35,
+          "height": 35,
+          "originalWidth": 48,
+          "originalHeight": 48,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Future arenas"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 4,
+          "rowText": "Nigeria\nLagos\nLagos Arena\n2024\n12,000",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Nigeria\" title=\"Nigeria\">Nigeria</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Lagos\" title=\"Lagos\">Lagos</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Lagos_Arena\" title=\"Lagos Arena\">Lagos Arena</a>\n</td>\n<td align=\"center\">2024\n</td>\n<td align=\"center\">12,000\n</td>\n<td align=\"center\">\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "Nigeria",
+                "lines": [
+                  "Nigeria"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Nigeria",
+                    "title": "Nigeria",
+                    "wikiTitle": "Nigeria",
+                    "href": "https://en.wikipedia.org/wiki/Nigeria",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "Lagos",
+                "lines": [
+                  "Lagos"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Lagos",
+                    "title": "Lagos",
+                    "wikiTitle": "Lagos",
+                    "href": "https://en.wikipedia.org/wiki/Lagos",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "Lagos Arena",
+                "lines": [
+                  "Lagos Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Lagos Arena",
+                    "title": "Lagos Arena",
+                    "wikiTitle": "Lagos Arena",
+                    "href": "https://en.wikipedia.org/wiki/Lagos_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Broke ground",
+              "headerKey": "broke_ground",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "2024",
+                "lines": [
+                  "2024"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "12,000",
+                "lines": [
+                  "12,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Lagos Arena",
+            "lines": [
+              "Lagos Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Lagos Arena",
+                "title": "Lagos Arena",
+                "wikiTitle": "Lagos Arena",
+                "href": "https://en.wikipedia.org/wiki/Lagos_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:52:23.502Z"
+    },
+    {
+      "id": "wikipedia-page-3035724",
+      "pageId": 3035724,
+      "revisionId": null,
+      "title": "National Stadium, Lagos",
+      "displayTitle": "National Stadium, Lagos",
+      "url": "https://en.wikipedia.org/wiki/National_Stadium,_Lagos",
+      "wikidataItem": "Q1604665",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q1604665",
+      "aliases": [
+        "National Stadium, Lagos",
+        "National Stadium Indoor Hall",
+        "Surulere Stadium"
+      ],
+      "requestedTitles": [
+        "National Stadium, Lagos"
+      ],
+      "sourceLinkTexts": [
+        "National Stadium Indoor Hall"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/National_Stadium,_Lagos"
+      ],
+      "sourcePages": [
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 6.49694,
+        "longitude": 3.36472,
+        "raw": "6.49694; 3.36472"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "National Stadium, Lagos",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "National Stadium",
+            "lines": [
+              "National Stadium"
+            ],
+            "html": "<td class=\"infobox-data\">National Stadium</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Former names",
+            "key": "former_names",
+            "group": null,
+            "text": "Surulere Stadium",
+            "lines": [
+              "Surulere Stadium"
+            ],
+            "html": "<td class=\"infobox-data nickname\">Surulere Stadium</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Surulere, Lagos",
+            "lines": [
+              "Surulere, Lagos"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Surulere\" title=\"Surulere\">Surulere</a>, <a href=\"https://en.wikipedia.org/wiki/Lagos\" title=\"Lagos\">Lagos</a></td>",
+            "links": [
+              {
+                "text": "Surulere",
+                "title": "Surulere",
+                "wikiTitle": "Surulere",
+                "href": "https://en.wikipedia.org/wiki/Surulere",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Lagos",
+                "title": "Lagos",
+                "wikiTitle": "Lagos",
+                "href": "https://en.wikipedia.org/wiki/Lagos",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Nigerian government",
+            "lines": [
+              "Nigerian government"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Federal_government_of_Nigeria\" class=\"mw-redirect\" title=\"Federal government of Nigeria\">Nigerian government</a></td>",
+            "links": [
+              {
+                "text": "Nigerian government",
+                "title": "Federal government of Nigeria",
+                "wikiTitle": "Federal government of Nigeria",
+                "href": "https://en.wikipedia.org/wiki/Federal_government_of_Nigeria",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "55,000 (1972)\n45,000 (1999)",
+            "lines": [
+              "55,000 (1972)",
+              "45,000 (1999)"
+            ],
+            "html": "<td class=\"infobox-data\">55,000 (1972)<br>45,000 (1999)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Surface",
+            "key": "surface",
+            "group": null,
+            "text": "Grass",
+            "lines": [
+              "Grass"
+            ],
+            "html": "<td class=\"infobox-data\">Grass</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Record attendance",
+            "key": "record_attendance",
+            "group": null,
+            "text": "85,000",
+            "lines": [
+              "85,000"
+            ],
+            "html": "<td class=\"infobox-data\">85,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "1961",
+            "lines": [
+              "1961"
+            ],
+            "html": "<td class=\"infobox-data\">1961</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1961",
+            "lines": [
+              "1961"
+            ],
+            "html": "<td class=\"infobox-data\">1961</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "1972, 2024",
+            "lines": [
+              "1972, 2024"
+            ],
+            "html": "<td class=\"infobox-data\">1972, 2024</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Expanded",
+            "key": "expanded",
+            "group": "Construction",
+            "text": "1972",
+            "lines": [
+              "1972"
+            ],
+            "html": "<td class=\"infobox-data\">1972</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Isaac Fola-Alade",
+            "lines": [
+              "Isaac Fola-Alade"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Isaac_Fola-Alade\" title=\"Isaac Fola-Alade\">Isaac Fola-Alade</a></td>",
+            "links": [
+              {
+                "text": "Isaac Fola-Alade",
+                "title": "Isaac Fola-Alade",
+                "wikiTitle": "Isaac Fola-Alade",
+                "href": "https://en.wikipedia.org/wiki/Isaac_Fola-Alade",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Project manager",
+            "key": "project_manager",
+            "group": "Construction",
+            "text": "Albino Luigino Davanzo",
+            "lines": [
+              "Albino Luigino Davanzo"
+            ],
+            "html": "<td class=\"infobox-data\">Albino Luigino Davanzo</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Cowrie Rugby Football Club (rugby union)",
+            "lines": [
+              "Cowrie Rugby Football Club (rugby union)"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/w/index.php?title=Cowrie_Rugby_Football_Club&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Cowrie Rugby Football Club (page does not exist)\">Cowrie Rugby Football Club</a> (rugby union)</td>",
+            "links": [
+              {
+                "text": "Cowrie Rugby Football Club",
+                "title": "Cowrie Rugby Football Club (page does not exist)",
+                "wikiTitle": "Cowrie Rugby Football Club",
+                "href": "https://en.wikipedia.org/w/index.php?title=Cowrie_Rugby_Football_Club&action=edit&redlink=1",
+                "blueArticle": false,
+                "redLink": true,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "National Stadium",
+              "lines": [
+                "National Stadium"
+              ],
+              "html": "<td class=\"infobox-data\">National Stadium</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "former_names": [
+            {
+              "label": "Former names",
+              "key": "former_names",
+              "group": null,
+              "text": "Surulere Stadium",
+              "lines": [
+                "Surulere Stadium"
+              ],
+              "html": "<td class=\"infobox-data nickname\">Surulere Stadium</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Surulere, Lagos",
+              "lines": [
+                "Surulere, Lagos"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Surulere\" title=\"Surulere\">Surulere</a>, <a href=\"https://en.wikipedia.org/wiki/Lagos\" title=\"Lagos\">Lagos</a></td>",
+              "links": [
+                {
+                  "text": "Surulere",
+                  "title": "Surulere",
+                  "wikiTitle": "Surulere",
+                  "href": "https://en.wikipedia.org/wiki/Surulere",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Lagos",
+                  "title": "Lagos",
+                  "wikiTitle": "Lagos",
+                  "href": "https://en.wikipedia.org/wiki/Lagos",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Nigerian government",
+              "lines": [
+                "Nigerian government"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Federal_government_of_Nigeria\" class=\"mw-redirect\" title=\"Federal government of Nigeria\">Nigerian government</a></td>",
+              "links": [
+                {
+                  "text": "Nigerian government",
+                  "title": "Federal government of Nigeria",
+                  "wikiTitle": "Federal government of Nigeria",
+                  "href": "https://en.wikipedia.org/wiki/Federal_government_of_Nigeria",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "55,000 (1972)\n45,000 (1999)",
+              "lines": [
+                "55,000 (1972)",
+                "45,000 (1999)"
+              ],
+              "html": "<td class=\"infobox-data\">55,000 (1972)<br>45,000 (1999)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "surface": [
+            {
+              "label": "Surface",
+              "key": "surface",
+              "group": null,
+              "text": "Grass",
+              "lines": [
+                "Grass"
+              ],
+              "html": "<td class=\"infobox-data\">Grass</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "record_attendance": [
+            {
+              "label": "Record attendance",
+              "key": "record_attendance",
+              "group": null,
+              "text": "85,000",
+              "lines": [
+                "85,000"
+              ],
+              "html": "<td class=\"infobox-data\">85,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "1961",
+              "lines": [
+                "1961"
+              ],
+              "html": "<td class=\"infobox-data\">1961</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1961",
+              "lines": [
+                "1961"
+              ],
+              "html": "<td class=\"infobox-data\">1961</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "1972, 2024",
+              "lines": [
+                "1972, 2024"
+              ],
+              "html": "<td class=\"infobox-data\">1972, 2024</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "expanded": [
+            {
+              "label": "Expanded",
+              "key": "expanded",
+              "group": "Construction",
+              "text": "1972",
+              "lines": [
+                "1972"
+              ],
+              "html": "<td class=\"infobox-data\">1972</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Isaac Fola-Alade",
+              "lines": [
+                "Isaac Fola-Alade"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Isaac_Fola-Alade\" title=\"Isaac Fola-Alade\">Isaac Fola-Alade</a></td>",
+              "links": [
+                {
+                  "text": "Isaac Fola-Alade",
+                  "title": "Isaac Fola-Alade",
+                  "wikiTitle": "Isaac Fola-Alade",
+                  "href": "https://en.wikipedia.org/wiki/Isaac_Fola-Alade",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "project_manager": [
+            {
+              "label": "Project manager",
+              "key": "project_manager",
+              "group": "Construction",
+              "text": "Albino Luigino Davanzo",
+              "lines": [
+                "Albino Luigino Davanzo"
+              ],
+              "html": "<td class=\"infobox-data\">Albino Luigino Davanzo</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Cowrie Rugby Football Club (rugby union)",
+              "lines": [
+                "Cowrie Rugby Football Club (rugby union)"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/w/index.php?title=Cowrie_Rugby_Football_Club&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Cowrie Rugby Football Club (page does not exist)\">Cowrie Rugby Football Club</a> (rugby union)</td>",
+              "links": [
+                {
+                  "text": "Cowrie Rugby Football Club",
+                  "title": "Cowrie Rugby Football Club (page does not exist)",
+                  "wikiTitle": "Cowrie Rugby Football Club",
+                  "href": "https://en.wikipedia.org/w/index.php?title=Cowrie_Rugby_Football_Club&action=edit&redlink=1",
+                  "blueArticle": false,
+                  "redLink": true,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "National Stadium"
+          ],
+          "former_names": [
+            "Surulere Stadium"
+          ],
+          "location": [
+            "Surulere, Lagos"
+          ],
+          "owner": [
+            "Nigerian government"
+          ],
+          "capacity": [
+            "55,000 (1972)\n45,000 (1999)"
+          ],
+          "surface": [
+            "Grass"
+          ],
+          "record_attendance": [
+            "85,000"
+          ],
+          "built": [
+            "1961"
+          ],
+          "opened": [
+            "1961"
+          ],
+          "renovated": [
+            "1972, 2024"
+          ],
+          "expanded": [
+            "1972"
+          ],
+          "architect": [
+            "Isaac Fola-Alade"
+          ],
+          "project_manager": [
+            "Albino Luigino Davanzo"
+          ],
+          "tenants": [
+            "Cowrie Rugby Football Club (rugby union)"
+          ]
+        },
+        "formerNames": [
+          "Surulere Stadium"
+        ],
+        "capacities": [
+          "55,000 (1972)",
+          "45,000 (1999)"
+        ],
+        "tenants": [
+          "Cowrie Rugby Football Club (rugby union)"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:National Stadium Surulere.jpg",
+            "fileName": "National Stadium Surulere.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:National_Stadium_Surulere.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/National_Stadium_Surulere.jpg/250px-National_Stadium_Surulere.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/National_Stadium_Surulere.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/National_Stadium_Surulere.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/National_Stadium_Surulere.jpg/500px-National_Stadium_Surulere.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 187,
+            "originalWidth": 3992,
+            "originalHeight": 2992,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=National_Stadium%2C_Lagos&revid=1355415136&groups=_5d830fcfe3d58f7823161e76cced766a6a0198aa&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=National_Stadium%2C_Lagos&revid=1355415136&groups=_5d830fcfe3d58f7823161e76cced766a6a0198aa&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of National Stadium, Lagos"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">National Stadium, Lagos</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:National_Stadium_Surulere.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/National_Stadium_Surulere.jpg/250px-National_Stadium_Surulere.jpg\" width=\"250\" height=\"187\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/National_Stadium_Surulere.jpg/500px-National_Stadium_Surulere.jpg 2x\" data-file-width=\"3992\" data-file-height=\"2992\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_5d830fcfe3d58f7823161e76cced766a6a0198aa&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=National_Stadium%2C_Lagos&amp;revid=1355415136&amp;groups=_5d830fcfe3d58f7823161e76cced766a6a0198aa&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=National_Stadium%2C_Lagos&amp;revid=1355415136&amp;groups=_5d830fcfe3d58f7823161e76cced766a6a0198aa&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of National Stadium, Lagos</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">National Stadium</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Former names</div></th><td class=\"infobox-data nickname\">Surulere Stadium</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Surulere\" title=\"Surulere\">Surulere</a>, <a href=\"https://en.wikipedia.org/wiki/Lagos\" title=\"Lagos\">Lagos</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Federal_government_of_Nigeria\" class=\"mw-redirect\" title=\"Federal government of Nigeria\">Nigerian government</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">55,000 (1972)<br>45,000 (1999)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Surface</th><td class=\"infobox-data\">Grass</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Record attendance</div></th><td class=\"infobox-data\">85,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">1961</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1961</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">1972, 2024</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Expanded</th><td class=\"infobox-data\">1972</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Isaac_Fola-Alade\" title=\"Isaac Fola-Alade\">Isaac Fola-Alade</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Project manager</div></th><td class=\"infobox-data\">Albino Luigino Davanzo</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/w/index.php?title=Cowrie_Rugby_Football_Club&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Cowrie Rugby Football Club (page does not exist)\">Cowrie Rugby Football Club</a> (rugby union)</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "All_articles_with_dead_external_links",
+        "Articles_with_dead_external_links_from_October_2010",
+        "CS1:_unfit_URL",
+        "Articles_with_dead_external_links_from_January_2018",
+        "Articles_with_permanently_dead_external_links",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Use_Nigerian_English_from_May_2026",
+        "All_Wikipedia_articles_written_in_Nigerian_English",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Sports_venues_completed_in_1972",
+        "Football_venues_in_Nigeria",
+        "National_stadiums",
+        "Venues_of_the_African_Games",
+        "Sport_in_Lagos",
+        "Multi-purpose_stadiums_in_Nigeria",
+        "Sports_venues_in_Lagos",
+        "20th-century_architecture_in_Nigeria",
+        "Surulere",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=National_Stadium,_Lagos&params=6_29_49_N_3_21_53_E_region:NG-LA_type:landmark",
+        "https://newsdiaryonline.com/national-stadium-lagos-prone-to-danger-due-to-neglect-expert/",
+        "https://tribuneonlineng.com/?p=669430",
+        "https://punchng.com/lagos-stadium-from-west-africas-best-to-national-shame/",
+        "https://guardian.ng/sport/fg-considers-rebuilding-national-stadium-lagos/",
+        "https://guardian.ng/sport/how-poor-lagos-facility-hampers-nigerias-quest-for-swimming-medals/",
+        "http://odili.net/news/source/2006/nov/9/24.html",
+        "https://www.rsssf.org/tablesl/lgcup1-04.html",
+        "http://www.thenewsng.com/modules/zmagazine/article.php?articleid=11536",
+        "http://odili.net/news/source/2007/mar/4/26.html",
+        "https://web.archive.org/web/20110916163240/http://www.punchontheweb.com/Articl.aspx?theartic=Art2008010256845",
+        "http://www.ngrguardiannews.com/sports/article22//indexn3_html?pdate=231209&ptitle=NSC%20promises%20to%20refurbish%20Lagos%20National%20Stadium&cpdate=231209",
+        "https://architect-folaalade.com/projects.php",
+        "https://cafe.daum.net/stade/5BHw/24",
+        "https://cafe.daum.net/stade/",
+        "https://web.archive.org/web/20120930211911/http://www.fussballtempel.net/caf/NGR/Surelere.html",
+        "http://www.fussballtempel.net/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Notable football events",
+          "anchor": "Notable_football_events"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "1980 African Cup of Nations",
+          "anchor": "1980_African_Cup_of_Nations"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "1999 FIFA World Youth Championship",
+          "anchor": "1999_FIFA_World_Youth_Championship"
+        },
+        {
+          "index": "5",
+          "level": 3,
+          "line": "2000 African Cup of Nations",
+          "anchor": "2000_African_Cup_of_Nations"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "7",
+          "level": 2,
+          "line": "Architecture",
+          "anchor": "Architecture"
+        },
+        {
+          "index": "8",
+          "level": 2,
+          "line": "Gallery",
+          "anchor": "Gallery"
+        },
+        {
+          "index": "9",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "10",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "ASC_Leiden_-_Rietveld_Collection_-_Nigeria_1970_-_1973_-_01_-_090_Pan_African_Games_Lagos_January_7-18,_1973._Runners_in_the_starting_position_on_courts_in_the_stadium_-_Lagos.jpg",
+        "Swimming_Pool_In_National_Stadium_Lagos.jpg",
+        "National_Stadium_Surulere.jpg",
+        "A_side_view_of_the_National_Stadium.jpg",
+        "Flag_of_Nigeria.svg",
+        "Flag_of_Tanzania.svg",
+        "Flag_of_Egypt_(1972-1984).svg",
+        "Flag_of_Egypt_(1972–1984).svg",
+        "Flag_of_Côte_d'Ivoire.svg",
+        "Flag_of_Morocco.svg",
+        "Flag_of_Algeria.svg",
+        "Flag_of_Costa_Rica.svg",
+        "Flag_of_Germany.svg",
+        "Flag_of_Paraguay_(1990–2013).svg",
+        "Flag_of_Uruguay.svg",
+        "Flag_of_Brazil.svg",
+        "Flag_of_Japan.svg",
+        "Flag_of_Mali.svg",
+        "Flag_of_Spain.svg",
+        "Flag_of_Tunisia.svg",
+        "Flag_of_the_Republic_of_the_Congo.svg",
+        "Flag_of_Zambia.svg",
+        "Flag_of_Senegal.svg",
+        "Flag_of_South_Africa.svg",
+        "Flag_of_Cameroon.svg",
+        "Symbol_category_class.svg",
+        "Commons-logo.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:National Stadium Surulere.jpg",
+          "fileName": "National Stadium Surulere.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:National_Stadium_Surulere.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/National_Stadium_Surulere.jpg/250px-National_Stadium_Surulere.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/National_Stadium_Surulere.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/National_Stadium_Surulere.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/National_Stadium_Surulere.jpg/500px-National_Stadium_Surulere.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 187,
+          "originalWidth": 3992,
+          "originalHeight": 2992,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=National_Stadium%2C_Lagos&revid=1355415136&groups=_5d830fcfe3d58f7823161e76cced766a6a0198aa&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=National_Stadium%2C_Lagos&revid=1355415136&groups=_5d830fcfe3d58f7823161e76cced766a6a0198aa&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of National Stadium, Lagos"
+        },
+        {
+          "fileTitle": "File:A side view of the National Stadium.jpg",
+          "fileName": "A side view of the National Stadium.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:A_side_view_of_the_National_Stadium.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/A_side_view_of_the_National_Stadium.jpg/250px-A_side_view_of_the_National_Stadium.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A_side_view_of_the_National_Stadium.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/A_side_view_of_the_National_Stadium.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/A_side_view_of_the_National_Stadium.jpg/500px-A_side_view_of_the_National_Stadium.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 200,
+          "height": 133,
+          "originalWidth": 3456,
+          "originalHeight": 2304,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Side view of the Indoor Sports Complex"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/40px-Flag_of_Nigeria.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/60px-Flag_of_Nigeria.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/40px-Flag_of_Tanzania.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/60px-Flag_of_Tanzania.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_Egypt_%281972%E2%80%931984%29.svg/40px-Flag_of_Egypt_%281972%E2%80%931984%29.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Flag_of_Egypt_%281972%E2%80%931984%29.svg/60px-Flag_of_Egypt_%281972%E2%80%931984%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/40px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/60px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 512,
+          "originalHeight": 341,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/40px-Flag_of_Morocco.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/60px-Flag_of_Morocco.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/40px-Flag_of_Algeria.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/60px-Flag_of_Algeria.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/40px-Flag_of_Costa_Rica.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/60px-Flag_of_Costa_Rica.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 14,
+          "originalWidth": 1000,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 14,
+          "originalWidth": 1000,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Paraguay_%281990%E2%80%932013%29.svg/40px-Flag_of_Paraguay_%281990%E2%80%932013%29.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Paraguay_%281990%E2%80%932013%29.svg/60px-Flag_of_Paraguay_%281990%E2%80%932013%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1000,
+          "originalHeight": 540,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/40px-Flag_of_Uruguay.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/60px-Flag_of_Uruguay.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 512,
+          "originalHeight": 341,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/40px-Flag_of_Brazil.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/60px-Flag_of_Brazil.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 22,
+          "height": 15,
+          "originalWidth": 1000,
+          "originalHeight": 700,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/40px-Flag_of_Japan.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/60px-Flag_of_Japan.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/40px-Flag_of_Mali.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/60px-Flag_of_Mali.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/40px-Flag_of_Spain.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/60px-Flag_of_Spain.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 750,
+          "originalHeight": 500,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/40px-Flag_of_Tunisia.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/60px-Flag_of_Tunisia.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 1200,
+          "originalHeight": 800,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/40px-Flag_of_the_Republic_of_the_Congo.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/60px-Flag_of_the_Republic_of_the_Congo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/40px-Flag_of_Zambia.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/60px-Flag_of_Zambia.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/40px-Flag_of_Senegal.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/60px-Flag_of_Senegal.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/40px-Flag_of_South_Africa.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/60px-Flag_of_South_Africa.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/40px-Flag_of_Cameroon.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/60px-Flag_of_Cameroon.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:ASC Leiden - Rietveld Collection - Nigeria 1970 - 1973 - 01 - 090 Pan African Games Lagos January 7-18, 1973. Runners in the starting position on courts in the stadium - Lagos.jpg",
+          "fileName": "ASC Leiden - Rietveld Collection - Nigeria 1970 - 1973 - 01 - 090 Pan African Games Lagos January 7-18, 1973. Runners in the starting position on courts in the stadium - Lagos.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:ASC_Leiden_-_Rietveld_Collection_-_Nigeria_1970_-_1973_-_01_-_090_Pan_African_Games_Lagos_January_7-18,_1973._Runners_in_the_starting_position_on_courts_in_the_stadium_-_Lagos.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ASC_Leiden_-_Rietveld_Collection_-_Nigeria_1970_-_1973_-_01_-_090_Pan_African_Games_Lagos_January_7-18%2C_1973._Runners_in_the_starting_position_on_courts_in_the_stadium_-_Lagos.jpg/120px-thumbnail.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/ASC_Leiden_-_Rietveld_Collection_-_Nigeria_1970_-_1973_-_01_-_090_Pan_African_Games_Lagos_January_7-18%2C_1973._Runners_in_the_starting_position_on_courts_in_the_stadium_-_Lagos.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/ASC_Leiden_-_Rietveld_Collection_-_Nigeria_1970_-_1973_-_01_-_090_Pan_African_Games_Lagos_January_7-18%2C_1973._Runners_in_the_starting_position_on_courts_in_the_stadium_-_Lagos.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ASC_Leiden_-_Rietveld_Collection_-_Nigeria_1970_-_1973_-_01_-_090_Pan_African_Games_Lagos_January_7-18%2C_1973._Runners_in_the_starting_position_on_courts_in_the_stadium_-_Lagos.jpg/250px-thumbnail.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 78,
+          "originalWidth": 6716,
+          "originalHeight": 4347,
+          "fileType": null,
+          "alt": "Pan African Games Lagos January 7–18, 1973. Runners in the starting position on courts",
+          "title": "Pan African Games Lagos January 7–18, 1973. Runners in the starting position on courts",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Swimming Pool In National Stadium Lagos.jpg",
+          "fileName": "Swimming Pool In National Stadium Lagos.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Swimming_Pool_In_National_Stadium_Lagos.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Swimming_Pool_In_National_Stadium_Lagos.jpg/120px-Swimming_Pool_In_National_Stadium_Lagos.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Swimming_Pool_In_National_Stadium_Lagos.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Swimming_Pool_In_National_Stadium_Lagos.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Swimming_Pool_In_National_Stadium_Lagos.jpg/250px-Swimming_Pool_In_National_Stadium_Lagos.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 90,
+          "originalWidth": 4032,
+          "originalHeight": 3024,
+          "fileType": null,
+          "alt": "Swimming Pool In National Stadium Lagos",
+          "title": "Swimming Pool In National Stadium Lagos",
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/20px-Symbol_category_class.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/40px-Symbol_category_class.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 16,
+          "height": 16,
+          "originalWidth": 180,
+          "originalHeight": 185,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": null,
+          "title": "Commons page",
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 47,
+          "rowText": "Lagos\nNational Stadium Indoor Hall\n1961",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Lagos\" title=\"Lagos\">Lagos</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/National_Stadium,_Lagos\" title=\"National Stadium, Lagos\">National Stadium Indoor Hall</a>\n</td>\n<td align=\"center\">1961\n</td>\n<td align=\"center\">\n</td>\n<td><span><a href=\"https://en.wikipedia.org/wiki/File:A_side_view_of_the_National_Stadium.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/A_side_view_of_the_National_Stadium.jpg/250px-A_side_view_of_the_National_Stadium.jpg\" width=\"150\" height=\"100\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/A_side_view_of_the_National_Stadium.jpg/330px-A_side_view_of_the_National_Stadium.jpg 2x\" data-file-width=\"3456\" data-file-height=\"2304\"></a></span>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 46,
+              "cell": {
+                "text": "Nigeria",
+                "lines": [
+                  "Nigeria"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Nigeria",
+                    "title": "Nigeria",
+                    "wikiTitle": "Nigeria",
+                    "href": "https://en.wikipedia.org/wiki/Nigeria",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 47,
+              "cell": {
+                "text": "Lagos",
+                "lines": [
+                  "Lagos"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Lagos",
+                    "title": "Lagos",
+                    "wikiTitle": "Lagos",
+                    "href": "https://en.wikipedia.org/wiki/Lagos",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 47,
+              "cell": {
+                "text": "National Stadium Indoor Hall",
+                "lines": [
+                  "National Stadium Indoor Hall"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "National Stadium Indoor Hall",
+                    "title": "National Stadium, Lagos",
+                    "wikiTitle": "National Stadium, Lagos",
+                    "href": "https://en.wikipedia.org/wiki/National_Stadium,_Lagos",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 47,
+              "cell": {
+                "text": "1961",
+                "lines": [
+                  "1961"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 47,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 47,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [
+                  {
+                    "text": "",
+                    "title": "File:A side view of the National Stadium.jpg",
+                    "wikiTitle": "File:A side view of the National Stadium.jpg",
+                    "href": "https://en.wikipedia.org/wiki/File:A_side_view_of_the_National_Stadium.jpg",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": "File:A side view of the National Stadium.jpg",
+                    "fileName": "A side view of the National Stadium.jpg",
+                    "kind": "photo",
+                    "filePageUrl": "https://en.wikipedia.org/wiki/File:A_side_view_of_the_National_Stadium.jpg",
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/A_side_view_of_the_National_Stadium.jpg/250px-A_side_view_of_the_National_Stadium.jpg",
+                    "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A_side_view_of_the_National_Stadium.jpg",
+                    "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/A_side_view_of_the_National_Stadium.jpg",
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/A_side_view_of_the_National_Stadium.jpg/330px-A_side_view_of_the_National_Stadium.jpg",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 150,
+                    "height": 100,
+                    "originalWidth": 3456,
+                    "originalHeight": 2304,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 47,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": "File:A side view of the National Stadium.jpg",
+              "fileName": "A side view of the National Stadium.jpg",
+              "kind": "photo",
+              "filePageUrl": "https://en.wikipedia.org/wiki/File:A_side_view_of_the_National_Stadium.jpg",
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/A_side_view_of_the_National_Stadium.jpg/250px-A_side_view_of_the_National_Stadium.jpg",
+              "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A_side_view_of_the_National_Stadium.jpg",
+              "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/A_side_view_of_the_National_Stadium.jpg",
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/A_side_view_of_the_National_Stadium.jpg/330px-A_side_view_of_the_National_Stadium.jpg",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 150,
+              "height": 100,
+              "originalWidth": 3456,
+              "originalHeight": 2304,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "National Stadium Indoor Hall",
+            "lines": [
+              "National Stadium Indoor Hall"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "National Stadium Indoor Hall",
+                "title": "National Stadium, Lagos",
+                "wikiTitle": "National Stadium, Lagos",
+                "href": "https://en.wikipedia.org/wiki/National_Stadium,_Lagos",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:52:22.629Z"
+    }
+  ]
+}

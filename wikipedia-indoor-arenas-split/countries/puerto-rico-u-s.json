@@ -1,0 +1,2830 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Puerto Rico (U.S.)",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 17,
+    "sourceTypeCounts": {
+      "world_master_list": 1,
+      "arena_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-1271957",
+      "pageId": 1271957,
+      "revisionId": null,
+      "title": "José Miguel Agrelot Coliseum",
+      "displayTitle": "José Miguel Agrelot Coliseum",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Miguel_Agrelot_Coliseum",
+      "wikidataItem": "Q2889550",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q2889550",
+      "aliases": [
+        "José Miguel Agrelot Coliseum",
+        "Coliseo de Puerto Rico, José Miguel Agrelot",
+        "Coliseo de Puerto Rico",
+        "José Miguel Agrelot Coliseum of Puerto Rico"
+      ],
+      "requestedTitles": [
+        "José Miguel Agrelot Coliseum"
+      ],
+      "sourceLinkTexts": [
+        "Coliseo de Puerto Rico, José Miguel Agrelot",
+        "Coliseo de Puerto Rico"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Jos%C3%A9_Miguel_Agrelot_Coliseum"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas by capacity"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "arena_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 18.4277167,
+        "longitude": -66.0613917,
+        "raw": "18.4277167; -66.0613917"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "José Miguel Agrelot Coliseum of Puerto Rico",
+        "groups": [
+          "Construction",
+          "Tenants",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "José Miguel Agrelot Coliseum of Puerto Rico",
+            "lines": [
+              "José Miguel Agrelot Coliseum of Puerto Rico"
+            ],
+            "html": "<td class=\"infobox-data\">José Miguel Agrelot Coliseum of Puerto Rico</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "500 Arterial B St.",
+            "lines": [
+              "500 Arterial B St."
+            ],
+            "html": "<td class=\"infobox-data label\">500 Arterial B St.<span data-plural=\"0\"></span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Hato Rey, San Juan, Puerto Rico",
+            "lines": [
+              "Hato Rey, San Juan, Puerto Rico"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Hato_Rey,_Puerto_Rico\" class=\"mw-redirect\" title=\"Hato Rey, Puerto Rico\">Hato Rey</a>, <a href=\"https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico\" title=\"San Juan, Puerto Rico\">San Juan, Puerto Rico</a></td>",
+            "links": [
+              {
+                "text": "Hato Rey",
+                "title": "Hato Rey, Puerto Rico",
+                "wikiTitle": "Hato Rey, Puerto Rico",
+                "href": "https://en.wikipedia.org/wiki/Hato_Rey,_Puerto_Rico",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "San Juan, Puerto Rico",
+                "title": "San Juan, Puerto Rico",
+                "wikiTitle": "San Juan, Puerto Rico",
+                "href": "https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "18°25′39.78″N 66°3′41.01″W﻿ / ﻿18.4277167°N 66.0613917°W﻿ / 18.4277167; -66.0613917",
+            "lines": [
+              "18°25′39.78″N 66°3′41.01″W﻿ / ﻿18.4277167°N 66.0613917°W﻿ / 18.4277167; -66.0613917"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Jos%C3%A9_Miguel_Agrelot_Coliseum&amp;params=18_25_39.78_N_66_3_41.01_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">18°25′39.78″N</span> <span class=\"longitude\">66°3′41.01″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">18.4277167°N 66.0613917°W</span><span>﻿ / <span class=\"geo\">18.4277167; -66.0613917</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "18°25′39.78″N 66°3′41.01″W﻿ / ﻿18.4277167°N 66.0613917°W﻿ / 18.4277167; -66.0613917",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Jos%C3%A9_Miguel_Agrelot_Coliseum&params=18_25_39.78_N_66_3_41.01_W_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Puerto Rico Convention Center District Authority",
+            "lines": [
+              "Puerto Rico Convention Center District Authority"
+            ],
+            "html": "<td class=\"infobox-data agent\">Puerto Rico Convention Center District Authority</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "ASM Global",
+            "lines": [
+              "ASM Global"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/ASM_Global\" class=\"mw-redirect\" title=\"ASM Global\">ASM Global</a></td>",
+            "links": [
+              {
+                "text": "ASM Global",
+                "title": "ASM Global",
+                "wikiTitle": "ASM Global",
+                "href": "https://en.wikipedia.org/wiki/ASM_Global",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-smg-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-smg-1"
+              }
+            ]
+          },
+          {
+            "label": "Seating type",
+            "key": "seating_type",
+            "group": null,
+            "text": "Reserved seating",
+            "lines": [
+              "Reserved seating"
+            ],
+            "html": "<td class=\"infobox-data\">Reserved seating</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "19,500",
+            "lines": [
+              "19,500"
+            ],
+            "html": "<td class=\"infobox-data\">19,500</td>",
+            "links": [
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-:2-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              },
+              {
+                "text": "[3]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-:3-3",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              },
+              {
+                "text": "[4]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-:4-4",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-:2-2"
+              },
+              {
+                "label": "[3]",
+                "href": "https://en.wikipedia.org/#cite_note-:3-3"
+              },
+              {
+                "label": "[4]",
+                "href": "https://en.wikipedia.org/#cite_note-:4-4"
+              }
+            ]
+          },
+          {
+            "label": "Executive suites",
+            "key": "executive_suites",
+            "group": null,
+            "text": "2 party suites\n26 corporate suites",
+            "lines": [
+              "2 party suites",
+              "26 corporate suites"
+            ],
+            "html": "<td class=\"infobox-data\">2 party suites<br>26 corporate suites</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "group": null,
+            "text": "Arena",
+            "lines": [
+              "Arena"
+            ],
+            "html": "<td class=\"infobox-data category\">Arena</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Events",
+            "key": "events",
+            "group": null,
+            "text": "Music, concerts, sporting events",
+            "lines": [
+              "Music, concerts, sporting events"
+            ],
+            "html": "<td class=\"infobox-data\">Music, concerts, sporting events</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Surface",
+            "key": "surface",
+            "group": null,
+            "text": "Concrete",
+            "lines": [
+              "Concrete"
+            ],
+            "html": "<td class=\"infobox-data\">Concrete</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Scoreboard",
+            "key": "scoreboard",
+            "group": null,
+            "text": "Four-sided LED",
+            "lines": [
+              "Four-sided LED"
+            ],
+            "html": "<td class=\"infobox-data\">Four-sided <a href=\"https://en.wikipedia.org/wiki/Light-emitting_diode\" title=\"Light-emitting diode\">LED</a></td>",
+            "links": [
+              {
+                "text": "LED",
+                "title": "Light-emitting diode",
+                "wikiTitle": "Light-emitting diode",
+                "href": "https://en.wikipedia.org/wiki/Light-emitting_diode",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Record attendance",
+            "key": "record_attendance",
+            "group": null,
+            "text": "18,749 – Bad Bunny: Un Verano Sin Ti (July 28, 2022)",
+            "lines": [
+              "18,749 – Bad Bunny: Un Verano Sin Ti (July 28, 2022)"
+            ],
+            "html": "<td class=\"infobox-data\">18,749 – <a href=\"https://en.wikipedia.org/wiki/Bad_Bunny\" title=\"Bad Bunny\">Bad Bunny</a>: Un Verano Sin Ti (July 28, 2022)</td>",
+            "links": [
+              {
+                "text": "Bad Bunny",
+                "title": "Bad Bunny",
+                "wikiTitle": "Bad Bunny",
+                "href": "https://en.wikipedia.org/wiki/Bad_Bunny",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[5]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-Record2022-5",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[5]",
+                "href": "https://en.wikipedia.org/#cite_note-Record2022-5"
+              }
+            ]
+          },
+          {
+            "label": "Field shape",
+            "key": "field_shape",
+            "group": null,
+            "text": "Oval rectangular",
+            "lines": [
+              "Oval rectangular"
+            ],
+            "html": "<td class=\"infobox-data\">Oval rectangular</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Public transit",
+            "key": "public_transit",
+            "group": null,
+            "text": "Hato Rey Station\nAMA C1 C22 D15 T2\nAcuaExpreso: Hato Rey Terminal",
+            "lines": [
+              "Hato Rey Station",
+              "AMA C1 C22 D15 T2",
+              "AcuaExpreso: Hato Rey Terminal"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"skin-invert\"><span><img alt=\"Mainline rail interchange\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aiga_railtransportation_25.svg/20px-Aiga_railtransportation_25.svg.png\" width=\"10\" height=\"15\" class=\"mw-file-element\" data-file-width=\"314\" data-file-height=\"472\"></span></span> <span><a href=\"https://en.wikipedia.org/wiki/Tren_Urbano\" title=\"Tren Urbano\"><img alt=\"Tren Urbano\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_of_Tren_Urbano_de_San_Juan.svg/40px-Logo_of_Tren_Urbano_de_San_Juan.svg.png\" width=\"23\" height=\"25\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_of_Tren_Urbano_de_San_Juan.svg/60px-Logo_of_Tren_Urbano_de_San_Juan.svg.png 2x\" data-file-width=\"523\" data-file-height=\"561\"></a></span> <a href=\"https://en.wikipedia.org/wiki/Hato_Rey_(Tren_Urbano_station)\" class=\"mw-redirect\" title=\"Hato Rey (Tren Urbano station)\">Hato Rey Station</a><br><span class=\"skin-invert\"><span title=\"Local Transit\"><img alt=\"Local Transit\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aiga_bus_trans.svg/20px-Aiga_bus_trans.svg.png\" width=\"14\" height=\"17\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aiga_bus_trans.svg/40px-Aiga_bus_trans.svg.png 2x\" data-file-width=\"367\" data-file-height=\"442\"></span></span> <a href=\"https://en.wikipedia.org/wiki/Puerto_Rico_Metropolitan_Bus_Authority\" title=\"Puerto Rico Metropolitan Bus Authority\">AMA</a> <span>&nbsp;<span>C1</span>&nbsp;</span> <span>&nbsp;<span>C22</span>&nbsp;</span> <span>&nbsp;<span>D15</span>&nbsp;</span> <span>&nbsp;<span>T2</span>&nbsp;</span><br><span class=\"skin-invert\"><span title=\"Ferry Service\"><img alt=\"Ferry Service\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maki7-ferry.svg/20px-Maki7-ferry.svg.png\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maki7-ferry.svg/40px-Maki7-ferry.svg.png 2x\" data-file-width=\"15\" data-file-height=\"15\"></span></span> <a href=\"https://en.wikipedia.org/wiki/AcuaExpreso\" title=\"AcuaExpreso\">AcuaExpreso</a>: Hato Rey Terminal</td>",
+            "links": [
+              {
+                "text": "",
+                "title": "Tren Urbano",
+                "wikiTitle": "Tren Urbano",
+                "href": "https://en.wikipedia.org/wiki/Tren_Urbano",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Hato Rey Station",
+                "title": "Hato Rey (Tren Urbano station)",
+                "wikiTitle": "Hato Rey (Tren Urbano station)",
+                "href": "https://en.wikipedia.org/wiki/Hato_Rey_(Tren_Urbano_station)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "AMA",
+                "title": "Puerto Rico Metropolitan Bus Authority",
+                "wikiTitle": "Puerto Rico Metropolitan Bus Authority",
+                "href": "https://en.wikipedia.org/wiki/Puerto_Rico_Metropolitan_Bus_Authority",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "AcuaExpreso",
+                "title": "AcuaExpreso",
+                "wikiTitle": "AcuaExpreso",
+                "href": "https://en.wikipedia.org/wiki/AcuaExpreso",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [
+              {
+                "fileTitle": null,
+                "fileName": null,
+                "kind": "photo",
+                "filePageUrl": null,
+                "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aiga_railtransportation_25.svg/20px-Aiga_railtransportation_25.svg.png",
+                "originalRedirectUrl": null,
+                "enwikiOriginalRedirectUrl": null,
+                "srcset": [],
+                "width": 10,
+                "height": 15,
+                "originalWidth": 314,
+                "originalHeight": 472,
+                "fileType": null,
+                "alt": "Mainline rail interchange",
+                "title": null,
+                "caption": null
+              },
+              {
+                "fileTitle": null,
+                "fileName": null,
+                "kind": "photo",
+                "filePageUrl": null,
+                "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_of_Tren_Urbano_de_San_Juan.svg/40px-Logo_of_Tren_Urbano_de_San_Juan.svg.png",
+                "originalRedirectUrl": null,
+                "enwikiOriginalRedirectUrl": null,
+                "srcset": [
+                  {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_of_Tren_Urbano_de_San_Juan.svg/60px-Logo_of_Tren_Urbano_de_San_Juan.svg.png",
+                    "descriptor": "2x"
+                  }
+                ],
+                "width": 23,
+                "height": 25,
+                "originalWidth": 523,
+                "originalHeight": 561,
+                "fileType": null,
+                "alt": "Tren Urbano",
+                "title": null,
+                "caption": null
+              },
+              {
+                "fileTitle": null,
+                "fileName": null,
+                "kind": "photo",
+                "filePageUrl": null,
+                "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aiga_bus_trans.svg/20px-Aiga_bus_trans.svg.png",
+                "originalRedirectUrl": null,
+                "enwikiOriginalRedirectUrl": null,
+                "srcset": [
+                  {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aiga_bus_trans.svg/40px-Aiga_bus_trans.svg.png",
+                    "descriptor": "2x"
+                  }
+                ],
+                "width": 14,
+                "height": 17,
+                "originalWidth": 367,
+                "originalHeight": 442,
+                "fileType": null,
+                "alt": "Local Transit",
+                "title": null,
+                "caption": null
+              },
+              {
+                "fileTitle": null,
+                "fileName": null,
+                "kind": "photo",
+                "filePageUrl": null,
+                "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maki7-ferry.svg/20px-Maki7-ferry.svg.png",
+                "originalRedirectUrl": null,
+                "enwikiOriginalRedirectUrl": null,
+                "srcset": [
+                  {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maki7-ferry.svg/40px-Maki7-ferry.svg.png",
+                    "descriptor": "2x"
+                  }
+                ],
+                "width": 15,
+                "height": 15,
+                "originalWidth": 15,
+                "originalHeight": 15,
+                "fileType": null,
+                "alt": "Ferry Service",
+                "title": null,
+                "caption": null
+              }
+            ],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "1998 (1998)",
+            "lines": [
+              "1998 (1998)"
+            ],
+            "html": "<td class=\"infobox-data\">1998<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1998</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "July 1998 (1998-07)–2004 (2004)",
+            "lines": [
+              "July 1998 (1998-07)–2004 (2004)"
+            ],
+            "html": "<td class=\"infobox-data\">July&nbsp;1998<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1998-07</span>)</span>–2004<span>&nbsp;(<span class=\"dtend itvend\">2004</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "September 4, 2004 (2004-09-04)",
+            "lines": [
+              "September 4, 2004 (2004-09-04)"
+            ],
+            "html": "<td class=\"infobox-data\">September&nbsp;4,&nbsp;2004<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2004-09-04</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "USD $252.6 million",
+            "lines": [
+              "USD $252.6 million"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/United_States_dollar\" title=\"United States dollar\">USD</a> $252.6 million</td>",
+            "links": [
+              {
+                "text": "USD",
+                "title": "United States dollar",
+                "wikiTitle": "United States dollar",
+                "href": "https://en.wikipedia.org/wiki/United_States_dollar",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Sierra Cardona Ferrer\nHOK",
+            "lines": [
+              "Sierra Cardona Ferrer",
+              "HOK"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Sierra_Cardona_Ferrer\" class=\"mw-redirect\" title=\"Sierra Cardona Ferrer\">Sierra Cardona Ferrer</a><br><a href=\"https://en.wikipedia.org/wiki/HOK_(firm)\" title=\"HOK (firm)\">HOK</a></td>",
+            "links": [
+              {
+                "text": "Sierra Cardona Ferrer",
+                "title": "Sierra Cardona Ferrer",
+                "wikiTitle": "Sierra Cardona Ferrer",
+                "href": "https://en.wikipedia.org/wiki/Sierra_Cardona_Ferrer",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "HOK",
+                "title": "HOK (firm)",
+                "wikiTitle": "HOK (firm)",
+                "href": "https://en.wikipedia.org/wiki/HOK_(firm)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Project manager",
+            "key": "project_manager",
+            "group": "Construction",
+            "text": "Government of Puerto Rico",
+            "lines": [
+              "Government of Puerto Rico"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Puerto_Rico\" title=\"Government of Puerto Rico\">Government of Puerto Rico</a></td>",
+            "links": [
+              {
+                "text": "Government of Puerto Rico",
+                "title": "Government of Puerto Rico",
+                "wikiTitle": "Government of Puerto Rico",
+                "href": "https://en.wikipedia.org/wiki/Government_of_Puerto_Rico",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Structural engineer",
+            "key": "structural_engineer",
+            "group": "Construction",
+            "text": "QB Construction",
+            "lines": [
+              "QB Construction"
+            ],
+            "html": "<td class=\"infobox-data\">QB Construction</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Puerto Rico men's national basketball team\nCangrejeros de Santurce (BSN) (2004–2011; 2021)\nPuerto Rico Tip-Off (NCAA) (2007–2011)",
+            "lines": [
+              "Puerto Rico men's national basketball team",
+              "Cangrejeros de Santurce (BSN) (2004–2011; 2021)",
+              "Puerto Rico Tip-Off (NCAA) (2007–2011)"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Puerto_Rico_men%27s_national_basketball_team\" title=\"Puerto Rico men's national basketball team\">Puerto Rico men's national basketball team</a><br><a href=\"https://en.wikipedia.org/wiki/Cangrejeros_de_Santurce_(basketball)\" title=\"Cangrejeros de Santurce (basketball)\">Cangrejeros de Santurce</a> (<a href=\"https://en.wikipedia.org/wiki/Baloncesto_Superior_Nacional\" title=\"Baloncesto Superior Nacional\">BSN</a>) (2004–2011; 2021)<br><a href=\"https://en.wikipedia.org/wiki/Puerto_Rico_Tip-Off\" title=\"Puerto Rico Tip-Off\">Puerto Rico Tip-Off</a> (<a href=\"https://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association\" title=\"National Collegiate Athletic Association\">NCAA</a>) (2007–2011)</td>",
+            "links": [
+              {
+                "text": "Puerto Rico men's national basketball team",
+                "title": "Puerto Rico men's national basketball team",
+                "wikiTitle": "Puerto Rico men's national basketball team",
+                "href": "https://en.wikipedia.org/wiki/Puerto_Rico_men%27s_national_basketball_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Cangrejeros de Santurce",
+                "title": "Cangrejeros de Santurce (basketball)",
+                "wikiTitle": "Cangrejeros de Santurce (basketball)",
+                "href": "https://en.wikipedia.org/wiki/Cangrejeros_de_Santurce_(basketball)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "BSN",
+                "title": "Baloncesto Superior Nacional",
+                "wikiTitle": "Baloncesto Superior Nacional",
+                "href": "https://en.wikipedia.org/wiki/Baloncesto_Superior_Nacional",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Puerto Rico Tip-Off",
+                "title": "Puerto Rico Tip-Off",
+                "wikiTitle": "Puerto Rico Tip-Off",
+                "href": "https://en.wikipedia.org/wiki/Puerto_Rico_Tip-Off",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "NCAA",
+                "title": "National Collegiate Athletic Association",
+                "wikiTitle": "National Collegiate Athletic Association",
+                "href": "https://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "www.coliseodepuertorico.com",
+            "lines": [
+              "www.coliseodepuertorico.com"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.coliseodepuertorico.com/\">www<wbr>.coliseodepuertorico<wbr>.com</a></span></td>",
+            "links": [
+              {
+                "text": "www.coliseodepuertorico.com",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://www.coliseodepuertorico.com/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "José Miguel Agrelot Coliseum of Puerto Rico",
+              "lines": [
+                "José Miguel Agrelot Coliseum of Puerto Rico"
+              ],
+              "html": "<td class=\"infobox-data\">José Miguel Agrelot Coliseum of Puerto Rico</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "500 Arterial B St.",
+              "lines": [
+                "500 Arterial B St."
+              ],
+              "html": "<td class=\"infobox-data label\">500 Arterial B St.<span data-plural=\"0\"></span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Hato Rey, San Juan, Puerto Rico",
+              "lines": [
+                "Hato Rey, San Juan, Puerto Rico"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Hato_Rey,_Puerto_Rico\" class=\"mw-redirect\" title=\"Hato Rey, Puerto Rico\">Hato Rey</a>, <a href=\"https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico\" title=\"San Juan, Puerto Rico\">San Juan, Puerto Rico</a></td>",
+              "links": [
+                {
+                  "text": "Hato Rey",
+                  "title": "Hato Rey, Puerto Rico",
+                  "wikiTitle": "Hato Rey, Puerto Rico",
+                  "href": "https://en.wikipedia.org/wiki/Hato_Rey,_Puerto_Rico",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "San Juan, Puerto Rico",
+                  "title": "San Juan, Puerto Rico",
+                  "wikiTitle": "San Juan, Puerto Rico",
+                  "href": "https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "18°25′39.78″N 66°3′41.01″W﻿ / ﻿18.4277167°N 66.0613917°W﻿ / 18.4277167; -66.0613917",
+              "lines": [
+                "18°25′39.78″N 66°3′41.01″W﻿ / ﻿18.4277167°N 66.0613917°W﻿ / 18.4277167; -66.0613917"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Jos%C3%A9_Miguel_Agrelot_Coliseum&amp;params=18_25_39.78_N_66_3_41.01_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">18°25′39.78″N</span> <span class=\"longitude\">66°3′41.01″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">18.4277167°N 66.0613917°W</span><span>﻿ / <span class=\"geo\">18.4277167; -66.0613917</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "18°25′39.78″N 66°3′41.01″W﻿ / ﻿18.4277167°N 66.0613917°W﻿ / 18.4277167; -66.0613917",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Jos%C3%A9_Miguel_Agrelot_Coliseum&params=18_25_39.78_N_66_3_41.01_W_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Puerto Rico Convention Center District Authority",
+              "lines": [
+                "Puerto Rico Convention Center District Authority"
+              ],
+              "html": "<td class=\"infobox-data agent\">Puerto Rico Convention Center District Authority</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "ASM Global",
+              "lines": [
+                "ASM Global"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/ASM_Global\" class=\"mw-redirect\" title=\"ASM Global\">ASM Global</a></td>",
+              "links": [
+                {
+                  "text": "ASM Global",
+                  "title": "ASM Global",
+                  "wikiTitle": "ASM Global",
+                  "href": "https://en.wikipedia.org/wiki/ASM_Global",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-smg-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-smg-1"
+                }
+              ]
+            }
+          ],
+          "seating_type": [
+            {
+              "label": "Seating type",
+              "key": "seating_type",
+              "group": null,
+              "text": "Reserved seating",
+              "lines": [
+                "Reserved seating"
+              ],
+              "html": "<td class=\"infobox-data\">Reserved seating</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "19,500",
+              "lines": [
+                "19,500"
+              ],
+              "html": "<td class=\"infobox-data\">19,500</td>",
+              "links": [
+                {
+                  "text": "[2]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-:2-2",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                },
+                {
+                  "text": "[3]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-:3-3",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                },
+                {
+                  "text": "[4]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-:4-4",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-:2-2"
+                },
+                {
+                  "label": "[3]",
+                  "href": "https://en.wikipedia.org/#cite_note-:3-3"
+                },
+                {
+                  "label": "[4]",
+                  "href": "https://en.wikipedia.org/#cite_note-:4-4"
+                }
+              ]
+            }
+          ],
+          "executive_suites": [
+            {
+              "label": "Executive suites",
+              "key": "executive_suites",
+              "group": null,
+              "text": "2 party suites\n26 corporate suites",
+              "lines": [
+                "2 party suites",
+                "26 corporate suites"
+              ],
+              "html": "<td class=\"infobox-data\">2 party suites<br>26 corporate suites</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "type": [
+            {
+              "label": "Type",
+              "key": "type",
+              "group": null,
+              "text": "Arena",
+              "lines": [
+                "Arena"
+              ],
+              "html": "<td class=\"infobox-data category\">Arena</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "events": [
+            {
+              "label": "Events",
+              "key": "events",
+              "group": null,
+              "text": "Music, concerts, sporting events",
+              "lines": [
+                "Music, concerts, sporting events"
+              ],
+              "html": "<td class=\"infobox-data\">Music, concerts, sporting events</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "surface": [
+            {
+              "label": "Surface",
+              "key": "surface",
+              "group": null,
+              "text": "Concrete",
+              "lines": [
+                "Concrete"
+              ],
+              "html": "<td class=\"infobox-data\">Concrete</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "scoreboard": [
+            {
+              "label": "Scoreboard",
+              "key": "scoreboard",
+              "group": null,
+              "text": "Four-sided LED",
+              "lines": [
+                "Four-sided LED"
+              ],
+              "html": "<td class=\"infobox-data\">Four-sided <a href=\"https://en.wikipedia.org/wiki/Light-emitting_diode\" title=\"Light-emitting diode\">LED</a></td>",
+              "links": [
+                {
+                  "text": "LED",
+                  "title": "Light-emitting diode",
+                  "wikiTitle": "Light-emitting diode",
+                  "href": "https://en.wikipedia.org/wiki/Light-emitting_diode",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "record_attendance": [
+            {
+              "label": "Record attendance",
+              "key": "record_attendance",
+              "group": null,
+              "text": "18,749 – Bad Bunny: Un Verano Sin Ti (July 28, 2022)",
+              "lines": [
+                "18,749 – Bad Bunny: Un Verano Sin Ti (July 28, 2022)"
+              ],
+              "html": "<td class=\"infobox-data\">18,749 – <a href=\"https://en.wikipedia.org/wiki/Bad_Bunny\" title=\"Bad Bunny\">Bad Bunny</a>: Un Verano Sin Ti (July 28, 2022)</td>",
+              "links": [
+                {
+                  "text": "Bad Bunny",
+                  "title": "Bad Bunny",
+                  "wikiTitle": "Bad Bunny",
+                  "href": "https://en.wikipedia.org/wiki/Bad_Bunny",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "[5]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-Record2022-5",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[5]",
+                  "href": "https://en.wikipedia.org/#cite_note-Record2022-5"
+                }
+              ]
+            }
+          ],
+          "field_shape": [
+            {
+              "label": "Field shape",
+              "key": "field_shape",
+              "group": null,
+              "text": "Oval rectangular",
+              "lines": [
+                "Oval rectangular"
+              ],
+              "html": "<td class=\"infobox-data\">Oval rectangular</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "public_transit": [
+            {
+              "label": "Public transit",
+              "key": "public_transit",
+              "group": null,
+              "text": "Hato Rey Station\nAMA C1 C22 D15 T2\nAcuaExpreso: Hato Rey Terminal",
+              "lines": [
+                "Hato Rey Station",
+                "AMA C1 C22 D15 T2",
+                "AcuaExpreso: Hato Rey Terminal"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"skin-invert\"><span><img alt=\"Mainline rail interchange\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aiga_railtransportation_25.svg/20px-Aiga_railtransportation_25.svg.png\" width=\"10\" height=\"15\" class=\"mw-file-element\" data-file-width=\"314\" data-file-height=\"472\"></span></span> <span><a href=\"https://en.wikipedia.org/wiki/Tren_Urbano\" title=\"Tren Urbano\"><img alt=\"Tren Urbano\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_of_Tren_Urbano_de_San_Juan.svg/40px-Logo_of_Tren_Urbano_de_San_Juan.svg.png\" width=\"23\" height=\"25\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_of_Tren_Urbano_de_San_Juan.svg/60px-Logo_of_Tren_Urbano_de_San_Juan.svg.png 2x\" data-file-width=\"523\" data-file-height=\"561\"></a></span> <a href=\"https://en.wikipedia.org/wiki/Hato_Rey_(Tren_Urbano_station)\" class=\"mw-redirect\" title=\"Hato Rey (Tren Urbano station)\">Hato Rey Station</a><br><span class=\"skin-invert\"><span title=\"Local Transit\"><img alt=\"Local Transit\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aiga_bus_trans.svg/20px-Aiga_bus_trans.svg.png\" width=\"14\" height=\"17\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aiga_bus_trans.svg/40px-Aiga_bus_trans.svg.png 2x\" data-file-width=\"367\" data-file-height=\"442\"></span></span> <a href=\"https://en.wikipedia.org/wiki/Puerto_Rico_Metropolitan_Bus_Authority\" title=\"Puerto Rico Metropolitan Bus Authority\">AMA</a> <span>&nbsp;<span>C1</span>&nbsp;</span> <span>&nbsp;<span>C22</span>&nbsp;</span> <span>&nbsp;<span>D15</span>&nbsp;</span> <span>&nbsp;<span>T2</span>&nbsp;</span><br><span class=\"skin-invert\"><span title=\"Ferry Service\"><img alt=\"Ferry Service\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maki7-ferry.svg/20px-Maki7-ferry.svg.png\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maki7-ferry.svg/40px-Maki7-ferry.svg.png 2x\" data-file-width=\"15\" data-file-height=\"15\"></span></span> <a href=\"https://en.wikipedia.org/wiki/AcuaExpreso\" title=\"AcuaExpreso\">AcuaExpreso</a>: Hato Rey Terminal</td>",
+              "links": [
+                {
+                  "text": "",
+                  "title": "Tren Urbano",
+                  "wikiTitle": "Tren Urbano",
+                  "href": "https://en.wikipedia.org/wiki/Tren_Urbano",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Hato Rey Station",
+                  "title": "Hato Rey (Tren Urbano station)",
+                  "wikiTitle": "Hato Rey (Tren Urbano station)",
+                  "href": "https://en.wikipedia.org/wiki/Hato_Rey_(Tren_Urbano_station)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "AMA",
+                  "title": "Puerto Rico Metropolitan Bus Authority",
+                  "wikiTitle": "Puerto Rico Metropolitan Bus Authority",
+                  "href": "https://en.wikipedia.org/wiki/Puerto_Rico_Metropolitan_Bus_Authority",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "AcuaExpreso",
+                  "title": "AcuaExpreso",
+                  "wikiTitle": "AcuaExpreso",
+                  "href": "https://en.wikipedia.org/wiki/AcuaExpreso",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [
+                {
+                  "fileTitle": null,
+                  "fileName": null,
+                  "kind": "photo",
+                  "filePageUrl": null,
+                  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aiga_railtransportation_25.svg/20px-Aiga_railtransportation_25.svg.png",
+                  "originalRedirectUrl": null,
+                  "enwikiOriginalRedirectUrl": null,
+                  "srcset": [],
+                  "width": 10,
+                  "height": 15,
+                  "originalWidth": 314,
+                  "originalHeight": 472,
+                  "fileType": null,
+                  "alt": "Mainline rail interchange",
+                  "title": null,
+                  "caption": null
+                },
+                {
+                  "fileTitle": null,
+                  "fileName": null,
+                  "kind": "photo",
+                  "filePageUrl": null,
+                  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_of_Tren_Urbano_de_San_Juan.svg/40px-Logo_of_Tren_Urbano_de_San_Juan.svg.png",
+                  "originalRedirectUrl": null,
+                  "enwikiOriginalRedirectUrl": null,
+                  "srcset": [
+                    {
+                      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_of_Tren_Urbano_de_San_Juan.svg/60px-Logo_of_Tren_Urbano_de_San_Juan.svg.png",
+                      "descriptor": "2x"
+                    }
+                  ],
+                  "width": 23,
+                  "height": 25,
+                  "originalWidth": 523,
+                  "originalHeight": 561,
+                  "fileType": null,
+                  "alt": "Tren Urbano",
+                  "title": null,
+                  "caption": null
+                },
+                {
+                  "fileTitle": null,
+                  "fileName": null,
+                  "kind": "photo",
+                  "filePageUrl": null,
+                  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aiga_bus_trans.svg/20px-Aiga_bus_trans.svg.png",
+                  "originalRedirectUrl": null,
+                  "enwikiOriginalRedirectUrl": null,
+                  "srcset": [
+                    {
+                      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aiga_bus_trans.svg/40px-Aiga_bus_trans.svg.png",
+                      "descriptor": "2x"
+                    }
+                  ],
+                  "width": 14,
+                  "height": 17,
+                  "originalWidth": 367,
+                  "originalHeight": 442,
+                  "fileType": null,
+                  "alt": "Local Transit",
+                  "title": null,
+                  "caption": null
+                },
+                {
+                  "fileTitle": null,
+                  "fileName": null,
+                  "kind": "photo",
+                  "filePageUrl": null,
+                  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maki7-ferry.svg/20px-Maki7-ferry.svg.png",
+                  "originalRedirectUrl": null,
+                  "enwikiOriginalRedirectUrl": null,
+                  "srcset": [
+                    {
+                      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maki7-ferry.svg/40px-Maki7-ferry.svg.png",
+                      "descriptor": "2x"
+                    }
+                  ],
+                  "width": 15,
+                  "height": 15,
+                  "originalWidth": 15,
+                  "originalHeight": 15,
+                  "fileType": null,
+                  "alt": "Ferry Service",
+                  "title": null,
+                  "caption": null
+                }
+              ],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "1998 (1998)",
+              "lines": [
+                "1998 (1998)"
+              ],
+              "html": "<td class=\"infobox-data\">1998<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1998</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "July 1998 (1998-07)–2004 (2004)",
+              "lines": [
+                "July 1998 (1998-07)–2004 (2004)"
+              ],
+              "html": "<td class=\"infobox-data\">July&nbsp;1998<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1998-07</span>)</span>–2004<span>&nbsp;(<span class=\"dtend itvend\">2004</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "September 4, 2004 (2004-09-04)",
+              "lines": [
+                "September 4, 2004 (2004-09-04)"
+              ],
+              "html": "<td class=\"infobox-data\">September&nbsp;4,&nbsp;2004<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2004-09-04</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "USD $252.6 million",
+              "lines": [
+                "USD $252.6 million"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/United_States_dollar\" title=\"United States dollar\">USD</a> $252.6 million</td>",
+              "links": [
+                {
+                  "text": "USD",
+                  "title": "United States dollar",
+                  "wikiTitle": "United States dollar",
+                  "href": "https://en.wikipedia.org/wiki/United_States_dollar",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Sierra Cardona Ferrer\nHOK",
+              "lines": [
+                "Sierra Cardona Ferrer",
+                "HOK"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Sierra_Cardona_Ferrer\" class=\"mw-redirect\" title=\"Sierra Cardona Ferrer\">Sierra Cardona Ferrer</a><br><a href=\"https://en.wikipedia.org/wiki/HOK_(firm)\" title=\"HOK (firm)\">HOK</a></td>",
+              "links": [
+                {
+                  "text": "Sierra Cardona Ferrer",
+                  "title": "Sierra Cardona Ferrer",
+                  "wikiTitle": "Sierra Cardona Ferrer",
+                  "href": "https://en.wikipedia.org/wiki/Sierra_Cardona_Ferrer",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "HOK",
+                  "title": "HOK (firm)",
+                  "wikiTitle": "HOK (firm)",
+                  "href": "https://en.wikipedia.org/wiki/HOK_(firm)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "project_manager": [
+            {
+              "label": "Project manager",
+              "key": "project_manager",
+              "group": "Construction",
+              "text": "Government of Puerto Rico",
+              "lines": [
+                "Government of Puerto Rico"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Puerto_Rico\" title=\"Government of Puerto Rico\">Government of Puerto Rico</a></td>",
+              "links": [
+                {
+                  "text": "Government of Puerto Rico",
+                  "title": "Government of Puerto Rico",
+                  "wikiTitle": "Government of Puerto Rico",
+                  "href": "https://en.wikipedia.org/wiki/Government_of_Puerto_Rico",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "structural_engineer": [
+            {
+              "label": "Structural engineer",
+              "key": "structural_engineer",
+              "group": "Construction",
+              "text": "QB Construction",
+              "lines": [
+                "QB Construction"
+              ],
+              "html": "<td class=\"infobox-data\">QB Construction</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Puerto Rico men's national basketball team\nCangrejeros de Santurce (BSN) (2004–2011; 2021)\nPuerto Rico Tip-Off (NCAA) (2007–2011)",
+              "lines": [
+                "Puerto Rico men's national basketball team",
+                "Cangrejeros de Santurce (BSN) (2004–2011; 2021)",
+                "Puerto Rico Tip-Off (NCAA) (2007–2011)"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Puerto_Rico_men%27s_national_basketball_team\" title=\"Puerto Rico men's national basketball team\">Puerto Rico men's national basketball team</a><br><a href=\"https://en.wikipedia.org/wiki/Cangrejeros_de_Santurce_(basketball)\" title=\"Cangrejeros de Santurce (basketball)\">Cangrejeros de Santurce</a> (<a href=\"https://en.wikipedia.org/wiki/Baloncesto_Superior_Nacional\" title=\"Baloncesto Superior Nacional\">BSN</a>) (2004–2011; 2021)<br><a href=\"https://en.wikipedia.org/wiki/Puerto_Rico_Tip-Off\" title=\"Puerto Rico Tip-Off\">Puerto Rico Tip-Off</a> (<a href=\"https://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association\" title=\"National Collegiate Athletic Association\">NCAA</a>) (2007–2011)</td>",
+              "links": [
+                {
+                  "text": "Puerto Rico men's national basketball team",
+                  "title": "Puerto Rico men's national basketball team",
+                  "wikiTitle": "Puerto Rico men's national basketball team",
+                  "href": "https://en.wikipedia.org/wiki/Puerto_Rico_men%27s_national_basketball_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Cangrejeros de Santurce",
+                  "title": "Cangrejeros de Santurce (basketball)",
+                  "wikiTitle": "Cangrejeros de Santurce (basketball)",
+                  "href": "https://en.wikipedia.org/wiki/Cangrejeros_de_Santurce_(basketball)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "BSN",
+                  "title": "Baloncesto Superior Nacional",
+                  "wikiTitle": "Baloncesto Superior Nacional",
+                  "href": "https://en.wikipedia.org/wiki/Baloncesto_Superior_Nacional",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Puerto Rico Tip-Off",
+                  "title": "Puerto Rico Tip-Off",
+                  "wikiTitle": "Puerto Rico Tip-Off",
+                  "href": "https://en.wikipedia.org/wiki/Puerto_Rico_Tip-Off",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "NCAA",
+                  "title": "National Collegiate Athletic Association",
+                  "wikiTitle": "National Collegiate Athletic Association",
+                  "href": "https://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "www.coliseodepuertorico.com",
+              "lines": [
+                "www.coliseodepuertorico.com"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.coliseodepuertorico.com/\">www<wbr>.coliseodepuertorico<wbr>.com</a></span></td>",
+              "links": [
+                {
+                  "text": "www.coliseodepuertorico.com",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://www.coliseodepuertorico.com/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "José Miguel Agrelot Coliseum of Puerto Rico"
+          ],
+          "address": [
+            "500 Arterial B St."
+          ],
+          "location": [
+            "Hato Rey, San Juan, Puerto Rico"
+          ],
+          "coordinates": [
+            "18°25′39.78″N 66°3′41.01″W﻿ / ﻿18.4277167°N 66.0613917°W﻿ / 18.4277167; -66.0613917"
+          ],
+          "owner": [
+            "Puerto Rico Convention Center District Authority"
+          ],
+          "operator": [
+            "ASM Global"
+          ],
+          "seating_type": [
+            "Reserved seating"
+          ],
+          "capacity": [
+            "19,500"
+          ],
+          "executive_suites": [
+            "2 party suites\n26 corporate suites"
+          ],
+          "type": [
+            "Arena"
+          ],
+          "events": [
+            "Music, concerts, sporting events"
+          ],
+          "surface": [
+            "Concrete"
+          ],
+          "scoreboard": [
+            "Four-sided LED"
+          ],
+          "record_attendance": [
+            "18,749 – Bad Bunny: Un Verano Sin Ti (July 28, 2022)"
+          ],
+          "field_shape": [
+            "Oval rectangular"
+          ],
+          "public_transit": [
+            "Hato Rey Station\nAMA C1 C22 D15 T2\nAcuaExpreso: Hato Rey Terminal"
+          ],
+          "groundbreaking": [
+            "1998 (1998)"
+          ],
+          "built": [
+            "July 1998 (1998-07)–2004 (2004)"
+          ],
+          "opened": [
+            "September 4, 2004 (2004-09-04)"
+          ],
+          "cost": [
+            "USD $252.6 million"
+          ],
+          "architect": [
+            "Sierra Cardona Ferrer\nHOK"
+          ],
+          "project_manager": [
+            "Government of Puerto Rico"
+          ],
+          "structural_engineer": [
+            "QB Construction"
+          ],
+          "tenants": [
+            "Puerto Rico men's national basketball team\nCangrejeros de Santurce (BSN) (2004–2011; 2021)\nPuerto Rico Tip-Off (NCAA) (2007–2011)"
+          ],
+          "website": [
+            "www.coliseodepuertorico.com"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "19,500"
+        ],
+        "tenants": [
+          "Puerto Rico men's national basketball team",
+          "Cangrejeros de Santurce (BSN) (2004–2011; 2021)",
+          "Puerto Rico Tip-Off (NCAA) (2007–2011)"
+        ],
+        "websites": [
+          "http://www.coliseodepuertorico.com/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:José Miguel Agrelot Coliseum logo.svg",
+            "fileName": "José Miguel Agrelot Coliseum logo.svg",
+            "kind": "logo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg/250px-Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg/500px-Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 175,
+            "height": 82,
+            "originalWidth": 450,
+            "originalHeight": 210,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": "File:Coliseum of Puerto Rico (03).jpg",
+            "fileName": "Coliseum of Puerto Rico (03).jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Coliseum_of_Puerto_Rico_(03).jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Coliseum_of_Puerto_Rico_%2803%29.jpg/330px-Coliseum_of_Puerto_Rico_%2803%29.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coliseum_of_Puerto_Rico_(03).jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coliseum_of_Puerto_Rico_(03).jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Coliseum_of_Puerto_Rico_%2803%29.jpg/960px-Coliseum_of_Puerto_Rico_%2803%29.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 263,
+            "height": 148,
+            "originalWidth": 3264,
+            "originalHeight": 1836,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Front (north) view of the Choliseo from the former Old San Juan-Hato Rey ferry terminal and\nside (east) view from the Hato Rey Station of the Urban Train, 2016"
+          },
+          {
+            "fileTitle": "File:Tren Urbano Hato Rey Station by José Miguel Agrelot Coliseum.jpg",
+            "fileName": "Tren Urbano Hato Rey Station by José Miguel Agrelot Coliseum.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg/330px-Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg/960px-Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 263,
+            "height": 148,
+            "originalWidth": 3284,
+            "originalHeight": 1849,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Front (north) view of the Choliseo from the former Old San Juan-Hato Rey ferry terminal and\nside (east) view from the Hato Rey Station of the Urban Train, 2016"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Jos%C3%A9_Miguel_Agrelot_Coliseum&revid=1353574663&groups=_a437426dc19478c1faebcd948a3bda651f1f01be&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Jos%C3%A9_Miguel_Agrelot_Coliseum&revid=1353574663&groups=_a437426dc19478c1faebcd948a3bda651f1f01be&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aiga_railtransportation_25.svg/20px-Aiga_railtransportation_25.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [],
+            "width": 10,
+            "height": 15,
+            "originalWidth": 314,
+            "originalHeight": 472,
+            "fileType": null,
+            "alt": "Mainline rail interchange",
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_of_Tren_Urbano_de_San_Juan.svg/40px-Logo_of_Tren_Urbano_de_San_Juan.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_of_Tren_Urbano_de_San_Juan.svg/60px-Logo_of_Tren_Urbano_de_San_Juan.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 23,
+            "height": 25,
+            "originalWidth": 523,
+            "originalHeight": 561,
+            "fileType": null,
+            "alt": "Tren Urbano",
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aiga_bus_trans.svg/20px-Aiga_bus_trans.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aiga_bus_trans.svg/40px-Aiga_bus_trans.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 14,
+            "height": 17,
+            "originalWidth": 367,
+            "originalHeight": 442,
+            "fileType": null,
+            "alt": "Local Transit",
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maki7-ferry.svg/20px-Maki7-ferry.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maki7-ferry.svg/40px-Maki7-ferry.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 15,
+            "height": 15,
+            "originalWidth": 15,
+            "originalHeight": 15,
+            "fileType": null,
+            "alt": "Ferry Service",
+            "title": null,
+            "caption": null
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">José Miguel Agrelot Coliseum of Puerto Rico</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\" lang=\"es\"><i>Coliseo de Puerto Rico José Miguel Agrelot</i></div></td></tr><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\"><i>Choliseo</i> <br> <i>Choli</i></div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"notpageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg/250px-Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg.png\" width=\"175\" height=\"82\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg/500px-Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg.png 2x\" data-file-width=\"450\" data-file-height=\"210\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><div class=\"thumb tmulti tnone center\"><div class=\"multiimageinner\"><div class=\"trow\"><div class=\"tsingle\"><div><span><a href=\"https://en.wikipedia.org/wiki/File:Coliseum_of_Puerto_Rico_(03).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Coliseum_of_Puerto_Rico_%2803%29.jpg/330px-Coliseum_of_Puerto_Rico_%2803%29.jpg\" width=\"263\" height=\"148\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Coliseum_of_Puerto_Rico_%2803%29.jpg/960px-Coliseum_of_Puerto_Rico_%2803%29.jpg 2x\" data-file-width=\"3264\" data-file-height=\"1836\"></a></span></div></div></div><div class=\"trow\"><div class=\"tsingle\"><div><span><a href=\"https://en.wikipedia.org/wiki/File:Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg/330px-Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg\" width=\"263\" height=\"148\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg/960px-Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg 2x\" data-file-width=\"3284\" data-file-height=\"1849\"></a></span></div></div></div></div></div><div class=\"infobox-caption\">Front (north) view of the <i>Choliseo</i> from the former <a href=\"https://en.wikipedia.org/wiki/Old_San_Juan\" title=\"Old San Juan\">Old San Juan</a>-Hato Rey <a href=\"https://en.wikipedia.org/wiki/AcuaExpreso\" title=\"AcuaExpreso\">ferry terminal</a> and <br>side (east) view from the <a href=\"https://en.wikipedia.org/wiki/Hato_Rey_(Tren_Urbano_station)\" class=\"mw-redirect\" title=\"Hato Rey (Tren Urbano station)\">Hato Rey Station</a> of the <a href=\"https://en.wikipedia.org/wiki/Tren_Urbano\" title=\"Tren Urbano\">Urban Train</a>, 2016</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_a437426dc19478c1faebcd948a3bda651f1f01be&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Jos%C3%A9_Miguel_Agrelot_Coliseum&amp;revid=1353574663&amp;groups=_a437426dc19478c1faebcd948a3bda651f1f01be&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Jos%C3%A9_Miguel_Agrelot_Coliseum&amp;revid=1353574663&amp;groups=_a437426dc19478c1faebcd948a3bda651f1f01be&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">José Miguel Agrelot Coliseum of Puerto Rico</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\">500 Arterial B St.<span data-plural=\"0\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Hato_Rey,_Puerto_Rico\" class=\"mw-redirect\" title=\"Hato Rey, Puerto Rico\">Hato Rey</a>, <a href=\"https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico\" title=\"San Juan, Puerto Rico\">San Juan, Puerto Rico</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Jos%C3%A9_Miguel_Agrelot_Coliseum&amp;params=18_25_39.78_N_66_3_41.01_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">18°25′39.78″N</span> <span class=\"longitude\">66°3′41.01″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">18.4277167°N 66.0613917°W</span><span>﻿ / <span class=\"geo\">18.4277167; -66.0613917</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Puerto Rico Convention Center District Authority</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/ASM_Global\" class=\"mw-redirect\" title=\"ASM Global\">ASM Global</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Seating type</div></th><td class=\"infobox-data\">Reserved seating</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">19,500</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Executive suites</div></th><td class=\"infobox-data\">2 party suites<br>26 corporate suites</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Type</th><td class=\"infobox-data category\">Arena</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Events</th><td class=\"infobox-data\">Music, concerts, sporting events</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Surface</th><td class=\"infobox-data\">Concrete</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Scoreboard</th><td class=\"infobox-data\">Four-sided <a href=\"https://en.wikipedia.org/wiki/Light-emitting_diode\" title=\"Light-emitting diode\">LED</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Record attendance</div></th><td class=\"infobox-data\">18,749 – <a href=\"https://en.wikipedia.org/wiki/Bad_Bunny\" title=\"Bad Bunny\">Bad Bunny</a>: Un Verano Sin Ti (July 28, 2022)</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Field shape</div></th><td class=\"infobox-data\">Oval rectangular</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Public&nbsp;transit</th><td class=\"infobox-data\"><span class=\"skin-invert\"><span><img alt=\"Mainline rail interchange\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aiga_railtransportation_25.svg/20px-Aiga_railtransportation_25.svg.png\" width=\"10\" height=\"15\" class=\"mw-file-element\" data-file-width=\"314\" data-file-height=\"472\"></span></span> <span><a href=\"https://en.wikipedia.org/wiki/Tren_Urbano\" title=\"Tren Urbano\"><img alt=\"Tren Urbano\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_of_Tren_Urbano_de_San_Juan.svg/40px-Logo_of_Tren_Urbano_de_San_Juan.svg.png\" width=\"23\" height=\"25\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_of_Tren_Urbano_de_San_Juan.svg/60px-Logo_of_Tren_Urbano_de_San_Juan.svg.png 2x\" data-file-width=\"523\" data-file-height=\"561\"></a></span> <a href=\"https://en.wikipedia.org/wiki/Hato_Rey_(Tren_Urbano_station)\" class=\"mw-redirect\" title=\"Hato Rey (Tren Urbano station)\">Hato Rey Station</a><br><span class=\"skin-invert\"><span title=\"Local Transit\"><img alt=\"Local Transit\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aiga_bus_trans.svg/20px-Aiga_bus_trans.svg.png\" width=\"14\" height=\"17\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aiga_bus_trans.svg/40px-Aiga_bus_trans.svg.png 2x\" data-file-width=\"367\" data-file-height=\"442\"></span></span> <a href=\"https://en.wikipedia.org/wiki/Puerto_Rico_Metropolitan_Bus_Authority\" title=\"Puerto Rico Metropolitan Bus Authority\">AMA</a> <span>&nbsp;<span>C1</span>&nbsp;</span> <span>&nbsp;<span>C22</span>&nbsp;</span> <span>&nbsp;<span>D15</span>&nbsp;</span> <span>&nbsp;<span>T2</span>&nbsp;</span><br><span class=\"skin-invert\"><span title=\"Ferry Service\"><img alt=\"Ferry Service\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maki7-ferry.svg/20px-Maki7-ferry.svg.png\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maki7-ferry.svg/40px-Maki7-ferry.svg.png 2x\" data-file-width=\"15\" data-file-height=\"15\"></span></span> <a href=\"https://en.wikipedia.org/wiki/AcuaExpreso\" title=\"AcuaExpreso\">AcuaExpreso</a>: Hato Rey Terminal</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">1998<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1998</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">July&nbsp;1998<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">1998-07</span>)</span>–2004<span>&nbsp;(<span class=\"dtend itvend\">2004</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">September&nbsp;4,&nbsp;2004<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2004-09-04</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/United_States_dollar\" title=\"United States dollar\">USD</a> $252.6 million</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Sierra_Cardona_Ferrer\" class=\"mw-redirect\" title=\"Sierra Cardona Ferrer\">Sierra Cardona Ferrer</a><br><a href=\"https://en.wikipedia.org/wiki/HOK_(firm)\" title=\"HOK (firm)\">HOK</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Project manager</div></th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Puerto_Rico\" title=\"Government of Puerto Rico\">Government of Puerto Rico</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Structural engineer</div></th><td class=\"infobox-data\">QB Construction</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Puerto_Rico_men%27s_national_basketball_team\" title=\"Puerto Rico men's national basketball team\">Puerto Rico men's national basketball team</a><br><a href=\"https://en.wikipedia.org/wiki/Cangrejeros_de_Santurce_(basketball)\" title=\"Cangrejeros de Santurce (basketball)\">Cangrejeros de Santurce</a> (<a href=\"https://en.wikipedia.org/wiki/Baloncesto_Superior_Nacional\" title=\"Baloncesto Superior Nacional\">BSN</a>) (2004–2011; 2021)<br><a href=\"https://en.wikipedia.org/wiki/Puerto_Rico_Tip-Off\" title=\"Puerto Rico Tip-Off\">Puerto Rico Tip-Off</a> (<a href=\"https://en.wikipedia.org/wiki/National_Collegiate_Athletic_Association\" title=\"National Collegiate Athletic Association\">NCAA</a>) (2007–2011)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.coliseodepuertorico.com/\">www<wbr>.coliseodepuertorico<wbr>.com</a></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Spanish-language_sources_(es)",
+        "Webarchive_template_wayback_links",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_multiple_image_with_auto_scaled_images",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_October_2020",
+        "Articles_with_unsourced_statements_from_October_2012",
+        "Commons_category_link_from_Wikidata",
+        "Basketball_venues_in_Puerto_Rico",
+        "Boxing_venues_in_Puerto_Rico",
+        "Indoor_arenas_in_Puerto_Rico",
+        "Sports_venues_completed_in_2004",
+        "Sports_venues_in_San_Juan,_Puerto_Rico",
+        "2004_establishments_in_Puerto_Rico",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Jos%C3%A9_Miguel_Agrelot_Coliseum&params=18_25_39.78_N_66_3_41.01_W_type:landmark",
+        "https://web.archive.org/web/20150930135711/http://smgworld.com/facility_type/arenas/",
+        "https://asmglobal.com/p/our-portfolio/arenas/coliso-de-puerto-rico",
+        "https://www.elnuevodia.com/entretenimiento/musica/notas/disipan-dudas-sobre-la-seguridad-del-techo-del-coliseo-de-puerto-rico/",
+        "https://wapa.tv/noticias/entretenimiento/cu-n-segura-es-la-estructura-del-techo-del-coliseo-de-puerto-rico/article_c2d3e7e4-1941-4697-97b9-93dcca43d1d5.html#",
+        "https://staging.pollstar.com/cities/carolina-12886?eventsTab=1&eventsFromDate=4-12-2025&eventsToDate=4-12-2125",
+        "https://www.elnuevodia.com/entretenimiento/musica/notas/bad-bunny-rompe-record-de-asistencia-en-el-coliseo-de-puerto-rico/",
+        "https://web.archive.org/web/20220729200847/https://www.elnuevodia.com/entretenimiento/musica/notas/bad-bunny-rompe-record-de-asistencia-en-el-coliseo-de-puerto-rico/",
+        "https://www.coliseodepuertorico.com/",
+        "https://web.archive.org/web/20140905072445/http://www.elnuevodia.com/fotodetalle-diezanosdelcoliseodepuertoricojosemiguelagrelot-1847206.html/1",
+        "http://www.elnuevodia.com/fotodetalle-diezanosdelcoliseodepuertoricojosemiguelagrelot-1847206.html/1",
+        "https://www.elnuevodia.com/entretenimiento/musica/notas/estos-son-los-records-del-coliseo-de-puerto-rico-en-sus-20-anos/",
+        "https://news.pollstar.com/2022/04/07/punching-above-their-weight-how-one-small-island-is-having-a-huge-impact-on-touring/",
+        "https://newsismybusiness.com/puerto-rico-coliseum-sees-record-breaking-net-income/",
+        "https://venuesnow.com/el-choliseo-bounces-back-again/",
+        "https://web.archive.org/web/20240123072259/https://venuesnow.com/el-choliseo-bounces-back-again/",
+        "https://newsismybusiness.com/coliseo-record-breaking/",
+        "https://web.archive.org/web/20240123072258/https://newsismybusiness.com/coliseo-record-breaking/",
+        "http://www.elnuevodia.com/elcholiseoentrelosmastaquillerosdelmundo-976325.html",
+        "https://web.archive.org/web/20140906203808/http://www.elnuevodia.com/elcholiseoentrelosmastaquillerosdelmundo-976325.html",
+        "https://atlanticyardsreport.blogspot.com/2024/09/barclays-centers-unimpressive-ranking.html?m=1",
+        "https://www.elnuevodia.com/negocios/economia/notas/el-choliseo-cerrara-este-ano-fiscal-con-75-millones-en-ingresos/#:~:text=La%20Autoridad%20del%20Distrito%20de,$7.5%20millones%20en%20ingresos%20netos",
+        "https://www.iq-mag.net/2022/05/puerto-rico-arena-welcomes-10000th-visitor/",
+        "https://web.archive.org/web/20121116052244/http://www.smgworld.com/smg_latin_america.aspx",
+        "http://www.smgworld.com/smg_latin_america.aspx",
+        "http://www.rafaelhernandezcolon.org/MENSAJESTOMOS/1992_II/DOC031910%20Fri%20Mar%2019%202010%2016-05-47.718.pdf",
+        "http://app.estado.gobierno.pr/ordenes_ejecutivas/1995/OE-1995-09.pdf",
+        "https://www.primerahora.com/deportes/otros/notas/atenas-2004-hubiera-sido-distinto-en-puerto-rico/",
+        "https://puertorico-herald.net/issues/2004/vol8n30/SJcoliseum.html",
+        "https://www.primerahora.com/noticias/puerto-rico/notas/abren-centros-de-ayuda-del-gobierno-en-seis-pueblos-de-la-isla/",
+        "https://www.primerahora.com/noticias/puerto-rico/notas/iniciativa-de-la-primera-dama-recauda-mas-de-un-millon-de-libras-en-donaciones/",
+        "https://www.billboard.com/music/latin/luis-fonsi-puerto-rico-tourism-campaign-8257040/",
+        "https://www.elnuevodia.com/entretenimiento/musica/notas/gilberto-santa-rosa-se-presentara-en-el-coliseo-de-puerto-rico-el-26-de-junio/",
+        "https://www.ticketera.com/events/venue/coliseo-de-puerto-rico",
+        "https://www.elnuevodia.com/negocios/empresas/nota/ticketerasequedaconlaboleteriadelcholiseo-2514270/",
+        "https://web.archive.org/web/20190904150243/https://www.elnuevodia.com/negocios/empresas/nota/ticketerasequedaconlaboleteriadelcholiseo-2514270/",
+        "https://newsismybusiness.com/coliseo-de-puerto-rico-partners-with-ticketera-for-new-box-office-service/",
+        "https://sincomillas.com/evertec-vende-ticketpop-a-ticketera/",
+        "https://newsismybusiness.com/evertec-sells-box-office-service-ticketpop-to-rival-ticketera/",
+        "https://newsismybusiness.com/puerto-rico-to-host-miss-universe-75th-anniversary-in-2026/",
+        "http://www.coliseodepuertorico.com",
+        "http://www.coliseodepuertorico.com/",
+        "https://musicbrainz.org/place/c87467e7-92ab-436a-b40a-6f75a5ee473b"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Name",
+          "anchor": "Name"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "Construction",
+          "anchor": "Construction"
+        },
+        {
+          "index": "4",
+          "level": 4,
+          "line": "Rosselló administration",
+          "anchor": "Rosselló_administration"
+        },
+        {
+          "index": "5",
+          "level": 4,
+          "line": "Calderón administration",
+          "anchor": "Calderón_administration"
+        },
+        {
+          "index": "6",
+          "level": 3,
+          "line": "Opening",
+          "anchor": "Opening"
+        },
+        {
+          "index": "7",
+          "level": 3,
+          "line": "Major closings",
+          "anchor": "Major_closings"
+        },
+        {
+          "index": "8",
+          "level": 2,
+          "line": "Structural security",
+          "anchor": "Structural_security"
+        },
+        {
+          "index": "9",
+          "level": 2,
+          "line": "Parking and transportation",
+          "anchor": "Parking_and_transportation"
+        },
+        {
+          "index": "10",
+          "level": 2,
+          "line": "Ticketing service",
+          "anchor": "Ticketing_service"
+        },
+        {
+          "index": "11",
+          "level": 2,
+          "line": "Notable events",
+          "anchor": "Notable_events"
+        },
+        {
+          "index": "12",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "13",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "14",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Coliseum_of_Puerto_Rico_(03).jpg",
+        "Tren_Urbano_Hato_Rey_Station_by_José_Miguel_Agrelot_Coliseum.jpg",
+        "José_Miguel_Agrelot_Coliseum_logo.svg",
+        "Aiga_railtransportation_25.svg",
+        "Logo_of_Tren_Urbano_de_San_Juan.svg",
+        "Aiga_bus_trans.svg",
+        "Maki7-ferry.svg",
+        "Aerial_View_of_Condado_San_Juan_(cropped2).jpg",
+        "Avion-choli.jpg",
+        "Coliseo_de_Puerto_Rico_satellite_view.png",
+        "Coliseum_of_Puerto_Rico_(I).jpg",
+        "Coliseo_de_Puerto_Rico.jpg",
+        "Coliseo_Jose_Miguel_Agrelot.jpg",
+        "Flag_of_Puerto_Rico.svg",
+        "Commons-logo.svg",
+        "OOjs_UI_icon_edit-ltr-progressive.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:José Miguel Agrelot Coliseum logo.svg",
+          "fileName": "José Miguel Agrelot Coliseum logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg/250px-Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg/500px-Jos%C3%A9_Miguel_Agrelot_Coliseum_logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 175,
+          "height": 82,
+          "originalWidth": 450,
+          "originalHeight": 210,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Coliseum of Puerto Rico (03).jpg",
+          "fileName": "Coliseum of Puerto Rico (03).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coliseum_of_Puerto_Rico_(03).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Coliseum_of_Puerto_Rico_%2803%29.jpg/330px-Coliseum_of_Puerto_Rico_%2803%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coliseum_of_Puerto_Rico_(03).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coliseum_of_Puerto_Rico_(03).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Coliseum_of_Puerto_Rico_%2803%29.jpg/960px-Coliseum_of_Puerto_Rico_%2803%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 263,
+          "height": 148,
+          "originalWidth": 3264,
+          "originalHeight": 1836,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Front (north) view of the Choliseo from the former Old San Juan-Hato Rey ferry terminal and\nside (east) view from the Hato Rey Station of the Urban Train, 2016"
+        },
+        {
+          "fileTitle": "File:Tren Urbano Hato Rey Station by José Miguel Agrelot Coliseum.jpg",
+          "fileName": "Tren Urbano Hato Rey Station by José Miguel Agrelot Coliseum.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg/330px-Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg/960px-Tren_Urbano_Hato_Rey_Station_by_Jos%C3%A9_Miguel_Agrelot_Coliseum.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 263,
+          "height": 148,
+          "originalWidth": 3284,
+          "originalHeight": 1849,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Front (north) view of the Choliseo from the former Old San Juan-Hato Rey ferry terminal and\nside (east) view from the Hato Rey Station of the Urban Train, 2016"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Jos%C3%A9_Miguel_Agrelot_Coliseum&revid=1353574663&groups=_a437426dc19478c1faebcd948a3bda651f1f01be&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Jos%C3%A9_Miguel_Agrelot_Coliseum&revid=1353574663&groups=_a437426dc19478c1faebcd948a3bda651f1f01be&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aiga_railtransportation_25.svg/20px-Aiga_railtransportation_25.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 15,
+          "originalWidth": 314,
+          "originalHeight": 472,
+          "fileType": null,
+          "alt": "Mainline rail interchange",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_of_Tren_Urbano_de_San_Juan.svg/40px-Logo_of_Tren_Urbano_de_San_Juan.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Logo_of_Tren_Urbano_de_San_Juan.svg/60px-Logo_of_Tren_Urbano_de_San_Juan.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 25,
+          "originalWidth": 523,
+          "originalHeight": 561,
+          "fileType": null,
+          "alt": "Tren Urbano",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aiga_bus_trans.svg/20px-Aiga_bus_trans.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aiga_bus_trans.svg/40px-Aiga_bus_trans.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 14,
+          "height": 17,
+          "originalWidth": 367,
+          "originalHeight": 442,
+          "fileType": null,
+          "alt": "Local Transit",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maki7-ferry.svg/20px-Maki7-ferry.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Maki7-ferry.svg/40px-Maki7-ferry.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 15,
+          "height": 15,
+          "originalWidth": 15,
+          "originalHeight": 15,
+          "fileType": null,
+          "alt": "Ferry Service",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Aerial View of Condado San Juan (cropped2).jpg",
+          "fileName": "Aerial View of Condado San Juan (cropped2).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Aerial_View_of_Condado_San_Juan_(cropped2).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aerial_View_of_Condado_San_Juan_%28cropped2%29.jpg/330px-Aerial_View_of_Condado_San_Juan_%28cropped2%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Aerial_View_of_Condado_San_Juan_(cropped2).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Aerial_View_of_Condado_San_Juan_(cropped2).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Aerial_View_of_Condado_San_Juan_%28cropped2%29.jpg/960px-Aerial_View_of_Condado_San_Juan_%28cropped2%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 275,
+          "height": 162,
+          "originalWidth": 2669,
+          "originalHeight": 1576,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Aerial view of Condado resort area (foreground) in Santurce barrio to Milla de Oro financial district (background) in Hato Rey barrio with the Choliseo visible (oval structure in center background), 2022"
+        },
+        {
+          "fileTitle": "File:Avion-choli.jpg",
+          "fileName": "Avion-choli.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Avion-choli.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Avion-choli.jpg/250px-Avion-choli.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Avion-choli.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Avion-choli.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Avion-choli.jpg/330px-Avion-choli.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 150,
+          "height": 226,
+          "originalWidth": 780,
+          "originalHeight": 1175,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Aerial view of the Choliseo, 2005"
+        },
+        {
+          "fileTitle": "File:Coliseo de Puerto Rico satellite view.png",
+          "fileName": "Coliseo de Puerto Rico satellite view.png",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coliseo_de_Puerto_Rico_satellite_view.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Coliseo_de_Puerto_Rico_satellite_view.png/250px-Coliseo_de_Puerto_Rico_satellite_view.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coliseo_de_Puerto_Rico_satellite_view.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coliseo_de_Puerto_Rico_satellite_view.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Coliseo_de_Puerto_Rico_satellite_view.png/500px-Coliseo_de_Puerto_Rico_satellite_view.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 165,
+          "originalWidth": 992,
+          "originalHeight": 653,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Satellite view of the Choliseo, 2007"
+        },
+        {
+          "fileTitle": "File:Coliseum of Puerto Rico (I).jpg",
+          "fileName": "Coliseum of Puerto Rico (I).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coliseum_of_Puerto_Rico_(I).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Coliseum_of_Puerto_Rico_%28I%29.jpg/250px-Coliseum_of_Puerto_Rico_%28I%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coliseum_of_Puerto_Rico_(I).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coliseum_of_Puerto_Rico_(I).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Coliseum_of_Puerto_Rico_%28I%29.jpg/500px-Coliseum_of_Puerto_Rico_%28I%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 141,
+          "originalWidth": 4583,
+          "originalHeight": 2578,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Side view (west) of the Choliseo, 2017"
+        },
+        {
+          "fileTitle": "File:Coliseo de Puerto Rico.jpg",
+          "fileName": "Coliseo de Puerto Rico.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coliseo_de_Puerto_Rico.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Coliseo_de_Puerto_Rico.jpg/250px-Coliseo_de_Puerto_Rico.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coliseo_de_Puerto_Rico.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coliseo_de_Puerto_Rico.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Coliseo_de_Puerto_Rico.jpg/500px-Coliseo_de_Puerto_Rico.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 169,
+          "originalWidth": 1280,
+          "originalHeight": 864,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The Choliseo from the parking lot in the northeast, 2007"
+        },
+        {
+          "fileTitle": "File:Coliseo Jose Miguel Agrelot.jpg",
+          "fileName": "Coliseo Jose Miguel Agrelot.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coliseo_Jose_Miguel_Agrelot.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Coliseo_Jose_Miguel_Agrelot.jpg/250px-Coliseo_Jose_Miguel_Agrelot.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coliseo_Jose_Miguel_Agrelot.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coliseo_Jose_Miguel_Agrelot.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Coliseo_Jose_Miguel_Agrelot.jpg/500px-Coliseo_Jose_Miguel_Agrelot.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 160,
+          "originalWidth": 2237,
+          "originalHeight": 1431,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Night view of the Choliseo from the Hato Rey Station of the Tren Urbano, 2005"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "icon",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/40px-Flag_of_Puerto_Rico.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/120px-Flag_of_Puerto_Rico.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 32,
+          "height": 21,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "flag",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "North America"
+          ],
+          "tableIndex": 3,
+          "tableCaption": null,
+          "rowIndex": 58,
+          "rowText": "Coliseo de Puerto Rico, José Miguel Agrelot\n2004\n19,500",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Jos%C3%A9_Miguel_Agrelot_Coliseum\" title=\"José Miguel Agrelot Coliseum\">Coliseo de Puerto Rico, José Miguel Agrelot</a>\n</td>\n<td align=\"center\">2004\n</td>\n<td align=\"right\">19,500\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 48,
+              "cell": {
+                "text": "Puerto Rico",
+                "lines": [
+                  "Puerto Rico"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Puerto Rico",
+                    "title": "Puerto Rico",
+                    "wikiTitle": "Puerto Rico",
+                    "href": "https://en.wikipedia.org/wiki/Puerto_Rico",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 57,
+              "cell": {
+                "text": "San Juan",
+                "lines": [
+                  "San Juan"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "San Juan",
+                    "title": "San Juan, Puerto Rico",
+                    "wikiTitle": "San Juan, Puerto Rico",
+                    "href": "https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 58,
+              "cell": {
+                "text": "Coliseo de Puerto Rico, José Miguel Agrelot",
+                "lines": [
+                  "Coliseo de Puerto Rico, José Miguel Agrelot"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo de Puerto Rico, José Miguel Agrelot",
+                    "title": "José Miguel Agrelot Coliseum",
+                    "wikiTitle": "José Miguel Agrelot Coliseum",
+                    "href": "https://en.wikipedia.org/wiki/Jos%C3%A9_Miguel_Agrelot_Coliseum",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 58,
+              "cell": {
+                "text": "2004",
+                "lines": [
+                  "2004"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 58,
+              "cell": {
+                "text": "19,500",
+                "lines": [
+                  "19,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 58,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Coliseo de Puerto Rico, José Miguel Agrelot",
+            "lines": [
+              "Coliseo de Puerto Rico, José Miguel Agrelot"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo de Puerto Rico, José Miguel Agrelot",
+                "title": "José Miguel Agrelot Coliseum",
+                "wikiTitle": "José Miguel Agrelot Coliseum",
+                "href": "https://en.wikipedia.org/wiki/Jos%C3%A9_Miguel_Agrelot_Coliseum",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas by capacity",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_by_capacity",
+          "sourceRevisionId": null,
+          "sourceType": "arena_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 39,
+          "rowText": "Coliseo de Puerto Rico\n19,500\nSan Juan\nPuerto Rico (U.S.)",
+          "rowHtml": "<tr>\n<th scope=\"row\"><a href=\"https://en.wikipedia.org/wiki/Jos%C3%A9_Miguel_Agrelot_Coliseum\" title=\"José Miguel Agrelot Coliseum\">Coliseo de Puerto Rico</a>\n</th>\n<td>19,500\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico\" title=\"San Juan, Puerto Rico\">San Juan</a>\n</td>\n<td><span class=\"flagicon nowrap\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/40px-Flag_of_Puerto_Rico.svg.png\" width=\"23\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/60px-Flag_of_Puerto_Rico.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\"></span></span> </span><a href=\"https://en.wikipedia.org/wiki/Puerto_Rico\" title=\"Puerto Rico\">Puerto Rico</a> (U.S.)\n</td>\n<td><span><a href=\"https://en.wikipedia.org/wiki/File:Bad_Bunny_Choli_Residency_Inside.webp\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bad_Bunny_Choli_Residency_Inside.webp/250px-Bad_Bunny_Choli_Residency_Inside.webp.png\" width=\"150\" height=\"113\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bad_Bunny_Choli_Residency_Inside.webp/330px-Bad_Bunny_Choli_Residency_Inside.webp.png 2x\" data-file-width=\"1240\" data-file-height=\"930\"></a></span>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 39,
+              "cell": {
+                "text": "Coliseo de Puerto Rico",
+                "lines": [
+                  "Coliseo de Puerto Rico"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo de Puerto Rico",
+                    "title": "José Miguel Agrelot Coliseum",
+                    "wikiTitle": "José Miguel Agrelot Coliseum",
+                    "href": "https://en.wikipedia.org/wiki/Jos%C3%A9_Miguel_Agrelot_Coliseum",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 39,
+              "cell": {
+                "text": "19,500",
+                "lines": [
+                  "19,500"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "[14]",
+                    "title": null,
+                    "wikiTitle": null,
+                    "href": "https://en.wikipedia.org/#cite_note-14",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": true
+                  },
+                  {
+                    "text": "[15]",
+                    "title": null,
+                    "wikiTitle": null,
+                    "href": "https://en.wikipedia.org/#cite_note-15",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": true
+                  },
+                  {
+                    "text": "[16]",
+                    "title": null,
+                    "wikiTitle": null,
+                    "href": "https://en.wikipedia.org/#cite_note-16",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": true
+                  }
+                ],
+                "media": [],
+                "references": [
+                  {
+                    "label": "[14]",
+                    "href": "https://en.wikipedia.org/#cite_note-14"
+                  },
+                  {
+                    "label": "[15]",
+                    "href": "https://en.wikipedia.org/#cite_note-15"
+                  },
+                  {
+                    "label": "[16]",
+                    "href": "https://en.wikipedia.org/#cite_note-16"
+                  }
+                ]
+              }
+            },
+            {
+              "index": 2,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 39,
+              "cell": {
+                "text": "San Juan",
+                "lines": [
+                  "San Juan"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "San Juan",
+                    "title": "San Juan, Puerto Rico",
+                    "wikiTitle": "San Juan, Puerto Rico",
+                    "href": "https://en.wikipedia.org/wiki/San_Juan,_Puerto_Rico",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 39,
+              "cell": {
+                "text": "Puerto Rico (U.S.)",
+                "lines": [
+                  "Puerto Rico (U.S.)"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Puerto Rico",
+                    "title": "Puerto Rico",
+                    "wikiTitle": "Puerto Rico",
+                    "href": "https://en.wikipedia.org/wiki/Puerto_Rico",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": null,
+                    "fileName": null,
+                    "kind": "photo",
+                    "filePageUrl": null,
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/40px-Flag_of_Puerto_Rico.svg.png",
+                    "originalRedirectUrl": null,
+                    "enwikiOriginalRedirectUrl": null,
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/60px-Flag_of_Puerto_Rico.svg.png",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 23,
+                    "height": 15,
+                    "originalWidth": 900,
+                    "originalHeight": 600,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 39,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [
+                  {
+                    "text": "",
+                    "title": "File:Bad Bunny Choli Residency Inside.webp",
+                    "wikiTitle": "File:Bad Bunny Choli Residency Inside.webp",
+                    "href": "https://en.wikipedia.org/wiki/File:Bad_Bunny_Choli_Residency_Inside.webp",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": "File:Bad Bunny Choli Residency Inside.webp",
+                    "fileName": "Bad Bunny Choli Residency Inside.webp",
+                    "kind": "photo",
+                    "filePageUrl": "https://en.wikipedia.org/wiki/File:Bad_Bunny_Choli_Residency_Inside.webp",
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bad_Bunny_Choli_Residency_Inside.webp/250px-Bad_Bunny_Choli_Residency_Inside.webp.png",
+                    "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bad_Bunny_Choli_Residency_Inside.webp",
+                    "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Bad_Bunny_Choli_Residency_Inside.webp",
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bad_Bunny_Choli_Residency_Inside.webp/330px-Bad_Bunny_Choli_Residency_Inside.webp.png",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 150,
+                    "height": 113,
+                    "originalWidth": 1240,
+                    "originalHeight": 930,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": null,
+              "fileName": null,
+              "kind": "photo",
+              "filePageUrl": null,
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/40px-Flag_of_Puerto_Rico.svg.png",
+              "originalRedirectUrl": null,
+              "enwikiOriginalRedirectUrl": null,
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/60px-Flag_of_Puerto_Rico.svg.png",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 23,
+              "height": 15,
+              "originalWidth": 900,
+              "originalHeight": 600,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            },
+            {
+              "fileTitle": "File:Bad Bunny Choli Residency Inside.webp",
+              "fileName": "Bad Bunny Choli Residency Inside.webp",
+              "kind": "photo",
+              "filePageUrl": "https://en.wikipedia.org/wiki/File:Bad_Bunny_Choli_Residency_Inside.webp",
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bad_Bunny_Choli_Residency_Inside.webp/250px-Bad_Bunny_Choli_Residency_Inside.webp.png",
+              "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bad_Bunny_Choli_Residency_Inside.webp",
+              "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Bad_Bunny_Choli_Residency_Inside.webp",
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Bad_Bunny_Choli_Residency_Inside.webp/330px-Bad_Bunny_Choli_Residency_Inside.webp.png",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 150,
+              "height": 113,
+              "originalWidth": 1240,
+              "originalHeight": 930,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Coliseo de Puerto Rico",
+            "lines": [
+              "Coliseo de Puerto Rico"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo de Puerto Rico",
+                "title": "José Miguel Agrelot Coliseum",
+                "wikiTitle": "José Miguel Agrelot Coliseum",
+                "href": "https://en.wikipedia.org/wiki/Jos%C3%A9_Miguel_Agrelot_Coliseum",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:49:45.675Z"
+    }
+  ]
+}

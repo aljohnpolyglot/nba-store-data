@@ -1,0 +1,796 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Pakistan",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 2
+  },
+  "stats": {
+    "arenaCount": 2,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 2,
+    "sourceTypeCounts": {
+      "world_master_list": 2
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-10404978",
+      "pageId": 10404978,
+      "revisionId": null,
+      "title": "City Sports Complex",
+      "displayTitle": "City Sports Complex",
+      "url": "https://en.wikipedia.org/wiki/City_Sports_Complex",
+      "wikidataItem": "Q5123428",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5123428",
+      "aliases": [
+        "City Sports Complex"
+      ],
+      "requestedTitles": [
+        "City Sports Complex"
+      ],
+      "sourceLinkTexts": [
+        "City Sports Complex"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/City_Sports_Complex"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 24.86,
+        "longitude": 67.01,
+        "raw": "24.8600; 67.0100"
+      },
+      "leadParagraphs": [],
+      "infobox": null,
+      "categories": [
+        "Accuracy_disputes_from_March_2022",
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Articles_needing_additional_references_from_June_2025",
+        "All_articles_needing_additional_references",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Pakistan",
+        "Sports_venues_in_Karachi",
+        "Table_tennis_venues",
+        "Table_tennis_in_Pakistan",
+        "Tennis_venues_in_Pakistan",
+        "Swimming_venues_in_Pakistan",
+        "Boxing_venues_in_Pakistan",
+        "Basketball_venues_in_Pakistan",
+        "All_stub_articles",
+        "Asian_sports_venue_stubs",
+        "Pakistani_building_and_structure_stubs",
+        "Pakistani_sport_stubs"
+      ],
+      "externalLinks": [
+        "https://www.facebook.com/pages/KMC-City-Sports-Complex/1476712449306427",
+        "https://geohack.toolforge.org/geohack.php?pagename=City_Sports_Complex&params=24.8600_N_67.0100_E_source:wikidata-and-enwiki-cat-tree_region:PK",
+        "https://www.google.com/search?as_eq=wikipedia&q=%22City+Sports+Complex%22",
+        "https://www.google.com/search?tbm=nws&q=%22City+Sports+Complex%22+-wikipedia&tbs=ar:1",
+        "https://www.google.com/search?&q=%22City+Sports+Complex%22&tbs=bkt:s&tbm=bks",
+        "https://www.google.com/search?tbs=bks:1&q=%22City+Sports+Complex%22+-wikipedia",
+        "https://scholar.google.com/scholar?q=%22City+Sports+Complex%22",
+        "https://www.jstor.org/action/doBasicSearch?Query=%22City+Sports+Complex%22&acc=on&wc=on",
+        "https://www.dawn.com/news/144283/karachi-body-for-sports-complex",
+        "https://www.dawn.com/news/236281/cdgk-sports-complex-in-shambles-as-citizens-suffer"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Question_book-new.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Question book-new.svg",
+          "fileName": "Question book-new.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 39,
+          "originalWidth": 512,
+          "originalHeight": 399,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 413,
+          "rowText": "Karachi\nCity Sports Complex\n5,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Karachi\" title=\"Karachi\">Karachi</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/City_Sports_Complex\" title=\"City Sports Complex\">City Sports Complex</a>\n</td>\n<td>\n</td>\n<td>5,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 411,
+              "cell": {
+                "text": "Pakistan",
+                "lines": [
+                  "Pakistan"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Pakistan",
+                    "title": "Pakistan",
+                    "wikiTitle": "Pakistan",
+                    "href": "https://en.wikipedia.org/wiki/Pakistan",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 413,
+              "cell": {
+                "text": "Karachi",
+                "lines": [
+                  "Karachi"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Karachi",
+                    "title": "Karachi",
+                    "wikiTitle": "Karachi",
+                    "href": "https://en.wikipedia.org/wiki/Karachi",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 413,
+              "cell": {
+                "text": "City Sports Complex",
+                "lines": [
+                  "City Sports Complex"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "City Sports Complex",
+                    "title": "City Sports Complex",
+                    "wikiTitle": "City Sports Complex",
+                    "href": "https://en.wikipedia.org/wiki/City_Sports_Complex",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 413,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 413,
+              "cell": {
+                "text": "5,000",
+                "lines": [
+                  "5,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 413,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "City Sports Complex",
+            "lines": [
+              "City Sports Complex"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "City Sports Complex",
+                "title": "City Sports Complex",
+                "wikiTitle": "City Sports Complex",
+                "href": "https://en.wikipedia.org/wiki/City_Sports_Complex",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:40.511Z"
+    },
+    {
+      "id": "wikipedia-page-28896368",
+      "pageId": 28896368,
+      "revisionId": null,
+      "title": "Liaquat Gymnasium",
+      "displayTitle": "Liaquat Gymnasium",
+      "url": "https://en.wikipedia.org/wiki/Liaquat_Gymnasium",
+      "wikidataItem": "Q6540191",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q6540191",
+      "aliases": [
+        "Liaquat Gymnasium"
+      ],
+      "requestedTitles": [
+        "Liaquat Gymnasium"
+      ],
+      "sourceLinkTexts": [
+        "Liaquat Gymnasium"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Liaquat_Gymnasium"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 33.7,
+        "longitude": 73.1,
+        "raw": "33.700; 73.100"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Liaquat Gymnasium",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Islamabad, Pakistan",
+            "lines": [
+              "Islamabad, Pakistan"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Islamabad\" title=\"Islamabad\">Islamabad</a>, <a href=\"https://en.wikipedia.org/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>",
+            "links": [
+              {
+                "text": "Islamabad",
+                "title": "Islamabad",
+                "wikiTitle": "Islamabad",
+                "href": "https://en.wikipedia.org/wiki/Islamabad",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Pakistan",
+                "title": "Pakistan",
+                "wikiTitle": "Pakistan",
+                "href": "https://en.wikipedia.org/wiki/Pakistan",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "10,223",
+            "lines": [
+              "10,223"
+            ],
+            "html": "<td class=\"infobox-data\">10,223</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1985",
+            "lines": [
+              "1985"
+            ],
+            "html": "<td class=\"infobox-data\">1985</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Islamabad, Pakistan",
+              "lines": [
+                "Islamabad, Pakistan"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Islamabad\" title=\"Islamabad\">Islamabad</a>, <a href=\"https://en.wikipedia.org/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td>",
+              "links": [
+                {
+                  "text": "Islamabad",
+                  "title": "Islamabad",
+                  "wikiTitle": "Islamabad",
+                  "href": "https://en.wikipedia.org/wiki/Islamabad",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Pakistan",
+                  "title": "Pakistan",
+                  "wikiTitle": "Pakistan",
+                  "href": "https://en.wikipedia.org/wiki/Pakistan",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "10,223",
+              "lines": [
+                "10,223"
+              ],
+              "html": "<td class=\"infobox-data\">10,223</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1985",
+              "lines": [
+                "1985"
+              ],
+              "html": "<td class=\"infobox-data\">1985</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Islamabad, Pakistan"
+          ],
+          "capacity": [
+            "10,223"
+          ],
+          "opened": [
+            "1985"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "10,223"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Liaquat_Gymnasium&revid=1329836157&groups=_83f88de1da3e415fe434d6236b64c7bdfcc8cda1&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Liaquat_Gymnasium&revid=1329836157&groups=_83f88de1da3e415fe434d6236b64c7bdfcc8cda1&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Liaquat Gymnasium"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Liaquat Gymnasium</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_83f88de1da3e415fe434d6236b64c7bdfcc8cda1&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Liaquat_Gymnasium&amp;revid=1329836157&amp;groups=_83f88de1da3e415fe434d6236b64c7bdfcc8cda1&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Liaquat_Gymnasium&amp;revid=1329836157&amp;groups=_83f88de1da3e415fe434d6236b64c7bdfcc8cda1&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Liaquat Gymnasium</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Islamabad\" title=\"Islamabad\">Islamabad</a>, <a href=\"https://en.wikipedia.org/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">10,223</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1985</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Basketball_venues_in_Pakistan",
+        "Boxing_venues_in_Pakistan",
+        "Indoor_arenas_in_Pakistan",
+        "Sport_in_Islamabad",
+        "All_stub_articles",
+        "Asian_sports_venue_stubs",
+        "Pakistani_building_and_structure_stubs",
+        "Pakistani_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "http://www.sports.gov.pk/SportsFacilities/sportsfacilities.htm",
+        "http://mapcarta.com/26422906",
+        "https://geohack.toolforge.org/geohack.php?pagename=Liaquat_Gymnasium&params=33_42_N_73_06_E_region:PK_type:landmark_source:GNS-enwiki"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Exhibitions",
+          "anchor": "Exhibitions"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Liaquat_Gymnasium&revid=1329836157&groups=_83f88de1da3e415fe434d6236b64c7bdfcc8cda1&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Liaquat_Gymnasium&revid=1329836157&groups=_83f88de1da3e415fe434d6236b64c7bdfcc8cda1&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Liaquat Gymnasium"
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 411,
+          "rowText": "Pakistan\nIslamabad\nLiaquat Gymnasium\n10,223",
+          "rowHtml": "<tr>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Pakistan\" title=\"Pakistan\">Pakistan</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Islamabad\" title=\"Islamabad\">Islamabad</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Liaquat_Gymnasium\" title=\"Liaquat Gymnasium\">Liaquat Gymnasium</a>\n</td>\n<td>\n</td>\n<td>10,223\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 411,
+              "cell": {
+                "text": "Pakistan",
+                "lines": [
+                  "Pakistan"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Pakistan",
+                    "title": "Pakistan",
+                    "wikiTitle": "Pakistan",
+                    "href": "https://en.wikipedia.org/wiki/Pakistan",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 411,
+              "cell": {
+                "text": "Islamabad",
+                "lines": [
+                  "Islamabad"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Islamabad",
+                    "title": "Islamabad",
+                    "wikiTitle": "Islamabad",
+                    "href": "https://en.wikipedia.org/wiki/Islamabad",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 411,
+              "cell": {
+                "text": "Liaquat Gymnasium",
+                "lines": [
+                  "Liaquat Gymnasium"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Liaquat Gymnasium",
+                    "title": "Liaquat Gymnasium",
+                    "wikiTitle": "Liaquat Gymnasium",
+                    "href": "https://en.wikipedia.org/wiki/Liaquat_Gymnasium",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 411,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 411,
+              "cell": {
+                "text": "10,223",
+                "lines": [
+                  "10,223"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 411,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Liaquat Gymnasium",
+            "lines": [
+              "Liaquat Gymnasium"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Liaquat Gymnasium",
+                "title": "Liaquat Gymnasium",
+                "wikiTitle": "Liaquat Gymnasium",
+                "href": "https://en.wikipedia.org/wiki/Liaquat_Gymnasium",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:39.024Z"
+    }
+  ]
+}

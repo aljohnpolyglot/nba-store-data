@@ -1,0 +1,4493 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Qatar",
+  "coverage": {
+    "mode": "dedicated_country_list_plus_other_sources",
+    "hasDedicatedBlueLinkedArenaList": true,
+    "dedicatedListPages": "List of indoor arenas in Qatar",
+    "worldMasterFallbackArenaCount": 3
+  },
+  "stats": {
+    "arenaCount": 4,
+    "sourceRowCount": 9,
+    "mediaRecordCount": 16,
+    "sourceTypeCounts": {
+      "world_master_list": 3,
+      "country_or_region_list": 4,
+      "arena_list": 2
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    },
+    {
+      "title": "List of indoor arenas in Qatar",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Qatar",
+      "revisionId": null,
+      "sections": [
+        "Currently in use",
+        "Under construction",
+        "Future Arenas",
+        "See also",
+        "References",
+        "External links"
+      ],
+      "candidateRowCount": 4
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-44828949",
+      "pageId": 44828949,
+      "revisionId": null,
+      "title": "Ali Bin Hamad al-Attiyah Arena",
+      "displayTitle": "Ali Bin Hamad al-Attiyah Arena",
+      "url": "https://en.wikipedia.org/wiki/Ali_Bin_Hamad_al-Attiyah_Arena",
+      "wikidataItem": "Q18326505",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q18326505",
+      "aliases": [
+        "Ali Bin Hamad al-Attiyah Arena"
+      ],
+      "requestedTitles": [
+        "Ali Bin Hamad al-Attiyah Arena"
+      ],
+      "sourceLinkTexts": [
+        "Ali Bin Hamad al-Attiyah Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Ali_Bin_Hamad_al-Attiyah_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas in Qatar"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [
+        "Qatar"
+      ],
+      "coordinates": {
+        "latitude": 25.270111,
+        "longitude": 51.489956,
+        "raw": "25.270111; 51.489956"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Ali Bin Hamad al-Attiyah Arena",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Al Rayyan, Qatar",
+            "lines": [
+              "Al Rayyan, Qatar"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Al_Rayyan_(city)\" title=\"Al Rayyan (city)\">Al Rayyan</a>, <a href=\"https://en.wikipedia.org/wiki/Qatar\" title=\"Qatar\">Qatar</a></td>",
+            "links": [
+              {
+                "text": "Al Rayyan",
+                "title": "Al Rayyan (city)",
+                "wikiTitle": "Al Rayyan (city)",
+                "href": "https://en.wikipedia.org/wiki/Al_Rayyan_(city)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Qatar",
+                "title": "Qatar",
+                "wikiTitle": "Qatar",
+                "href": "https://en.wikipedia.org/wiki/Qatar",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "25°16′12″N 51°29′24″E﻿ / ﻿25.270111°N 51.489956°E﻿ / 25.270111; 51.489956",
+            "lines": [
+              "25°16′12″N 51°29′24″E﻿ / ﻿25.270111°N 51.489956°E﻿ / 25.270111; 51.489956"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Ali_Bin_Hamad_al-Attiyah_Arena&amp;params=25.270111_N_51.489956_E_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°16′12″N</span> <span class=\"longitude\">51°29′24″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.270111°N 51.489956°E</span><span>﻿ / <span class=\"geo\">25.270111; 51.489956</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "25°16′12″N 51°29′24″E﻿ / ﻿25.270111°N 51.489956°E﻿ / 25.270111; 51.489956",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Ali_Bin_Hamad_al-Attiyah_Arena&params=25.270111_N_51.489956_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "7,700",
+            "lines": [
+              "7,700"
+            ],
+            "html": "<td class=\"infobox-data\">7,700</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "November 2014",
+            "lines": [
+              "November 2014"
+            ],
+            "html": "<td class=\"infobox-data\">November 2014</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "USD $ 142 million\nEUR € 110 million",
+            "lines": [
+              "USD $ 142 million",
+              "EUR € 110 million"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/United_States_dollar\" title=\"United States dollar\">USD $</a> 142 million <br><a href=\"https://en.wikipedia.org/wiki/Euro\" title=\"Euro\">EUR €</a> 110 million</td>",
+            "links": [
+              {
+                "text": "USD $",
+                "title": "United States dollar",
+                "wikiTitle": "United States dollar",
+                "href": "https://en.wikipedia.org/wiki/United_States_dollar",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              },
+              {
+                "text": "EUR €",
+                "title": "Euro",
+                "wikiTitle": "Euro",
+                "href": "https://en.wikipedia.org/wiki/Euro",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-1"
+              }
+            ]
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Al-Sadd Sports Club",
+            "lines": [
+              "Al-Sadd Sports Club"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Al_Sadd_SC\" title=\"Al Sadd SC\">Al-Sadd Sports Club</a></td>",
+            "links": [
+              {
+                "text": "Al-Sadd Sports Club",
+                "title": "Al Sadd SC",
+                "wikiTitle": "Al Sadd SC",
+                "href": "https://en.wikipedia.org/wiki/Al_Sadd_SC",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Al Rayyan, Qatar",
+              "lines": [
+                "Al Rayyan, Qatar"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Al_Rayyan_(city)\" title=\"Al Rayyan (city)\">Al Rayyan</a>, <a href=\"https://en.wikipedia.org/wiki/Qatar\" title=\"Qatar\">Qatar</a></td>",
+              "links": [
+                {
+                  "text": "Al Rayyan",
+                  "title": "Al Rayyan (city)",
+                  "wikiTitle": "Al Rayyan (city)",
+                  "href": "https://en.wikipedia.org/wiki/Al_Rayyan_(city)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Qatar",
+                  "title": "Qatar",
+                  "wikiTitle": "Qatar",
+                  "href": "https://en.wikipedia.org/wiki/Qatar",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "25°16′12″N 51°29′24″E﻿ / ﻿25.270111°N 51.489956°E﻿ / 25.270111; 51.489956",
+              "lines": [
+                "25°16′12″N 51°29′24″E﻿ / ﻿25.270111°N 51.489956°E﻿ / 25.270111; 51.489956"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Ali_Bin_Hamad_al-Attiyah_Arena&amp;params=25.270111_N_51.489956_E_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°16′12″N</span> <span class=\"longitude\">51°29′24″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.270111°N 51.489956°E</span><span>﻿ / <span class=\"geo\">25.270111; 51.489956</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "25°16′12″N 51°29′24″E﻿ / ﻿25.270111°N 51.489956°E﻿ / 25.270111; 51.489956",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Ali_Bin_Hamad_al-Attiyah_Arena&params=25.270111_N_51.489956_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "7,700",
+              "lines": [
+                "7,700"
+              ],
+              "html": "<td class=\"infobox-data\">7,700</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "November 2014",
+              "lines": [
+                "November 2014"
+              ],
+              "html": "<td class=\"infobox-data\">November 2014</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "USD $ 142 million\nEUR € 110 million",
+              "lines": [
+                "USD $ 142 million",
+                "EUR € 110 million"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/United_States_dollar\" title=\"United States dollar\">USD $</a> 142 million <br><a href=\"https://en.wikipedia.org/wiki/Euro\" title=\"Euro\">EUR €</a> 110 million</td>",
+              "links": [
+                {
+                  "text": "USD $",
+                  "title": "United States dollar",
+                  "wikiTitle": "United States dollar",
+                  "href": "https://en.wikipedia.org/wiki/United_States_dollar",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                },
+                {
+                  "text": "EUR €",
+                  "title": "Euro",
+                  "wikiTitle": "Euro",
+                  "href": "https://en.wikipedia.org/wiki/Euro",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-1"
+                }
+              ]
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Al-Sadd Sports Club",
+              "lines": [
+                "Al-Sadd Sports Club"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Al_Sadd_SC\" title=\"Al Sadd SC\">Al-Sadd Sports Club</a></td>",
+              "links": [
+                {
+                  "text": "Al-Sadd Sports Club",
+                  "title": "Al Sadd SC",
+                  "wikiTitle": "Al Sadd SC",
+                  "href": "https://en.wikipedia.org/wiki/Al_Sadd_SC",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Al Rayyan, Qatar"
+          ],
+          "coordinates": [
+            "25°16′12″N 51°29′24″E﻿ / ﻿25.270111°N 51.489956°E﻿ / 25.270111; 51.489956"
+          ],
+          "capacity": [
+            "7,700"
+          ],
+          "opened": [
+            "November 2014"
+          ],
+          "cost": [
+            "USD $ 142 million\nEUR € 110 million"
+          ],
+          "tenants": [
+            "Al-Sadd Sports Club"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "7,700"
+        ],
+        "tenants": [
+          "Al-Sadd Sports Club"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Ali Bin Hamad al-Attiyah Arena.jpg",
+            "fileName": "Ali Bin Hamad al-Attiyah Arena.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Ali_Bin_Hamad_al-Attiyah_Arena.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Ali_Bin_Hamad_al-Attiyah_Arena.jpg/250px-Ali_Bin_Hamad_al-Attiyah_Arena.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ali_Bin_Hamad_al-Attiyah_Arena.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ali_Bin_Hamad_al-Attiyah_Arena.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Ali_Bin_Hamad_al-Attiyah_Arena.jpg/500px-Ali_Bin_Hamad_al-Attiyah_Arena.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 156,
+            "originalWidth": 532,
+            "originalHeight": 332,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Ali_Bin_Hamad_al-Attiyah_Arena&revid=1327812627&groups=_86b8cff1437c093937d9c0b282e5332028f81632&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Ali_Bin_Hamad_al-Attiyah_Arena&revid=1327812627&groups=_86b8cff1437c093937d9c0b282e5332028f81632&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Ali Bin Hamad al-Attiyah Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Ali Bin Hamad al-Attiyah Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Ali_Bin_Hamad_al-Attiyah_Arena.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Ali_Bin_Hamad_al-Attiyah_Arena.jpg/250px-Ali_Bin_Hamad_al-Attiyah_Arena.jpg\" width=\"250\" height=\"156\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Ali_Bin_Hamad_al-Attiyah_Arena.jpg/500px-Ali_Bin_Hamad_al-Attiyah_Arena.jpg 2x\" data-file-width=\"532\" data-file-height=\"332\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_86b8cff1437c093937d9c0b282e5332028f81632&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Ali_Bin_Hamad_al-Attiyah_Arena&amp;revid=1327812627&amp;groups=_86b8cff1437c093937d9c0b282e5332028f81632&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Ali_Bin_Hamad_al-Attiyah_Arena&amp;revid=1327812627&amp;groups=_86b8cff1437c093937d9c0b282e5332028f81632&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Ali Bin Hamad al-Attiyah Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Al_Rayyan_(city)\" title=\"Al Rayyan (city)\">Al Rayyan</a>, <a href=\"https://en.wikipedia.org/wiki/Qatar\" title=\"Qatar\">Qatar</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Ali_Bin_Hamad_al-Attiyah_Arena&amp;params=25.270111_N_51.489956_E_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°16′12″N</span> <span class=\"longitude\">51°29′24″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.270111°N 51.489956°E</span><span>﻿ / <span class=\"geo\">25.270111; 51.489956</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">7,700</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">November 2014</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/United_States_dollar\" title=\"United States dollar\">USD $</a> 142 million <br><a href=\"https://en.wikipedia.org/wiki/Euro\" title=\"Euro\">EUR €</a> 110 million</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Al_Sadd_SC\" title=\"Al Sadd SC\">Al-Sadd Sports Club</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1:_unfit_URL",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Articles_containing_Arabic-language_text",
+        "Al_Rayyan",
+        "Indoor_arenas_in_Qatar",
+        "Handball_venues_in_Qatar",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Ali_Bin_Hamad_al-Attiyah_Arena&params=25.270111_N_51.489956_E_type:landmark",
+        "http://www.constructionweekonline.com/article-23058-greek-aktor-confirms-qatar-contracts-worth-485m/",
+        "https://web.archive.org/web/20160918202525/http://www.olympic.qa/en/NewsCenter/Pages/Ali-bin-Hamad-Al-Attiyah-Indoor-Hall-inaugurated-.aspx",
+        "http://www.olympic.qa/en/NewsCenter/Pages/Ali-bin-Hamad-Al-Attiyah-Indoor-Hall-inaugurated-.aspx",
+        "https://web.archive.org/web/20141208061119/http://www.qatarhandball2015.com/al-sadd-sports-hall/",
+        "http://www.ittf.com/stories/Stories_detail.asp?ID=44234&Category=&General_Catigory=&",
+        "http://www.gulf-times.com/story/525925/Carlsen-Anand-to-headline-Rapid-and-Blitz-Worlds",
+        "https://mmajunkie.usatoday.com/story/sports/ufc/2025/11/22/ufc-qatar-arman-tsarukyan-submits-dan-hooker-calls-out-ilia-topuria/87421724007/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "International sports events",
+          "anchor": "International_sports_events"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Ali_Bin_Hamad_al-Attiyah_Arena.jpg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Ali Bin Hamad al-Attiyah Arena.jpg",
+          "fileName": "Ali Bin Hamad al-Attiyah Arena.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Ali_Bin_Hamad_al-Attiyah_Arena.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Ali_Bin_Hamad_al-Attiyah_Arena.jpg/250px-Ali_Bin_Hamad_al-Attiyah_Arena.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ali_Bin_Hamad_al-Attiyah_Arena.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ali_Bin_Hamad_al-Attiyah_Arena.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Ali_Bin_Hamad_al-Attiyah_Arena.jpg/500px-Ali_Bin_Hamad_al-Attiyah_Arena.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 156,
+          "originalWidth": 532,
+          "originalHeight": 332,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Ali_Bin_Hamad_al-Attiyah_Arena&revid=1327812627&groups=_86b8cff1437c093937d9c0b282e5332028f81632&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Ali_Bin_Hamad_al-Attiyah_Arena&revid=1327812627&groups=_86b8cff1437c093937d9c0b282e5332028f81632&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Ali Bin Hamad al-Attiyah Arena"
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 414,
+          "rowText": "Qatar\nDoha\nAli Bin Hamad al-Attiyah Arena\n2014\n7,700\n2015 World Men's Handball Championship",
+          "rowHtml": "<tr>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Qatar\" title=\"Qatar\">Qatar</a>\n</td>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Doha\" title=\"Doha\">Doha</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Ali_Bin_Hamad_al-Attiyah_Arena\" title=\"Ali Bin Hamad al-Attiyah Arena\">Ali Bin Hamad al-Attiyah Arena</a>\n</td>\n<td>2014\n</td>\n<td>7,700\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/2015_World_Men%27s_Handball_Championship\" title=\"2015 World Men's Handball Championship\">2015 World Men's Handball Championship</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 414,
+              "cell": {
+                "text": "Qatar",
+                "lines": [
+                  "Qatar"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Qatar",
+                    "title": "Qatar",
+                    "wikiTitle": "Qatar",
+                    "href": "https://en.wikipedia.org/wiki/Qatar",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 414,
+              "cell": {
+                "text": "Doha",
+                "lines": [
+                  "Doha"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Doha",
+                    "title": "Doha",
+                    "wikiTitle": "Doha",
+                    "href": "https://en.wikipedia.org/wiki/Doha",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 414,
+              "cell": {
+                "text": "Ali Bin Hamad al-Attiyah Arena",
+                "lines": [
+                  "Ali Bin Hamad al-Attiyah Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ali Bin Hamad al-Attiyah Arena",
+                    "title": "Ali Bin Hamad al-Attiyah Arena",
+                    "wikiTitle": "Ali Bin Hamad al-Attiyah Arena",
+                    "href": "https://en.wikipedia.org/wiki/Ali_Bin_Hamad_al-Attiyah_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 414,
+              "cell": {
+                "text": "2014",
+                "lines": [
+                  "2014"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 414,
+              "cell": {
+                "text": "7,700",
+                "lines": [
+                  "7,700"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 414,
+              "cell": {
+                "text": "2015 World Men's Handball Championship",
+                "lines": [
+                  "2015 World Men's Handball Championship"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "2015 World Men's Handball Championship",
+                    "title": "2015 World Men's Handball Championship",
+                    "wikiTitle": "2015 World Men's Handball Championship",
+                    "href": "https://en.wikipedia.org/wiki/2015_World_Men%27s_Handball_Championship",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Ali Bin Hamad al-Attiyah Arena",
+            "lines": [
+              "Ali Bin Hamad al-Attiyah Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Ali Bin Hamad al-Attiyah Arena",
+                "title": "Ali Bin Hamad al-Attiyah Arena",
+                "wikiTitle": "Ali Bin Hamad al-Attiyah Arena",
+                "href": "https://en.wikipedia.org/wiki/Ali_Bin_Hamad_al-Attiyah_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Qatar",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Qatar",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": "Qatar",
+          "sectionPath": [
+            "Currently in use"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 3,
+          "rowText": "3\nAli Bin Hamad al-Attiyah Arena\n7,700\nAl Rayyan\nAl Sadd SC",
+          "rowHtml": "<tr>\n<td>3</td>\n<td></td>\n<td><a href=\"https://en.wikipedia.org/wiki/Ali_Bin_Hamad_al-Attiyah_Arena\" title=\"Ali Bin Hamad al-Attiyah Arena\">Ali Bin Hamad al-Attiyah Arena</a></td>\n<td>7,700</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Al_Rayyan_(city)\" title=\"Al Rayyan (city)\">Al Rayyan</a></td>\n<td><a href=\"https://en.wikipedia.org/wiki/Al_Sadd_SC\" title=\"Al Sadd SC\">Al Sadd SC</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "N°",
+              "headerKey": "n",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "3",
+                "lines": [
+                  "3"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arenas",
+              "headerKey": "arenas",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "Ali Bin Hamad al-Attiyah Arena",
+                "lines": [
+                  "Ali Bin Hamad al-Attiyah Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ali Bin Hamad al-Attiyah Arena",
+                    "title": "Ali Bin Hamad al-Attiyah Arena",
+                    "wikiTitle": "Ali Bin Hamad al-Attiyah Arena",
+                    "href": "https://en.wikipedia.org/wiki/Ali_Bin_Hamad_al-Attiyah_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "[3]",
+                    "title": null,
+                    "wikiTitle": null,
+                    "href": "https://en.wikipedia.org/#cite_note-3",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": true
+                  }
+                ],
+                "media": [],
+                "references": [
+                  {
+                    "label": "[3]",
+                    "href": "https://en.wikipedia.org/#cite_note-3"
+                  }
+                ]
+              }
+            },
+            {
+              "index": 3,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "7,700",
+                "lines": [
+                  "7,700"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "Al Rayyan",
+                "lines": [
+                  "Al Rayyan"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Al Rayyan",
+                    "title": "Al Rayyan (city)",
+                    "wikiTitle": "Al Rayyan (city)",
+                    "href": "https://en.wikipedia.org/wiki/Al_Rayyan_(city)",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenants",
+              "headerKey": "tenants",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "Al Sadd SC",
+                "lines": [
+                  "Al Sadd SC"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Al Sadd SC",
+                    "title": "Al Sadd SC",
+                    "wikiTitle": "Al Sadd SC",
+                    "href": "https://en.wikipedia.org/wiki/Al_Sadd_SC",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Ali Bin Hamad al-Attiyah Arena",
+            "lines": [
+              "Ali Bin Hamad al-Attiyah Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Ali Bin Hamad al-Attiyah Arena",
+                "title": "Ali Bin Hamad al-Attiyah Arena",
+                "wikiTitle": "Ali Bin Hamad al-Attiyah Arena",
+                "href": "https://en.wikipedia.org/wiki/Ali_Bin_Hamad_al-Attiyah_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[3]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-3",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[3]",
+                "href": "https://en.wikipedia.org/#cite_note-3"
+              }
+            ]
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:40.501Z"
+    },
+    {
+      "id": "wikipedia-page-21285912",
+      "pageId": 21285912,
+      "revisionId": null,
+      "title": "Aspire Dome",
+      "displayTitle": "Aspire Dome",
+      "url": "https://en.wikipedia.org/wiki/Aspire_Dome",
+      "wikidataItem": "Q737587",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q737587",
+      "aliases": [
+        "Aspire Dome"
+      ],
+      "requestedTitles": [
+        "Aspire Dome"
+      ],
+      "sourceLinkTexts": [
+        "Aspire Dome"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Aspire_Dome"
+      ],
+      "sourcePages": [
+        "List of indoor arenas by capacity",
+        "List of indoor arenas in Qatar"
+      ],
+      "sourceTypes": [
+        "arena_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [
+        "Qatar"
+      ],
+      "coordinates": {
+        "latitude": 25.26667,
+        "longitude": 51.44361,
+        "raw": "25.26667; 51.44361"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Aspire Dome",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Aspire Dome",
+            "lines": [
+              "Aspire Dome"
+            ],
+            "html": "<td class=\"infobox-data\">Aspire Dome</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Aspire Academy, Al Rayyan, Qatar",
+            "lines": [
+              "Aspire Academy, Al Rayyan, Qatar"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Aspire_Academy\" title=\"Aspire Academy\">Aspire Academy</a>, <a href=\"https://en.wikipedia.org/wiki/Al_Rayyan_(city)\" title=\"Al Rayyan (city)\">Al Rayyan</a>, <a href=\"https://en.wikipedia.org/wiki/Qatar\" title=\"Qatar\">Qatar</a></td>",
+            "links": [
+              {
+                "text": "Aspire Academy",
+                "title": "Aspire Academy",
+                "wikiTitle": "Aspire Academy",
+                "href": "https://en.wikipedia.org/wiki/Aspire_Academy",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Al Rayyan",
+                "title": "Al Rayyan (city)",
+                "wikiTitle": "Al Rayyan (city)",
+                "href": "https://en.wikipedia.org/wiki/Al_Rayyan_(city)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Qatar",
+                "title": "Qatar",
+                "wikiTitle": "Qatar",
+                "href": "https://en.wikipedia.org/wiki/Qatar",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "25°16′0″N 51°26′37″E﻿ / ﻿25.26667°N 51.44361°E﻿ / 25.26667; 51.44361",
+            "lines": [
+              "25°16′0″N 51°26′37″E﻿ / ﻿25.26667°N 51.44361°E﻿ / 25.26667; 51.44361"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Aspire_Dome&amp;params=25_16_0_N_51_26_37_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°16′0″N</span> <span class=\"longitude\">51°26′37″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.26667°N 51.44361°E</span><span>﻿ / <span class=\"geo\">25.26667; 51.44361</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "25°16′0″N 51°26′37″E﻿ / ﻿25.26667°N 51.44361°E﻿ / 25.26667; 51.44361",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Aspire_Dome&params=25_16_0_N_51_26_37_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "15,500 (total)",
+            "lines": [
+              "15,500 (total)"
+            ],
+            "html": "<td class=\"infobox-data\">15,500 (total)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "2005",
+            "lines": [
+              "2005"
+            ],
+            "html": "<td class=\"infobox-data\">2005</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-iaaf-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-iaaf-1"
+              }
+            ]
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Roger Taillibert",
+            "lines": [
+              "Roger Taillibert"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Roger_Taillibert\" title=\"Roger Taillibert\">Roger Taillibert</a></td>",
+            "links": [
+              {
+                "text": "Roger Taillibert",
+                "title": "Roger Taillibert",
+                "wikiTitle": "Roger Taillibert",
+                "href": "https://en.wikipedia.org/wiki/Roger_Taillibert",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Aspire Academy\n2006 Asian Games\n2010 IAAF World Indoor Championships\n2011 Gymnasiade\n2024 World Aquatics Championships",
+            "lines": [
+              "Aspire Academy",
+              "2006 Asian Games",
+              "2010 IAAF World Indoor Championships",
+              "2011 Gymnasiade",
+              "2024 World Aquatics Championships"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Aspire_Academy\" title=\"Aspire Academy\">Aspire Academy</a><br><a href=\"https://en.wikipedia.org/wiki/2006_Asian_Games\" title=\"2006 Asian Games\">2006 Asian Games</a><br><a href=\"https://en.wikipedia.org/wiki/2010_IAAF_World_Indoor_Championships\" title=\"2010 IAAF World Indoor Championships\">2010 IAAF World Indoor Championships</a><br>2011 <a href=\"https://en.wikipedia.org/wiki/Gymnasiade\" class=\"mw-redirect\" title=\"Gymnasiade\">Gymnasiade</a><br> <a href=\"https://en.wikipedia.org/wiki/2024_World_Aquatics_Championships\" title=\"2024 World Aquatics Championships\">2024 World Aquatics Championships</a></td>",
+            "links": [
+              {
+                "text": "Aspire Academy",
+                "title": "Aspire Academy",
+                "wikiTitle": "Aspire Academy",
+                "href": "https://en.wikipedia.org/wiki/Aspire_Academy",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "2006 Asian Games",
+                "title": "2006 Asian Games",
+                "wikiTitle": "2006 Asian Games",
+                "href": "https://en.wikipedia.org/wiki/2006_Asian_Games",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "2010 IAAF World Indoor Championships",
+                "title": "2010 IAAF World Indoor Championships",
+                "wikiTitle": "2010 IAAF World Indoor Championships",
+                "href": "https://en.wikipedia.org/wiki/2010_IAAF_World_Indoor_Championships",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Gymnasiade",
+                "title": "Gymnasiade",
+                "wikiTitle": "Gymnasiade",
+                "href": "https://en.wikipedia.org/wiki/Gymnasiade",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "2024 World Aquatics Championships",
+                "title": "2024 World Aquatics Championships",
+                "wikiTitle": "2024 World Aquatics Championships",
+                "href": "https://en.wikipedia.org/wiki/2024_World_Aquatics_Championships",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Aspire Dome",
+              "lines": [
+                "Aspire Dome"
+              ],
+              "html": "<td class=\"infobox-data\">Aspire Dome</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Aspire Academy, Al Rayyan, Qatar",
+              "lines": [
+                "Aspire Academy, Al Rayyan, Qatar"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Aspire_Academy\" title=\"Aspire Academy\">Aspire Academy</a>, <a href=\"https://en.wikipedia.org/wiki/Al_Rayyan_(city)\" title=\"Al Rayyan (city)\">Al Rayyan</a>, <a href=\"https://en.wikipedia.org/wiki/Qatar\" title=\"Qatar\">Qatar</a></td>",
+              "links": [
+                {
+                  "text": "Aspire Academy",
+                  "title": "Aspire Academy",
+                  "wikiTitle": "Aspire Academy",
+                  "href": "https://en.wikipedia.org/wiki/Aspire_Academy",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Al Rayyan",
+                  "title": "Al Rayyan (city)",
+                  "wikiTitle": "Al Rayyan (city)",
+                  "href": "https://en.wikipedia.org/wiki/Al_Rayyan_(city)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Qatar",
+                  "title": "Qatar",
+                  "wikiTitle": "Qatar",
+                  "href": "https://en.wikipedia.org/wiki/Qatar",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "25°16′0″N 51°26′37″E﻿ / ﻿25.26667°N 51.44361°E﻿ / 25.26667; 51.44361",
+              "lines": [
+                "25°16′0″N 51°26′37″E﻿ / ﻿25.26667°N 51.44361°E﻿ / 25.26667; 51.44361"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Aspire_Dome&amp;params=25_16_0_N_51_26_37_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°16′0″N</span> <span class=\"longitude\">51°26′37″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.26667°N 51.44361°E</span><span>﻿ / <span class=\"geo\">25.26667; 51.44361</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "25°16′0″N 51°26′37″E﻿ / ﻿25.26667°N 51.44361°E﻿ / 25.26667; 51.44361",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Aspire_Dome&params=25_16_0_N_51_26_37_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "15,500 (total)",
+              "lines": [
+                "15,500 (total)"
+              ],
+              "html": "<td class=\"infobox-data\">15,500 (total)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "2005",
+              "lines": [
+                "2005"
+              ],
+              "html": "<td class=\"infobox-data\">2005</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-iaaf-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-iaaf-1"
+                }
+              ]
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Roger Taillibert",
+              "lines": [
+                "Roger Taillibert"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Roger_Taillibert\" title=\"Roger Taillibert\">Roger Taillibert</a></td>",
+              "links": [
+                {
+                  "text": "Roger Taillibert",
+                  "title": "Roger Taillibert",
+                  "wikiTitle": "Roger Taillibert",
+                  "href": "https://en.wikipedia.org/wiki/Roger_Taillibert",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Aspire Academy\n2006 Asian Games\n2010 IAAF World Indoor Championships\n2011 Gymnasiade\n2024 World Aquatics Championships",
+              "lines": [
+                "Aspire Academy",
+                "2006 Asian Games",
+                "2010 IAAF World Indoor Championships",
+                "2011 Gymnasiade",
+                "2024 World Aquatics Championships"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Aspire_Academy\" title=\"Aspire Academy\">Aspire Academy</a><br><a href=\"https://en.wikipedia.org/wiki/2006_Asian_Games\" title=\"2006 Asian Games\">2006 Asian Games</a><br><a href=\"https://en.wikipedia.org/wiki/2010_IAAF_World_Indoor_Championships\" title=\"2010 IAAF World Indoor Championships\">2010 IAAF World Indoor Championships</a><br>2011 <a href=\"https://en.wikipedia.org/wiki/Gymnasiade\" class=\"mw-redirect\" title=\"Gymnasiade\">Gymnasiade</a><br> <a href=\"https://en.wikipedia.org/wiki/2024_World_Aquatics_Championships\" title=\"2024 World Aquatics Championships\">2024 World Aquatics Championships</a></td>",
+              "links": [
+                {
+                  "text": "Aspire Academy",
+                  "title": "Aspire Academy",
+                  "wikiTitle": "Aspire Academy",
+                  "href": "https://en.wikipedia.org/wiki/Aspire_Academy",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "2006 Asian Games",
+                  "title": "2006 Asian Games",
+                  "wikiTitle": "2006 Asian Games",
+                  "href": "https://en.wikipedia.org/wiki/2006_Asian_Games",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "2010 IAAF World Indoor Championships",
+                  "title": "2010 IAAF World Indoor Championships",
+                  "wikiTitle": "2010 IAAF World Indoor Championships",
+                  "href": "https://en.wikipedia.org/wiki/2010_IAAF_World_Indoor_Championships",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Gymnasiade",
+                  "title": "Gymnasiade",
+                  "wikiTitle": "Gymnasiade",
+                  "href": "https://en.wikipedia.org/wiki/Gymnasiade",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "2024 World Aquatics Championships",
+                  "title": "2024 World Aquatics Championships",
+                  "wikiTitle": "2024 World Aquatics Championships",
+                  "href": "https://en.wikipedia.org/wiki/2024_World_Aquatics_Championships",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Aspire Dome"
+          ],
+          "location": [
+            "Aspire Academy, Al Rayyan, Qatar"
+          ],
+          "coordinates": [
+            "25°16′0″N 51°26′37″E﻿ / ﻿25.26667°N 51.44361°E﻿ / 25.26667; 51.44361"
+          ],
+          "capacity": [
+            "15,500 (total)"
+          ],
+          "opened": [
+            "2005"
+          ],
+          "architect": [
+            "Roger Taillibert"
+          ],
+          "tenants": [
+            "Aspire Academy\n2006 Asian Games\n2010 IAAF World Indoor Championships\n2011 Gymnasiade\n2024 World Aquatics Championships"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "15,500 (total)"
+        ],
+        "tenants": [
+          "Aspire Academy",
+          "2006 Asian Games",
+          "2010 IAAF World Indoor Championships",
+          "2011 Gymnasiade",
+          "2024 World Aquatics Championships"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:2009 Emir of Qatar Cup Final - Al Khalifa Stadium Doha (3580966927).jpg",
+            "fileName": "2009 Emir of Qatar Cup Final - Al Khalifa Stadium Doha (3580966927).jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_(3580966927).jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_%283580966927%29.jpg/250px-2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_%283580966927%29.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_(3580966927).jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_(3580966927).jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_%283580966927%29.jpg/500px-2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_%283580966927%29.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 168,
+            "originalWidth": 2896,
+            "originalHeight": 1944,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Aspire_Dome&revid=1329528946&groups=_a5be8902dd617db23ab37f09fb0d21d20b3e0967&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Aspire_Dome&revid=1329528946&groups=_a5be8902dd617db23ab37f09fb0d21d20b3e0967&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Aspire Dome"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Aspire Dome</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_(3580966927).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_%283580966927%29.jpg/250px-2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_%283580966927%29.jpg\" width=\"250\" height=\"168\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_%283580966927%29.jpg/500px-2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_%283580966927%29.jpg 2x\" data-file-width=\"2896\" data-file-height=\"1944\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_a5be8902dd617db23ab37f09fb0d21d20b3e0967&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Aspire_Dome&amp;revid=1329528946&amp;groups=_a5be8902dd617db23ab37f09fb0d21d20b3e0967&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Aspire_Dome&amp;revid=1329528946&amp;groups=_a5be8902dd617db23ab37f09fb0d21d20b3e0967&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Aspire Dome</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Aspire Dome</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Aspire_Academy\" title=\"Aspire Academy\">Aspire Academy</a>, <a href=\"https://en.wikipedia.org/wiki/Al_Rayyan_(city)\" title=\"Al Rayyan (city)\">Al Rayyan</a>, <a href=\"https://en.wikipedia.org/wiki/Qatar\" title=\"Qatar\">Qatar</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Aspire_Dome&amp;params=25_16_0_N_51_26_37_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°16′0″N</span> <span class=\"longitude\">51°26′37″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.26667°N 51.44361°E</span><span>﻿ / <span class=\"geo\">25.26667; 51.44361</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">15,500 (total)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">2005</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Roger_Taillibert\" title=\"Roger Taillibert\">Roger Taillibert</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Aspire_Academy\" title=\"Aspire Academy\">Aspire Academy</a><br><a href=\"https://en.wikipedia.org/wiki/2006_Asian_Games\" title=\"2006 Asian Games\">2006 Asian Games</a><br><a href=\"https://en.wikipedia.org/wiki/2010_IAAF_World_Indoor_Championships\" title=\"2010 IAAF World Indoor Championships\">2010 IAAF World Indoor Championships</a><br>2011 <a href=\"https://en.wikipedia.org/wiki/Gymnasiade\" class=\"mw-redirect\" title=\"Gymnasiade\">Gymnasiade</a><br> <a href=\"https://en.wikipedia.org/wiki/2024_World_Aquatics_Championships\" title=\"2024 World Aquatics Championships\">2024 World Aquatics Championships</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Commons_category_link_is_on_Wikidata",
+        "Indoor_arenas_in_Qatar",
+        "Indoor_track_and_field_venues",
+        "Sports_venues_in_Qatar",
+        "Aspire_Academy",
+        "All_stub_articles",
+        "Qatari_building_and_structure_stubs",
+        "Middle_Eastern_sports_venue_stubs",
+        "Qatari_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Aspire_Dome&params=25_16_0_N_51_26_37_E_type:landmark",
+        "http://www.iaaf.org/news/news/the-aspire-dome-centre-stage-for-doha-2010",
+        "https://web.archive.org/web/20150814062940/http://aspire.qa/Facilities.aspx",
+        "http://www.aspire.qa/Facilities.aspx",
+        "https://web.archive.org/web/20150907230649/http://www.thetorchdoha.com/aspirezone-en.html",
+        "http://www.thetorchdoha.com/aspirezone-en.html",
+        "http://www.bized.co.uk/current/leisure/2006_7/111206.htm"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Events hosted",
+          "anchor": "Events_hosted"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Facilities",
+          "anchor": "Facilities"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_(3580966927).jpg",
+        "Commons-logo.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:2009 Emir of Qatar Cup Final - Al Khalifa Stadium Doha (3580966927).jpg",
+          "fileName": "2009 Emir of Qatar Cup Final - Al Khalifa Stadium Doha (3580966927).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_(3580966927).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_%283580966927%29.jpg/250px-2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_%283580966927%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_(3580966927).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_(3580966927).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_%283580966927%29.jpg/500px-2009_Emir_of_Qatar_Cup_Final_-_Al_Khalifa_Stadium_Doha_%283580966927%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 168,
+          "originalWidth": 2896,
+          "originalHeight": 1944,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Aspire_Dome&revid=1329528946&groups=_a5be8902dd617db23ab37f09fb0d21d20b3e0967&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Aspire_Dome&revid=1329528946&groups=_a5be8902dd617db23ab37f09fb0d21d20b3e0967&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Aspire Dome"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas by capacity",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_by_capacity",
+          "sourceRevisionId": null,
+          "sourceType": "arena_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 143,
+          "rowText": "Aspire Dome\n15,500\nDoha\nQatar",
+          "rowHtml": "<tr>\n<th scope=\"row\"><a href=\"https://en.wikipedia.org/wiki/Aspire_Dome\" title=\"Aspire Dome\">Aspire Dome</a>\n</th>\n<td>15,500\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Doha\" title=\"Doha\">Doha</a>\n</td>\n<td><span class=\"flagicon nowrap\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/40px-Flag_of_Qatar.svg.png\" width=\"23\" height=\"9\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/60px-Flag_of_Qatar.svg.png 2x\" data-file-width=\"1400\" data-file-height=\"550\"></span></span> </span><a href=\"https://en.wikipedia.org/wiki/Qatar\" title=\"Qatar\">Qatar</a>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 143,
+              "cell": {
+                "text": "Aspire Dome",
+                "lines": [
+                  "Aspire Dome"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Aspire Dome",
+                    "title": "Aspire Dome",
+                    "wikiTitle": "Aspire Dome",
+                    "href": "https://en.wikipedia.org/wiki/Aspire_Dome",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 143,
+              "cell": {
+                "text": "15,500",
+                "lines": [
+                  "15,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 143,
+              "cell": {
+                "text": "Doha",
+                "lines": [
+                  "Doha"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Doha",
+                    "title": "Doha",
+                    "wikiTitle": "Doha",
+                    "href": "https://en.wikipedia.org/wiki/Doha",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 143,
+              "cell": {
+                "text": "Qatar",
+                "lines": [
+                  "Qatar"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Qatar",
+                    "title": "Qatar",
+                    "wikiTitle": "Qatar",
+                    "href": "https://en.wikipedia.org/wiki/Qatar",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": null,
+                    "fileName": null,
+                    "kind": "photo",
+                    "filePageUrl": null,
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/40px-Flag_of_Qatar.svg.png",
+                    "originalRedirectUrl": null,
+                    "enwikiOriginalRedirectUrl": null,
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/60px-Flag_of_Qatar.svg.png",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 23,
+                    "height": 9,
+                    "originalWidth": 1400,
+                    "originalHeight": 550,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 143,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": null,
+              "fileName": null,
+              "kind": "photo",
+              "filePageUrl": null,
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/40px-Flag_of_Qatar.svg.png",
+              "originalRedirectUrl": null,
+              "enwikiOriginalRedirectUrl": null,
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/60px-Flag_of_Qatar.svg.png",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 23,
+              "height": 9,
+              "originalWidth": 1400,
+              "originalHeight": 550,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Aspire Dome",
+            "lines": [
+              "Aspire Dome"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Aspire Dome",
+                "title": "Aspire Dome",
+                "wikiTitle": "Aspire Dome",
+                "href": "https://en.wikipedia.org/wiki/Aspire_Dome",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Qatar",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Qatar",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": "Qatar",
+          "sectionPath": [
+            "Currently in use"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 1,
+          "rowText": "1\nAspire Dome\n15,500\nAl Rayyan\nAspire Academy",
+          "rowHtml": "<tr>\n<td>1</td>\n<td><span><a href=\"https://en.wikipedia.org/wiki/File:Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg/250px-Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg\" width=\"150\" height=\"104\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg/330px-Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg 2x\" data-file-width=\"2048\" data-file-height=\"1421\"></a></span></td>\n<td><a href=\"https://en.wikipedia.org/wiki/Aspire_Dome\" title=\"Aspire Dome\">Aspire Dome</a></td>\n<td>15,500</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Al_Rayyan_(city)\" title=\"Al Rayyan (city)\">Al Rayyan</a></td>\n<td><a href=\"https://en.wikipedia.org/wiki/Aspire_Academy\" title=\"Aspire Academy\">Aspire Academy</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "N°",
+              "headerKey": "n",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "1",
+                "lines": [
+                  "1"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [
+                  {
+                    "text": "",
+                    "title": "File:Aerial view of Aspire Academy and Al Aziziyah Boutique Hotel in Baaya.jpg",
+                    "wikiTitle": "File:Aerial view of Aspire Academy and Al Aziziyah Boutique Hotel in Baaya.jpg",
+                    "href": "https://en.wikipedia.org/wiki/File:Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": "File:Aerial view of Aspire Academy and Al Aziziyah Boutique Hotel in Baaya.jpg",
+                    "fileName": "Aerial view of Aspire Academy and Al Aziziyah Boutique Hotel in Baaya.jpg",
+                    "kind": "photo",
+                    "filePageUrl": "https://en.wikipedia.org/wiki/File:Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg",
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg/250px-Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg",
+                    "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg",
+                    "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg",
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg/330px-Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 150,
+                    "height": 104,
+                    "originalWidth": 2048,
+                    "originalHeight": 1421,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arenas",
+              "headerKey": "arenas",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "Aspire Dome",
+                "lines": [
+                  "Aspire Dome"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Aspire Dome",
+                    "title": "Aspire Dome",
+                    "wikiTitle": "Aspire Dome",
+                    "href": "https://en.wikipedia.org/wiki/Aspire_Dome",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "[1]",
+                    "title": null,
+                    "wikiTitle": null,
+                    "href": "https://en.wikipedia.org/#cite_note-1",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": true
+                  }
+                ],
+                "media": [],
+                "references": [
+                  {
+                    "label": "[1]",
+                    "href": "https://en.wikipedia.org/#cite_note-1"
+                  }
+                ]
+              }
+            },
+            {
+              "index": 3,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "15,500",
+                "lines": [
+                  "15,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "Al Rayyan",
+                "lines": [
+                  "Al Rayyan"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Al Rayyan",
+                    "title": "Al Rayyan (city)",
+                    "wikiTitle": "Al Rayyan (city)",
+                    "href": "https://en.wikipedia.org/wiki/Al_Rayyan_(city)",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenants",
+              "headerKey": "tenants",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "Aspire Academy",
+                "lines": [
+                  "Aspire Academy"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Aspire Academy",
+                    "title": "Aspire Academy",
+                    "wikiTitle": "Aspire Academy",
+                    "href": "https://en.wikipedia.org/wiki/Aspire_Academy",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": "File:Aerial view of Aspire Academy and Al Aziziyah Boutique Hotel in Baaya.jpg",
+              "fileName": "Aerial view of Aspire Academy and Al Aziziyah Boutique Hotel in Baaya.jpg",
+              "kind": "photo",
+              "filePageUrl": "https://en.wikipedia.org/wiki/File:Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg",
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg/250px-Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg",
+              "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg",
+              "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg",
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg/330px-Aerial_view_of_Aspire_Academy_and_Al_Aziziyah_Boutique_Hotel_in_Baaya.jpg",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 150,
+              "height": 104,
+              "originalWidth": 2048,
+              "originalHeight": 1421,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Aspire Dome",
+            "lines": [
+              "Aspire Dome"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Aspire Dome",
+                "title": "Aspire Dome",
+                "wikiTitle": "Aspire Dome",
+                "href": "https://en.wikipedia.org/wiki/Aspire_Dome",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-1"
+              }
+            ]
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:38.512Z"
+    },
+    {
+      "id": "wikipedia-page-44828959",
+      "pageId": 44828959,
+      "revisionId": null,
+      "title": "Duhail Handball Sports Hall",
+      "displayTitle": "Duhail Handball Sports Hall",
+      "url": "https://en.wikipedia.org/wiki/Duhail_Handball_Sports_Hall",
+      "wikidataItem": "Q18326544",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q18326544",
+      "aliases": [
+        "Duhail Handball Sports Hall"
+      ],
+      "requestedTitles": [
+        "Duhail Handball Sports Hall"
+      ],
+      "sourceLinkTexts": [
+        "Duhail Handball Sports Hall"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Duhail_Handball_Sports_Hall"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas in Qatar"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [
+        "Qatar"
+      ],
+      "coordinates": {
+        "latitude": 25.3711,
+        "longitude": 51.4706,
+        "raw": "25.3711; 51.4706"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Duhail Handball Sports Hall",
+        "groups": [],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Doha, Qatar",
+            "lines": [
+              "Doha, Qatar"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Doha\" title=\"Doha\">Doha</a>, <a href=\"https://en.wikipedia.org/wiki/Qatar\" title=\"Qatar\">Qatar</a></td>",
+            "links": [
+              {
+                "text": "Doha",
+                "title": "Doha",
+                "wikiTitle": "Doha",
+                "href": "https://en.wikipedia.org/wiki/Doha",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Qatar",
+                "title": "Qatar",
+                "wikiTitle": "Qatar",
+                "href": "https://en.wikipedia.org/wiki/Qatar",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Qatar Olympic Committee",
+            "lines": [
+              "Qatar Olympic Committee"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Qatar_Olympic_Committee\" title=\"Qatar Olympic Committee\">Qatar Olympic Committee</a></td>",
+            "links": [
+              {
+                "text": "Qatar Olympic Committee",
+                "title": "Qatar Olympic Committee",
+                "wikiTitle": "Qatar Olympic Committee",
+                "href": "https://en.wikipedia.org/wiki/Qatar_Olympic_Committee",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "5,500",
+            "lines": [
+              "5,500"
+            ],
+            "html": "<td class=\"infobox-data\">5,500</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Doha, Qatar",
+              "lines": [
+                "Doha, Qatar"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Doha\" title=\"Doha\">Doha</a>, <a href=\"https://en.wikipedia.org/wiki/Qatar\" title=\"Qatar\">Qatar</a></td>",
+              "links": [
+                {
+                  "text": "Doha",
+                  "title": "Doha",
+                  "wikiTitle": "Doha",
+                  "href": "https://en.wikipedia.org/wiki/Doha",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Qatar",
+                  "title": "Qatar",
+                  "wikiTitle": "Qatar",
+                  "href": "https://en.wikipedia.org/wiki/Qatar",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Qatar Olympic Committee",
+              "lines": [
+                "Qatar Olympic Committee"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Qatar_Olympic_Committee\" title=\"Qatar Olympic Committee\">Qatar Olympic Committee</a></td>",
+              "links": [
+                {
+                  "text": "Qatar Olympic Committee",
+                  "title": "Qatar Olympic Committee",
+                  "wikiTitle": "Qatar Olympic Committee",
+                  "href": "https://en.wikipedia.org/wiki/Qatar_Olympic_Committee",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "5,500",
+              "lines": [
+                "5,500"
+              ],
+              "html": "<td class=\"infobox-data\">5,500</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Doha, Qatar"
+          ],
+          "owner": [
+            "Qatar Olympic Committee"
+          ],
+          "capacity": [
+            "5,500"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "5,500"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Duhail Sports Arena (interior), Qatar.jpg",
+            "fileName": "Duhail Sports Arena (interior), Qatar.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Duhail_Sports_Arena_(interior),_Qatar.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg/250px-Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Duhail_Sports_Arena_(interior)%2C_Qatar.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Duhail_Sports_Arena_(interior)%2C_Qatar.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg/500px-Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 141,
+            "originalWidth": 1280,
+            "originalHeight": 720,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Duhail_Handball_Sports_Hall&revid=1329965905&groups=_9c408193482f3004284dccd38c97747bf05e21e6&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Duhail_Handball_Sports_Hall&revid=1329965905&groups=_9c408193482f3004284dccd38c97747bf05e21e6&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Duhail Handball Sports Hall"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Duhail Handball Sports Hall</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Duhail_Sports_Arena_(interior),_Qatar.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg/250px-Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg\" width=\"250\" height=\"141\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg/500px-Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg 2x\" data-file-width=\"1280\" data-file-height=\"720\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_9c408193482f3004284dccd38c97747bf05e21e6&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Duhail_Handball_Sports_Hall&amp;revid=1329965905&amp;groups=_9c408193482f3004284dccd38c97747bf05e21e6&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Duhail_Handball_Sports_Hall&amp;revid=1329965905&amp;groups=_9c408193482f3004284dccd38c97747bf05e21e6&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Duhail Handball Sports Hall</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Doha\" title=\"Doha\">Doha</a>, <a href=\"https://en.wikipedia.org/wiki/Qatar\" title=\"Qatar\">Qatar</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Qatar_Olympic_Committee\" title=\"Qatar Olympic Committee\">Qatar Olympic Committee</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">5,500</td></tr></tbody></table>"
+      },
+      "categories": [
+        "CS1:_unfit_URL",
+        "CS1_Arabic-language_sources_(ar)",
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Commons_category_link_from_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Qatar",
+        "Handball_venues_in_Qatar",
+        "Sports_venues_in_Doha",
+        "All_stub_articles",
+        "Qatari_building_and_structure_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://web.archive.org/web/20141208061201/http://www.qatarhandball2015.com/qatar-handball-association-complex/",
+        "http://www.qatarhandball.com/index.php/qha-news/22-qha-league/371-duhail-sports-hall",
+        "https://dohanews.co/where-will-teams-be-based-during-the-fifa-2022-world-cup-in-qatar/",
+        "https://geohack.toolforge.org/geohack.php?pagename=Duhail_Handball_Sports_Hall&params=25.3711_N_51.4706_E_source:wikidata"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "2022 FIFA World Cup",
+          "anchor": "2022_FIFA_World_Cup"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Duhail_Sports_Arena_(interior),_Qatar.jpg",
+        "Commons-logo.svg",
+        "P1000015_-_panoramio.jpg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Duhail Sports Arena (interior), Qatar.jpg",
+          "fileName": "Duhail Sports Arena (interior), Qatar.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Duhail_Sports_Arena_(interior),_Qatar.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg/250px-Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Duhail_Sports_Arena_(interior)%2C_Qatar.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Duhail_Sports_Arena_(interior)%2C_Qatar.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg/500px-Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 141,
+          "originalWidth": 1280,
+          "originalHeight": 720,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Duhail_Handball_Sports_Hall&revid=1329965905&groups=_9c408193482f3004284dccd38c97747bf05e21e6&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Duhail_Handball_Sports_Hall&revid=1329965905&groups=_9c408193482f3004284dccd38c97747bf05e21e6&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Duhail Handball Sports Hall"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 40,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:P1000015 - panoramio.jpg",
+          "fileName": "P1000015 - panoramio.jpg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:P1000015_-_panoramio.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/P1000015_-_panoramio.jpg/40px-P1000015_-_panoramio.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/P1000015_-_panoramio.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/P1000015_-_panoramio.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/P1000015_-_panoramio.jpg/120px-P1000015_-_panoramio.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 35,
+          "height": 26,
+          "originalWidth": 2048,
+          "originalHeight": 1536,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 415,
+          "rowText": "Duhail Handball Sports Hall\n2014\n5,500\n2015 IHF Super Globe",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Duhail_Handball_Sports_Hall\" title=\"Duhail Handball Sports Hall\">Duhail Handball Sports Hall</a>\n</td>\n<td>2014\n</td>\n<td>5,500\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/2015_IHF_Super_Globe\" title=\"2015 IHF Super Globe\">2015 IHF Super Globe</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 414,
+              "cell": {
+                "text": "Qatar",
+                "lines": [
+                  "Qatar"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Qatar",
+                    "title": "Qatar",
+                    "wikiTitle": "Qatar",
+                    "href": "https://en.wikipedia.org/wiki/Qatar",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 414,
+              "cell": {
+                "text": "Doha",
+                "lines": [
+                  "Doha"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Doha",
+                    "title": "Doha",
+                    "wikiTitle": "Doha",
+                    "href": "https://en.wikipedia.org/wiki/Doha",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 415,
+              "cell": {
+                "text": "Duhail Handball Sports Hall",
+                "lines": [
+                  "Duhail Handball Sports Hall"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Duhail Handball Sports Hall",
+                    "title": "Duhail Handball Sports Hall",
+                    "wikiTitle": "Duhail Handball Sports Hall",
+                    "href": "https://en.wikipedia.org/wiki/Duhail_Handball_Sports_Hall",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 415,
+              "cell": {
+                "text": "2014",
+                "lines": [
+                  "2014"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 415,
+              "cell": {
+                "text": "5,500",
+                "lines": [
+                  "5,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 415,
+              "cell": {
+                "text": "2015 IHF Super Globe",
+                "lines": [
+                  "2015 IHF Super Globe"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "2015 IHF Super Globe",
+                    "title": "2015 IHF Super Globe",
+                    "wikiTitle": "2015 IHF Super Globe",
+                    "href": "https://en.wikipedia.org/wiki/2015_IHF_Super_Globe",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Duhail Handball Sports Hall",
+            "lines": [
+              "Duhail Handball Sports Hall"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Duhail Handball Sports Hall",
+                "title": "Duhail Handball Sports Hall",
+                "wikiTitle": "Duhail Handball Sports Hall",
+                "href": "https://en.wikipedia.org/wiki/Duhail_Handball_Sports_Hall",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Qatar",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Qatar",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": "Qatar",
+          "sectionPath": [
+            "Currently in use"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 4,
+          "rowText": "4\nDuhail Handball Sports Hall\n5,500\nDoha\nQOC",
+          "rowHtml": "<tr>\n<td>4</td>\n<td><span><a href=\"https://en.wikipedia.org/wiki/File:Duhail_Sports_Arena_(interior),_Qatar.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg/250px-Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg\" width=\"150\" height=\"84\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg/330px-Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg 2x\" data-file-width=\"1280\" data-file-height=\"720\"></a></span></td>\n<td><a href=\"https://en.wikipedia.org/wiki/Duhail_Handball_Sports_Hall\" title=\"Duhail Handball Sports Hall\">Duhail Handball Sports Hall</a></td>\n<td>5,500</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Doha\" title=\"Doha\">Doha</a></td>\n<td><a href=\"https://en.wikipedia.org/wiki/Qatar_Olympic_Committee\" title=\"Qatar Olympic Committee\">QOC</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "N°",
+              "headerKey": "n",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "4",
+                "lines": [
+                  "4"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [
+                  {
+                    "text": "",
+                    "title": "File:Duhail Sports Arena (interior), Qatar.jpg",
+                    "wikiTitle": "File:Duhail Sports Arena (interior), Qatar.jpg",
+                    "href": "https://en.wikipedia.org/wiki/File:Duhail_Sports_Arena_(interior),_Qatar.jpg",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": "File:Duhail Sports Arena (interior), Qatar.jpg",
+                    "fileName": "Duhail Sports Arena (interior), Qatar.jpg",
+                    "kind": "photo",
+                    "filePageUrl": "https://en.wikipedia.org/wiki/File:Duhail_Sports_Arena_(interior),_Qatar.jpg",
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg/250px-Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg",
+                    "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Duhail_Sports_Arena_(interior)%2C_Qatar.jpg",
+                    "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Duhail_Sports_Arena_(interior)%2C_Qatar.jpg",
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg/330px-Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 150,
+                    "height": 84,
+                    "originalWidth": 1280,
+                    "originalHeight": 720,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arenas",
+              "headerKey": "arenas",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "Duhail Handball Sports Hall",
+                "lines": [
+                  "Duhail Handball Sports Hall"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Duhail Handball Sports Hall",
+                    "title": "Duhail Handball Sports Hall",
+                    "wikiTitle": "Duhail Handball Sports Hall",
+                    "href": "https://en.wikipedia.org/wiki/Duhail_Handball_Sports_Hall",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "[4]",
+                    "title": null,
+                    "wikiTitle": null,
+                    "href": "https://en.wikipedia.org/#cite_note-4",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": true
+                  }
+                ],
+                "media": [],
+                "references": [
+                  {
+                    "label": "[4]",
+                    "href": "https://en.wikipedia.org/#cite_note-4"
+                  }
+                ]
+              }
+            },
+            {
+              "index": 3,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "5,500",
+                "lines": [
+                  "5,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "Doha",
+                "lines": [
+                  "Doha"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Doha",
+                    "title": "Doha",
+                    "wikiTitle": "Doha",
+                    "href": "https://en.wikipedia.org/wiki/Doha",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenants",
+              "headerKey": "tenants",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 4,
+              "cell": {
+                "text": "QOC",
+                "lines": [
+                  "QOC"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "QOC",
+                    "title": "Qatar Olympic Committee",
+                    "wikiTitle": "Qatar Olympic Committee",
+                    "href": "https://en.wikipedia.org/wiki/Qatar_Olympic_Committee",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": "File:Duhail Sports Arena (interior), Qatar.jpg",
+              "fileName": "Duhail Sports Arena (interior), Qatar.jpg",
+              "kind": "photo",
+              "filePageUrl": "https://en.wikipedia.org/wiki/File:Duhail_Sports_Arena_(interior),_Qatar.jpg",
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg/250px-Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg",
+              "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Duhail_Sports_Arena_(interior)%2C_Qatar.jpg",
+              "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Duhail_Sports_Arena_(interior)%2C_Qatar.jpg",
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg/330px-Duhail_Sports_Arena_%28interior%29%2C_Qatar.jpg",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 150,
+              "height": 84,
+              "originalWidth": 1280,
+              "originalHeight": 720,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Duhail Handball Sports Hall",
+            "lines": [
+              "Duhail Handball Sports Hall"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Duhail Handball Sports Hall",
+                "title": "Duhail Handball Sports Hall",
+                "wikiTitle": "Duhail Handball Sports Hall",
+                "href": "https://en.wikipedia.org/wiki/Duhail_Handball_Sports_Hall",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[4]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-4",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[4]",
+                "href": "https://en.wikipedia.org/#cite_note-4"
+              }
+            ]
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:40.505Z"
+    },
+    {
+      "id": "wikipedia-page-44503106",
+      "pageId": 44503106,
+      "revisionId": null,
+      "title": "Lusail Sports Arena",
+      "displayTitle": "Lusail Sports Arena",
+      "url": "https://en.wikipedia.org/wiki/Lusail_Sports_Arena",
+      "wikidataItem": "Q18411229",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q18411229",
+      "aliases": [
+        "Lusail Sports Arena"
+      ],
+      "requestedTitles": [
+        "Lusail Sports Arena"
+      ],
+      "sourceLinkTexts": [
+        "Lusail Sports Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Lusail_Sports_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas by capacity",
+        "List of indoor arenas in Qatar"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "arena_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [
+        "Qatar"
+      ],
+      "coordinates": {
+        "latitude": 25.4809,
+        "longitude": 51.4634,
+        "raw": "25.4809; 51.4634"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Lusail Sports Arena",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Lusail, Qatar",
+            "lines": [
+              "Lusail, Qatar"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Lusail\" title=\"Lusail\">Lusail</a>, <a href=\"https://en.wikipedia.org/wiki/Qatar\" title=\"Qatar\">Qatar</a></td>",
+            "links": [
+              {
+                "text": "Lusail",
+                "title": "Lusail",
+                "wikiTitle": "Lusail",
+                "href": "https://en.wikipedia.org/wiki/Lusail",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Qatar",
+                "title": "Qatar",
+                "wikiTitle": "Qatar",
+                "href": "https://en.wikipedia.org/wiki/Qatar",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "25°28′51″N 51°27′48″E﻿ / ﻿25.4809°N 51.4634°E﻿ / 25.4809; 51.4634",
+            "lines": [
+              "25°28′51″N 51°27′48″E﻿ / ﻿25.4809°N 51.4634°E﻿ / 25.4809; 51.4634"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Lusail_Sports_Arena&amp;params=25.4809_N_51.4634_E_source:wikidata\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°28′51″N</span> <span class=\"longitude\">51°27′48″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.4809°N 51.4634°E</span><span>﻿ / <span class=\"geo\">25.4809; 51.4634</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "25°28′51″N 51°27′48″E﻿ / ﻿25.4809°N 51.4634°E﻿ / 25.4809; 51.4634",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Lusail_Sports_Arena&params=25.4809_N_51.4634_E_source:wikidata",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Qatar Olympic Committee",
+            "lines": [
+              "Qatar Olympic Committee"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Qatar_Olympic_Committee\" title=\"Qatar Olympic Committee\">Qatar Olympic Committee</a></td>",
+            "links": [
+              {
+                "text": "Qatar Olympic Committee",
+                "title": "Qatar Olympic Committee",
+                "wikiTitle": "Qatar Olympic Committee",
+                "href": "https://en.wikipedia.org/wiki/Qatar_Olympic_Committee",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "15,300",
+            "lines": [
+              "15,300"
+            ],
+            "html": "<td class=\"infobox-data\">15,300</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "2012 (2012)",
+            "lines": [
+              "2012 (2012)"
+            ],
+            "html": "<td class=\"infobox-data\">2012<span>&nbsp;(<span class=\"bday dtstart published updated\">2012</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "2012–2014",
+            "lines": [
+              "2012–2014"
+            ],
+            "html": "<td class=\"infobox-data\">2012–2014</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "2014 (2014)",
+            "lines": [
+              "2014 (2014)"
+            ],
+            "html": "<td class=\"infobox-data\">2014<span>&nbsp;(<span class=\"bday dtstart published updated\">2014</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "US$ 318 Million",
+            "lines": [
+              "US$ 318 Million"
+            ],
+            "html": "<td class=\"infobox-data\">US$ 318 Million</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Alastair Richardson\nDar Al-Handasah",
+            "lines": [
+              "Alastair Richardson",
+              "Dar Al-Handasah"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Alastair_Richardson\" title=\"Alastair Richardson\">Alastair Richardson</a><br><a href=\"https://en.wikipedia.org/wiki/Dar_Al-Handasah\" class=\"mw-redirect\" title=\"Dar Al-Handasah\">Dar Al-Handasah</a></td>",
+            "links": [
+              {
+                "text": "Alastair Richardson",
+                "title": "Alastair Richardson",
+                "wikiTitle": "Alastair Richardson",
+                "href": "https://en.wikipedia.org/wiki/Alastair_Richardson",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Dar Al-Handasah",
+                "title": "Dar Al-Handasah",
+                "wikiTitle": "Dar Al-Handasah",
+                "href": "https://en.wikipedia.org/wiki/Dar_Al-Handasah",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Main contractors",
+            "key": "main_contractors",
+            "group": "Construction",
+            "text": "Consolidated Contractors Company",
+            "lines": [
+              "Consolidated Contractors Company"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Consolidated_Contractors_Company\" title=\"Consolidated Contractors Company\">Consolidated Contractors Company</a></td>",
+            "links": [
+              {
+                "text": "Consolidated Contractors Company",
+                "title": "Consolidated Contractors Company",
+                "wikiTitle": "Consolidated Contractors Company",
+                "href": "https://en.wikipedia.org/wiki/Consolidated_Contractors_Company",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Lusail, Qatar",
+              "lines": [
+                "Lusail, Qatar"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Lusail\" title=\"Lusail\">Lusail</a>, <a href=\"https://en.wikipedia.org/wiki/Qatar\" title=\"Qatar\">Qatar</a></td>",
+              "links": [
+                {
+                  "text": "Lusail",
+                  "title": "Lusail",
+                  "wikiTitle": "Lusail",
+                  "href": "https://en.wikipedia.org/wiki/Lusail",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Qatar",
+                  "title": "Qatar",
+                  "wikiTitle": "Qatar",
+                  "href": "https://en.wikipedia.org/wiki/Qatar",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "25°28′51″N 51°27′48″E﻿ / ﻿25.4809°N 51.4634°E﻿ / 25.4809; 51.4634",
+              "lines": [
+                "25°28′51″N 51°27′48″E﻿ / ﻿25.4809°N 51.4634°E﻿ / 25.4809; 51.4634"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Lusail_Sports_Arena&amp;params=25.4809_N_51.4634_E_source:wikidata\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°28′51″N</span> <span class=\"longitude\">51°27′48″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.4809°N 51.4634°E</span><span>﻿ / <span class=\"geo\">25.4809; 51.4634</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "25°28′51″N 51°27′48″E﻿ / ﻿25.4809°N 51.4634°E﻿ / 25.4809; 51.4634",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Lusail_Sports_Arena&params=25.4809_N_51.4634_E_source:wikidata",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Qatar Olympic Committee",
+              "lines": [
+                "Qatar Olympic Committee"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Qatar_Olympic_Committee\" title=\"Qatar Olympic Committee\">Qatar Olympic Committee</a></td>",
+              "links": [
+                {
+                  "text": "Qatar Olympic Committee",
+                  "title": "Qatar Olympic Committee",
+                  "wikiTitle": "Qatar Olympic Committee",
+                  "href": "https://en.wikipedia.org/wiki/Qatar_Olympic_Committee",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "15,300",
+              "lines": [
+                "15,300"
+              ],
+              "html": "<td class=\"infobox-data\">15,300</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "2012 (2012)",
+              "lines": [
+                "2012 (2012)"
+              ],
+              "html": "<td class=\"infobox-data\">2012<span>&nbsp;(<span class=\"bday dtstart published updated\">2012</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "2012–2014",
+              "lines": [
+                "2012–2014"
+              ],
+              "html": "<td class=\"infobox-data\">2012–2014</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "2014 (2014)",
+              "lines": [
+                "2014 (2014)"
+              ],
+              "html": "<td class=\"infobox-data\">2014<span>&nbsp;(<span class=\"bday dtstart published updated\">2014</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "US$ 318 Million",
+              "lines": [
+                "US$ 318 Million"
+              ],
+              "html": "<td class=\"infobox-data\">US$ 318 Million</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Alastair Richardson\nDar Al-Handasah",
+              "lines": [
+                "Alastair Richardson",
+                "Dar Al-Handasah"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Alastair_Richardson\" title=\"Alastair Richardson\">Alastair Richardson</a><br><a href=\"https://en.wikipedia.org/wiki/Dar_Al-Handasah\" class=\"mw-redirect\" title=\"Dar Al-Handasah\">Dar Al-Handasah</a></td>",
+              "links": [
+                {
+                  "text": "Alastair Richardson",
+                  "title": "Alastair Richardson",
+                  "wikiTitle": "Alastair Richardson",
+                  "href": "https://en.wikipedia.org/wiki/Alastair_Richardson",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Dar Al-Handasah",
+                  "title": "Dar Al-Handasah",
+                  "wikiTitle": "Dar Al-Handasah",
+                  "href": "https://en.wikipedia.org/wiki/Dar_Al-Handasah",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "main_contractors": [
+            {
+              "label": "Main contractors",
+              "key": "main_contractors",
+              "group": "Construction",
+              "text": "Consolidated Contractors Company",
+              "lines": [
+                "Consolidated Contractors Company"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Consolidated_Contractors_Company\" title=\"Consolidated Contractors Company\">Consolidated Contractors Company</a></td>",
+              "links": [
+                {
+                  "text": "Consolidated Contractors Company",
+                  "title": "Consolidated Contractors Company",
+                  "wikiTitle": "Consolidated Contractors Company",
+                  "href": "https://en.wikipedia.org/wiki/Consolidated_Contractors_Company",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Lusail, Qatar"
+          ],
+          "coordinates": [
+            "25°28′51″N 51°27′48″E﻿ / ﻿25.4809°N 51.4634°E﻿ / 25.4809; 51.4634"
+          ],
+          "owner": [
+            "Qatar Olympic Committee"
+          ],
+          "capacity": [
+            "15,300"
+          ],
+          "groundbreaking": [
+            "2012 (2012)"
+          ],
+          "built": [
+            "2012–2014"
+          ],
+          "opened": [
+            "2014 (2014)"
+          ],
+          "cost": [
+            "US$ 318 Million"
+          ],
+          "architect": [
+            "Alastair Richardson\nDar Al-Handasah"
+          ],
+          "main_contractors": [
+            "Consolidated Contractors Company"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "15,300"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Lusail Sports Arena, exterior.jpg",
+            "fileName": "Lusail Sports Arena, exterior.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Lusail_Sports_Arena,_exterior.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Lusail_Sports_Arena%2C_exterior.jpg/250px-Lusail_Sports_Arena%2C_exterior.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lusail_Sports_Arena%2C_exterior.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Lusail_Sports_Arena%2C_exterior.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Lusail_Sports_Arena%2C_exterior.jpg/500px-Lusail_Sports_Arena%2C_exterior.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 146,
+            "originalWidth": 1280,
+            "originalHeight": 750,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Lusail_Sports_Arena&revid=1365166559&groups=_d3f4c9959d50befe69bd137de02893c613bf18ba&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Lusail_Sports_Arena&revid=1365166559&groups=_d3f4c9959d50befe69bd137de02893c613bf18ba&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Lusail Sports Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Lusail Sports Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\">Lusail Multipurpose Hall</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size notpageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Lusail_Sports_Arena,_exterior.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Lusail_Sports_Arena%2C_exterior.jpg/250px-Lusail_Sports_Arena%2C_exterior.jpg\" width=\"250\" height=\"146\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Lusail_Sports_Arena%2C_exterior.jpg/500px-Lusail_Sports_Arena%2C_exterior.jpg 2x\" data-file-width=\"1280\" data-file-height=\"750\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_d3f4c9959d50befe69bd137de02893c613bf18ba&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Lusail_Sports_Arena&amp;revid=1365166559&amp;groups=_d3f4c9959d50befe69bd137de02893c613bf18ba&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Lusail_Sports_Arena&amp;revid=1365166559&amp;groups=_d3f4c9959d50befe69bd137de02893c613bf18ba&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Lusail Sports Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Lusail\" title=\"Lusail\">Lusail</a>, <a href=\"https://en.wikipedia.org/wiki/Qatar\" title=\"Qatar\">Qatar</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Lusail_Sports_Arena&amp;params=25.4809_N_51.4634_E_source:wikidata\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°28′51″N</span> <span class=\"longitude\">51°27′48″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.4809°N 51.4634°E</span><span>﻿ / <span class=\"geo\">25.4809; 51.4634</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Qatar_Olympic_Committee\" title=\"Qatar Olympic Committee\">Qatar Olympic Committee</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">15,300</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">2012<span>&nbsp;(<span class=\"bday dtstart published updated\">2012</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">2012–2014</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">2014<span>&nbsp;(<span class=\"bday dtstart published updated\">2014</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">US$ 318 Million</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Alastair_Richardson\" title=\"Alastair Richardson\">Alastair Richardson</a><br><a href=\"https://en.wikipedia.org/wiki/Dar_Al-Handasah\" class=\"mw-redirect\" title=\"Dar Al-Handasah\">Dar Al-Handasah</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Main contractors</div></th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Consolidated_Contractors_Company\" title=\"Consolidated Contractors Company\">Consolidated Contractors Company</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Commons_category_link_is_on_Wikidata",
+        "Indoor_arenas_in_Qatar",
+        "Handball_venues_in_Qatar",
+        "Sport_in_Lusail",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Lusail_Sports_Arena&params=25.4809_N_51.4634_E_source:wikidata",
+        "http://www.constructionweekonline.com/article-19814-croatia-wins-130m-qatar-handball-stadium-contract/",
+        "https://www.dazn.com/en-GB/news/boxing/gib-vs-slim-headlines-mammoth-event-in-doha-with-the-return-of-deji-leading-a-mouth-watering-undercard/19hjoj60y0bkx19x6eh0s7g6zw",
+        "https://web.archive.org/web/20141016031356/http://dar.dargroup.com/Projects/Multi-Purpose-Sports-Arena"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Construction",
+          "anchor": "Construction"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Notable events hosted",
+          "anchor": "Notable_events_hosted"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "MMA and Kickboxing shows",
+          "anchor": "MMA_and_Kickboxing_shows"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "Boxing matches",
+          "anchor": "Boxing_matches"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "Gallery",
+          "anchor": "Gallery"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "7",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Lusail_sports_Arena,_interior1.jpg",
+        "Germany_vs_Argentina,_Lusail_2.jpg",
+        "Denmark_vs_Russia,_Lusail_2.jpg",
+        "2015_World_Men's_Handball_Championship_final,_Qatar_vs_France.jpg",
+        "Lusail_Sports_Arena,_exterior.jpg",
+        "Commons-logo.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Lusail Sports Arena, exterior.jpg",
+          "fileName": "Lusail Sports Arena, exterior.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Lusail_Sports_Arena,_exterior.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Lusail_Sports_Arena%2C_exterior.jpg/250px-Lusail_Sports_Arena%2C_exterior.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lusail_Sports_Arena%2C_exterior.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Lusail_Sports_Arena%2C_exterior.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Lusail_Sports_Arena%2C_exterior.jpg/500px-Lusail_Sports_Arena%2C_exterior.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 146,
+          "originalWidth": 1280,
+          "originalHeight": 750,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Lusail_Sports_Arena&revid=1365166559&groups=_d3f4c9959d50befe69bd137de02893c613bf18ba&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Lusail_Sports_Arena&revid=1365166559&groups=_d3f4c9959d50befe69bd137de02893c613bf18ba&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Lusail Sports Arena"
+        },
+        {
+          "fileTitle": "File:Lusail sports Arena, interior1.jpg",
+          "fileName": "Lusail sports Arena, interior1.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Lusail_sports_Arena,_interior1.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lusail_sports_Arena%2C_interior1.jpg/120px-Lusail_sports_Arena%2C_interior1.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lusail_sports_Arena%2C_interior1.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Lusail_sports_Arena%2C_interior1.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lusail_sports_Arena%2C_interior1.jpg/250px-Lusail_sports_Arena%2C_interior1.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 90,
+          "originalWidth": 2048,
+          "originalHeight": 1536,
+          "fileType": null,
+          "alt": "Lusail sports Arena, interior",
+          "title": "Lusail sports Arena, interior",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Germany vs Argentina, Lusail 2.jpg",
+          "fileName": "Germany vs Argentina, Lusail 2.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Germany_vs_Argentina,_Lusail_2.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Germany_vs_Argentina%2C_Lusail_2.jpg/120px-Germany_vs_Argentina%2C_Lusail_2.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Germany_vs_Argentina%2C_Lusail_2.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Germany_vs_Argentina%2C_Lusail_2.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Germany_vs_Argentina%2C_Lusail_2.jpg/250px-Germany_vs_Argentina%2C_Lusail_2.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 68,
+          "originalWidth": 960,
+          "originalHeight": 543,
+          "fileType": null,
+          "alt": "Germany vs Argentina, Lusail Arena",
+          "title": "Germany vs Argentina, Lusail Arena",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Denmark vs Russia, Lusail 2.jpg",
+          "fileName": "Denmark vs Russia, Lusail 2.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Denmark_vs_Russia,_Lusail_2.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Denmark_vs_Russia%2C_Lusail_2.jpg/120px-Denmark_vs_Russia%2C_Lusail_2.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Denmark_vs_Russia%2C_Lusail_2.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Denmark_vs_Russia%2C_Lusail_2.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Denmark_vs_Russia%2C_Lusail_2.jpg/250px-Denmark_vs_Russia%2C_Lusail_2.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 71,
+          "originalWidth": 915,
+          "originalHeight": 542,
+          "fileType": null,
+          "alt": "Denmark vs Russia, Lusail Arena",
+          "title": "Denmark vs Russia, Lusail Arena",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:2015 World Men's Handball Championship final, Qatar vs France.jpg",
+          "fileName": "2015 World Men's Handball Championship final, Qatar vs France.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:2015_World_Men%27s_Handball_Championship_final,_Qatar_vs_France.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2015_World_Men%27s_Handball_Championship_final%2C_Qatar_vs_France.jpg/120px-2015_World_Men%27s_Handball_Championship_final%2C_Qatar_vs_France.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2015_World_Men's_Handball_Championship_final%2C_Qatar_vs_France.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/2015_World_Men's_Handball_Championship_final%2C_Qatar_vs_France.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/2015_World_Men%27s_Handball_Championship_final%2C_Qatar_vs_France.jpg/250px-2015_World_Men%27s_Handball_Championship_final%2C_Qatar_vs_France.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 44,
+          "originalWidth": 1280,
+          "originalHeight": 466,
+          "fileType": null,
+          "alt": "Final, Qatar vs France",
+          "title": "Final, Qatar vs France",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 416,
+          "rowText": "Lusail\nLusail Sports Arena\n2014\n15,300\n2015 World Men's Handball Championship",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Lusail\" title=\"Lusail\">Lusail</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Lusail_Sports_Arena\" title=\"Lusail Sports Arena\">Lusail Sports Arena</a>\n</td>\n<td>2014\n</td>\n<td>15,300\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/2015_World_Men%27s_Handball_Championship\" title=\"2015 World Men's Handball Championship\">2015 World Men's Handball Championship</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 414,
+              "cell": {
+                "text": "Qatar",
+                "lines": [
+                  "Qatar"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Qatar",
+                    "title": "Qatar",
+                    "wikiTitle": "Qatar",
+                    "href": "https://en.wikipedia.org/wiki/Qatar",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 416,
+              "cell": {
+                "text": "Lusail",
+                "lines": [
+                  "Lusail"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Lusail",
+                    "title": "Lusail",
+                    "wikiTitle": "Lusail",
+                    "href": "https://en.wikipedia.org/wiki/Lusail",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 416,
+              "cell": {
+                "text": "Lusail Sports Arena",
+                "lines": [
+                  "Lusail Sports Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Lusail Sports Arena",
+                    "title": "Lusail Sports Arena",
+                    "wikiTitle": "Lusail Sports Arena",
+                    "href": "https://en.wikipedia.org/wiki/Lusail_Sports_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 416,
+              "cell": {
+                "text": "2014",
+                "lines": [
+                  "2014"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 416,
+              "cell": {
+                "text": "15,300",
+                "lines": [
+                  "15,300"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 416,
+              "cell": {
+                "text": "2015 World Men's Handball Championship",
+                "lines": [
+                  "2015 World Men's Handball Championship"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "2015 World Men's Handball Championship",
+                    "title": "2015 World Men's Handball Championship",
+                    "wikiTitle": "2015 World Men's Handball Championship",
+                    "href": "https://en.wikipedia.org/wiki/2015_World_Men%27s_Handball_Championship",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Lusail Sports Arena",
+            "lines": [
+              "Lusail Sports Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Lusail Sports Arena",
+                "title": "Lusail Sports Arena",
+                "wikiTitle": "Lusail Sports Arena",
+                "href": "https://en.wikipedia.org/wiki/Lusail_Sports_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas by capacity",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_by_capacity",
+          "sourceRevisionId": null,
+          "sourceType": "arena_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 154,
+          "rowText": "Lusail Sports Arena\n15,300\nLusail\nQatar",
+          "rowHtml": "<tr>\n<th scope=\"row\"><a href=\"https://en.wikipedia.org/wiki/Lusail_Sports_Arena\" title=\"Lusail Sports Arena\">Lusail Sports Arena</a>\n</th>\n<td>15,300\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Lusail\" title=\"Lusail\">Lusail</a>\n</td>\n<td><span class=\"flagicon nowrap\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/40px-Flag_of_Qatar.svg.png\" width=\"23\" height=\"9\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/60px-Flag_of_Qatar.svg.png 2x\" data-file-width=\"1400\" data-file-height=\"550\"></span></span> </span><a href=\"https://en.wikipedia.org/wiki/Qatar\" title=\"Qatar\">Qatar</a>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 154,
+              "cell": {
+                "text": "Lusail Sports Arena",
+                "lines": [
+                  "Lusail Sports Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Lusail Sports Arena",
+                    "title": "Lusail Sports Arena",
+                    "wikiTitle": "Lusail Sports Arena",
+                    "href": "https://en.wikipedia.org/wiki/Lusail_Sports_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 154,
+              "cell": {
+                "text": "15,300",
+                "lines": [
+                  "15,300"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 154,
+              "cell": {
+                "text": "Lusail",
+                "lines": [
+                  "Lusail"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Lusail",
+                    "title": "Lusail",
+                    "wikiTitle": "Lusail",
+                    "href": "https://en.wikipedia.org/wiki/Lusail",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 154,
+              "cell": {
+                "text": "Qatar",
+                "lines": [
+                  "Qatar"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Qatar",
+                    "title": "Qatar",
+                    "wikiTitle": "Qatar",
+                    "href": "https://en.wikipedia.org/wiki/Qatar",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": null,
+                    "fileName": null,
+                    "kind": "photo",
+                    "filePageUrl": null,
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/40px-Flag_of_Qatar.svg.png",
+                    "originalRedirectUrl": null,
+                    "enwikiOriginalRedirectUrl": null,
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/60px-Flag_of_Qatar.svg.png",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 23,
+                    "height": 9,
+                    "originalWidth": 1400,
+                    "originalHeight": 550,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 154,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": null,
+              "fileName": null,
+              "kind": "photo",
+              "filePageUrl": null,
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/40px-Flag_of_Qatar.svg.png",
+              "originalRedirectUrl": null,
+              "enwikiOriginalRedirectUrl": null,
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/60px-Flag_of_Qatar.svg.png",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 23,
+              "height": 9,
+              "originalWidth": 1400,
+              "originalHeight": 550,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Lusail Sports Arena",
+            "lines": [
+              "Lusail Sports Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Lusail Sports Arena",
+                "title": "Lusail Sports Arena",
+                "wikiTitle": "Lusail Sports Arena",
+                "href": "https://en.wikipedia.org/wiki/Lusail_Sports_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Qatar",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Qatar",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": "Qatar",
+          "sectionPath": [
+            "Currently in use"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 2,
+          "rowText": "2\nLusail Sports Arena\n15,300\nLusail\nQOC",
+          "rowHtml": "<tr>\n<td>2</td>\n<td><span><a href=\"https://en.wikipedia.org/wiki/File:Lusail_sports_Arena,_interior1.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lusail_sports_Arena%2C_interior1.jpg/250px-Lusail_sports_Arena%2C_interior1.jpg\" width=\"150\" height=\"113\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lusail_sports_Arena%2C_interior1.jpg/330px-Lusail_sports_Arena%2C_interior1.jpg 2x\" data-file-width=\"2048\" data-file-height=\"1536\"></a></span></td>\n<td><a href=\"https://en.wikipedia.org/wiki/Lusail_Sports_Arena\" title=\"Lusail Sports Arena\">Lusail Sports Arena</a></td>\n<td>15,300</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Lusail\" title=\"Lusail\">Lusail</a></td>\n<td><a href=\"https://en.wikipedia.org/wiki/Qatar_Olympic_Committee\" title=\"Qatar Olympic Committee\">QOC</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "N°",
+              "headerKey": "n",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "2",
+                "lines": [
+                  "2"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [
+                  {
+                    "text": "",
+                    "title": "File:Lusail sports Arena, interior1.jpg",
+                    "wikiTitle": "File:Lusail sports Arena, interior1.jpg",
+                    "href": "https://en.wikipedia.org/wiki/File:Lusail_sports_Arena,_interior1.jpg",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": "File:Lusail sports Arena, interior1.jpg",
+                    "fileName": "Lusail sports Arena, interior1.jpg",
+                    "kind": "photo",
+                    "filePageUrl": "https://en.wikipedia.org/wiki/File:Lusail_sports_Arena,_interior1.jpg",
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lusail_sports_Arena%2C_interior1.jpg/250px-Lusail_sports_Arena%2C_interior1.jpg",
+                    "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lusail_sports_Arena%2C_interior1.jpg",
+                    "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Lusail_sports_Arena%2C_interior1.jpg",
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lusail_sports_Arena%2C_interior1.jpg/330px-Lusail_sports_Arena%2C_interior1.jpg",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 150,
+                    "height": 113,
+                    "originalWidth": 2048,
+                    "originalHeight": 1536,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arenas",
+              "headerKey": "arenas",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "Lusail Sports Arena",
+                "lines": [
+                  "Lusail Sports Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Lusail Sports Arena",
+                    "title": "Lusail Sports Arena",
+                    "wikiTitle": "Lusail Sports Arena",
+                    "href": "https://en.wikipedia.org/wiki/Lusail_Sports_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "[2]",
+                    "title": null,
+                    "wikiTitle": null,
+                    "href": "https://en.wikipedia.org/#cite_note-2",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": true
+                  }
+                ],
+                "media": [],
+                "references": [
+                  {
+                    "label": "[2]",
+                    "href": "https://en.wikipedia.org/#cite_note-2"
+                  }
+                ]
+              }
+            },
+            {
+              "index": 3,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "15,300",
+                "lines": [
+                  "15,300"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "Lusail",
+                "lines": [
+                  "Lusail"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Lusail",
+                    "title": "Lusail",
+                    "wikiTitle": "Lusail",
+                    "href": "https://en.wikipedia.org/wiki/Lusail",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenants",
+              "headerKey": "tenants",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "QOC",
+                "lines": [
+                  "QOC"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "QOC",
+                    "title": "Qatar Olympic Committee",
+                    "wikiTitle": "Qatar Olympic Committee",
+                    "href": "https://en.wikipedia.org/wiki/Qatar_Olympic_Committee",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": "File:Lusail sports Arena, interior1.jpg",
+              "fileName": "Lusail sports Arena, interior1.jpg",
+              "kind": "photo",
+              "filePageUrl": "https://en.wikipedia.org/wiki/File:Lusail_sports_Arena,_interior1.jpg",
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lusail_sports_Arena%2C_interior1.jpg/250px-Lusail_sports_Arena%2C_interior1.jpg",
+              "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lusail_sports_Arena%2C_interior1.jpg",
+              "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Lusail_sports_Arena%2C_interior1.jpg",
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Lusail_sports_Arena%2C_interior1.jpg/330px-Lusail_sports_Arena%2C_interior1.jpg",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 150,
+              "height": 113,
+              "originalWidth": 2048,
+              "originalHeight": 1536,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Lusail Sports Arena",
+            "lines": [
+              "Lusail Sports Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Lusail Sports Arena",
+                "title": "Lusail Sports Arena",
+                "wikiTitle": "Lusail Sports Arena",
+                "href": "https://en.wikipedia.org/wiki/Lusail_Sports_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-2"
+              }
+            ]
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:40.518Z"
+    }
+  ]
+}

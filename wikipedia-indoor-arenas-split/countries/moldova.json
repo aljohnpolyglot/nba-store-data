@@ -1,0 +1,1588 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Moldova",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 2
+  },
+  "stats": {
+    "arenaCount": 2,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 6,
+    "sourceTypeCounts": {
+      "world_master_list": 2
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-77744305",
+      "pageId": 77744305,
+      "revisionId": null,
+      "title": "Chișinău Arena",
+      "displayTitle": "Chișinău Arena",
+      "url": "https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u_Arena",
+      "wikidataItem": "Q130283663",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q130283663",
+      "aliases": [
+        "Arena Chișinău",
+        "Chișinău Arena"
+      ],
+      "requestedTitles": [
+        "Arena Chișinău"
+      ],
+      "sourceLinkTexts": [
+        "Arena Chișinău"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Arena_Chi%C8%99in%C4%83u"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 47.0717,
+        "longitude": 28.8617,
+        "raw": "47.0717; 28.8617"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Chișinău Arena",
+        "groups": [
+          "Construction",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "130 Calea Orheiului Street\nStăuceni, Chișinău\nMoldova",
+            "lines": [
+              "130 Calea Orheiului Street",
+              "Stăuceni, Chișinău",
+              "Moldova"
+            ],
+            "html": "<td class=\"infobox-data label\">130 Calea Orheiului Street<br><a href=\"https://en.wikipedia.org/wiki/St%C4%83uceni,_Chi%C8%99in%C4%83u\" title=\"Stăuceni, Chișinău\">Stăuceni, Chișinău</a><br><a href=\"https://en.wikipedia.org/wiki/Moldova\" title=\"Moldova\">Moldova</a><span data-plural=\"1\"></span></td>",
+            "links": [
+              {
+                "text": "Stăuceni, Chișinău",
+                "title": "Stăuceni, Chișinău",
+                "wikiTitle": "Stăuceni, Chișinău",
+                "href": "https://en.wikipedia.org/wiki/St%C4%83uceni,_Chi%C8%99in%C4%83u",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Moldova",
+                "title": "Moldova",
+                "wikiTitle": "Moldova",
+                "href": "https://en.wikipedia.org/wiki/Moldova",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "47°04′18″N 28°51′42″E﻿ / ﻿47.0717°N 28.8617°E﻿ / 47.0717; 28.8617",
+            "lines": [
+              "47°04′18″N 28°51′42″E﻿ / ﻿47.0717°N 28.8617°E﻿ / 47.0717; 28.8617"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Chi%C8%99in%C4%83u_Arena&amp;params=47.0717_N_28.8617_E_type:landmark_region:MD\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">47°04′18″N</span> <span class=\"longitude\">28°51′42″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">47.0717°N 28.8617°E</span><span>﻿ / <span class=\"geo\">47.0717; 28.8617</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "47°04′18″N 28°51′42″E﻿ / ﻿47.0717°N 28.8617°E﻿ / 47.0717; 28.8617",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Chi%C8%99in%C4%83u_Arena&params=47.0717_N_28.8617_E_type:landmark_region:MD",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "Concerts: 5,000",
+            "lines": [
+              "Concerts: 5,000"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Concerts\" class=\"mw-redirect\" title=\"Concerts\">Concerts</a>: 5,000</td>",
+            "links": [
+              {
+                "text": "Concerts",
+                "title": "Concerts",
+                "wikiTitle": "Concerts",
+                "href": "https://en.wikipedia.org/wiki/Concerts",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "October 2018",
+            "lines": [
+              "October 2018"
+            ],
+            "html": "<td class=\"infobox-data\">October 2018</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "2018–2020",
+            "lines": [
+              "2018–2020"
+            ],
+            "html": "<td class=\"infobox-data\">2018–2020</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "24 December 2022",
+            "lines": [
+              "24 December 2022"
+            ],
+            "html": "<td class=\"infobox-data\">24 December 2022</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Yazgan Design Architecture",
+            "lines": [
+              "Yazgan Design Architecture"
+            ],
+            "html": "<td class=\"infobox-data\">Yazgan Design Architecture</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Main contractors",
+            "key": "main_contractors",
+            "group": "Construction",
+            "text": "Summa",
+            "lines": [
+              "Summa"
+            ],
+            "html": "<td class=\"infobox-data\">Summa</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "arenachisinau.md",
+            "lines": [
+              "arenachisinau.md"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.arenachisinau.md/\">arenachisinau.md</a></td>",
+            "links": [
+              {
+                "text": "arenachisinau.md",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://www.arenachisinau.md/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "130 Calea Orheiului Street\nStăuceni, Chișinău\nMoldova",
+              "lines": [
+                "130 Calea Orheiului Street",
+                "Stăuceni, Chișinău",
+                "Moldova"
+              ],
+              "html": "<td class=\"infobox-data label\">130 Calea Orheiului Street<br><a href=\"https://en.wikipedia.org/wiki/St%C4%83uceni,_Chi%C8%99in%C4%83u\" title=\"Stăuceni, Chișinău\">Stăuceni, Chișinău</a><br><a href=\"https://en.wikipedia.org/wiki/Moldova\" title=\"Moldova\">Moldova</a><span data-plural=\"1\"></span></td>",
+              "links": [
+                {
+                  "text": "Stăuceni, Chișinău",
+                  "title": "Stăuceni, Chișinău",
+                  "wikiTitle": "Stăuceni, Chișinău",
+                  "href": "https://en.wikipedia.org/wiki/St%C4%83uceni,_Chi%C8%99in%C4%83u",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Moldova",
+                  "title": "Moldova",
+                  "wikiTitle": "Moldova",
+                  "href": "https://en.wikipedia.org/wiki/Moldova",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "47°04′18″N 28°51′42″E﻿ / ﻿47.0717°N 28.8617°E﻿ / 47.0717; 28.8617",
+              "lines": [
+                "47°04′18″N 28°51′42″E﻿ / ﻿47.0717°N 28.8617°E﻿ / 47.0717; 28.8617"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Chi%C8%99in%C4%83u_Arena&amp;params=47.0717_N_28.8617_E_type:landmark_region:MD\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">47°04′18″N</span> <span class=\"longitude\">28°51′42″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">47.0717°N 28.8617°E</span><span>﻿ / <span class=\"geo\">47.0717; 28.8617</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "47°04′18″N 28°51′42″E﻿ / ﻿47.0717°N 28.8617°E﻿ / 47.0717; 28.8617",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Chi%C8%99in%C4%83u_Arena&params=47.0717_N_28.8617_E_type:landmark_region:MD",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "Concerts: 5,000",
+              "lines": [
+                "Concerts: 5,000"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Concerts\" class=\"mw-redirect\" title=\"Concerts\">Concerts</a>: 5,000</td>",
+              "links": [
+                {
+                  "text": "Concerts",
+                  "title": "Concerts",
+                  "wikiTitle": "Concerts",
+                  "href": "https://en.wikipedia.org/wiki/Concerts",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "October 2018",
+              "lines": [
+                "October 2018"
+              ],
+              "html": "<td class=\"infobox-data\">October 2018</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "2018–2020",
+              "lines": [
+                "2018–2020"
+              ],
+              "html": "<td class=\"infobox-data\">2018–2020</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "24 December 2022",
+              "lines": [
+                "24 December 2022"
+              ],
+              "html": "<td class=\"infobox-data\">24 December 2022</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Yazgan Design Architecture",
+              "lines": [
+                "Yazgan Design Architecture"
+              ],
+              "html": "<td class=\"infobox-data\">Yazgan Design Architecture</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "main_contractors": [
+            {
+              "label": "Main contractors",
+              "key": "main_contractors",
+              "group": "Construction",
+              "text": "Summa",
+              "lines": [
+                "Summa"
+              ],
+              "html": "<td class=\"infobox-data\">Summa</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "arenachisinau.md",
+              "lines": [
+                "arenachisinau.md"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.arenachisinau.md/\">arenachisinau.md</a></td>",
+              "links": [
+                {
+                  "text": "arenachisinau.md",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://www.arenachisinau.md/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "address": [
+            "130 Calea Orheiului Street\nStăuceni, Chișinău\nMoldova"
+          ],
+          "coordinates": [
+            "47°04′18″N 28°51′42″E﻿ / ﻿47.0717°N 28.8617°E﻿ / 47.0717; 28.8617"
+          ],
+          "capacity": [
+            "Concerts: 5,000"
+          ],
+          "groundbreaking": [
+            "October 2018"
+          ],
+          "built": [
+            "2018–2020"
+          ],
+          "opened": [
+            "24 December 2022"
+          ],
+          "architect": [
+            "Yazgan Design Architecture"
+          ],
+          "main_contractors": [
+            "Summa"
+          ],
+          "website": [
+            "arenachisinau.md"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "Concerts: 5,000"
+        ],
+        "tenants": [],
+        "websites": [
+          "http://www.arenachisinau.md/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:Chisinau Arena Logo.png",
+            "fileName": "Chisinau Arena Logo.png",
+            "kind": "logo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Chisinau_Arena_Logo.png",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Chisinau_Arena_Logo.png/250px-Chisinau_Arena_Logo.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chisinau_Arena_Logo.png",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Chisinau_Arena_Logo.png",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Chisinau_Arena_Logo.png/500px-Chisinau_Arena_Logo.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 67,
+            "originalWidth": 848,
+            "originalHeight": 227,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": "File:Arena Chișinău 5.jpg",
+            "fileName": "Arena Chișinău 5.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Arena_Chi%C8%99in%C4%83u_5.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Arena_Chi%C8%99in%C4%83u_5.jpg/250px-Arena_Chi%C8%99in%C4%83u_5.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Arena_Chi%C8%99in%C4%83u_5.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Arena_Chi%C8%99in%C4%83u_5.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Arena_Chi%C8%99in%C4%83u_5.jpg/500px-Arena_Chi%C8%99in%C4%83u_5.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 188,
+            "originalWidth": 4000,
+            "originalHeight": 3000,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "The arena in 2024"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Chi%C8%99in%C4%83u_Arena&revid=1361250430&groups=_d571e0338d249a02c64bc1cf44f6073250aee013&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Chi%C8%99in%C4%83u_Arena&revid=1361250430&groups=_d571e0338d249a02c64bc1cf44f6073250aee013&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Chișinău Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Chișinău Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size notpageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Chisinau_Arena_Logo.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Chisinau_Arena_Logo.png/250px-Chisinau_Arena_Logo.png\" width=\"250\" height=\"67\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Chisinau_Arena_Logo.png/500px-Chisinau_Arena_Logo.png 2x\" data-file-width=\"848\" data-file-height=\"227\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Arena_Chi%C8%99in%C4%83u_5.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Arena_Chi%C8%99in%C4%83u_5.jpg/250px-Arena_Chi%C8%99in%C4%83u_5.jpg\" width=\"250\" height=\"188\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Arena_Chi%C8%99in%C4%83u_5.jpg/500px-Arena_Chi%C8%99in%C4%83u_5.jpg 2x\" data-file-width=\"4000\" data-file-height=\"3000\"></a></span><div class=\"infobox-caption\">The arena in 2024</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_d571e0338d249a02c64bc1cf44f6073250aee013&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Chi%C8%99in%C4%83u_Arena&amp;revid=1361250430&amp;groups=_d571e0338d249a02c64bc1cf44f6073250aee013&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Chi%C8%99in%C4%83u_Arena&amp;revid=1361250430&amp;groups=_d571e0338d249a02c64bc1cf44f6073250aee013&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Chișinău Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\">130 Calea Orheiului Street<br><a href=\"https://en.wikipedia.org/wiki/St%C4%83uceni,_Chi%C8%99in%C4%83u\" title=\"Stăuceni, Chișinău\">Stăuceni, Chișinău</a><br><a href=\"https://en.wikipedia.org/wiki/Moldova\" title=\"Moldova\">Moldova</a><span data-plural=\"1\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Chi%C8%99in%C4%83u_Arena&amp;params=47.0717_N_28.8617_E_type:landmark_region:MD\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">47°04′18″N</span> <span class=\"longitude\">28°51′42″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">47.0717°N 28.8617°E</span><span>﻿ / <span class=\"geo\">47.0717; 28.8617</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Concerts\" class=\"mw-redirect\" title=\"Concerts\">Concerts</a>: 5,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">October 2018</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">2018–2020</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">24 December 2022</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\">Yazgan Design Architecture</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Main contractors</div></th><td class=\"infobox-data\">Summa</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.arenachisinau.md/\">arenachisinau.md</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Romanian-language_sources_(ro)",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Articles_containing_Romanian-language_text",
+        "Commons_category_link_from_Wikidata",
+        "Articles_with_Romanian-language_sources_(ro)",
+        "2022_establishments_in_Moldova",
+        "Indoor_arenas_in_Moldova",
+        "Sports_venues_completed_in_2022",
+        "Sports_venues_in_Moldova",
+        "Entertainment_venues_in_Moldova",
+        "Buildings_and_structures_in_Chișinău",
+        "Sports_venues_in_Chișinău",
+        "Music_venues_in_Moldova",
+        "Music_venues_completed_in_2022",
+        "Tourist_attractions_in_Moldova",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Chi%C8%99in%C4%83u_Arena&params=47.0717_N_28.8617_E_type:landmark_region:MD",
+        "https://arenachisinau.md/despre-arena/",
+        "https://www.summa.com.tr/en/projects/chisinau-arena.htm",
+        "https://arenachisinau.md/evenimente/",
+        "https://www.eurovision.com/stories/bulgaria-romania-and-moldova-will-return-to-eurovision-for-vienna-2026/",
+        "https://iwf.sport/events/calendar/?cy=2025",
+        "https://weightliftingireland.com/event/euorpean-senior-championships-2025/",
+        "https://www.uefa.com/futsalunder19/news/0291-1beeae088be0-cbb75f09fc66-1000--moldova-to-host-2025-u19-futsal-euro-in-chisinau/",
+        "https://anticoruptie.md/ro/stiri/alte-peste-65-de-milioane-de-lei-pentru-arena-chisinau-cat-va-mai-trebui-sa-plateasca-guvernul-pentru-inspiratia-lui-andrian-candu",
+        "https://unimedia.info/ro/news/ab98abdc4c345848/situatie-critica-la-arena-chisinau-compania-turca-refuza-sa-mai-suporte-cheltuielile-pentru-paza-si-intretinere-cati-bani-va-pierde-statul.html",
+        "https://moldova.europalibera.org/a/arena-chi%C8%99in%C4%83u-nota-de-plat%C4%83-%C8%99i-mizele-afacerii/31261530.html",
+        "http://www.arenachisinau.md/",
+        "https://arenachisinau.md/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Entertainment",
+          "anchor": "Entertainment"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Sports",
+          "anchor": "Sports"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "Criticism",
+          "anchor": "Criticism"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Chisinau_Arena_Logo.png",
+        "Arena_Chișinău_5.jpg",
+        "Arena_Chișinău_1_(cropped).jpg",
+        "Commons-logo.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Chisinau Arena Logo.png",
+          "fileName": "Chisinau Arena Logo.png",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Chisinau_Arena_Logo.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Chisinau_Arena_Logo.png/250px-Chisinau_Arena_Logo.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chisinau_Arena_Logo.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Chisinau_Arena_Logo.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Chisinau_Arena_Logo.png/500px-Chisinau_Arena_Logo.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 67,
+          "originalWidth": 848,
+          "originalHeight": 227,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Arena Chișinău 5.jpg",
+          "fileName": "Arena Chișinău 5.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Arena_Chi%C8%99in%C4%83u_5.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Arena_Chi%C8%99in%C4%83u_5.jpg/250px-Arena_Chi%C8%99in%C4%83u_5.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Arena_Chi%C8%99in%C4%83u_5.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Arena_Chi%C8%99in%C4%83u_5.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Arena_Chi%C8%99in%C4%83u_5.jpg/500px-Arena_Chi%C8%99in%C4%83u_5.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 4000,
+          "originalHeight": 3000,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The arena in 2024"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Chi%C8%99in%C4%83u_Arena&revid=1361250430&groups=_d571e0338d249a02c64bc1cf44f6073250aee013&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Chi%C8%99in%C4%83u_Arena&revid=1361250430&groups=_d571e0338d249a02c64bc1cf44f6073250aee013&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Chișinău Arena"
+        },
+        {
+          "fileTitle": "File:Arena Chișinău 1 (cropped).jpg",
+          "fileName": "Arena Chișinău 1 (cropped).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Arena_Chi%C8%99in%C4%83u_1_(cropped).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arena_Chi%C8%99in%C4%83u_1_%28cropped%29.jpg/250px-Arena_Chi%C8%99in%C4%83u_1_%28cropped%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Arena_Chi%C8%99in%C4%83u_1_(cropped).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Arena_Chi%C8%99in%C4%83u_1_(cropped).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arena_Chi%C8%99in%C4%83u_1_%28cropped%29.jpg/500px-Arena_Chi%C8%99in%C4%83u_1_%28cropped%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 125,
+          "originalWidth": 4000,
+          "originalHeight": 2000,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Street view of the arena (2024)"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 612,
+          "rowText": "Arena Chișinău\n2022\n4,500",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Arena_Chi%C8%99in%C4%83u\" class=\"mw-redirect\" title=\"Arena Chișinău\">Arena Chișinău</a>\n</td>\n<td>2022\n</td>\n<td>4,500\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 611,
+              "cell": {
+                "text": "Moldova",
+                "lines": [
+                  "Moldova"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Moldova",
+                    "title": "Moldova",
+                    "wikiTitle": "Moldova",
+                    "href": "https://en.wikipedia.org/wiki/Moldova",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 611,
+              "cell": {
+                "text": "Chișinău",
+                "lines": [
+                  "Chișinău"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Chișinău",
+                    "title": "Chișinău",
+                    "wikiTitle": "Chișinău",
+                    "href": "https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 612,
+              "cell": {
+                "text": "Arena Chișinău",
+                "lines": [
+                  "Arena Chișinău"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Arena Chișinău",
+                    "title": "Arena Chișinău",
+                    "wikiTitle": "Arena Chișinău",
+                    "href": "https://en.wikipedia.org/wiki/Arena_Chi%C8%99in%C4%83u",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 612,
+              "cell": {
+                "text": "2022",
+                "lines": [
+                  "2022"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 612,
+              "cell": {
+                "text": "4,500",
+                "lines": [
+                  "4,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 612,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Arena Chișinău",
+            "lines": [
+              "Arena Chișinău"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Arena Chișinău",
+                "title": "Arena Chișinău",
+                "wikiTitle": "Arena Chișinău",
+                "href": "https://en.wikipedia.org/wiki/Arena_Chi%C8%99in%C4%83u",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:46:28.525Z"
+    },
+    {
+      "id": "wikipedia-page-56657765",
+      "pageId": 56657765,
+      "revisionId": null,
+      "title": "Manej Sport Arena",
+      "displayTitle": "Manej Sport Arena",
+      "url": "https://en.wikipedia.org/wiki/Manej_Sport_Arena",
+      "wikidataItem": "Q20430978",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q20430978",
+      "aliases": [
+        "Manej Sport Arena"
+      ],
+      "requestedTitles": [
+        "Manej Sport Arena"
+      ],
+      "sourceLinkTexts": [
+        "Manej Sport Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Manej_Sport_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 47.0325,
+        "longitude": 28.85667,
+        "raw": "47.03250; 28.85667"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Manej Sport Arena",
+        "groups": [
+          "Construction",
+          "Tenants",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "26 Andrei Doga St., Chișinău, Moldova",
+            "lines": [
+              "26 Andrei Doga St., Chișinău, Moldova"
+            ],
+            "html": "<td class=\"infobox-data label\">26 Andrei Doga St., <a href=\"https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u\" title=\"Chișinău\">Chișinău</a>, <a href=\"https://en.wikipedia.org/wiki/Moldova\" title=\"Moldova\">Moldova</a></td>",
+            "links": [
+              {
+                "text": "Chișinău",
+                "title": "Chișinău",
+                "wikiTitle": "Chișinău",
+                "href": "https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Moldova",
+                "title": "Moldova",
+                "wikiTitle": "Moldova",
+                "href": "https://en.wikipedia.org/wiki/Moldova",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Ministry of Education and Research",
+            "lines": [
+              "Ministry of Education and Research"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Ministry_of_Education_and_Research_(Moldova)\" title=\"Ministry of Education and Research (Moldova)\">Ministry of Education and Research</a></td>",
+            "links": [
+              {
+                "text": "Ministry of Education and Research",
+                "title": "Ministry of Education and Research (Moldova)",
+                "wikiTitle": "Ministry of Education and Research (Moldova)",
+                "href": "https://en.wikipedia.org/wiki/Ministry_of_Education_and_Research_(Moldova)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "-",
+            "lines": [
+              "-"
+            ],
+            "html": "<td class=\"infobox-data\">-</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1993",
+            "lines": [
+              "1993"
+            ],
+            "html": "<td class=\"infobox-data\">1993</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "HC Riviera Chișinău",
+            "lines": [
+              "HC Riviera Chișinău"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/HC_Riviera_Chi%C8%99in%C4%83u\" title=\"HC Riviera Chișinău\">HC Riviera Chișinău</a></td>",
+            "links": [
+              {
+                "text": "HC Riviera Chișinău",
+                "title": "HC Riviera Chișinău",
+                "wikiTitle": "HC Riviera Chișinău",
+                "href": "https://en.wikipedia.org/wiki/HC_Riviera_Chi%C8%99in%C4%83u",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "manej.md",
+            "lines": [
+              "manej.md"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://manej.md/\">manej<wbr>.md</a></span></td>",
+            "links": [
+              {
+                "text": "manej.md",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://manej.md/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "26 Andrei Doga St., Chișinău, Moldova",
+              "lines": [
+                "26 Andrei Doga St., Chișinău, Moldova"
+              ],
+              "html": "<td class=\"infobox-data label\">26 Andrei Doga St., <a href=\"https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u\" title=\"Chișinău\">Chișinău</a>, <a href=\"https://en.wikipedia.org/wiki/Moldova\" title=\"Moldova\">Moldova</a></td>",
+              "links": [
+                {
+                  "text": "Chișinău",
+                  "title": "Chișinău",
+                  "wikiTitle": "Chișinău",
+                  "href": "https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Moldova",
+                  "title": "Moldova",
+                  "wikiTitle": "Moldova",
+                  "href": "https://en.wikipedia.org/wiki/Moldova",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Ministry of Education and Research",
+              "lines": [
+                "Ministry of Education and Research"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Ministry_of_Education_and_Research_(Moldova)\" title=\"Ministry of Education and Research (Moldova)\">Ministry of Education and Research</a></td>",
+              "links": [
+                {
+                  "text": "Ministry of Education and Research",
+                  "title": "Ministry of Education and Research (Moldova)",
+                  "wikiTitle": "Ministry of Education and Research (Moldova)",
+                  "href": "https://en.wikipedia.org/wiki/Ministry_of_Education_and_Research_(Moldova)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "-",
+              "lines": [
+                "-"
+              ],
+              "html": "<td class=\"infobox-data\">-</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1993",
+              "lines": [
+                "1993"
+              ],
+              "html": "<td class=\"infobox-data\">1993</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "HC Riviera Chișinău",
+              "lines": [
+                "HC Riviera Chișinău"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/HC_Riviera_Chi%C8%99in%C4%83u\" title=\"HC Riviera Chișinău\">HC Riviera Chișinău</a></td>",
+              "links": [
+                {
+                  "text": "HC Riviera Chișinău",
+                  "title": "HC Riviera Chișinău",
+                  "wikiTitle": "HC Riviera Chișinău",
+                  "href": "https://en.wikipedia.org/wiki/HC_Riviera_Chi%C8%99in%C4%83u",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "manej.md",
+              "lines": [
+                "manej.md"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://manej.md/\">manej<wbr>.md</a></span></td>",
+              "links": [
+                {
+                  "text": "manej.md",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://manej.md/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "26 Andrei Doga St., Chișinău, Moldova"
+          ],
+          "owner": [
+            "Ministry of Education and Research"
+          ],
+          "capacity": [
+            "-"
+          ],
+          "opened": [
+            "1993"
+          ],
+          "tenants": [
+            "HC Riviera Chișinău"
+          ],
+          "website": [
+            "manej.md"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "-"
+        ],
+        "tenants": [
+          "HC Riviera Chișinău"
+        ],
+        "websites": [
+          "http://manej.md/"
+        ],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Manej_Sport_Arena&revid=1349117318&groups=_8f6a9f2640d45f5b68b0b1318e1126e1a3316d7d&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Manej_Sport_Arena&revid=1349117318&groups=_8f6a9f2640d45f5b68b0b1318e1126e1a3316d7d&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Manej Sport Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Manej Sport Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\" lang=\"ro\">Manejul de Atletică Ușoară</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_8f6a9f2640d45f5b68b0b1318e1126e1a3316d7d&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Manej_Sport_Arena&amp;revid=1349117318&amp;groups=_8f6a9f2640d45f5b68b0b1318e1126e1a3316d7d&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Manej_Sport_Arena&amp;revid=1349117318&amp;groups=_8f6a9f2640d45f5b68b0b1318e1126e1a3316d7d&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Manej Sport Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">26 Andrei Doga St., <a href=\"https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u\" title=\"Chișinău\">Chișinău</a>, <a href=\"https://en.wikipedia.org/wiki/Moldova\" title=\"Moldova\">Moldova</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Ministry_of_Education_and_Research_(Moldova)\" title=\"Ministry of Education and Research (Moldova)\">Ministry of Education and Research</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">-</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1993</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/HC_Riviera_Chi%C8%99in%C4%83u\" title=\"HC Riviera Chișinău\">HC Riviera Chișinău</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://manej.md/\">manej<wbr>.md</a></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Articles_containing_Romanian-language_text",
+        "Coordinates_on_Wikidata",
+        "Buildings_and_structures_in_Chișinău",
+        "Sports_venues_in_Chișinău",
+        "Indoor_arenas_in_Moldova",
+        "All_stub_articles",
+        "European_sports_venue_stubs",
+        "Moldovan_sport_stubs",
+        "Moldovan_building_and_structure_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://web.archive.org/web/20130608013156/http://www.mts.gov.md/manej",
+        "http://www.mts.gov.md/manej",
+        "https://geohack.toolforge.org/geohack.php?pagename=Manej_Sport_Arena&params=47_1_57_N_28_51_24_E_region:MD_type:landmark",
+        "http://manej.md/",
+        "http://wikimapia.org/7914633/ro/%C3%8ES-%E2%80%9EManejul-de-Atletic%C4%83-U%C5%9Foar%C4%83%E2%80%9D"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Manej_Sport_Arena&revid=1349117318&groups=_8f6a9f2640d45f5b68b0b1318e1126e1a3316d7d&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Manej_Sport_Arena&revid=1349117318&groups=_8f6a9f2640d45f5b68b0b1318e1126e1a3316d7d&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Manej Sport Arena"
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 611,
+          "rowText": "Moldova\nChișinău\nManej Sport Arena\n1993\n2,361",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Moldova\" title=\"Moldova\">Moldova</a>\n</td>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u\" title=\"Chișinău\">Chișinău</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Manej_Sport_Arena\" title=\"Manej Sport Arena\">Manej Sport Arena</a>\n</td>\n<td>1993\n</td>\n<td>2,361\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 611,
+              "cell": {
+                "text": "Moldova",
+                "lines": [
+                  "Moldova"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Moldova",
+                    "title": "Moldova",
+                    "wikiTitle": "Moldova",
+                    "href": "https://en.wikipedia.org/wiki/Moldova",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 611,
+              "cell": {
+                "text": "Chișinău",
+                "lines": [
+                  "Chișinău"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Chișinău",
+                    "title": "Chișinău",
+                    "wikiTitle": "Chișinău",
+                    "href": "https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 611,
+              "cell": {
+                "text": "Manej Sport Arena",
+                "lines": [
+                  "Manej Sport Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Manej Sport Arena",
+                    "title": "Manej Sport Arena",
+                    "wikiTitle": "Manej Sport Arena",
+                    "href": "https://en.wikipedia.org/wiki/Manej_Sport_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 611,
+              "cell": {
+                "text": "1993",
+                "lines": [
+                  "1993"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 611,
+              "cell": {
+                "text": "2,361",
+                "lines": [
+                  "2,361"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 611,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Manej Sport Arena",
+            "lines": [
+              "Manej Sport Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Manej Sport Arena",
+                "title": "Manej Sport Arena",
+                "wikiTitle": "Manej Sport Arena",
+                "href": "https://en.wikipedia.org/wiki/Manej_Sport_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:46:28.499Z"
+    }
+  ]
+}

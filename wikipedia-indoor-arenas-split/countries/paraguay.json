@@ -1,0 +1,1265 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Paraguay",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 16,
+    "sourceTypeCounts": {
+      "world_master_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-63210273",
+      "pageId": 63210273,
+      "revisionId": null,
+      "title": "SND Arena",
+      "displayTitle": "SND Arena",
+      "url": "https://en.wikipedia.org/wiki/SND_Arena",
+      "wikidataItem": "Q86754512",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q86754512",
+      "aliases": [
+        "SND Arena"
+      ],
+      "requestedTitles": [
+        "SND Arena"
+      ],
+      "sourceLinkTexts": [
+        "SND Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/SND_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": -25.3185,
+        "longitude": -57.581,
+        "raw": "-25.3185; -57.5810"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "SND Arena",
+        "groups": [
+          "Construction",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Avda. Eusebio Ayala y RI 6 Boquerón, Barrio Hipódromo\nAsunción, Paraguay",
+            "lines": [
+              "Avda. Eusebio Ayala y RI 6 Boquerón, Barrio Hipódromo",
+              "Asunción, Paraguay"
+            ],
+            "html": "<td class=\"infobox-data label\">Avda. Eusebio Ayala y RI 6 Boquerón, Barrio Hipódromo<br><a href=\"https://en.wikipedia.org/wiki/Asunci%C3%B3n\" title=\"Asunción\">Asunción</a>, <a href=\"https://en.wikipedia.org/wiki/Paraguay\" title=\"Paraguay\">Paraguay</a></td>",
+            "links": [
+              {
+                "text": "Asunción",
+                "title": "Asunción",
+                "wikiTitle": "Asunción",
+                "href": "https://en.wikipedia.org/wiki/Asunci%C3%B3n",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Paraguay",
+                "title": "Paraguay",
+                "wikiTitle": "Paraguay",
+                "href": "https://en.wikipedia.org/wiki/Paraguay",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "25°19′07″S 57°34′52″W﻿ / ﻿25.3185°S 57.5810°W﻿ / -25.3185; -57.5810",
+            "lines": [
+              "25°19′07″S 57°34′52″W﻿ / ﻿25.3185°S 57.5810°W﻿ / -25.3185; -57.5810"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=SND_Arena&amp;params=25.3185_S_57.5810_W_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°19′07″S</span> <span class=\"longitude\">57°34′52″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.3185°S 57.5810°W</span><span>﻿ / <span class=\"geo\">-25.3185; -57.5810</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "25°19′07″S 57°34′52″W﻿ / ﻿25.3185°S 57.5810°W﻿ / -25.3185; -57.5810",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=SND_Arena&params=25.3185_S_57.5810_W_",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Secretaria Nacional de Deportes",
+            "lines": [
+              "Secretaria Nacional de Deportes"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Secretaria_Nacional_de_Deportes\" class=\"mw-redirect\" title=\"Secretaria Nacional de Deportes\">Secretaria Nacional de Deportes</a></td>",
+            "links": [
+              {
+                "text": "Secretaria Nacional de Deportes",
+                "title": "Secretaria Nacional de Deportes",
+                "wikiTitle": "Secretaria Nacional de Deportes",
+                "href": "https://en.wikipedia.org/wiki/Secretaria_Nacional_de_Deportes",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "5.500",
+            "lines": [
+              "5.500"
+            ],
+            "html": "<td class=\"infobox-data\">5.500</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-capcity-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-capcity-1"
+              }
+            ]
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "group": null,
+            "text": "Stadium",
+            "lines": [
+              "Stadium"
+            ],
+            "html": "<td class=\"infobox-data category\">Stadium</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Events",
+            "key": "events",
+            "group": null,
+            "text": "Sporting Events, Concerts",
+            "lines": [
+              "Sporting Events, Concerts"
+            ],
+            "html": "<td class=\"infobox-data\">Sporting Events, Concerts</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Field shape",
+            "key": "field_shape",
+            "group": null,
+            "text": "rectangular",
+            "lines": [
+              "rectangular"
+            ],
+            "html": "<td class=\"infobox-data\">rectangular</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1978",
+            "lines": [
+              "1978"
+            ],
+            "html": "<td class=\"infobox-data\">1978</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "10 August 2018",
+            "lines": [
+              "10 August 2018"
+            ],
+            "html": "<td class=\"infobox-data\">10 August 2018</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Expanded",
+            "key": "expanded",
+            "group": "Construction",
+            "text": "2018",
+            "lines": [
+              "2018"
+            ],
+            "html": "<td class=\"infobox-data\">2018</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "www.snd.gov.py",
+            "lines": [
+              "www.snd.gov.py"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.snd.gov.py/\">www.snd.gov.py</a></td>",
+            "links": [
+              {
+                "text": "www.snd.gov.py",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://www.snd.gov.py/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Avda. Eusebio Ayala y RI 6 Boquerón, Barrio Hipódromo\nAsunción, Paraguay",
+              "lines": [
+                "Avda. Eusebio Ayala y RI 6 Boquerón, Barrio Hipódromo",
+                "Asunción, Paraguay"
+              ],
+              "html": "<td class=\"infobox-data label\">Avda. Eusebio Ayala y RI 6 Boquerón, Barrio Hipódromo<br><a href=\"https://en.wikipedia.org/wiki/Asunci%C3%B3n\" title=\"Asunción\">Asunción</a>, <a href=\"https://en.wikipedia.org/wiki/Paraguay\" title=\"Paraguay\">Paraguay</a></td>",
+              "links": [
+                {
+                  "text": "Asunción",
+                  "title": "Asunción",
+                  "wikiTitle": "Asunción",
+                  "href": "https://en.wikipedia.org/wiki/Asunci%C3%B3n",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Paraguay",
+                  "title": "Paraguay",
+                  "wikiTitle": "Paraguay",
+                  "href": "https://en.wikipedia.org/wiki/Paraguay",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "25°19′07″S 57°34′52″W﻿ / ﻿25.3185°S 57.5810°W﻿ / -25.3185; -57.5810",
+              "lines": [
+                "25°19′07″S 57°34′52″W﻿ / ﻿25.3185°S 57.5810°W﻿ / -25.3185; -57.5810"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=SND_Arena&amp;params=25.3185_S_57.5810_W_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°19′07″S</span> <span class=\"longitude\">57°34′52″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.3185°S 57.5810°W</span><span>﻿ / <span class=\"geo\">-25.3185; -57.5810</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "25°19′07″S 57°34′52″W﻿ / ﻿25.3185°S 57.5810°W﻿ / -25.3185; -57.5810",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=SND_Arena&params=25.3185_S_57.5810_W_",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Secretaria Nacional de Deportes",
+              "lines": [
+                "Secretaria Nacional de Deportes"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Secretaria_Nacional_de_Deportes\" class=\"mw-redirect\" title=\"Secretaria Nacional de Deportes\">Secretaria Nacional de Deportes</a></td>",
+              "links": [
+                {
+                  "text": "Secretaria Nacional de Deportes",
+                  "title": "Secretaria Nacional de Deportes",
+                  "wikiTitle": "Secretaria Nacional de Deportes",
+                  "href": "https://en.wikipedia.org/wiki/Secretaria_Nacional_de_Deportes",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "5.500",
+              "lines": [
+                "5.500"
+              ],
+              "html": "<td class=\"infobox-data\">5.500</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-capcity-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-capcity-1"
+                }
+              ]
+            }
+          ],
+          "type": [
+            {
+              "label": "Type",
+              "key": "type",
+              "group": null,
+              "text": "Stadium",
+              "lines": [
+                "Stadium"
+              ],
+              "html": "<td class=\"infobox-data category\">Stadium</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "events": [
+            {
+              "label": "Events",
+              "key": "events",
+              "group": null,
+              "text": "Sporting Events, Concerts",
+              "lines": [
+                "Sporting Events, Concerts"
+              ],
+              "html": "<td class=\"infobox-data\">Sporting Events, Concerts</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "field_shape": [
+            {
+              "label": "Field shape",
+              "key": "field_shape",
+              "group": null,
+              "text": "rectangular",
+              "lines": [
+                "rectangular"
+              ],
+              "html": "<td class=\"infobox-data\">rectangular</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1978",
+              "lines": [
+                "1978"
+              ],
+              "html": "<td class=\"infobox-data\">1978</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "10 August 2018",
+              "lines": [
+                "10 August 2018"
+              ],
+              "html": "<td class=\"infobox-data\">10 August 2018</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "expanded": [
+            {
+              "label": "Expanded",
+              "key": "expanded",
+              "group": "Construction",
+              "text": "2018",
+              "lines": [
+                "2018"
+              ],
+              "html": "<td class=\"infobox-data\">2018</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "www.snd.gov.py",
+              "lines": [
+                "www.snd.gov.py"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.snd.gov.py/\">www.snd.gov.py</a></td>",
+              "links": [
+                {
+                  "text": "www.snd.gov.py",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://www.snd.gov.py/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Avda. Eusebio Ayala y RI 6 Boquerón, Barrio Hipódromo\nAsunción, Paraguay"
+          ],
+          "coordinates": [
+            "25°19′07″S 57°34′52″W﻿ / ﻿25.3185°S 57.5810°W﻿ / -25.3185; -57.5810"
+          ],
+          "owner": [
+            "Secretaria Nacional de Deportes"
+          ],
+          "capacity": [
+            "5.500"
+          ],
+          "type": [
+            "Stadium"
+          ],
+          "events": [
+            "Sporting Events, Concerts"
+          ],
+          "field_shape": [
+            "rectangular"
+          ],
+          "opened": [
+            "1978"
+          ],
+          "renovated": [
+            "10 August 2018"
+          ],
+          "expanded": [
+            "2018"
+          ],
+          "website": [
+            "www.snd.gov.py"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "5.500"
+        ],
+        "tenants": [],
+        "websites": [
+          "http://www.snd.gov.py/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:SND Arena Asunción Paraguay.png",
+            "fileName": "SND Arena Asunción Paraguay.png",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:SND_Arena_Asunci%C3%B3n_Paraguay.png",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/SND_Arena_Asunci%C3%B3n_Paraguay.png/250px-SND_Arena_Asunci%C3%B3n_Paraguay.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/SND_Arena_Asunci%C3%B3n_Paraguay.png",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/SND_Arena_Asunci%C3%B3n_Paraguay.png",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/SND_Arena_Asunci%C3%B3n_Paraguay.png/500px-SND_Arena_Asunci%C3%B3n_Paraguay.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 287,
+            "originalWidth": 1063,
+            "originalHeight": 1220,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=SND_Arena&revid=1351992944&groups=_0f1b86e446400c71ede573e5d98828f2048c4ae6&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=SND_Arena&revid=1351992944&groups=_0f1b86e446400c71ede573e5d98828f2048c4ae6&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of SND Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">SND Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:SND_Arena_Asunci%C3%B3n_Paraguay.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/SND_Arena_Asunci%C3%B3n_Paraguay.png/250px-SND_Arena_Asunci%C3%B3n_Paraguay.png\" width=\"250\" height=\"287\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/SND_Arena_Asunci%C3%B3n_Paraguay.png/500px-SND_Arena_Asunci%C3%B3n_Paraguay.png 2x\" data-file-width=\"1063\" data-file-height=\"1220\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_0f1b86e446400c71ede573e5d98828f2048c4ae6&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=SND_Arena&amp;revid=1351992944&amp;groups=_0f1b86e446400c71ede573e5d98828f2048c4ae6&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=SND_Arena&amp;revid=1351992944&amp;groups=_0f1b86e446400c71ede573e5d98828f2048c4ae6&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of SND Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">Avda. Eusebio Ayala y RI 6 Boquerón, Barrio Hipódromo<br><a href=\"https://en.wikipedia.org/wiki/Asunci%C3%B3n\" title=\"Asunción\">Asunción</a>, <a href=\"https://en.wikipedia.org/wiki/Paraguay\" title=\"Paraguay\">Paraguay</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=SND_Arena&amp;params=25.3185_S_57.5810_W_\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">25°19′07″S</span> <span class=\"longitude\">57°34′52″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">25.3185°S 57.5810°W</span><span>﻿ / <span class=\"geo\">-25.3185; -57.5810</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Secretaria_Nacional_de_Deportes\" class=\"mw-redirect\" title=\"Secretaria Nacional de Deportes\">Secretaria Nacional de Deportes</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">5.500</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Type</th><td class=\"infobox-data category\">Stadium</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Events</th><td class=\"infobox-data\">Sporting Events, Concerts</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Field shape</div></th><td class=\"infobox-data\">rectangular</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1978</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">10 August 2018</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Expanded</th><td class=\"infobox-data\">2018</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.snd.gov.py/\">www.snd.gov.py</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Spanish-language_sources_(es)",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Sports_venues_in_Asunción",
+        "Sports_venues_in_Paraguay",
+        "Music_venues_in_Paraguay",
+        "Indoor_arenas_in_Paraguay",
+        "Badminton_venues",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=SND_Arena&params=25.3185_S_57.5810_W_",
+        "https://www.abc.com.py/edicion-impresa/deportes/snd-arena-emociona-al-deporte-1729960.html",
+        "https://www.abc.com.py/deportes/polideportivo/polideportivo-snd-arena-1729694.html",
+        "https://www.abc.com.py/edicion-impresa/deportes/snd-arena-orgullo-a-potenciar-1759258.html",
+        "https://ministeriodejusticia.gov.py/el-si-mas-grande-unio-a-mas-de-600-parejas-en-la-mayor-boda-comunitaria-de-la-historia-del-paraguay/",
+        "http://www.snd.gov.py/",
+        "http://snd.gov.py/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Sport events",
+          "anchor": "Sport_events"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Concerts",
+          "anchor": "Concerts"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Notes",
+          "anchor": "Notes"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "SND_Arena_Asunción_Paraguay.png",
+        "SND_Arena_interior.jpg",
+        "Flag_of_Argentina.svg",
+        "Flag_of_Uruguay.svg",
+        "Flag_of_Spain.svg",
+        "Flag_of_Mexico.svg",
+        "Flag_of_Chile.svg",
+        "Flag_of_the_United_States.svg",
+        "Flag_of_Colombia.svg",
+        "Flag_of_Venezuela.svg",
+        "Flag_of_Brazil.svg",
+        "Flag_of_the_United_Kingdom_(1-2).svg",
+        "Flag_of_Norway.svg",
+        "Flag_of_France.svg",
+        "Flag_of_Switzerland_(Pantone).svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:SND Arena Asunción Paraguay.png",
+          "fileName": "SND Arena Asunción Paraguay.png",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:SND_Arena_Asunci%C3%B3n_Paraguay.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/SND_Arena_Asunci%C3%B3n_Paraguay.png/250px-SND_Arena_Asunci%C3%B3n_Paraguay.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/SND_Arena_Asunci%C3%B3n_Paraguay.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/SND_Arena_Asunci%C3%B3n_Paraguay.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/SND_Arena_Asunci%C3%B3n_Paraguay.png/500px-SND_Arena_Asunci%C3%B3n_Paraguay.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 287,
+          "originalWidth": 1063,
+          "originalHeight": 1220,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=SND_Arena&revid=1351992944&groups=_0f1b86e446400c71ede573e5d98828f2048c4ae6&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=SND_Arena&revid=1351992944&groups=_0f1b86e446400c71ede573e5d98828f2048c4ae6&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of SND Arena"
+        },
+        {
+          "fileTitle": "File:SND Arena interior.jpg",
+          "fileName": "SND Arena interior.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:SND_Arena_interior.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SND_Arena_interior.jpg/250px-SND_Arena_interior.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/SND_Arena_interior.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/SND_Arena_interior.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SND_Arena_interior.jpg/500px-SND_Arena_interior.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 160,
+          "originalWidth": 5120,
+          "originalHeight": 3285,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "An interior view of SND Arena."
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/40px-Flag_of_Argentina.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/60px-Flag_of_Argentina.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 14,
+          "originalWidth": 800,
+          "originalHeight": 500,
+          "fileType": null,
+          "alt": "Argentina",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/40px-Flag_of_Uruguay.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/60px-Flag_of_Uruguay.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 512,
+          "originalHeight": 341,
+          "fileType": null,
+          "alt": "Uruguay",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/40px-Flag_of_Spain.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/60px-Flag_of_Spain.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 750,
+          "originalHeight": 500,
+          "fileType": null,
+          "alt": "Spain",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/40px-Flag_of_Mexico.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/60px-Flag_of_Mexico.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 13,
+          "originalWidth": 980,
+          "originalHeight": 560,
+          "fileType": null,
+          "alt": "Mexico",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/40px-Flag_of_Chile.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/60px-Flag_of_Chile.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Chile",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/60px-Flag_of_the_United_States.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1235,
+          "originalHeight": 650,
+          "fileType": null,
+          "alt": "United States",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/60px-Flag_of_Colombia.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Colombia",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/40px-Flag_of_Venezuela.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/60px-Flag_of_Venezuela.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Venezuela",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/40px-Flag_of_Brazil.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/60px-Flag_of_Brazil.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 22,
+          "height": 15,
+          "originalWidth": 1000,
+          "originalHeight": 700,
+          "fileType": null,
+          "alt": "Brazil",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/40px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/60px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "United Kingdom",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/40px-Flag_of_Norway.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/60px-Flag_of_Norway.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 21,
+          "height": 15,
+          "originalWidth": 512,
+          "originalHeight": 372,
+          "fileType": null,
+          "alt": "Norway",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/60px-Flag_of_France.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "France",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/20px-Flag_of_Switzerland_%28Pantone%29.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/40px-Flag_of_Switzerland_%28Pantone%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 16,
+          "height": 16,
+          "originalWidth": 512,
+          "originalHeight": 512,
+          "fileType": null,
+          "alt": "Switzerland",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 109,
+          "rowText": "Paraguay\nAsunción\nSND Arena\n1978/2018\n6,000",
+          "rowHtml": "<tr>\n<td rowspan=\"11\"><a href=\"https://en.wikipedia.org/wiki/Paraguay\" title=\"Paraguay\">Paraguay</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Asunci%C3%B3n\" title=\"Asunción\">Asunción</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/SND_Arena\" title=\"SND Arena\">SND Arena</a>\n</td>\n<td>1978/2018\n</td>\n<td>6,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 109,
+              "cell": {
+                "text": "Paraguay",
+                "lines": [
+                  "Paraguay"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Paraguay",
+                    "title": "Paraguay",
+                    "wikiTitle": "Paraguay",
+                    "href": "https://en.wikipedia.org/wiki/Paraguay",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 109,
+              "cell": {
+                "text": "Asunción",
+                "lines": [
+                  "Asunción"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Asunción",
+                    "title": "Asunción",
+                    "wikiTitle": "Asunción",
+                    "href": "https://en.wikipedia.org/wiki/Asunci%C3%B3n",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 109,
+              "cell": {
+                "text": "SND Arena",
+                "lines": [
+                  "SND Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "SND Arena",
+                    "title": "SND Arena",
+                    "wikiTitle": "SND Arena",
+                    "href": "https://en.wikipedia.org/wiki/SND_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 109,
+              "cell": {
+                "text": "1978/2018",
+                "lines": [
+                  "1978/2018"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 109,
+              "cell": {
+                "text": "6,000",
+                "lines": [
+                  "6,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 109,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "SND Arena",
+            "lines": [
+              "SND Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "SND Arena",
+                "title": "SND Arena",
+                "wikiTitle": "SND Arena",
+                "href": "https://en.wikipedia.org/wiki/SND_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:32.224Z"
+    }
+  ]
+}

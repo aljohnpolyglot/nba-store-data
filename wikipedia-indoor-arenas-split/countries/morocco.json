@@ -1,0 +1,2850 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Morocco",
+  "coverage": {
+    "mode": "dedicated_country_list_plus_other_sources",
+    "hasDedicatedBlueLinkedArenaList": true,
+    "dedicatedListPages": "List of indoor arenas in Morocco",
+    "worldMasterFallbackArenaCount": 3
+  },
+  "stats": {
+    "arenaCount": 3,
+    "sourceRowCount": 9,
+    "mediaRecordCount": 12,
+    "sourceTypeCounts": {
+      "world_master_list": 3,
+      "country_or_region_list": 3
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    },
+    {
+      "title": "List of indoor arenas in Morocco",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Morocco",
+      "revisionId": null,
+      "sections": [
+        "Current",
+        "Under construction",
+        "Proposed arenas",
+        "See also",
+        "References",
+        "External links"
+      ],
+      "candidateRowCount": 3
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-6219949",
+      "pageId": 6219949,
+      "revisionId": null,
+      "title": "Salle Ibn Yassine",
+      "displayTitle": "Salle Ibn Yassine",
+      "url": "https://en.wikipedia.org/wiki/Salle_Ibn_Yassine",
+      "wikidataItem": "Q3469866",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3469866",
+      "aliases": [
+        "Salle Ibn Yassine"
+      ],
+      "requestedTitles": [
+        "Salle Ibn Yassine"
+      ],
+      "sourceLinkTexts": [
+        "Salle Ibn Yassine"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Salle_Ibn_Yassine"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas in Morocco",
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [
+        "Morocco"
+      ],
+      "coordinates": {
+        "latitude": 34.005157,
+        "longitude": -6.846398,
+        "raw": "34.005157; -6.846398"
+      },
+      "leadParagraphs": [],
+      "infobox": null,
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Articles_needing_additional_references_from_June_2025",
+        "All_articles_needing_additional_references",
+        "Coordinates_on_Wikidata",
+        "All_stub_articles",
+        "North_African_sports_venue_stubs",
+        "Moroccan_sport_stubs",
+        "Moroccan_building_and_structure_stubs",
+        "Indoor_arenas_in_Morocco",
+        "Sports_venues_in_Rabat",
+        "Basketball_venues_in_Morocco",
+        "Volleyball_venues_in_Morocco",
+        "Handball_venues_in_Morocco"
+      ],
+      "externalLinks": [
+        "https://northafricapost.com/76463-before-the-2025-african-football-cup-of-nations-morocco-hosts-futsal-can-april-11-21.html",
+        "https://geohack.toolforge.org/geohack.php?pagename=Salle_Ibn_Yassine&params=34.005157_N_6.846398_W_type:landmark",
+        "https://www.google.com/search?as_eq=wikipedia&q=%22Salle+Ibn+Yassine%22",
+        "https://www.google.com/search?tbm=nws&q=%22Salle+Ibn+Yassine%22+-wikipedia&tbs=ar:1",
+        "https://www.google.com/search?&q=%22Salle+Ibn+Yassine%22&tbs=bkt:s&tbm=bks",
+        "https://www.google.com/search?tbs=bks:1&q=%22Salle+Ibn+Yassine%22+-wikipedia",
+        "https://scholar.google.com/scholar?q=%22Salle+Ibn+Yassine%22",
+        "https://www.jstor.org/action/doBasicSearch?Query=%22Salle+Ibn+Yassine%22&acc=on&wc=on"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Question_book-new.svg",
+        "Flag_of_Morocco.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Question book-new.svg",
+          "fileName": "Question book-new.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 39,
+          "originalWidth": 512,
+          "originalHeight": 399,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Flag of Morocco.svg",
+          "fileName": "Flag of Morocco.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Morocco.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/40px-Flag_of_Morocco.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Morocco.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Morocco.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/60px-Flag_of_Morocco.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Flag of Morocco",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Africa"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 35,
+          "rowText": "Salle Ibn Yassine\n5,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Salle_Ibn_Yassine\" title=\"Salle Ibn Yassine\">Salle Ibn Yassine</a>\n</td>\n<td>\n</td>\n<td align=\"right\">5,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 27,
+              "cell": {
+                "text": "Morocco\n(list)",
+                "lines": [
+                  "Morocco",
+                  "(list)"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Morocco",
+                    "title": "Morocco",
+                    "wikiTitle": "Morocco",
+                    "href": "https://en.wikipedia.org/wiki/Morocco",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "list",
+                    "title": "List of indoor arenas in Morocco",
+                    "wikiTitle": "List of indoor arenas in Morocco",
+                    "href": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Morocco",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 34,
+              "cell": {
+                "text": "Rabat",
+                "lines": [
+                  "Rabat"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Rabat",
+                    "title": "Rabat",
+                    "wikiTitle": "Rabat",
+                    "href": "https://en.wikipedia.org/wiki/Rabat",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 35,
+              "cell": {
+                "text": "Salle Ibn Yassine",
+                "lines": [
+                  "Salle Ibn Yassine"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Salle Ibn Yassine",
+                    "title": "Salle Ibn Yassine",
+                    "wikiTitle": "Salle Ibn Yassine",
+                    "href": "https://en.wikipedia.org/wiki/Salle_Ibn_Yassine",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 35,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 35,
+              "cell": {
+                "text": "5,000",
+                "lines": [
+                  "5,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 35,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Salle Ibn Yassine",
+            "lines": [
+              "Salle Ibn Yassine"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Salle Ibn Yassine",
+                "title": "Salle Ibn Yassine",
+                "wikiTitle": "Salle Ibn Yassine",
+                "href": "https://en.wikipedia.org/wiki/Salle_Ibn_Yassine",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Morocco",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Morocco",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": "Morocco",
+          "sectionPath": [
+            "Current"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 3,
+          "rowText": "Rabat\nSalle Ibn Yassine\n5,000",
+          "rowHtml": "<tr>\n<td align=\"center\"><a href=\"https://en.wikipedia.org/wiki/Rabat\" title=\"Rabat\">Rabat</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Salle_Ibn_Yassine\" title=\"Salle Ibn Yassine\">Salle Ibn Yassine</a>\n</td>\n<td align=\"center\">\n</td>\n<td align=\"center\">5,000\n</td>\n<td>\n</td>\n<td><span><a href=\"https://en.wikipedia.org/wiki/File:Salle_Ibn_Yassine_Rabat.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Salle_Ibn_Yassine_Rabat.jpg/250px-Salle_Ibn_Yassine_Rabat.jpg\" width=\"150\" height=\"113\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Salle_Ibn_Yassine_Rabat.jpg/330px-Salle_Ibn_Yassine_Rabat.jpg 2x\" data-file-width=\"1024\" data-file-height=\"768\"></a></span>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "Rabat",
+                "lines": [
+                  "Rabat"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Rabat",
+                    "title": "Rabat",
+                    "wikiTitle": "Rabat",
+                    "href": "https://en.wikipedia.org/wiki/Rabat",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "Salle Ibn Yassine",
+                "lines": [
+                  "Salle Ibn Yassine"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Salle Ibn Yassine",
+                    "title": "Salle Ibn Yassine",
+                    "wikiTitle": "Salle Ibn Yassine",
+                    "href": "https://en.wikipedia.org/wiki/Salle_Ibn_Yassine",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "5,000",
+                "lines": [
+                  "5,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Tenants",
+              "headerKey": "tenants",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 3,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [
+                  {
+                    "text": "",
+                    "title": "File:Salle Ibn Yassine Rabat.jpg",
+                    "wikiTitle": "File:Salle Ibn Yassine Rabat.jpg",
+                    "href": "https://en.wikipedia.org/wiki/File:Salle_Ibn_Yassine_Rabat.jpg",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": "File:Salle Ibn Yassine Rabat.jpg",
+                    "fileName": "Salle Ibn Yassine Rabat.jpg",
+                    "kind": "photo",
+                    "filePageUrl": "https://en.wikipedia.org/wiki/File:Salle_Ibn_Yassine_Rabat.jpg",
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Salle_Ibn_Yassine_Rabat.jpg/250px-Salle_Ibn_Yassine_Rabat.jpg",
+                    "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Salle_Ibn_Yassine_Rabat.jpg",
+                    "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Salle_Ibn_Yassine_Rabat.jpg",
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Salle_Ibn_Yassine_Rabat.jpg/330px-Salle_Ibn_Yassine_Rabat.jpg",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 150,
+                    "height": 113,
+                    "originalWidth": 1024,
+                    "originalHeight": 768,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": "File:Salle Ibn Yassine Rabat.jpg",
+              "fileName": "Salle Ibn Yassine Rabat.jpg",
+              "kind": "photo",
+              "filePageUrl": "https://en.wikipedia.org/wiki/File:Salle_Ibn_Yassine_Rabat.jpg",
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Salle_Ibn_Yassine_Rabat.jpg/250px-Salle_Ibn_Yassine_Rabat.jpg",
+              "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Salle_Ibn_Yassine_Rabat.jpg",
+              "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Salle_Ibn_Yassine_Rabat.jpg",
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Salle_Ibn_Yassine_Rabat.jpg/330px-Salle_Ibn_Yassine_Rabat.jpg",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 150,
+              "height": 113,
+              "originalWidth": 1024,
+              "originalHeight": 768,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Salle Ibn Yassine",
+            "lines": [
+              "Salle Ibn Yassine"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Salle Ibn Yassine",
+                "title": "Salle Ibn Yassine",
+                "wikiTitle": "Salle Ibn Yassine",
+                "href": "https://en.wikipedia.org/wiki/Salle_Ibn_Yassine",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 40,
+          "rowText": "Salle Ibn Yassine\n5,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Salle_Ibn_Yassine\" title=\"Salle Ibn Yassine\">Salle Ibn Yassine</a>\n</td>\n<td align=\"center\">\n</td>\n<td align=\"center\">5,000\n</td>\n<td>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 38,
+              "cell": {
+                "text": "Morocco (List)",
+                "lines": [
+                  "Morocco (List)"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Morocco",
+                    "title": "Morocco",
+                    "wikiTitle": "Morocco",
+                    "href": "https://en.wikipedia.org/wiki/Morocco",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "List",
+                    "title": "List of indoor arenas in Morocco",
+                    "wikiTitle": "List of indoor arenas in Morocco",
+                    "href": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Morocco",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 39,
+              "cell": {
+                "text": "Rabat",
+                "lines": [
+                  "Rabat"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Rabat",
+                    "title": "Rabat",
+                    "wikiTitle": "Rabat",
+                    "href": "https://en.wikipedia.org/wiki/Rabat",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 40,
+              "cell": {
+                "text": "Salle Ibn Yassine",
+                "lines": [
+                  "Salle Ibn Yassine"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Salle Ibn Yassine",
+                    "title": "Salle Ibn Yassine",
+                    "wikiTitle": "Salle Ibn Yassine",
+                    "href": "https://en.wikipedia.org/wiki/Salle_Ibn_Yassine",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 40,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 40,
+              "cell": {
+                "text": "5,000",
+                "lines": [
+                  "5,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 40,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 40,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Salle Ibn Yassine",
+            "lines": [
+              "Salle Ibn Yassine"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Salle Ibn Yassine",
+                "title": "Salle Ibn Yassine",
+                "wikiTitle": "Salle Ibn Yassine",
+                "href": "https://en.wikipedia.org/wiki/Salle_Ibn_Yassine",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T11:41:31.918Z"
+    },
+    {
+      "id": "wikipedia-page-6213363",
+      "pageId": 6213363,
+      "revisionId": null,
+      "title": "Salle Mohammed V",
+      "displayTitle": "Salle Mohammed V",
+      "url": "https://en.wikipedia.org/wiki/Salle_Mohammed_V",
+      "wikidataItem": "Q3469880",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3469880",
+      "aliases": [
+        "Salle Mohammed V"
+      ],
+      "requestedTitles": [
+        "Salle Mohammed V"
+      ],
+      "sourceLinkTexts": [
+        "Salle Mohammed V"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Salle_Mohammed_V"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas in Morocco",
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [
+        "Morocco"
+      ],
+      "coordinates": {
+        "latitude": 33.580715,
+        "longitude": -7.645363,
+        "raw": "33.580715; -7.645363"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Salle Mohammed V",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Salle Omnisports Mohammed V",
+            "lines": [
+              "Salle Omnisports Mohammed V"
+            ],
+            "html": "<td class=\"infobox-data\">Salle Omnisports Mohammed V</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Casablanca, Morocco",
+            "lines": [
+              "Casablanca, Morocco"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Casablanca\" title=\"Casablanca\">Casablanca</a>, <a href=\"https://en.wikipedia.org/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>",
+            "links": [
+              {
+                "text": "Casablanca",
+                "title": "Casablanca",
+                "wikiTitle": "Casablanca",
+                "href": "https://en.wikipedia.org/wiki/Casablanca",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Morocco",
+                "title": "Morocco",
+                "wikiTitle": "Morocco",
+                "href": "https://en.wikipedia.org/wiki/Morocco",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "12,000",
+            "lines": [
+              "12,000"
+            ],
+            "html": "<td class=\"infobox-data\">12,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1981 (1981)",
+            "lines": [
+              "1981 (1981)"
+            ],
+            "html": "<td class=\"infobox-data\">1981<span>&nbsp;(<span class=\"bday dtstart published updated\">1981</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Salle Omnisports Mohammed V",
+              "lines": [
+                "Salle Omnisports Mohammed V"
+              ],
+              "html": "<td class=\"infobox-data\">Salle Omnisports Mohammed V</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Casablanca, Morocco",
+              "lines": [
+                "Casablanca, Morocco"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Casablanca\" title=\"Casablanca\">Casablanca</a>, <a href=\"https://en.wikipedia.org/wiki/Morocco\" title=\"Morocco\">Morocco</a></td>",
+              "links": [
+                {
+                  "text": "Casablanca",
+                  "title": "Casablanca",
+                  "wikiTitle": "Casablanca",
+                  "href": "https://en.wikipedia.org/wiki/Casablanca",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Morocco",
+                  "title": "Morocco",
+                  "wikiTitle": "Morocco",
+                  "href": "https://en.wikipedia.org/wiki/Morocco",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "12,000",
+              "lines": [
+                "12,000"
+              ],
+              "html": "<td class=\"infobox-data\">12,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1981 (1981)",
+              "lines": [
+                "1981 (1981)"
+              ],
+              "html": "<td class=\"infobox-data\">1981<span>&nbsp;(<span class=\"bday dtstart published updated\">1981</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Salle Omnisports Mohammed V"
+          ],
+          "location": [
+            "Casablanca, Morocco"
+          ],
+          "capacity": [
+            "12,000"
+          ],
+          "opened": [
+            "1981 (1981)"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "12,000"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Mohammed V Athletic Complex - Basket.jpg",
+            "fileName": "Mohammed V Athletic Complex - Basket.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Mohammed_V_Athletic_Complex_-_Basket.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mohammed_V_Athletic_Complex_-_Basket.jpg/250px-Mohammed_V_Athletic_Complex_-_Basket.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mohammed_V_Athletic_Complex_-_Basket.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Mohammed_V_Athletic_Complex_-_Basket.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mohammed_V_Athletic_Complex_-_Basket.jpg/500px-Mohammed_V_Athletic_Complex_-_Basket.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 188,
+            "originalWidth": 4032,
+            "originalHeight": 3024,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Salle_Mohammed_V&revid=1329940263&groups=_3ca6344febc14629fd3bffdd673e92eb5e9791f4&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Salle_Mohammed_V&revid=1329940263&groups=_3ca6344febc14629fd3bffdd673e92eb5e9791f4&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Salle Mohammed V"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Salle Mohammed V</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Mohammed_V_Athletic_Complex_-_Basket.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mohammed_V_Athletic_Complex_-_Basket.jpg/250px-Mohammed_V_Athletic_Complex_-_Basket.jpg\" width=\"250\" height=\"188\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mohammed_V_Athletic_Complex_-_Basket.jpg/500px-Mohammed_V_Athletic_Complex_-_Basket.jpg 2x\" data-file-width=\"4032\" data-file-height=\"3024\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_3ca6344febc14629fd3bffdd673e92eb5e9791f4&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Salle_Mohammed_V&amp;revid=1329940263&amp;groups=_3ca6344febc14629fd3bffdd673e92eb5e9791f4&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Salle_Mohammed_V&amp;revid=1329940263&amp;groups=_3ca6344febc14629fd3bffdd673e92eb5e9791f4&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Salle Mohammed V</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Salle Omnisports Mohammed V</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Casablanca\" title=\"Casablanca\">Casablanca</a>, <a href=\"https://en.wikipedia.org/wiki/Morocco\" title=\"Morocco\">Morocco</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">12,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1981<span>&nbsp;(<span class=\"bday dtstart published updated\">1981</span>)</span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Articles_needing_additional_references_from_May_2025",
+        "All_articles_needing_additional_references",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Morocco",
+        "Sports_venues_in_Casablanca",
+        "Badminton_venues",
+        "All_stub_articles",
+        "North_African_sports_venue_stubs",
+        "Moroccan_sport_stubs",
+        "Moroccan_building_and_structure_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://www.moroccoworldnews.com/2024/08/15519/garenas-free-fire-battle-of-morocco-event-a-spark-to-the-countrys-gaming-scene/",
+        "https://geohack.toolforge.org/geohack.php?pagename=Salle_Mohammed_V&params=33.580715_N_7.645363_W_type:landmark",
+        "https://www.google.com/search?as_eq=wikipedia&q=%22Salle+Mohammed+V%22",
+        "https://www.google.com/search?tbm=nws&q=%22Salle+Mohammed+V%22+-wikipedia&tbs=ar:1",
+        "https://www.google.com/search?&q=%22Salle+Mohammed+V%22&tbs=bkt:s&tbm=bks",
+        "https://www.google.com/search?tbs=bks:1&q=%22Salle+Mohammed+V%22+-wikipedia",
+        "https://scholar.google.com/scholar?q=%22Salle+Mohammed+V%22",
+        "https://www.jstor.org/action/doBasicSearch?Query=%22Salle+Mohammed+V%22&acc=on&wc=on"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Question_book-new.svg",
+        "Mohammed_V_Athletic_Complex_-_Basket.jpg",
+        "Flag_of_Morocco.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Question book-new.svg",
+          "fileName": "Question book-new.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 39,
+          "originalWidth": 512,
+          "originalHeight": 399,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Mohammed V Athletic Complex - Basket.jpg",
+          "fileName": "Mohammed V Athletic Complex - Basket.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Mohammed_V_Athletic_Complex_-_Basket.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mohammed_V_Athletic_Complex_-_Basket.jpg/250px-Mohammed_V_Athletic_Complex_-_Basket.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mohammed_V_Athletic_Complex_-_Basket.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Mohammed_V_Athletic_Complex_-_Basket.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mohammed_V_Athletic_Complex_-_Basket.jpg/500px-Mohammed_V_Athletic_Complex_-_Basket.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 4032,
+          "originalHeight": 3024,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Salle_Mohammed_V&revid=1329940263&groups=_3ca6344febc14629fd3bffdd673e92eb5e9791f4&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Salle_Mohammed_V&revid=1329940263&groups=_3ca6344febc14629fd3bffdd673e92eb5e9791f4&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Salle Mohammed V"
+        },
+        {
+          "fileTitle": "File:Flag of Morocco.svg",
+          "fileName": "Flag of Morocco.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Morocco.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/40px-Flag_of_Morocco.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Morocco.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Morocco.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/60px-Flag_of_Morocco.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Flag of Morocco",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Africa"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 28,
+          "rowText": "Casablanca\nSalle Mohammed V\n12,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Casablanca\" title=\"Casablanca\">Casablanca</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Salle_Mohammed_V\" title=\"Salle Mohammed V\">Salle Mohammed V</a>\n</td>\n<td>\n</td>\n<td align=\"right\">12,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 27,
+              "cell": {
+                "text": "Morocco\n(list)",
+                "lines": [
+                  "Morocco",
+                  "(list)"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Morocco",
+                    "title": "Morocco",
+                    "wikiTitle": "Morocco",
+                    "href": "https://en.wikipedia.org/wiki/Morocco",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "list",
+                    "title": "List of indoor arenas in Morocco",
+                    "wikiTitle": "List of indoor arenas in Morocco",
+                    "href": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Morocco",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "Casablanca",
+                "lines": [
+                  "Casablanca"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Casablanca",
+                    "title": "Casablanca",
+                    "wikiTitle": "Casablanca",
+                    "href": "https://en.wikipedia.org/wiki/Casablanca",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "Salle Mohammed V",
+                "lines": [
+                  "Salle Mohammed V"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Salle Mohammed V",
+                    "title": "Salle Mohammed V",
+                    "wikiTitle": "Salle Mohammed V",
+                    "href": "https://en.wikipedia.org/wiki/Salle_Mohammed_V",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "12,000",
+                "lines": [
+                  "12,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 28,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Salle Mohammed V",
+            "lines": [
+              "Salle Mohammed V"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Salle Mohammed V",
+                "title": "Salle Mohammed V",
+                "wikiTitle": "Salle Mohammed V",
+                "href": "https://en.wikipedia.org/wiki/Salle_Mohammed_V",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Morocco",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Morocco",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": "Morocco",
+          "sectionPath": [
+            "Current"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 1,
+          "rowText": "Casablanca\nSalle Mohammed V\n12,000\nRaja (basketball), Wydad (basketball)",
+          "rowHtml": "<tr>\n<td align=\"center\"><a href=\"https://en.wikipedia.org/wiki/Casablanca\" title=\"Casablanca\">Casablanca</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Salle_Mohammed_V\" title=\"Salle Mohammed V\">Salle Mohammed V</a>\n</td>\n<td align=\"center\">\n</td>\n<td align=\"center\">12,000\n</td>\n<td>Raja (basketball), Wydad (basketball)\n</td>\n<td><span><a href=\"https://en.wikipedia.org/wiki/File:Mohammed_V_Athletic_Complex_-_Basket.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mohammed_V_Athletic_Complex_-_Basket.jpg/250px-Mohammed_V_Athletic_Complex_-_Basket.jpg\" width=\"150\" height=\"113\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mohammed_V_Athletic_Complex_-_Basket.jpg/330px-Mohammed_V_Athletic_Complex_-_Basket.jpg 2x\" data-file-width=\"4032\" data-file-height=\"3024\"></a></span>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "Casablanca",
+                "lines": [
+                  "Casablanca"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Casablanca",
+                    "title": "Casablanca",
+                    "wikiTitle": "Casablanca",
+                    "href": "https://en.wikipedia.org/wiki/Casablanca",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "Salle Mohammed V",
+                "lines": [
+                  "Salle Mohammed V"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Salle Mohammed V",
+                    "title": "Salle Mohammed V",
+                    "wikiTitle": "Salle Mohammed V",
+                    "href": "https://en.wikipedia.org/wiki/Salle_Mohammed_V",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "12,000",
+                "lines": [
+                  "12,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Tenants",
+              "headerKey": "tenants",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "Raja (basketball), Wydad (basketball)",
+                "lines": [
+                  "Raja (basketball), Wydad (basketball)"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 1,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [
+                  {
+                    "text": "",
+                    "title": "File:Mohammed V Athletic Complex - Basket.jpg",
+                    "wikiTitle": "File:Mohammed V Athletic Complex - Basket.jpg",
+                    "href": "https://en.wikipedia.org/wiki/File:Mohammed_V_Athletic_Complex_-_Basket.jpg",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": "File:Mohammed V Athletic Complex - Basket.jpg",
+                    "fileName": "Mohammed V Athletic Complex - Basket.jpg",
+                    "kind": "photo",
+                    "filePageUrl": "https://en.wikipedia.org/wiki/File:Mohammed_V_Athletic_Complex_-_Basket.jpg",
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mohammed_V_Athletic_Complex_-_Basket.jpg/250px-Mohammed_V_Athletic_Complex_-_Basket.jpg",
+                    "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mohammed_V_Athletic_Complex_-_Basket.jpg",
+                    "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Mohammed_V_Athletic_Complex_-_Basket.jpg",
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mohammed_V_Athletic_Complex_-_Basket.jpg/330px-Mohammed_V_Athletic_Complex_-_Basket.jpg",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 150,
+                    "height": 113,
+                    "originalWidth": 4032,
+                    "originalHeight": 3024,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": "File:Mohammed V Athletic Complex - Basket.jpg",
+              "fileName": "Mohammed V Athletic Complex - Basket.jpg",
+              "kind": "photo",
+              "filePageUrl": "https://en.wikipedia.org/wiki/File:Mohammed_V_Athletic_Complex_-_Basket.jpg",
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mohammed_V_Athletic_Complex_-_Basket.jpg/250px-Mohammed_V_Athletic_Complex_-_Basket.jpg",
+              "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mohammed_V_Athletic_Complex_-_Basket.jpg",
+              "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Mohammed_V_Athletic_Complex_-_Basket.jpg",
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mohammed_V_Athletic_Complex_-_Basket.jpg/330px-Mohammed_V_Athletic_Complex_-_Basket.jpg",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 150,
+              "height": 113,
+              "originalWidth": 4032,
+              "originalHeight": 3024,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Salle Mohammed V",
+            "lines": [
+              "Salle Mohammed V"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Salle Mohammed V",
+                "title": "Salle Mohammed V",
+                "wikiTitle": "Salle Mohammed V",
+                "href": "https://en.wikipedia.org/wiki/Salle_Mohammed_V",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 38,
+          "rowText": "Morocco (List)\nCasablanca\nSalle Mohammed V\n1981\n12,000",
+          "rowHtml": "<tr>\n<td rowspan=\"5\"><a href=\"https://en.wikipedia.org/wiki/Morocco\" title=\"Morocco\">Morocco</a> <i>(<a href=\"https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Morocco\" title=\"List of indoor arenas in Morocco\">List</a>)</i>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Casablanca\" title=\"Casablanca\">Casablanca</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Salle_Mohammed_V\" title=\"Salle Mohammed V\">Salle Mohammed V</a>\n</td>\n<td align=\"center\">1981\n</td>\n<td align=\"center\">12,000\n</td>\n<td>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 38,
+              "cell": {
+                "text": "Morocco (List)",
+                "lines": [
+                  "Morocco (List)"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Morocco",
+                    "title": "Morocco",
+                    "wikiTitle": "Morocco",
+                    "href": "https://en.wikipedia.org/wiki/Morocco",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "List",
+                    "title": "List of indoor arenas in Morocco",
+                    "wikiTitle": "List of indoor arenas in Morocco",
+                    "href": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Morocco",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 38,
+              "cell": {
+                "text": "Casablanca",
+                "lines": [
+                  "Casablanca"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Casablanca",
+                    "title": "Casablanca",
+                    "wikiTitle": "Casablanca",
+                    "href": "https://en.wikipedia.org/wiki/Casablanca",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 38,
+              "cell": {
+                "text": "Salle Mohammed V",
+                "lines": [
+                  "Salle Mohammed V"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Salle Mohammed V",
+                    "title": "Salle Mohammed V",
+                    "wikiTitle": "Salle Mohammed V",
+                    "href": "https://en.wikipedia.org/wiki/Salle_Mohammed_V",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 38,
+              "cell": {
+                "text": "1981",
+                "lines": [
+                  "1981"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 38,
+              "cell": {
+                "text": "12,000",
+                "lines": [
+                  "12,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 38,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 38,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Salle Mohammed V",
+            "lines": [
+              "Salle Mohammed V"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Salle Mohammed V",
+                "title": "Salle Mohammed V",
+                "wikiTitle": "Salle Mohammed V",
+                "href": "https://en.wikipedia.org/wiki/Salle_Mohammed_V",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T11:41:31.509Z"
+    },
+    {
+      "id": "wikipedia-page-6213399",
+      "pageId": 6213399,
+      "revisionId": null,
+      "title": "Salle Moulay Abdellah",
+      "displayTitle": "Salle Moulay Abdellah",
+      "url": "https://en.wikipedia.org/wiki/Salle_Moulay_Abdellah",
+      "wikidataItem": "Q3469882",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3469882",
+      "aliases": [
+        "Salle Moulay Abdellah"
+      ],
+      "requestedTitles": [
+        "Salle Moulay Abdellah"
+      ],
+      "sourceLinkTexts": [
+        "Salle Moulay Abdellah"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Salle_Moulay_Abdellah"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas in Morocco",
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [
+        "Morocco"
+      ],
+      "coordinates": {
+        "latitude": 33.96222,
+        "longitude": -6.88694,
+        "raw": "33.96222; -6.88694"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Salle Moulay Abdellah",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "Rabat\nMorocco",
+            "lines": [
+              "Rabat",
+              "Morocco"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Rabat\" title=\"Rabat\">Rabat</a><br>Morocco<span data-plural=\"1\"></span></td>",
+            "links": [
+              {
+                "text": "Rabat",
+                "title": "Rabat",
+                "wikiTitle": "Rabat",
+                "href": "https://en.wikipedia.org/wiki/Rabat",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "33°57′44″N 6°53′13″W﻿ / ﻿33.96222°N 6.88694°W﻿ / 33.96222; -6.88694",
+            "lines": [
+              "33°57′44″N 6°53′13″W﻿ / ﻿33.96222°N 6.88694°W﻿ / 33.96222; -6.88694"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Salle_Moulay_Abdellah&amp;params=33_57_44_N_6_53_13_W_type:landmark_region:MA\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">33°57′44″N</span> <span class=\"longitude\">6°53′13″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">33.96222°N 6.88694°W</span><span>﻿ / <span class=\"geo\">33.96222; -6.88694</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "33°57′44″N 6°53′13″W﻿ / ﻿33.96222°N 6.88694°W﻿ / 33.96222; -6.88694",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Salle_Moulay_Abdellah&params=33_57_44_N_6_53_13_W_type:landmark_region:MA",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "10,000",
+            "lines": [
+              "10,000"
+            ],
+            "html": "<td class=\"infobox-data\">10,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "2000",
+            "lines": [
+              "2000"
+            ],
+            "html": "<td class=\"infobox-data\">2000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2024",
+            "lines": [
+              "2024"
+            ],
+            "html": "<td class=\"infobox-data\">2024</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "Rabat\nMorocco",
+              "lines": [
+                "Rabat",
+                "Morocco"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Rabat\" title=\"Rabat\">Rabat</a><br>Morocco<span data-plural=\"1\"></span></td>",
+              "links": [
+                {
+                  "text": "Rabat",
+                  "title": "Rabat",
+                  "wikiTitle": "Rabat",
+                  "href": "https://en.wikipedia.org/wiki/Rabat",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "33°57′44″N 6°53′13″W﻿ / ﻿33.96222°N 6.88694°W﻿ / 33.96222; -6.88694",
+              "lines": [
+                "33°57′44″N 6°53′13″W﻿ / ﻿33.96222°N 6.88694°W﻿ / 33.96222; -6.88694"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Salle_Moulay_Abdellah&amp;params=33_57_44_N_6_53_13_W_type:landmark_region:MA\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">33°57′44″N</span> <span class=\"longitude\">6°53′13″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">33.96222°N 6.88694°W</span><span>﻿ / <span class=\"geo\">33.96222; -6.88694</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "33°57′44″N 6°53′13″W﻿ / ﻿33.96222°N 6.88694°W﻿ / 33.96222; -6.88694",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Salle_Moulay_Abdellah&params=33_57_44_N_6_53_13_W_type:landmark_region:MA",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "10,000",
+              "lines": [
+                "10,000"
+              ],
+              "html": "<td class=\"infobox-data\">10,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "2000",
+              "lines": [
+                "2000"
+              ],
+              "html": "<td class=\"infobox-data\">2000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2024",
+              "lines": [
+                "2024"
+              ],
+              "html": "<td class=\"infobox-data\">2024</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "address": [
+            "Rabat\nMorocco"
+          ],
+          "coordinates": [
+            "33°57′44″N 6°53′13″W﻿ / ﻿33.96222°N 6.88694°W﻿ / 33.96222; -6.88694"
+          ],
+          "capacity": [
+            "10,000"
+          ],
+          "opened": [
+            "2000"
+          ],
+          "renovated": [
+            "2024"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "10,000"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Salle Moulay Abdellah, Rabat.jpg",
+            "fileName": "Salle Moulay Abdellah, Rabat.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Salle_Moulay_Abdellah,_Rabat.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Salle_Moulay_Abdellah%2C_Rabat.jpg/250px-Salle_Moulay_Abdellah%2C_Rabat.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Salle_Moulay_Abdellah%2C_Rabat.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Salle_Moulay_Abdellah%2C_Rabat.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Salle_Moulay_Abdellah%2C_Rabat.jpg/500px-Salle_Moulay_Abdellah%2C_Rabat.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 167,
+            "originalWidth": 1024,
+            "originalHeight": 683,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Salle_Moulay_Abdellah&revid=1334962016&groups=_d7c94e4077cae586f17224b2315e77161d2a00b0&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Salle_Moulay_Abdellah&revid=1334962016&groups=_d7c94e4077cae586f17224b2315e77161d2a00b0&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Salle Moulay Abdellah"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Salle Moulay Abdellah</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Salle_Moulay_Abdellah,_Rabat.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Salle_Moulay_Abdellah%2C_Rabat.jpg/250px-Salle_Moulay_Abdellah%2C_Rabat.jpg\" width=\"250\" height=\"167\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Salle_Moulay_Abdellah%2C_Rabat.jpg/500px-Salle_Moulay_Abdellah%2C_Rabat.jpg 2x\" data-file-width=\"1024\" data-file-height=\"683\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_d7c94e4077cae586f17224b2315e77161d2a00b0&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Salle_Moulay_Abdellah&amp;revid=1334962016&amp;groups=_d7c94e4077cae586f17224b2315e77161d2a00b0&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Salle_Moulay_Abdellah&amp;revid=1334962016&amp;groups=_d7c94e4077cae586f17224b2315e77161d2a00b0&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Salle Moulay Abdellah</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Rabat\" title=\"Rabat\">Rabat</a><br>Morocco<span data-plural=\"1\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Salle_Moulay_Abdellah&amp;params=33_57_44_N_6_53_13_W_type:landmark_region:MA\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">33°57′44″N</span> <span class=\"longitude\">6°53′13″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">33.96222°N 6.88694°W</span><span>﻿ / <span class=\"geo\">33.96222; -6.88694</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">10,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">2000</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2024</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_French-language_sources_(fr)",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Use_dmy_dates_from_September_2025",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_September_2025",
+        "Indoor_arenas_in_Morocco",
+        "Sports_venues_in_Rabat",
+        "Basketball_venues_in_Morocco",
+        "Volleyball_venues_in_Morocco",
+        "Handball_venues_in_Morocco",
+        "2000_establishments_in_Morocco",
+        "Sports_venues_completed_in_2000",
+        "All_stub_articles",
+        "North_African_sports_venue_stubs",
+        "Moroccan_sport_stubs",
+        "Moroccan_building_and_structure_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Salle_Moulay_Abdellah&params=33_57_44_N_6_53_13_W_type:landmark_region:MA",
+        "https://sport.le360.ma/football/images-exclusives-immersion-dans-la-salle-omnisports-moulay-abdellah-entierement-renovee-pour-la-110973/",
+        "https://web.archive.org/web/20160303170830/http://www.telquel-online.com/183/culture_183.shtml"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "International events",
+          "anchor": "International_events"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Salle_Moulay_Abdellah,_Rabat.jpg",
+        "Flag_of_Morocco.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Salle Moulay Abdellah, Rabat.jpg",
+          "fileName": "Salle Moulay Abdellah, Rabat.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Salle_Moulay_Abdellah,_Rabat.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Salle_Moulay_Abdellah%2C_Rabat.jpg/250px-Salle_Moulay_Abdellah%2C_Rabat.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Salle_Moulay_Abdellah%2C_Rabat.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Salle_Moulay_Abdellah%2C_Rabat.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Salle_Moulay_Abdellah%2C_Rabat.jpg/500px-Salle_Moulay_Abdellah%2C_Rabat.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 1024,
+          "originalHeight": 683,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Salle_Moulay_Abdellah&revid=1334962016&groups=_d7c94e4077cae586f17224b2315e77161d2a00b0&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Salle_Moulay_Abdellah&revid=1334962016&groups=_d7c94e4077cae586f17224b2315e77161d2a00b0&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Salle Moulay Abdellah"
+        },
+        {
+          "fileTitle": "File:Flag of Morocco.svg",
+          "fileName": "Flag of Morocco.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Morocco.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/40px-Flag_of_Morocco.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Morocco.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Morocco.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/60px-Flag_of_Morocco.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Flag of Morocco",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Africa"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 34,
+          "rowText": "Rabat\nSalle Moulay Abdellah\n10,000",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Rabat\" title=\"Rabat\">Rabat</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Salle_Moulay_Abdellah\" title=\"Salle Moulay Abdellah\">Salle Moulay Abdellah</a>\n</td>\n<td>\n</td>\n<td align=\"right\">10,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 27,
+              "cell": {
+                "text": "Morocco\n(list)",
+                "lines": [
+                  "Morocco",
+                  "(list)"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Morocco",
+                    "title": "Morocco",
+                    "wikiTitle": "Morocco",
+                    "href": "https://en.wikipedia.org/wiki/Morocco",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "list",
+                    "title": "List of indoor arenas in Morocco",
+                    "wikiTitle": "List of indoor arenas in Morocco",
+                    "href": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Morocco",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 34,
+              "cell": {
+                "text": "Rabat",
+                "lines": [
+                  "Rabat"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Rabat",
+                    "title": "Rabat",
+                    "wikiTitle": "Rabat",
+                    "href": "https://en.wikipedia.org/wiki/Rabat",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 34,
+              "cell": {
+                "text": "Salle Moulay Abdellah",
+                "lines": [
+                  "Salle Moulay Abdellah"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Salle Moulay Abdellah",
+                    "title": "Salle Moulay Abdellah",
+                    "wikiTitle": "Salle Moulay Abdellah",
+                    "href": "https://en.wikipedia.org/wiki/Salle_Moulay_Abdellah",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 34,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 34,
+              "cell": {
+                "text": "10,000",
+                "lines": [
+                  "10,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 34,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Salle Moulay Abdellah",
+            "lines": [
+              "Salle Moulay Abdellah"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Salle Moulay Abdellah",
+                "title": "Salle Moulay Abdellah",
+                "wikiTitle": "Salle Moulay Abdellah",
+                "href": "https://en.wikipedia.org/wiki/Salle_Moulay_Abdellah",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Morocco",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Morocco",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": "Morocco",
+          "sectionPath": [
+            "Current"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 2,
+          "rowText": "Rabat\nSalle Moulay Abdellah\n10,000",
+          "rowHtml": "<tr>\n<td align=\"center\"><a href=\"https://en.wikipedia.org/wiki/Rabat\" title=\"Rabat\">Rabat</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Salle_Moulay_Abdellah\" title=\"Salle Moulay Abdellah\">Salle Moulay Abdellah</a>\n</td>\n<td align=\"center\">\n</td>\n<td align=\"center\">10,000\n</td>\n<td>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "Rabat",
+                "lines": [
+                  "Rabat"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Rabat",
+                    "title": "Rabat",
+                    "wikiTitle": "Rabat",
+                    "href": "https://en.wikipedia.org/wiki/Rabat",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "Salle Moulay Abdellah",
+                "lines": [
+                  "Salle Moulay Abdellah"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Salle Moulay Abdellah",
+                    "title": "Salle Moulay Abdellah",
+                    "wikiTitle": "Salle Moulay Abdellah",
+                    "href": "https://en.wikipedia.org/wiki/Salle_Moulay_Abdellah",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "10,000",
+                "lines": [
+                  "10,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Tenants",
+              "headerKey": "tenants",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 2,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Salle Moulay Abdellah",
+            "lines": [
+              "Salle Moulay Abdellah"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Salle Moulay Abdellah",
+                "title": "Salle Moulay Abdellah",
+                "wikiTitle": "Salle Moulay Abdellah",
+                "href": "https://en.wikipedia.org/wiki/Salle_Moulay_Abdellah",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 39,
+          "rowText": "Rabat\nSalle Moulay Abdellah\n1983\n10,000",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Rabat\" title=\"Rabat\">Rabat</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Salle_Moulay_Abdellah\" title=\"Salle Moulay Abdellah\">Salle Moulay Abdellah</a>\n</td>\n<td align=\"center\">1983\n</td>\n<td align=\"center\">10,000\n</td>\n<td>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 38,
+              "cell": {
+                "text": "Morocco (List)",
+                "lines": [
+                  "Morocco (List)"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Morocco",
+                    "title": "Morocco",
+                    "wikiTitle": "Morocco",
+                    "href": "https://en.wikipedia.org/wiki/Morocco",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "List",
+                    "title": "List of indoor arenas in Morocco",
+                    "wikiTitle": "List of indoor arenas in Morocco",
+                    "href": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Morocco",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 39,
+              "cell": {
+                "text": "Rabat",
+                "lines": [
+                  "Rabat"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Rabat",
+                    "title": "Rabat",
+                    "wikiTitle": "Rabat",
+                    "href": "https://en.wikipedia.org/wiki/Rabat",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 39,
+              "cell": {
+                "text": "Salle Moulay Abdellah",
+                "lines": [
+                  "Salle Moulay Abdellah"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Salle Moulay Abdellah",
+                    "title": "Salle Moulay Abdellah",
+                    "wikiTitle": "Salle Moulay Abdellah",
+                    "href": "https://en.wikipedia.org/wiki/Salle_Moulay_Abdellah",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 39,
+              "cell": {
+                "text": "1983",
+                "lines": [
+                  "1983"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 39,
+              "cell": {
+                "text": "10,000",
+                "lines": [
+                  "10,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 39,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 39,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Salle Moulay Abdellah",
+            "lines": [
+              "Salle Moulay Abdellah"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Salle Moulay Abdellah",
+                "title": "Salle Moulay Abdellah",
+                "wikiTitle": "Salle Moulay Abdellah",
+                "href": "https://en.wikipedia.org/wiki/Salle_Moulay_Abdellah",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T11:41:32.263Z"
+    }
+  ]
+}
