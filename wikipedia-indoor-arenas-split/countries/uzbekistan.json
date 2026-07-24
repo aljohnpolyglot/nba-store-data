@@ -1,0 +1,1470 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Uzbekistan",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 14,
+    "sourceTypeCounts": {
+      "world_master_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-53141265",
+      "pageId": 53141265,
+      "revisionId": null,
+      "title": "Humo Arena",
+      "displayTitle": "Humo Arena",
+      "url": "https://en.wikipedia.org/wiki/Humo_Arena",
+      "wikidataItem": "Q28736912",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q28736912",
+      "aliases": [
+        "Humo Ice Dome",
+        "Humo Arena"
+      ],
+      "requestedTitles": [
+        "Humo Ice Dome"
+      ],
+      "sourceLinkTexts": [
+        "Humo Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Humo_Ice_Dome"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 41.30778,
+        "longitude": 69.25167,
+        "raw": "41.30778; 69.25167"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Humo Arena",
+        "groups": [
+          "Construction",
+          "Tenants",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "Afrosiab st, Chilanzar, Tashkent",
+            "lines": [
+              "Afrosiab st, Chilanzar, Tashkent"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/w/index.php?title=Afrosiab_st&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Afrosiab st (page does not exist)\">Afrosiab st</a>, <a href=\"https://en.wikipedia.org/wiki/Chilanzar\" title=\"Chilanzar\">Chilanzar</a>, <a href=\"https://en.wikipedia.org/wiki/Tashkent\" title=\"Tashkent\">Tashkent</a><span data-plural=\"0\"></span></td>",
+            "links": [
+              {
+                "text": "Afrosiab st",
+                "title": "Afrosiab st (page does not exist)",
+                "wikiTitle": "Afrosiab st",
+                "href": "https://en.wikipedia.org/w/index.php?title=Afrosiab_st&action=edit&redlink=1",
+                "blueArticle": false,
+                "redLink": true,
+                "external": false
+              },
+              {
+                "text": "Chilanzar",
+                "title": "Chilanzar",
+                "wikiTitle": "Chilanzar",
+                "href": "https://en.wikipedia.org/wiki/Chilanzar",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Tashkent",
+                "title": "Tashkent",
+                "wikiTitle": "Tashkent",
+                "href": "https://en.wikipedia.org/wiki/Tashkent",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Tashkent, Uzbekistan",
+            "lines": [
+              "Tashkent, Uzbekistan"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Tashkent\" title=\"Tashkent\">Tashkent</a>, <a href=\"https://en.wikipedia.org/wiki/Uzbekistan\" title=\"Uzbekistan\">Uzbekistan</a></td>",
+            "links": [
+              {
+                "text": "Tashkent",
+                "title": "Tashkent",
+                "wikiTitle": "Tashkent",
+                "href": "https://en.wikipedia.org/wiki/Tashkent",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Uzbekistan",
+                "title": "Uzbekistan",
+                "wikiTitle": "Uzbekistan",
+                "href": "https://en.wikipedia.org/wiki/Uzbekistan",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "41°18′28″N 69°15′06″E﻿ / ﻿41.30778°N 69.25167°E﻿ / 41.30778; 69.25167",
+            "lines": [
+              "41°18′28″N 69°15′06″E﻿ / ﻿41.30778°N 69.25167°E﻿ / 41.30778; 69.25167"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Humo_Arena&amp;params=41_18_28_N_69_15_06_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">41°18′28″N</span> <span class=\"longitude\">69°15′06″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">41.30778°N 69.25167°E</span><span>﻿ / <span class=\"geo\">41.30778; 69.25167</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "41°18′28″N 69°15′06″E﻿ / ﻿41.30778°N 69.25167°E﻿ / 41.30778; 69.25167",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Humo_Arena&params=41_18_28_N_69_15_06_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Wind Rose",
+            "lines": [
+              "Wind Rose"
+            ],
+            "html": "<td class=\"infobox-data agent\">Wind Rose</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "12,500",
+            "lines": [
+              "12,500"
+            ],
+            "html": "<td class=\"infobox-data\">12,500</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Public transit",
+            "key": "public_transit",
+            "group": null,
+            "text": "O'zbekiston metro station (O'zbekiston Line)\nNumber 13 (NBU bus stop)",
+            "lines": [
+              "O'zbekiston metro station (O'zbekiston Line)",
+              "Number 13 (NBU bus stop)"
+            ],
+            "html": "<td class=\"infobox-data\"><span><a href=\"https://en.wikipedia.org/wiki/File:Paris_metro_line_2_symbol.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Paris_metro_line_2_symbol.svg/20px-Paris_metro_line_2_symbol.svg.png\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Paris_metro_line_2_symbol.svg/40px-Paris_metro_line_2_symbol.svg.png 2x\" data-file-width=\"200\" data-file-height=\"200\"></a></span> <a href=\"https://en.wikipedia.org/wiki/Ozbekiston_(Tashkent_Metro)\" title=\"Ozbekiston (Tashkent Metro)\">O'zbekiston metro station</a> (<a href=\"https://en.wikipedia.org/wiki/O%27zbekiston_Line\" class=\"mw-redirect\" title=\"O'zbekiston Line\">O'zbekiston Line</a>)\n<span><a href=\"https://en.wikipedia.org/wiki/File:BUS-Logo-blau.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BUS-Logo-blau.svg/20px-BUS-Logo-blau.svg.png\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BUS-Logo-blau.svg/40px-BUS-Logo-blau.svg.png 2x\" data-file-width=\"800\" data-file-height=\"800\"></a></span> Number 13 (NBU bus stop)</td>",
+            "links": [
+              {
+                "text": "",
+                "title": "File:Paris metro line 2 symbol.svg",
+                "wikiTitle": "File:Paris metro line 2 symbol.svg",
+                "href": "https://en.wikipedia.org/wiki/File:Paris_metro_line_2_symbol.svg",
+                "blueArticle": false,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "O'zbekiston metro station",
+                "title": "Ozbekiston (Tashkent Metro)",
+                "wikiTitle": "Ozbekiston (Tashkent Metro)",
+                "href": "https://en.wikipedia.org/wiki/Ozbekiston_(Tashkent_Metro)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "O'zbekiston Line",
+                "title": "O'zbekiston Line",
+                "wikiTitle": "O'zbekiston Line",
+                "href": "https://en.wikipedia.org/wiki/O%27zbekiston_Line",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "",
+                "title": "File:BUS-Logo-blau.svg",
+                "wikiTitle": "File:BUS-Logo-blau.svg",
+                "href": "https://en.wikipedia.org/wiki/File:BUS-Logo-blau.svg",
+                "blueArticle": false,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [
+              {
+                "fileTitle": "File:Paris metro line 2 symbol.svg",
+                "fileName": "Paris metro line 2 symbol.svg",
+                "kind": "icon",
+                "filePageUrl": "https://en.wikipedia.org/wiki/File:Paris_metro_line_2_symbol.svg",
+                "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Paris_metro_line_2_symbol.svg/20px-Paris_metro_line_2_symbol.svg.png",
+                "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Paris_metro_line_2_symbol.svg",
+                "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Paris_metro_line_2_symbol.svg",
+                "srcset": [
+                  {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Paris_metro_line_2_symbol.svg/40px-Paris_metro_line_2_symbol.svg.png",
+                    "descriptor": "2x"
+                  }
+                ],
+                "width": 15,
+                "height": 15,
+                "originalWidth": 200,
+                "originalHeight": 200,
+                "fileType": null,
+                "alt": null,
+                "title": null,
+                "caption": null
+              },
+              {
+                "fileTitle": "File:BUS-Logo-blau.svg",
+                "fileName": "BUS-Logo-blau.svg",
+                "kind": "logo",
+                "filePageUrl": "https://en.wikipedia.org/wiki/File:BUS-Logo-blau.svg",
+                "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BUS-Logo-blau.svg/20px-BUS-Logo-blau.svg.png",
+                "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/BUS-Logo-blau.svg",
+                "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/BUS-Logo-blau.svg",
+                "srcset": [
+                  {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BUS-Logo-blau.svg/40px-BUS-Logo-blau.svg.png",
+                    "descriptor": "2x"
+                  }
+                ],
+                "width": 15,
+                "height": 15,
+                "originalWidth": 800,
+                "originalHeight": 800,
+                "fileType": null,
+                "alt": null,
+                "title": null,
+                "caption": null
+              }
+            ],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "15 March 2019",
+            "lines": [
+              "15 March 2019"
+            ],
+            "html": "<td class=\"infobox-data\">15 March 2019</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "€175 mln",
+            "lines": [
+              "€175 mln"
+            ],
+            "html": "<td class=\"infobox-data\">€175 mln</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "HC Binokor\nHumo Tashkent",
+            "lines": [
+              "HC Binokor",
+              "Humo Tashkent"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Binokor_Tashkent\" title=\"Binokor Tashkent\">HC Binokor</a><br><a href=\"https://en.wikipedia.org/wiki/Humo_Tashkent\" title=\"Humo Tashkent\">Humo Tashkent</a></td>",
+            "links": [
+              {
+                "text": "HC Binokor",
+                "title": "Binokor Tashkent",
+                "wikiTitle": "Binokor Tashkent",
+                "href": "https://en.wikipedia.org/wiki/Binokor_Tashkent",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Humo Tashkent",
+                "title": "Humo Tashkent",
+                "wikiTitle": "Humo Tashkent",
+                "href": "https://en.wikipedia.org/wiki/Humo_Tashkent",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "www.humoarena.com",
+            "lines": [
+              "www.humoarena.com"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.humoarena.com/\">www<wbr>.humoarena<wbr>.com</a></span></td>",
+            "links": [
+              {
+                "text": "www.humoarena.com",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://www.humoarena.com/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "Afrosiab st, Chilanzar, Tashkent",
+              "lines": [
+                "Afrosiab st, Chilanzar, Tashkent"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/w/index.php?title=Afrosiab_st&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Afrosiab st (page does not exist)\">Afrosiab st</a>, <a href=\"https://en.wikipedia.org/wiki/Chilanzar\" title=\"Chilanzar\">Chilanzar</a>, <a href=\"https://en.wikipedia.org/wiki/Tashkent\" title=\"Tashkent\">Tashkent</a><span data-plural=\"0\"></span></td>",
+              "links": [
+                {
+                  "text": "Afrosiab st",
+                  "title": "Afrosiab st (page does not exist)",
+                  "wikiTitle": "Afrosiab st",
+                  "href": "https://en.wikipedia.org/w/index.php?title=Afrosiab_st&action=edit&redlink=1",
+                  "blueArticle": false,
+                  "redLink": true,
+                  "external": false
+                },
+                {
+                  "text": "Chilanzar",
+                  "title": "Chilanzar",
+                  "wikiTitle": "Chilanzar",
+                  "href": "https://en.wikipedia.org/wiki/Chilanzar",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Tashkent",
+                  "title": "Tashkent",
+                  "wikiTitle": "Tashkent",
+                  "href": "https://en.wikipedia.org/wiki/Tashkent",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Tashkent, Uzbekistan",
+              "lines": [
+                "Tashkent, Uzbekistan"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Tashkent\" title=\"Tashkent\">Tashkent</a>, <a href=\"https://en.wikipedia.org/wiki/Uzbekistan\" title=\"Uzbekistan\">Uzbekistan</a></td>",
+              "links": [
+                {
+                  "text": "Tashkent",
+                  "title": "Tashkent",
+                  "wikiTitle": "Tashkent",
+                  "href": "https://en.wikipedia.org/wiki/Tashkent",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Uzbekistan",
+                  "title": "Uzbekistan",
+                  "wikiTitle": "Uzbekistan",
+                  "href": "https://en.wikipedia.org/wiki/Uzbekistan",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "41°18′28″N 69°15′06″E﻿ / ﻿41.30778°N 69.25167°E﻿ / 41.30778; 69.25167",
+              "lines": [
+                "41°18′28″N 69°15′06″E﻿ / ﻿41.30778°N 69.25167°E﻿ / 41.30778; 69.25167"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Humo_Arena&amp;params=41_18_28_N_69_15_06_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">41°18′28″N</span> <span class=\"longitude\">69°15′06″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">41.30778°N 69.25167°E</span><span>﻿ / <span class=\"geo\">41.30778; 69.25167</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "41°18′28″N 69°15′06″E﻿ / ﻿41.30778°N 69.25167°E﻿ / 41.30778; 69.25167",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Humo_Arena&params=41_18_28_N_69_15_06_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Wind Rose",
+              "lines": [
+                "Wind Rose"
+              ],
+              "html": "<td class=\"infobox-data agent\">Wind Rose</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "12,500",
+              "lines": [
+                "12,500"
+              ],
+              "html": "<td class=\"infobox-data\">12,500</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "public_transit": [
+            {
+              "label": "Public transit",
+              "key": "public_transit",
+              "group": null,
+              "text": "O'zbekiston metro station (O'zbekiston Line)\nNumber 13 (NBU bus stop)",
+              "lines": [
+                "O'zbekiston metro station (O'zbekiston Line)",
+                "Number 13 (NBU bus stop)"
+              ],
+              "html": "<td class=\"infobox-data\"><span><a href=\"https://en.wikipedia.org/wiki/File:Paris_metro_line_2_symbol.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Paris_metro_line_2_symbol.svg/20px-Paris_metro_line_2_symbol.svg.png\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Paris_metro_line_2_symbol.svg/40px-Paris_metro_line_2_symbol.svg.png 2x\" data-file-width=\"200\" data-file-height=\"200\"></a></span> <a href=\"https://en.wikipedia.org/wiki/Ozbekiston_(Tashkent_Metro)\" title=\"Ozbekiston (Tashkent Metro)\">O'zbekiston metro station</a> (<a href=\"https://en.wikipedia.org/wiki/O%27zbekiston_Line\" class=\"mw-redirect\" title=\"O'zbekiston Line\">O'zbekiston Line</a>)\n<span><a href=\"https://en.wikipedia.org/wiki/File:BUS-Logo-blau.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BUS-Logo-blau.svg/20px-BUS-Logo-blau.svg.png\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BUS-Logo-blau.svg/40px-BUS-Logo-blau.svg.png 2x\" data-file-width=\"800\" data-file-height=\"800\"></a></span> Number 13 (NBU bus stop)</td>",
+              "links": [
+                {
+                  "text": "",
+                  "title": "File:Paris metro line 2 symbol.svg",
+                  "wikiTitle": "File:Paris metro line 2 symbol.svg",
+                  "href": "https://en.wikipedia.org/wiki/File:Paris_metro_line_2_symbol.svg",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "O'zbekiston metro station",
+                  "title": "Ozbekiston (Tashkent Metro)",
+                  "wikiTitle": "Ozbekiston (Tashkent Metro)",
+                  "href": "https://en.wikipedia.org/wiki/Ozbekiston_(Tashkent_Metro)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "O'zbekiston Line",
+                  "title": "O'zbekiston Line",
+                  "wikiTitle": "O'zbekiston Line",
+                  "href": "https://en.wikipedia.org/wiki/O%27zbekiston_Line",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "",
+                  "title": "File:BUS-Logo-blau.svg",
+                  "wikiTitle": "File:BUS-Logo-blau.svg",
+                  "href": "https://en.wikipedia.org/wiki/File:BUS-Logo-blau.svg",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [
+                {
+                  "fileTitle": "File:Paris metro line 2 symbol.svg",
+                  "fileName": "Paris metro line 2 symbol.svg",
+                  "kind": "icon",
+                  "filePageUrl": "https://en.wikipedia.org/wiki/File:Paris_metro_line_2_symbol.svg",
+                  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Paris_metro_line_2_symbol.svg/20px-Paris_metro_line_2_symbol.svg.png",
+                  "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Paris_metro_line_2_symbol.svg",
+                  "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Paris_metro_line_2_symbol.svg",
+                  "srcset": [
+                    {
+                      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Paris_metro_line_2_symbol.svg/40px-Paris_metro_line_2_symbol.svg.png",
+                      "descriptor": "2x"
+                    }
+                  ],
+                  "width": 15,
+                  "height": 15,
+                  "originalWidth": 200,
+                  "originalHeight": 200,
+                  "fileType": null,
+                  "alt": null,
+                  "title": null,
+                  "caption": null
+                },
+                {
+                  "fileTitle": "File:BUS-Logo-blau.svg",
+                  "fileName": "BUS-Logo-blau.svg",
+                  "kind": "logo",
+                  "filePageUrl": "https://en.wikipedia.org/wiki/File:BUS-Logo-blau.svg",
+                  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BUS-Logo-blau.svg/20px-BUS-Logo-blau.svg.png",
+                  "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/BUS-Logo-blau.svg",
+                  "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/BUS-Logo-blau.svg",
+                  "srcset": [
+                    {
+                      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BUS-Logo-blau.svg/40px-BUS-Logo-blau.svg.png",
+                      "descriptor": "2x"
+                    }
+                  ],
+                  "width": 15,
+                  "height": 15,
+                  "originalWidth": 800,
+                  "originalHeight": 800,
+                  "fileType": null,
+                  "alt": null,
+                  "title": null,
+                  "caption": null
+                }
+              ],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "15 March 2019",
+              "lines": [
+                "15 March 2019"
+              ],
+              "html": "<td class=\"infobox-data\">15 March 2019</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "€175 mln",
+              "lines": [
+                "€175 mln"
+              ],
+              "html": "<td class=\"infobox-data\">€175 mln</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "HC Binokor\nHumo Tashkent",
+              "lines": [
+                "HC Binokor",
+                "Humo Tashkent"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Binokor_Tashkent\" title=\"Binokor Tashkent\">HC Binokor</a><br><a href=\"https://en.wikipedia.org/wiki/Humo_Tashkent\" title=\"Humo Tashkent\">Humo Tashkent</a></td>",
+              "links": [
+                {
+                  "text": "HC Binokor",
+                  "title": "Binokor Tashkent",
+                  "wikiTitle": "Binokor Tashkent",
+                  "href": "https://en.wikipedia.org/wiki/Binokor_Tashkent",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Humo Tashkent",
+                  "title": "Humo Tashkent",
+                  "wikiTitle": "Humo Tashkent",
+                  "href": "https://en.wikipedia.org/wiki/Humo_Tashkent",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "www.humoarena.com",
+              "lines": [
+                "www.humoarena.com"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.humoarena.com/\">www<wbr>.humoarena<wbr>.com</a></span></td>",
+              "links": [
+                {
+                  "text": "www.humoarena.com",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://www.humoarena.com/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "address": [
+            "Afrosiab st, Chilanzar, Tashkent"
+          ],
+          "location": [
+            "Tashkent, Uzbekistan"
+          ],
+          "coordinates": [
+            "41°18′28″N 69°15′06″E﻿ / ﻿41.30778°N 69.25167°E﻿ / 41.30778; 69.25167"
+          ],
+          "operator": [
+            "Wind Rose"
+          ],
+          "capacity": [
+            "12,500"
+          ],
+          "public_transit": [
+            "O'zbekiston metro station (O'zbekiston Line)\nNumber 13 (NBU bus stop)"
+          ],
+          "opened": [
+            "15 March 2019"
+          ],
+          "cost": [
+            "€175 mln"
+          ],
+          "tenants": [
+            "HC Binokor\nHumo Tashkent"
+          ],
+          "website": [
+            "www.humoarena.com"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "12,500"
+        ],
+        "tenants": [
+          "HC Binokor",
+          "Humo Tashkent"
+        ],
+        "websites": [
+          "http://www.humoarena.com/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:Humo Arena 2019.jpg",
+            "fileName": "Humo Arena 2019.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Humo_Arena_2019.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Humo_Arena_2019.jpg/250px-Humo_Arena_2019.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Humo_Arena_2019.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Humo_Arena_2019.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Humo_Arena_2019.jpg/500px-Humo_Arena_2019.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 115,
+            "originalWidth": 4608,
+            "originalHeight": 2128,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Humo_Arena&revid=1357990828&groups=_b75f148e7034989120531dfdf696bc6538cd7297&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Humo_Arena&revid=1357990828&groups=_b75f148e7034989120531dfdf696bc6538cd7297&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Humo Arena"
+          },
+          {
+            "fileTitle": "File:Paris metro line 2 symbol.svg",
+            "fileName": "Paris metro line 2 symbol.svg",
+            "kind": "icon",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Paris_metro_line_2_symbol.svg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Paris_metro_line_2_symbol.svg/20px-Paris_metro_line_2_symbol.svg.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Paris_metro_line_2_symbol.svg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Paris_metro_line_2_symbol.svg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Paris_metro_line_2_symbol.svg/40px-Paris_metro_line_2_symbol.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 15,
+            "height": 15,
+            "originalWidth": 200,
+            "originalHeight": 200,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": "File:BUS-Logo-blau.svg",
+            "fileName": "BUS-Logo-blau.svg",
+            "kind": "logo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:BUS-Logo-blau.svg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BUS-Logo-blau.svg/20px-BUS-Logo-blau.svg.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/BUS-Logo-blau.svg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/BUS-Logo-blau.svg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BUS-Logo-blau.svg/40px-BUS-Logo-blau.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 15,
+            "height": 15,
+            "originalWidth": 800,
+            "originalHeight": 800,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Humo Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span><a href=\"https://en.wikipedia.org/wiki/File:Humo_Arena_2019.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Humo_Arena_2019.jpg/250px-Humo_Arena_2019.jpg\" width=\"250\" height=\"115\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Humo_Arena_2019.jpg/500px-Humo_Arena_2019.jpg 2x\" data-file-width=\"4608\" data-file-height=\"2128\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_b75f148e7034989120531dfdf696bc6538cd7297&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Humo_Arena&amp;revid=1357990828&amp;groups=_b75f148e7034989120531dfdf696bc6538cd7297&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Humo_Arena&amp;revid=1357990828&amp;groups=_b75f148e7034989120531dfdf696bc6538cd7297&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Humo Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/w/index.php?title=Afrosiab_st&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Afrosiab st (page does not exist)\">Afrosiab st</a>, <a href=\"https://en.wikipedia.org/wiki/Chilanzar\" title=\"Chilanzar\">Chilanzar</a>, <a href=\"https://en.wikipedia.org/wiki/Tashkent\" title=\"Tashkent\">Tashkent</a><span data-plural=\"0\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Tashkent\" title=\"Tashkent\">Tashkent</a>, <a href=\"https://en.wikipedia.org/wiki/Uzbekistan\" title=\"Uzbekistan\">Uzbekistan</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Humo_Arena&amp;params=41_18_28_N_69_15_06_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">41°18′28″N</span> <span class=\"longitude\">69°15′06″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">41.30778°N 69.25167°E</span><span>﻿ / <span class=\"geo\">41.30778; 69.25167</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">Wind Rose</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">12,500</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Public&nbsp;transit</th><td class=\"infobox-data\"><span><a href=\"https://en.wikipedia.org/wiki/File:Paris_metro_line_2_symbol.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Paris_metro_line_2_symbol.svg/20px-Paris_metro_line_2_symbol.svg.png\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Paris_metro_line_2_symbol.svg/40px-Paris_metro_line_2_symbol.svg.png 2x\" data-file-width=\"200\" data-file-height=\"200\"></a></span> <a href=\"https://en.wikipedia.org/wiki/Ozbekiston_(Tashkent_Metro)\" title=\"Ozbekiston (Tashkent Metro)\">O'zbekiston metro station</a> (<a href=\"https://en.wikipedia.org/wiki/O%27zbekiston_Line\" class=\"mw-redirect\" title=\"O'zbekiston Line\">O'zbekiston Line</a>)\n<span><a href=\"https://en.wikipedia.org/wiki/File:BUS-Logo-blau.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BUS-Logo-blau.svg/20px-BUS-Logo-blau.svg.png\" width=\"15\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BUS-Logo-blau.svg/40px-BUS-Logo-blau.svg.png 2x\" data-file-width=\"800\" data-file-height=\"800\"></a></span> Number 13 (NBU bus stop)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">15 March 2019</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">€175 mln</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Binokor_Tashkent\" title=\"Binokor Tashkent\">HC Binokor</a><br><a href=\"https://en.wikipedia.org/wiki/Humo_Tashkent\" title=\"Humo Tashkent\">Humo Tashkent</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.humoarena.com/\">www<wbr>.humoarena<wbr>.com</a></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_uses_Russian-language_script_(ru)",
+        "CS1_Russian-language_sources_(ru)",
+        "Wikipedia_articles_in_need_of_updating_from_December_2025",
+        "All_Wikipedia_articles_in_need_of_updating",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Articles_containing_Uzbek-language_text",
+        "Official_website_different_in_Wikidata_and_Wikipedia",
+        "Articles_with_Russian-language_sources_(ru)",
+        "Commons_category_link_from_Wikidata",
+        "2019_establishments_in_Uzbekistan",
+        "Buildings_and_structures_in_Tashkent",
+        "Ice_hockey_in_Uzbekistan",
+        "Ice_hockey_venues",
+        "Sport_in_Tashkent",
+        "Sports_venues_completed_in_2019",
+        "Sports_venues_in_Uzbekistan",
+        "Tourist_attractions_in_Tashkent",
+        "Indoor_arenas_in_Uzbekistan",
+        "Ice_hockey_venues_in_Uzbekistan",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Humo_Arena&params=41_18_28_N_69_15_06_E_type:landmark",
+        "http://uzdaily.com/articles-id-38328.htm",
+        "https://toldyconstruct.com/stadiums",
+        "http://news.uzreport.uz/news_3_e_147814.html",
+        "https://podrobno.uz/cat/sport/supersovremennyy-ledovyy-dvorets-v-tashkente-sdadut-v-ekspluatatsiyu-v-2018-godu/",
+        "http://kommersant.uz/news/ledovyj-dvorets-2018",
+        "https://www.championat.com/hockey/news-3703507-klub-iz-uzbekistana-budet-igrat-v-vhl-posle-oi-2022-on-mozhet-vojti-v-khl.html",
+        "https://tashkenttimes.uz/sports/3971-tashkent-based-humo-club-to-play-in-higher-hockey-league-in-2019-2020-season",
+        "http://www.humoarena.com",
+        "http://humoarena.com/ru"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Structure and facilities",
+          "anchor": "Structure_and_facilities"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Future uses",
+          "anchor": "Future_uses"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Чайка_Humo_Arena.jpg",
+        "Указатели_в_Humo_Arena.jpg",
+        "Указатели_в_Humo_Arena_(2).jpg",
+        "Вестибюль_Humo_Arena.jpg",
+        "Панно_Humo_Arena_(2).jpg",
+        "Панно_в_Humo_Арена.jpg",
+        "Ambox_current_red_Asia_Australia.svg",
+        "Humo_Arena_2019.jpg",
+        "Paris_metro_line_2_symbol.svg",
+        "BUS-Logo-blau.svg",
+        "Humo_First_Play.jpg",
+        "Flag_of_Lithuania.svg",
+        "Commons-logo.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/60px-Ambox_current_red_Asia_Australia.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Ambox_current_red_Asia_Australia.svg/120px-Ambox_current_red_Asia_Australia.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 42,
+          "height": 34,
+          "originalWidth": 360,
+          "originalHeight": 290,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Humo Arena 2019.jpg",
+          "fileName": "Humo Arena 2019.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Humo_Arena_2019.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Humo_Arena_2019.jpg/250px-Humo_Arena_2019.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Humo_Arena_2019.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Humo_Arena_2019.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Humo_Arena_2019.jpg/500px-Humo_Arena_2019.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 115,
+          "originalWidth": 4608,
+          "originalHeight": 2128,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Humo_Arena&revid=1357990828&groups=_b75f148e7034989120531dfdf696bc6538cd7297&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Humo_Arena&revid=1357990828&groups=_b75f148e7034989120531dfdf696bc6538cd7297&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Humo Arena"
+        },
+        {
+          "fileTitle": "File:Paris metro line 2 symbol.svg",
+          "fileName": "Paris metro line 2 symbol.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Paris_metro_line_2_symbol.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Paris_metro_line_2_symbol.svg/20px-Paris_metro_line_2_symbol.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Paris_metro_line_2_symbol.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Paris_metro_line_2_symbol.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Paris_metro_line_2_symbol.svg/40px-Paris_metro_line_2_symbol.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 15,
+          "height": 15,
+          "originalWidth": 200,
+          "originalHeight": 200,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:BUS-Logo-blau.svg",
+          "fileName": "BUS-Logo-blau.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:BUS-Logo-blau.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BUS-Logo-blau.svg/20px-BUS-Logo-blau.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/BUS-Logo-blau.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/BUS-Logo-blau.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/BUS-Logo-blau.svg/40px-BUS-Logo-blau.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 15,
+          "height": 15,
+          "originalWidth": 800,
+          "originalHeight": 800,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Humo First Play.jpg",
+          "fileName": "Humo First Play.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Humo_First_Play.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Humo_First_Play.jpg/250px-Humo_First_Play.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Humo_First_Play.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Humo_First_Play.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Humo_First_Play.jpg/500px-Humo_First_Play.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 115,
+          "originalWidth": 2576,
+          "originalHeight": 1188,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Humo First Play"
+        },
+        {
+          "fileTitle": "File:Чайка Humo Arena.jpg",
+          "fileName": "Чайка Humo Arena.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0_Humo_Arena.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0_Humo_Arena.jpg/250px-%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0_Humo_Arena.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0_Humo_Arena.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0_Humo_Arena.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0_Humo_Arena.jpg/500px-%D0%A7%D0%B0%D0%B9%D0%BA%D0%B0_Humo_Arena.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 220,
+          "height": 102,
+          "originalWidth": 4608,
+          "originalHeight": 2128,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Указатели в Humo Arena.jpg",
+          "fileName": "Указатели в Humo Arena.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_Humo_Arena.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_Humo_Arena.jpg/250px-%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_Humo_Arena.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_Humo_Arena.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_Humo_Arena.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_Humo_Arena.jpg/500px-%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_Humo_Arena.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 220,
+          "height": 102,
+          "originalWidth": 4608,
+          "originalHeight": 2128,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Указатели в Humo Arena (2).jpg",
+          "fileName": "Указатели в Humo Arena (2).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_Humo_Arena_(2).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_Humo_Arena_%282%29.jpg/250px-%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_Humo_Arena_%282%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_Humo_Arena_(2).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_Humo_Arena_(2).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_Humo_Arena_%282%29.jpg/500px-%D0%A3%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8_%D0%B2_Humo_Arena_%282%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 220,
+          "height": 101,
+          "originalWidth": 2576,
+          "originalHeight": 1188,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Вестибюль Humo Arena.jpg",
+          "fileName": "Вестибюль Humo Arena.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:%D0%92%D0%B5%D1%81%D1%82%D0%B8%D0%B1%D1%8E%D0%BB%D1%8C_Humo_Arena.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/%D0%92%D0%B5%D1%81%D1%82%D0%B8%D0%B1%D1%8E%D0%BB%D1%8C_Humo_Arena.jpg/250px-%D0%92%D0%B5%D1%81%D1%82%D0%B8%D0%B1%D1%8E%D0%BB%D1%8C_Humo_Arena.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%D0%92%D0%B5%D1%81%D1%82%D0%B8%D0%B1%D1%8E%D0%BB%D1%8C_Humo_Arena.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%D0%92%D0%B5%D1%81%D1%82%D0%B8%D0%B1%D1%8E%D0%BB%D1%8C_Humo_Arena.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/%D0%92%D0%B5%D1%81%D1%82%D0%B8%D0%B1%D1%8E%D0%BB%D1%8C_Humo_Arena.jpg/500px-%D0%92%D0%B5%D1%81%D1%82%D0%B8%D0%B1%D1%8E%D0%BB%D1%8C_Humo_Arena.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 220,
+          "height": 102,
+          "originalWidth": 4608,
+          "originalHeight": 2128,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Панно Humo Arena (2).jpg",
+          "fileName": "Панно Humo Arena (2).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_Humo_Arena_(2).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_Humo_Arena_%282%29.jpg/250px-%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_Humo_Arena_%282%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_Humo_Arena_(2).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_Humo_Arena_(2).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_Humo_Arena_%282%29.jpg/500px-%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_Humo_Arena_%282%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 220,
+          "height": 102,
+          "originalWidth": 4608,
+          "originalHeight": 2128,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Панно в Humo Арена.jpg",
+          "fileName": "Панно в Humo Арена.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_%D0%B2_Humo_%D0%90%D1%80%D0%B5%D0%BD%D0%B0.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_%D0%B2_Humo_%D0%90%D1%80%D0%B5%D0%BD%D0%B0.jpg/250px-%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_%D0%B2_Humo_%D0%90%D1%80%D0%B5%D0%BD%D0%B0.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_%D0%B2_Humo_%D0%90%D1%80%D0%B5%D0%BD%D0%B0.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_%D0%B2_Humo_%D0%90%D1%80%D0%B5%D0%BD%D0%B0.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_%D0%B2_Humo_%D0%90%D1%80%D0%B5%D0%BD%D0%B0.jpg/500px-%D0%9F%D0%B0%D0%BD%D0%BD%D0%BE_%D0%B2_Humo_%D0%90%D1%80%D0%B5%D0%BD%D0%B0.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 220,
+          "height": 102,
+          "originalWidth": 4608,
+          "originalHeight": 2128,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/40px-Flag_of_Lithuania.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/60px-Flag_of_Lithuania.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 14,
+          "originalWidth": 1000,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Lithuania",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 40,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 453,
+          "rowText": "Uzbekistan\nTashkent\nHumo Arena\n12,500",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Uzbekistan\" title=\"Uzbekistan\">Uzbekistan</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Tashkent\" title=\"Tashkent\">Tashkent</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Humo_Ice_Dome\" class=\"mw-redirect\" title=\"Humo Ice Dome\">Humo Arena</a>\n</td>\n<td>\n</td>\n<td>12,500\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 453,
+              "cell": {
+                "text": "Uzbekistan",
+                "lines": [
+                  "Uzbekistan"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Uzbekistan",
+                    "title": "Uzbekistan",
+                    "wikiTitle": "Uzbekistan",
+                    "href": "https://en.wikipedia.org/wiki/Uzbekistan",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 453,
+              "cell": {
+                "text": "Tashkent",
+                "lines": [
+                  "Tashkent"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Tashkent",
+                    "title": "Tashkent",
+                    "wikiTitle": "Tashkent",
+                    "href": "https://en.wikipedia.org/wiki/Tashkent",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 453,
+              "cell": {
+                "text": "Humo Arena",
+                "lines": [
+                  "Humo Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Humo Arena",
+                    "title": "Humo Ice Dome",
+                    "wikiTitle": "Humo Ice Dome",
+                    "href": "https://en.wikipedia.org/wiki/Humo_Ice_Dome",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 453,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 453,
+              "cell": {
+                "text": "12,500",
+                "lines": [
+                  "12,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 453,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Humo Arena",
+            "lines": [
+              "Humo Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Humo Arena",
+                "title": "Humo Ice Dome",
+                "wikiTitle": "Humo Ice Dome",
+                "href": "https://en.wikipedia.org/wiki/Humo_Ice_Dome",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:48.481Z"
+    }
+  ]
+}

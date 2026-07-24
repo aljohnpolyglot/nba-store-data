@@ -1,0 +1,4072 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Vietnam",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 4
+  },
+  "stats": {
+    "arenaCount": 4,
+    "sourceRowCount": 4,
+    "mediaRecordCount": 12,
+    "sourceTypeCounts": {
+      "world_master_list": 4
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-56608983",
+      "pageId": 56608983,
+      "revisionId": null,
+      "title": "Hanoi Indoor Games Gymnasium",
+      "displayTitle": "Hanoi Indoor Games Gymnasium",
+      "url": "https://en.wikipedia.org/wiki/Hanoi_Indoor_Games_Gymnasium",
+      "wikidataItem": "Q10751151",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q10751151",
+      "aliases": [
+        "Hanoi Indoor Games Gymnasium"
+      ],
+      "requestedTitles": [
+        "Hanoi Indoor Games Gymnasium"
+      ],
+      "sourceLinkTexts": [
+        "Hanoi Indoor Games Gymnasium"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Hanoi_Indoor_Games_Gymnasium"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 21.0290528,
+        "longitude": 105.7630083,
+        "raw": "21.0290528; 105.7630083"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Hanoi Indoor Games Gymnasium",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Cung Điền kinh Hà Nội",
+            "lines": [
+              "Cung Điền kinh Hà Nội"
+            ],
+            "html": "<td class=\"infobox-data\">Cung Điền kinh Hà Nội</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Trần Hữu Dực Street, Cầu Diễn Ward, Nam Từ Liêm District, Hanoi, Vietnam",
+            "lines": [
+              "Trần Hữu Dực Street, Cầu Diễn Ward, Nam Từ Liêm District, Hanoi, Vietnam"
+            ],
+            "html": "<td class=\"infobox-data label\">Trần Hữu Dực Street, Cầu Diễn Ward, Nam Từ Liêm District, <a href=\"https://en.wikipedia.org/wiki/Hanoi\" title=\"Hanoi\">Hanoi</a>, <a href=\"https://en.wikipedia.org/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>",
+            "links": [
+              {
+                "text": "Hanoi",
+                "title": "Hanoi",
+                "wikiTitle": "Hanoi",
+                "href": "https://en.wikipedia.org/wiki/Hanoi",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Vietnam",
+                "title": "Vietnam",
+                "wikiTitle": "Vietnam",
+                "href": "https://en.wikipedia.org/wiki/Vietnam",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "21°1′44.59″N 105°45′46.83″E﻿ / ﻿21.0290528°N 105.7630083°E﻿ / 21.0290528; 105.7630083",
+            "lines": [
+              "21°1′44.59″N 105°45′46.83″E﻿ / ﻿21.0290528°N 105.7630083°E﻿ / 21.0290528; 105.7630083"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Hanoi_Indoor_Games_Gymnasium&amp;params=21_1_44.59_N_105_45_46.83_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">21°1′44.59″N</span> <span class=\"longitude\">105°45′46.83″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">21.0290528°N 105.7630083°E</span><span>﻿ / <span class=\"geo\">21.0290528; 105.7630083</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "21°1′44.59″N 105°45′46.83″E﻿ / ﻿21.0290528°N 105.7630083°E﻿ / 21.0290528; 105.7630083",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Hanoi_Indoor_Games_Gymnasium&params=21_1_44.59_N_105_45_46.83_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Ministry of Culture, Sports and Tourism",
+            "lines": [
+              "Ministry of Culture, Sports and Tourism"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Ministry_of_Culture,_Sports_and_Tourism_(Vietnam)\" title=\"Ministry of Culture, Sports and Tourism (Vietnam)\">Ministry of Culture, Sports and Tourism</a></td>",
+            "links": [
+              {
+                "text": "Ministry of Culture, Sports and Tourism",
+                "title": "Ministry of Culture, Sports and Tourism (Vietnam)",
+                "wikiTitle": "Ministry of Culture, Sports and Tourism (Vietnam)",
+                "href": "https://en.wikipedia.org/wiki/Ministry_of_Culture,_Sports_and_Tourism_(Vietnam)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Vietnam National Sporting Complex",
+            "lines": [
+              "Vietnam National Sporting Complex"
+            ],
+            "html": "<td class=\"infobox-data agent\">Vietnam National Sporting Complex</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "3,094 (seating)\n8,500 (concert)",
+            "lines": [
+              "3,094 (seating)",
+              "8,500 (concert)"
+            ],
+            "html": "<td class=\"infobox-data\">3,094 (seating) <br> 8,500 (concert)</td>",
+            "links": [
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-inauguration-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-inauguration-2"
+              }
+            ]
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "group": null,
+            "text": "Indoor arena",
+            "lines": [
+              "Indoor arena"
+            ],
+            "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Indoor_arena\" class=\"mw-redirect\" title=\"Indoor arena\">Indoor arena</a></td>",
+            "links": [
+              {
+                "text": "Indoor arena",
+                "title": "Indoor arena",
+                "wikiTitle": "Indoor arena",
+                "href": "https://en.wikipedia.org/wiki/Indoor_arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "8 July 2008",
+            "lines": [
+              "8 July 2008"
+            ],
+            "html": "<td class=\"infobox-data\">8 July 2008</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "19 September 2009 (2009-09-19)",
+            "lines": [
+              "19 September 2009 (2009-09-19)"
+            ],
+            "html": "<td class=\"infobox-data\">19&nbsp;September&nbsp;2009<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2009-09-19</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "546.3 billion VND\n(US$30.4 million in 2009)",
+            "lines": [
+              "546.3 billion VND",
+              "(US$30.4 million in 2009)"
+            ],
+            "html": "<td class=\"infobox-data\">546.3 billion <a href=\"https://en.wikipedia.org/wiki/VND\" class=\"mw-redirect\" title=\"VND\">VND</a><br><small>(US$30.4 million in 2009)</small></td>",
+            "links": [
+              {
+                "text": "VND",
+                "title": "VND",
+                "wikiTitle": "VND",
+                "href": "https://en.wikipedia.org/wiki/VND",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-ready-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-ready-1"
+              }
+            ]
+          },
+          {
+            "label": "Main contractors",
+            "key": "main_contractors",
+            "group": "Construction",
+            "text": "Construction Machinery Corporation (COMA)",
+            "lines": [
+              "Construction Machinery Corporation (COMA)"
+            ],
+            "html": "<td class=\"infobox-data\">Construction Machinery Corporation (COMA)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Cung Điền kinh Hà Nội",
+              "lines": [
+                "Cung Điền kinh Hà Nội"
+              ],
+              "html": "<td class=\"infobox-data\">Cung Điền kinh Hà Nội</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Trần Hữu Dực Street, Cầu Diễn Ward, Nam Từ Liêm District, Hanoi, Vietnam",
+              "lines": [
+                "Trần Hữu Dực Street, Cầu Diễn Ward, Nam Từ Liêm District, Hanoi, Vietnam"
+              ],
+              "html": "<td class=\"infobox-data label\">Trần Hữu Dực Street, Cầu Diễn Ward, Nam Từ Liêm District, <a href=\"https://en.wikipedia.org/wiki/Hanoi\" title=\"Hanoi\">Hanoi</a>, <a href=\"https://en.wikipedia.org/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>",
+              "links": [
+                {
+                  "text": "Hanoi",
+                  "title": "Hanoi",
+                  "wikiTitle": "Hanoi",
+                  "href": "https://en.wikipedia.org/wiki/Hanoi",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Vietnam",
+                  "title": "Vietnam",
+                  "wikiTitle": "Vietnam",
+                  "href": "https://en.wikipedia.org/wiki/Vietnam",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "21°1′44.59″N 105°45′46.83″E﻿ / ﻿21.0290528°N 105.7630083°E﻿ / 21.0290528; 105.7630083",
+              "lines": [
+                "21°1′44.59″N 105°45′46.83″E﻿ / ﻿21.0290528°N 105.7630083°E﻿ / 21.0290528; 105.7630083"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Hanoi_Indoor_Games_Gymnasium&amp;params=21_1_44.59_N_105_45_46.83_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">21°1′44.59″N</span> <span class=\"longitude\">105°45′46.83″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">21.0290528°N 105.7630083°E</span><span>﻿ / <span class=\"geo\">21.0290528; 105.7630083</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "21°1′44.59″N 105°45′46.83″E﻿ / ﻿21.0290528°N 105.7630083°E﻿ / 21.0290528; 105.7630083",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Hanoi_Indoor_Games_Gymnasium&params=21_1_44.59_N_105_45_46.83_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Ministry of Culture, Sports and Tourism",
+              "lines": [
+                "Ministry of Culture, Sports and Tourism"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Ministry_of_Culture,_Sports_and_Tourism_(Vietnam)\" title=\"Ministry of Culture, Sports and Tourism (Vietnam)\">Ministry of Culture, Sports and Tourism</a></td>",
+              "links": [
+                {
+                  "text": "Ministry of Culture, Sports and Tourism",
+                  "title": "Ministry of Culture, Sports and Tourism (Vietnam)",
+                  "wikiTitle": "Ministry of Culture, Sports and Tourism (Vietnam)",
+                  "href": "https://en.wikipedia.org/wiki/Ministry_of_Culture,_Sports_and_Tourism_(Vietnam)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Vietnam National Sporting Complex",
+              "lines": [
+                "Vietnam National Sporting Complex"
+              ],
+              "html": "<td class=\"infobox-data agent\">Vietnam National Sporting Complex</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "3,094 (seating)\n8,500 (concert)",
+              "lines": [
+                "3,094 (seating)",
+                "8,500 (concert)"
+              ],
+              "html": "<td class=\"infobox-data\">3,094 (seating) <br> 8,500 (concert)</td>",
+              "links": [
+                {
+                  "text": "[2]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-inauguration-2",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-inauguration-2"
+                }
+              ]
+            }
+          ],
+          "type": [
+            {
+              "label": "Type",
+              "key": "type",
+              "group": null,
+              "text": "Indoor arena",
+              "lines": [
+                "Indoor arena"
+              ],
+              "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Indoor_arena\" class=\"mw-redirect\" title=\"Indoor arena\">Indoor arena</a></td>",
+              "links": [
+                {
+                  "text": "Indoor arena",
+                  "title": "Indoor arena",
+                  "wikiTitle": "Indoor arena",
+                  "href": "https://en.wikipedia.org/wiki/Indoor_arena",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "8 July 2008",
+              "lines": [
+                "8 July 2008"
+              ],
+              "html": "<td class=\"infobox-data\">8 July 2008</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "19 September 2009 (2009-09-19)",
+              "lines": [
+                "19 September 2009 (2009-09-19)"
+              ],
+              "html": "<td class=\"infobox-data\">19&nbsp;September&nbsp;2009<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2009-09-19</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "546.3 billion VND\n(US$30.4 million in 2009)",
+              "lines": [
+                "546.3 billion VND",
+                "(US$30.4 million in 2009)"
+              ],
+              "html": "<td class=\"infobox-data\">546.3 billion <a href=\"https://en.wikipedia.org/wiki/VND\" class=\"mw-redirect\" title=\"VND\">VND</a><br><small>(US$30.4 million in 2009)</small></td>",
+              "links": [
+                {
+                  "text": "VND",
+                  "title": "VND",
+                  "wikiTitle": "VND",
+                  "href": "https://en.wikipedia.org/wiki/VND",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-ready-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-ready-1"
+                }
+              ]
+            }
+          ],
+          "main_contractors": [
+            {
+              "label": "Main contractors",
+              "key": "main_contractors",
+              "group": "Construction",
+              "text": "Construction Machinery Corporation (COMA)",
+              "lines": [
+                "Construction Machinery Corporation (COMA)"
+              ],
+              "html": "<td class=\"infobox-data\">Construction Machinery Corporation (COMA)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Cung Điền kinh Hà Nội"
+          ],
+          "location": [
+            "Trần Hữu Dực Street, Cầu Diễn Ward, Nam Từ Liêm District, Hanoi, Vietnam"
+          ],
+          "coordinates": [
+            "21°1′44.59″N 105°45′46.83″E﻿ / ﻿21.0290528°N 105.7630083°E﻿ / 21.0290528; 105.7630083"
+          ],
+          "owner": [
+            "Ministry of Culture, Sports and Tourism"
+          ],
+          "operator": [
+            "Vietnam National Sporting Complex"
+          ],
+          "capacity": [
+            "3,094 (seating)\n8,500 (concert)"
+          ],
+          "type": [
+            "Indoor arena"
+          ],
+          "built": [
+            "8 July 2008"
+          ],
+          "opened": [
+            "19 September 2009 (2009-09-19)"
+          ],
+          "cost": [
+            "546.3 billion VND\n(US$30.4 million in 2009)"
+          ],
+          "main_contractors": [
+            "Construction Machinery Corporation (COMA)"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "3,094 (seating)",
+          "8,500 (concert)"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Hanoi_Indoor_Games_Gymnasium&revid=1345466136&groups=_b5c47968aa18080a6cec5bcea7ff33dc499465f4&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Hanoi_Indoor_Games_Gymnasium&revid=1345466136&groups=_b5c47968aa18080a6cec5bcea7ff33dc499465f4&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Hanoi Indoor Games Gymnasium"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Hanoi Indoor Games Gymnasium</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_b5c47968aa18080a6cec5bcea7ff33dc499465f4&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Hanoi_Indoor_Games_Gymnasium&amp;revid=1345466136&amp;groups=_b5c47968aa18080a6cec5bcea7ff33dc499465f4&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Hanoi_Indoor_Games_Gymnasium&amp;revid=1345466136&amp;groups=_b5c47968aa18080a6cec5bcea7ff33dc499465f4&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Hanoi Indoor Games Gymnasium</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Cung Điền kinh Hà Nội</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">Trần Hữu Dực Street, Cầu Diễn Ward, Nam Từ Liêm District, <a href=\"https://en.wikipedia.org/wiki/Hanoi\" title=\"Hanoi\">Hanoi</a>, <a href=\"https://en.wikipedia.org/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Hanoi_Indoor_Games_Gymnasium&amp;params=21_1_44.59_N_105_45_46.83_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">21°1′44.59″N</span> <span class=\"longitude\">105°45′46.83″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">21.0290528°N 105.7630083°E</span><span>﻿ / <span class=\"geo\">21.0290528; 105.7630083</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Ministry_of_Culture,_Sports_and_Tourism_(Vietnam)\" title=\"Ministry of Culture, Sports and Tourism (Vietnam)\">Ministry of Culture, Sports and Tourism</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">Vietnam National Sporting Complex</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">3,094 (seating) <br> 8,500 (concert)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Type</th><td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Indoor_arena\" class=\"mw-redirect\" title=\"Indoor arena\">Indoor arena</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">8 July 2008</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">19&nbsp;September&nbsp;2009<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2009-09-19</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">546.3 billion <a href=\"https://en.wikipedia.org/wiki/VND\" class=\"mw-redirect\" title=\"VND\">VND</a><br><small>(US$30.4 million in 2009)</small></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Main contractors</div></th><td class=\"infobox-data\">Construction Machinery Corporation (COMA)</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Vietnamese-language_sources_(vi)",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Articles_containing_Vietnamese-language_text",
+        "Indoor_track_and_field_venues",
+        "Athletics_venues_in_Vietnam",
+        "Sports_venues_completed_in_2009",
+        "Sport_in_Hanoi",
+        "Buildings_and_structures_in_Hanoi",
+        "2009_establishments_in_Vietnam",
+        "Gymnastics_venues",
+        "2009_SEA_Games",
+        "Indoor_arenas_in_Vietnam",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Hanoi_Indoor_Games_Gymnasium&params=21_1_44.59_N_105_45_46.83_E_type:landmark",
+        "https://tuoitre.vn/cung-thi-dau-dien-kinh-da-san-sang-339080.htm",
+        "http://www.tdtt.gov.vn/DesktopModules/PoliceArticles/Police_ArticlePrint.aspx?ArticleID=9179",
+        "https://ticketbox.vn/westlife-hanoi2024-22447",
+        "https://backstage.vn/onerepublic-the-artificial-paradise-tour/",
+        "https://ticketbox.vn/jisoo-23814",
+        "https://backstage.vn/baekhyun-giu-loi-hua-mang-concert-den-viet-nam-fan-ha-noi-phan-khich/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Design",
+          "anchor": "Design"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Usage",
+          "anchor": "Usage"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "Sports",
+          "anchor": "Sports"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "Entertainment events",
+          "anchor": "Entertainment_events"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Hanoi_Indoor_Games_Gymnasium_2022.jpg"
+      ],
+      "media": [
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Hanoi_Indoor_Games_Gymnasium&revid=1345466136&groups=_b5c47968aa18080a6cec5bcea7ff33dc499465f4&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Hanoi_Indoor_Games_Gymnasium&revid=1345466136&groups=_b5c47968aa18080a6cec5bcea7ff33dc499465f4&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Hanoi Indoor Games Gymnasium"
+        },
+        {
+          "fileTitle": "File:Hanoi Indoor Games Gymnasium 2022.jpg",
+          "fileName": "Hanoi Indoor Games Gymnasium 2022.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Hanoi_Indoor_Games_Gymnasium_2022.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hanoi_Indoor_Games_Gymnasium_2022.jpg/250px-Hanoi_Indoor_Games_Gymnasium_2022.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hanoi_Indoor_Games_Gymnasium_2022.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Hanoi_Indoor_Games_Gymnasium_2022.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hanoi_Indoor_Games_Gymnasium_2022.jpg/500px-Hanoi_Indoor_Games_Gymnasium_2022.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 141,
+          "originalWidth": 4000,
+          "originalHeight": 2250,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Hanoi Indoor Games Gymnasium in 2022"
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 460,
+          "rowText": "Hanoi Indoor Games Gymnasium\n2008\n3,094",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Hanoi_Indoor_Games_Gymnasium\" title=\"Hanoi Indoor Games Gymnasium\">Hanoi Indoor Games Gymnasium</a>\n</td>\n<td>2008\n</td>\n<td>3,094\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 454,
+              "cell": {
+                "text": "Vietnam",
+                "lines": [
+                  "Vietnam"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Vietnam",
+                    "title": "Vietnam",
+                    "wikiTitle": "Vietnam",
+                    "href": "https://en.wikipedia.org/wiki/Vietnam",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 459,
+              "cell": {
+                "text": "Hanoi",
+                "lines": [
+                  "Hanoi"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Hanoi",
+                    "title": "Hanoi",
+                    "wikiTitle": "Hanoi",
+                    "href": "https://en.wikipedia.org/wiki/Hanoi",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 460,
+              "cell": {
+                "text": "Hanoi Indoor Games Gymnasium",
+                "lines": [
+                  "Hanoi Indoor Games Gymnasium"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Hanoi Indoor Games Gymnasium",
+                    "title": "Hanoi Indoor Games Gymnasium",
+                    "wikiTitle": "Hanoi Indoor Games Gymnasium",
+                    "href": "https://en.wikipedia.org/wiki/Hanoi_Indoor_Games_Gymnasium",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 460,
+              "cell": {
+                "text": "2008",
+                "lines": [
+                  "2008"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 460,
+              "cell": {
+                "text": "3,094",
+                "lines": [
+                  "3,094"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 460,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Hanoi Indoor Games Gymnasium",
+            "lines": [
+              "Hanoi Indoor Games Gymnasium"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Hanoi Indoor Games Gymnasium",
+                "title": "Hanoi Indoor Games Gymnasium",
+                "wikiTitle": "Hanoi Indoor Games Gymnasium",
+                "href": "https://en.wikipedia.org/wiki/Hanoi_Indoor_Games_Gymnasium",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:49.515Z"
+    },
+    {
+      "id": "wikipedia-page-43507153",
+      "pageId": 43507153,
+      "revisionId": null,
+      "title": "Phú Thọ Indoor Stadium",
+      "displayTitle": "Phú Thọ Indoor Stadium",
+      "url": "https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D_Indoor_Stadium",
+      "wikidataItem": "Q18207285",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q18207285",
+      "aliases": [
+        "Phú Thọ Indoor Stadium",
+        "Phú Thọ Arena"
+      ],
+      "requestedTitles": [
+        "Phú Thọ Indoor Stadium"
+      ],
+      "sourceLinkTexts": [
+        "Phú Thọ Indoor Stadium"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D_Indoor_Stadium"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 10.769403,
+        "longitude": 106.657804,
+        "raw": "10.769403; 106.657804"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Phú Thọ Arena",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "No.1 Lữ Gia Street,\nPhú Thọ, Ho Chi Minh City\nVietnam",
+            "lines": [
+              "No.1 Lữ Gia Street,",
+              "Phú Thọ, Ho Chi Minh City",
+              "Vietnam"
+            ],
+            "html": "<td class=\"infobox-data label\">No.1 Lữ Gia Street,<br><a href=\"https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D,_Ho_Chi_Minh_City\" title=\"Phú Thọ, Ho Chi Minh City\">Phú Thọ, Ho Chi Minh City</a><br>Vietnam<span data-plural=\"1\"></span></td>",
+            "links": [
+              {
+                "text": "Phú Thọ, Ho Chi Minh City",
+                "title": "Phú Thọ, Ho Chi Minh City",
+                "wikiTitle": "Phú Thọ, Ho Chi Minh City",
+                "href": "https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D,_Ho_Chi_Minh_City",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Phú Thọ Horse Racing Ground Park, District 11, Ho Chi Minh City, Vietnam",
+            "lines": [
+              "Phú Thọ Horse Racing Ground Park, District 11, Ho Chi Minh City, Vietnam"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D_Horse_Racing_Ground\" title=\"Phú Thọ Horse Racing Ground\">Phú Thọ Horse Racing Ground Park</a>, <a href=\"https://en.wikipedia.org/wiki/District_11,_Ho_Chi_Minh_City\" title=\"District 11, Ho Chi Minh City\">District 11, Ho Chi Minh City</a>, <a href=\"https://en.wikipedia.org/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>",
+            "links": [
+              {
+                "text": "Phú Thọ Horse Racing Ground Park",
+                "title": "Phú Thọ Horse Racing Ground",
+                "wikiTitle": "Phú Thọ Horse Racing Ground",
+                "href": "https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D_Horse_Racing_Ground",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "District 11, Ho Chi Minh City",
+                "title": "District 11, Ho Chi Minh City",
+                "wikiTitle": "District 11, Ho Chi Minh City",
+                "href": "https://en.wikipedia.org/wiki/District_11,_Ho_Chi_Minh_City",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Vietnam",
+                "title": "Vietnam",
+                "wikiTitle": "Vietnam",
+                "href": "https://en.wikipedia.org/wiki/Vietnam",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Ho Chi Minh City Department of Culture, Sports and Tourism",
+            "lines": [
+              "Ho Chi Minh City Department of Culture, Sports and Tourism"
+            ],
+            "html": "<td class=\"infobox-data agent\">Ho Chi Minh City Department of Culture, Sports and Tourism</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "5,000\nFutsal: 3,300\nConcert: 7,000",
+            "lines": [
+              "5,000",
+              "Futsal: 3,300",
+              "Concert: 7,000"
+            ],
+            "html": "<td class=\"infobox-data\">5,000 <br> <a href=\"https://en.wikipedia.org/wiki/Futsal\" title=\"Futsal\">Futsal</a>: 3,300 <br> <a href=\"https://en.wikipedia.org/wiki/Concert\" title=\"Concert\">Concert</a>: 7,000</td>",
+            "links": [
+              {
+                "text": "Futsal",
+                "title": "Futsal",
+                "wikiTitle": "Futsal",
+                "href": "https://en.wikipedia.org/wiki/Futsal",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Concert",
+                "title": "Concert",
+                "wikiTitle": "Concert",
+                "href": "https://en.wikipedia.org/wiki/Concert",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Public transit",
+            "key": "public_transit",
+            "group": null,
+            "text": "L1 L5 Phú Thọ station, University of Technology station (Line 5 only) (Proposed)",
+            "lines": [
+              "L1 L5 Phú Thọ station, University of Technology station (Line 5 only) (Proposed)"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Line_1_(Ho_Chi_Minh_City_Metro)\" title=\"Line 1 (Ho Chi Minh City Metro)\"><span><span>L1</span></span></a> <a href=\"https://en.wikipedia.org/w/index.php?title=Line_5_(Ho_Chi_Minh_City_Metro)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Line 5 (Ho Chi Minh City Metro) (page does not exist)\"><span><span>L5</span></span></a> Phú Thọ station, University of Technology station (Line 5 only) <i>(Proposed)</i></td>",
+            "links": [
+              {
+                "text": "L1",
+                "title": "Line 1 (Ho Chi Minh City Metro)",
+                "wikiTitle": "Line 1 (Ho Chi Minh City Metro)",
+                "href": "https://en.wikipedia.org/wiki/Line_1_(Ho_Chi_Minh_City_Metro)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "L5",
+                "title": "Line 5 (Ho Chi Minh City Metro) (page does not exist)",
+                "wikiTitle": "Line 5 (Ho Chi Minh City Metro)",
+                "href": "https://en.wikipedia.org/w/index.php?title=Line_5_(Ho_Chi_Minh_City_Metro)&action=edit&redlink=1",
+                "blueArticle": false,
+                "redLink": true,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "24 December 2000",
+            "lines": [
+              "24 December 2000"
+            ],
+            "html": "<td class=\"infobox-data\">24 December 2000</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-1"
+              }
+            ]
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "20 November 2003 (2003-11-20)",
+            "lines": [
+              "20 November 2003 (2003-11-20)"
+            ],
+            "html": "<td class=\"infobox-data\">20&nbsp;November&nbsp;2003<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2003-11-20</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "119.4 billion VND ($5.9 million in 2001)\n(167.7 billion VND in 2014)",
+            "lines": [
+              "119.4 billion VND ($5.9 million in 2001)",
+              "(167.7 billion VND in 2014)"
+            ],
+            "html": "<td class=\"infobox-data\">119.4 billion VND <small>($5.9 million in 2001)</small><br>(167.7 billion VND in 2014)</td>",
+            "links": [
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-faulty-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-faulty-2"
+              }
+            ]
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Vietnam national futsal team\n2003 Southeast Asian Games\n2009 Asian Indoor Games",
+            "lines": [
+              "Vietnam national futsal team",
+              "2003 Southeast Asian Games",
+              "2009 Asian Indoor Games"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Vietnam_national_futsal_team\" title=\"Vietnam national futsal team\">Vietnam national futsal team</a><br><a href=\"https://en.wikipedia.org/wiki/2003_Southeast_Asian_Games\" class=\"mw-redirect\" title=\"2003 Southeast Asian Games\">2003 Southeast Asian Games</a><br><a href=\"https://en.wikipedia.org/wiki/2009_Asian_Indoor_Games\" title=\"2009 Asian Indoor Games\">2009 Asian Indoor Games</a></td>",
+            "links": [
+              {
+                "text": "Vietnam national futsal team",
+                "title": "Vietnam national futsal team",
+                "wikiTitle": "Vietnam national futsal team",
+                "href": "https://en.wikipedia.org/wiki/Vietnam_national_futsal_team",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "2003 Southeast Asian Games",
+                "title": "2003 Southeast Asian Games",
+                "wikiTitle": "2003 Southeast Asian Games",
+                "href": "https://en.wikipedia.org/wiki/2003_Southeast_Asian_Games",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "2009 Asian Indoor Games",
+                "title": "2009 Asian Indoor Games",
+                "wikiTitle": "2009 Asian Indoor Games",
+                "href": "https://en.wikipedia.org/wiki/2009_Asian_Indoor_Games",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "No.1 Lữ Gia Street,\nPhú Thọ, Ho Chi Minh City\nVietnam",
+              "lines": [
+                "No.1 Lữ Gia Street,",
+                "Phú Thọ, Ho Chi Minh City",
+                "Vietnam"
+              ],
+              "html": "<td class=\"infobox-data label\">No.1 Lữ Gia Street,<br><a href=\"https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D,_Ho_Chi_Minh_City\" title=\"Phú Thọ, Ho Chi Minh City\">Phú Thọ, Ho Chi Minh City</a><br>Vietnam<span data-plural=\"1\"></span></td>",
+              "links": [
+                {
+                  "text": "Phú Thọ, Ho Chi Minh City",
+                  "title": "Phú Thọ, Ho Chi Minh City",
+                  "wikiTitle": "Phú Thọ, Ho Chi Minh City",
+                  "href": "https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D,_Ho_Chi_Minh_City",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Phú Thọ Horse Racing Ground Park, District 11, Ho Chi Minh City, Vietnam",
+              "lines": [
+                "Phú Thọ Horse Racing Ground Park, District 11, Ho Chi Minh City, Vietnam"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D_Horse_Racing_Ground\" title=\"Phú Thọ Horse Racing Ground\">Phú Thọ Horse Racing Ground Park</a>, <a href=\"https://en.wikipedia.org/wiki/District_11,_Ho_Chi_Minh_City\" title=\"District 11, Ho Chi Minh City\">District 11, Ho Chi Minh City</a>, <a href=\"https://en.wikipedia.org/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>",
+              "links": [
+                {
+                  "text": "Phú Thọ Horse Racing Ground Park",
+                  "title": "Phú Thọ Horse Racing Ground",
+                  "wikiTitle": "Phú Thọ Horse Racing Ground",
+                  "href": "https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D_Horse_Racing_Ground",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "District 11, Ho Chi Minh City",
+                  "title": "District 11, Ho Chi Minh City",
+                  "wikiTitle": "District 11, Ho Chi Minh City",
+                  "href": "https://en.wikipedia.org/wiki/District_11,_Ho_Chi_Minh_City",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Vietnam",
+                  "title": "Vietnam",
+                  "wikiTitle": "Vietnam",
+                  "href": "https://en.wikipedia.org/wiki/Vietnam",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Ho Chi Minh City Department of Culture, Sports and Tourism",
+              "lines": [
+                "Ho Chi Minh City Department of Culture, Sports and Tourism"
+              ],
+              "html": "<td class=\"infobox-data agent\">Ho Chi Minh City Department of Culture, Sports and Tourism</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "5,000\nFutsal: 3,300\nConcert: 7,000",
+              "lines": [
+                "5,000",
+                "Futsal: 3,300",
+                "Concert: 7,000"
+              ],
+              "html": "<td class=\"infobox-data\">5,000 <br> <a href=\"https://en.wikipedia.org/wiki/Futsal\" title=\"Futsal\">Futsal</a>: 3,300 <br> <a href=\"https://en.wikipedia.org/wiki/Concert\" title=\"Concert\">Concert</a>: 7,000</td>",
+              "links": [
+                {
+                  "text": "Futsal",
+                  "title": "Futsal",
+                  "wikiTitle": "Futsal",
+                  "href": "https://en.wikipedia.org/wiki/Futsal",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Concert",
+                  "title": "Concert",
+                  "wikiTitle": "Concert",
+                  "href": "https://en.wikipedia.org/wiki/Concert",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "public_transit": [
+            {
+              "label": "Public transit",
+              "key": "public_transit",
+              "group": null,
+              "text": "L1 L5 Phú Thọ station, University of Technology station (Line 5 only) (Proposed)",
+              "lines": [
+                "L1 L5 Phú Thọ station, University of Technology station (Line 5 only) (Proposed)"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Line_1_(Ho_Chi_Minh_City_Metro)\" title=\"Line 1 (Ho Chi Minh City Metro)\"><span><span>L1</span></span></a> <a href=\"https://en.wikipedia.org/w/index.php?title=Line_5_(Ho_Chi_Minh_City_Metro)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Line 5 (Ho Chi Minh City Metro) (page does not exist)\"><span><span>L5</span></span></a> Phú Thọ station, University of Technology station (Line 5 only) <i>(Proposed)</i></td>",
+              "links": [
+                {
+                  "text": "L1",
+                  "title": "Line 1 (Ho Chi Minh City Metro)",
+                  "wikiTitle": "Line 1 (Ho Chi Minh City Metro)",
+                  "href": "https://en.wikipedia.org/wiki/Line_1_(Ho_Chi_Minh_City_Metro)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "L5",
+                  "title": "Line 5 (Ho Chi Minh City Metro) (page does not exist)",
+                  "wikiTitle": "Line 5 (Ho Chi Minh City Metro)",
+                  "href": "https://en.wikipedia.org/w/index.php?title=Line_5_(Ho_Chi_Minh_City_Metro)&action=edit&redlink=1",
+                  "blueArticle": false,
+                  "redLink": true,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "24 December 2000",
+              "lines": [
+                "24 December 2000"
+              ],
+              "html": "<td class=\"infobox-data\">24 December 2000</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-1"
+                }
+              ]
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "20 November 2003 (2003-11-20)",
+              "lines": [
+                "20 November 2003 (2003-11-20)"
+              ],
+              "html": "<td class=\"infobox-data\">20&nbsp;November&nbsp;2003<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2003-11-20</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "119.4 billion VND ($5.9 million in 2001)\n(167.7 billion VND in 2014)",
+              "lines": [
+                "119.4 billion VND ($5.9 million in 2001)",
+                "(167.7 billion VND in 2014)"
+              ],
+              "html": "<td class=\"infobox-data\">119.4 billion VND <small>($5.9 million in 2001)</small><br>(167.7 billion VND in 2014)</td>",
+              "links": [
+                {
+                  "text": "[2]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-faulty-2",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-faulty-2"
+                }
+              ]
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Vietnam national futsal team\n2003 Southeast Asian Games\n2009 Asian Indoor Games",
+              "lines": [
+                "Vietnam national futsal team",
+                "2003 Southeast Asian Games",
+                "2009 Asian Indoor Games"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Vietnam_national_futsal_team\" title=\"Vietnam national futsal team\">Vietnam national futsal team</a><br><a href=\"https://en.wikipedia.org/wiki/2003_Southeast_Asian_Games\" class=\"mw-redirect\" title=\"2003 Southeast Asian Games\">2003 Southeast Asian Games</a><br><a href=\"https://en.wikipedia.org/wiki/2009_Asian_Indoor_Games\" title=\"2009 Asian Indoor Games\">2009 Asian Indoor Games</a></td>",
+              "links": [
+                {
+                  "text": "Vietnam national futsal team",
+                  "title": "Vietnam national futsal team",
+                  "wikiTitle": "Vietnam national futsal team",
+                  "href": "https://en.wikipedia.org/wiki/Vietnam_national_futsal_team",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "2003 Southeast Asian Games",
+                  "title": "2003 Southeast Asian Games",
+                  "wikiTitle": "2003 Southeast Asian Games",
+                  "href": "https://en.wikipedia.org/wiki/2003_Southeast_Asian_Games",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "2009 Asian Indoor Games",
+                  "title": "2009 Asian Indoor Games",
+                  "wikiTitle": "2009 Asian Indoor Games",
+                  "href": "https://en.wikipedia.org/wiki/2009_Asian_Indoor_Games",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "address": [
+            "No.1 Lữ Gia Street,\nPhú Thọ, Ho Chi Minh City\nVietnam"
+          ],
+          "location": [
+            "Phú Thọ Horse Racing Ground Park, District 11, Ho Chi Minh City, Vietnam"
+          ],
+          "owner": [
+            "Ho Chi Minh City Department of Culture, Sports and Tourism"
+          ],
+          "capacity": [
+            "5,000\nFutsal: 3,300\nConcert: 7,000"
+          ],
+          "public_transit": [
+            "L1 L5 Phú Thọ station, University of Technology station (Line 5 only) (Proposed)"
+          ],
+          "built": [
+            "24 December 2000"
+          ],
+          "opened": [
+            "20 November 2003 (2003-11-20)"
+          ],
+          "cost": [
+            "119.4 billion VND ($5.9 million in 2001)\n(167.7 billion VND in 2014)"
+          ],
+          "tenants": [
+            "Vietnam national futsal team\n2003 Southeast Asian Games\n2009 Asian Indoor Games"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "5,000",
+          "Futsal: 3,300",
+          "Concert: 7,000"
+        ],
+        "tenants": [
+          "Vietnam national futsal team",
+          "2003 Southeast Asian Games",
+          "2009 Asian Indoor Games"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:PhuThoFutsal.jpg",
+            "fileName": "PhuThoFutsal.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:PhuThoFutsal.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/PhuThoFutsal.jpg/250px-PhuThoFutsal.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/PhuThoFutsal.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/PhuThoFutsal.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/PhuThoFutsal.jpg/500px-PhuThoFutsal.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 78,
+            "originalWidth": 3666,
+            "originalHeight": 1143,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Phú Thọ Arena during the 2017 AFC Futsal Club Championship"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Ph%C3%BA_Th%E1%BB%8D_Indoor_Stadium&revid=1364480927&groups=_12b6611ecf63453a8082cf39d7644af6812a0505&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Ph%C3%BA_Th%E1%BB%8D_Indoor_Stadium&revid=1364480927&groups=_12b6611ecf63453a8082cf39d7644af6812a0505&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Phú Thọ Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Phú Thọ Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:PhuThoFutsal.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/PhuThoFutsal.jpg/250px-PhuThoFutsal.jpg\" width=\"250\" height=\"78\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/PhuThoFutsal.jpg/500px-PhuThoFutsal.jpg 2x\" data-file-width=\"3666\" data-file-height=\"1143\"></a></span><div class=\"infobox-caption\">Phú Thọ Arena during the 2017 <a href=\"https://en.wikipedia.org/wiki/AFC_Futsal_Club_Championship\" title=\"AFC Futsal Club Championship\">AFC Futsal Club Championship</a></div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_12b6611ecf63453a8082cf39d7644af6812a0505&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Ph%C3%BA_Th%E1%BB%8D_Indoor_Stadium&amp;revid=1364480927&amp;groups=_12b6611ecf63453a8082cf39d7644af6812a0505&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Ph%C3%BA_Th%E1%BB%8D_Indoor_Stadium&amp;revid=1364480927&amp;groups=_12b6611ecf63453a8082cf39d7644af6812a0505&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Phú Thọ Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\">No.1 Lữ Gia Street,<br><a href=\"https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D,_Ho_Chi_Minh_City\" title=\"Phú Thọ, Ho Chi Minh City\">Phú Thọ, Ho Chi Minh City</a><br>Vietnam<span data-plural=\"1\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D_Horse_Racing_Ground\" title=\"Phú Thọ Horse Racing Ground\">Phú Thọ Horse Racing Ground Park</a>, <a href=\"https://en.wikipedia.org/wiki/District_11,_Ho_Chi_Minh_City\" title=\"District 11, Ho Chi Minh City\">District 11, Ho Chi Minh City</a>, <a href=\"https://en.wikipedia.org/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Ho Chi Minh City Department of Culture, Sports and Tourism</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">5,000 <br> <a href=\"https://en.wikipedia.org/wiki/Futsal\" title=\"Futsal\">Futsal</a>: 3,300 <br> <a href=\"https://en.wikipedia.org/wiki/Concert\" title=\"Concert\">Concert</a>: 7,000</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Public&nbsp;transit</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Line_1_(Ho_Chi_Minh_City_Metro)\" title=\"Line 1 (Ho Chi Minh City Metro)\"><span><span>L1</span></span></a> <a href=\"https://en.wikipedia.org/w/index.php?title=Line_5_(Ho_Chi_Minh_City_Metro)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Line 5 (Ho Chi Minh City Metro) (page does not exist)\"><span><span>L5</span></span></a> Phú Thọ station, University of Technology station (Line 5 only) <i>(Proposed)</i></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">24 December 2000</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">20&nbsp;November&nbsp;2003<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2003-11-20</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">119.4 billion VND <small>($5.9 million in 2001)</small><br>(167.7 billion VND in 2014)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Vietnam_national_futsal_team\" title=\"Vietnam national futsal team\">Vietnam national futsal team</a><br><a href=\"https://en.wikipedia.org/wiki/2003_Southeast_Asian_Games\" class=\"mw-redirect\" title=\"2003 Southeast Asian Games\">2003 Southeast Asian Games</a><br><a href=\"https://en.wikipedia.org/wiki/2009_Asian_Indoor_Games\" title=\"2009 Asian Indoor Games\">2009 Asian Indoor Games</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Articles_containing_Vietnamese-language_text",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Vietnam",
+        "Sports_venues_completed_in_2003",
+        "Sports_venues_in_Ho_Chi_Minh_City",
+        "Taekwondo_venues",
+        "2003_establishments_in_Vietnam",
+        "2003_SEA_Games",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://web.archive.org/web/20140809170748/http://diaoc.tuoitre.vn/Index.aspx?ArticleID=1064&ChannelID=14",
+        "http://diaoc.tuoitre.vn/Index.aspx?ArticleID=1064&ChannelID=14",
+        "https://web.archive.org/web/20140809101319/http://vietbao.vn/An-ninh-Phap-luat/Sai-pham-du-an-nha-thi-dau-Phu-Tho-13-ca-nhan-bi-phe-binh/40116952/218/",
+        "http://vietbao.vn/An-ninh-Phap-luat/Sai-pham-du-an-nha-thi-dau-Phu-Tho-13-ca-nhan-bi-phe-binh/40116952/218/",
+        "https://web.archive.org/web/20240611024747/https://tdtt.gov.vn/chuyen-nganh/the-thao-thanh-tich-cao/giai-vo-dich-the-gioi-vo-co-truyen-viet-nam-lan-i-2016-ngay-hoi-cua-tinh-hoa-vo-viet",
+        "https://tdtt.gov.vn/chuyen-nganh/the-thao-thanh-tich-cao/giai-vo-dich-the-gioi-vo-co-truyen-viet-nam-lan-i-2016-ngay-hoi-cua-tinh-hoa-vo-viet",
+        "https://en.vietnamplus.vn/disney-show-to-make-vietnamese-debut-post87023.vnp",
+        "https://vietnamtimes.thoidai.com.vn/show-disney-on-ice-returns-to-hcm-city-4908.html",
+        "https://geohack.toolforge.org/geohack.php?pagename=Ph%C3%BA_Th%E1%BB%8D_Indoor_Stadium&params=10.769403_N_106.657804_E_"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Events",
+          "anchor": "Events"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "Sports events",
+          "anchor": "Sports_events"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "Esports events",
+          "anchor": "Esports_events"
+        },
+        {
+          "index": "5",
+          "level": 3,
+          "line": "Entertainment events",
+          "anchor": "Entertainment_events"
+        },
+        {
+          "index": "6",
+          "level": 3,
+          "line": "Exhibition events",
+          "anchor": "Exhibition_events"
+        },
+        {
+          "index": "7",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "PhuThoFutsal.jpg",
+        "2NE1_Galaxy_Stage_in_Phu_Tho_Indoor_Stadium,_August_2013.jpg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:PhuThoFutsal.jpg",
+          "fileName": "PhuThoFutsal.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:PhuThoFutsal.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/PhuThoFutsal.jpg/250px-PhuThoFutsal.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/PhuThoFutsal.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/PhuThoFutsal.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/PhuThoFutsal.jpg/500px-PhuThoFutsal.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 78,
+          "originalWidth": 3666,
+          "originalHeight": 1143,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Phú Thọ Arena during the 2017 AFC Futsal Club Championship"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Ph%C3%BA_Th%E1%BB%8D_Indoor_Stadium&revid=1364480927&groups=_12b6611ecf63453a8082cf39d7644af6812a0505&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Ph%C3%BA_Th%E1%BB%8D_Indoor_Stadium&revid=1364480927&groups=_12b6611ecf63453a8082cf39d7644af6812a0505&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Phú Thọ Arena"
+        },
+        {
+          "fileTitle": "File:2NE1 Galaxy Stage in Phu Tho Indoor Stadium, August 2013.jpg",
+          "fileName": "2NE1 Galaxy Stage in Phu Tho Indoor Stadium, August 2013.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:2NE1_Galaxy_Stage_in_Phu_Tho_Indoor_Stadium,_August_2013.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2NE1_Galaxy_Stage_in_Phu_Tho_Indoor_Stadium%2C_August_2013.jpg/250px-2NE1_Galaxy_Stage_in_Phu_Tho_Indoor_Stadium%2C_August_2013.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/2NE1_Galaxy_Stage_in_Phu_Tho_Indoor_Stadium%2C_August_2013.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/2NE1_Galaxy_Stage_in_Phu_Tho_Indoor_Stadium%2C_August_2013.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2NE1_Galaxy_Stage_in_Phu_Tho_Indoor_Stadium%2C_August_2013.jpg/500px-2NE1_Galaxy_Stage_in_Phu_Tho_Indoor_Stadium%2C_August_2013.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 69,
+          "originalWidth": 2880,
+          "originalHeight": 799,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Phú Thọ Arena during the 2NE1 Galaxy Stage – All or Nothing World Tour"
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 462,
+          "rowText": "Ho Chi Minh City\nPhú Thọ Indoor Stadium\n2003\n8,000",
+          "rowHtml": "<tr>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Ho_Chi_Minh_City\" title=\"Ho Chi Minh City\">Ho Chi Minh City</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D_Indoor_Stadium\" title=\"Phú Thọ Indoor Stadium\">Phú Thọ Indoor Stadium</a>\n</td>\n<td>2003\n</td>\n<td>8,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 454,
+              "cell": {
+                "text": "Vietnam",
+                "lines": [
+                  "Vietnam"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Vietnam",
+                    "title": "Vietnam",
+                    "wikiTitle": "Vietnam",
+                    "href": "https://en.wikipedia.org/wiki/Vietnam",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 462,
+              "cell": {
+                "text": "Ho Chi Minh City",
+                "lines": [
+                  "Ho Chi Minh City"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ho Chi Minh City",
+                    "title": "Ho Chi Minh City",
+                    "wikiTitle": "Ho Chi Minh City",
+                    "href": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 462,
+              "cell": {
+                "text": "Phú Thọ Indoor Stadium",
+                "lines": [
+                  "Phú Thọ Indoor Stadium"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Phú Thọ Indoor Stadium",
+                    "title": "Phú Thọ Indoor Stadium",
+                    "wikiTitle": "Phú Thọ Indoor Stadium",
+                    "href": "https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D_Indoor_Stadium",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 462,
+              "cell": {
+                "text": "2003",
+                "lines": [
+                  "2003"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 462,
+              "cell": {
+                "text": "8,000",
+                "lines": [
+                  "8,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 462,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Phú Thọ Indoor Stadium",
+            "lines": [
+              "Phú Thọ Indoor Stadium"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Phú Thọ Indoor Stadium",
+                "title": "Phú Thọ Indoor Stadium",
+                "wikiTitle": "Phú Thọ Indoor Stadium",
+                "href": "https://en.wikipedia.org/wiki/Ph%C3%BA_Th%E1%BB%8D_Indoor_Stadium",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:49.51Z"
+    },
+    {
+      "id": "wikipedia-page-64640970",
+      "pageId": 64640970,
+      "revisionId": null,
+      "title": "Quần Ngựa Sports Palace",
+      "displayTitle": "Quần Ngựa Sports Palace",
+      "url": "https://en.wikipedia.org/wiki/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace",
+      "wikidataItem": "Q10751152",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q10751152",
+      "aliases": [
+        "Quần Ngựa Sports Palace",
+        "Quần Ngựa Sports Place"
+      ],
+      "requestedTitles": [
+        "Quần Ngựa Sports Palace"
+      ],
+      "sourceLinkTexts": [
+        "Quần Ngựa Sports Palace"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 21.040417,
+        "longitude": 105.81472,
+        "raw": "21.040417; 105.81472"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Quần Ngựa Sports Place",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Cung thể thao tổng hợp Quần Ngựa",
+            "lines": [
+              "Cung thể thao tổng hợp Quần Ngựa"
+            ],
+            "html": "<td class=\"infobox-data\">Cung thể thao tổng hợp Quần Ngựa</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "30 Văn Cao Street",
+            "lines": [
+              "30 Văn Cao Street"
+            ],
+            "html": "<td class=\"infobox-data label\">30 Văn Cao Street<span data-plural=\"0\"></span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Ba Đình, Hanoi, Vietnam",
+            "lines": [
+              "Ba Đình, Hanoi, Vietnam"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Ba_%C4%90%C3%ACnh_District\" class=\"mw-redirect\" title=\"Ba Đình District\">Ba Đình</a>, <a href=\"https://en.wikipedia.org/wiki/Hanoi\" title=\"Hanoi\">Hanoi</a>, <a href=\"https://en.wikipedia.org/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>",
+            "links": [
+              {
+                "text": "Ba Đình",
+                "title": "Ba Đình District",
+                "wikiTitle": "Ba Đình District",
+                "href": "https://en.wikipedia.org/wiki/Ba_%C4%90%C3%ACnh_District",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Hanoi",
+                "title": "Hanoi",
+                "wikiTitle": "Hanoi",
+                "href": "https://en.wikipedia.org/wiki/Hanoi",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Vietnam",
+                "title": "Vietnam",
+                "wikiTitle": "Vietnam",
+                "href": "https://en.wikipedia.org/wiki/Vietnam",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "21°02′25.5″N 105°48′53″E﻿ / ﻿21.040417°N 105.81472°E﻿ / 21.040417; 105.81472",
+            "lines": [
+              "21°02′25.5″N 105°48′53″E﻿ / ﻿21.040417°N 105.81472°E﻿ / 21.040417; 105.81472"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace&amp;params=21_02_25.5_N_105_48_53_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">21°02′25.5″N</span> <span class=\"longitude\">105°48′53″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">21.040417°N 105.81472°E</span><span>﻿ / <span class=\"geo\">21.040417; 105.81472</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "21°02′25.5″N 105°48′53″E﻿ / ﻿21.040417°N 105.81472°E﻿ / 21.040417; 105.81472",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace&params=21_02_25.5_N_105_48_53_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Hanoi Department of Culture, Sports and Tourism",
+            "lines": [
+              "Hanoi Department of Culture, Sports and Tourism"
+            ],
+            "html": "<td class=\"infobox-data agent\">Hanoi Department of Culture, Sports and Tourism</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Ba Đình District People's Committee",
+            "lines": [
+              "Ba Đình District People's Committee"
+            ],
+            "html": "<td class=\"infobox-data agent\">Ba Đình District People's Committee</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "5,500",
+            "lines": [
+              "5,500"
+            ],
+            "html": "<td class=\"infobox-data\">5,500</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "group": null,
+            "text": "Palace of sports, Entertainment, Game show, Venues, Concerts Music & Liveshow",
+            "lines": [
+              "Palace of sports, Entertainment, Game show, Venues, Concerts Music & Liveshow"
+            ],
+            "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Palace_of_sports\" class=\"mw-redirect\" title=\"Palace of sports\">Palace of sports</a>, <a href=\"https://en.wikipedia.org/wiki/Entertainment\" title=\"Entertainment\">Entertainment</a>, <a href=\"https://en.wikipedia.org/wiki/Game_show\" title=\"Game show\">Game show</a>, <a href=\"https://en.wikipedia.org/wiki/Sport_venue\" class=\"mw-redirect\" title=\"Sport venue\">Venues</a>, <a href=\"https://en.wikipedia.org/wiki/Concerts\" class=\"mw-redirect\" title=\"Concerts\">Concerts</a> <a href=\"https://en.wikipedia.org/wiki/Music\" title=\"Music\">Music</a> &amp; <a href=\"https://en.wikipedia.org/w/index.php?title=Liveshow&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Liveshow (page does not exist)\">Liveshow</a></td>",
+            "links": [
+              {
+                "text": "Palace of sports",
+                "title": "Palace of sports",
+                "wikiTitle": "Palace of sports",
+                "href": "https://en.wikipedia.org/wiki/Palace_of_sports",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Entertainment",
+                "title": "Entertainment",
+                "wikiTitle": "Entertainment",
+                "href": "https://en.wikipedia.org/wiki/Entertainment",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Game show",
+                "title": "Game show",
+                "wikiTitle": "Game show",
+                "href": "https://en.wikipedia.org/wiki/Game_show",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Venues",
+                "title": "Sport venue",
+                "wikiTitle": "Sport venue",
+                "href": "https://en.wikipedia.org/wiki/Sport_venue",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Concerts",
+                "title": "Concerts",
+                "wikiTitle": "Concerts",
+                "href": "https://en.wikipedia.org/wiki/Concerts",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Music",
+                "title": "Music",
+                "wikiTitle": "Music",
+                "href": "https://en.wikipedia.org/wiki/Music",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Liveshow",
+                "title": "Liveshow (page does not exist)",
+                "wikiTitle": "Liveshow",
+                "href": "https://en.wikipedia.org/w/index.php?title=Liveshow&action=edit&redlink=1",
+                "blueArticle": false,
+                "redLink": true,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Field size",
+            "key": "field_size",
+            "group": null,
+            "text": "24 m × 48 m (79 ft × 157 ft)",
+            "lines": [
+              "24 m × 48 m (79 ft × 157 ft)"
+            ],
+            "html": "<td class=\"infobox-data\">24&nbsp;m ×&nbsp;48&nbsp;m (79&nbsp;ft ×&nbsp;157&nbsp;ft)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "24 April 2003 (2003-04-24)",
+            "lines": [
+              "24 April 2003 (2003-04-24)"
+            ],
+            "html": "<td class=\"infobox-data\">24&nbsp;April&nbsp;2003<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2003-04-24</span>)</span></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "100 billion VND\n(211 billion in 2020 VND)\n(9.13 million in 2020 USD)",
+            "lines": [
+              "100 billion VND",
+              "(211 billion in 2020 VND)",
+              "(9.13 million in 2020 USD)"
+            ],
+            "html": "<td class=\"infobox-data\">100 billion <a href=\"https://en.wikipedia.org/wiki/VND\" class=\"mw-redirect\" title=\"VND\">VND</a><br><small>(211 billion in 2020 VND)</small><br><small>(9.13 million in 2020 <a href=\"https://en.wikipedia.org/wiki/USD\" class=\"mw-redirect\" title=\"USD\">USD</a>)</small></td>",
+            "links": [
+              {
+                "text": "VND",
+                "title": "VND",
+                "wikiTitle": "VND",
+                "href": "https://en.wikipedia.org/wiki/VND",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "USD",
+                "title": "USD",
+                "wikiTitle": "USD",
+                "href": "https://en.wikipedia.org/wiki/USD",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Chế Đình Hoàng",
+            "lines": [
+              "Chế Đình Hoàng"
+            ],
+            "html": "<td class=\"infobox-data\">Chế Đình Hoàng</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Builder",
+            "key": "builder",
+            "group": "Construction",
+            "text": "Hanoi Civil Construction Investment, JSC",
+            "lines": [
+              "Hanoi Civil Construction Investment, JSC"
+            ],
+            "html": "<td class=\"infobox-data\">Hanoi Civil Construction Investment, JSC</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Cung thể thao tổng hợp Quần Ngựa",
+              "lines": [
+                "Cung thể thao tổng hợp Quần Ngựa"
+              ],
+              "html": "<td class=\"infobox-data\">Cung thể thao tổng hợp Quần Ngựa</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "30 Văn Cao Street",
+              "lines": [
+                "30 Văn Cao Street"
+              ],
+              "html": "<td class=\"infobox-data label\">30 Văn Cao Street<span data-plural=\"0\"></span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Ba Đình, Hanoi, Vietnam",
+              "lines": [
+                "Ba Đình, Hanoi, Vietnam"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Ba_%C4%90%C3%ACnh_District\" class=\"mw-redirect\" title=\"Ba Đình District\">Ba Đình</a>, <a href=\"https://en.wikipedia.org/wiki/Hanoi\" title=\"Hanoi\">Hanoi</a>, <a href=\"https://en.wikipedia.org/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td>",
+              "links": [
+                {
+                  "text": "Ba Đình",
+                  "title": "Ba Đình District",
+                  "wikiTitle": "Ba Đình District",
+                  "href": "https://en.wikipedia.org/wiki/Ba_%C4%90%C3%ACnh_District",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Hanoi",
+                  "title": "Hanoi",
+                  "wikiTitle": "Hanoi",
+                  "href": "https://en.wikipedia.org/wiki/Hanoi",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Vietnam",
+                  "title": "Vietnam",
+                  "wikiTitle": "Vietnam",
+                  "href": "https://en.wikipedia.org/wiki/Vietnam",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "21°02′25.5″N 105°48′53″E﻿ / ﻿21.040417°N 105.81472°E﻿ / 21.040417; 105.81472",
+              "lines": [
+                "21°02′25.5″N 105°48′53″E﻿ / ﻿21.040417°N 105.81472°E﻿ / 21.040417; 105.81472"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace&amp;params=21_02_25.5_N_105_48_53_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">21°02′25.5″N</span> <span class=\"longitude\">105°48′53″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">21.040417°N 105.81472°E</span><span>﻿ / <span class=\"geo\">21.040417; 105.81472</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "21°02′25.5″N 105°48′53″E﻿ / ﻿21.040417°N 105.81472°E﻿ / 21.040417; 105.81472",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace&params=21_02_25.5_N_105_48_53_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Hanoi Department of Culture, Sports and Tourism",
+              "lines": [
+                "Hanoi Department of Culture, Sports and Tourism"
+              ],
+              "html": "<td class=\"infobox-data agent\">Hanoi Department of Culture, Sports and Tourism</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Ba Đình District People's Committee",
+              "lines": [
+                "Ba Đình District People's Committee"
+              ],
+              "html": "<td class=\"infobox-data agent\">Ba Đình District People's Committee</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "5,500",
+              "lines": [
+                "5,500"
+              ],
+              "html": "<td class=\"infobox-data\">5,500</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "type": [
+            {
+              "label": "Type",
+              "key": "type",
+              "group": null,
+              "text": "Palace of sports, Entertainment, Game show, Venues, Concerts Music & Liveshow",
+              "lines": [
+                "Palace of sports, Entertainment, Game show, Venues, Concerts Music & Liveshow"
+              ],
+              "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Palace_of_sports\" class=\"mw-redirect\" title=\"Palace of sports\">Palace of sports</a>, <a href=\"https://en.wikipedia.org/wiki/Entertainment\" title=\"Entertainment\">Entertainment</a>, <a href=\"https://en.wikipedia.org/wiki/Game_show\" title=\"Game show\">Game show</a>, <a href=\"https://en.wikipedia.org/wiki/Sport_venue\" class=\"mw-redirect\" title=\"Sport venue\">Venues</a>, <a href=\"https://en.wikipedia.org/wiki/Concerts\" class=\"mw-redirect\" title=\"Concerts\">Concerts</a> <a href=\"https://en.wikipedia.org/wiki/Music\" title=\"Music\">Music</a> &amp; <a href=\"https://en.wikipedia.org/w/index.php?title=Liveshow&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Liveshow (page does not exist)\">Liveshow</a></td>",
+              "links": [
+                {
+                  "text": "Palace of sports",
+                  "title": "Palace of sports",
+                  "wikiTitle": "Palace of sports",
+                  "href": "https://en.wikipedia.org/wiki/Palace_of_sports",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Entertainment",
+                  "title": "Entertainment",
+                  "wikiTitle": "Entertainment",
+                  "href": "https://en.wikipedia.org/wiki/Entertainment",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Game show",
+                  "title": "Game show",
+                  "wikiTitle": "Game show",
+                  "href": "https://en.wikipedia.org/wiki/Game_show",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Venues",
+                  "title": "Sport venue",
+                  "wikiTitle": "Sport venue",
+                  "href": "https://en.wikipedia.org/wiki/Sport_venue",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Concerts",
+                  "title": "Concerts",
+                  "wikiTitle": "Concerts",
+                  "href": "https://en.wikipedia.org/wiki/Concerts",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Music",
+                  "title": "Music",
+                  "wikiTitle": "Music",
+                  "href": "https://en.wikipedia.org/wiki/Music",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Liveshow",
+                  "title": "Liveshow (page does not exist)",
+                  "wikiTitle": "Liveshow",
+                  "href": "https://en.wikipedia.org/w/index.php?title=Liveshow&action=edit&redlink=1",
+                  "blueArticle": false,
+                  "redLink": true,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "field_size": [
+            {
+              "label": "Field size",
+              "key": "field_size",
+              "group": null,
+              "text": "24 m × 48 m (79 ft × 157 ft)",
+              "lines": [
+                "24 m × 48 m (79 ft × 157 ft)"
+              ],
+              "html": "<td class=\"infobox-data\">24&nbsp;m ×&nbsp;48&nbsp;m (79&nbsp;ft ×&nbsp;157&nbsp;ft)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "24 April 2003 (2003-04-24)",
+              "lines": [
+                "24 April 2003 (2003-04-24)"
+              ],
+              "html": "<td class=\"infobox-data\">24&nbsp;April&nbsp;2003<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2003-04-24</span>)</span></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "100 billion VND\n(211 billion in 2020 VND)\n(9.13 million in 2020 USD)",
+              "lines": [
+                "100 billion VND",
+                "(211 billion in 2020 VND)",
+                "(9.13 million in 2020 USD)"
+              ],
+              "html": "<td class=\"infobox-data\">100 billion <a href=\"https://en.wikipedia.org/wiki/VND\" class=\"mw-redirect\" title=\"VND\">VND</a><br><small>(211 billion in 2020 VND)</small><br><small>(9.13 million in 2020 <a href=\"https://en.wikipedia.org/wiki/USD\" class=\"mw-redirect\" title=\"USD\">USD</a>)</small></td>",
+              "links": [
+                {
+                  "text": "VND",
+                  "title": "VND",
+                  "wikiTitle": "VND",
+                  "href": "https://en.wikipedia.org/wiki/VND",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "USD",
+                  "title": "USD",
+                  "wikiTitle": "USD",
+                  "href": "https://en.wikipedia.org/wiki/USD",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Chế Đình Hoàng",
+              "lines": [
+                "Chế Đình Hoàng"
+              ],
+              "html": "<td class=\"infobox-data\">Chế Đình Hoàng</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "builder": [
+            {
+              "label": "Builder",
+              "key": "builder",
+              "group": "Construction",
+              "text": "Hanoi Civil Construction Investment, JSC",
+              "lines": [
+                "Hanoi Civil Construction Investment, JSC"
+              ],
+              "html": "<td class=\"infobox-data\">Hanoi Civil Construction Investment, JSC</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Cung thể thao tổng hợp Quần Ngựa"
+          ],
+          "address": [
+            "30 Văn Cao Street"
+          ],
+          "location": [
+            "Ba Đình, Hanoi, Vietnam"
+          ],
+          "coordinates": [
+            "21°02′25.5″N 105°48′53″E﻿ / ﻿21.040417°N 105.81472°E﻿ / 21.040417; 105.81472"
+          ],
+          "owner": [
+            "Hanoi Department of Culture, Sports and Tourism"
+          ],
+          "operator": [
+            "Ba Đình District People's Committee"
+          ],
+          "capacity": [
+            "5,500"
+          ],
+          "type": [
+            "Palace of sports, Entertainment, Game show, Venues, Concerts Music & Liveshow"
+          ],
+          "field_size": [
+            "24 m × 48 m (79 ft × 157 ft)"
+          ],
+          "opened": [
+            "24 April 2003 (2003-04-24)"
+          ],
+          "cost": [
+            "100 billion VND\n(211 billion in 2020 VND)\n(9.13 million in 2020 USD)"
+          ],
+          "architect": [
+            "Chế Đình Hoàng"
+          ],
+          "builder": [
+            "Hanoi Civil Construction Investment, JSC"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "5,500"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Quần Ngựa Palace of Sports.jpg",
+            "fileName": "Quần Ngựa Palace of Sports.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg/250px-Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg/500px-Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 188,
+            "originalWidth": 3648,
+            "originalHeight": 2736,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace&revid=1329173082&groups=_53d0a8ad10f5321ce8dd4a1b079bed6a468d4f54&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace&revid=1329173082&groups=_53d0a8ad10f5321ce8dd4a1b079bed6a468d4f54&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Quần Ngựa Sports Place"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Quần Ngựa Sports Place</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\" lang=\"vi\">Cung thể thao Quần Ngựa</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg/250px-Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg\" width=\"250\" height=\"188\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg/500px-Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg 2x\" data-file-width=\"3648\" data-file-height=\"2736\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_53d0a8ad10f5321ce8dd4a1b079bed6a468d4f54&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace&amp;revid=1329173082&amp;groups=_53d0a8ad10f5321ce8dd4a1b079bed6a468d4f54&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace&amp;revid=1329173082&amp;groups=_53d0a8ad10f5321ce8dd4a1b079bed6a468d4f54&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Quần Ngựa Sports Place</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Cung thể thao tổng hợp Quần Ngựa</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\">30 Văn Cao Street<span data-plural=\"0\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Ba_%C4%90%C3%ACnh_District\" class=\"mw-redirect\" title=\"Ba Đình District\">Ba Đình</a>, <a href=\"https://en.wikipedia.org/wiki/Hanoi\" title=\"Hanoi\">Hanoi</a>, <a href=\"https://en.wikipedia.org/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace&amp;params=21_02_25.5_N_105_48_53_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">21°02′25.5″N</span> <span class=\"longitude\">105°48′53″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">21.040417°N 105.81472°E</span><span>﻿ / <span class=\"geo\">21.040417; 105.81472</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Hanoi Department of Culture, Sports and Tourism</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">Ba Đình District People's Committee</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">5,500</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Type</th><td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Palace_of_sports\" class=\"mw-redirect\" title=\"Palace of sports\">Palace of sports</a>, <a href=\"https://en.wikipedia.org/wiki/Entertainment\" title=\"Entertainment\">Entertainment</a>, <a href=\"https://en.wikipedia.org/wiki/Game_show\" title=\"Game show\">Game show</a>, <a href=\"https://en.wikipedia.org/wiki/Sport_venue\" class=\"mw-redirect\" title=\"Sport venue\">Venues</a>, <a href=\"https://en.wikipedia.org/wiki/Concerts\" class=\"mw-redirect\" title=\"Concerts\">Concerts</a> <a href=\"https://en.wikipedia.org/wiki/Music\" title=\"Music\">Music</a> &amp; <a href=\"https://en.wikipedia.org/w/index.php?title=Liveshow&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Liveshow (page does not exist)\">Liveshow</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Field size</div></th><td class=\"infobox-data\">24&nbsp;m ×&nbsp;48&nbsp;m (79&nbsp;ft ×&nbsp;157&nbsp;ft)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">24&nbsp;April&nbsp;2003<span>&nbsp;(<span class=\"bday dtstart published updated itvstart\">2003-04-24</span>)</span></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">100 billion <a href=\"https://en.wikipedia.org/wiki/VND\" class=\"mw-redirect\" title=\"VND\">VND</a><br><small>(211 billion in 2020 VND)</small><br><small>(9.13 million in 2020 <a href=\"https://en.wikipedia.org/wiki/USD\" class=\"mw-redirect\" title=\"USD\">USD</a>)</small></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\">Chế Đình Hoàng</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Builder</th><td class=\"infobox-data\">Hanoi Civil Construction Investment, JSC</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Vietnamese-language_sources_(vi)",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Building_and_structure_articles_needing_translation_from_Vietnamese_Wikipedia",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Articles_containing_Vietnamese-language_text",
+        "2003_establishments_in_Vietnam",
+        "Sport_in_Hanoi",
+        "Sports_venues_completed_in_2003",
+        "Buildings_and_structures_in_Hanoi",
+        "Stadiums_of_the_SEA_Games",
+        "Gymnastics_venues",
+        "2003_SEA_Games",
+        "Indoor_arenas_in_Vietnam",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace&params=21_02_25.5_N_105_48_53_E_type:landmark",
+        "https://baodautu.vn/muc-so-thi-truong-dua-ngua-o-ha-noi-tu-hon-100-nam-truoc-d18904.html",
+        "https://luatvietnam.vn/van-hoa/quyet-dinh-4808-qd-ubnd-uy-ban-nhan-dan-tp-ha-noi-98629-d2.html",
+        "https://deepl.com",
+        "https://translate.google.com/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Design",
+          "anchor": "Design"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Usage",
+          "anchor": "Usage"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Japanese_A_to_English_A.svg",
+        "Quần_Ngựa_Palace_of_Sports.jpg",
+        "Quần_Ngựa_Sports_Palace,_Sea_Games_2021.jpg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Japanese A to English A.svg",
+          "fileName": "Japanese A to English A.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Japanese_A_to_English_A.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Japanese_A_to_English_A.svg/60px-Japanese_A_to_English_A.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Japanese_A_to_English_A.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Japanese_A_to_English_A.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Japanese_A_to_English_A.svg/120px-Japanese_A_to_English_A.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 16,
+          "originalWidth": 475,
+          "originalHeight": 150,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Quần Ngựa Palace of Sports.jpg",
+          "fileName": "Quần Ngựa Palace of Sports.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg/250px-Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg/500px-Qu%E1%BA%A7n_Ng%E1%BB%B1a_Palace_of_Sports.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 3648,
+          "originalHeight": 2736,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace&revid=1329173082&groups=_53d0a8ad10f5321ce8dd4a1b079bed6a468d4f54&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace&revid=1329173082&groups=_53d0a8ad10f5321ce8dd4a1b079bed6a468d4f54&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Quần Ngựa Sports Place"
+        },
+        {
+          "fileTitle": "File:Quần Ngựa Sports Palace, Sea Games 2021.jpg",
+          "fileName": "Quần Ngựa Sports Palace, Sea Games 2021.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace,_Sea_Games_2021.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace%2C_Sea_Games_2021.jpg/250px-Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace%2C_Sea_Games_2021.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace%2C_Sea_Games_2021.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace%2C_Sea_Games_2021.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace%2C_Sea_Games_2021.jpg/500px-Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace%2C_Sea_Games_2021.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 3264,
+          "originalHeight": 2448,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Quần Ngựa Sports Palace during 2021 Southeast Asian Games"
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 459,
+          "rowText": "Hanoi\nQuần Ngựa Sports Palace\n2003\n5,500",
+          "rowHtml": "<tr>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Hanoi\" title=\"Hanoi\">Hanoi</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace\" title=\"Quần Ngựa Sports Palace\">Quần Ngựa Sports Palace</a>\n</td>\n<td>2003\n</td>\n<td>5,500\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 454,
+              "cell": {
+                "text": "Vietnam",
+                "lines": [
+                  "Vietnam"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Vietnam",
+                    "title": "Vietnam",
+                    "wikiTitle": "Vietnam",
+                    "href": "https://en.wikipedia.org/wiki/Vietnam",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 459,
+              "cell": {
+                "text": "Hanoi",
+                "lines": [
+                  "Hanoi"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Hanoi",
+                    "title": "Hanoi",
+                    "wikiTitle": "Hanoi",
+                    "href": "https://en.wikipedia.org/wiki/Hanoi",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 459,
+              "cell": {
+                "text": "Quần Ngựa Sports Palace",
+                "lines": [
+                  "Quần Ngựa Sports Palace"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Quần Ngựa Sports Palace",
+                    "title": "Quần Ngựa Sports Palace",
+                    "wikiTitle": "Quần Ngựa Sports Palace",
+                    "href": "https://en.wikipedia.org/wiki/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 459,
+              "cell": {
+                "text": "2003",
+                "lines": [
+                  "2003"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 459,
+              "cell": {
+                "text": "5,500",
+                "lines": [
+                  "5,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 459,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Quần Ngựa Sports Palace",
+            "lines": [
+              "Quần Ngựa Sports Palace"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Quần Ngựa Sports Palace",
+                "title": "Quần Ngựa Sports Palace",
+                "wikiTitle": "Quần Ngựa Sports Palace",
+                "href": "https://en.wikipedia.org/wiki/Qu%E1%BA%A7n_Ng%E1%BB%B1a_Sports_Palace",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:49.521Z"
+    },
+    {
+      "id": "wikipedia-page-38088353",
+      "pageId": 38088353,
+      "revisionId": null,
+      "title": "Tân Bình Gymnasium",
+      "displayTitle": "Tân Bình Gymnasium",
+      "url": "https://en.wikipedia.org/wiki/T%C3%A2n_B%C3%ACnh_Gymnasium",
+      "wikidataItem": "Q7682018",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7682018",
+      "aliases": [
+        "Tân Bình Gymnasium"
+      ],
+      "requestedTitles": [
+        "Tân Bình Gymnasium"
+      ],
+      "sourceLinkTexts": [
+        "Tân Bình Gymnasium"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/T%C3%A2n_B%C3%ACnh_Gymnasium"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": null,
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Tân Bình Gymnasium",
+        "groups": [
+          "Construction",
+          "Tenants",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Tân Bình Cultural and Sports Center",
+            "lines": [
+              "Tân Bình Cultural and Sports Center"
+            ],
+            "html": "<td class=\"infobox-data\">Tân Bình Cultural and Sports Center</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Address",
+            "key": "address",
+            "group": null,
+            "text": "448 Hoàng Văn Thụ Road (Gate 1) and 18 Xuân Hồng Street (Gate 2), Tân Sơn Nhất,\nHo Chi Minh City\nVietnam",
+            "lines": [
+              "448 Hoàng Văn Thụ Road (Gate 1) and 18 Xuân Hồng Street (Gate 2), Tân Sơn Nhất,",
+              "Ho Chi Minh City",
+              "Vietnam"
+            ],
+            "html": "<td class=\"infobox-data label\">448 Hoàng Văn Thụ Road (<i>Gate 1</i>) and 18 Xuân Hồng Street (<i>Gate 2</i>), <a href=\"https://en.wikipedia.org/wiki/T%C3%A2n_S%C6%A1n_Nh%E1%BA%A5t,_Ho_Chi_Minh_City\" title=\"Tân Sơn Nhất, Ho Chi Minh City\">Tân Sơn Nhất</a>,<br><a href=\"https://en.wikipedia.org/wiki/Ho_Chi_Minh_City\" title=\"Ho Chi Minh City\">Ho Chi Minh City</a><br><a href=\"https://en.wikipedia.org/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a><span data-plural=\"1\"></span></td>",
+            "links": [
+              {
+                "text": "Tân Sơn Nhất",
+                "title": "Tân Sơn Nhất, Ho Chi Minh City",
+                "wikiTitle": "Tân Sơn Nhất, Ho Chi Minh City",
+                "href": "https://en.wikipedia.org/wiki/T%C3%A2n_S%C6%A1n_Nh%E1%BA%A5t,_Ho_Chi_Minh_City",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Ho Chi Minh City",
+                "title": "Ho Chi Minh City",
+                "wikiTitle": "Ho Chi Minh City",
+                "href": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Vietnam",
+                "title": "Vietnam",
+                "wikiTitle": "Vietnam",
+                "href": "https://en.wikipedia.org/wiki/Vietnam",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Bảy Hiền Intersection, Tân Bình District",
+            "lines": [
+              "Bảy Hiền Intersection, Tân Bình District"
+            ],
+            "html": "<td class=\"infobox-data label\">Bảy Hiền Intersection, <a href=\"https://en.wikipedia.org/wiki/T%C3%A2n_B%C3%ACnh_District\" class=\"mw-redirect\" title=\"Tân Bình District\">Tân Bình District</a></td>",
+            "links": [
+              {
+                "text": "Tân Bình District",
+                "title": "Tân Bình District",
+                "wikiTitle": "Tân Bình District",
+                "href": "https://en.wikipedia.org/wiki/T%C3%A2n_B%C3%ACnh_District",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Tân Bình Cultural and Sports Center",
+            "lines": [
+              "Tân Bình Cultural and Sports Center"
+            ],
+            "html": "<td class=\"infobox-data agent\">Tân Bình Cultural and Sports Center</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "2,068",
+            "lines": [
+              "2,068"
+            ],
+            "html": "<td class=\"infobox-data\">2,068</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-Intro-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-Intro-1"
+              }
+            ]
+          },
+          {
+            "label": "Public transit",
+            "key": "public_transit",
+            "group": null,
+            "text": "L2 L5 Bảy Hiền station (under construction)",
+            "lines": [
+              "L2 L5 Bảy Hiền station (under construction)"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Line_2_(Ho_Chi_Minh_City_Metro)\" title=\"Line 2 (Ho Chi Minh City Metro)\"><span><span>L2</span></span></a> <a href=\"https://en.wikipedia.org/w/index.php?title=Line_5_(Ho_Chi_Minh_City_Metro)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Line 5 (Ho Chi Minh City Metro) (page does not exist)\"><span><span>L5</span></span></a> <a href=\"https://en.wikipedia.org/wiki/B%E1%BA%A3y_Hi%E1%BB%81n_station\" class=\"mw-redirect\" title=\"Bảy Hiền station\">Bảy Hiền station</a> (<i>under construction</i>)</td>",
+            "links": [
+              {
+                "text": "L2",
+                "title": "Line 2 (Ho Chi Minh City Metro)",
+                "wikiTitle": "Line 2 (Ho Chi Minh City Metro)",
+                "href": "https://en.wikipedia.org/wiki/Line_2_(Ho_Chi_Minh_City_Metro)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "L5",
+                "title": "Line 5 (Ho Chi Minh City Metro) (page does not exist)",
+                "wikiTitle": "Line 5 (Ho Chi Minh City Metro)",
+                "href": "https://en.wikipedia.org/w/index.php?title=Line_5_(Ho_Chi_Minh_City_Metro)&action=edit&redlink=1",
+                "blueArticle": false,
+                "redLink": true,
+                "external": false
+              },
+              {
+                "text": "Bảy Hiền station",
+                "title": "Bảy Hiền station",
+                "wikiTitle": "Bảy Hiền station",
+                "href": "https://en.wikipedia.org/wiki/B%E1%BA%A3y_Hi%E1%BB%81n_station",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "February 1997",
+            "lines": [
+              "February 1997"
+            ],
+            "html": "<td class=\"infobox-data\">February 1997</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-Intro-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-Intro-1"
+              }
+            ]
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Saigon Heat (2012-2013)\nCantho Catfish (2022-present)",
+            "lines": [
+              "Saigon Heat (2012-2013)",
+              "Cantho Catfish (2022-present)"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Saigon_Heat\" title=\"Saigon Heat\">Saigon Heat</a> (2012-2013) <br> <a href=\"https://en.wikipedia.org/wiki/Cantho_Catfish\" title=\"Cantho Catfish\">Cantho Catfish</a> (2022-present)</td>",
+            "links": [
+              {
+                "text": "Saigon Heat",
+                "title": "Saigon Heat",
+                "wikiTitle": "Saigon Heat",
+                "href": "https://en.wikipedia.org/wiki/Saigon_Heat",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Cantho Catfish",
+                "title": "Cantho Catfish",
+                "wikiTitle": "Cantho Catfish",
+                "href": "https://en.wikipedia.org/wiki/Cantho_Catfish",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "trungtamvanhoathethaotanbinh.vn",
+            "lines": [
+              "trungtamvanhoathethaotanbinh.vn"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://trungtamvanhoathethaotanbinh.vn/\">trungtamvanhoathethaotanbinh<wbr>.vn</a></span></td>",
+            "links": [
+              {
+                "text": "trungtamvanhoathethaotanbinh.vn",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://trungtamvanhoathethaotanbinh.vn/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Tân Bình Cultural and Sports Center",
+              "lines": [
+                "Tân Bình Cultural and Sports Center"
+              ],
+              "html": "<td class=\"infobox-data\">Tân Bình Cultural and Sports Center</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "address": [
+            {
+              "label": "Address",
+              "key": "address",
+              "group": null,
+              "text": "448 Hoàng Văn Thụ Road (Gate 1) and 18 Xuân Hồng Street (Gate 2), Tân Sơn Nhất,\nHo Chi Minh City\nVietnam",
+              "lines": [
+                "448 Hoàng Văn Thụ Road (Gate 1) and 18 Xuân Hồng Street (Gate 2), Tân Sơn Nhất,",
+                "Ho Chi Minh City",
+                "Vietnam"
+              ],
+              "html": "<td class=\"infobox-data label\">448 Hoàng Văn Thụ Road (<i>Gate 1</i>) and 18 Xuân Hồng Street (<i>Gate 2</i>), <a href=\"https://en.wikipedia.org/wiki/T%C3%A2n_S%C6%A1n_Nh%E1%BA%A5t,_Ho_Chi_Minh_City\" title=\"Tân Sơn Nhất, Ho Chi Minh City\">Tân Sơn Nhất</a>,<br><a href=\"https://en.wikipedia.org/wiki/Ho_Chi_Minh_City\" title=\"Ho Chi Minh City\">Ho Chi Minh City</a><br><a href=\"https://en.wikipedia.org/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a><span data-plural=\"1\"></span></td>",
+              "links": [
+                {
+                  "text": "Tân Sơn Nhất",
+                  "title": "Tân Sơn Nhất, Ho Chi Minh City",
+                  "wikiTitle": "Tân Sơn Nhất, Ho Chi Minh City",
+                  "href": "https://en.wikipedia.org/wiki/T%C3%A2n_S%C6%A1n_Nh%E1%BA%A5t,_Ho_Chi_Minh_City",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Ho Chi Minh City",
+                  "title": "Ho Chi Minh City",
+                  "wikiTitle": "Ho Chi Minh City",
+                  "href": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Vietnam",
+                  "title": "Vietnam",
+                  "wikiTitle": "Vietnam",
+                  "href": "https://en.wikipedia.org/wiki/Vietnam",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Bảy Hiền Intersection, Tân Bình District",
+              "lines": [
+                "Bảy Hiền Intersection, Tân Bình District"
+              ],
+              "html": "<td class=\"infobox-data label\">Bảy Hiền Intersection, <a href=\"https://en.wikipedia.org/wiki/T%C3%A2n_B%C3%ACnh_District\" class=\"mw-redirect\" title=\"Tân Bình District\">Tân Bình District</a></td>",
+              "links": [
+                {
+                  "text": "Tân Bình District",
+                  "title": "Tân Bình District",
+                  "wikiTitle": "Tân Bình District",
+                  "href": "https://en.wikipedia.org/wiki/T%C3%A2n_B%C3%ACnh_District",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Tân Bình Cultural and Sports Center",
+              "lines": [
+                "Tân Bình Cultural and Sports Center"
+              ],
+              "html": "<td class=\"infobox-data agent\">Tân Bình Cultural and Sports Center</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "2,068",
+              "lines": [
+                "2,068"
+              ],
+              "html": "<td class=\"infobox-data\">2,068</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-Intro-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-Intro-1"
+                }
+              ]
+            }
+          ],
+          "public_transit": [
+            {
+              "label": "Public transit",
+              "key": "public_transit",
+              "group": null,
+              "text": "L2 L5 Bảy Hiền station (under construction)",
+              "lines": [
+                "L2 L5 Bảy Hiền station (under construction)"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Line_2_(Ho_Chi_Minh_City_Metro)\" title=\"Line 2 (Ho Chi Minh City Metro)\"><span><span>L2</span></span></a> <a href=\"https://en.wikipedia.org/w/index.php?title=Line_5_(Ho_Chi_Minh_City_Metro)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Line 5 (Ho Chi Minh City Metro) (page does not exist)\"><span><span>L5</span></span></a> <a href=\"https://en.wikipedia.org/wiki/B%E1%BA%A3y_Hi%E1%BB%81n_station\" class=\"mw-redirect\" title=\"Bảy Hiền station\">Bảy Hiền station</a> (<i>under construction</i>)</td>",
+              "links": [
+                {
+                  "text": "L2",
+                  "title": "Line 2 (Ho Chi Minh City Metro)",
+                  "wikiTitle": "Line 2 (Ho Chi Minh City Metro)",
+                  "href": "https://en.wikipedia.org/wiki/Line_2_(Ho_Chi_Minh_City_Metro)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "L5",
+                  "title": "Line 5 (Ho Chi Minh City Metro) (page does not exist)",
+                  "wikiTitle": "Line 5 (Ho Chi Minh City Metro)",
+                  "href": "https://en.wikipedia.org/w/index.php?title=Line_5_(Ho_Chi_Minh_City_Metro)&action=edit&redlink=1",
+                  "blueArticle": false,
+                  "redLink": true,
+                  "external": false
+                },
+                {
+                  "text": "Bảy Hiền station",
+                  "title": "Bảy Hiền station",
+                  "wikiTitle": "Bảy Hiền station",
+                  "href": "https://en.wikipedia.org/wiki/B%E1%BA%A3y_Hi%E1%BB%81n_station",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "February 1997",
+              "lines": [
+                "February 1997"
+              ],
+              "html": "<td class=\"infobox-data\">February 1997</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-Intro-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-Intro-1"
+                }
+              ]
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Saigon Heat (2012-2013)\nCantho Catfish (2022-present)",
+              "lines": [
+                "Saigon Heat (2012-2013)",
+                "Cantho Catfish (2022-present)"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Saigon_Heat\" title=\"Saigon Heat\">Saigon Heat</a> (2012-2013) <br> <a href=\"https://en.wikipedia.org/wiki/Cantho_Catfish\" title=\"Cantho Catfish\">Cantho Catfish</a> (2022-present)</td>",
+              "links": [
+                {
+                  "text": "Saigon Heat",
+                  "title": "Saigon Heat",
+                  "wikiTitle": "Saigon Heat",
+                  "href": "https://en.wikipedia.org/wiki/Saigon_Heat",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Cantho Catfish",
+                  "title": "Cantho Catfish",
+                  "wikiTitle": "Cantho Catfish",
+                  "href": "https://en.wikipedia.org/wiki/Cantho_Catfish",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "trungtamvanhoathethaotanbinh.vn",
+              "lines": [
+                "trungtamvanhoathethaotanbinh.vn"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://trungtamvanhoathethaotanbinh.vn/\">trungtamvanhoathethaotanbinh<wbr>.vn</a></span></td>",
+              "links": [
+                {
+                  "text": "trungtamvanhoathethaotanbinh.vn",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://trungtamvanhoathethaotanbinh.vn/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Tân Bình Cultural and Sports Center"
+          ],
+          "address": [
+            "448 Hoàng Văn Thụ Road (Gate 1) and 18 Xuân Hồng Street (Gate 2), Tân Sơn Nhất,\nHo Chi Minh City\nVietnam"
+          ],
+          "location": [
+            "Bảy Hiền Intersection, Tân Bình District"
+          ],
+          "operator": [
+            "Tân Bình Cultural and Sports Center"
+          ],
+          "capacity": [
+            "2,068"
+          ],
+          "public_transit": [
+            "L2 L5 Bảy Hiền station (under construction)"
+          ],
+          "opened": [
+            "February 1997"
+          ],
+          "tenants": [
+            "Saigon Heat (2012-2013)\nCantho Catfish (2022-present)"
+          ],
+          "website": [
+            "trungtamvanhoathethaotanbinh.vn"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "2,068"
+        ],
+        "tenants": [
+          "Saigon Heat (2012-2013)",
+          "Cantho Catfish (2022-present)"
+        ],
+        "websites": [
+          "http://trungtamvanhoathethaotanbinh.vn/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:Tan Binh Gymnasium.jpg",
+            "fileName": "Tan Binh Gymnasium.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Tan_Binh_Gymnasium.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tan_Binh_Gymnasium.jpg/250px-Tan_Binh_Gymnasium.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tan_Binh_Gymnasium.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Tan_Binh_Gymnasium.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tan_Binh_Gymnasium.jpg/500px-Tan_Binh_Gymnasium.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 100,
+            "originalWidth": 2567,
+            "originalHeight": 1031,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=T%C3%A2n_B%C3%ACnh_Gymnasium&groups=_016dc9a01720c167be89ffa5a1dd1fbf7b0a2d7e&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=T%C3%A2n_B%C3%ACnh_Gymnasium&groups=_016dc9a01720c167be89ffa5a1dd1fbf7b0a2d7e&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Tân Bình Gymnasium"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Tân Bình Gymnasium</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\" lang=\"vi\">Trung Tâm Văn hóa Thể thao Tân Bình, Nhà Thi đấu Tân Bình</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Tan_Binh_Gymnasium.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tan_Binh_Gymnasium.jpg/250px-Tan_Binh_Gymnasium.jpg\" width=\"250\" height=\"100\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tan_Binh_Gymnasium.jpg/500px-Tan_Binh_Gymnasium.jpg 2x\" data-file-width=\"2567\" data-file-height=\"1031\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_016dc9a01720c167be89ffa5a1dd1fbf7b0a2d7e&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=T%C3%A2n_B%C3%ACnh_Gymnasium&amp;groups=_016dc9a01720c167be89ffa5a1dd1fbf7b0a2d7e&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=T%C3%A2n_B%C3%ACnh_Gymnasium&amp;groups=_016dc9a01720c167be89ffa5a1dd1fbf7b0a2d7e&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Tân Bình Gymnasium</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Tân Bình Cultural and Sports Center</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Address</th><td class=\"infobox-data label\">448 Hoàng Văn Thụ Road (<i>Gate 1</i>) and 18 Xuân Hồng Street (<i>Gate 2</i>), <a href=\"https://en.wikipedia.org/wiki/T%C3%A2n_S%C6%A1n_Nh%E1%BA%A5t,_Ho_Chi_Minh_City\" title=\"Tân Sơn Nhất, Ho Chi Minh City\">Tân Sơn Nhất</a>,<br><a href=\"https://en.wikipedia.org/wiki/Ho_Chi_Minh_City\" title=\"Ho Chi Minh City\">Ho Chi Minh City</a><br><a href=\"https://en.wikipedia.org/wiki/Vietnam\" title=\"Vietnam\">Vietnam</a><span data-plural=\"1\"></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">Bảy Hiền Intersection, <a href=\"https://en.wikipedia.org/wiki/T%C3%A2n_B%C3%ACnh_District\" class=\"mw-redirect\" title=\"Tân Bình District\">Tân Bình District</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">Tân Bình Cultural and Sports Center</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">2,068</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Public&nbsp;transit</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Line_2_(Ho_Chi_Minh_City_Metro)\" title=\"Line 2 (Ho Chi Minh City Metro)\"><span><span>L2</span></span></a> <a href=\"https://en.wikipedia.org/w/index.php?title=Line_5_(Ho_Chi_Minh_City_Metro)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"Line 5 (Ho Chi Minh City Metro) (page does not exist)\"><span><span>L5</span></span></a> <a href=\"https://en.wikipedia.org/wiki/B%E1%BA%A3y_Hi%E1%BB%81n_station\" class=\"mw-redirect\" title=\"Bảy Hiền station\">Bảy Hiền station</a> (<i>under construction</i>)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">February 1997</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Saigon_Heat\" title=\"Saigon Heat\">Saigon Heat</a> (2012-2013) <br> <a href=\"https://en.wikipedia.org/wiki/Cantho_Catfish\" title=\"Cantho Catfish\">Cantho Catfish</a> (2022-present)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://trungtamvanhoathethaotanbinh.vn/\">trungtamvanhoathethaotanbinh<wbr>.vn</a></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "CS1_Vietnamese-language_sources_(vi)",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Articles_containing_Vietnamese-language_text",
+        "Articles_with_Vietnamese-language_sources_(vi)",
+        "Indoor_arenas_in_Vietnam",
+        "ASEAN_Basketball_League_venues",
+        "Sports_venues_in_Ho_Chi_Minh_City",
+        "Badminton_venues",
+        "Badminton_in_Vietnam",
+        "All_stub_articles",
+        "Asian_sports_venue_stubs",
+        "Vietnamese_building_and_structure_stubs",
+        "Vietnamese_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "http://trungtamvanhoathethaotanbinh.vn/gioi-thieu/gioi-thieu-chung/cac-phong-don-vi-truc-thuoc/nha-thi-dau-tan-binh.html",
+        "https://apnews.com/article/654f4224fba18fc0242c3a49f5db7282",
+        "https://vietnamnews.vn/society/1015315/hcm-city-opens-three-level-field-hospital-for-covid-19-patients.html",
+        "http://www.aseanbasketballleague.com/news/detail/6527/ssa-saigon-heat-joins-the-airasia-asean-basketball-league",
+        "http://www.aseanbasketballleague.com/news/detail/7177/saigon-heat-play-hosts-for-abl-hoops-fest-2013",
+        "http://trungtamvanhoathethaotanbinh.vn/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Usage",
+          "anchor": "Usage"
+        },
+        {
+          "index": "3",
+          "level": 3,
+          "line": "Musical events",
+          "anchor": "Musical_events"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "Transportation",
+          "anchor": "Transportation"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Tan_Binh_Gymnasium.jpg",
+        "French_Cemetery_and_Tan_Son_Nhut_Air_Base,_May_1968.jpg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Tan Binh Gymnasium.jpg",
+          "fileName": "Tan Binh Gymnasium.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Tan_Binh_Gymnasium.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tan_Binh_Gymnasium.jpg/250px-Tan_Binh_Gymnasium.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tan_Binh_Gymnasium.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Tan_Binh_Gymnasium.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tan_Binh_Gymnasium.jpg/500px-Tan_Binh_Gymnasium.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 100,
+          "originalWidth": 2567,
+          "originalHeight": 1031,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=T%C3%A2n_B%C3%ACnh_Gymnasium&groups=_016dc9a01720c167be89ffa5a1dd1fbf7b0a2d7e&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=T%C3%A2n_B%C3%ACnh_Gymnasium&groups=_016dc9a01720c167be89ffa5a1dd1fbf7b0a2d7e&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Tân Bình Gymnasium"
+        },
+        {
+          "fileTitle": "File:French Cemetery and Tan Son Nhut Air Base, May 1968.jpg",
+          "fileName": "French Cemetery and Tan Son Nhut Air Base, May 1968.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:French_Cemetery_and_Tan_Son_Nhut_Air_Base,_May_1968.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/French_Cemetery_and_Tan_Son_Nhut_Air_Base%2C_May_1968.jpg/250px-French_Cemetery_and_Tan_Son_Nhut_Air_Base%2C_May_1968.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/French_Cemetery_and_Tan_Son_Nhut_Air_Base%2C_May_1968.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/French_Cemetery_and_Tan_Son_Nhut_Air_Base%2C_May_1968.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/French_Cemetery_and_Tan_Son_Nhut_Air_Base%2C_May_1968.jpg/500px-French_Cemetery_and_Tan_Son_Nhut_Air_Base%2C_May_1968.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 226,
+          "height": 178,
+          "originalWidth": 1841,
+          "originalHeight": 1449,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "French Military Cemetery, Saigon, May 1968"
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Asia"
+          ],
+          "tableIndex": 1,
+          "tableCaption": null,
+          "rowIndex": 464,
+          "rowText": "Tân Bình Gymnasium\n1997\n2,068",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/T%C3%A2n_B%C3%ACnh_Gymnasium\" title=\"Tân Bình Gymnasium\">Tân Bình Gymnasium</a>\n</td>\n<td>1997\n</td>\n<td>2,068\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 454,
+              "cell": {
+                "text": "Vietnam",
+                "lines": [
+                  "Vietnam"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Vietnam",
+                    "title": "Vietnam",
+                    "wikiTitle": "Vietnam",
+                    "href": "https://en.wikipedia.org/wiki/Vietnam",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 462,
+              "cell": {
+                "text": "Ho Chi Minh City",
+                "lines": [
+                  "Ho Chi Minh City"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Ho Chi Minh City",
+                    "title": "Ho Chi Minh City",
+                    "wikiTitle": "Ho Chi Minh City",
+                    "href": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_City",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 464,
+              "cell": {
+                "text": "Tân Bình Gymnasium",
+                "lines": [
+                  "Tân Bình Gymnasium"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Tân Bình Gymnasium",
+                    "title": "Tân Bình Gymnasium",
+                    "wikiTitle": "Tân Bình Gymnasium",
+                    "href": "https://en.wikipedia.org/wiki/T%C3%A2n_B%C3%ACnh_Gymnasium",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 464,
+              "cell": {
+                "text": "1997",
+                "lines": [
+                  "1997"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 464,
+              "cell": {
+                "text": "2,068",
+                "lines": [
+                  "2,068"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 464,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Tân Bình Gymnasium",
+            "lines": [
+              "Tân Bình Gymnasium"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Tân Bình Gymnasium",
+                "title": "Tân Bình Gymnasium",
+                "wikiTitle": "Tân Bình Gymnasium",
+                "href": "https://en.wikipedia.org/wiki/T%C3%A2n_B%C3%ACnh_Gymnasium",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:49.528Z"
+    }
+  ]
+}

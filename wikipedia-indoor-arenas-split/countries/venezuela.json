@@ -1,0 +1,3420 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Venezuela",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 4
+  },
+  "stats": {
+    "arenaCount": 4,
+    "sourceRowCount": 5,
+    "mediaRecordCount": 33,
+    "sourceTypeCounts": {
+      "world_master_list": 4,
+      "arena_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-4942087",
+      "pageId": 4942087,
+      "revisionId": null,
+      "title": "Domo Bolivariano de Barquisimeto",
+      "displayTitle": "Domo Bolivariano de Barquisimeto",
+      "url": "https://en.wikipedia.org/wiki/Domo_Bolivariano_de_Barquisimeto",
+      "wikidataItem": "Q5291327",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5291327",
+      "aliases": [
+        "Domo Bolivariano",
+        "Domo Bolivariano de Barquisimeto"
+      ],
+      "requestedTitles": [
+        "Domo Bolivariano"
+      ],
+      "sourceLinkTexts": [
+        "Domo Bolivariano"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Domo_Bolivariano"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 10.080322,
+        "longitude": -69.330833,
+        "raw": "10.080322; -69.330833"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Domo Bolivariano",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Domo Bolivariano de Barquisimeto",
+            "lines": [
+              "Domo Bolivariano de Barquisimeto"
+            ],
+            "html": "<td class=\"infobox-data\">Domo Bolivariano de Barquisimeto</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Barquisimeto, Venezuela",
+            "lines": [
+              "Barquisimeto, Venezuela"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Barquisimeto\" title=\"Barquisimeto\">Barquisimeto</a>, <a href=\"https://en.wikipedia.org/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>",
+            "links": [
+              {
+                "text": "Barquisimeto",
+                "title": "Barquisimeto",
+                "wikiTitle": "Barquisimeto",
+                "href": "https://en.wikipedia.org/wiki/Barquisimeto",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Venezuela",
+                "title": "Venezuela",
+                "wikiTitle": "Venezuela",
+                "href": "https://en.wikipedia.org/wiki/Venezuela",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "10°04′49″N 69°19′51″W﻿ / ﻿10.080322°N 69.330833°W﻿ / 10.080322; -69.330833",
+            "lines": [
+              "10°04′49″N 69°19′51″W﻿ / ﻿10.080322°N 69.330833°W﻿ / 10.080322; -69.330833"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Domo_Bolivariano_de_Barquisimeto&amp;params=10.080322_N_69.330833_W_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">10°04′49″N</span> <span class=\"longitude\">69°19′51″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">10.080322°N 69.330833°W</span><span>﻿ / <span class=\"geo\">10.080322; -69.330833</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "10°04′49″N 69°19′51″W﻿ / ﻿10.080322°N 69.330833°W﻿ / 10.080322; -69.330833",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Domo_Bolivariano_de_Barquisimeto&params=10.080322_N_69.330833_W_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "Basketball: 10,000",
+            "lines": [
+              "Basketball: 10,000"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Basketball\" title=\"Basketball\">Basketball</a>: 10,000</td>",
+            "links": [
+              {
+                "text": "Basketball",
+                "title": "Basketball",
+                "wikiTitle": "Basketball",
+                "href": "https://en.wikipedia.org/wiki/Basketball",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1982",
+            "lines": [
+              "1982"
+            ],
+            "html": "<td class=\"infobox-data\">1982</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Guaros de Lara",
+            "lines": [
+              "Guaros de Lara"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Guaros_de_Lara_(basketball)\" class=\"mw-redirect\" title=\"Guaros de Lara (basketball)\">Guaros de Lara</a></td>",
+            "links": [
+              {
+                "text": "Guaros de Lara",
+                "title": "Guaros de Lara (basketball)",
+                "wikiTitle": "Guaros de Lara (basketball)",
+                "href": "https://en.wikipedia.org/wiki/Guaros_de_Lara_(basketball)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Domo Bolivariano de Barquisimeto",
+              "lines": [
+                "Domo Bolivariano de Barquisimeto"
+              ],
+              "html": "<td class=\"infobox-data\">Domo Bolivariano de Barquisimeto</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Barquisimeto, Venezuela",
+              "lines": [
+                "Barquisimeto, Venezuela"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Barquisimeto\" title=\"Barquisimeto\">Barquisimeto</a>, <a href=\"https://en.wikipedia.org/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>",
+              "links": [
+                {
+                  "text": "Barquisimeto",
+                  "title": "Barquisimeto",
+                  "wikiTitle": "Barquisimeto",
+                  "href": "https://en.wikipedia.org/wiki/Barquisimeto",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Venezuela",
+                  "title": "Venezuela",
+                  "wikiTitle": "Venezuela",
+                  "href": "https://en.wikipedia.org/wiki/Venezuela",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "10°04′49″N 69°19′51″W﻿ / ﻿10.080322°N 69.330833°W﻿ / 10.080322; -69.330833",
+              "lines": [
+                "10°04′49″N 69°19′51″W﻿ / ﻿10.080322°N 69.330833°W﻿ / 10.080322; -69.330833"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Domo_Bolivariano_de_Barquisimeto&amp;params=10.080322_N_69.330833_W_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">10°04′49″N</span> <span class=\"longitude\">69°19′51″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">10.080322°N 69.330833°W</span><span>﻿ / <span class=\"geo\">10.080322; -69.330833</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "10°04′49″N 69°19′51″W﻿ / ﻿10.080322°N 69.330833°W﻿ / 10.080322; -69.330833",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Domo_Bolivariano_de_Barquisimeto&params=10.080322_N_69.330833_W_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "Basketball: 10,000",
+              "lines": [
+                "Basketball: 10,000"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Basketball\" title=\"Basketball\">Basketball</a>: 10,000</td>",
+              "links": [
+                {
+                  "text": "Basketball",
+                  "title": "Basketball",
+                  "wikiTitle": "Basketball",
+                  "href": "https://en.wikipedia.org/wiki/Basketball",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1982",
+              "lines": [
+                "1982"
+              ],
+              "html": "<td class=\"infobox-data\">1982</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Guaros de Lara",
+              "lines": [
+                "Guaros de Lara"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Guaros_de_Lara_(basketball)\" class=\"mw-redirect\" title=\"Guaros de Lara (basketball)\">Guaros de Lara</a></td>",
+              "links": [
+                {
+                  "text": "Guaros de Lara",
+                  "title": "Guaros de Lara (basketball)",
+                  "wikiTitle": "Guaros de Lara (basketball)",
+                  "href": "https://en.wikipedia.org/wiki/Guaros_de_Lara_(basketball)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Domo Bolivariano de Barquisimeto"
+          ],
+          "location": [
+            "Barquisimeto, Venezuela"
+          ],
+          "coordinates": [
+            "10°04′49″N 69°19′51″W﻿ / ﻿10.080322°N 69.330833°W﻿ / 10.080322; -69.330833"
+          ],
+          "capacity": [
+            "Basketball: 10,000"
+          ],
+          "opened": [
+            "1982"
+          ],
+          "tenants": [
+            "Guaros de Lara"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "Basketball: 10,000"
+        ],
+        "tenants": [
+          "Guaros de Lara"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Domobolivarianojuvines2017.jpg",
+            "fileName": "Domobolivarianojuvines2017.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Domobolivarianojuvines2017.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Domobolivarianojuvines2017.jpg/250px-Domobolivarianojuvines2017.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Domobolivarianojuvines2017.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Domobolivarianojuvines2017.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Domobolivarianojuvines2017.jpg/500px-Domobolivarianojuvines2017.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 141,
+            "originalWidth": 1200,
+            "originalHeight": 675,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "The interior of Domo Bolivariano."
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Domo_Bolivariano_de_Barquisimeto&revid=1327980008&groups=_dd790aa71783faf637794cd5576c01ed2d9453f2&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Domo_Bolivariano_de_Barquisimeto&revid=1327980008&groups=_dd790aa71783faf637794cd5576c01ed2d9453f2&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Domo Bolivariano"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Domo Bolivariano</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Domobolivarianojuvines2017.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Domobolivarianojuvines2017.jpg/250px-Domobolivarianojuvines2017.jpg\" width=\"250\" height=\"141\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Domobolivarianojuvines2017.jpg/500px-Domobolivarianojuvines2017.jpg 2x\" data-file-width=\"1200\" data-file-height=\"675\"></a></span><div class=\"infobox-caption\">The interior of Domo Bolivariano.</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_dd790aa71783faf637794cd5576c01ed2d9453f2&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Domo_Bolivariano_de_Barquisimeto&amp;revid=1327980008&amp;groups=_dd790aa71783faf637794cd5576c01ed2d9453f2&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Domo_Bolivariano_de_Barquisimeto&amp;revid=1327980008&amp;groups=_dd790aa71783faf637794cd5576c01ed2d9453f2&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Domo Bolivariano</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Domo Bolivariano de Barquisimeto</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Barquisimeto\" title=\"Barquisimeto\">Barquisimeto</a>, <a href=\"https://en.wikipedia.org/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Domo_Bolivariano_de_Barquisimeto&amp;params=10.080322_N_69.330833_W_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">10°04′49″N</span> <span class=\"longitude\">69°19′51″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">10.080322°N 69.330833°W</span><span>﻿ / <span class=\"geo\">10.080322; -69.330833</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Basketball\" title=\"Basketball\">Basketball</a>: 10,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1982</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Guaros_de_Lara_(basketball)\" class=\"mw-redirect\" title=\"Guaros de Lara (basketball)\">Guaros de Lara</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Articles_with_Spanish-language_sources_(es)",
+        "Basketball_venues_in_Venezuela",
+        "Boxing_venues_in_Venezuela",
+        "Buildings_and_structures_in_Lara_(state)",
+        "Indoor_arenas_in_Venezuela",
+        "Handball_venues_in_Venezuela",
+        "Sport_in_Barquisimeto",
+        "Volleyball_venues_in_Venezuela",
+        "All_stub_articles",
+        "Venezuelan_building_and_structure_stubs",
+        "South_American_sports_venue_stubs",
+        "Venezuelan_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Domo_Bolivariano_de_Barquisimeto&params=10.080322_N_69.330833_W_type:landmark",
+        "http://www.touristlink.com/venezuela/domo-bolivariano/overview.html",
+        "https://web.archive.org/web/20140714204909/http://www.touristlink.com/venezuela/domo-bolivariano/overview.html",
+        "https://web.archive.org/web/20180914061347/http://guarosbbc.com/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Domobolivarianojuvines2017.jpg",
+        "Flag_of_Venezuela.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Domobolivarianojuvines2017.jpg",
+          "fileName": "Domobolivarianojuvines2017.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Domobolivarianojuvines2017.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Domobolivarianojuvines2017.jpg/250px-Domobolivarianojuvines2017.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Domobolivarianojuvines2017.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Domobolivarianojuvines2017.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Domobolivarianojuvines2017.jpg/500px-Domobolivarianojuvines2017.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 141,
+          "originalWidth": 1200,
+          "originalHeight": 675,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The interior of Domo Bolivariano."
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Domo_Bolivariano_de_Barquisimeto&revid=1327980008&groups=_dd790aa71783faf637794cd5576c01ed2d9453f2&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Domo_Bolivariano_de_Barquisimeto&revid=1327980008&groups=_dd790aa71783faf637794cd5576c01ed2d9453f2&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Domo Bolivariano"
+        },
+        {
+          "fileTitle": "File:Flag of Venezuela.svg",
+          "fileName": "Flag of Venezuela.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Venezuela.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/40px-Flag_of_Venezuela.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Venezuela.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Venezuela.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/60px-Flag_of_Venezuela.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 140,
+          "rowText": "Barquisimeto\nDomo Bolivariano\n1982\n10,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Barquisimeto\" title=\"Barquisimeto\">Barquisimeto</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Domo_Bolivariano\" class=\"mw-redirect\" title=\"Domo Bolivariano\">Domo Bolivariano</a>\n</td>\n<td>1982\n</td>\n<td>10,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 138,
+              "cell": {
+                "text": "Venezuela",
+                "lines": [
+                  "Venezuela"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Venezuela",
+                    "title": "Venezuela",
+                    "wikiTitle": "Venezuela",
+                    "href": "https://en.wikipedia.org/wiki/Venezuela",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 140,
+              "cell": {
+                "text": "Barquisimeto",
+                "lines": [
+                  "Barquisimeto"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Barquisimeto",
+                    "title": "Barquisimeto",
+                    "wikiTitle": "Barquisimeto",
+                    "href": "https://en.wikipedia.org/wiki/Barquisimeto",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 140,
+              "cell": {
+                "text": "Domo Bolivariano",
+                "lines": [
+                  "Domo Bolivariano"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Domo Bolivariano",
+                    "title": "Domo Bolivariano",
+                    "wikiTitle": "Domo Bolivariano",
+                    "href": "https://en.wikipedia.org/wiki/Domo_Bolivariano",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 140,
+              "cell": {
+                "text": "1982",
+                "lines": [
+                  "1982"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 140,
+              "cell": {
+                "text": "10,000",
+                "lines": [
+                  "10,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 140,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Domo Bolivariano",
+            "lines": [
+              "Domo Bolivariano"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Domo Bolivariano",
+                "title": "Domo Bolivariano",
+                "wikiTitle": "Domo Bolivariano",
+                "href": "https://en.wikipedia.org/wiki/Domo_Bolivariano",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:33.852Z"
+    },
+    {
+      "id": "wikipedia-page-4942089",
+      "pageId": 4942089,
+      "revisionId": null,
+      "title": "Forum de Valencia",
+      "displayTitle": "Forum de Valencia",
+      "url": "https://en.wikipedia.org/wiki/Forum_de_Valencia",
+      "wikidataItem": "Q5473095",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5473095",
+      "aliases": [
+        "Forum de Valencia"
+      ],
+      "requestedTitles": [
+        "Forum de Valencia"
+      ],
+      "sourceLinkTexts": [
+        "Forum de Valencia"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Forum_de_Valencia"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 10.220228,
+        "longitude": -68.00395,
+        "raw": "10.220228; -68.00395"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Forum de Valencia",
+        "groups": [],
+        "fields": [],
+        "facts": {},
+        "factsText": {},
+        "formerNames": [],
+        "capacities": [],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Forum de Valencia.png",
+            "fileName": "Forum de Valencia.png",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Forum_de_Valencia.png",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Forum_de_Valencia.png/250px-Forum_de_Valencia.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Forum_de_Valencia.png",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Forum_de_Valencia.png",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Forum_de_Valencia.png/500px-Forum_de_Valencia.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 182,
+            "originalWidth": 566,
+            "originalHeight": 413,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Forum_de_Valencia&revid=1302502846&groups=_c30678b2e91132aed2b17455196962328dea769e&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Forum_de_Valencia&revid=1302502846&groups=_c30678b2e91132aed2b17455196962328dea769e&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Forum de Valencia"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Forum de Valencia</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Forum_de_Valencia.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Forum_de_Valencia.png/250px-Forum_de_Valencia.png\" width=\"250\" height=\"182\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Forum_de_Valencia.png/500px-Forum_de_Valencia.png 2x\" data-file-width=\"566\" data-file-height=\"413\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_c30678b2e91132aed2b17455196962328dea769e&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Forum_de_Valencia&amp;revid=1302502846&amp;groups=_c30678b2e91132aed2b17455196962328dea769e&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Forum_de_Valencia&amp;revid=1302502846&amp;groups=_c30678b2e91132aed2b17455196962328dea769e&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Forum de Valencia</div></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Articles_needing_additional_references_from_July_2025",
+        "All_articles_needing_additional_references",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Articles_using_infobox_templates_with_no_data_rows",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Venezuela",
+        "Buildings_and_structures_in_Valencia,_Venezuela",
+        "Basketball_venues_in_Venezuela",
+        "Volleyball_venues_in_Venezuela",
+        "All_stub_articles",
+        "Venezuelan_building_and_structure_stubs",
+        "South_American_sports_venue_stubs",
+        "Venezuelan_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://www.fiba.basketball/en/news/basketballworldcup-2019-americas-qualifiers-news-venezuela-returns-to-legendary-forum-de-valencia",
+        "https://geohack.toolforge.org/geohack.php?pagename=Forum_de_Valencia&params=10.220228_N_68.00395_W_type:landmark",
+        "https://www.google.com/search?as_eq=wikipedia&q=%22Forum+de+Valencia%22",
+        "https://www.google.com/search?tbm=nws&q=%22Forum+de+Valencia%22+-wikipedia&tbs=ar:1",
+        "https://www.google.com/search?&q=%22Forum+de+Valencia%22&tbs=bkt:s&tbm=bks",
+        "https://www.google.com/search?tbs=bks:1&q=%22Forum+de+Valencia%22+-wikipedia",
+        "https://scholar.google.com/scholar?q=%22Forum+de+Valencia%22",
+        "https://www.jstor.org/action/doBasicSearch?Query=%22Forum+de+Valencia%22&acc=on&wc=on"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Question_book-new.svg",
+        "Forum_de_Valencia.png",
+        "Flag_of_Venezuela.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Question book-new.svg",
+          "fileName": "Question book-new.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Question_book-new.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Question_book-new.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 50,
+          "height": 39,
+          "originalWidth": 512,
+          "originalHeight": 399,
+          "fileType": null,
+          "alt": "icon",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Forum de Valencia.png",
+          "fileName": "Forum de Valencia.png",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Forum_de_Valencia.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Forum_de_Valencia.png/250px-Forum_de_Valencia.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Forum_de_Valencia.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Forum_de_Valencia.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Forum_de_Valencia.png/500px-Forum_de_Valencia.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 182,
+          "originalWidth": 566,
+          "originalHeight": 413,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Forum_de_Valencia&revid=1302502846&groups=_c30678b2e91132aed2b17455196962328dea769e&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Forum_de_Valencia&revid=1302502846&groups=_c30678b2e91132aed2b17455196962328dea769e&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Forum de Valencia"
+        },
+        {
+          "fileTitle": "File:Flag of Venezuela.svg",
+          "fileName": "Flag of Venezuela.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Venezuela.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/40px-Flag_of_Venezuela.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Venezuela.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Venezuela.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/60px-Flag_of_Venezuela.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 141,
+          "rowText": "Valencia\nForum de Valencia\n1991\n10,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Valencia,_Carabobo\" class=\"mw-redirect\" title=\"Valencia, Carabobo\">Valencia</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Forum_de_Valencia\" title=\"Forum de Valencia\">Forum de Valencia</a>\n</td>\n<td>1991\n</td>\n<td>10,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 138,
+              "cell": {
+                "text": "Venezuela",
+                "lines": [
+                  "Venezuela"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Venezuela",
+                    "title": "Venezuela",
+                    "wikiTitle": "Venezuela",
+                    "href": "https://en.wikipedia.org/wiki/Venezuela",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 141,
+              "cell": {
+                "text": "Valencia",
+                "lines": [
+                  "Valencia"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Valencia",
+                    "title": "Valencia, Carabobo",
+                    "wikiTitle": "Valencia, Carabobo",
+                    "href": "https://en.wikipedia.org/wiki/Valencia,_Carabobo",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 141,
+              "cell": {
+                "text": "Forum de Valencia",
+                "lines": [
+                  "Forum de Valencia"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Forum de Valencia",
+                    "title": "Forum de Valencia",
+                    "wikiTitle": "Forum de Valencia",
+                    "href": "https://en.wikipedia.org/wiki/Forum_de_Valencia",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 141,
+              "cell": {
+                "text": "1991",
+                "lines": [
+                  "1991"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 141,
+              "cell": {
+                "text": "10,000",
+                "lines": [
+                  "10,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 141,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Forum de Valencia",
+            "lines": [
+              "Forum de Valencia"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Forum de Valencia",
+                "title": "Forum de Valencia",
+                "wikiTitle": "Forum de Valencia",
+                "href": "https://en.wikipedia.org/wiki/Forum_de_Valencia",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:33.618Z"
+    },
+    {
+      "id": "wikipedia-page-19014939",
+      "pageId": 19014939,
+      "revisionId": null,
+      "title": "Gimnasio Ciudad de la Asunción",
+      "displayTitle": "Gimnasio Ciudad de la Asunción",
+      "url": "https://en.wikipedia.org/wiki/Gimnasio_Ciudad_de_la_Asunci%C3%B3n",
+      "wikidataItem": "Q5562752",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5562752",
+      "aliases": [
+        "Gimnasio Ciudad de la Asunción",
+        "Gimnasio La Asunción",
+        "Gimnasio Ciudad de La Asunción"
+      ],
+      "requestedTitles": [
+        "Gimnasio Ciudad de la Asunción"
+      ],
+      "sourceLinkTexts": [
+        "Gimnasio La Asunción"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Gimnasio_Ciudad_de_la_Asunci%C3%B3n"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 11.02528,
+        "longitude": -63.85806,
+        "raw": "11.02528; -63.85806"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Gimnasio Ciudad de La Asunción",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "La Asunción, Nueva Esparta, Venezuela",
+            "lines": [
+              "La Asunción, Nueva Esparta, Venezuela"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/La_Asunci%C3%B3n\" title=\"La Asunción\">La Asunción</a>, <a href=\"https://en.wikipedia.org/wiki/Nueva_Esparta\" title=\"Nueva Esparta\">Nueva Esparta</a>, <a href=\"https://en.wikipedia.org/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>",
+            "links": [
+              {
+                "text": "La Asunción",
+                "title": "La Asunción",
+                "wikiTitle": "La Asunción",
+                "href": "https://en.wikipedia.org/wiki/La_Asunci%C3%B3n",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Nueva Esparta",
+                "title": "Nueva Esparta",
+                "wikiTitle": "Nueva Esparta",
+                "href": "https://en.wikipedia.org/wiki/Nueva_Esparta",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Venezuela",
+                "title": "Venezuela",
+                "wikiTitle": "Venezuela",
+                "href": "https://en.wikipedia.org/wiki/Venezuela",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Gobierno del Estado Nueva Esparta",
+            "lines": [
+              "Gobierno del Estado Nueva Esparta"
+            ],
+            "html": "<td class=\"infobox-data agent\">Gobierno del Estado Nueva Esparta</td>",
+            "links": [
+              {
+                "text": "[3]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-sol2-3",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[3]",
+                "href": "https://en.wikipedia.org/#cite_note-sol2-3"
+              }
+            ]
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "8.500",
+            "lines": [
+              "8.500"
+            ],
+            "html": "<td class=\"infobox-data\">8.500</td>",
+            "links": [
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-Guaiquer%C3%ADes-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-Guaiquer%C3%ADes-2"
+              }
+            ]
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1993",
+            "lines": [
+              "1993"
+            ],
+            "html": "<td class=\"infobox-data\">1993</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "Guaiqueríes de Margarita",
+            "lines": [
+              "Guaiqueríes de Margarita"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Guaiquer%C3%ADes_de_Margarita\" title=\"Guaiqueríes de Margarita\">Guaiqueríes de Margarita</a></td>",
+            "links": [
+              {
+                "text": "Guaiqueríes de Margarita",
+                "title": "Guaiqueríes de Margarita",
+                "wikiTitle": "Guaiqueríes de Margarita",
+                "href": "https://en.wikipedia.org/wiki/Guaiquer%C3%ADes_de_Margarita",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-sol-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-sol-1"
+              }
+            ]
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "La Asunción, Nueva Esparta, Venezuela",
+              "lines": [
+                "La Asunción, Nueva Esparta, Venezuela"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/La_Asunci%C3%B3n\" title=\"La Asunción\">La Asunción</a>, <a href=\"https://en.wikipedia.org/wiki/Nueva_Esparta\" title=\"Nueva Esparta\">Nueva Esparta</a>, <a href=\"https://en.wikipedia.org/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>",
+              "links": [
+                {
+                  "text": "La Asunción",
+                  "title": "La Asunción",
+                  "wikiTitle": "La Asunción",
+                  "href": "https://en.wikipedia.org/wiki/La_Asunci%C3%B3n",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Nueva Esparta",
+                  "title": "Nueva Esparta",
+                  "wikiTitle": "Nueva Esparta",
+                  "href": "https://en.wikipedia.org/wiki/Nueva_Esparta",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Venezuela",
+                  "title": "Venezuela",
+                  "wikiTitle": "Venezuela",
+                  "href": "https://en.wikipedia.org/wiki/Venezuela",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Gobierno del Estado Nueva Esparta",
+              "lines": [
+                "Gobierno del Estado Nueva Esparta"
+              ],
+              "html": "<td class=\"infobox-data agent\">Gobierno del Estado Nueva Esparta</td>",
+              "links": [
+                {
+                  "text": "[3]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-sol2-3",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[3]",
+                  "href": "https://en.wikipedia.org/#cite_note-sol2-3"
+                }
+              ]
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "8.500",
+              "lines": [
+                "8.500"
+              ],
+              "html": "<td class=\"infobox-data\">8.500</td>",
+              "links": [
+                {
+                  "text": "[2]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-Guaiquer%C3%ADes-2",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-Guaiquer%C3%ADes-2"
+                }
+              ]
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1993",
+              "lines": [
+                "1993"
+              ],
+              "html": "<td class=\"infobox-data\">1993</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "Guaiqueríes de Margarita",
+              "lines": [
+                "Guaiqueríes de Margarita"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Guaiquer%C3%ADes_de_Margarita\" title=\"Guaiqueríes de Margarita\">Guaiqueríes de Margarita</a></td>",
+              "links": [
+                {
+                  "text": "Guaiqueríes de Margarita",
+                  "title": "Guaiqueríes de Margarita",
+                  "wikiTitle": "Guaiqueríes de Margarita",
+                  "href": "https://en.wikipedia.org/wiki/Guaiquer%C3%ADes_de_Margarita",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-sol-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-sol-1"
+                }
+              ]
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "La Asunción, Nueva Esparta, Venezuela"
+          ],
+          "owner": [
+            "Gobierno del Estado Nueva Esparta"
+          ],
+          "capacity": [
+            "8.500"
+          ],
+          "opened": [
+            "1993"
+          ],
+          "tenants": [
+            "Guaiqueríes de Margarita"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "8.500"
+        ],
+        "tenants": [
+          "Guaiqueríes de Margarita"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Gimnasio Ciudad de la Asunción.png",
+            "fileName": "Gimnasio Ciudad de la Asunción.png",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png/250px-Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 234,
+            "originalWidth": 469,
+            "originalHeight": 439,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Gimnasio_Ciudad_de_la_Asunci%C3%B3n&revid=1184568667&groups=_5791fbde1c8317656610ace78d6eb2324c8623aa&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Gimnasio_Ciudad_de_la_Asunci%C3%B3n&revid=1184568667&groups=_5791fbde1c8317656610ace78d6eb2324c8623aa&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Gimnasio Ciudad de La Asunción"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Gimnasio Ciudad de La Asunción</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png/250px-Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png\" width=\"250\" height=\"234\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/0/03/Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png 2x\" data-file-width=\"469\" data-file-height=\"439\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_5791fbde1c8317656610ace78d6eb2324c8623aa&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Gimnasio_Ciudad_de_la_Asunci%C3%B3n&amp;revid=1184568667&amp;groups=_5791fbde1c8317656610ace78d6eb2324c8623aa&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Gimnasio_Ciudad_de_la_Asunci%C3%B3n&amp;revid=1184568667&amp;groups=_5791fbde1c8317656610ace78d6eb2324c8623aa&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Gimnasio Ciudad de La Asunción</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/La_Asunci%C3%B3n\" title=\"La Asunción\">La Asunción</a>, <a href=\"https://en.wikipedia.org/wiki/Nueva_Esparta\" title=\"Nueva Esparta\">Nueva Esparta</a>, <a href=\"https://en.wikipedia.org/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Gobierno del Estado Nueva Esparta</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">8.500</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1993</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/Guaiquer%C3%ADes_de_Margarita\" title=\"Guaiqueríes de Margarita\">Guaiqueríes de Margarita</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "All_articles_with_dead_external_links",
+        "Articles_with_dead_external_links_from_January_2017",
+        "Articles_with_permanently_dead_external_links",
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Indoor_arenas_in_Venezuela",
+        "Buildings_and_structures_in_La_Asunción",
+        "All_stub_articles",
+        "Venezuelan_building_and_structure_stubs",
+        "South_American_sports_venue_stubs",
+        "Venezuelan_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://web.archive.org/web/20110928032701/http://www.elsoldemargarita.com.ve/Noticias.aspx?NoticiaId=9135&Seccion=4",
+        "http://www.elsoldemargarita.com.ve/Noticias.aspx?NoticiaId=9135&Seccion=4",
+        "http://www.guaiqueries.net/modules.php?name=Equipo&file=gimnasio",
+        "https://web.archive.org/web/20110928032711/http://www.elsoldemargarita.com.ve/Noticias.aspx?NoticiaId=17956&Seccion=4",
+        "http://www.elsoldemargarita.com.ve/Noticias.aspx?NoticiaId=17956&Seccion=4",
+        "https://geohack.toolforge.org/geohack.php?pagename=Gimnasio_Ciudad_de_la_Asunci%C3%B3n&params=11_1_31_N_63_51_29_W_type:landmark",
+        "https://web.archive.org/web/20171028050100/http://www.worldstadiums.com/south_america/countries/venezuela.shtml"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Gimnasio_Ciudad_de_la_Asunción.png",
+        "Flag_of_Venezuela.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Gimnasio Ciudad de la Asunción.png",
+          "fileName": "Gimnasio Ciudad de la Asunción.png",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png/250px-Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Gimnasio_Ciudad_de_la_Asunci%C3%B3n.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 234,
+          "originalWidth": 469,
+          "originalHeight": 439,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Gimnasio_Ciudad_de_la_Asunci%C3%B3n&revid=1184568667&groups=_5791fbde1c8317656610ace78d6eb2324c8623aa&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Gimnasio_Ciudad_de_la_Asunci%C3%B3n&revid=1184568667&groups=_5791fbde1c8317656610ace78d6eb2324c8623aa&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Gimnasio Ciudad de La Asunción"
+        },
+        {
+          "fileTitle": "File:Flag of Venezuela.svg",
+          "fileName": "Flag of Venezuela.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Venezuela.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/40px-Flag_of_Venezuela.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Venezuela.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Venezuela.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/60px-Flag_of_Venezuela.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 142,
+          "rowText": "La Asunción\nGimnasio La Asunción\n1993\n10,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/La_Asunci%C3%B3n\" title=\"La Asunción\">La Asunción</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Gimnasio_Ciudad_de_la_Asunci%C3%B3n\" title=\"Gimnasio Ciudad de la Asunción\">Gimnasio La Asunción</a>\n</td>\n<td>1993\n</td>\n<td>10,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 138,
+              "cell": {
+                "text": "Venezuela",
+                "lines": [
+                  "Venezuela"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Venezuela",
+                    "title": "Venezuela",
+                    "wikiTitle": "Venezuela",
+                    "href": "https://en.wikipedia.org/wiki/Venezuela",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 142,
+              "cell": {
+                "text": "La Asunción",
+                "lines": [
+                  "La Asunción"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "La Asunción",
+                    "title": "La Asunción",
+                    "wikiTitle": "La Asunción",
+                    "href": "https://en.wikipedia.org/wiki/La_Asunci%C3%B3n",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 142,
+              "cell": {
+                "text": "Gimnasio La Asunción",
+                "lines": [
+                  "Gimnasio La Asunción"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Gimnasio La Asunción",
+                    "title": "Gimnasio Ciudad de la Asunción",
+                    "wikiTitle": "Gimnasio Ciudad de la Asunción",
+                    "href": "https://en.wikipedia.org/wiki/Gimnasio_Ciudad_de_la_Asunci%C3%B3n",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 142,
+              "cell": {
+                "text": "1993",
+                "lines": [
+                  "1993"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 142,
+              "cell": {
+                "text": "10,000",
+                "lines": [
+                  "10,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 142,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Gimnasio La Asunción",
+            "lines": [
+              "Gimnasio La Asunción"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Gimnasio La Asunción",
+                "title": "Gimnasio Ciudad de la Asunción",
+                "wikiTitle": "Gimnasio Ciudad de la Asunción",
+                "href": "https://en.wikipedia.org/wiki/Gimnasio_Ciudad_de_la_Asunci%C3%B3n",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:34.429Z"
+    },
+    {
+      "id": "wikipedia-page-12078312",
+      "pageId": 12078312,
+      "revisionId": null,
+      "title": "Poliedro de Caracas",
+      "displayTitle": "Poliedro de Caracas",
+      "url": "https://en.wikipedia.org/wiki/Poliedro_de_Caracas",
+      "wikidataItem": "Q3394489",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3394489",
+      "aliases": [
+        "Poliedro de Caracas"
+      ],
+      "requestedTitles": [
+        "Poliedro de Caracas"
+      ],
+      "sourceLinkTexts": [
+        "Poliedro de Caracas"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Poliedro_de_Caracas"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas by capacity"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "arena_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 10.4337,
+        "longitude": -66.9384,
+        "raw": "10.4337; -66.9384"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Poliedro de Caracas",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Caracas, Venezuela",
+            "lines": [
+              "Caracas, Venezuela"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Caracas\" title=\"Caracas\">Caracas</a>, <a href=\"https://en.wikipedia.org/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>",
+            "links": [
+              {
+                "text": "Caracas",
+                "title": "Caracas",
+                "wikiTitle": "Caracas",
+                "href": "https://en.wikipedia.org/wiki/Caracas",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Venezuela",
+                "title": "Venezuela",
+                "wikiTitle": "Venezuela",
+                "href": "https://en.wikipedia.org/wiki/Venezuela",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "10°26′01″N 66°56′18″W﻿ / ﻿10.4337°N 66.9384°W﻿ / 10.4337; -66.9384",
+            "lines": [
+              "10°26′01″N 66°56′18″W﻿ / ﻿10.4337°N 66.9384°W﻿ / 10.4337; -66.9384"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Poliedro_de_Caracas&amp;params=10.4337_N_66.9384_W_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">10°26′01″N</span> <span class=\"longitude\">66°56′18″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">10.4337°N 66.9384°W</span><span>﻿ / <span class=\"geo\">10.4337; -66.9384</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "10°26′01″N 66°56′18″W﻿ / ﻿10.4337°N 66.9384°W﻿ / 10.4337; -66.9384",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Poliedro_de_Caracas&params=10.4337_N_66.9384_W_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Polyhedron Foundation of Caracas (Venezuelan State)",
+            "lines": [
+              "Polyhedron Foundation of Caracas (Venezuelan State)"
+            ],
+            "html": "<td class=\"infobox-data agent\">Polyhedron Foundation of Caracas (Venezuelan State)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "Concerts: 20,000\nSports: 13,500",
+            "lines": [
+              "Concerts: 20,000",
+              "Sports: 13,500"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Concerts\" class=\"mw-redirect\" title=\"Concerts\">Concerts</a>: 20,000<br><a href=\"https://en.wikipedia.org/wiki/Sports\" class=\"mw-redirect\" title=\"Sports\">Sports</a>: 13,500</td>",
+            "links": [
+              {
+                "text": "Concerts",
+                "title": "Concerts",
+                "wikiTitle": "Concerts",
+                "href": "https://en.wikipedia.org/wiki/Concerts",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Sports",
+                "title": "Sports",
+                "wikiTitle": "Sports",
+                "href": "https://en.wikipedia.org/wiki/Sports",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "March 26, 1974",
+            "lines": [
+              "March 26, 1974"
+            ],
+            "html": "<td class=\"infobox-data\">March 26, 1974</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2013",
+            "lines": [
+              "2013"
+            ],
+            "html": "<td class=\"infobox-data\">2013</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Jimmy Alcock",
+            "lines": [
+              "Jimmy Alcock"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Jimmy_Alcock\" title=\"Jimmy Alcock\">Jimmy Alcock</a></td>",
+            "links": [
+              {
+                "text": "Jimmy Alcock",
+                "title": "Jimmy Alcock",
+                "wikiTitle": "Jimmy Alcock",
+                "href": "https://en.wikipedia.org/wiki/Jimmy_Alcock",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "2013 FIBA AmeriCup",
+            "lines": [
+              "2013 FIBA AmeriCup"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/2013_FIBA_AmeriCup\" class=\"mw-redirect\" title=\"2013 FIBA AmeriCup\">2013 FIBA AmeriCup</a></td>",
+            "links": [
+              {
+                "text": "2013 FIBA AmeriCup",
+                "title": "2013 FIBA AmeriCup",
+                "wikiTitle": "2013 FIBA AmeriCup",
+                "href": "https://en.wikipedia.org/wiki/2013_FIBA_AmeriCup",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Caracas, Venezuela",
+              "lines": [
+                "Caracas, Venezuela"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Caracas\" title=\"Caracas\">Caracas</a>, <a href=\"https://en.wikipedia.org/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td>",
+              "links": [
+                {
+                  "text": "Caracas",
+                  "title": "Caracas",
+                  "wikiTitle": "Caracas",
+                  "href": "https://en.wikipedia.org/wiki/Caracas",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Venezuela",
+                  "title": "Venezuela",
+                  "wikiTitle": "Venezuela",
+                  "href": "https://en.wikipedia.org/wiki/Venezuela",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "10°26′01″N 66°56′18″W﻿ / ﻿10.4337°N 66.9384°W﻿ / 10.4337; -66.9384",
+              "lines": [
+                "10°26′01″N 66°56′18″W﻿ / ﻿10.4337°N 66.9384°W﻿ / 10.4337; -66.9384"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Poliedro_de_Caracas&amp;params=10.4337_N_66.9384_W_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">10°26′01″N</span> <span class=\"longitude\">66°56′18″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">10.4337°N 66.9384°W</span><span>﻿ / <span class=\"geo\">10.4337; -66.9384</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "10°26′01″N 66°56′18″W﻿ / ﻿10.4337°N 66.9384°W﻿ / 10.4337; -66.9384",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Poliedro_de_Caracas&params=10.4337_N_66.9384_W_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Polyhedron Foundation of Caracas (Venezuelan State)",
+              "lines": [
+                "Polyhedron Foundation of Caracas (Venezuelan State)"
+              ],
+              "html": "<td class=\"infobox-data agent\">Polyhedron Foundation of Caracas (Venezuelan State)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "Concerts: 20,000\nSports: 13,500",
+              "lines": [
+                "Concerts: 20,000",
+                "Sports: 13,500"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Concerts\" class=\"mw-redirect\" title=\"Concerts\">Concerts</a>: 20,000<br><a href=\"https://en.wikipedia.org/wiki/Sports\" class=\"mw-redirect\" title=\"Sports\">Sports</a>: 13,500</td>",
+              "links": [
+                {
+                  "text": "Concerts",
+                  "title": "Concerts",
+                  "wikiTitle": "Concerts",
+                  "href": "https://en.wikipedia.org/wiki/Concerts",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Sports",
+                  "title": "Sports",
+                  "wikiTitle": "Sports",
+                  "href": "https://en.wikipedia.org/wiki/Sports",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "March 26, 1974",
+              "lines": [
+                "March 26, 1974"
+              ],
+              "html": "<td class=\"infobox-data\">March 26, 1974</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2013",
+              "lines": [
+                "2013"
+              ],
+              "html": "<td class=\"infobox-data\">2013</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Jimmy Alcock",
+              "lines": [
+                "Jimmy Alcock"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Jimmy_Alcock\" title=\"Jimmy Alcock\">Jimmy Alcock</a></td>",
+              "links": [
+                {
+                  "text": "Jimmy Alcock",
+                  "title": "Jimmy Alcock",
+                  "wikiTitle": "Jimmy Alcock",
+                  "href": "https://en.wikipedia.org/wiki/Jimmy_Alcock",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "2013 FIBA AmeriCup",
+              "lines": [
+                "2013 FIBA AmeriCup"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/2013_FIBA_AmeriCup\" class=\"mw-redirect\" title=\"2013 FIBA AmeriCup\">2013 FIBA AmeriCup</a></td>",
+              "links": [
+                {
+                  "text": "2013 FIBA AmeriCup",
+                  "title": "2013 FIBA AmeriCup",
+                  "wikiTitle": "2013 FIBA AmeriCup",
+                  "href": "https://en.wikipedia.org/wiki/2013_FIBA_AmeriCup",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Caracas, Venezuela"
+          ],
+          "coordinates": [
+            "10°26′01″N 66°56′18″W﻿ / ﻿10.4337°N 66.9384°W﻿ / 10.4337; -66.9384"
+          ],
+          "owner": [
+            "Polyhedron Foundation of Caracas (Venezuelan State)"
+          ],
+          "capacity": [
+            "Concerts: 20,000\nSports: 13,500"
+          ],
+          "opened": [
+            "March 26, 1974"
+          ],
+          "renovated": [
+            "2013"
+          ],
+          "architect": [
+            "Jimmy Alcock"
+          ],
+          "tenants": [
+            "2013 FIBA AmeriCup"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "Concerts: 20,000",
+          "Sports: 13,500"
+        ],
+        "tenants": [
+          "2013 FIBA AmeriCup"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Poliedro de Caracas.jpg",
+            "fileName": "Poliedro de Caracas.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Poliedro_de_Caracas.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Poliedro_de_Caracas.jpg/250px-Poliedro_de_Caracas.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Poliedro_de_Caracas.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Poliedro_de_Caracas.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Poliedro_de_Caracas.jpg/500px-Poliedro_de_Caracas.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 140,
+            "originalWidth": 1381,
+            "originalHeight": 776,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "The exterior of Poliedro de Caracas."
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Poliedro_de_Caracas&revid=1345272810&groups=_071068fc7daac835413a819961d061a51e3da5a5&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Poliedro_de_Caracas&revid=1345272810&groups=_071068fc7daac835413a819961d061a51e3da5a5&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Poliedro de Caracas"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Poliedro de Caracas</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Poliedro_de_Caracas.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Poliedro_de_Caracas.jpg/250px-Poliedro_de_Caracas.jpg\" width=\"250\" height=\"140\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Poliedro_de_Caracas.jpg/500px-Poliedro_de_Caracas.jpg 2x\" data-file-width=\"1381\" data-file-height=\"776\"></a></span><div class=\"infobox-caption\">The exterior of Poliedro de Caracas.</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_071068fc7daac835413a819961d061a51e3da5a5&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Poliedro_de_Caracas&amp;revid=1345272810&amp;groups=_071068fc7daac835413a819961d061a51e3da5a5&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Poliedro_de_Caracas&amp;revid=1345272810&amp;groups=_071068fc7daac835413a819961d061a51e3da5a5&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Poliedro de Caracas</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Caracas\" title=\"Caracas\">Caracas</a>, <a href=\"https://en.wikipedia.org/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Poliedro_de_Caracas&amp;params=10.4337_N_66.9384_W_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">10°26′01″N</span> <span class=\"longitude\">66°56′18″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">10.4337°N 66.9384°W</span><span>﻿ / <span class=\"geo\">10.4337; -66.9384</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Polyhedron Foundation of Caracas (Venezuelan State)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Concerts\" class=\"mw-redirect\" title=\"Concerts\">Concerts</a>: 20,000<br><a href=\"https://en.wikipedia.org/wiki/Sports\" class=\"mw-redirect\" title=\"Sports\">Sports</a>: 13,500</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">March 26, 1974</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2013</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Jimmy_Alcock\" title=\"Jimmy Alcock\">Jimmy Alcock</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/2013_FIBA_AmeriCup\" class=\"mw-redirect\" title=\"2013 FIBA AmeriCup\">2013 FIBA AmeriCup</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_maint:_deprecated_archival_service",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Commons_category_link_from_Wikidata",
+        "1974_establishments_in_Venezuela",
+        "Sports_venues_in_Caracas",
+        "Sports_venues_completed_in_1974",
+        "Geodesic_domes",
+        "Indoor_arenas_in_Venezuela",
+        "Basketball_venues_in_Venezuela",
+        "Volleyball_venues_in_Venezuela",
+        "Boxing_venues_in_Venezuela",
+        "Convention_centers_in_Venezuela",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Poliedro_de_Caracas&params=10.4337_N_66.9384_W_type:landmark",
+        "http://english.eluniversal.com/aniversario/100/en_ca9_art_el-poliedros-first_01A2251747.shtml",
+        "https://musicbrainz.org/place/e695e32a-f4b4-49bd-997b-ab7ea25e31fb"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Top concerts",
+          "anchor": "Top_concerts"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Poliedro_de_Caracas.jpg",
+        "Poliedro_de_Caracas_Venezuela2.JPG",
+        "Flag_of_the_United_States.svg",
+        "Flag_of_the_United_Kingdom_(1-2).svg",
+        "Flag_of_Cuba.svg",
+        "Flag_of_Canada_(Pantone).svg",
+        "Flag_of_Puerto_Rico.svg",
+        "Flag_of_Spain.svg",
+        "Flag_of_Venezuela.svg",
+        "Flag_of_Argentina.svg",
+        "Flag_of_Colombia.svg",
+        "Flag_of_Italy.svg",
+        "Flag_of_Germany.svg",
+        "Flag_of_Sweden.svg",
+        "Flag_of_Mexico.svg",
+        "Flag_of_France.svg",
+        "Flag_of_Australia_(converted).svg",
+        "Flag_of_the_Netherlands.svg",
+        "Flag_of_England.svg",
+        "Commons-logo.svg",
+        "Plaza_O'Leary_Narváez.jpg",
+        "OOjs_UI_icon_edit-ltr-progressive.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Poliedro de Caracas.jpg",
+          "fileName": "Poliedro de Caracas.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Poliedro_de_Caracas.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Poliedro_de_Caracas.jpg/250px-Poliedro_de_Caracas.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Poliedro_de_Caracas.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Poliedro_de_Caracas.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Poliedro_de_Caracas.jpg/500px-Poliedro_de_Caracas.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 140,
+          "originalWidth": 1381,
+          "originalHeight": 776,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The exterior of Poliedro de Caracas."
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Poliedro_de_Caracas&revid=1345272810&groups=_071068fc7daac835413a819961d061a51e3da5a5&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Poliedro_de_Caracas&revid=1345272810&groups=_071068fc7daac835413a819961d061a51e3da5a5&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Poliedro de Caracas"
+        },
+        {
+          "fileTitle": "File:Poliedro de Caracas Venezuela2.JPG",
+          "fileName": "Poliedro de Caracas Venezuela2.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Poliedro_de_Caracas_Venezuela2.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Poliedro_de_Caracas_Venezuela2.JPG/250px-Poliedro_de_Caracas_Venezuela2.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Poliedro_de_Caracas_Venezuela2.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Poliedro_de_Caracas_Venezuela2.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Poliedro_de_Caracas_Venezuela2.JPG/500px-Poliedro_de_Caracas_Venezuela2.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 186,
+          "originalWidth": 921,
+          "originalHeight": 684,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Inside view of the Poliedro de Caracas in 2013"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/40px-Flag_of_the_United_States.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/60px-Flag_of_the_United_States.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1235,
+          "originalHeight": 650,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/40px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/60px-Flag_of_the_United_Kingdom_%281-2%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/40px-Flag_of_Cuba.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/60px-Flag_of_Cuba.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/40px-Flag_of_Canada_%28Pantone%29.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/60px-Flag_of_Canada_%28Pantone%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1200,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/40px-Flag_of_Puerto_Rico.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flag_of_Puerto_Rico.svg/60px-Flag_of_Puerto_Rico.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/40px-Flag_of_Spain.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/60px-Flag_of_Spain.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 750,
+          "originalHeight": 500,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/40px-Flag_of_Venezuela.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/60px-Flag_of_Venezuela.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/40px-Flag_of_Argentina.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/60px-Flag_of_Argentina.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 14,
+          "originalWidth": 800,
+          "originalHeight": 500,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/40px-Flag_of_Colombia.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/60px-Flag_of_Colombia.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/40px-Flag_of_Italy.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/60px-Flag_of_Italy.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 1500,
+          "originalHeight": 1000,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/40px-Flag_of_Germany.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/60px-Flag_of_Germany.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 14,
+          "originalWidth": 1000,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/40px-Flag_of_Sweden.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/60px-Flag_of_Sweden.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 14,
+          "originalWidth": 1600,
+          "originalHeight": 1000,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/40px-Flag_of_Mexico.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/60px-Flag_of_Mexico.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 13,
+          "originalWidth": 980,
+          "originalHeight": 560,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/60px-Flag_of_France.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/40px-Flag_of_Australia_%28converted%29.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/60px-Flag_of_Australia_%28converted%29.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 12,
+          "originalWidth": 1280,
+          "originalHeight": 640,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/40px-Flag_of_the_Netherlands.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/60px-Flag_of_the_Netherlands.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 15,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/40px-Flag_of_England.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/60px-Flag_of_England.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 23,
+          "height": 14,
+          "originalWidth": 800,
+          "originalHeight": 480,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Plaza O'Leary Narváez.jpg",
+          "fileName": "Plaza O'Leary Narváez.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Plaza_O%27Leary_Narv%C3%A1ez.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Plaza_O%27Leary_Narv%C3%A1ez.jpg/120px-Plaza_O%27Leary_Narv%C3%A1ez.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Plaza_O'Leary_Narv%C3%A1ez.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Plaza_O'Leary_Narv%C3%A1ez.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Plaza_O%27Leary_Narv%C3%A1ez.jpg/250px-Plaza_O%27Leary_Narv%C3%A1ez.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 160,
+          "originalWidth": 960,
+          "originalHeight": 1280,
+          "fileType": null,
+          "alt": "Plaza O’Leary",
+          "title": "Plaza O’Leary",
+          "caption": "Plaza O’Leary"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 138,
+          "rowText": "Venezuela\nCaracas\nPoliedro de Caracas\n1974\n20,000",
+          "rowHtml": "<tr>\n<td rowspan=\"12\"><a href=\"https://en.wikipedia.org/wiki/Venezuela\" title=\"Venezuela\">Venezuela</a>\n</td>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Caracas\" title=\"Caracas\">Caracas</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Poliedro_de_Caracas\" title=\"Poliedro de Caracas\">Poliedro de Caracas</a>\n</td>\n<td>1974\n</td>\n<td>20,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 138,
+              "cell": {
+                "text": "Venezuela",
+                "lines": [
+                  "Venezuela"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Venezuela",
+                    "title": "Venezuela",
+                    "wikiTitle": "Venezuela",
+                    "href": "https://en.wikipedia.org/wiki/Venezuela",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 138,
+              "cell": {
+                "text": "Caracas",
+                "lines": [
+                  "Caracas"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Caracas",
+                    "title": "Caracas",
+                    "wikiTitle": "Caracas",
+                    "href": "https://en.wikipedia.org/wiki/Caracas",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 138,
+              "cell": {
+                "text": "Poliedro de Caracas",
+                "lines": [
+                  "Poliedro de Caracas"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Poliedro de Caracas",
+                    "title": "Poliedro de Caracas",
+                    "wikiTitle": "Poliedro de Caracas",
+                    "href": "https://en.wikipedia.org/wiki/Poliedro_de_Caracas",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 138,
+              "cell": {
+                "text": "1974",
+                "lines": [
+                  "1974"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 138,
+              "cell": {
+                "text": "20,000",
+                "lines": [
+                  "20,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 138,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Poliedro de Caracas",
+            "lines": [
+              "Poliedro de Caracas"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Poliedro de Caracas",
+                "title": "Poliedro de Caracas",
+                "wikiTitle": "Poliedro de Caracas",
+                "href": "https://en.wikipedia.org/wiki/Poliedro_de_Caracas",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas by capacity",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_by_capacity",
+          "sourceRevisionId": null,
+          "sourceType": "arena_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 31,
+          "rowText": "Poliedro de Caracas\n20,000\nCaracas\nVenezuela",
+          "rowHtml": "<tr>\n<th scope=\"row\"><a href=\"https://en.wikipedia.org/wiki/Poliedro_de_Caracas\" title=\"Poliedro de Caracas\">Poliedro de Caracas</a>\n</th>\n<td>20,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Caracas\" title=\"Caracas\">Caracas</a>\n</td>\n<td><span class=\"flagicon\"><span class=\"mw-image-border\"><span><img alt=\"\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/40px-Flag_of_Venezuela.svg.png\" width=\"23\" height=\"15\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/60px-Flag_of_Venezuela.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\"></span></span>&nbsp;</span>Venezuela\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 31,
+              "cell": {
+                "text": "Poliedro de Caracas",
+                "lines": [
+                  "Poliedro de Caracas"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Poliedro de Caracas",
+                    "title": "Poliedro de Caracas",
+                    "wikiTitle": "Poliedro de Caracas",
+                    "href": "https://en.wikipedia.org/wiki/Poliedro_de_Caracas",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 31,
+              "cell": {
+                "text": "20,000",
+                "lines": [
+                  "20,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "City",
+              "headerKey": "city",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 31,
+              "cell": {
+                "text": "Caracas",
+                "lines": [
+                  "Caracas"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Caracas",
+                    "title": "Caracas",
+                    "wikiTitle": "Caracas",
+                    "href": "https://en.wikipedia.org/wiki/Caracas",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 31,
+              "cell": {
+                "text": "Venezuela",
+                "lines": [
+                  "Venezuela"
+                ],
+                "html": null,
+                "links": [],
+                "media": [
+                  {
+                    "fileTitle": null,
+                    "fileName": null,
+                    "kind": "photo",
+                    "filePageUrl": null,
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/40px-Flag_of_Venezuela.svg.png",
+                    "originalRedirectUrl": null,
+                    "enwikiOriginalRedirectUrl": null,
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/60px-Flag_of_Venezuela.svg.png",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 23,
+                    "height": 15,
+                    "originalWidth": 900,
+                    "originalHeight": 600,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": null,
+              "fileName": null,
+              "kind": "photo",
+              "filePageUrl": null,
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/40px-Flag_of_Venezuela.svg.png",
+              "originalRedirectUrl": null,
+              "enwikiOriginalRedirectUrl": null,
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/60px-Flag_of_Venezuela.svg.png",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 23,
+              "height": 15,
+              "originalWidth": 900,
+              "originalHeight": 600,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Poliedro de Caracas",
+            "lines": [
+              "Poliedro de Caracas"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Poliedro de Caracas",
+                "title": "Poliedro de Caracas",
+                "wikiTitle": "Poliedro de Caracas",
+                "href": "https://en.wikipedia.org/wiki/Poliedro_de_Caracas",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:34.309Z"
+    }
+  ]
+}

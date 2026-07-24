@@ -1,0 +1,352 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "US Virgin Islands",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 3,
+    "sourceTypeCounts": {
+      "world_master_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-7992151",
+      "pageId": 7992151,
+      "revisionId": null,
+      "title": "UVI Sports and Fitness Center",
+      "displayTitle": "UVI Sports and Fitness Center",
+      "url": "https://en.wikipedia.org/wiki/UVI_Sports_and_Fitness_Center",
+      "wikidataItem": "Q7579804",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7579804",
+      "aliases": [
+        "Sports and Fitness Center",
+        "UVI Sports and Fitness Center"
+      ],
+      "requestedTitles": [
+        "Sports and Fitness Center"
+      ],
+      "sourceLinkTexts": [
+        "Sports and Fitness Center"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Sports_and_Fitness_Center"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 18.340096,
+        "longitude": -64.97306,
+        "raw": "18.340096; -64.97306"
+      },
+      "leadParagraphs": [],
+      "infobox": null,
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Basketball_venues_in_the_United_States_Virgin_Islands",
+        "Indoor_arenas_in_the_United_States_Virgin_Islands",
+        "College_basketball_venues_in_the_United_States",
+        "All_stub_articles",
+        "Caribbean_sports_venue_stubs",
+        "United_States_Virgin_Islands_sport_stubs"
+      ],
+      "externalLinks": [
+        "https://www.uvi.edu/news/2022/ceremony_for_renaming_sports_and_fitness_center.html",
+        "https://www.uvi.edu/student-life/athletics/sports_and_fitness_center.html",
+        "https://www.basketballtravelers.com/paradise-jam",
+        "https://geohack.toolforge.org/geohack.php?pagename=UVI_Sports_and_Fitness_Center&params=18.340096_N_64.97306_W_"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "University_of_the_Virgin_Islands_Sports_and_Fitness_Center.jpg",
+        "Flag_of_the_United_States_Virgin_Islands.svg",
+        "Sports_and_games.png"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:University of the Virgin Islands Sports and Fitness Center.jpg",
+          "fileName": "University of the Virgin Islands Sports and Fitness Center.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:University_of_the_Virgin_Islands_Sports_and_Fitness_Center.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/University_of_the_Virgin_Islands_Sports_and_Fitness_Center.jpg/250px-University_of_the_Virgin_Islands_Sports_and_Fitness_Center.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/University_of_the_Virgin_Islands_Sports_and_Fitness_Center.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/University_of_the_Virgin_Islands_Sports_and_Fitness_Center.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/University_of_the_Virgin_Islands_Sports_and_Fitness_Center.jpg/500px-University_of_the_Virgin_Islands_Sports_and_Fitness_Center.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 4320,
+          "originalHeight": 3240,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Elridge Wilburn Blake\nSports and Fitness Center"
+        },
+        {
+          "fileTitle": "File:Flag of the United States Virgin Islands.svg",
+          "fileName": "Flag of the United States Virgin Islands.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_the_United_States_Virgin_Islands.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/40px-Flag_of_the_United_States_Virgin_Islands.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_the_United_States_Virgin_Islands.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_the_United_States_Virgin_Islands.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_the_United_States_Virgin_Islands.svg/60px-Flag_of_the_United_States_Virgin_Islands.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 1275,
+          "originalHeight": 850,
+          "fileType": null,
+          "alt": "Flag of United States Virgin Islands",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Sports and games.png",
+          "fileName": "Sports and games.png",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Sports_and_games.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/40px-Sports_and_games.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Sports_and_games.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Sports_and_games.png/60px-Sports_and_games.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 28,
+          "originalWidth": 136,
+          "originalHeight": 125,
+          "fileType": null,
+          "alt": "Sport icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "North America"
+          ],
+          "tableIndex": 3,
+          "tableCaption": null,
+          "rowIndex": 60,
+          "rowText": "US Virgin Islands\nSaint Thomas\nSports and Fitness Center\n3,500",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/United_States_Virgin_Islands\" title=\"United States Virgin Islands\">US Virgin Islands</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Saint_Thomas,_U.S._Virgin_Islands\" title=\"Saint Thomas, U.S. Virgin Islands\">Saint Thomas</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Sports_and_Fitness_Center\" class=\"mw-redirect\" title=\"Sports and Fitness Center\">Sports and Fitness Center</a>\n</td>\n<td>\n</td>\n<td align=\"right\">3,500\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 60,
+              "cell": {
+                "text": "US Virgin Islands",
+                "lines": [
+                  "US Virgin Islands"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "US Virgin Islands",
+                    "title": "United States Virgin Islands",
+                    "wikiTitle": "United States Virgin Islands",
+                    "href": "https://en.wikipedia.org/wiki/United_States_Virgin_Islands",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 60,
+              "cell": {
+                "text": "Saint Thomas",
+                "lines": [
+                  "Saint Thomas"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Saint Thomas",
+                    "title": "Saint Thomas, U.S. Virgin Islands",
+                    "wikiTitle": "Saint Thomas, U.S. Virgin Islands",
+                    "href": "https://en.wikipedia.org/wiki/Saint_Thomas,_U.S._Virgin_Islands",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 60,
+              "cell": {
+                "text": "Sports and Fitness Center",
+                "lines": [
+                  "Sports and Fitness Center"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Sports and Fitness Center",
+                    "title": "Sports and Fitness Center",
+                    "wikiTitle": "Sports and Fitness Center",
+                    "href": "https://en.wikipedia.org/wiki/Sports_and_Fitness_Center",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 60,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 60,
+              "cell": {
+                "text": "3,500",
+                "lines": [
+                  "3,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 60,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Sports and Fitness Center",
+            "lines": [
+              "Sports and Fitness Center"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Sports and Fitness Center",
+                "title": "Sports and Fitness Center",
+                "wikiTitle": "Sports and Fitness Center",
+                "href": "https://en.wikipedia.org/wiki/Sports_and_Fitness_Center",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:06.044Z"
+    }
+  ]
+}
