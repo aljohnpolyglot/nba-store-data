@@ -1,0 +1,3622 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Azerbaijan",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 3
+  },
+  "stats": {
+    "arenaCount": 3,
+    "sourceRowCount": 3,
+    "mediaRecordCount": 26,
+    "sourceTypeCounts": {
+      "world_master_list": 3
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-32644135",
+      "pageId": 32644135,
+      "revisionId": null,
+      "title": "Baku Crystal Hall",
+      "displayTitle": "Baku Crystal Hall",
+      "url": "https://en.wikipedia.org/wiki/Baku_Crystal_Hall",
+      "wikidataItem": "Q618714",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q618714",
+      "aliases": [
+        "Baku Crystal Hall"
+      ],
+      "requestedTitles": [
+        "Baku Crystal Hall"
+      ],
+      "sourceLinkTexts": [
+        "Baku Crystal Hall"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Baku_Crystal_Hall"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 40.344,
+        "longitude": 49.85,
+        "raw": "40.344; 49.850"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Baku Crystal Hall",
+        "groups": [
+          "Construction",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Bakı Kristal Zalı",
+            "lines": [
+              "Bakı Kristal Zalı"
+            ],
+            "html": "<td class=\"infobox-data\">Bakı Kristal Zalı</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Baku, Azerbaijan",
+            "lines": [
+              "Baku, Azerbaijan"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Baku\" title=\"Baku\">Baku</a>, <a href=\"https://en.wikipedia.org/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a></td>",
+            "links": [
+              {
+                "text": "Baku",
+                "title": "Baku",
+                "wikiTitle": "Baku",
+                "href": "https://en.wikipedia.org/wiki/Baku",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Azerbaijan",
+                "title": "Azerbaijan",
+                "wikiTitle": "Azerbaijan",
+                "href": "https://en.wikipedia.org/wiki/Azerbaijan",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "40°20′38″N 49°51′00″E﻿ / ﻿40.344°N 49.850°E﻿ / 40.344; 49.850",
+            "lines": [
+              "40°20′38″N 49°51′00″E﻿ / ﻿40.344°N 49.850°E﻿ / 40.344; 49.850"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Baku_Crystal_Hall&amp;params=40.344_N_49.850_E_dim:250_region:AZ_type:landmark_source:dewiki\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40°20′38″N</span> <span class=\"longitude\">49°51′00″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.344°N 49.850°E</span><span>﻿ / <span class=\"geo\">40.344; 49.850</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "40°20′38″N 49°51′00″E﻿ / ﻿40.344°N 49.850°E﻿ / 40.344; 49.850",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Baku_Crystal_Hall&params=40.344_N_49.850_E_dim:250_region:AZ_type:landmark_source:dewiki",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Baku City Executive Power",
+            "lines": [
+              "Baku City Executive Power"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Baku_City_Executive_Power\" title=\"Baku City Executive Power\">Baku City Executive Power</a></td>",
+            "links": [
+              {
+                "text": "Baku City Executive Power",
+                "title": "Baku City Executive Power",
+                "wikiTitle": "Baku City Executive Power",
+                "href": "https://en.wikipedia.org/wiki/Baku_City_Executive_Power",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "12,000 (seated)\n27,000 (with standing room)",
+            "lines": [
+              "12,000 (seated)",
+              "27,000 (with standing room)"
+            ],
+            "html": "<td class=\"infobox-data\">12,000 (seated)<br>27,000 (with standing room)</td>",
+            "links": [
+              {
+                "text": "[3]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-capacity-3",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[3]",
+                "href": "https://en.wikipedia.org/#cite_note-capacity-3"
+              },
+              {
+                "label": "[3]",
+                "href": "https://en.wikipedia.org/#cite_note-capacity-3"
+              }
+            ]
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "August 2011 - April 2012",
+            "lines": [
+              "August 2011 - April 2012"
+            ],
+            "html": "<td class=\"infobox-data\">August 2011 - April 2012</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "7 May 2012",
+            "lines": [
+              "7 May 2012"
+            ],
+            "html": "<td class=\"infobox-data\">7 May 2012</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "$350 million",
+            "lines": [
+              "$350 million"
+            ],
+            "html": "<td class=\"infobox-data\">$350 million</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-1"
+              }
+            ]
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "GMP International GmbH",
+            "lines": [
+              "GMP International GmbH"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Gerkan,_Marg_and_Partners\" title=\"Gerkan, Marg and Partners\">GMP International GmbH</a></td>",
+            "links": [
+              {
+                "text": "GMP International GmbH",
+                "title": "Gerkan, Marg and Partners",
+                "wikiTitle": "Gerkan, Marg and Partners",
+                "href": "https://en.wikipedia.org/wiki/Gerkan,_Marg_and_Partners",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[2]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-2",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[2]",
+                "href": "https://en.wikipedia.org/#cite_note-2"
+              }
+            ]
+          },
+          {
+            "label": "Project manager",
+            "key": "project_manager",
+            "group": "Construction",
+            "text": "Alpine Bau Deutschland AG,\nNussli Group,\nBasler & Hofmann AG",
+            "lines": [
+              "Alpine Bau Deutschland AG,",
+              "Nussli Group,",
+              "Basler & Hofmann AG"
+            ],
+            "html": "<td class=\"infobox-data\">Alpine Bau Deutschland AG,<br><a href=\"https://en.wikipedia.org/wiki/Nussli_Group\" title=\"Nussli Group\">Nussli Group</a>,<br>Basler &amp; Hofmann AG</td>",
+            "links": [
+              {
+                "text": "Nussli Group",
+                "title": "Nussli Group",
+                "wikiTitle": "Nussli Group",
+                "href": "https://en.wikipedia.org/wiki/Nussli_Group",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Main contractors",
+            "key": "main_contractors",
+            "group": "Construction",
+            "text": "SSF Ingenieure AG,\nseele austria GmbH & Co. KG",
+            "lines": [
+              "SSF Ingenieure AG,",
+              "seele austria GmbH & Co. KG"
+            ],
+            "html": "<td class=\"infobox-data\">SSF Ingenieure AG,<br>seele austria GmbH &amp; Co. KG</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "www.crystalhall.az",
+            "lines": [
+              "www.crystalhall.az"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.crystalhall.az/\">www<wbr>.crystalhall<wbr>.az</a></span></td>",
+            "links": [
+              {
+                "text": "www.crystalhall.az",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://www.crystalhall.az/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Bakı Kristal Zalı",
+              "lines": [
+                "Bakı Kristal Zalı"
+              ],
+              "html": "<td class=\"infobox-data\">Bakı Kristal Zalı</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Baku, Azerbaijan",
+              "lines": [
+                "Baku, Azerbaijan"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Baku\" title=\"Baku\">Baku</a>, <a href=\"https://en.wikipedia.org/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a></td>",
+              "links": [
+                {
+                  "text": "Baku",
+                  "title": "Baku",
+                  "wikiTitle": "Baku",
+                  "href": "https://en.wikipedia.org/wiki/Baku",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Azerbaijan",
+                  "title": "Azerbaijan",
+                  "wikiTitle": "Azerbaijan",
+                  "href": "https://en.wikipedia.org/wiki/Azerbaijan",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "40°20′38″N 49°51′00″E﻿ / ﻿40.344°N 49.850°E﻿ / 40.344; 49.850",
+              "lines": [
+                "40°20′38″N 49°51′00″E﻿ / ﻿40.344°N 49.850°E﻿ / 40.344; 49.850"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Baku_Crystal_Hall&amp;params=40.344_N_49.850_E_dim:250_region:AZ_type:landmark_source:dewiki\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40°20′38″N</span> <span class=\"longitude\">49°51′00″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.344°N 49.850°E</span><span>﻿ / <span class=\"geo\">40.344; 49.850</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "40°20′38″N 49°51′00″E﻿ / ﻿40.344°N 49.850°E﻿ / 40.344; 49.850",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Baku_Crystal_Hall&params=40.344_N_49.850_E_dim:250_region:AZ_type:landmark_source:dewiki",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Baku City Executive Power",
+              "lines": [
+                "Baku City Executive Power"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Baku_City_Executive_Power\" title=\"Baku City Executive Power\">Baku City Executive Power</a></td>",
+              "links": [
+                {
+                  "text": "Baku City Executive Power",
+                  "title": "Baku City Executive Power",
+                  "wikiTitle": "Baku City Executive Power",
+                  "href": "https://en.wikipedia.org/wiki/Baku_City_Executive_Power",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "12,000 (seated)\n27,000 (with standing room)",
+              "lines": [
+                "12,000 (seated)",
+                "27,000 (with standing room)"
+              ],
+              "html": "<td class=\"infobox-data\">12,000 (seated)<br>27,000 (with standing room)</td>",
+              "links": [
+                {
+                  "text": "[3]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-capacity-3",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[3]",
+                  "href": "https://en.wikipedia.org/#cite_note-capacity-3"
+                },
+                {
+                  "label": "[3]",
+                  "href": "https://en.wikipedia.org/#cite_note-capacity-3"
+                }
+              ]
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "August 2011 - April 2012",
+              "lines": [
+                "August 2011 - April 2012"
+              ],
+              "html": "<td class=\"infobox-data\">August 2011 - April 2012</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "7 May 2012",
+              "lines": [
+                "7 May 2012"
+              ],
+              "html": "<td class=\"infobox-data\">7 May 2012</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "$350 million",
+              "lines": [
+                "$350 million"
+              ],
+              "html": "<td class=\"infobox-data\">$350 million</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-1"
+                }
+              ]
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "GMP International GmbH",
+              "lines": [
+                "GMP International GmbH"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Gerkan,_Marg_and_Partners\" title=\"Gerkan, Marg and Partners\">GMP International GmbH</a></td>",
+              "links": [
+                {
+                  "text": "GMP International GmbH",
+                  "title": "Gerkan, Marg and Partners",
+                  "wikiTitle": "Gerkan, Marg and Partners",
+                  "href": "https://en.wikipedia.org/wiki/Gerkan,_Marg_and_Partners",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "[2]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-2",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[2]",
+                  "href": "https://en.wikipedia.org/#cite_note-2"
+                }
+              ]
+            }
+          ],
+          "project_manager": [
+            {
+              "label": "Project manager",
+              "key": "project_manager",
+              "group": "Construction",
+              "text": "Alpine Bau Deutschland AG,\nNussli Group,\nBasler & Hofmann AG",
+              "lines": [
+                "Alpine Bau Deutschland AG,",
+                "Nussli Group,",
+                "Basler & Hofmann AG"
+              ],
+              "html": "<td class=\"infobox-data\">Alpine Bau Deutschland AG,<br><a href=\"https://en.wikipedia.org/wiki/Nussli_Group\" title=\"Nussli Group\">Nussli Group</a>,<br>Basler &amp; Hofmann AG</td>",
+              "links": [
+                {
+                  "text": "Nussli Group",
+                  "title": "Nussli Group",
+                  "wikiTitle": "Nussli Group",
+                  "href": "https://en.wikipedia.org/wiki/Nussli_Group",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "main_contractors": [
+            {
+              "label": "Main contractors",
+              "key": "main_contractors",
+              "group": "Construction",
+              "text": "SSF Ingenieure AG,\nseele austria GmbH & Co. KG",
+              "lines": [
+                "SSF Ingenieure AG,",
+                "seele austria GmbH & Co. KG"
+              ],
+              "html": "<td class=\"infobox-data\">SSF Ingenieure AG,<br>seele austria GmbH &amp; Co. KG</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "www.crystalhall.az",
+              "lines": [
+                "www.crystalhall.az"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.crystalhall.az/\">www<wbr>.crystalhall<wbr>.az</a></span></td>",
+              "links": [
+                {
+                  "text": "www.crystalhall.az",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://www.crystalhall.az/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Bakı Kristal Zalı"
+          ],
+          "location": [
+            "Baku, Azerbaijan"
+          ],
+          "coordinates": [
+            "40°20′38″N 49°51′00″E﻿ / ﻿40.344°N 49.850°E﻿ / 40.344; 49.850"
+          ],
+          "owner": [
+            "Baku City Executive Power"
+          ],
+          "capacity": [
+            "12,000 (seated)\n27,000 (with standing room)"
+          ],
+          "built": [
+            "August 2011 - April 2012"
+          ],
+          "opened": [
+            "7 May 2012"
+          ],
+          "cost": [
+            "$350 million"
+          ],
+          "architect": [
+            "GMP International GmbH"
+          ],
+          "project_manager": [
+            "Alpine Bau Deutschland AG,\nNussli Group,\nBasler & Hofmann AG"
+          ],
+          "main_contractors": [
+            "SSF Ingenieure AG,\nseele austria GmbH & Co. KG"
+          ],
+          "website": [
+            "www.crystalhall.az"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "12,000 (seated)",
+          "27,000 (with standing room)"
+        ],
+        "tenants": [],
+        "websites": [
+          "http://www.crystalhall.az/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:Baku Crystal Hall 2014 1.jpg",
+            "fileName": "Baku Crystal Hall 2014 1.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Baku_Crystal_Hall_2014_1.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Baku_Crystal_Hall_2014_1.jpg/250px-Baku_Crystal_Hall_2014_1.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Baku_Crystal_Hall_2014_1.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Baku_Crystal_Hall_2014_1.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Baku_Crystal_Hall_2014_1.jpg/500px-Baku_Crystal_Hall_2014_1.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 167,
+            "originalWidth": 3725,
+            "originalHeight": 2483,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Exterior of Baku Crystal Hall"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Baku_Crystal_Hall&revid=1362503513&groups=_2c203bd7f4f338d6c80fea804d0fcb0e4fc3347d&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Baku_Crystal_Hall&revid=1362503513&groups=_2c203bd7f4f338d6c80fea804d0fcb0e4fc3347d&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Baku Crystal Hall"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Baku Crystal Hall</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Baku_Crystal_Hall_2014_1.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Baku_Crystal_Hall_2014_1.jpg/250px-Baku_Crystal_Hall_2014_1.jpg\" width=\"250\" height=\"167\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Baku_Crystal_Hall_2014_1.jpg/500px-Baku_Crystal_Hall_2014_1.jpg 2x\" data-file-width=\"3725\" data-file-height=\"2483\"></a></span><div class=\"infobox-caption\">Exterior of Baku Crystal Hall</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_2c203bd7f4f338d6c80fea804d0fcb0e4fc3347d&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Baku_Crystal_Hall&amp;revid=1362503513&amp;groups=_2c203bd7f4f338d6c80fea804d0fcb0e4fc3347d&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Baku_Crystal_Hall&amp;revid=1362503513&amp;groups=_2c203bd7f4f338d6c80fea804d0fcb0e4fc3347d&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Baku Crystal Hall</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Bakı Kristal Zalı</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Baku\" title=\"Baku\">Baku</a>, <a href=\"https://en.wikipedia.org/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Baku_Crystal_Hall&amp;params=40.344_N_49.850_E_dim:250_region:AZ_type:landmark_source:dewiki\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40°20′38″N</span> <span class=\"longitude\">49°51′00″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.344°N 49.850°E</span><span>﻿ / <span class=\"geo\">40.344; 49.850</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Baku_City_Executive_Power\" title=\"Baku City Executive Power\">Baku City Executive Power</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">12,000 (seated)<br>27,000 (with standing room)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">August 2011 - April 2012</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">7 May 2012</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">$350 million</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Gerkan,_Marg_and_Partners\" title=\"Gerkan, Marg and Partners\">GMP International GmbH</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Project manager</div></th><td class=\"infobox-data\">Alpine Bau Deutschland AG,<br><a href=\"https://en.wikipedia.org/wiki/Nussli_Group\" title=\"Nussli Group\">Nussli Group</a>,<br>Basler &amp; Hofmann AG</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Main contractors</div></th><td class=\"infobox-data\">SSF Ingenieure AG,<br>seele austria GmbH &amp; Co. KG</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.crystalhall.az/\">www<wbr>.crystalhall<wbr>.az</a></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_maint:_deprecated_archival_service",
+        "Webarchive_template_wayback_links",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Commons_category_link_from_Wikidata",
+        "Music_venues_completed_in_2012",
+        "Sports_venues_completed_in_2012",
+        "Sports_venues_in_Baku",
+        "Music_venues_in_Azerbaijan",
+        "Indoor_arenas_in_Azerbaijan",
+        "2012_establishments_in_Azerbaijan",
+        "Tourist_attractions_in_Baku",
+        "Gerkan,_Marg_and_Partners_buildings",
+        "Volleyball_venues_in_Azerbaijan",
+        "Handball_venues_in_Azerbaijan",
+        "2015_European_Games_venues",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Baku_Crystal_Hall&params=40.344_N_49.850_E_dim:250_region:AZ_type:landmark_source:dewiki",
+        "http://www.stern.de/kultur/tv/eurovision-song-contest-in-baku-die-arena-die-niemand-fotografieren-darf-1818943.html",
+        "http://www.tagesspiegel.de/berlin/eurovision-song-contest-aufbauhilfe-fuer-baku/6149134.html",
+        "http://www.crystalhall.az/en/menus/63/history",
+        "http://www.esctoday.com/news/read/17642",
+        "http://www.eurovision.tv/page/news?id=45013&_t=crystal_hall_approved_as_eurovision_2012_venue",
+        "https://web.archive.org/web/20120325184943/http://en.apa.az/news.php?id=154140",
+        "http://en.apa.az/news.php?id=154140",
+        "https://web.archive.org/web/20120122032535/http://abc.az/eng/news_01_09_2011_57201.html",
+        "http://abc.az/eng/news_01_09_2011_57201.html",
+        "http://en.trend.az/news/society/1929119.html",
+        "https://web.archive.org/web/20110928061541/http://www.1news.az/bomond/eurovision/20110908084455887.html",
+        "http://www.1news.az/bomond/eurovision/20110908084455887.html",
+        "http://eurovision.az/news/show/534/?lng=en",
+        "https://www.bbc.co.uk/news/world-europe-16223311",
+        "http://en.trend.az/azerbaijan/politics/2023307.html",
+        "http://www.dezeen.com/2012/01/27/sports-concert-complex-by-gmp-architekten/",
+        "http://echo-az.com/index.php?aid=20607",
+        "https://web.archive.org/web/20120415072035/http://echo-az.com/index.php?aid=20607",
+        "https://www.trend.az/life/showbiz/2793095.html",
+        "https://eurasianet.org/s/azerbaijan-books-us-pop-star-christina-aguilera",
+        "https://mehriban-aliyeva.az/en/news/node/847334",
+        "https://www.facebook.com/IeSFederation/posts/731932530196236",
+        "http://www.news.az/articles/official/76051",
+        "https://mmajunkie.usatoday.com/story/sports/ufc/2025/06/21/ufc-baku-results-khalil-rountree-vs-jamahal-hill/84302430007/",
+        "http://www.crystalhall.az",
+        "https://web.archive.org/web/20120209132032/http://www.alpine-bau.de/en/bereiche/sportstattenbau/baku-crystal-hall/",
+        "https://viaf.org/viaf/305339885",
+        "https://id.oclc.org/worldcat/entity/E39PBJyxmYmxTmkCHtTwM8fcyd",
+        "https://musicbrainz.org/place/a9e7a182-7f73-4f01-83d4-ceec336f3c59"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Structure and facilities",
+          "anchor": "Structure_and_facilities"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Usage",
+          "anchor": "Usage"
+        },
+        {
+          "index": "4",
+          "level": 3,
+          "line": "Concerts",
+          "anchor": "Concerts"
+        },
+        {
+          "index": "5",
+          "level": 3,
+          "line": "Culture",
+          "anchor": "Culture"
+        },
+        {
+          "index": "6",
+          "level": 3,
+          "line": "Sports",
+          "anchor": "Sports"
+        },
+        {
+          "index": "7",
+          "level": 2,
+          "line": "Gallery",
+          "anchor": "Gallery"
+        },
+        {
+          "index": "8",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "9",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Baku,_Azerbaijan_-_panoramio_(2).jpg",
+        "Ilham_Aliyev_attended_the_opening_of_the_Baku_Crystal_Hall,_the_venue_of_the_Eurovision-2012_Song_Contest.jpg",
+        "Crystal_Hall_Baku_Inside.jpg",
+        "Final_Four_Baku_4.JPG",
+        "View_of_Baku_at_night_3.jpg",
+        "Stamps_of_Azerbaijan,_2014-1177.jpg",
+        "Baku_Crystal_Hall_2014_1.jpg",
+        "Baku_Cristall_Hall_under_construction_January_2012_(cropped).jpg",
+        "Commons-logo.svg",
+        "Symbol_category_class.svg",
+        "Coat_of_arms_of_Baku.svg",
+        "OOjs_UI_icon_edit-ltr-progressive.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Baku Crystal Hall 2014 1.jpg",
+          "fileName": "Baku Crystal Hall 2014 1.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Baku_Crystal_Hall_2014_1.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Baku_Crystal_Hall_2014_1.jpg/250px-Baku_Crystal_Hall_2014_1.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Baku_Crystal_Hall_2014_1.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Baku_Crystal_Hall_2014_1.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Baku_Crystal_Hall_2014_1.jpg/500px-Baku_Crystal_Hall_2014_1.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 3725,
+          "originalHeight": 2483,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Exterior of Baku Crystal Hall"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Baku_Crystal_Hall&revid=1362503513&groups=_2c203bd7f4f338d6c80fea804d0fcb0e4fc3347d&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Baku_Crystal_Hall&revid=1362503513&groups=_2c203bd7f4f338d6c80fea804d0fcb0e4fc3347d&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Baku Crystal Hall"
+        },
+        {
+          "fileTitle": "File:Baku Cristall Hall under construction January 2012 (cropped).jpg",
+          "fileName": "Baku Cristall Hall under construction January 2012 (cropped).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Baku_Cristall_Hall_under_construction_January_2012_(cropped).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Baku_Cristall_Hall_under_construction_January_2012_%28cropped%29.jpg/250px-Baku_Cristall_Hall_under_construction_January_2012_%28cropped%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Baku_Cristall_Hall_under_construction_January_2012_(cropped).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Baku_Cristall_Hall_under_construction_January_2012_(cropped).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Baku_Cristall_Hall_under_construction_January_2012_%28cropped%29.jpg/500px-Baku_Cristall_Hall_under_construction_January_2012_%28cropped%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 139,
+          "originalWidth": 1513,
+          "originalHeight": 841,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Baku Crystal Hall under construction (January 2012)"
+        },
+        {
+          "fileTitle": "File:Baku, Azerbaijan - panoramio (2).jpg",
+          "fileName": "Baku, Azerbaijan - panoramio (2).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Baku,_Azerbaijan_-_panoramio_(2).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Baku%2C_Azerbaijan_-_panoramio_%282%29.jpg/330px-Baku%2C_Azerbaijan_-_panoramio_%282%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Baku%2C_Azerbaijan_-_panoramio_(2).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Baku%2C_Azerbaijan_-_panoramio_(2).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Baku%2C_Azerbaijan_-_panoramio_%282%29.jpg/960px-Baku%2C_Azerbaijan_-_panoramio_%282%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 214,
+          "height": 120,
+          "originalWidth": 5312,
+          "originalHeight": 2988,
+          "fileType": null,
+          "alt": "Daytime view of Baku Crystal Hall",
+          "title": "Daytime view of Baku Crystal Hall",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Ilham Aliyev attended the opening of the Baku Crystal Hall, the venue of the Eurovision-2012 Song Contest.jpg",
+          "fileName": "Ilham Aliyev attended the opening of the Baku Crystal Hall, the venue of the Eurovision-2012 Song Contest.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Ilham_Aliyev_attended_the_opening_of_the_Baku_Crystal_Hall,_the_venue_of_the_Eurovision-2012_Song_Contest.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ilham_Aliyev_attended_the_opening_of_the_Baku_Crystal_Hall%2C_the_venue_of_the_Eurovision-2012_Song_Contest.jpg/250px-Ilham_Aliyev_attended_the_opening_of_the_Baku_Crystal_Hall%2C_the_venue_of_the_Eurovision-2012_Song_Contest.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ilham_Aliyev_attended_the_opening_of_the_Baku_Crystal_Hall%2C_the_venue_of_the_Eurovision-2012_Song_Contest.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Ilham_Aliyev_attended_the_opening_of_the_Baku_Crystal_Hall%2C_the_venue_of_the_Eurovision-2012_Song_Contest.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ilham_Aliyev_attended_the_opening_of_the_Baku_Crystal_Hall%2C_the_venue_of_the_Eurovision-2012_Song_Contest.jpg/330px-Ilham_Aliyev_attended_the_opening_of_the_Baku_Crystal_Hall%2C_the_venue_of_the_Eurovision-2012_Song_Contest.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 97,
+          "height": 120,
+          "originalWidth": 820,
+          "originalHeight": 1020,
+          "fileType": null,
+          "alt": "The opening of the Baku Crystal Hall",
+          "title": "The opening of the Baku Crystal Hall",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Crystal Hall Baku Inside.jpg",
+          "fileName": "Crystal Hall Baku Inside.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Crystal_Hall_Baku_Inside.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Crystal_Hall_Baku_Inside.jpg/330px-Crystal_Hall_Baku_Inside.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Crystal_Hall_Baku_Inside.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Crystal_Hall_Baku_Inside.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Crystal_Hall_Baku_Inside.jpg/960px-Crystal_Hall_Baku_Inside.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 192,
+          "height": 120,
+          "originalWidth": 1024,
+          "originalHeight": 640,
+          "fileType": null,
+          "alt": "The 2012 Eurovision Song Contest was the first major event at Baku Crystal Hall",
+          "title": "The 2012 Eurovision Song Contest was the first major event at Baku Crystal Hall",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Final Four Baku 4.JPG",
+          "fileName": "Final Four Baku 4.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Final_Four_Baku_4.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Final_Four_Baku_4.JPG/500px-Final_Four_Baku_4.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Final_Four_Baku_4.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Final_Four_Baku_4.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Final_Four_Baku_4.JPG/1280px-Final_Four_Baku_4.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 324,
+          "height": 120,
+          "originalWidth": 1680,
+          "originalHeight": 624,
+          "fileType": null,
+          "alt": "CEV Champions League 2013-2014 Final Four",
+          "title": "CEV Champions League 2013-2014 Final Four",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:View of Baku at night 3.jpg",
+          "fileName": "View of Baku at night 3.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:View_of_Baku_at_night_3.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/View_of_Baku_at_night_3.jpg/250px-View_of_Baku_at_night_3.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/View_of_Baku_at_night_3.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/View_of_Baku_at_night_3.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/View_of_Baku_at_night_3.jpg/500px-View_of_Baku_at_night_3.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 160,
+          "height": 120,
+          "originalWidth": 3264,
+          "originalHeight": 2448,
+          "fileType": null,
+          "alt": "Baku at night with the Baku Crystal Hall in the background",
+          "title": "Baku at night with the Baku Crystal Hall in the background",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Stamps of Azerbaijan, 2014-1177.jpg",
+          "fileName": "Stamps of Azerbaijan, 2014-1177.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Stamps_of_Azerbaijan,_2014-1177.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Stamps_of_Azerbaijan%2C_2014-1177.jpg/330px-Stamps_of_Azerbaijan%2C_2014-1177.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Stamps_of_Azerbaijan%2C_2014-1177.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Stamps_of_Azerbaijan%2C_2014-1177.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Stamps_of_Azerbaijan%2C_2014-1177.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 171,
+          "height": 120,
+          "originalWidth": 359,
+          "originalHeight": 253,
+          "fileType": null,
+          "alt": "Stamp celebrating Baku Crystal Hall",
+          "title": "Stamp celebrating Baku Crystal Hall",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 40,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/20px-Symbol_category_class.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/40px-Symbol_category_class.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 16,
+          "height": 16,
+          "originalWidth": 180,
+          "originalHeight": 185,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Coat of arms of Baku.svg",
+          "fileName": "Coat of arms of Baku.svg",
+          "kind": "drawing",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coat_of_arms_of_Baku.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coat_of_arms_of_Baku.svg/20px-Coat_of_arms_of_Baku.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coat_of_arms_of_Baku.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coat_of_arms_of_Baku.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coat_of_arms_of_Baku.svg/40px-Coat_of_arms_of_Baku.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 15,
+          "height": 20,
+          "originalWidth": 170,
+          "originalHeight": 230,
+          "fileType": null,
+          "alt": "Coat of arms of Baku",
+          "title": "Coat of arms of Baku",
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 30,
+          "rowText": "Azerbaijan\nBaku\nBaku Crystal Hall\n2011\n27,000\nEurovision Song Contest 2012",
+          "rowHtml": "<tr>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a>\n</td>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Baku\" title=\"Baku\">Baku</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Baku_Crystal_Hall\" title=\"Baku Crystal Hall\">Baku Crystal Hall</a>\n</td>\n<td>2011\n</td>\n<td>27,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2012\" title=\"Eurovision Song Contest 2012\">Eurovision Song Contest 2012</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "Azerbaijan",
+                "lines": [
+                  "Azerbaijan"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Azerbaijan",
+                    "title": "Azerbaijan",
+                    "wikiTitle": "Azerbaijan",
+                    "href": "https://en.wikipedia.org/wiki/Azerbaijan",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "Baku",
+                "lines": [
+                  "Baku"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Baku",
+                    "title": "Baku",
+                    "wikiTitle": "Baku",
+                    "href": "https://en.wikipedia.org/wiki/Baku",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "Baku Crystal Hall",
+                "lines": [
+                  "Baku Crystal Hall"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Baku Crystal Hall",
+                    "title": "Baku Crystal Hall",
+                    "wikiTitle": "Baku Crystal Hall",
+                    "href": "https://en.wikipedia.org/wiki/Baku_Crystal_Hall",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "2011",
+                "lines": [
+                  "2011"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "27,000",
+                "lines": [
+                  "27,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "Eurovision Song Contest 2012",
+                "lines": [
+                  "Eurovision Song Contest 2012"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Eurovision Song Contest 2012",
+                    "title": "Eurovision Song Contest 2012",
+                    "wikiTitle": "Eurovision Song Contest 2012",
+                    "href": "https://en.wikipedia.org/wiki/Eurovision_Song_Contest_2012",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Baku Crystal Hall",
+            "lines": [
+              "Baku Crystal Hall"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Baku Crystal Hall",
+                "title": "Baku Crystal Hall",
+                "wikiTitle": "Baku Crystal Hall",
+                "href": "https://en.wikipedia.org/wiki/Baku_Crystal_Hall",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:58.504Z"
+    },
+    {
+      "id": "wikipedia-page-15320609",
+      "pageId": 15320609,
+      "revisionId": null,
+      "title": "Heydar Aliyev Sports and Concert Complex",
+      "displayTitle": "Heydar Aliyev Sports and Concert Complex",
+      "url": "https://en.wikipedia.org/wiki/Heydar_Aliyev_Sports_and_Concert_Complex",
+      "wikidataItem": "Q2634267",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q2634267",
+      "aliases": [
+        "Heydar Aliyev Sports and Concert Complex",
+        "Heydar Aliyev Sports and Concert Arena"
+      ],
+      "requestedTitles": [
+        "Heydar Aliyev Sports and Concert Complex"
+      ],
+      "sourceLinkTexts": [
+        "Heydar Aliyev Sports and Concert Complex"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Heydar_Aliyev_Sports_and_Concert_Complex"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 40.39167,
+        "longitude": 49.825,
+        "raw": "40.39167; 49.82500"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Heydar Aliyev Sports and Concert Arena",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Tbilisi Avenue, Baku, Azerbaijan",
+            "lines": [
+              "Tbilisi Avenue, Baku, Azerbaijan"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Tbilisi_Avenue\" title=\"Tbilisi Avenue\">Tbilisi Avenue</a>, <a href=\"https://en.wikipedia.org/wiki/Baku\" title=\"Baku\">Baku</a>, <a href=\"https://en.wikipedia.org/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a></td>",
+            "links": [
+              {
+                "text": "Tbilisi Avenue",
+                "title": "Tbilisi Avenue",
+                "wikiTitle": "Tbilisi Avenue",
+                "href": "https://en.wikipedia.org/wiki/Tbilisi_Avenue",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Baku",
+                "title": "Baku",
+                "wikiTitle": "Baku",
+                "href": "https://en.wikipedia.org/wiki/Baku",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Azerbaijan",
+                "title": "Azerbaijan",
+                "wikiTitle": "Azerbaijan",
+                "href": "https://en.wikipedia.org/wiki/Azerbaijan",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "40°23′30″N 49°49′30″E﻿ / ﻿40.39167°N 49.82500°E﻿ / 40.39167; 49.82500",
+            "lines": [
+              "40°23′30″N 49°49′30″E﻿ / ﻿40.39167°N 49.82500°E﻿ / 40.39167; 49.82500"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Heydar_Aliyev_Sports_and_Concert_Complex&amp;params=40_23_30_N_49_49_30_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40°23′30″N</span> <span class=\"longitude\">49°49′30″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.39167°N 49.82500°E</span><span>﻿ / <span class=\"geo\">40.39167; 49.82500</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "40°23′30″N 49°49′30″E﻿ / ﻿40.39167°N 49.82500°E﻿ / 40.39167; 49.82500",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Heydar_Aliyev_Sports_and_Concert_Complex&params=40_23_30_N_49_49_30_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "8,000",
+            "lines": [
+              "8,000"
+            ],
+            "html": "<td class=\"infobox-data\">8,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "1977",
+            "lines": [
+              "1977"
+            ],
+            "html": "<td class=\"infobox-data\">1977</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-radical-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-radical-1"
+              }
+            ]
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "1989",
+            "lines": [
+              "1989"
+            ],
+            "html": "<td class=\"infobox-data\">1989</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-radical-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-radical-1"
+              }
+            ]
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1990",
+            "lines": [
+              "1990"
+            ],
+            "html": "<td class=\"infobox-data\">1990</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2006, 2013–15",
+            "lines": [
+              "2006, 2013–15"
+            ],
+            "html": "<td class=\"infobox-data\">2006, 2013–15</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Yuzef Kadimov",
+            "lines": [
+              "Yuzef Kadimov"
+            ],
+            "html": "<td class=\"infobox-data\">Yuzef Kadimov</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-radical-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-radical-1"
+              }
+            ]
+          },
+          {
+            "label": "Structural engineer",
+            "key": "structural_engineer",
+            "group": "Construction",
+            "text": "G.I.Bely",
+            "lines": [
+              "G.I.Bely"
+            ],
+            "html": "<td class=\"infobox-data\">G.I.Bely</td>",
+            "links": [
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-radical-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-radical-1"
+              }
+            ]
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Tbilisi Avenue, Baku, Azerbaijan",
+              "lines": [
+                "Tbilisi Avenue, Baku, Azerbaijan"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Tbilisi_Avenue\" title=\"Tbilisi Avenue\">Tbilisi Avenue</a>, <a href=\"https://en.wikipedia.org/wiki/Baku\" title=\"Baku\">Baku</a>, <a href=\"https://en.wikipedia.org/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a></td>",
+              "links": [
+                {
+                  "text": "Tbilisi Avenue",
+                  "title": "Tbilisi Avenue",
+                  "wikiTitle": "Tbilisi Avenue",
+                  "href": "https://en.wikipedia.org/wiki/Tbilisi_Avenue",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Baku",
+                  "title": "Baku",
+                  "wikiTitle": "Baku",
+                  "href": "https://en.wikipedia.org/wiki/Baku",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Azerbaijan",
+                  "title": "Azerbaijan",
+                  "wikiTitle": "Azerbaijan",
+                  "href": "https://en.wikipedia.org/wiki/Azerbaijan",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "40°23′30″N 49°49′30″E﻿ / ﻿40.39167°N 49.82500°E﻿ / 40.39167; 49.82500",
+              "lines": [
+                "40°23′30″N 49°49′30″E﻿ / ﻿40.39167°N 49.82500°E﻿ / 40.39167; 49.82500"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Heydar_Aliyev_Sports_and_Concert_Complex&amp;params=40_23_30_N_49_49_30_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40°23′30″N</span> <span class=\"longitude\">49°49′30″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.39167°N 49.82500°E</span><span>﻿ / <span class=\"geo\">40.39167; 49.82500</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "40°23′30″N 49°49′30″E﻿ / ﻿40.39167°N 49.82500°E﻿ / 40.39167; 49.82500",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Heydar_Aliyev_Sports_and_Concert_Complex&params=40_23_30_N_49_49_30_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "8,000",
+              "lines": [
+                "8,000"
+              ],
+              "html": "<td class=\"infobox-data\">8,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "1977",
+              "lines": [
+                "1977"
+              ],
+              "html": "<td class=\"infobox-data\">1977</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-radical-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-radical-1"
+                }
+              ]
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "1989",
+              "lines": [
+                "1989"
+              ],
+              "html": "<td class=\"infobox-data\">1989</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-radical-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-radical-1"
+                }
+              ]
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1990",
+              "lines": [
+                "1990"
+              ],
+              "html": "<td class=\"infobox-data\">1990</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2006, 2013–15",
+              "lines": [
+                "2006, 2013–15"
+              ],
+              "html": "<td class=\"infobox-data\">2006, 2013–15</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Yuzef Kadimov",
+              "lines": [
+                "Yuzef Kadimov"
+              ],
+              "html": "<td class=\"infobox-data\">Yuzef Kadimov</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-radical-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-radical-1"
+                }
+              ]
+            }
+          ],
+          "structural_engineer": [
+            {
+              "label": "Structural engineer",
+              "key": "structural_engineer",
+              "group": "Construction",
+              "text": "G.I.Bely",
+              "lines": [
+                "G.I.Bely"
+              ],
+              "html": "<td class=\"infobox-data\">G.I.Bely</td>",
+              "links": [
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-radical-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-radical-1"
+                }
+              ]
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Tbilisi Avenue, Baku, Azerbaijan"
+          ],
+          "coordinates": [
+            "40°23′30″N 49°49′30″E﻿ / ﻿40.39167°N 49.82500°E﻿ / 40.39167; 49.82500"
+          ],
+          "capacity": [
+            "8,000"
+          ],
+          "groundbreaking": [
+            "1977"
+          ],
+          "built": [
+            "1989"
+          ],
+          "opened": [
+            "1990"
+          ],
+          "renovated": [
+            "2006, 2013–15"
+          ],
+          "architect": [
+            "Yuzef Kadimov"
+          ],
+          "structural_engineer": [
+            "G.I.Bely"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "8,000"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Heydar Aliyev Sports and Exhibition Complex.jpg",
+            "fileName": "Heydar Aliyev Sports and Exhibition Complex.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg/250px-Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg/500px-Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 157,
+            "originalWidth": 2048,
+            "originalHeight": 1283,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Heydar_Aliyev_Sports_and_Concert_Complex&revid=1329967816&groups=_79af80d6a5935c2d4447d1776c1d1df29408fafb&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Heydar_Aliyev_Sports_and_Concert_Complex&revid=1329967816&groups=_79af80d6a5935c2d4447d1776c1d1df29408fafb&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Heydar Aliyev Sports and Concert Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Heydar Aliyev Sports and Concert Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg/250px-Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg\" width=\"250\" height=\"157\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg/500px-Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg 2x\" data-file-width=\"2048\" data-file-height=\"1283\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_79af80d6a5935c2d4447d1776c1d1df29408fafb&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Heydar_Aliyev_Sports_and_Concert_Complex&amp;revid=1329967816&amp;groups=_79af80d6a5935c2d4447d1776c1d1df29408fafb&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Heydar_Aliyev_Sports_and_Concert_Complex&amp;revid=1329967816&amp;groups=_79af80d6a5935c2d4447d1776c1d1df29408fafb&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Heydar Aliyev Sports and Concert Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Tbilisi_Avenue\" title=\"Tbilisi Avenue\">Tbilisi Avenue</a>, <a href=\"https://en.wikipedia.org/wiki/Baku\" title=\"Baku\">Baku</a>, <a href=\"https://en.wikipedia.org/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Heydar_Aliyev_Sports_and_Concert_Complex&amp;params=40_23_30_N_49_49_30_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40°23′30″N</span> <span class=\"longitude\">49°49′30″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.39167°N 49.82500°E</span><span>﻿ / <span class=\"geo\">40.39167; 49.82500</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">8,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">1977</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">1989</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1990</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2006, 2013–15</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\">Yuzef Kadimov</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Structural engineer</div></th><td class=\"infobox-data\">G.I.Bely</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Webarchive_template_wayback_links",
+        "Articles_with_Russian-language_sources_(ru)",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "All_articles_with_vague_or_ambiguous_time",
+        "Vague_or_ambiguous_time_from_September_2025",
+        "Commons_category_link_is_on_Wikidata",
+        "Indoor_arenas_in_Azerbaijan",
+        "Event_venues_established_in_1990",
+        "Culture_in_Baku",
+        "Sports_venues_in_Baku",
+        "2015_European_Games_venues",
+        "All_stub_articles",
+        "Azerbaijani_building_and_structure_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Heydar_Aliyev_Sports_and_Concert_Complex&params=40_23_30_N_49_49_30_E_type:landmark",
+        "http://www.insidethegames.biz/major-games/european-games/baku-2015/venues/1022710-radical-renovation-to-make-heydar-aliyev-sports-and-exhibition-complex-sparkle",
+        "http://www.expoholding.ru/center189/",
+        "https://web.archive.org/web/20120303052705/http://www.expoholding.ru/center189/",
+        "http://expomenu.ru/merchandise-mart/sport_and_exhibition_complex_named_by_h.aliev.html",
+        "https://web.archive.org/web/20090907193603/http://expomenu.ru/merchandise-mart/sport_and_exhibition_complex_named_by_h.aliev.html",
+        "http://www.eurovision.tv/page/news?id=1879",
+        "https://web.archive.org/web/20090608194505/http://www.eurovisiondance.tv/page/news?id=2913",
+        "http://www.eurovisiondance.tv/page/news?id=2913"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Transportation",
+          "anchor": "Transportation"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Notable sporting events",
+          "anchor": "Notable_sporting_events"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg",
+        "Heydar_Aliyev_Sports_and_Exhibition_Complex_1.jpg",
+        "Commons-logo.svg",
+        "Symbol_category_class.svg",
+        "Coat_of_arms_of_Baku.svg",
+        "Maiden_Tower_(Baku).jpg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Heydar Aliyev Sports and Exhibition Complex.jpg",
+          "fileName": "Heydar Aliyev Sports and Exhibition Complex.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg/250px-Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg/500px-Heydar_Aliyev_Sports_and_Exhibition_Complex.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 157,
+          "originalWidth": 2048,
+          "originalHeight": 1283,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Heydar_Aliyev_Sports_and_Concert_Complex&revid=1329967816&groups=_79af80d6a5935c2d4447d1776c1d1df29408fafb&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Heydar_Aliyev_Sports_and_Concert_Complex&revid=1329967816&groups=_79af80d6a5935c2d4447d1776c1d1df29408fafb&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Heydar Aliyev Sports and Concert Arena"
+        },
+        {
+          "fileTitle": "File:Heydar Aliyev Sports and Exhibition Complex 1.jpg",
+          "fileName": "Heydar Aliyev Sports and Exhibition Complex 1.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Heydar_Aliyev_Sports_and_Exhibition_Complex_1.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Heydar_Aliyev_Sports_and_Exhibition_Complex_1.jpg/250px-Heydar_Aliyev_Sports_and_Exhibition_Complex_1.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Heydar_Aliyev_Sports_and_Exhibition_Complex_1.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Heydar_Aliyev_Sports_and_Exhibition_Complex_1.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Heydar_Aliyev_Sports_and_Exhibition_Complex_1.jpg/500px-Heydar_Aliyev_Sports_and_Exhibition_Complex_1.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 162,
+          "originalWidth": 2362,
+          "originalHeight": 1528,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The 8,000-seat auditorium after renovation (April 2015)."
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/20px-Symbol_category_class.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/40px-Symbol_category_class.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 16,
+          "height": 16,
+          "originalWidth": 180,
+          "originalHeight": 185,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Coat of arms of Baku.svg",
+          "fileName": "Coat of arms of Baku.svg",
+          "kind": "drawing",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coat_of_arms_of_Baku.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coat_of_arms_of_Baku.svg/20px-Coat_of_arms_of_Baku.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coat_of_arms_of_Baku.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coat_of_arms_of_Baku.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coat_of_arms_of_Baku.svg/40px-Coat_of_arms_of_Baku.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 15,
+          "height": 20,
+          "originalWidth": 170,
+          "originalHeight": 230,
+          "fileType": null,
+          "alt": "Coat of arms of Baku",
+          "title": "Coat of arms of Baku",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Maiden Tower (Baku).jpg",
+          "fileName": "Maiden Tower (Baku).jpg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Maiden_Tower_(Baku).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Maiden_Tower_%28Baku%29.jpg/40px-Maiden_Tower_%28Baku%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Maiden_Tower_(Baku).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Maiden_Tower_(Baku).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Maiden_Tower_%28Baku%29.jpg/120px-Maiden_Tower_%28Baku%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 40,
+          "height": 27,
+          "originalWidth": 1200,
+          "originalHeight": 803,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 31,
+          "rowText": "Heydar Aliyev Sports and Concert Complex\n1990\n8,000\n2009 Rhythmic Gymnastics European Championships",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Heydar_Aliyev_Sports_and_Concert_Complex\" title=\"Heydar Aliyev Sports and Concert Complex\">Heydar Aliyev Sports and Concert Complex</a>\n</td>\n<td>1990\n</td>\n<td>8,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/2009_Rhythmic_Gymnastics_European_Championships\" title=\"2009 Rhythmic Gymnastics European Championships\">2009 Rhythmic Gymnastics European Championships</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "Azerbaijan",
+                "lines": [
+                  "Azerbaijan"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Azerbaijan",
+                    "title": "Azerbaijan",
+                    "wikiTitle": "Azerbaijan",
+                    "href": "https://en.wikipedia.org/wiki/Azerbaijan",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "Baku",
+                "lines": [
+                  "Baku"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Baku",
+                    "title": "Baku",
+                    "wikiTitle": "Baku",
+                    "href": "https://en.wikipedia.org/wiki/Baku",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 31,
+              "cell": {
+                "text": "Heydar Aliyev Sports and Concert Complex",
+                "lines": [
+                  "Heydar Aliyev Sports and Concert Complex"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Heydar Aliyev Sports and Concert Complex",
+                    "title": "Heydar Aliyev Sports and Concert Complex",
+                    "wikiTitle": "Heydar Aliyev Sports and Concert Complex",
+                    "href": "https://en.wikipedia.org/wiki/Heydar_Aliyev_Sports_and_Concert_Complex",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 31,
+              "cell": {
+                "text": "1990",
+                "lines": [
+                  "1990"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 31,
+              "cell": {
+                "text": "8,000",
+                "lines": [
+                  "8,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 31,
+              "cell": {
+                "text": "2009 Rhythmic Gymnastics European Championships",
+                "lines": [
+                  "2009 Rhythmic Gymnastics European Championships"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "2009 Rhythmic Gymnastics European Championships",
+                    "title": "2009 Rhythmic Gymnastics European Championships",
+                    "wikiTitle": "2009 Rhythmic Gymnastics European Championships",
+                    "href": "https://en.wikipedia.org/wiki/2009_Rhythmic_Gymnastics_European_Championships",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Heydar Aliyev Sports and Concert Complex",
+            "lines": [
+              "Heydar Aliyev Sports and Concert Complex"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Heydar Aliyev Sports and Concert Complex",
+                "title": "Heydar Aliyev Sports and Concert Complex",
+                "wikiTitle": "Heydar Aliyev Sports and Concert Complex",
+                "href": "https://en.wikipedia.org/wiki/Heydar_Aliyev_Sports_and_Concert_Complex",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:58.533Z"
+    },
+    {
+      "id": "wikipedia-page-50019606",
+      "pageId": 50019606,
+      "revisionId": null,
+      "title": "National Gymnastics Arena",
+      "displayTitle": "National Gymnastics Arena",
+      "url": "https://en.wikipedia.org/wiki/National_Gymnastics_Arena",
+      "wikidataItem": "Q12841927",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q12841927",
+      "aliases": [
+        "National Gymnastics Arena"
+      ],
+      "requestedTitles": [
+        "National Gymnastics Arena"
+      ],
+      "sourceLinkTexts": [
+        "National Gymnastics Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/National_Gymnastics_Arena"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 40.41923,
+        "longitude": 49.916605,
+        "raw": "40.41923; 49.916605"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "National Gymnastics Arena",
+        "groups": [
+          "Construction",
+          "Website"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Baku, Azerbaijan",
+            "lines": [
+              "Baku, Azerbaijan"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Baku\" title=\"Baku\">Baku</a>, <a href=\"https://en.wikipedia.org/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a></td>",
+            "links": [
+              {
+                "text": "Baku",
+                "title": "Baku",
+                "wikiTitle": "Baku",
+                "href": "https://en.wikipedia.org/wiki/Baku",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Azerbaijan",
+                "title": "Azerbaijan",
+                "wikiTitle": "Azerbaijan",
+                "href": "https://en.wikipedia.org/wiki/Azerbaijan",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "40°25′09″N 49°55′00″E﻿ / ﻿40.41923°N 49.916605°E﻿ / 40.41923; 49.916605",
+            "lines": [
+              "40°25′09″N 49°55′00″E﻿ / ﻿40.41923°N 49.916605°E﻿ / 40.41923; 49.916605"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=National_Gymnastics_Arena&amp;params=40.41923_N_49.916605_E_dim:250_region:AZ_type:landmark_source:ruwiki\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40°25′09″N</span> <span class=\"longitude\">49°55′00″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.41923°N 49.916605°E</span><span>﻿ / <span class=\"geo\">40.41923; 49.916605</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "40°25′09″N 49°55′00″E﻿ / ﻿40.41923°N 49.916605°E﻿ / 40.41923; 49.916605",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=National_Gymnastics_Arena&params=40.41923_N_49.916605_E_dim:250_region:AZ_type:landmark_source:ruwiki",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Mayoralty of Baku",
+            "lines": [
+              "Mayoralty of Baku"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Mayoralty_of_Baku\" class=\"mw-redirect\" title=\"Mayoralty of Baku\">Mayoralty of Baku</a></td>",
+            "links": [
+              {
+                "text": "Mayoralty of Baku",
+                "title": "Mayoralty of Baku",
+                "wikiTitle": "Mayoralty of Baku",
+                "href": "https://en.wikipedia.org/wiki/Mayoralty_of_Baku",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "5,000–10,000",
+            "lines": [
+              "5,000–10,000"
+            ],
+            "html": "<td class=\"infobox-data\">5,000–10,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Public transit",
+            "key": "public_transit",
+            "group": null,
+            "text": "Koroğlu",
+            "lines": [
+              "Koroğlu"
+            ],
+            "html": "<td class=\"infobox-data\"><span><a href=\"https://en.wikipedia.org/wiki/Baku_Metro\" title=\"Baku Metro\"><img alt=\"Baku Metro\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Baku_metro_logo.svg/40px-Baku_metro_logo.svg.png\" width=\"25\" height=\"10\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Baku_metro_logo.svg/60px-Baku_metro_logo.svg.png 2x\" data-file-width=\"366\" data-file-height=\"140\"></a></span> <a href=\"https://en.wikipedia.org/wiki/Koro%C4%9Flu_(Baku_Metro)\" title=\"Koroğlu (Baku Metro)\">Koroğlu</a></td>",
+            "links": [
+              {
+                "text": "",
+                "title": "Baku Metro",
+                "wikiTitle": "Baku Metro",
+                "href": "https://en.wikipedia.org/wiki/Baku_Metro",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Koroğlu",
+                "title": "Koroğlu (Baku Metro)",
+                "wikiTitle": "Koroğlu (Baku Metro)",
+                "href": "https://en.wikipedia.org/wiki/Koro%C4%9Flu_(Baku_Metro)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [
+              {
+                "fileTitle": null,
+                "fileName": null,
+                "kind": "photo",
+                "filePageUrl": null,
+                "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Baku_metro_logo.svg/40px-Baku_metro_logo.svg.png",
+                "originalRedirectUrl": null,
+                "enwikiOriginalRedirectUrl": null,
+                "srcset": [
+                  {
+                    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Baku_metro_logo.svg/60px-Baku_metro_logo.svg.png",
+                    "descriptor": "2x"
+                  }
+                ],
+                "width": 25,
+                "height": 10,
+                "originalWidth": 366,
+                "originalHeight": 140,
+                "fileType": null,
+                "alt": "Baku Metro",
+                "title": null,
+                "caption": null
+              }
+            ],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "August 2009",
+            "lines": [
+              "August 2009"
+            ],
+            "html": "<td class=\"infobox-data\">August 2009</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Built",
+            "key": "built",
+            "group": "Construction",
+            "text": "2009–2014",
+            "lines": [
+              "2009–2014"
+            ],
+            "html": "<td class=\"infobox-data\">2009–2014</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "April 2014",
+            "lines": [
+              "April 2014"
+            ],
+            "html": "<td class=\"infobox-data\">April 2014</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Broadway Malyan, sport specialist BDP Pattern",
+            "lines": [
+              "Broadway Malyan, sport specialist BDP Pattern"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Broadway_Malyan\" title=\"Broadway Malyan\">Broadway Malyan</a>, sport specialist <a rel=\"nofollow\" class=\"external text\" href=\"https://bdp-pattern.com/\">BDP Pattern</a></td>",
+            "links": [
+              {
+                "text": "Broadway Malyan",
+                "title": "Broadway Malyan",
+                "wikiTitle": "Broadway Malyan",
+                "href": "https://en.wikipedia.org/wiki/Broadway_Malyan",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "BDP Pattern",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://bdp-pattern.com/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Project manager",
+            "key": "project_manager",
+            "group": "Construction",
+            "text": "Phil Benson",
+            "lines": [
+              "Phil Benson"
+            ],
+            "html": "<td class=\"infobox-data\">Phil Benson</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Main contractors",
+            "key": "main_contractors",
+            "group": "Construction",
+            "text": "PASHA Construction (PASHA Holding), sport specialist BDP Pattern",
+            "lines": [
+              "PASHA Construction (PASHA Holding), sport specialist BDP Pattern"
+            ],
+            "html": "<td class=\"infobox-data\">PASHA Construction (<a href=\"https://en.wikipedia.org/wiki/PASHA_Holding\" title=\"PASHA Holding\">PASHA Holding</a>), sport specialist <a rel=\"nofollow\" class=\"external text\" href=\"https://bdp-pattern.com/\">BDP Pattern</a></td>",
+            "links": [
+              {
+                "text": "PASHA Holding",
+                "title": "PASHA Holding",
+                "wikiTitle": "PASHA Holding",
+                "href": "https://en.wikipedia.org/wiki/PASHA_Holding",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "BDP Pattern",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://bdp-pattern.com/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Website",
+            "key": "website",
+            "group": "Website",
+            "text": "www.mga.az",
+            "lines": [
+              "www.mga.az"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.mga.az/\">www<wbr>.mga<wbr>.az</a></span></td>",
+            "links": [
+              {
+                "text": "www.mga.az",
+                "title": null,
+                "wikiTitle": null,
+                "href": "http://www.mga.az/",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Baku, Azerbaijan",
+              "lines": [
+                "Baku, Azerbaijan"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Baku\" title=\"Baku\">Baku</a>, <a href=\"https://en.wikipedia.org/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a></td>",
+              "links": [
+                {
+                  "text": "Baku",
+                  "title": "Baku",
+                  "wikiTitle": "Baku",
+                  "href": "https://en.wikipedia.org/wiki/Baku",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Azerbaijan",
+                  "title": "Azerbaijan",
+                  "wikiTitle": "Azerbaijan",
+                  "href": "https://en.wikipedia.org/wiki/Azerbaijan",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "40°25′09″N 49°55′00″E﻿ / ﻿40.41923°N 49.916605°E﻿ / 40.41923; 49.916605",
+              "lines": [
+                "40°25′09″N 49°55′00″E﻿ / ﻿40.41923°N 49.916605°E﻿ / 40.41923; 49.916605"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=National_Gymnastics_Arena&amp;params=40.41923_N_49.916605_E_dim:250_region:AZ_type:landmark_source:ruwiki\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40°25′09″N</span> <span class=\"longitude\">49°55′00″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.41923°N 49.916605°E</span><span>﻿ / <span class=\"geo\">40.41923; 49.916605</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "40°25′09″N 49°55′00″E﻿ / ﻿40.41923°N 49.916605°E﻿ / 40.41923; 49.916605",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=National_Gymnastics_Arena&params=40.41923_N_49.916605_E_dim:250_region:AZ_type:landmark_source:ruwiki",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Mayoralty of Baku",
+              "lines": [
+                "Mayoralty of Baku"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Mayoralty_of_Baku\" class=\"mw-redirect\" title=\"Mayoralty of Baku\">Mayoralty of Baku</a></td>",
+              "links": [
+                {
+                  "text": "Mayoralty of Baku",
+                  "title": "Mayoralty of Baku",
+                  "wikiTitle": "Mayoralty of Baku",
+                  "href": "https://en.wikipedia.org/wiki/Mayoralty_of_Baku",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "5,000–10,000",
+              "lines": [
+                "5,000–10,000"
+              ],
+              "html": "<td class=\"infobox-data\">5,000–10,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "public_transit": [
+            {
+              "label": "Public transit",
+              "key": "public_transit",
+              "group": null,
+              "text": "Koroğlu",
+              "lines": [
+                "Koroğlu"
+              ],
+              "html": "<td class=\"infobox-data\"><span><a href=\"https://en.wikipedia.org/wiki/Baku_Metro\" title=\"Baku Metro\"><img alt=\"Baku Metro\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Baku_metro_logo.svg/40px-Baku_metro_logo.svg.png\" width=\"25\" height=\"10\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Baku_metro_logo.svg/60px-Baku_metro_logo.svg.png 2x\" data-file-width=\"366\" data-file-height=\"140\"></a></span> <a href=\"https://en.wikipedia.org/wiki/Koro%C4%9Flu_(Baku_Metro)\" title=\"Koroğlu (Baku Metro)\">Koroğlu</a></td>",
+              "links": [
+                {
+                  "text": "",
+                  "title": "Baku Metro",
+                  "wikiTitle": "Baku Metro",
+                  "href": "https://en.wikipedia.org/wiki/Baku_Metro",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Koroğlu",
+                  "title": "Koroğlu (Baku Metro)",
+                  "wikiTitle": "Koroğlu (Baku Metro)",
+                  "href": "https://en.wikipedia.org/wiki/Koro%C4%9Flu_(Baku_Metro)",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [
+                {
+                  "fileTitle": null,
+                  "fileName": null,
+                  "kind": "photo",
+                  "filePageUrl": null,
+                  "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Baku_metro_logo.svg/40px-Baku_metro_logo.svg.png",
+                  "originalRedirectUrl": null,
+                  "enwikiOriginalRedirectUrl": null,
+                  "srcset": [
+                    {
+                      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Baku_metro_logo.svg/60px-Baku_metro_logo.svg.png",
+                      "descriptor": "2x"
+                    }
+                  ],
+                  "width": 25,
+                  "height": 10,
+                  "originalWidth": 366,
+                  "originalHeight": 140,
+                  "fileType": null,
+                  "alt": "Baku Metro",
+                  "title": null,
+                  "caption": null
+                }
+              ],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "August 2009",
+              "lines": [
+                "August 2009"
+              ],
+              "html": "<td class=\"infobox-data\">August 2009</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "built": [
+            {
+              "label": "Built",
+              "key": "built",
+              "group": "Construction",
+              "text": "2009–2014",
+              "lines": [
+                "2009–2014"
+              ],
+              "html": "<td class=\"infobox-data\">2009–2014</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "April 2014",
+              "lines": [
+                "April 2014"
+              ],
+              "html": "<td class=\"infobox-data\">April 2014</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Broadway Malyan, sport specialist BDP Pattern",
+              "lines": [
+                "Broadway Malyan, sport specialist BDP Pattern"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Broadway_Malyan\" title=\"Broadway Malyan\">Broadway Malyan</a>, sport specialist <a rel=\"nofollow\" class=\"external text\" href=\"https://bdp-pattern.com/\">BDP Pattern</a></td>",
+              "links": [
+                {
+                  "text": "Broadway Malyan",
+                  "title": "Broadway Malyan",
+                  "wikiTitle": "Broadway Malyan",
+                  "href": "https://en.wikipedia.org/wiki/Broadway_Malyan",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "BDP Pattern",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://bdp-pattern.com/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "project_manager": [
+            {
+              "label": "Project manager",
+              "key": "project_manager",
+              "group": "Construction",
+              "text": "Phil Benson",
+              "lines": [
+                "Phil Benson"
+              ],
+              "html": "<td class=\"infobox-data\">Phil Benson</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "main_contractors": [
+            {
+              "label": "Main contractors",
+              "key": "main_contractors",
+              "group": "Construction",
+              "text": "PASHA Construction (PASHA Holding), sport specialist BDP Pattern",
+              "lines": [
+                "PASHA Construction (PASHA Holding), sport specialist BDP Pattern"
+              ],
+              "html": "<td class=\"infobox-data\">PASHA Construction (<a href=\"https://en.wikipedia.org/wiki/PASHA_Holding\" title=\"PASHA Holding\">PASHA Holding</a>), sport specialist <a rel=\"nofollow\" class=\"external text\" href=\"https://bdp-pattern.com/\">BDP Pattern</a></td>",
+              "links": [
+                {
+                  "text": "PASHA Holding",
+                  "title": "PASHA Holding",
+                  "wikiTitle": "PASHA Holding",
+                  "href": "https://en.wikipedia.org/wiki/PASHA_Holding",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "BDP Pattern",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://bdp-pattern.com/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "website": [
+            {
+              "label": "Website",
+              "key": "website",
+              "group": "Website",
+              "text": "www.mga.az",
+              "lines": [
+                "www.mga.az"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.mga.az/\">www<wbr>.mga<wbr>.az</a></span></td>",
+              "links": [
+                {
+                  "text": "www.mga.az",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "http://www.mga.az/",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Baku, Azerbaijan"
+          ],
+          "coordinates": [
+            "40°25′09″N 49°55′00″E﻿ / ﻿40.41923°N 49.916605°E﻿ / 40.41923; 49.916605"
+          ],
+          "owner": [
+            "Mayoralty of Baku"
+          ],
+          "capacity": [
+            "5,000–10,000"
+          ],
+          "public_transit": [
+            "Koroğlu"
+          ],
+          "groundbreaking": [
+            "August 2009"
+          ],
+          "built": [
+            "2009–2014"
+          ],
+          "opened": [
+            "April 2014"
+          ],
+          "architect": [
+            "Broadway Malyan, sport specialist BDP Pattern"
+          ],
+          "project_manager": [
+            "Phil Benson"
+          ],
+          "main_contractors": [
+            "PASHA Construction (PASHA Holding), sport specialist BDP Pattern"
+          ],
+          "website": [
+            "www.mga.az"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "5,000–10,000"
+        ],
+        "tenants": [],
+        "websites": [
+          "http://www.mga.az/"
+        ],
+        "media": [
+          {
+            "fileTitle": "File:İlham Əliyev Bakıda Milli Gimnastika Arenasının açılışında iştirak etmişdir (1).jpg",
+            "fileName": "İlham Əliyev Bakıda Milli Gimnastika Arenasının açılışında iştirak etmişdir (1).jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_(1).jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_%281%29.jpg/250px-%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_%281%29.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_(1).jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_(1).jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_%281%29.jpg/500px-%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_%281%29.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 147,
+            "originalWidth": 1960,
+            "originalHeight": 1155,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=National_Gymnastics_Arena&revid=1350505284&groups=_11d5eb51d243ba2836b6baa16689c3718c9d83f6&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=National_Gymnastics_Arena&revid=1350505284&groups=_11d5eb51d243ba2836b6baa16689c3718c9d83f6&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of National Gymnastics Arena"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "photo",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Baku_metro_logo.svg/40px-Baku_metro_logo.svg.png",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Baku_metro_logo.svg/60px-Baku_metro_logo.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 25,
+            "height": 10,
+            "originalWidth": 366,
+            "originalHeight": 140,
+            "fileType": null,
+            "alt": "Baku Metro",
+            "title": null,
+            "caption": null
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">National Gymnastics Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_(1).jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/en/thumb/6/60/%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_%281%29.jpg/250px-%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_%281%29.jpg\" width=\"250\" height=\"147\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/en/thumb/6/60/%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_%281%29.jpg/500px-%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_%281%29.jpg 2x\" data-file-width=\"1960\" data-file-height=\"1155\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_11d5eb51d243ba2836b6baa16689c3718c9d83f6&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=National_Gymnastics_Arena&amp;revid=1350505284&amp;groups=_11d5eb51d243ba2836b6baa16689c3718c9d83f6&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=National_Gymnastics_Arena&amp;revid=1350505284&amp;groups=_11d5eb51d243ba2836b6baa16689c3718c9d83f6&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of National Gymnastics Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Baku\" title=\"Baku\">Baku</a>, <a href=\"https://en.wikipedia.org/wiki/Azerbaijan\" title=\"Azerbaijan\">Azerbaijan</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=National_Gymnastics_Arena&amp;params=40.41923_N_49.916605_E_dim:250_region:AZ_type:landmark_source:ruwiki\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40°25′09″N</span> <span class=\"longitude\">49°55′00″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.41923°N 49.916605°E</span><span>﻿ / <span class=\"geo\">40.41923; 49.916605</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Mayoralty_of_Baku\" class=\"mw-redirect\" title=\"Mayoralty of Baku\">Mayoralty of Baku</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">5,000–10,000</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Public&nbsp;transit</th><td class=\"infobox-data\"><span><a href=\"https://en.wikipedia.org/wiki/Baku_Metro\" title=\"Baku Metro\"><img alt=\"Baku Metro\" src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Baku_metro_logo.svg/40px-Baku_metro_logo.svg.png\" width=\"25\" height=\"10\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Baku_metro_logo.svg/60px-Baku_metro_logo.svg.png 2x\" data-file-width=\"366\" data-file-height=\"140\"></a></span> <a href=\"https://en.wikipedia.org/wiki/Koro%C4%9Flu_(Baku_Metro)\" title=\"Koroğlu (Baku Metro)\">Koroğlu</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">August 2009</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Built</th><td class=\"infobox-data\">2009–2014</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">April 2014</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Broadway_Malyan\" title=\"Broadway Malyan\">Broadway Malyan</a>, sport specialist <a rel=\"nofollow\" class=\"external text\" href=\"https://bdp-pattern.com/\">BDP Pattern</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Project manager</div></th><td class=\"infobox-data\">Phil Benson</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Main contractors</div></th><td class=\"infobox-data\">PASHA Construction (<a href=\"https://en.wikipedia.org/wiki/PASHA_Holding\" title=\"PASHA Holding\">PASHA Holding</a>), sport specialist <a rel=\"nofollow\" class=\"external text\" href=\"https://bdp-pattern.com/\">BDP Pattern</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Website</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><span class=\"url\"><a rel=\"nofollow\" class=\"external text\" href=\"http://www.mga.az/\">www<wbr>.mga<wbr>.az</a></span></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1:_unfit_URL",
+        "Articles_with_Brazilian_Portuguese-language_sources_(pt-br)",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Commons_category_link_is_on_Wikidata",
+        "Indoor_arenas_in_Azerbaijan",
+        "2015_European_Games_venues",
+        "Sports_venues_completed_in_2014",
+        "Sports_venues_in_Baku",
+        "All_stub_articles",
+        "Azerbaijani_sports_venue_stubs",
+        "Asian_sports_venue_stubs",
+        "Azerbaijani_building_and_structure_stubs",
+        "Azerbaijani_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=National_Gymnastics_Arena&params=40.41923_N_49.916605_E_dim:250_region:AZ_type:landmark_source:ruwiki",
+        "https://bdp-pattern.com/project/national-gymnastics-arena/",
+        "http://www.stadia-magazine.com/news.php?NewsID=58761",
+        "http://agf.az/en/about/history/2009/20160829041757233/",
+        "http://agf.az/en/about/history/2014/20160829045828508/",
+        "https://web.archive.org/web/20160308112717/http://www.mga.az/en/pages/4",
+        "http://www.mga.az/en/pages/4",
+        "https://web.archive.org/web/20180215083610/http://www.mga.az/en/airdome/7",
+        "http://www.mga.az/en/airdome/7",
+        "https://web.archive.org/web/20170523173055/http://www.mga.az/en/calendar/8",
+        "http://www.mga.az/en/calendar/8",
+        "https://web.archive.org/web/20190124131706/http://www.baku2015.com/venues/article/national-gymnastics-arena.html",
+        "http://agf.az/en/competitions/information/98",
+        "https://web.archive.org/web/20190502135149/http://www.ueg.org/event/2019-european-championships-rhythmic-gymnastics/overview",
+        "http://www.ueg.org/event/2019-european-championships-rhythmic-gymnastics/overview",
+        "http://agf.az/en/competitions/information/198",
+        "https://web.archive.org/web/20190722111829/https://eyofbaku2019.com/en/page/venues",
+        "https://agf.az/en/competitions/information/194",
+        "https://www.telecomasia.net/news/mma/ufc-plans-to-make-baku-events-an-annual-event/",
+        "https://www.bjpenn.com/mma-news/sharabutdin-magomedov/shara-bullet-magomedov-set-ufc-returnyear-long-hiatus-fellow-ko-artist/",
+        "https://www.mmafighting.com/ufc/477520/michel-pereira-re-signs-with-ufc-books-june-fight-with-shara-bullet",
+        "https://agfight.com/ufc/ultimate-encaminha-michel-pereira-vs-shara-bullet-para-o-ufc-azerbaijao-em-junho/",
+        "https://www.mmamania.com/ufc-news/429942/ufc-starts-booking-up-middle-east-cards-despite-growing-military-conflict",
+        "https://bdp-pattern.com/",
+        "http://www.mga.az",
+        "http://www.mga.az/en"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Overview",
+          "anchor": "Overview"
+        },
+        {
+          "index": "2",
+          "level": 3,
+          "line": "Airdome",
+          "anchor": "Airdome"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Events",
+          "anchor": "Events"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "İlham_Əliyev_Bakıda_Milli_Gimnastika_Arenasının_açılışında_iştirak_etmişdir_(1).jpg",
+        "Baku_metro_logo.svg",
+        "Commons-logo.svg",
+        "Symbol_category_class.svg",
+        "Coat_of_arms_of_Baku.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:İlham Əliyev Bakıda Milli Gimnastika Arenasının açılışında iştirak etmişdir (1).jpg",
+          "fileName": "İlham Əliyev Bakıda Milli Gimnastika Arenasının açılışında iştirak etmişdir (1).jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_(1).jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_%281%29.jpg/250px-%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_%281%29.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_(1).jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_(1).jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_%281%29.jpg/500px-%C4%B0lham_%C6%8Fliyev_Bak%C4%B1da_Milli_Gimnastika_Arenas%C4%B1n%C4%B1n_a%C3%A7%C4%B1l%C4%B1%C5%9F%C4%B1nda_i%C5%9Ftirak_etmi%C5%9Fdir_%281%29.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 147,
+          "originalWidth": 1960,
+          "originalHeight": 1155,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=National_Gymnastics_Arena&revid=1350505284&groups=_11d5eb51d243ba2836b6baa16689c3718c9d83f6&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=National_Gymnastics_Arena&revid=1350505284&groups=_11d5eb51d243ba2836b6baa16689c3718c9d83f6&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of National Gymnastics Arena"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Baku_metro_logo.svg/40px-Baku_metro_logo.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Baku_metro_logo.svg/60px-Baku_metro_logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 25,
+          "height": 10,
+          "originalWidth": 366,
+          "originalHeight": 140,
+          "fileType": null,
+          "alt": "Baku Metro",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/20px-Symbol_category_class.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/40px-Symbol_category_class.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 16,
+          "height": 16,
+          "originalWidth": 180,
+          "originalHeight": 185,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Coat of arms of Baku.svg",
+          "fileName": "Coat of arms of Baku.svg",
+          "kind": "drawing",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Coat_of_arms_of_Baku.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coat_of_arms_of_Baku.svg/20px-Coat_of_arms_of_Baku.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coat_of_arms_of_Baku.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Coat_of_arms_of_Baku.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Coat_of_arms_of_Baku.svg/40px-Coat_of_arms_of_Baku.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 15,
+          "height": 20,
+          "originalWidth": 170,
+          "originalHeight": 230,
+          "fileType": null,
+          "alt": "Coat of arms of Baku",
+          "title": "Coat of arms of Baku",
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 32,
+          "rowText": "National Gymnastics Arena\n2014\n9,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/National_Gymnastics_Arena\" title=\"National Gymnastics Arena\">National Gymnastics Arena</a>\n</td>\n<td>2014\n</td>\n<td>9,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "Azerbaijan",
+                "lines": [
+                  "Azerbaijan"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Azerbaijan",
+                    "title": "Azerbaijan",
+                    "wikiTitle": "Azerbaijan",
+                    "href": "https://en.wikipedia.org/wiki/Azerbaijan",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 30,
+              "cell": {
+                "text": "Baku",
+                "lines": [
+                  "Baku"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Baku",
+                    "title": "Baku",
+                    "wikiTitle": "Baku",
+                    "href": "https://en.wikipedia.org/wiki/Baku",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 32,
+              "cell": {
+                "text": "National Gymnastics Arena",
+                "lines": [
+                  "National Gymnastics Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "National Gymnastics Arena",
+                    "title": "National Gymnastics Arena",
+                    "wikiTitle": "National Gymnastics Arena",
+                    "href": "https://en.wikipedia.org/wiki/National_Gymnastics_Arena",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 32,
+              "cell": {
+                "text": "2014",
+                "lines": [
+                  "2014"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 32,
+              "cell": {
+                "text": "9,000",
+                "lines": [
+                  "9,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 32,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "National Gymnastics Arena",
+            "lines": [
+              "National Gymnastics Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "National Gymnastics Arena",
+                "title": "National Gymnastics Arena",
+                "wikiTitle": "National Gymnastics Arena",
+                "href": "https://en.wikipedia.org/wiki/National_Gymnastics_Arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:08:56.041Z"
+    }
+  ]
+}

@@ -1,0 +1,1128 @@
+{
+  "schemaVersion": "1.1.0-country-manifest",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "stats": {
+    "countryFileCount": 124,
+    "assignedArenaMemberships": 2853.0,
+    "unassignedArenaCount": 0
+  },
+  "countries": [
+    {
+      "country": "Albania",
+      "file": "countries/albania.json",
+      "arenaCount": 11,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Albania",
+      "worldMasterFallbackArenaCount": 8
+    },
+    {
+      "country": "Algeria",
+      "file": "countries/algeria.json",
+      "arenaCount": 5,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Algeria",
+      "worldMasterFallbackArenaCount": 3
+    },
+    {
+      "country": "Algeria (List)",
+      "file": "countries/algeria-list.json",
+      "arenaCount": 5,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 3
+    },
+    {
+      "country": "Andorra",
+      "file": "countries/andorra.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Angola",
+      "file": "countries/angola.json",
+      "arenaCount": 12,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Angola",
+      "worldMasterFallbackArenaCount": 12
+    },
+    {
+      "country": "Argentina",
+      "file": "countries/argentina.json",
+      "arenaCount": 24,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Argentina",
+      "worldMasterFallbackArenaCount": 21
+    },
+    {
+      "country": "Argentina (List)",
+      "file": "countries/argentina-list.json",
+      "arenaCount": 22,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 22
+    },
+    {
+      "country": "Armenia",
+      "file": "countries/armenia.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Australia",
+      "file": "countries/australia.json",
+      "arenaCount": 49,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Australia",
+      "worldMasterFallbackArenaCount": 29
+    },
+    {
+      "country": "Austria",
+      "file": "countries/austria.json",
+      "arenaCount": 17,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Austria",
+      "worldMasterFallbackArenaCount": 16
+    },
+    {
+      "country": "Azerbaijan",
+      "file": "countries/azerbaijan.json",
+      "arenaCount": 3,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 3
+    },
+    {
+      "country": "Belarus",
+      "file": "countries/belarus.json",
+      "arenaCount": 5,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Belarus",
+      "worldMasterFallbackArenaCount": 5
+    },
+    {
+      "country": "Belgium",
+      "file": "countries/belgium.json",
+      "arenaCount": 15,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Belgium",
+      "worldMasterFallbackArenaCount": 15
+    },
+    {
+      "country": "Bosnia and Herzegovina",
+      "file": "countries/bosnia-and-herzegovina.json",
+      "arenaCount": 4,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Bosnia and Herzegovina",
+      "worldMasterFallbackArenaCount": 4
+    },
+    {
+      "country": "Brazil",
+      "file": "countries/brazil.json",
+      "arenaCount": 32,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Brazil",
+      "worldMasterFallbackArenaCount": 24
+    },
+    {
+      "country": "Bulgaria",
+      "file": "countries/bulgaria.json",
+      "arenaCount": 15,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Bulgaria",
+      "worldMasterFallbackArenaCount": 12
+    },
+    {
+      "country": "Cameroon",
+      "file": "countries/cameroon.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Canada",
+      "file": "countries/canada.json",
+      "arenaCount": 212,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Canada",
+      "worldMasterFallbackArenaCount": 0
+    },
+    {
+      "country": "Central African Republic",
+      "file": "countries/central-african-republic.json",
+      "arenaCount": 1,
+      "coverageMode": "inferred_from_infobox_or_other_lists",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 0
+    },
+    {
+      "country": "Chile",
+      "file": "countries/chile.json",
+      "arenaCount": 4,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 4
+    },
+    {
+      "country": "China",
+      "file": "countries/china.json",
+      "arenaCount": 57,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in China",
+      "worldMasterFallbackArenaCount": 54
+    },
+    {
+      "country": "Colombia",
+      "file": "countries/colombia.json",
+      "arenaCount": 5,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 5
+    },
+    {
+      "country": "Congo",
+      "file": "countries/congo.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Costa Rica",
+      "file": "countries/costa-rica.json",
+      "arenaCount": 2,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 2
+    },
+    {
+      "country": "Côte d'Ivoire",
+      "file": "countries/cote-d-ivoire.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Croatia",
+      "file": "countries/croatia.json",
+      "arenaCount": 19,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Croatia",
+      "worldMasterFallbackArenaCount": 17
+    },
+    {
+      "country": "Cuba",
+      "file": "countries/cuba.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Cyprus",
+      "file": "countries/cyprus.json",
+      "arenaCount": 7,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 7
+    },
+    {
+      "country": "Czechia",
+      "file": "countries/czechia.json",
+      "arenaCount": 29,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in the Czech Republic",
+      "worldMasterFallbackArenaCount": 29
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "file": "countries/democratic-republic-of-the-congo.json",
+      "arenaCount": 1,
+      "coverageMode": "inferred_from_infobox_or_other_lists",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 0
+    },
+    {
+      "country": "Denmark",
+      "file": "countries/denmark.json",
+      "arenaCount": 39,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Denmark",
+      "worldMasterFallbackArenaCount": 33
+    },
+    {
+      "country": "Dominican Republic",
+      "file": "countries/dominican-republic.json",
+      "arenaCount": 2,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 2
+    },
+    {
+      "country": "Ecuador",
+      "file": "countries/ecuador.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Egypt",
+      "file": "countries/egypt.json",
+      "arenaCount": 6,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Egypt",
+      "worldMasterFallbackArenaCount": 3
+    },
+    {
+      "country": "Egypt (List)",
+      "file": "countries/egypt-list.json",
+      "arenaCount": 5,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 3
+    },
+    {
+      "country": "El Salvador",
+      "file": "countries/el-salvador.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Estonia",
+      "file": "countries/estonia.json",
+      "arenaCount": 25,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Estonia",
+      "worldMasterFallbackArenaCount": 10
+    },
+    {
+      "country": "Finland",
+      "file": "countries/finland.json",
+      "arenaCount": 32,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Finland",
+      "worldMasterFallbackArenaCount": 29
+    },
+    {
+      "country": "France",
+      "file": "countries/france.json",
+      "arenaCount": 69,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in France",
+      "worldMasterFallbackArenaCount": 63
+    },
+    {
+      "country": "Gabon",
+      "file": "countries/gabon.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Georgia",
+      "file": "countries/georgia.json",
+      "arenaCount": 3,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 3
+    },
+    {
+      "country": "Germany",
+      "file": "countries/germany.json",
+      "arenaCount": 100,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Germany",
+      "worldMasterFallbackArenaCount": 96
+    },
+    {
+      "country": "Ghana",
+      "file": "countries/ghana.json",
+      "arenaCount": 1,
+      "coverageMode": "inferred_from_infobox_or_other_lists",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 0
+    },
+    {
+      "country": "Greece",
+      "file": "countries/greece.json",
+      "arenaCount": 38,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Greece",
+      "worldMasterFallbackArenaCount": 31
+    },
+    {
+      "country": "Guatemala",
+      "file": "countries/guatemala.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Hong Kong",
+      "file": "countries/hong-kong.json",
+      "arenaCount": 6,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 6
+    },
+    {
+      "country": "Hungary",
+      "file": "countries/hungary.json",
+      "arenaCount": 21,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Hungary",
+      "worldMasterFallbackArenaCount": 19
+    },
+    {
+      "country": "Iceland",
+      "file": "countries/iceland.json",
+      "arenaCount": 3,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 3
+    },
+    {
+      "country": "India",
+      "file": "countries/india.json",
+      "arenaCount": 34,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in India",
+      "worldMasterFallbackArenaCount": 34
+    },
+    {
+      "country": "Indonesia",
+      "file": "countries/indonesia.json",
+      "arenaCount": 15,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 14
+    },
+    {
+      "country": "Iran",
+      "file": "countries/iran.json",
+      "arenaCount": 11,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 11
+    },
+    {
+      "country": "Ireland",
+      "file": "countries/ireland.json",
+      "arenaCount": 4,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 4
+    },
+    {
+      "country": "Israel",
+      "file": "countries/israel.json",
+      "arenaCount": 11,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Israel",
+      "worldMasterFallbackArenaCount": 10
+    },
+    {
+      "country": "Italy",
+      "file": "countries/italy.json",
+      "arenaCount": 63,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Italy",
+      "worldMasterFallbackArenaCount": 58
+    },
+    {
+      "country": "Japan",
+      "file": "countries/japan.json",
+      "arenaCount": 69,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Japan",
+      "worldMasterFallbackArenaCount": 57
+    },
+    {
+      "country": "Japan (List)",
+      "file": "countries/japan-list.json",
+      "arenaCount": 88,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 88
+    },
+    {
+      "country": "Kazakhstan",
+      "file": "countries/kazakhstan.json",
+      "arenaCount": 11,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Kazakhstan",
+      "worldMasterFallbackArenaCount": 10
+    },
+    {
+      "country": "Kenya",
+      "file": "countries/kenya.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Korea (North)",
+      "file": "countries/korea-north.json",
+      "arenaCount": 2,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 2
+    },
+    {
+      "country": "Korea (South) (List)",
+      "file": "countries/korea-south-list.json",
+      "arenaCount": 21,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 21
+    },
+    {
+      "country": "Kosovo",
+      "file": "countries/kosovo.json",
+      "arenaCount": 4,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Kosovo",
+      "worldMasterFallbackArenaCount": 2
+    },
+    {
+      "country": "Kuwait",
+      "file": "countries/kuwait.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Latvia",
+      "file": "countries/latvia.json",
+      "arenaCount": 6,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Latvia",
+      "worldMasterFallbackArenaCount": 3
+    },
+    {
+      "country": "Lebanon",
+      "file": "countries/lebanon.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Libya",
+      "file": "countries/libya.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Lithuania",
+      "file": "countries/lithuania.json",
+      "arenaCount": 20,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Lithuania",
+      "worldMasterFallbackArenaCount": 20
+    },
+    {
+      "country": "Luxembourg",
+      "file": "countries/luxembourg.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Macau",
+      "file": "countries/macau.json",
+      "arenaCount": 1,
+      "coverageMode": "inferred_from_infobox_or_other_lists",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 0
+    },
+    {
+      "country": "Malaysia",
+      "file": "countries/malaysia.json",
+      "arenaCount": 7,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 7
+    },
+    {
+      "country": "Mali",
+      "file": "countries/mali.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Mexico",
+      "file": "countries/mexico.json",
+      "arenaCount": 40,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Mexico",
+      "worldMasterFallbackArenaCount": 13
+    },
+    {
+      "country": "Mexico (List)",
+      "file": "countries/mexico-list.json",
+      "arenaCount": 13,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 13
+    },
+    {
+      "country": "Moldova",
+      "file": "countries/moldova.json",
+      "arenaCount": 2,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 2
+    },
+    {
+      "country": "Montenegro",
+      "file": "countries/montenegro.json",
+      "arenaCount": 2,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 2
+    },
+    {
+      "country": "Morocco",
+      "file": "countries/morocco.json",
+      "arenaCount": 3,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Morocco",
+      "worldMasterFallbackArenaCount": 3
+    },
+    {
+      "country": "Morocco (List)",
+      "file": "countries/morocco-list.json",
+      "arenaCount": 3,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 3
+    },
+    {
+      "country": "Mozambique",
+      "file": "countries/mozambique.json",
+      "arenaCount": 1,
+      "coverageMode": "inferred_from_infobox_or_other_lists",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 0
+    },
+    {
+      "country": "Netherlands",
+      "file": "countries/netherlands.json",
+      "arenaCount": 14,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in the Netherlands",
+      "worldMasterFallbackArenaCount": 14
+    },
+    {
+      "country": "New Zealand",
+      "file": "countries/new-zealand.json",
+      "arenaCount": 20,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in New Zealand",
+      "worldMasterFallbackArenaCount": 15
+    },
+    {
+      "country": "Nigeria",
+      "file": "countries/nigeria.json",
+      "arenaCount": 4,
+      "coverageMode": "inferred_from_infobox_or_other_lists",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 0
+    },
+    {
+      "country": "North Korea",
+      "file": "countries/north-korea.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "North Macedonia",
+      "file": "countries/north-macedonia.json",
+      "arenaCount": 10,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in North Macedonia",
+      "worldMasterFallbackArenaCount": 9
+    },
+    {
+      "country": "Norway",
+      "file": "countries/norway.json",
+      "arenaCount": 31,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Norway",
+      "worldMasterFallbackArenaCount": 30
+    },
+    {
+      "country": "Pakistan",
+      "file": "countries/pakistan.json",
+      "arenaCount": 2,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 2
+    },
+    {
+      "country": "Panama",
+      "file": "countries/panama.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Paraguay",
+      "file": "countries/paraguay.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Peru",
+      "file": "countries/peru.json",
+      "arenaCount": 4,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 4
+    },
+    {
+      "country": "Philippines",
+      "file": "countries/philippines.json",
+      "arenaCount": 58,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in the Philippines",
+      "worldMasterFallbackArenaCount": 30
+    },
+    {
+      "country": "Poland",
+      "file": "countries/poland.json",
+      "arenaCount": 39,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Poland",
+      "worldMasterFallbackArenaCount": 29
+    },
+    {
+      "country": "Portugal",
+      "file": "countries/portugal.json",
+      "arenaCount": 14,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Portugal",
+      "worldMasterFallbackArenaCount": 11
+    },
+    {
+      "country": "Puerto Rico",
+      "file": "countries/puerto-rico.json",
+      "arenaCount": 12,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 12
+    },
+    {
+      "country": "Puerto Rico (U.S.)",
+      "file": "countries/puerto-rico-u-s.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Qatar",
+      "file": "countries/qatar.json",
+      "arenaCount": 4,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Qatar",
+      "worldMasterFallbackArenaCount": 3
+    },
+    {
+      "country": "Romania",
+      "file": "countries/romania.json",
+      "arenaCount": 39,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Romania",
+      "worldMasterFallbackArenaCount": 26
+    },
+    {
+      "country": "Russia",
+      "file": "countries/russia.json",
+      "arenaCount": 74,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Russia",
+      "worldMasterFallbackArenaCount": 67
+    },
+    {
+      "country": "Rwanda",
+      "file": "countries/rwanda.json",
+      "arenaCount": 1,
+      "coverageMode": "inferred_from_infobox_or_other_lists",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 0
+    },
+    {
+      "country": "Saudi Arabia",
+      "file": "countries/saudi-arabia.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Senegal",
+      "file": "countries/senegal.json",
+      "arenaCount": 1,
+      "coverageMode": "inferred_from_infobox_or_other_lists",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 0
+    },
+    {
+      "country": "Serbia",
+      "file": "countries/serbia.json",
+      "arenaCount": 25,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Serbia",
+      "worldMasterFallbackArenaCount": 24
+    },
+    {
+      "country": "Singapore",
+      "file": "countries/singapore.json",
+      "arenaCount": 3,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 3
+    },
+    {
+      "country": "Slovakia",
+      "file": "countries/slovakia.json",
+      "arenaCount": 16,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Slovakia",
+      "worldMasterFallbackArenaCount": 15
+    },
+    {
+      "country": "Slovenia",
+      "file": "countries/slovenia.json",
+      "arenaCount": 11,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Slovenia",
+      "worldMasterFallbackArenaCount": 11
+    },
+    {
+      "country": "South Africa",
+      "file": "countries/south-africa.json",
+      "arenaCount": 8,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in South Africa",
+      "worldMasterFallbackArenaCount": 7
+    },
+    {
+      "country": "South Africa (List)",
+      "file": "countries/south-africa-list.json",
+      "arenaCount": 4,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 4
+    },
+    {
+      "country": "South Korea",
+      "file": "countries/south-korea.json",
+      "arenaCount": 24,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in South Korea",
+      "worldMasterFallbackArenaCount": 21
+    },
+    {
+      "country": "Spain",
+      "file": "countries/spain.json",
+      "arenaCount": 58,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Spain",
+      "worldMasterFallbackArenaCount": 22
+    },
+    {
+      "country": "Sweden",
+      "file": "countries/sweden.json",
+      "arenaCount": 60,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Sweden",
+      "worldMasterFallbackArenaCount": 50
+    },
+    {
+      "country": "Switzerland",
+      "file": "countries/switzerland.json",
+      "arenaCount": 24,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Switzerland",
+      "worldMasterFallbackArenaCount": 14
+    },
+    {
+      "country": "Syria",
+      "file": "countries/syria.json",
+      "arenaCount": 2,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 2
+    },
+    {
+      "country": "Taiwan",
+      "file": "countries/taiwan.json",
+      "arenaCount": 3,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 2
+    },
+    {
+      "country": "Taiwan (Republic of China)",
+      "file": "countries/taiwan-republic-of-china.json",
+      "arenaCount": 5,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 5
+    },
+    {
+      "country": "Thailand",
+      "file": "countries/thailand.json",
+      "arenaCount": 13,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 12
+    },
+    {
+      "country": "Tunisia",
+      "file": "countries/tunisia.json",
+      "arenaCount": 7,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Tunisia",
+      "worldMasterFallbackArenaCount": 3
+    },
+    {
+      "country": "Tunisia (List)",
+      "file": "countries/tunisia-list.json",
+      "arenaCount": 7,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 3
+    },
+    {
+      "country": "Turkey",
+      "file": "countries/turkey.json",
+      "arenaCount": 32,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in Turkey",
+      "worldMasterFallbackArenaCount": 17
+    },
+    {
+      "country": "Ukraine",
+      "file": "countries/ukraine.json",
+      "arenaCount": 2,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 2
+    },
+    {
+      "country": "United Arab Emirates",
+      "file": "countries/united-arab-emirates.json",
+      "arenaCount": 3,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in the United Arab Emirates",
+      "worldMasterFallbackArenaCount": 3
+    },
+    {
+      "country": "United Kingdom",
+      "file": "countries/united-kingdom.json",
+      "arenaCount": 55,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in the United Kingdom",
+      "worldMasterFallbackArenaCount": 32
+    },
+    {
+      "country": "United States",
+      "file": "countries/united-states.json",
+      "arenaCount": 795,
+      "coverageMode": "dedicated_country_list_plus_other_sources",
+      "hasDedicatedBlueLinkedArenaList": true,
+      "dedicatedListPages": "List of indoor arenas in the United States",
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Uruguay",
+      "file": "countries/uruguay.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "US Virgin Islands",
+      "file": "countries/us-virgin-islands.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Uzbekistan",
+      "file": "countries/uzbekistan.json",
+      "arenaCount": 1,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 1
+    },
+    {
+      "country": "Venezuela",
+      "file": "countries/venezuela.json",
+      "arenaCount": 4,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 4
+    },
+    {
+      "country": "Vietnam",
+      "file": "countries/vietnam.json",
+      "arenaCount": 4,
+      "coverageMode": "world_master_list_fallback",
+      "hasDedicatedBlueLinkedArenaList": false,
+      "dedicatedListPages": null,
+      "worldMasterFallbackArenaCount": 4
+    }
+  ]
+}

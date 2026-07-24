@@ -1,0 +1,998 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Cameroon",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 2,
+    "mediaRecordCount": 7,
+    "sourceTypeCounts": {
+      "world_master_list": 1,
+      "country_or_region_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-18765643",
+      "pageId": 18765643,
+      "revisionId": null,
+      "title": "Yaoundé Multipurpose Sports Complex",
+      "displayTitle": "Yaoundé Multipurpose Sports Complex",
+      "url": "https://en.wikipedia.org/wiki/Yaound%C3%A9_Multipurpose_Sports_Complex",
+      "wikidataItem": "Q3361089",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3361089",
+      "aliases": [
+        "Yaoundé Multipurpose Sports Complex"
+      ],
+      "requestedTitles": [
+        "Yaoundé Multipurpose Sports Complex"
+      ],
+      "sourceLinkTexts": [
+        "Yaoundé Multipurpose Sports Complex"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Yaound%C3%A9_Multipurpose_Sports_Complex"
+      ],
+      "sourcePages": [
+        "List of indoor arenas",
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "world_master_list",
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 3.873974,
+        "longitude": 11.512041,
+        "raw": "3.873974; 11.512041"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Yaoundé Multipurpose Sports Complex",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Yaoundé, Cameroon",
+            "lines": [
+              "Yaoundé, Cameroon"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Yaound%C3%A9\" title=\"Yaoundé\">Yaoundé</a>, Cameroon</td>",
+            "links": [
+              {
+                "text": "Yaoundé",
+                "title": "Yaoundé",
+                "wikiTitle": "Yaoundé",
+                "href": "https://en.wikipedia.org/wiki/Yaound%C3%A9",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "3°52′26″N 11°30′43″E﻿ / ﻿3.873974°N 11.512041°E﻿ / 3.873974; 11.512041",
+            "lines": [
+              "3°52′26″N 11°30′43″E﻿ / ﻿3.873974°N 11.512041°E﻿ / 3.873974; 11.512041"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Yaound%C3%A9_Multipurpose_Sports_Complex&amp;params=3.873974_N_11.512041_E_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">3°52′26″N</span> <span class=\"longitude\">11°30′43″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">3.873974°N 11.512041°E</span><span>﻿ / <span class=\"geo\">3.873974; 11.512041</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "3°52′26″N 11°30′43″E﻿ / ﻿3.873974°N 11.512041°E﻿ / 3.873974; 11.512041",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Yaound%C3%A9_Multipurpose_Sports_Complex&params=3.873974_N_11.512041_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "State-owned",
+            "lines": [
+              "State-owned"
+            ],
+            "html": "<td class=\"infobox-data agent\">State-owned</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "5,263",
+            "lines": [
+              "5,263"
+            ],
+            "html": "<td class=\"infobox-data\">5,263</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "19 June 2009",
+            "lines": [
+              "19 June 2009"
+            ],
+            "html": "<td class=\"infobox-data\">19 June 2009</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Yaoundé, Cameroon",
+              "lines": [
+                "Yaoundé, Cameroon"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Yaound%C3%A9\" title=\"Yaoundé\">Yaoundé</a>, Cameroon</td>",
+              "links": [
+                {
+                  "text": "Yaoundé",
+                  "title": "Yaoundé",
+                  "wikiTitle": "Yaoundé",
+                  "href": "https://en.wikipedia.org/wiki/Yaound%C3%A9",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "3°52′26″N 11°30′43″E﻿ / ﻿3.873974°N 11.512041°E﻿ / 3.873974; 11.512041",
+              "lines": [
+                "3°52′26″N 11°30′43″E﻿ / ﻿3.873974°N 11.512041°E﻿ / 3.873974; 11.512041"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Yaound%C3%A9_Multipurpose_Sports_Complex&amp;params=3.873974_N_11.512041_E_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">3°52′26″N</span> <span class=\"longitude\">11°30′43″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">3.873974°N 11.512041°E</span><span>﻿ / <span class=\"geo\">3.873974; 11.512041</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "3°52′26″N 11°30′43″E﻿ / ﻿3.873974°N 11.512041°E﻿ / 3.873974; 11.512041",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Yaound%C3%A9_Multipurpose_Sports_Complex&params=3.873974_N_11.512041_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "State-owned",
+              "lines": [
+                "State-owned"
+              ],
+              "html": "<td class=\"infobox-data agent\">State-owned</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "5,263",
+              "lines": [
+                "5,263"
+              ],
+              "html": "<td class=\"infobox-data\">5,263</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "19 June 2009",
+              "lines": [
+                "19 June 2009"
+              ],
+              "html": "<td class=\"infobox-data\">19 June 2009</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Yaoundé, Cameroon"
+          ],
+          "coordinates": [
+            "3°52′26″N 11°30′43″E﻿ / ﻿3.873974°N 11.512041°E﻿ / 3.873974; 11.512041"
+          ],
+          "owner": [
+            "State-owned"
+          ],
+          "capacity": [
+            "5,263"
+          ],
+          "opened": [
+            "19 June 2009"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "5,263"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Yaoundé Sports Palace 2014 (05).JPG",
+            "fileName": "Yaoundé Sports Palace 2014 (05).JPG",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Yaound%C3%A9_Sports_Palace_2014_(05).JPG",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Yaound%C3%A9_Sports_Palace_2014_%2805%29.JPG/250px-Yaound%C3%A9_Sports_Palace_2014_%2805%29.JPG",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(05).JPG",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(05).JPG",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Yaound%C3%A9_Sports_Palace_2014_%2805%29.JPG/500px-Yaound%C3%A9_Sports_Palace_2014_%2805%29.JPG",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 188,
+            "originalWidth": 4000,
+            "originalHeight": 3000,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Yaoundé Multipurpose Sports Complex"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Yaound%C3%A9_Multipurpose_Sports_Complex&revid=1329963362&groups=_04e7fc0e2d53a09ec26956b640638a9fff8360ae&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Yaound%C3%A9_Multipurpose_Sports_Complex&revid=1329963362&groups=_04e7fc0e2d53a09ec26956b640638a9fff8360ae&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Yaoundé Multipurpose Sports Complex"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Yaoundé Multipurpose Sports Complex</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Yaound%C3%A9_Sports_Palace_2014_(05).JPG\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Yaound%C3%A9_Sports_Palace_2014_%2805%29.JPG/250px-Yaound%C3%A9_Sports_Palace_2014_%2805%29.JPG\" width=\"250\" height=\"188\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Yaound%C3%A9_Sports_Palace_2014_%2805%29.JPG/500px-Yaound%C3%A9_Sports_Palace_2014_%2805%29.JPG 2x\" data-file-width=\"4000\" data-file-height=\"3000\"></a></span><div class=\"infobox-caption\">Yaoundé Multipurpose Sports Complex</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_04e7fc0e2d53a09ec26956b640638a9fff8360ae&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Yaound%C3%A9_Multipurpose_Sports_Complex&amp;revid=1329963362&amp;groups=_04e7fc0e2d53a09ec26956b640638a9fff8360ae&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Yaound%C3%A9_Multipurpose_Sports_Complex&amp;revid=1329963362&amp;groups=_04e7fc0e2d53a09ec26956b640638a9fff8360ae&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Yaoundé Multipurpose Sports Complex</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Yaound%C3%A9\" title=\"Yaoundé\">Yaoundé</a>, Cameroon</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Yaound%C3%A9_Multipurpose_Sports_Complex&amp;params=3.873974_N_11.512041_E_type:landmark\"><span class=\"geo-nondefault\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">3°52′26″N</span> <span class=\"longitude\">11°30′43″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-default\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">3.873974°N 11.512041°E</span><span>﻿ / <span class=\"geo\">3.873974; 11.512041</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">State-owned</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">5,263</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">19 June 2009</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_French-language_sources_(fr)",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Use_dmy_dates_from_November_2025",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Buildings_and_structures_in_Yaoundé",
+        "Indoor_arenas_in_Cameroon",
+        "Basketball_venues_in_Cameroon",
+        "Badminton_venues",
+        "All_stub_articles",
+        "Central_Africa_sports_venue_stubs",
+        "Cameroonian_sport_stubs",
+        "Cameroonian_building_and_structure_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Yaound%C3%A9_Multipurpose_Sports_Complex&params=3.873974_N_11.512041_E_type:landmark",
+        "https://web.archive.org/web/20080922114829/http://www.camfoot.com/Infrastructures-Le-palais-des.html",
+        "http://www.camfoot.com/Infrastructures-Le-palais-des.html",
+        "https://www.afrik.com/sport-le-cameroun-a-enfin-son-palais-polyvalent",
+        "https://www.prc.cm/files/fa/c9/dd/5b5f1f848311df1018fb47303e748480.pdf"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Photos",
+          "anchor": "Photos"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [
+        "Yaoundé_Sports_Palace_2014_(02).JPG",
+        "Yaoundé_Sports_Palace_2014_(12).JPG",
+        "Yaoundé_Sports_Palace_2014_(09).JPG",
+        "Yaoundé_Sports_Palace_2014_(07).JPG",
+        "Yaoundé_Sports_Palace_2014_(05).JPG",
+        "Flag_of_Cameroon.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Yaoundé Sports Palace 2014 (05).JPG",
+          "fileName": "Yaoundé Sports Palace 2014 (05).JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Yaound%C3%A9_Sports_Palace_2014_(05).JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Yaound%C3%A9_Sports_Palace_2014_%2805%29.JPG/250px-Yaound%C3%A9_Sports_Palace_2014_%2805%29.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(05).JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(05).JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Yaound%C3%A9_Sports_Palace_2014_%2805%29.JPG/500px-Yaound%C3%A9_Sports_Palace_2014_%2805%29.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 4000,
+          "originalHeight": 3000,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Yaoundé Multipurpose Sports Complex"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Yaound%C3%A9_Multipurpose_Sports_Complex&revid=1329963362&groups=_04e7fc0e2d53a09ec26956b640638a9fff8360ae&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Yaound%C3%A9_Multipurpose_Sports_Complex&revid=1329963362&groups=_04e7fc0e2d53a09ec26956b640638a9fff8360ae&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Yaoundé Multipurpose Sports Complex"
+        },
+        {
+          "fileTitle": "File:Yaoundé Sports Palace 2014 (02).JPG",
+          "fileName": "Yaoundé Sports Palace 2014 (02).JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Yaound%C3%A9_Sports_Palace_2014_(02).JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Yaound%C3%A9_Sports_Palace_2014_%2802%29.JPG/120px-Yaound%C3%A9_Sports_Palace_2014_%2802%29.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(02).JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(02).JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Yaound%C3%A9_Sports_Palace_2014_%2802%29.JPG/250px-Yaound%C3%A9_Sports_Palace_2014_%2802%29.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 90,
+          "originalWidth": 3264,
+          "originalHeight": 2448,
+          "fileType": null,
+          "alt": "Side view",
+          "title": "Side view",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Yaoundé Sports Palace 2014 (12).JPG",
+          "fileName": "Yaoundé Sports Palace 2014 (12).JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Yaound%C3%A9_Sports_Palace_2014_(12).JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG/120px-Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(12).JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(12).JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG/250px-Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 90,
+          "originalWidth": 4000,
+          "originalHeight": 3000,
+          "fileType": null,
+          "alt": "Inside view",
+          "title": "Inside view",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Yaoundé Sports Palace 2014 (09).JPG",
+          "fileName": "Yaoundé Sports Palace 2014 (09).JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Yaound%C3%A9_Sports_Palace_2014_(09).JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Yaound%C3%A9_Sports_Palace_2014_%2809%29.JPG/120px-Yaound%C3%A9_Sports_Palace_2014_%2809%29.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(09).JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(09).JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Yaound%C3%A9_Sports_Palace_2014_%2809%29.JPG/250px-Yaound%C3%A9_Sports_Palace_2014_%2809%29.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 90,
+          "originalWidth": 4000,
+          "originalHeight": 3000,
+          "fileType": null,
+          "alt": "A plaque commemorating the inauguration",
+          "title": "A plaque commemorating the inauguration",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Yaoundé Sports Palace 2014 (07).JPG",
+          "fileName": "Yaoundé Sports Palace 2014 (07).JPG",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Yaound%C3%A9_Sports_Palace_2014_(07).JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Yaound%C3%A9_Sports_Palace_2014_%2807%29.JPG/120px-Yaound%C3%A9_Sports_Palace_2014_%2807%29.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(07).JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(07).JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Yaound%C3%A9_Sports_Palace_2014_%2807%29.JPG/250px-Yaound%C3%A9_Sports_Palace_2014_%2807%29.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 90,
+          "originalWidth": 4000,
+          "originalHeight": 3000,
+          "fileType": null,
+          "alt": "Cameroonian and Chinese flags flying in front of the Sports Palace",
+          "title": "Cameroonian and Chinese flags flying in front of the Sports Palace",
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Flag of Cameroon.svg",
+          "fileName": "Flag of Cameroon.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Flag_of_Cameroon.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/40px-Flag_of_Cameroon.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Flag_of_Cameroon.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Flag_of_Cameroon.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/60px-Flag_of_Cameroon.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 20,
+          "originalWidth": 900,
+          "originalHeight": 600,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Africa"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 17,
+          "rowText": "Cameroon\nYaoundé\nYaoundé Multipurpose Sports Complex\n2008\n5,263",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Cameroon\" title=\"Cameroon\">Cameroon</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Yaound%C3%A9\" title=\"Yaoundé\">Yaoundé</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Yaound%C3%A9_Multipurpose_Sports_Complex\" title=\"Yaoundé Multipurpose Sports Complex\">Yaoundé Multipurpose Sports Complex</a>\n</td>\n<td align=\"center\">2008\n</td>\n<td align=\"right\">5,263\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 17,
+              "cell": {
+                "text": "Cameroon",
+                "lines": [
+                  "Cameroon"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Cameroon",
+                    "title": "Cameroon",
+                    "wikiTitle": "Cameroon",
+                    "href": "https://en.wikipedia.org/wiki/Cameroon",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 17,
+              "cell": {
+                "text": "Yaoundé",
+                "lines": [
+                  "Yaoundé"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Yaoundé",
+                    "title": "Yaoundé",
+                    "wikiTitle": "Yaoundé",
+                    "href": "https://en.wikipedia.org/wiki/Yaound%C3%A9",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 17,
+              "cell": {
+                "text": "Yaoundé Multipurpose Sports Complex",
+                "lines": [
+                  "Yaoundé Multipurpose Sports Complex"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Yaoundé Multipurpose Sports Complex",
+                    "title": "Yaoundé Multipurpose Sports Complex",
+                    "wikiTitle": "Yaoundé Multipurpose Sports Complex",
+                    "href": "https://en.wikipedia.org/wiki/Yaound%C3%A9_Multipurpose_Sports_Complex",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 17,
+              "cell": {
+                "text": "2008",
+                "lines": [
+                  "2008"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 17,
+              "cell": {
+                "text": "5,263",
+                "lines": [
+                  "5,263"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 17,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Yaoundé Multipurpose Sports Complex",
+            "lines": [
+              "Yaoundé Multipurpose Sports Complex"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Yaoundé Multipurpose Sports Complex",
+                "title": "Yaoundé Multipurpose Sports Complex",
+                "wikiTitle": "Yaoundé Multipurpose Sports Complex",
+                "href": "https://en.wikipedia.org/wiki/Yaound%C3%A9_Multipurpose_Sports_Complex",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        },
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 15,
+          "rowText": "Cameroon\nYaoundé\nYaoundé Multipurpose Sports Complex\n2008\n5,263",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Cameroon\" title=\"Cameroon\">Cameroon</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Yaound%C3%A9\" title=\"Yaoundé\">Yaoundé</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Yaound%C3%A9_Multipurpose_Sports_Complex\" title=\"Yaoundé Multipurpose Sports Complex\">Yaoundé Multipurpose Sports Complex</a>\n</td>\n<td align=\"center\">2008\n</td>\n<td align=\"center\">5,263\n</td>\n<td><span><a href=\"https://en.wikipedia.org/wiki/File:Yaound%C3%A9_Sports_Palace_2014_(12).JPG\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG/250px-Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG\" width=\"150\" height=\"113\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG/330px-Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG 2x\" data-file-width=\"4000\" data-file-height=\"3000\"></a></span>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 15,
+              "cell": {
+                "text": "Cameroon",
+                "lines": [
+                  "Cameroon"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Cameroon",
+                    "title": "Cameroon",
+                    "wikiTitle": "Cameroon",
+                    "href": "https://en.wikipedia.org/wiki/Cameroon",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 15,
+              "cell": {
+                "text": "Yaoundé",
+                "lines": [
+                  "Yaoundé"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Yaoundé",
+                    "title": "Yaoundé",
+                    "wikiTitle": "Yaoundé",
+                    "href": "https://en.wikipedia.org/wiki/Yaound%C3%A9",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 15,
+              "cell": {
+                "text": "Yaoundé Multipurpose Sports Complex",
+                "lines": [
+                  "Yaoundé Multipurpose Sports Complex"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Yaoundé Multipurpose Sports Complex",
+                    "title": "Yaoundé Multipurpose Sports Complex",
+                    "wikiTitle": "Yaoundé Multipurpose Sports Complex",
+                    "href": "https://en.wikipedia.org/wiki/Yaound%C3%A9_Multipurpose_Sports_Complex",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 15,
+              "cell": {
+                "text": "2008",
+                "lines": [
+                  "2008"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 15,
+              "cell": {
+                "text": "5,263",
+                "lines": [
+                  "5,263"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 15,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [
+                  {
+                    "text": "",
+                    "title": "File:Yaoundé Sports Palace 2014 (12).JPG",
+                    "wikiTitle": "File:Yaoundé Sports Palace 2014 (12).JPG",
+                    "href": "https://en.wikipedia.org/wiki/File:Yaound%C3%A9_Sports_Palace_2014_(12).JPG",
+                    "blueArticle": false,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [
+                  {
+                    "fileTitle": "File:Yaoundé Sports Palace 2014 (12).JPG",
+                    "fileName": "Yaoundé Sports Palace 2014 (12).JPG",
+                    "kind": "photo",
+                    "filePageUrl": "https://en.wikipedia.org/wiki/File:Yaound%C3%A9_Sports_Palace_2014_(12).JPG",
+                    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG/250px-Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG",
+                    "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(12).JPG",
+                    "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(12).JPG",
+                    "srcset": [
+                      {
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG/330px-Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG",
+                        "descriptor": "2x"
+                      }
+                    ],
+                    "width": 150,
+                    "height": 113,
+                    "originalWidth": 4000,
+                    "originalHeight": 3000,
+                    "fileType": null,
+                    "alt": null,
+                    "title": null,
+                    "caption": null
+                  }
+                ],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 15,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [
+            {
+              "fileTitle": "File:Yaoundé Sports Palace 2014 (12).JPG",
+              "fileName": "Yaoundé Sports Palace 2014 (12).JPG",
+              "kind": "photo",
+              "filePageUrl": "https://en.wikipedia.org/wiki/File:Yaound%C3%A9_Sports_Palace_2014_(12).JPG",
+              "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG/250px-Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG",
+              "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(12).JPG",
+              "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Yaound%C3%A9_Sports_Palace_2014_(12).JPG",
+              "srcset": [
+                {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG/330px-Yaound%C3%A9_Sports_Palace_2014_%2812%29.JPG",
+                  "descriptor": "2x"
+                }
+              ],
+              "width": 150,
+              "height": 113,
+              "originalWidth": 4000,
+              "originalHeight": 3000,
+              "fileType": null,
+              "alt": null,
+              "title": null,
+              "caption": null
+            }
+          ],
+          "arenaCell": {
+            "text": "Yaoundé Multipurpose Sports Complex",
+            "lines": [
+              "Yaoundé Multipurpose Sports Complex"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Yaoundé Multipurpose Sports Complex",
+                "title": "Yaoundé Multipurpose Sports Complex",
+                "wikiTitle": "Yaoundé Multipurpose Sports Complex",
+                "href": "https://en.wikipedia.org/wiki/Yaound%C3%A9_Multipurpose_Sports_Complex",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T11:41:29.484Z"
+    }
+  ]
+}

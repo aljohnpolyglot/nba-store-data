@@ -1,0 +1,1155 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Armenia",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 10,
+    "sourceTypeCounts": {
+      "world_master_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-23964635",
+      "pageId": 23964635,
+      "revisionId": null,
+      "title": "Karen Demirchyan Complex",
+      "displayTitle": "Karen Demirchyan Complex",
+      "url": "https://en.wikipedia.org/wiki/Karen_Demirchyan_Complex",
+      "wikidataItem": "Q1124949",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q1124949",
+      "aliases": [
+        "Karen Demirchyan Complex",
+        "Karen Demirchyan Sports and Concerts Complex"
+      ],
+      "requestedTitles": [
+        "Karen Demirchyan Complex"
+      ],
+      "sourceLinkTexts": [
+        "Karen Demirchyan Complex"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Karen_Demirchyan_Complex"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 40.18806,
+        "longitude": 44.48333,
+        "raw": "40.18806; 44.48333"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Karen Demirchyan Sports and Concerts Complex",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Full name",
+            "key": "full_name",
+            "group": null,
+            "text": "Sports and Concerts Complex named after Karen Demirchyan",
+            "lines": [
+              "Sports and Concerts Complex named after Karen Demirchyan"
+            ],
+            "html": "<td class=\"infobox-data\">Sports and Concerts Complex named after Karen Demirchyan</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Tsitsernakaberd hill, Yerevan, Armenia",
+            "lines": [
+              "Tsitsernakaberd hill, Yerevan, Armenia"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Tsitsernakaberd\" title=\"Tsitsernakaberd\">Tsitsernakaberd</a> hill, <a href=\"https://en.wikipedia.org/wiki/Yerevan\" title=\"Yerevan\">Yerevan</a>, Armenia</td>",
+            "links": [
+              {
+                "text": "Tsitsernakaberd",
+                "title": "Tsitsernakaberd",
+                "wikiTitle": "Tsitsernakaberd",
+                "href": "https://en.wikipedia.org/wiki/Tsitsernakaberd",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Yerevan",
+                "title": "Yerevan",
+                "wikiTitle": "Yerevan",
+                "href": "https://en.wikipedia.org/wiki/Yerevan",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "40°11′17″N 44°29′00″E﻿ / ﻿40.18806°N 44.48333°E﻿ / 40.18806; 44.48333",
+            "lines": [
+              "40°11′17″N 44°29′00″E﻿ / ﻿40.18806°N 44.48333°E﻿ / 40.18806; 44.48333"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Karen_Demirchyan_Complex&amp;params=40_11_17_N_44_29_00_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40°11′17″N</span> <span class=\"longitude\">44°29′00″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.18806°N 44.48333°E</span><span>﻿ / <span class=\"geo\">40.18806; 44.48333</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "40°11′17″N 44°29′00″E﻿ / ﻿40.18806°N 44.48333°E﻿ / 40.18806; 44.48333",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Karen_Demirchyan_Complex&params=40_11_17_N_44_29_00_E_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Government of Armenia",
+            "lines": [
+              "Government of Armenia"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Armenia\" title=\"Government of Armenia\">Government of Armenia</a></td>",
+            "links": [
+              {
+                "text": "Government of Armenia",
+                "title": "Government of Armenia",
+                "wikiTitle": "Government of Armenia",
+                "href": "https://en.wikipedia.org/wiki/Government_of_Armenia",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "Sports and Concerts Complex named after Karen Demirchyan CJSC",
+            "lines": [
+              "Sports and Concerts Complex named after Karen Demirchyan CJSC"
+            ],
+            "html": "<td class=\"infobox-data agent\">Sports and Concerts Complex named after Karen Demirchyan CJSC</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "Arena: 6,274 (including rotating stand), 8,800 (expanded seats)\nConcerts hall: 1,032, (expandable to 2,040 with rotating stand)",
+            "lines": [
+              "Arena: 6,274 (including rotating stand), 8,800 (expanded seats)",
+              "Concerts hall: 1,032, (expandable to 2,040 with rotating stand)"
+            ],
+            "html": "<td class=\"infobox-data\">Arena: 6,274 (including rotating stand), 8,800 (expanded seats)<br>Concerts hall: 1,032, (expandable to 2,040 with rotating stand)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "October 31, 1983",
+            "lines": [
+              "October 31, 1983"
+            ],
+            "html": "<td class=\"infobox-data\">October 31, 1983</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "1985–1987, 2005–2008",
+            "lines": [
+              "1985–1987, 2005–2008"
+            ],
+            "html": "<td class=\"infobox-data\">1985–1987, 2005–2008</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Reopened",
+            "key": "reopened",
+            "group": "Construction",
+            "text": "October 31, 2008",
+            "lines": [
+              "October 31, 2008"
+            ],
+            "html": "<td class=\"infobox-data\">October 31, 2008</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Cost",
+            "key": "cost",
+            "group": "Construction",
+            "text": "US$ 47.7 million for renovations",
+            "lines": [
+              "US$ 47.7 million for renovations"
+            ],
+            "html": "<td class=\"infobox-data\">US$ 47.7 million for renovations</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "A. TarkhanianS. KhachikianG. PoghosianG. Musheghian",
+            "lines": [
+              "A. TarkhanianS. KhachikianG. PoghosianG. Musheghian"
+            ],
+            "html": "<td class=\"infobox-data\"><div class=\"hlist\"><ul><li>A. Tarkhanian</li><li>S. Khachikian</li><li>G. Poghosian</li><li>G. Musheghian</li></ul></div></td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "full_name": [
+            {
+              "label": "Full name",
+              "key": "full_name",
+              "group": null,
+              "text": "Sports and Concerts Complex named after Karen Demirchyan",
+              "lines": [
+                "Sports and Concerts Complex named after Karen Demirchyan"
+              ],
+              "html": "<td class=\"infobox-data\">Sports and Concerts Complex named after Karen Demirchyan</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Tsitsernakaberd hill, Yerevan, Armenia",
+              "lines": [
+                "Tsitsernakaberd hill, Yerevan, Armenia"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Tsitsernakaberd\" title=\"Tsitsernakaberd\">Tsitsernakaberd</a> hill, <a href=\"https://en.wikipedia.org/wiki/Yerevan\" title=\"Yerevan\">Yerevan</a>, Armenia</td>",
+              "links": [
+                {
+                  "text": "Tsitsernakaberd",
+                  "title": "Tsitsernakaberd",
+                  "wikiTitle": "Tsitsernakaberd",
+                  "href": "https://en.wikipedia.org/wiki/Tsitsernakaberd",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Yerevan",
+                  "title": "Yerevan",
+                  "wikiTitle": "Yerevan",
+                  "href": "https://en.wikipedia.org/wiki/Yerevan",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "40°11′17″N 44°29′00″E﻿ / ﻿40.18806°N 44.48333°E﻿ / 40.18806; 44.48333",
+              "lines": [
+                "40°11′17″N 44°29′00″E﻿ / ﻿40.18806°N 44.48333°E﻿ / 40.18806; 44.48333"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Karen_Demirchyan_Complex&amp;params=40_11_17_N_44_29_00_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40°11′17″N</span> <span class=\"longitude\">44°29′00″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.18806°N 44.48333°E</span><span>﻿ / <span class=\"geo\">40.18806; 44.48333</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "40°11′17″N 44°29′00″E﻿ / ﻿40.18806°N 44.48333°E﻿ / 40.18806; 44.48333",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Karen_Demirchyan_Complex&params=40_11_17_N_44_29_00_E_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Government of Armenia",
+              "lines": [
+                "Government of Armenia"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Armenia\" title=\"Government of Armenia\">Government of Armenia</a></td>",
+              "links": [
+                {
+                  "text": "Government of Armenia",
+                  "title": "Government of Armenia",
+                  "wikiTitle": "Government of Armenia",
+                  "href": "https://en.wikipedia.org/wiki/Government_of_Armenia",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "Sports and Concerts Complex named after Karen Demirchyan CJSC",
+              "lines": [
+                "Sports and Concerts Complex named after Karen Demirchyan CJSC"
+              ],
+              "html": "<td class=\"infobox-data agent\">Sports and Concerts Complex named after Karen Demirchyan CJSC</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "Arena: 6,274 (including rotating stand), 8,800 (expanded seats)\nConcerts hall: 1,032, (expandable to 2,040 with rotating stand)",
+              "lines": [
+                "Arena: 6,274 (including rotating stand), 8,800 (expanded seats)",
+                "Concerts hall: 1,032, (expandable to 2,040 with rotating stand)"
+              ],
+              "html": "<td class=\"infobox-data\">Arena: 6,274 (including rotating stand), 8,800 (expanded seats)<br>Concerts hall: 1,032, (expandable to 2,040 with rotating stand)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "October 31, 1983",
+              "lines": [
+                "October 31, 1983"
+              ],
+              "html": "<td class=\"infobox-data\">October 31, 1983</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "1985–1987, 2005–2008",
+              "lines": [
+                "1985–1987, 2005–2008"
+              ],
+              "html": "<td class=\"infobox-data\">1985–1987, 2005–2008</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "reopened": [
+            {
+              "label": "Reopened",
+              "key": "reopened",
+              "group": "Construction",
+              "text": "October 31, 2008",
+              "lines": [
+                "October 31, 2008"
+              ],
+              "html": "<td class=\"infobox-data\">October 31, 2008</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "cost": [
+            {
+              "label": "Cost",
+              "key": "cost",
+              "group": "Construction",
+              "text": "US$ 47.7 million for renovations",
+              "lines": [
+                "US$ 47.7 million for renovations"
+              ],
+              "html": "<td class=\"infobox-data\">US$ 47.7 million for renovations</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "A. TarkhanianS. KhachikianG. PoghosianG. Musheghian",
+              "lines": [
+                "A. TarkhanianS. KhachikianG. PoghosianG. Musheghian"
+              ],
+              "html": "<td class=\"infobox-data\"><div class=\"hlist\"><ul><li>A. Tarkhanian</li><li>S. Khachikian</li><li>G. Poghosian</li><li>G. Musheghian</li></ul></div></td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "full_name": [
+            "Sports and Concerts Complex named after Karen Demirchyan"
+          ],
+          "location": [
+            "Tsitsernakaberd hill, Yerevan, Armenia"
+          ],
+          "coordinates": [
+            "40°11′17″N 44°29′00″E﻿ / ﻿40.18806°N 44.48333°E﻿ / 40.18806; 44.48333"
+          ],
+          "owner": [
+            "Government of Armenia"
+          ],
+          "operator": [
+            "Sports and Concerts Complex named after Karen Demirchyan CJSC"
+          ],
+          "capacity": [
+            "Arena: 6,274 (including rotating stand), 8,800 (expanded seats)\nConcerts hall: 1,032, (expandable to 2,040 with rotating stand)"
+          ],
+          "opened": [
+            "October 31, 1983"
+          ],
+          "renovated": [
+            "1985–1987, 2005–2008"
+          ],
+          "reopened": [
+            "October 31, 2008"
+          ],
+          "cost": [
+            "US$ 47.7 million for renovations"
+          ],
+          "architect": [
+            "A. TarkhanianS. KhachikianG. PoghosianG. Musheghian"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "Arena: 6,274 (including rotating stand), 8,800 (expanded seats)",
+          "Concerts hall: 1,032, (expandable to 2,040 with rotating stand)"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:KDComplex.png",
+            "fileName": "KDComplex.png",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:KDComplex.png",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/KDComplex.png/250px-KDComplex.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/KDComplex.png",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/KDComplex.png",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/KDComplex.png/500px-KDComplex.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 47,
+            "originalWidth": 1134,
+            "originalHeight": 214,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": "File:Karen Demirchyan Sports and Concerts Complex shot from air, May 2019.jpg",
+            "fileName": "Karen Demirchyan Sports and Concerts Complex shot from air, May 2019.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air,_May_2019.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg/250px-Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg/500px-Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 187,
+            "originalWidth": 3992,
+            "originalHeight": 2992,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "The arena in 2019"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Karen_Demirchyan_Complex&revid=1359017079&groups=_08ece95f92f596cbd8aedfa6714b719dc245fdfc&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Karen_Demirchyan_Complex&revid=1359017079&groups=_08ece95f92f596cbd8aedfa6714b719dc245fdfc&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Karen Demirchyan Sports and Concerts Complex"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Karen Demirchyan Sports and Concerts Complex</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\">Կարեն Դեմիրճյանի անվան մարզահամերգային համալիր</td></tr><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\">Hamalir</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size notpageimage\"><a href=\"https://en.wikipedia.org/wiki/File:KDComplex.png\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/KDComplex.png/250px-KDComplex.png\" width=\"250\" height=\"47\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/KDComplex.png/500px-KDComplex.png 2x\" data-file-width=\"1134\" data-file-height=\"214\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air,_May_2019.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg/250px-Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg\" width=\"250\" height=\"187\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg/500px-Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg 2x\" data-file-width=\"3992\" data-file-height=\"2992\"></a></span><div class=\"infobox-caption\">The arena in 2019</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_08ece95f92f596cbd8aedfa6714b719dc245fdfc&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Karen_Demirchyan_Complex&amp;revid=1359017079&amp;groups=_08ece95f92f596cbd8aedfa6714b719dc245fdfc&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Karen_Demirchyan_Complex&amp;revid=1359017079&amp;groups=_08ece95f92f596cbd8aedfa6714b719dc245fdfc&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Karen Demirchyan Sports and Concerts Complex</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Full name</div></th><td class=\"infobox-data\">Sports and Concerts Complex named after Karen Demirchyan</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Tsitsernakaberd\" title=\"Tsitsernakaberd\">Tsitsernakaberd</a> hill, <a href=\"https://en.wikipedia.org/wiki/Yerevan\" title=\"Yerevan\">Yerevan</a>, Armenia</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Karen_Demirchyan_Complex&amp;params=40_11_17_N_44_29_00_E_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">40°11′17″N</span> <span class=\"longitude\">44°29′00″E</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">40.18806°N 44.48333°E</span><span>﻿ / <span class=\"geo\">40.18806; 44.48333</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/wiki/Government_of_Armenia\" title=\"Government of Armenia\">Government of Armenia</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\">Sports and Concerts Complex named after Karen Demirchyan CJSC</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">Arena: 6,274 (including rotating stand), 8,800 (expanded seats)<br>Concerts hall: 1,032, (expandable to 2,040 with rotating stand)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">October 31, 1983</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">1985–1987, 2005–2008</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Reopened</th><td class=\"infobox-data\">October 31, 2008</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Cost</div></th><td class=\"infobox-data\">US$ 47.7 million for renovations</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><div class=\"hlist\"><ul><li>A. Tarkhanian</li><li>S. Khachikian</li><li>G. Poghosian</li><li>G. Musheghian</li></ul></div></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Articles_containing_Armenian-language_text",
+        "All_articles_with_unsourced_statements",
+        "Articles_with_unsourced_statements_from_December_2020",
+        "Commons_category_link_from_Wikidata",
+        "1983_establishments_in_Armenia",
+        "1983_establishments_in_the_Soviet_Union",
+        "Sports_venues_completed_in_1983",
+        "Event_venues_established_in_1983",
+        "Sports_venues_in_Yerevan",
+        "Buildings_and_structures_in_Yerevan",
+        "Figure_skating_in_Armenia",
+        "Tourist_attractions_in_Yerevan",
+        "Ice_hockey_venues_in_Armenia",
+        "Basketball_venues_in_Armenia",
+        "Music_venues_in_Armenia",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Karen_Demirchyan_Complex&params=40_11_17_N_44_29_00_E_type:landmark",
+        "https://web.archive.org/web/20090628165856/http://www.yerevak.am/mag-business1.html",
+        "http://www.yerevak.am/mag-business1.html",
+        "https://horizonweekly.ca/en/92546-2/",
+        "https://web.archive.org/web/20110204170734/http://www.hamalir.com/about-hamalir",
+        "http://www.hamalir.com/about-hamalir/",
+        "https://web.archive.org/web/20110531152902/http://www.panorama.am/am/society/2008/10/31/hamalir/",
+        "http://www.panorama.am/am/society/2008/10/31/hamalir/",
+        "https://web.archive.org/web/20140903111707/http://www.tert.am/en/news/2014/08/21/hamalir-pn/?sw",
+        "http://www.tert.am/en/news/2014/08/21/hamalir-pn/?sw",
+        "https://web.archive.org/web/20090317081640/http://www.panorama.am/en/culture/2009/02/27/garu",
+        "http://www.panorama.am/en/culture/2009/02/27/garu/",
+        "https://web.archive.org/web/20100917102503/http://armeniainfo.am/news/view.php?archive=yes&month=3&year=2009&end_day=31",
+        "http://armeniainfo.am/news/view.php?archive=yes&month=3&year=2009&end_day=31",
+        "http://www.setlist.fm/setlist/jethro-tull/2009/karen-demirchyan-sport-concert-complex-yerevan-armenia-3bd4c8fc.html",
+        "http://www.eurasianet.org/node/61157",
+        "http://www.armenianweekly.com/2010/08/13/tanking-up/",
+        "http://www.eurovision.tv/page/news?id=23963&_t=armenia_to_host_junior_eurovision_in_2011",
+        "https://web.archive.org/web/20221110133346/https://artsakhpress.am/arm/news/28183/",
+        "http://artsakhpress.am/arm/news/28183/",
+        "https://news.am/eng/news/441802.html",
+        "http://arka.am/en/news/politics/armenia_s_new_president_to_be_sworn_in_at_demirchyan_sports_and_concert_complex/",
+        "https://web.archive.org/web/20180613161323/http://m.apa.az/en/world-news/cis-countries-news/presidential-inauguration-held-in-armenia.html",
+        "http://m.apa.az/en/world-news/cis-countries-news/presidential-inauguration-held-in-armenia.html",
+        "https://eurovoix.com/2022/02/21/yerevan-to-host-junior-eurovision-2022/",
+        "https://avproduction.am/?ln=am&page=culture&id=57"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Structure",
+          "anchor": "Structure"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Notable events",
+          "anchor": "Notable_events"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "Gallery",
+          "anchor": "Gallery"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "See also",
+          "anchor": "See_also"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "7",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Karen_Demirchyan_sportcomplex.jpg",
+        "KDComplex.png",
+        "Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air,_May_2019.jpg",
+        "Karen_Demirchyan_Sports_and_Concerts_Complex_top_down_view_from_drone_2019.jpg",
+        "Karen_Demirchyan_Complex_-_stairs.jpg",
+        "Մարզա-համերգային_համալիր2.JPG",
+        "Karen_Demirchyan_Sports_and_concerts_complex_in_Yerevan,_June_2015.jpg",
+        "Commons-logo.svg",
+        "Erevan_-_La_forterese_d'Erebouni_07.JPG"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:KDComplex.png",
+          "fileName": "KDComplex.png",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:KDComplex.png",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/KDComplex.png/250px-KDComplex.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/KDComplex.png",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/KDComplex.png",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/KDComplex.png/500px-KDComplex.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 47,
+          "originalWidth": 1134,
+          "originalHeight": 214,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Karen Demirchyan Sports and Concerts Complex shot from air, May 2019.jpg",
+          "fileName": "Karen Demirchyan Sports and Concerts Complex shot from air, May 2019.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air,_May_2019.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg/250px-Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg/500px-Karen_Demirchyan_Sports_and_Concerts_Complex_shot_from_air%2C_May_2019.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 187,
+          "originalWidth": 3992,
+          "originalHeight": 2992,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The arena in 2019"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Karen_Demirchyan_Complex&revid=1359017079&groups=_08ece95f92f596cbd8aedfa6714b719dc245fdfc&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Karen_Demirchyan_Complex&revid=1359017079&groups=_08ece95f92f596cbd8aedfa6714b719dc245fdfc&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Karen Demirchyan Sports and Concerts Complex"
+        },
+        {
+          "fileTitle": "File:Karen Demirchyan Sports and Concerts Complex top down view from drone 2019.jpg",
+          "fileName": "Karen Demirchyan Sports and Concerts Complex top down view from drone 2019.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Karen_Demirchyan_Sports_and_Concerts_Complex_top_down_view_from_drone_2019.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Karen_Demirchyan_Sports_and_Concerts_Complex_top_down_view_from_drone_2019.jpg/250px-Karen_Demirchyan_Sports_and_Concerts_Complex_top_down_view_from_drone_2019.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Karen_Demirchyan_Sports_and_Concerts_Complex_top_down_view_from_drone_2019.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Karen_Demirchyan_Sports_and_Concerts_Complex_top_down_view_from_drone_2019.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Karen_Demirchyan_Sports_and_Concerts_Complex_top_down_view_from_drone_2019.jpg/500px-Karen_Demirchyan_Sports_and_Concerts_Complex_top_down_view_from_drone_2019.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 190,
+          "height": 142,
+          "originalWidth": 3976,
+          "originalHeight": 2980,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Top down aerial view of the complex in May 2019"
+        },
+        {
+          "fileTitle": "File:Karen Demirchyan Complex - stairs.jpg",
+          "fileName": "Karen Demirchyan Complex - stairs.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Karen_Demirchyan_Complex_-_stairs.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Karen_Demirchyan_Complex_-_stairs.jpg/250px-Karen_Demirchyan_Complex_-_stairs.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Karen_Demirchyan_Complex_-_stairs.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Karen_Demirchyan_Complex_-_stairs.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Karen_Demirchyan_Complex_-_stairs.jpg/500px-Karen_Demirchyan_Complex_-_stairs.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 5470,
+          "originalHeight": 3646,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The stairs leading up to the Karen Demirchyan Complex (2018)"
+        },
+        {
+          "fileTitle": "File:Մարզա-համերգային համալիր2.JPG",
+          "fileName": "Մարզա-համերգային համալիր2.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:%D5%84%D5%A1%D6%80%D5%A6%D5%A1-%D5%B0%D5%A1%D5%B4%D5%A5%D6%80%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B0%D5%A1%D5%B4%D5%A1%D5%AC%D5%AB%D6%802.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/%D5%84%D5%A1%D6%80%D5%A6%D5%A1-%D5%B0%D5%A1%D5%B4%D5%A5%D6%80%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B0%D5%A1%D5%B4%D5%A1%D5%AC%D5%AB%D6%802.JPG/250px-%D5%84%D5%A1%D6%80%D5%A6%D5%A1-%D5%B0%D5%A1%D5%B4%D5%A5%D6%80%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B0%D5%A1%D5%B4%D5%A1%D5%AC%D5%AB%D6%802.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/%D5%84%D5%A1%D6%80%D5%A6%D5%A1-%D5%B0%D5%A1%D5%B4%D5%A5%D6%80%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B0%D5%A1%D5%B4%D5%A1%D5%AC%D5%AB%D6%802.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/%D5%84%D5%A1%D6%80%D5%A6%D5%A1-%D5%B0%D5%A1%D5%B4%D5%A5%D6%80%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B0%D5%A1%D5%B4%D5%A1%D5%AC%D5%AB%D6%802.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/%D5%84%D5%A1%D6%80%D5%A6%D5%A1-%D5%B0%D5%A1%D5%B4%D5%A5%D6%80%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B0%D5%A1%D5%B4%D5%A1%D5%AC%D5%AB%D6%802.JPG/500px-%D5%84%D5%A1%D6%80%D5%A6%D5%A1-%D5%B0%D5%A1%D5%B4%D5%A5%D6%80%D5%A3%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B0%D5%A1%D5%B4%D5%A1%D5%AC%D5%AB%D6%802.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 130,
+          "originalWidth": 5184,
+          "originalHeight": 2704,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The complex from a bird's eye view"
+        },
+        {
+          "fileTitle": "File:Karen Demirchyan Sports and concerts complex in Yerevan, June 2015.jpg",
+          "fileName": "Karen Demirchyan Sports and concerts complex in Yerevan, June 2015.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Karen_Demirchyan_Sports_and_concerts_complex_in_Yerevan,_June_2015.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Karen_Demirchyan_Sports_and_concerts_complex_in_Yerevan%2C_June_2015.jpg/1280px-Karen_Demirchyan_Sports_and_concerts_complex_in_Yerevan%2C_June_2015.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Karen_Demirchyan_Sports_and_concerts_complex_in_Yerevan%2C_June_2015.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Karen_Demirchyan_Sports_and_concerts_complex_in_Yerevan%2C_June_2015.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Karen_Demirchyan_Sports_and_concerts_complex_in_Yerevan%2C_June_2015.jpg/3840px-Karen_Demirchyan_Sports_and_concerts_complex_in_Yerevan%2C_June_2015.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 1000,
+          "height": 220,
+          "originalWidth": 4912,
+          "originalHeight": 1080,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The details at the entrance to the complex"
+        },
+        {
+          "fileTitle": "File:Karen Demirchyan sportcomplex.jpg",
+          "fileName": "Karen Demirchyan sportcomplex.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Karen_Demirchyan_sportcomplex.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Karen_Demirchyan_sportcomplex.jpg/120px-Karen_Demirchyan_sportcomplex.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Karen_Demirchyan_sportcomplex.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Karen_Demirchyan_sportcomplex.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Karen_Demirchyan_sportcomplex.jpg/250px-Karen_Demirchyan_sportcomplex.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 120,
+          "height": 90,
+          "originalWidth": 4032,
+          "originalHeight": 3024,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Erevan - La forterese d'Erebouni 07.JPG",
+          "fileName": "Erevan - La forterese d'Erebouni 07.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Erevan_-_La_forterese_d%27Erebouni_07.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Erevan_-_La_forterese_d%27Erebouni_07.JPG/250px-Erevan_-_La_forterese_d%27Erebouni_07.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Erevan_-_La_forterese_d'Erebouni_07.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Erevan_-_La_forterese_d'Erebouni_07.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Erevan_-_La_forterese_d%27Erebouni_07.JPG/330px-Erevan_-_La_forterese_d%27Erebouni_07.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 140,
+          "height": 105,
+          "originalWidth": 1024,
+          "originalHeight": 768,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 10,
+          "rowText": "Armenia\nYerevan\nKaren Demirchyan Complex\n1983\n8,000\nJunior Eurovision Song Contest 2011\nJunior Eurovision Song Contest 2022",
+          "rowHtml": "<tr>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Armenia\" title=\"Armenia\">Armenia</a>\n</td>\n<td rowspan=\"2\"><a href=\"https://en.wikipedia.org/wiki/Yerevan\" title=\"Yerevan\">Yerevan</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Karen_Demirchyan_Complex\" title=\"Karen Demirchyan Complex\">Karen Demirchyan Complex</a>\n</td>\n<td>1983\n</td>\n<td>8,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Junior_Eurovision_Song_Contest_2011\" title=\"Junior Eurovision Song Contest 2011\">Junior Eurovision Song Contest 2011</a><br><a href=\"https://en.wikipedia.org/wiki/Junior_Eurovision_Song_Contest_2022\" title=\"Junior Eurovision Song Contest 2022\">Junior Eurovision Song Contest 2022</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 10,
+              "cell": {
+                "text": "Armenia",
+                "lines": [
+                  "Armenia"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Armenia",
+                    "title": "Armenia",
+                    "wikiTitle": "Armenia",
+                    "href": "https://en.wikipedia.org/wiki/Armenia",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 10,
+              "cell": {
+                "text": "Yerevan",
+                "lines": [
+                  "Yerevan"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Yerevan",
+                    "title": "Yerevan",
+                    "wikiTitle": "Yerevan",
+                    "href": "https://en.wikipedia.org/wiki/Yerevan",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 10,
+              "cell": {
+                "text": "Karen Demirchyan Complex",
+                "lines": [
+                  "Karen Demirchyan Complex"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Karen Demirchyan Complex",
+                    "title": "Karen Demirchyan Complex",
+                    "wikiTitle": "Karen Demirchyan Complex",
+                    "href": "https://en.wikipedia.org/wiki/Karen_Demirchyan_Complex",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 10,
+              "cell": {
+                "text": "1983",
+                "lines": [
+                  "1983"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 10,
+              "cell": {
+                "text": "8,000",
+                "lines": [
+                  "8,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 10,
+              "cell": {
+                "text": "Junior Eurovision Song Contest 2011\nJunior Eurovision Song Contest 2022",
+                "lines": [
+                  "Junior Eurovision Song Contest 2011",
+                  "Junior Eurovision Song Contest 2022"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Junior Eurovision Song Contest 2011",
+                    "title": "Junior Eurovision Song Contest 2011",
+                    "wikiTitle": "Junior Eurovision Song Contest 2011",
+                    "href": "https://en.wikipedia.org/wiki/Junior_Eurovision_Song_Contest_2011",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  },
+                  {
+                    "text": "Junior Eurovision Song Contest 2022",
+                    "title": "Junior Eurovision Song Contest 2022",
+                    "wikiTitle": "Junior Eurovision Song Contest 2022",
+                    "href": "https://en.wikipedia.org/wiki/Junior_Eurovision_Song_Contest_2022",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Karen Demirchyan Complex",
+            "lines": [
+              "Karen Demirchyan Complex"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Karen Demirchyan Complex",
+                "title": "Karen Demirchyan Complex",
+                "wikiTitle": "Karen Demirchyan Complex",
+                "href": "https://en.wikipedia.org/wiki/Karen_Demirchyan_Complex",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:53.504Z"
+    }
+  ]
+}

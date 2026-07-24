@@ -1,0 +1,861 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Andorra",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 1
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 4,
+    "sourceTypeCounts": {
+      "world_master_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-7684367",
+      "pageId": 7684367,
+      "revisionId": null,
+      "title": "Poliesportiu d'Andorra",
+      "displayTitle": "Poliesportiu d'Andorra",
+      "url": "https://en.wikipedia.org/wiki/Poliesportiu_d%27Andorra",
+      "wikidataItem": "Q7209730",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q7209730",
+      "aliases": [
+        "Poliesportiu d'Andorra"
+      ],
+      "requestedTitles": [
+        "Poliesportiu d'Andorra"
+      ],
+      "sourceLinkTexts": [
+        "Poliesportiu d'Andorra"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Poliesportiu_d%27Andorra"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": 42.504833,
+        "longitude": 1.516639,
+        "raw": "42.504833; 1.516639"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Poliesportiu d'Andorra",
+        "groups": [
+          "Construction",
+          "Tenants"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Andorra La Vella, Andorra",
+            "lines": [
+              "Andorra La Vella, Andorra"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Andorra_La_Vella\" class=\"mw-redirect\" title=\"Andorra La Vella\">Andorra La Vella</a>, <a href=\"https://en.wikipedia.org/wiki/Andorra\" title=\"Andorra\">Andorra</a></td>",
+            "links": [
+              {
+                "text": "Andorra La Vella",
+                "title": "Andorra La Vella",
+                "wikiTitle": "Andorra La Vella",
+                "href": "https://en.wikipedia.org/wiki/Andorra_La_Vella",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Andorra",
+                "title": "Andorra",
+                "wikiTitle": "Andorra",
+                "href": "https://en.wikipedia.org/wiki/Andorra",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "5,000",
+            "lines": [
+              "5,000"
+            ],
+            "html": "<td class=\"infobox-data\">5,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Surface",
+            "key": "surface",
+            "group": null,
+            "text": "Parquet Floor",
+            "lines": [
+              "Parquet Floor"
+            ],
+            "html": "<td class=\"infobox-data\">Parquet Floor</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Record attendance",
+            "key": "record_attendance",
+            "group": null,
+            "text": "5,012\nFestina Andorra v Real Madrid (24 January 1993)",
+            "lines": [
+              "5,012",
+              "Festina Andorra v Real Madrid (24 January 1993)"
+            ],
+            "html": "<td class=\"infobox-data\">5,012<br><a href=\"https://en.wikipedia.org/wiki/BC_Andorra\" title=\"BC Andorra\">Festina Andorra</a> v <a href=\"https://en.wikipedia.org/wiki/Real_Madrid_Baloncesto\" title=\"Real Madrid Baloncesto\">Real Madrid</a> (24 January 1993)</td>",
+            "links": [
+              {
+                "text": "Festina Andorra",
+                "title": "BC Andorra",
+                "wikiTitle": "BC Andorra",
+                "href": "https://en.wikipedia.org/wiki/BC_Andorra",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Real Madrid",
+                "title": "Real Madrid Baloncesto",
+                "wikiTitle": "Real Madrid Baloncesto",
+                "href": "https://en.wikipedia.org/wiki/Real_Madrid_Baloncesto",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "[1]",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://en.wikipedia.org/#cite_note-1",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": [
+              {
+                "label": "[1]",
+                "href": "https://en.wikipedia.org/#cite_note-1"
+              }
+            ]
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1991",
+            "lines": [
+              "1991"
+            ],
+            "html": "<td class=\"infobox-data\">1991</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Expanded",
+            "key": "expanded",
+            "group": "Construction",
+            "text": "1993, 2014",
+            "lines": [
+              "1993, 2014"
+            ],
+            "html": "<td class=\"infobox-data\">1993, 2014</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Tenants",
+            "key": "tenants",
+            "group": "Tenants",
+            "text": "BC Andorra",
+            "lines": [
+              "BC Andorra"
+            ],
+            "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/BC_Andorra\" title=\"BC Andorra\">BC Andorra</a></td>",
+            "links": [
+              {
+                "text": "BC Andorra",
+                "title": "BC Andorra",
+                "wikiTitle": "BC Andorra",
+                "href": "https://en.wikipedia.org/wiki/BC_Andorra",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Andorra La Vella, Andorra",
+              "lines": [
+                "Andorra La Vella, Andorra"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Andorra_La_Vella\" class=\"mw-redirect\" title=\"Andorra La Vella\">Andorra La Vella</a>, <a href=\"https://en.wikipedia.org/wiki/Andorra\" title=\"Andorra\">Andorra</a></td>",
+              "links": [
+                {
+                  "text": "Andorra La Vella",
+                  "title": "Andorra La Vella",
+                  "wikiTitle": "Andorra La Vella",
+                  "href": "https://en.wikipedia.org/wiki/Andorra_La_Vella",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Andorra",
+                  "title": "Andorra",
+                  "wikiTitle": "Andorra",
+                  "href": "https://en.wikipedia.org/wiki/Andorra",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "5,000",
+              "lines": [
+                "5,000"
+              ],
+              "html": "<td class=\"infobox-data\">5,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "surface": [
+            {
+              "label": "Surface",
+              "key": "surface",
+              "group": null,
+              "text": "Parquet Floor",
+              "lines": [
+                "Parquet Floor"
+              ],
+              "html": "<td class=\"infobox-data\">Parquet Floor</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "record_attendance": [
+            {
+              "label": "Record attendance",
+              "key": "record_attendance",
+              "group": null,
+              "text": "5,012\nFestina Andorra v Real Madrid (24 January 1993)",
+              "lines": [
+                "5,012",
+                "Festina Andorra v Real Madrid (24 January 1993)"
+              ],
+              "html": "<td class=\"infobox-data\">5,012<br><a href=\"https://en.wikipedia.org/wiki/BC_Andorra\" title=\"BC Andorra\">Festina Andorra</a> v <a href=\"https://en.wikipedia.org/wiki/Real_Madrid_Baloncesto\" title=\"Real Madrid Baloncesto\">Real Madrid</a> (24 January 1993)</td>",
+              "links": [
+                {
+                  "text": "Festina Andorra",
+                  "title": "BC Andorra",
+                  "wikiTitle": "BC Andorra",
+                  "href": "https://en.wikipedia.org/wiki/BC_Andorra",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Real Madrid",
+                  "title": "Real Madrid Baloncesto",
+                  "wikiTitle": "Real Madrid Baloncesto",
+                  "href": "https://en.wikipedia.org/wiki/Real_Madrid_Baloncesto",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "[1]",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://en.wikipedia.org/#cite_note-1",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": [
+                {
+                  "label": "[1]",
+                  "href": "https://en.wikipedia.org/#cite_note-1"
+                }
+              ]
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1991",
+              "lines": [
+                "1991"
+              ],
+              "html": "<td class=\"infobox-data\">1991</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "expanded": [
+            {
+              "label": "Expanded",
+              "key": "expanded",
+              "group": "Construction",
+              "text": "1993, 2014",
+              "lines": [
+                "1993, 2014"
+              ],
+              "html": "<td class=\"infobox-data\">1993, 2014</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "tenants": [
+            {
+              "label": "Tenants",
+              "key": "tenants",
+              "group": "Tenants",
+              "text": "BC Andorra",
+              "lines": [
+                "BC Andorra"
+              ],
+              "html": "<td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/BC_Andorra\" title=\"BC Andorra\">BC Andorra</a></td>",
+              "links": [
+                {
+                  "text": "BC Andorra",
+                  "title": "BC Andorra",
+                  "wikiTitle": "BC Andorra",
+                  "href": "https://en.wikipedia.org/wiki/BC_Andorra",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Andorra La Vella, Andorra"
+          ],
+          "capacity": [
+            "5,000"
+          ],
+          "surface": [
+            "Parquet Floor"
+          ],
+          "record_attendance": [
+            "5,012\nFestina Andorra v Real Madrid (24 January 1993)"
+          ],
+          "opened": [
+            "1991"
+          ],
+          "expanded": [
+            "1993, 2014"
+          ],
+          "tenants": [
+            "BC Andorra"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "5,000"
+        ],
+        "tenants": [
+          "BC Andorra"
+        ],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Final ICL MANRESA - FC BARCELONA LASSA - 29927375751.jpg",
+            "fileName": "Final ICL MANRESA - FC BARCELONA LASSA - 29927375751.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg/250px-Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg/500px-Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 167,
+            "originalWidth": 5760,
+            "originalHeight": 3840,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Poliesportiu_d%27Andorra&revid=1335178356&groups=_c707a20a89759ab9811416eba9ceb6345eb8c0a3&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Poliesportiu_d%27Andorra&revid=1335178356&groups=_c707a20a89759ab9811416eba9ceb6345eb8c0a3&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Poliesportiu d'Andorra"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Poliesportiu d'Andorra</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\"><i>La BMB</i></div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg/250px-Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg\" width=\"250\" height=\"167\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg/500px-Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg 2x\" data-file-width=\"5760\" data-file-height=\"3840\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_c707a20a89759ab9811416eba9ceb6345eb8c0a3&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Poliesportiu_d%27Andorra&amp;revid=1335178356&amp;groups=_c707a20a89759ab9811416eba9ceb6345eb8c0a3&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Poliesportiu_d%27Andorra&amp;revid=1335178356&amp;groups=_c707a20a89759ab9811416eba9ceb6345eb8c0a3&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Poliesportiu d'Andorra</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Andorra_La_Vella\" class=\"mw-redirect\" title=\"Andorra La Vella\">Andorra La Vella</a>, <a href=\"https://en.wikipedia.org/wiki/Andorra\" title=\"Andorra\">Andorra</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">5,000</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Surface</th><td class=\"infobox-data\">Parquet Floor</td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Record attendance</div></th><td class=\"infobox-data\">5,012<br><a href=\"https://en.wikipedia.org/wiki/BC_Andorra\" title=\"BC Andorra\">Festina Andorra</a> v <a href=\"https://en.wikipedia.org/wiki/Real_Madrid_Baloncesto\" title=\"Real Madrid Baloncesto\">Real Madrid</a> (24 January 1993)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1991</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Expanded</th><td class=\"infobox-data\">1993, 2014</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Tenants</th></tr><tr><td colspan=\"2\" class=\"infobox-full-data\"><a href=\"https://en.wikipedia.org/wiki/BC_Andorra\" title=\"BC Andorra\">BC Andorra</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "CS1_Catalan-language_sources_(ca)",
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Handball_venues_in_Andorra",
+        "Sport_in_Andorra_la_Vella",
+        "Indoor_arenas_in_Andorra",
+        "Basketball_venues_in_Andorra",
+        "Volleyball_venues_in_Andorra",
+        "All_stub_articles",
+        "European_sports_venue_stubs",
+        "Andorran_sport_stubs",
+        "Andorran_building_and_structure_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://web.archive.org/web/20150403043035/http://www.acb.com/fichas/LACB37248.php",
+        "https://radiovalira.ad/2025/01/16/el-poliesportiu-canviara-de-nom-a-pavello-toni-marti-aquest-diumenge/",
+        "https://www.baskonistas.com/asi-es-el-poliesportiu-dandorra/",
+        "https://www.marca.com/2011/05/21/mas_deportes/otros_deportes/1306009927.html",
+        "https://www.altaveu.com/actualitat/esport/andorra-corona-lleida-llista-blava-com-virrei-hoquei-sobre-patins-continental_30220_102.html",
+        "https://cadenaser.com/emisora/2014/08/22/radio_ser_principat_d_andorra/1408661059_850215.html",
+        "https://andorrasportstraining.com/ca/serveis/installacions/andorra-sports-centre/",
+        "https://geohack.toolforge.org/geohack.php?pagename=Poliesportiu_d'Andorra&params=42_30_17.4_N_1_30_59.9_E_type:landmark",
+        "https://web.archive.org/web/20141224152637/http://turisme.andorralavella.ad/en/node/481/andorra-multisports-pavilion"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "League attendances",
+          "anchor": "League_attendances"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg",
+        "Symbol_category_class.svg",
+        "Symbol_portal_class.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Final ICL MANRESA - FC BARCELONA LASSA - 29927375751.jpg",
+          "fileName": "Final ICL MANRESA - FC BARCELONA LASSA - 29927375751.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg/250px-Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg/500px-Final_ICL_MANRESA_-_FC_BARCELONA_LASSA_-_29927375751.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 5760,
+          "originalHeight": 3840,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Poliesportiu_d%27Andorra&revid=1335178356&groups=_c707a20a89759ab9811416eba9ceb6345eb8c0a3&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Poliesportiu_d%27Andorra&revid=1335178356&groups=_c707a20a89759ab9811416eba9ceb6345eb8c0a3&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Poliesportiu d'Andorra"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/20px-Symbol_category_class.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/40px-Symbol_category_class.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 16,
+          "height": 16,
+          "originalWidth": 180,
+          "originalHeight": 185,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Symbol portal class.svg",
+          "fileName": "Symbol portal class.svg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Symbol_portal_class.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Symbol_portal_class.svg/20px-Symbol_portal_class.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Symbol_portal_class.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Symbol_portal_class.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Symbol_portal_class.svg/40px-Symbol_portal_class.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 16,
+          "height": 16,
+          "originalWidth": 180,
+          "originalHeight": 185,
+          "fileType": null,
+          "alt": null,
+          "title": "Portal",
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Europe"
+          ],
+          "tableIndex": 2,
+          "tableCaption": null,
+          "rowIndex": 9,
+          "rowText": "Andorra\nAndorra la Vella\nPoliesportiu d'Andorra\n1991\n5,000\nBC Andorra",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Andorra\" title=\"Andorra\">Andorra</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Andorra_la_Vella\" title=\"Andorra la Vella\">Andorra la Vella</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Poliesportiu_d%27Andorra\" title=\"Poliesportiu d'Andorra\">Poliesportiu d'Andorra</a>\n</td>\n<td>1991\n</td>\n<td>5,000\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/BC_Andorra\" title=\"BC Andorra\">BC Andorra</a>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 9,
+              "cell": {
+                "text": "Andorra",
+                "lines": [
+                  "Andorra"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Andorra",
+                    "title": "Andorra",
+                    "wikiTitle": "Andorra",
+                    "href": "https://en.wikipedia.org/wiki/Andorra",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 9,
+              "cell": {
+                "text": "Andorra la Vella",
+                "lines": [
+                  "Andorra la Vella"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Andorra la Vella",
+                    "title": "Andorra la Vella",
+                    "wikiTitle": "Andorra la Vella",
+                    "href": "https://en.wikipedia.org/wiki/Andorra_la_Vella",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 9,
+              "cell": {
+                "text": "Poliesportiu d'Andorra",
+                "lines": [
+                  "Poliesportiu d'Andorra"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Poliesportiu d'Andorra",
+                    "title": "Poliesportiu d'Andorra",
+                    "wikiTitle": "Poliesportiu d'Andorra",
+                    "href": "https://en.wikipedia.org/wiki/Poliesportiu_d%27Andorra",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 9,
+              "cell": {
+                "text": "1991",
+                "lines": [
+                  "1991"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 9,
+              "cell": {
+                "text": "5,000",
+                "lines": [
+                  "5,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 9,
+              "cell": {
+                "text": "BC Andorra",
+                "lines": [
+                  "BC Andorra"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "BC Andorra",
+                    "title": "BC Andorra",
+                    "wikiTitle": "BC Andorra",
+                    "href": "https://en.wikipedia.org/wiki/BC_Andorra",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Poliesportiu d'Andorra",
+            "lines": [
+              "Poliesportiu d'Andorra"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Poliesportiu d'Andorra",
+                "title": "Poliesportiu d'Andorra",
+                "wikiTitle": "Poliesportiu d'Andorra",
+                "href": "https://en.wikipedia.org/wiki/Poliesportiu_d%27Andorra",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:00:52.537Z"
+    }
+  ]
+}

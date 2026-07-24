@@ -1,0 +1,534 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Central African Republic",
+  "coverage": {
+    "mode": "inferred_from_infobox_or_other_lists",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 0
+  },
+  "stats": {
+    "arenaCount": 1,
+    "sourceRowCount": 1,
+    "mediaRecordCount": 0,
+    "sourceTypeCounts": {
+      "country_or_region_list": 1
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-77894095",
+      "pageId": 77894095,
+      "revisionId": null,
+      "title": "Martin Ngoko National Basketball Center",
+      "displayTitle": "Martin Ngoko National Basketball Center",
+      "url": "https://en.wikipedia.org/wiki/Martin_Ngoko_National_Basketball_Center",
+      "wikidataItem": "Q130390702",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q130390702",
+      "aliases": [
+        "Martin Ngoko National Basketball Center"
+      ],
+      "requestedTitles": [
+        "Martin Ngoko National Basketball Center"
+      ],
+      "sourceLinkTexts": [
+        "Martin Ngoko National Basketball Center"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Martin_Ngoko_National_Basketball_Center"
+      ],
+      "sourcePages": [
+        "List of indoor arenas in Africa"
+      ],
+      "sourceTypes": [
+        "country_or_region_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": null,
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Martin Ngoko National Basketball Center",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "4,500",
+            "lines": [
+              "4,500"
+            ],
+            "html": "<td class=\"infobox-data\">4,500</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Type",
+            "key": "type",
+            "group": null,
+            "text": "Indoor arena",
+            "lines": [
+              "Indoor arena"
+            ],
+            "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Indoor_arena\" class=\"mw-redirect\" title=\"Indoor arena\">Indoor arena</a></td>",
+            "links": [
+              {
+                "text": "Indoor arena",
+                "title": "Indoor arena",
+                "wikiTitle": "Indoor arena",
+                "href": "https://en.wikipedia.org/wiki/Indoor_arena",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Current use",
+            "key": "current_use",
+            "group": null,
+            "text": "Basketball",
+            "lines": [
+              "Basketball"
+            ],
+            "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Basketball\" title=\"Basketball\">Basketball</a></td>",
+            "links": [
+              {
+                "text": "Basketball",
+                "title": "Basketball",
+                "wikiTitle": "Basketball",
+                "href": "https://en.wikipedia.org/wiki/Basketball",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "9 August 2023 (reconstruction)",
+            "lines": [
+              "9 August 2023 (reconstruction)"
+            ],
+            "html": "<td class=\"infobox-data\">9 August 2023 (reconstruction)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Rebuilt",
+            "key": "rebuilt",
+            "group": "Construction",
+            "text": "2023–2024",
+            "lines": [
+              "2023–2024"
+            ],
+            "html": "<td class=\"infobox-data\">2023–2024</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Builder",
+            "key": "builder",
+            "group": "Construction",
+            "text": "Kefa Sports Ltd. (reconstruction)",
+            "lines": [
+              "Kefa Sports Ltd. (reconstruction)"
+            ],
+            "html": "<td class=\"infobox-data\">Kefa Sports Ltd. (reconstruction)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "4,500",
+              "lines": [
+                "4,500"
+              ],
+              "html": "<td class=\"infobox-data\">4,500</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "type": [
+            {
+              "label": "Type",
+              "key": "type",
+              "group": null,
+              "text": "Indoor arena",
+              "lines": [
+                "Indoor arena"
+              ],
+              "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Indoor_arena\" class=\"mw-redirect\" title=\"Indoor arena\">Indoor arena</a></td>",
+              "links": [
+                {
+                  "text": "Indoor arena",
+                  "title": "Indoor arena",
+                  "wikiTitle": "Indoor arena",
+                  "href": "https://en.wikipedia.org/wiki/Indoor_arena",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "current_use": [
+            {
+              "label": "Current use",
+              "key": "current_use",
+              "group": null,
+              "text": "Basketball",
+              "lines": [
+                "Basketball"
+              ],
+              "html": "<td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Basketball\" title=\"Basketball\">Basketball</a></td>",
+              "links": [
+                {
+                  "text": "Basketball",
+                  "title": "Basketball",
+                  "wikiTitle": "Basketball",
+                  "href": "https://en.wikipedia.org/wiki/Basketball",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "9 August 2023 (reconstruction)",
+              "lines": [
+                "9 August 2023 (reconstruction)"
+              ],
+              "html": "<td class=\"infobox-data\">9 August 2023 (reconstruction)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "rebuilt": [
+            {
+              "label": "Rebuilt",
+              "key": "rebuilt",
+              "group": "Construction",
+              "text": "2023–2024",
+              "lines": [
+                "2023–2024"
+              ],
+              "html": "<td class=\"infobox-data\">2023–2024</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "builder": [
+            {
+              "label": "Builder",
+              "key": "builder",
+              "group": "Construction",
+              "text": "Kefa Sports Ltd. (reconstruction)",
+              "lines": [
+                "Kefa Sports Ltd. (reconstruction)"
+              ],
+              "html": "<td class=\"infobox-data\">Kefa Sports Ltd. (reconstruction)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "capacity": [
+            "4,500"
+          ],
+          "type": [
+            "Indoor arena"
+          ],
+          "current_use": [
+            "Basketball"
+          ],
+          "groundbreaking": [
+            "9 August 2023 (reconstruction)"
+          ],
+          "rebuilt": [
+            "2023–2024"
+          ],
+          "builder": [
+            "Kefa Sports Ltd. (reconstruction)"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "4,500"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Martin Ngoko National Basketball Center</caption><tbody><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">4,500</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Type</th><td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Indoor_arena\" class=\"mw-redirect\" title=\"Indoor arena\">Indoor arena</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Current use</div></th><td class=\"infobox-data category\"><a href=\"https://en.wikipedia.org/wiki/Basketball\" title=\"Basketball\">Basketball</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">9 August 2023 (reconstruction)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Rebuilt</th><td class=\"infobox-data\">2023–2024</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Builder</th><td class=\"infobox-data\">Kefa Sports Ltd. (reconstruction)</td></tr></tbody></table>"
+      },
+      "categories": [
+        "CS1_French-language_sources_(fr)",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Use_dmy_dates_from_September_2024",
+        "Pages_using_infobox_mapframe_with_missing_coordinates",
+        "Articles_containing_French-language_text",
+        "Central_African_Republic_articles_missing_geocoordinate_data",
+        "All_articles_needing_coordinates",
+        "Articles_missing_coordinates_without_coordinates_on_Wikidata",
+        "Buildings_and_structures_in_Bangui",
+        "Sports_venues_in_the_Central_African_Republic"
+      ],
+      "externalLinks": [
+        "https://www.radiondekeluka.org/41088-centrafrique-le-centre-national-de-basket-ball-martin-ngoko-en-pleine-reconstruction",
+        "https://mobile.igihe.com/imikino/basketball/article/abanyarwanda-bari-kubaka-inzu-y-imikino-ya-basketball-muri-centrafrique-amafoto",
+        "https://ndjonisango.com/2024/03/05/rca-les-travaux-de-reconstruction-du-centre-national-martin-ngoko-avance-a-grands-pas/",
+        "https://nouvellesplus.com/2023/08/21/le-centre-national-de-basketball-martin-ngoko-a-bangui-sera-bientot-renove/"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        }
+      ],
+      "referencedFileTitles": [],
+      "media": [],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas in Africa",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas_in_Africa",
+          "sourceRevisionId": null,
+          "sourceType": "country_or_region_list",
+          "countryHint": null,
+          "sectionPath": [
+            "Current arenas"
+          ],
+          "tableIndex": 0,
+          "tableCaption": null,
+          "rowIndex": 17,
+          "rowText": "Central African Republic\nBangui\nMartin Ngoko National Basketball Center\n5,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Central_African_Republic\" title=\"Central African Republic\">Central African Republic</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Bangui\" title=\"Bangui\">Bangui</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Martin_Ngoko_National_Basketball_Center\" title=\"Martin Ngoko National Basketball Center\">Martin Ngoko National Basketball Center</a>\n</td>\n<td>\n</td>\n<td><div class=\"center\">5,000</div>\n</td>\n<td>\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 17,
+              "cell": {
+                "text": "Central African Republic",
+                "lines": [
+                  "Central African Republic"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Central African Republic",
+                    "title": "Central African Republic",
+                    "wikiTitle": "Central African Republic",
+                    "href": "https://en.wikipedia.org/wiki/Central_African_Republic",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 17,
+              "cell": {
+                "text": "Bangui",
+                "lines": [
+                  "Bangui"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Bangui",
+                    "title": "Bangui",
+                    "wikiTitle": "Bangui",
+                    "href": "https://en.wikipedia.org/wiki/Bangui",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Arena",
+              "headerKey": "arena",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 17,
+              "cell": {
+                "text": "Martin Ngoko National Basketball Center",
+                "lines": [
+                  "Martin Ngoko National Basketball Center"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Martin Ngoko National Basketball Center",
+                    "title": "Martin Ngoko National Basketball Center",
+                    "wikiTitle": "Martin Ngoko National Basketball Center",
+                    "href": "https://en.wikipedia.org/wiki/Martin_Ngoko_National_Basketball_Center",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 17,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 17,
+              "cell": {
+                "text": "5,000",
+                "lines": [
+                  "5,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Image",
+              "headerKey": "image",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 17,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 6,
+              "header": "Ref.",
+              "headerKey": "ref",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 17,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Martin Ngoko National Basketball Center",
+            "lines": [
+              "Martin Ngoko National Basketball Center"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Martin Ngoko National Basketball Center",
+                "title": "Martin Ngoko National Basketball Center",
+                "wikiTitle": "Martin Ngoko National Basketball Center",
+                "href": "https://en.wikipedia.org/wiki/Martin_Ngoko_National_Basketball_Center",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:52:21.387Z"
+    }
+  ]
+}

@@ -1,0 +1,3028 @@
+{
+  "schemaVersion": "1.1.0-country-split",
+  "generatedAt": "2026-07-24T00:57:18.2727045Z",
+  "source": "English Wikipedia",
+  "sourceLicense": "CC BY-SA 4.0; verify individual media licenses on each file page",
+  "sourceFile": "C:\\Users\\user-MSI\\Downloads\\wikipedia-indoor-arenas-complete.json",
+  "country": "Chile",
+  "coverage": {
+    "mode": "world_master_list_fallback",
+    "hasDedicatedBlueLinkedArenaList": false,
+    "dedicatedListPages": null,
+    "worldMasterFallbackArenaCount": 4
+  },
+  "stats": {
+    "arenaCount": 4,
+    "sourceRowCount": 4,
+    "mediaRecordCount": 19,
+    "sourceTypeCounts": {
+      "world_master_list": 4
+    }
+  },
+  "listPageSummaries": [
+    {
+      "title": "List of indoor arenas",
+      "url": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+      "revisionId": null,
+      "sections": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North America",
+        "Canada",
+        "United States",
+        "Oceania",
+        "South America",
+        "See also",
+        "External links"
+      ],
+      "candidateRowCount": 1383
+    }
+  ],
+  "arenas": [
+    {
+      "id": "wikipedia-page-19015085",
+      "pageId": 19015085,
+      "revisionId": null,
+      "title": "Coliseo La Tortuga",
+      "displayTitle": "Coliseo La Tortuga",
+      "url": "https://en.wikipedia.org/wiki/Coliseo_La_Tortuga",
+      "wikidataItem": "Q5145752",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q5145752",
+      "aliases": [
+        "Coliseo La Tortuga"
+      ],
+      "requestedTitles": [
+        "Coliseo La Tortuga"
+      ],
+      "sourceLinkTexts": [
+        "Coliseo La Tortuga"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Coliseo_La_Tortuga"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": -36.72,
+        "longitude": -73.10861,
+        "raw": "-36.72000; -73.10861"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Coliseo La Tortuga",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Talcahuano, Chile",
+            "lines": [
+              "Talcahuano, Chile"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Talcahuano\" title=\"Talcahuano\">Talcahuano</a>, <a href=\"https://en.wikipedia.org/wiki/Chile\" title=\"Chile\">Chile</a></td>",
+            "links": [
+              {
+                "text": "Talcahuano",
+                "title": "Talcahuano",
+                "wikiTitle": "Talcahuano",
+                "href": "https://en.wikipedia.org/wiki/Talcahuano",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Chile",
+                "title": "Chile",
+                "wikiTitle": "Chile",
+                "href": "https://en.wikipedia.org/wiki/Chile",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "36°43′12″S 73°6′31″W﻿ / ﻿36.72000°S 73.10861°W﻿ / -36.72000; -73.10861",
+            "lines": [
+              "36°43′12″S 73°6′31″W﻿ / ﻿36.72000°S 73.10861°W﻿ / -36.72000; -73.10861"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Coliseo_La_Tortuga&amp;params=36_43_12_S_73_6_31_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">36°43′12″S</span> <span class=\"longitude\">73°6′31″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">36.72000°S 73.10861°W</span><span>﻿ / <span class=\"geo\">-36.72000; -73.10861</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "36°43′12″S 73°6′31″W﻿ / ﻿36.72000°S 73.10861°W﻿ / -36.72000; -73.10861",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_La_Tortuga&params=36_43_12_S_73_6_31_W_type:landmark",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "5,000",
+            "lines": [
+              "5,000"
+            ],
+            "html": "<td class=\"infobox-data\">5,000</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "1957",
+            "lines": [
+              "1957"
+            ],
+            "html": "<td class=\"infobox-data\">1957</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1980",
+            "lines": [
+              "1980"
+            ],
+            "html": "<td class=\"infobox-data\">1980</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Renovated",
+            "key": "renovated",
+            "group": "Construction",
+            "text": "2015",
+            "lines": [
+              "2015"
+            ],
+            "html": "<td class=\"infobox-data\">2015</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "José Llambías",
+            "lines": [
+              "José Llambías"
+            ],
+            "html": "<td class=\"infobox-data\">José Llambías</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Talcahuano, Chile",
+              "lines": [
+                "Talcahuano, Chile"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Talcahuano\" title=\"Talcahuano\">Talcahuano</a>, <a href=\"https://en.wikipedia.org/wiki/Chile\" title=\"Chile\">Chile</a></td>",
+              "links": [
+                {
+                  "text": "Talcahuano",
+                  "title": "Talcahuano",
+                  "wikiTitle": "Talcahuano",
+                  "href": "https://en.wikipedia.org/wiki/Talcahuano",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Chile",
+                  "title": "Chile",
+                  "wikiTitle": "Chile",
+                  "href": "https://en.wikipedia.org/wiki/Chile",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "36°43′12″S 73°6′31″W﻿ / ﻿36.72000°S 73.10861°W﻿ / -36.72000; -73.10861",
+              "lines": [
+                "36°43′12″S 73°6′31″W﻿ / ﻿36.72000°S 73.10861°W﻿ / -36.72000; -73.10861"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Coliseo_La_Tortuga&amp;params=36_43_12_S_73_6_31_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">36°43′12″S</span> <span class=\"longitude\">73°6′31″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">36.72000°S 73.10861°W</span><span>﻿ / <span class=\"geo\">-36.72000; -73.10861</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "36°43′12″S 73°6′31″W﻿ / ﻿36.72000°S 73.10861°W﻿ / -36.72000; -73.10861",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_La_Tortuga&params=36_43_12_S_73_6_31_W_type:landmark",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "5,000",
+              "lines": [
+                "5,000"
+              ],
+              "html": "<td class=\"infobox-data\">5,000</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "1957",
+              "lines": [
+                "1957"
+              ],
+              "html": "<td class=\"infobox-data\">1957</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1980",
+              "lines": [
+                "1980"
+              ],
+              "html": "<td class=\"infobox-data\">1980</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "renovated": [
+            {
+              "label": "Renovated",
+              "key": "renovated",
+              "group": "Construction",
+              "text": "2015",
+              "lines": [
+                "2015"
+              ],
+              "html": "<td class=\"infobox-data\">2015</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "José Llambías",
+              "lines": [
+                "José Llambías"
+              ],
+              "html": "<td class=\"infobox-data\">José Llambías</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "location": [
+            "Talcahuano, Chile"
+          ],
+          "coordinates": [
+            "36°43′12″S 73°6′31″W﻿ / ﻿36.72000°S 73.10861°W﻿ / -36.72000; -73.10861"
+          ],
+          "capacity": [
+            "5,000"
+          ],
+          "groundbreaking": [
+            "1957"
+          ],
+          "opened": [
+            "1980"
+          ],
+          "renovated": [
+            "2015"
+          ],
+          "architect": [
+            "José Llambías"
+          ]
+        },
+        "formerNames": [],
+        "capacities": [
+          "5,000"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Gimnasiolatortugathno.jpg",
+            "fileName": "Gimnasiolatortugathno.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Gimnasiolatortugathno.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Gimnasiolatortugathno.jpg/250px-Gimnasiolatortugathno.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gimnasiolatortugathno.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Gimnasiolatortugathno.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Gimnasiolatortugathno.jpg/500px-Gimnasiolatortugathno.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 188,
+            "originalWidth": 604,
+            "originalHeight": 453,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_La_Tortuga&revid=1335479906&groups=_9c0d09ea051d65c6d39e0b00ae0ef8a878cdd52c&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_La_Tortuga&revid=1335479906&groups=_9c0d09ea051d65c6d39e0b00ae0ef8a878cdd52c&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Coliseo La Tortuga"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Coliseo La Tortuga</caption><tbody><tr><td colspan=\"2\" class=\"infobox-subheader\"><div class=\"nickname\">La Tortuga de Talcahuano</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Gimnasiolatortugathno.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Gimnasiolatortugathno.jpg/250px-Gimnasiolatortugathno.jpg\" width=\"250\" height=\"188\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Gimnasiolatortugathno.jpg/500px-Gimnasiolatortugathno.jpg 2x\" data-file-width=\"604\" data-file-height=\"453\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_9c0d09ea051d65c6d39e0b00ae0ef8a878cdd52c&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_La_Tortuga&amp;revid=1335479906&amp;groups=_9c0d09ea051d65c6d39e0b00ae0ef8a878cdd52c&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Coliseo_La_Tortuga&amp;revid=1335479906&amp;groups=_9c0d09ea051d65c6d39e0b00ae0ef8a878cdd52c&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Coliseo La Tortuga</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Talcahuano\" title=\"Talcahuano\">Talcahuano</a>, <a href=\"https://en.wikipedia.org/wiki/Chile\" title=\"Chile\">Chile</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Coliseo_La_Tortuga&amp;params=36_43_12_S_73_6_31_W_type:landmark\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">36°43′12″S</span> <span class=\"longitude\">73°6′31″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">36.72000°S 73.10861°W</span><span>﻿ / <span class=\"geo\">-36.72000; -73.10861</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">5,000</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">1957</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1980</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Renovated</th><td class=\"infobox-data\">2015</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\">José Llambías</td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Commons_category_link_from_Wikidata",
+        "Indoor_arenas_in_Chile",
+        "Sports_venues_in_Biobío_Region",
+        "Basketball_venues_in_Chile",
+        "Sports_venues_completed_in_1980",
+        "1980_establishments_in_Chile",
+        "All_stub_articles",
+        "Chilean_building_and_structure_stubs",
+        "South_American_sports_venue_stubs",
+        "Chilean_sport_stubs",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Coliseo_La_Tortuga&params=36_43_12_S_73_6_31_W_type:landmark",
+        "https://web.archive.org/web/20130117012801/http://www.worldstadiums.com/south_america/countries/chile.shtml"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Gimnasiolatortugathno.jpg",
+        "Commons-logo.svg",
+        "Colosseo_2020.jpg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Gimnasiolatortugathno.jpg",
+          "fileName": "Gimnasiolatortugathno.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Gimnasiolatortugathno.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Gimnasiolatortugathno.jpg/250px-Gimnasiolatortugathno.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Gimnasiolatortugathno.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Gimnasiolatortugathno.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Gimnasiolatortugathno.jpg/500px-Gimnasiolatortugathno.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 604,
+          "originalHeight": 453,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Coliseo_La_Tortuga&revid=1335479906&groups=_9c0d09ea051d65c6d39e0b00ae0ef8a878cdd52c&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Coliseo_La_Tortuga&revid=1335479906&groups=_9c0d09ea051d65c6d39e0b00ae0ef8a878cdd52c&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Coliseo La Tortuga"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/60px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 30,
+          "height": 40,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Colosseo 2020.jpg",
+          "fileName": "Colosseo 2020.jpg",
+          "kind": "icon",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Colosseo_2020.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/40px-Colosseo_2020.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Colosseo_2020.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Colosseo_2020.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/120px-Colosseo_2020.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 40,
+          "height": 28,
+          "originalWidth": 12051,
+          "originalHeight": 8442,
+          "fileType": null,
+          "alt": "Stub icon",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 85,
+          "rowText": "Talcahuano\nColiseo La Tortuga\n1980\n10,000",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Talcahuano\" title=\"Talcahuano\">Talcahuano</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Coliseo_La_Tortuga\" title=\"Coliseo La Tortuga\">Coliseo La Tortuga</a>\n</td>\n<td>1980\n</td>\n<td>10,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 82,
+              "cell": {
+                "text": "Chile",
+                "lines": [
+                  "Chile"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Chile",
+                    "title": "Chile",
+                    "wikiTitle": "Chile",
+                    "href": "https://en.wikipedia.org/wiki/Chile",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 85,
+              "cell": {
+                "text": "Talcahuano",
+                "lines": [
+                  "Talcahuano"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Talcahuano",
+                    "title": "Talcahuano",
+                    "wikiTitle": "Talcahuano",
+                    "href": "https://en.wikipedia.org/wiki/Talcahuano",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 85,
+              "cell": {
+                "text": "Coliseo La Tortuga",
+                "lines": [
+                  "Coliseo La Tortuga"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Coliseo La Tortuga",
+                    "title": "Coliseo La Tortuga",
+                    "wikiTitle": "Coliseo La Tortuga",
+                    "href": "https://en.wikipedia.org/wiki/Coliseo_La_Tortuga",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 85,
+              "cell": {
+                "text": "1980",
+                "lines": [
+                  "1980"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 85,
+              "cell": {
+                "text": "10,000",
+                "lines": [
+                  "10,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 85,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Coliseo La Tortuga",
+            "lines": [
+              "Coliseo La Tortuga"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Coliseo La Tortuga",
+                "title": "Coliseo La Tortuga",
+                "wikiTitle": "Coliseo La Tortuga",
+                "href": "https://en.wikipedia.org/wiki/Coliseo_La_Tortuga",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:30.307Z"
+    },
+    {
+      "id": "wikipedia-page-5386588",
+      "pageId": 5386588,
+      "revisionId": null,
+      "title": "Movistar Arena (Santiago)",
+      "displayTitle": "Movistar Arena (Santiago)",
+      "url": "https://en.wikipedia.org/wiki/Movistar_Arena_(Santiago)",
+      "wikidataItem": "Q3302708",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3302708",
+      "aliases": [
+        "Movistar Arena (Santiago)",
+        "Movistar Arena",
+        "Metropolitan Indoor Stadium",
+        "Arena Santiago (April 2006-October 2008)"
+      ],
+      "requestedTitles": [
+        "Movistar Arena (Santiago)"
+      ],
+      "sourceLinkTexts": [
+        "Movistar Arena"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Movistar_Arena_(Santiago)"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": -33.46278,
+        "longitude": -70.66194,
+        "raw": "-33.46278; -70.66194"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Movistar Arena",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Former names",
+            "key": "former_names",
+            "group": null,
+            "text": "Metropolitan Indoor Stadium\nArena Santiago (April 2006-October 2008)",
+            "lines": [
+              "Metropolitan Indoor Stadium",
+              "Arena Santiago (April 2006-October 2008)"
+            ],
+            "html": "<td class=\"infobox-data nickname\">Metropolitan Indoor Stadium<br>Arena Santiago (April 2006-October 2008)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Av. Beaucheff 1204, O'Higgins Park\nSantiago, Chile",
+            "lines": [
+              "Av. Beaucheff 1204, O'Higgins Park",
+              "Santiago, Chile"
+            ],
+            "html": "<td class=\"infobox-data label\">Av. Beaucheff 1204, O'Higgins Park<br><a href=\"https://en.wikipedia.org/wiki/Santiago\" title=\"Santiago\">Santiago</a>, <a href=\"https://en.wikipedia.org/wiki/Chile\" title=\"Chile\">Chile</a></td>",
+            "links": [
+              {
+                "text": "Santiago",
+                "title": "Santiago",
+                "wikiTitle": "Santiago",
+                "href": "https://en.wikipedia.org/wiki/Santiago",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Chile",
+                "title": "Chile",
+                "wikiTitle": "Chile",
+                "href": "https://en.wikipedia.org/wiki/Chile",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Coordinates",
+            "key": "coordinates",
+            "group": null,
+            "text": "33°27′46″S 70°39′43″W﻿ / ﻿33.46278°S 70.66194°W﻿ / -33.46278; -70.66194",
+            "lines": [
+              "33°27′46″S 70°39′43″W﻿ / ﻿33.46278°S 70.66194°W﻿ / -33.46278; -70.66194"
+            ],
+            "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Movistar_Arena_(Santiago)&amp;params=33_27_46_S_70_39_43_W_scale:2000\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">33°27′46″S</span> <span class=\"longitude\">70°39′43″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">33.46278°S 70.66194°W</span><span>﻿ / <span class=\"geo\">-33.46278; -70.66194</span></span></span></a></span></span></td>",
+            "links": [
+              {
+                "text": "33°27′46″S 70°39′43″W﻿ / ﻿33.46278°S 70.66194°W﻿ / -33.46278; -70.66194",
+                "title": null,
+                "wikiTitle": null,
+                "href": "https://geohack.toolforge.org/geohack.php?pagename=Movistar_Arena_(Santiago)&params=33_27_46_S_70_39_43_W_scale:2000",
+                "blueArticle": false,
+                "redLink": false,
+                "external": true
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Owner",
+            "key": "owner",
+            "group": null,
+            "text": "Hiller Investments",
+            "lines": [
+              "Hiller Investments"
+            ],
+            "html": "<td class=\"infobox-data agent\">Hiller Investments</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Operator",
+            "key": "operator",
+            "group": null,
+            "text": "ASM Global",
+            "lines": [
+              "ASM Global"
+            ],
+            "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/w/index.php?title=ASM_Global_(property_management)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"ASM Global (property management) (page does not exist)\">ASM Global</a></td>",
+            "links": [
+              {
+                "text": "ASM Global",
+                "title": "ASM Global (property management) (page does not exist)",
+                "wikiTitle": "ASM Global (property management)",
+                "href": "https://en.wikipedia.org/w/index.php?title=ASM_Global_(property_management)&action=edit&redlink=1",
+                "blueArticle": false,
+                "redLink": true,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "12,000 (stands)\n15,500 (concerts)",
+            "lines": [
+              "12,000 (stands)",
+              "15,500 (concerts)"
+            ],
+            "html": "<td class=\"infobox-data\">12,000 (stands)<br>15,500 (concerts)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Groundbreaking",
+            "key": "groundbreaking",
+            "group": "Construction",
+            "text": "1956",
+            "lines": [
+              "1956"
+            ],
+            "html": "<td class=\"infobox-data\">1956</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "April 15, 2006",
+            "lines": [
+              "April 15, 2006"
+            ],
+            "html": "<td class=\"infobox-data\">April 15, 2006</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Mario Recordón",
+            "lines": [
+              "Mario Recordón"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Mario_Record%C3%B3n\" title=\"Mario Recordón\">Mario Recordón</a></td>",
+            "links": [
+              {
+                "text": "Mario Recordón",
+                "title": "Mario Recordón",
+                "wikiTitle": "Mario Recordón",
+                "href": "https://en.wikipedia.org/wiki/Mario_Record%C3%B3n",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "former_names": [
+            {
+              "label": "Former names",
+              "key": "former_names",
+              "group": null,
+              "text": "Metropolitan Indoor Stadium\nArena Santiago (April 2006-October 2008)",
+              "lines": [
+                "Metropolitan Indoor Stadium",
+                "Arena Santiago (April 2006-October 2008)"
+              ],
+              "html": "<td class=\"infobox-data nickname\">Metropolitan Indoor Stadium<br>Arena Santiago (April 2006-October 2008)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Av. Beaucheff 1204, O'Higgins Park\nSantiago, Chile",
+              "lines": [
+                "Av. Beaucheff 1204, O'Higgins Park",
+                "Santiago, Chile"
+              ],
+              "html": "<td class=\"infobox-data label\">Av. Beaucheff 1204, O'Higgins Park<br><a href=\"https://en.wikipedia.org/wiki/Santiago\" title=\"Santiago\">Santiago</a>, <a href=\"https://en.wikipedia.org/wiki/Chile\" title=\"Chile\">Chile</a></td>",
+              "links": [
+                {
+                  "text": "Santiago",
+                  "title": "Santiago",
+                  "wikiTitle": "Santiago",
+                  "href": "https://en.wikipedia.org/wiki/Santiago",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Chile",
+                  "title": "Chile",
+                  "wikiTitle": "Chile",
+                  "href": "https://en.wikipedia.org/wiki/Chile",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "coordinates": [
+            {
+              "label": "Coordinates",
+              "key": "coordinates",
+              "group": null,
+              "text": "33°27′46″S 70°39′43″W﻿ / ﻿33.46278°S 70.66194°W﻿ / -33.46278; -70.66194",
+              "lines": [
+                "33°27′46″S 70°39′43″W﻿ / ﻿33.46278°S 70.66194°W﻿ / -33.46278; -70.66194"
+              ],
+              "html": "<td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Movistar_Arena_(Santiago)&amp;params=33_27_46_S_70_39_43_W_scale:2000\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">33°27′46″S</span> <span class=\"longitude\">70°39′43″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">33.46278°S 70.66194°W</span><span>﻿ / <span class=\"geo\">-33.46278; -70.66194</span></span></span></a></span></span></td>",
+              "links": [
+                {
+                  "text": "33°27′46″S 70°39′43″W﻿ / ﻿33.46278°S 70.66194°W﻿ / -33.46278; -70.66194",
+                  "title": null,
+                  "wikiTitle": null,
+                  "href": "https://geohack.toolforge.org/geohack.php?pagename=Movistar_Arena_(Santiago)&params=33_27_46_S_70_39_43_W_scale:2000",
+                  "blueArticle": false,
+                  "redLink": false,
+                  "external": true
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "owner": [
+            {
+              "label": "Owner",
+              "key": "owner",
+              "group": null,
+              "text": "Hiller Investments",
+              "lines": [
+                "Hiller Investments"
+              ],
+              "html": "<td class=\"infobox-data agent\">Hiller Investments</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "operator": [
+            {
+              "label": "Operator",
+              "key": "operator",
+              "group": null,
+              "text": "ASM Global",
+              "lines": [
+                "ASM Global"
+              ],
+              "html": "<td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/w/index.php?title=ASM_Global_(property_management)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"ASM Global (property management) (page does not exist)\">ASM Global</a></td>",
+              "links": [
+                {
+                  "text": "ASM Global",
+                  "title": "ASM Global (property management) (page does not exist)",
+                  "wikiTitle": "ASM Global (property management)",
+                  "href": "https://en.wikipedia.org/w/index.php?title=ASM_Global_(property_management)&action=edit&redlink=1",
+                  "blueArticle": false,
+                  "redLink": true,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "12,000 (stands)\n15,500 (concerts)",
+              "lines": [
+                "12,000 (stands)",
+                "15,500 (concerts)"
+              ],
+              "html": "<td class=\"infobox-data\">12,000 (stands)<br>15,500 (concerts)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "groundbreaking": [
+            {
+              "label": "Groundbreaking",
+              "key": "groundbreaking",
+              "group": "Construction",
+              "text": "1956",
+              "lines": [
+                "1956"
+              ],
+              "html": "<td class=\"infobox-data\">1956</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "April 15, 2006",
+              "lines": [
+                "April 15, 2006"
+              ],
+              "html": "<td class=\"infobox-data\">April 15, 2006</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Mario Recordón",
+              "lines": [
+                "Mario Recordón"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Mario_Record%C3%B3n\" title=\"Mario Recordón\">Mario Recordón</a></td>",
+              "links": [
+                {
+                  "text": "Mario Recordón",
+                  "title": "Mario Recordón",
+                  "wikiTitle": "Mario Recordón",
+                  "href": "https://en.wikipedia.org/wiki/Mario_Record%C3%B3n",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "former_names": [
+            "Metropolitan Indoor Stadium\nArena Santiago (April 2006-October 2008)"
+          ],
+          "location": [
+            "Av. Beaucheff 1204, O'Higgins Park\nSantiago, Chile"
+          ],
+          "coordinates": [
+            "33°27′46″S 70°39′43″W﻿ / ﻿33.46278°S 70.66194°W﻿ / -33.46278; -70.66194"
+          ],
+          "owner": [
+            "Hiller Investments"
+          ],
+          "operator": [
+            "ASM Global"
+          ],
+          "capacity": [
+            "12,000 (stands)\n15,500 (concerts)"
+          ],
+          "groundbreaking": [
+            "1956"
+          ],
+          "opened": [
+            "April 15, 2006"
+          ],
+          "architect": [
+            "Mario Recordón"
+          ]
+        },
+        "formerNames": [
+          "Metropolitan Indoor Stadium",
+          "Arena Santiago (April 2006-October 2008)"
+        ],
+        "capacities": [
+          "12,000 (stands)",
+          "15,500 (concerts)"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Movistar Arena CL logo.svg",
+            "fileName": "Movistar Arena CL logo.svg",
+            "kind": "logo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Movistar_Arena_CL_logo.svg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Movistar_Arena_CL_logo.svg/250px-Movistar_Arena_CL_logo.svg.png",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Movistar_Arena_CL_logo.svg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Movistar_Arena_CL_logo.svg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Movistar_Arena_CL_logo.svg/500px-Movistar_Arena_CL_logo.svg.png",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 95,
+            "originalWidth": 100,
+            "originalHeight": 38,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": "File:Movistar arena 2018.jpg",
+            "fileName": "Movistar arena 2018.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Movistar_arena_2018.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_arena_2018.jpg/250px-Movistar_arena_2018.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Movistar_arena_2018.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Movistar_arena_2018.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_arena_2018.jpg/500px-Movistar_arena_2018.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 167,
+            "originalWidth": 4496,
+            "originalHeight": 3000,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "The arena under new signage in April 2018"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Movistar_Arena_%28Santiago%29&revid=1351187692&groups=_916e75b329e2a755d4cbfdc3dc6610a967753e4f&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Movistar_Arena_%28Santiago%29&revid=1351187692&groups=_916e75b329e2a755d4cbfdc3dc6610a967753e4f&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Movistar Arena"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Movistar Arena</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size notpageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Movistar_Arena_CL_logo.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Movistar_Arena_CL_logo.svg/250px-Movistar_Arena_CL_logo.svg.png\" width=\"250\" height=\"95\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Movistar_Arena_CL_logo.svg/500px-Movistar_Arena_CL_logo.svg.png 2x\" data-file-width=\"100\" data-file-height=\"38\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Movistar_arena_2018.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_arena_2018.jpg/250px-Movistar_arena_2018.jpg\" width=\"250\" height=\"167\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_arena_2018.jpg/500px-Movistar_arena_2018.jpg 2x\" data-file-width=\"4496\" data-file-height=\"3000\"></a></span><div class=\"infobox-caption\">The arena under new signage in April 2018</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_916e75b329e2a755d4cbfdc3dc6610a967753e4f&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Movistar_Arena_%28Santiago%29&amp;revid=1351187692&amp;groups=_916e75b329e2a755d4cbfdc3dc6610a967753e4f&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Movistar_Arena_%28Santiago%29&amp;revid=1351187692&amp;groups=_916e75b329e2a755d4cbfdc3dc6610a967753e4f&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Movistar Arena</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Former names</div></th><td class=\"infobox-data nickname\">Metropolitan Indoor Stadium<br>Arena Santiago (April 2006-October 2008)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\">Av. Beaucheff 1204, O'Higgins Park<br><a href=\"https://en.wikipedia.org/wiki/Santiago\" title=\"Santiago\">Santiago</a>, <a href=\"https://en.wikipedia.org/wiki/Chile\" title=\"Chile\">Chile</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Coordinates</th><td class=\"infobox-data\"><span class=\"geo-inline\"><span class=\"plainlinks nourlexpansion\"><a class=\"external text\" href=\"https://geohack.toolforge.org/geohack.php?pagename=Movistar_Arena_(Santiago)&amp;params=33_27_46_S_70_39_43_W_scale:2000\"><span class=\"geo-default\"><span class=\"geo-dms\" title=\"Maps, aerial photos, and other data for this location\"><span class=\"latitude\">33°27′46″S</span> <span class=\"longitude\">70°39′43″W</span></span></span><span class=\"geo-multi-punct\">﻿ / ﻿</span><span class=\"geo-nondefault\"><span class=\"geo-dec\" title=\"Maps, aerial photos, and other data for this location\">33.46278°S 70.66194°W</span><span>﻿ / <span class=\"geo\">-33.46278; -70.66194</span></span></span></a></span></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Owner</th><td class=\"infobox-data agent\">Hiller Investments</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Operator</th><td class=\"infobox-data agent\"><a href=\"https://en.wikipedia.org/w/index.php?title=ASM_Global_(property_management)&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"ASM Global (property management) (page does not exist)\">ASM Global</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">12,000 (stands)<br>15,500 (concerts)</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Groundbreaking</th><td class=\"infobox-data\">1956</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">April 15, 2006</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Mario_Record%C3%B3n\" title=\"Mario Recordón\">Mario Recordón</a></td></tr></tbody></table>"
+      },
+      "categories": [
+        "Pages_using_gadget_WikiMiniAtlas",
+        "CS1_Spanish-language_sources_(es)",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Wikipedia_articles_needing_clarification_from_April_2015",
+        "Commons_category_link_from_Wikidata",
+        "Official_website_different_in_Wikidata_and_Wikipedia",
+        "Indoor_arenas_in_Chile",
+        "Music_venues_in_Chile",
+        "Sports_venues_in_Santiago,_Chile",
+        "Basketball_venues_in_Chile",
+        "2006_establishments_in_Chile",
+        "Sports_venues_completed_in_2006",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://geohack.toolforge.org/geohack.php?pagename=Movistar_Arena_(Santiago)&params=33_27_46_S_70_39_43_W_scale:2000",
+        "https://news.pollstar.com/2023/12/01/south-america-focus-hub/",
+        "http://movistararena.cl/web2/?page_id=28",
+        "http://www.emol.com/noticias/deportes/2006/03/07/213005/chile-tiene-un-estadio-a-la-altura-del-siglo-xxi.html",
+        "http://www.latercera.com/contenido/30_59678_9.shtml",
+        "https://www.setlist.fm/setlist/linkin-park/2017/movistar-arena-santiago-chile-3be7b0d4.html",
+        "http://culto.latercera.com/2018/03/14/pearl-jam-abarrota-marca-hito-en-movistar-arena/",
+        "https://ironmaiden.com/news/article/maiden-too-hot-for-chile-new-date-added",
+        "http://www.latercera.com/noticia/deportes/2015/04/656-624182-9-a-15-anos-de-los-sillazos-chilenos-que-avergonzaron-al-tenis.shtml",
+        "http://www.movistararena.cl/",
+        "https://musicbrainz.org/place/5fbd2fd3-19e4-459a-988a-16b6777d3280"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Davis Cup incident",
+          "anchor": "Davis_Cup_incident"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Movistar_Arena_CL_logo.svg",
+        "Movistar_arena_2018.jpg",
+        "Elipse_Parque_O'Higgins_1.jpg",
+        "Commons-logo.svg",
+        "OOjs_UI_icon_edit-ltr-progressive.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Movistar Arena CL logo.svg",
+          "fileName": "Movistar Arena CL logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Movistar_Arena_CL_logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Movistar_Arena_CL_logo.svg/250px-Movistar_Arena_CL_logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Movistar_Arena_CL_logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Movistar_Arena_CL_logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Movistar_Arena_CL_logo.svg/500px-Movistar_Arena_CL_logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 95,
+          "originalWidth": 100,
+          "originalHeight": 38,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": "File:Movistar arena 2018.jpg",
+          "fileName": "Movistar arena 2018.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Movistar_arena_2018.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_arena_2018.jpg/250px-Movistar_arena_2018.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Movistar_arena_2018.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Movistar_arena_2018.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Movistar_arena_2018.jpg/500px-Movistar_arena_2018.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 167,
+          "originalWidth": 4496,
+          "originalHeight": 3000,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The arena under new signage in April 2018"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Movistar_Arena_%28Santiago%29&revid=1351187692&groups=_916e75b329e2a755d4cbfdc3dc6610a967753e4f&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Movistar_Arena_%28Santiago%29&revid=1351187692&groups=_916e75b329e2a755d4cbfdc3dc6610a967753e4f&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Movistar Arena"
+        },
+        {
+          "fileTitle": "File:Elipse Parque O'Higgins 1.jpg",
+          "fileName": "Elipse Parque O'Higgins 1.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Elipse_Parque_O%27Higgins_1.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Elipse_Parque_O%27Higgins_1.jpg/250px-Elipse_Parque_O%27Higgins_1.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Elipse_Parque_O'Higgins_1.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Elipse_Parque_O'Higgins_1.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Elipse_Parque_O%27Higgins_1.jpg/500px-Elipse_Parque_O%27Higgins_1.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 95,
+          "originalWidth": 1820,
+          "originalHeight": 688,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "The arena is next to the stands of the Esplanade of O'Higgins Park."
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 82,
+          "rowText": "Chile\nSantiago\nMovistar Arena\n2006\n17,000",
+          "rowHtml": "<tr>\n<td rowspan=\"7\"><a href=\"https://en.wikipedia.org/wiki/Chile\" title=\"Chile\">Chile</a>\n</td>\n<td rowspan=\"3\"><a href=\"https://en.wikipedia.org/wiki/Santiago_de_Chile\" class=\"mw-redirect\" title=\"Santiago de Chile\">Santiago</a>\n</td>\n<td><a href=\"https://en.wikipedia.org/wiki/Movistar_Arena_(Santiago)\" title=\"Movistar Arena (Santiago)\">Movistar Arena</a>\n</td>\n<td>2006\n</td>\n<td>17,000\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 82,
+              "cell": {
+                "text": "Chile",
+                "lines": [
+                  "Chile"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Chile",
+                    "title": "Chile",
+                    "wikiTitle": "Chile",
+                    "href": "https://en.wikipedia.org/wiki/Chile",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 82,
+              "cell": {
+                "text": "Santiago",
+                "lines": [
+                  "Santiago"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Santiago",
+                    "title": "Santiago de Chile",
+                    "wikiTitle": "Santiago de Chile",
+                    "href": "https://en.wikipedia.org/wiki/Santiago_de_Chile",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 82,
+              "cell": {
+                "text": "Movistar Arena",
+                "lines": [
+                  "Movistar Arena"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Movistar Arena",
+                    "title": "Movistar Arena (Santiago)",
+                    "wikiTitle": "Movistar Arena (Santiago)",
+                    "href": "https://en.wikipedia.org/wiki/Movistar_Arena_(Santiago)",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 82,
+              "cell": {
+                "text": "2006",
+                "lines": [
+                  "2006"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 82,
+              "cell": {
+                "text": "17,000",
+                "lines": [
+                  "17,000"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 82,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Movistar Arena",
+            "lines": [
+              "Movistar Arena"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Movistar Arena",
+                "title": "Movistar Arena (Santiago)",
+                "wikiTitle": "Movistar Arena (Santiago)",
+                "href": "https://en.wikipedia.org/wiki/Movistar_Arena_(Santiago)",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:30.193Z"
+    },
+    {
+      "id": "wikipedia-page-37631982",
+      "pageId": 37631982,
+      "revisionId": null,
+      "title": "Teatro Caupolicán",
+      "displayTitle": "Teatro Caupolicán",
+      "url": "https://en.wikipedia.org/wiki/Teatro_Caupolic%C3%A1n",
+      "wikidataItem": "Q60368",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q60368",
+      "aliases": [
+        "Teatro Caupolicán",
+        "Teatro Monumental (1994-2004)"
+      ],
+      "requestedTitles": [
+        "Teatro Caupolicán"
+      ],
+      "sourceLinkTexts": [
+        "Teatro Caupolicán"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Teatro_Caupolic%C3%A1n"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": -33.4562167,
+        "longitude": -70.6492111,
+        "raw": "-33.4562167; -70.6492111"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Teatro Caupolicán",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Former names",
+            "key": "former_names",
+            "group": null,
+            "text": "Teatro Monumental (1994-2004)",
+            "lines": [
+              "Teatro Monumental (1994-2004)"
+            ],
+            "html": "<td class=\"infobox-data nickname\">Teatro Monumental (1994-2004)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Santiago, Chile",
+            "lines": [
+              "Santiago, Chile"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Santiago\" title=\"Santiago\">Santiago</a>, <a href=\"https://en.wikipedia.org/wiki/Chile\" title=\"Chile\">Chile</a></td>",
+            "links": [
+              {
+                "text": "Santiago",
+                "title": "Santiago",
+                "wikiTitle": "Santiago",
+                "href": "https://en.wikipedia.org/wiki/Santiago",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Chile",
+                "title": "Chile",
+                "wikiTitle": "Chile",
+                "href": "https://en.wikipedia.org/wiki/Chile",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "4,500",
+            "lines": [
+              "4,500"
+            ],
+            "html": "<td class=\"infobox-data\">4,500</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1936",
+            "lines": [
+              "1936"
+            ],
+            "html": "<td class=\"infobox-data\">1936</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "former_names": [
+            {
+              "label": "Former names",
+              "key": "former_names",
+              "group": null,
+              "text": "Teatro Monumental (1994-2004)",
+              "lines": [
+                "Teatro Monumental (1994-2004)"
+              ],
+              "html": "<td class=\"infobox-data nickname\">Teatro Monumental (1994-2004)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Santiago, Chile",
+              "lines": [
+                "Santiago, Chile"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Santiago\" title=\"Santiago\">Santiago</a>, <a href=\"https://en.wikipedia.org/wiki/Chile\" title=\"Chile\">Chile</a></td>",
+              "links": [
+                {
+                  "text": "Santiago",
+                  "title": "Santiago",
+                  "wikiTitle": "Santiago",
+                  "href": "https://en.wikipedia.org/wiki/Santiago",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Chile",
+                  "title": "Chile",
+                  "wikiTitle": "Chile",
+                  "href": "https://en.wikipedia.org/wiki/Chile",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "4,500",
+              "lines": [
+                "4,500"
+              ],
+              "html": "<td class=\"infobox-data\">4,500</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1936",
+              "lines": [
+                "1936"
+              ],
+              "html": "<td class=\"infobox-data\">1936</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "former_names": [
+            "Teatro Monumental (1994-2004)"
+          ],
+          "location": [
+            "Santiago, Chile"
+          ],
+          "capacity": [
+            "4,500"
+          ],
+          "opened": [
+            "1936"
+          ]
+        },
+        "formerNames": [
+          "Teatro Monumental (1994-2004)"
+        ],
+        "capacities": [
+          "4,500"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Teatro Caupolicán.jpg",
+            "fileName": "Teatro Caupolicán.jpg",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Teatro_Caupolic%C3%A1n.jpg",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Teatro_Caupolic%C3%A1n.jpg/250px-Teatro_Caupolic%C3%A1n.jpg",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Teatro_Caupolic%C3%A1n.jpg",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Teatro_Caupolic%C3%A1n.jpg",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Teatro_Caupolic%C3%A1n.jpg/500px-Teatro_Caupolic%C3%A1n.jpg",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 188,
+            "originalWidth": 2592,
+            "originalHeight": 1944,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": null
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Teatro_Caupolic%C3%A1n&revid=1353024456&groups=_d3c0866b1ed8354ef8c5ed0a37f6f1e21db1a266&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Teatro_Caupolic%C3%A1n&revid=1353024456&groups=_d3c0866b1ed8354ef8c5ed0a37f6f1e21db1a266&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Teatro Caupolicán"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Teatro Caupolicán</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Teatro_Caupolic%C3%A1n.jpg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Teatro_Caupolic%C3%A1n.jpg/250px-Teatro_Caupolic%C3%A1n.jpg\" width=\"250\" height=\"188\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Teatro_Caupolic%C3%A1n.jpg/500px-Teatro_Caupolic%C3%A1n.jpg 2x\" data-file-width=\"2592\" data-file-height=\"1944\"></a></span></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_d3c0866b1ed8354ef8c5ed0a37f6f1e21db1a266&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Teatro_Caupolic%C3%A1n&amp;revid=1353024456&amp;groups=_d3c0866b1ed8354ef8c5ed0a37f6f1e21db1a266&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=Teatro_Caupolic%C3%A1n&amp;revid=1353024456&amp;groups=_d3c0866b1ed8354ef8c5ed0a37f6f1e21db1a266&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Teatro Caupolicán</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Former names</div></th><td class=\"infobox-data nickname\">Teatro Monumental (1994-2004)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Santiago\" title=\"Santiago\">Santiago</a>, <a href=\"https://en.wikipedia.org/wiki/Chile\" title=\"Chile\">Chile</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">4,500</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1936</td></tr></tbody></table>"
+      },
+      "categories": [
+        "CS1_maint:_numeric_names:_authors_list",
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_matches_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "Coordinates_on_Wikidata",
+        "Theatres_in_Santiago,_Chile",
+        "Sports_venues_in_Santiago,_Chile",
+        "Indoor_arenas_in_Chile",
+        "Music_venues_in_Chile",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "http://www.musica.cl/index.php?view=venueevents&id=23:teatro-caupolican&option=com_eventlist&Itemid=71",
+        "http://buscador.emol.com/dispatcher.php?query=Jorge%20Figueroa&offset=0&portal=todos&sort=rank&sortdir=descending&query2=&per=Jorge%20Figueroa&cn=emol&Submit=Buscar",
+        "http://boxrec.com/media/index.php/Samuel_Serrano_vs._Benedicto_Villablanca",
+        "https://books.google.com/books?id=3aqKxRWYjawC&q=teatro+caupolic%C3%A1n&pg=PA125",
+        "https://books.google.com/books?id=uMXbwbtndbEC&q=teatro+caupolic%C3%A1n&pg=PT108",
+        "https://books.google.com/books?id=kOeqPgAACAAJ&q=teatro+caupolic%C3%A1n",
+        "https://books.google.com/books?id=joHDzEkuqBMC&q=teatro+caupolic%C3%A1n&pg=PA380",
+        "https://books.google.com/books?id=i-pdtyoBl40C&q=teatro+caupolic%C3%A1n&pg=PT30",
+        "http://www.chile.com/secciones/ver_seccion.php?id=116530",
+        "https://web.archive.org/web/20160304002212/http://www.diariolaleona.cl/laleona/viewtopic.php?f=6&t=465",
+        "http://www.diariolaleona.cl/laleona/viewtopic.php?f=6&t=465",
+        "https://geohack.toolforge.org/geohack.php?pagename=Teatro_Caupolic%C3%A1n&params=33_27_22.38_S_70_38_57.16_W_type:landmark",
+        "https://books.google.com/books?id=kHALuH4D7bkC&pg=PP1",
+        "https://books.google.com/books?id=2QWtJd8zJwEC&q=%22teatro+caupolic%C3%A1n%22+santiago+de+chile&pg=PP1",
+        "https://books.google.com/books?id=yHa93-L4iOQC&q=%22teatro+caupolic%C3%A1n%22+santiago+de+chile&pg=PA328",
+        "http://www.teatrocaupolican.cl",
+        "https://books.google.com/books?id=yHa93-L4iOQC&q=teatro+caupolic%C3%A1n+&pg=PA328",
+        "https://books.google.com/books?id=wwKOr7SoWIkC&dq=teatro+caupolic%C3%A1n&pg=PA240",
+        "https://viaf.org/viaf/46145857785323020066",
+        "https://musicbrainz.org/place/777a1667-945f-416e-a54e-c5bcca863fa4",
+        "http://www.theatre-architecture.eu/db/?theatreId=5296"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "History",
+          "anchor": "History"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Notable performers",
+          "anchor": "Notable_performers"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Bullfighting fiasco",
+          "anchor": "Bullfighting_fiasco"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "Music venue",
+          "anchor": "Music_venue"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "Bibliography",
+          "anchor": "Bibliography"
+        },
+        {
+          "index": "6",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "7",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Teatro_Caupolicán.jpg",
+        "FreiMontalva_Zaldivar3.jpg",
+        "OOjs_UI_icon_edit-ltr-progressive.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Teatro Caupolicán.jpg",
+          "fileName": "Teatro Caupolicán.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Teatro_Caupolic%C3%A1n.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Teatro_Caupolic%C3%A1n.jpg/250px-Teatro_Caupolic%C3%A1n.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Teatro_Caupolic%C3%A1n.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Teatro_Caupolic%C3%A1n.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Teatro_Caupolic%C3%A1n.jpg/500px-Teatro_Caupolic%C3%A1n.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 2592,
+          "originalHeight": 1944,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=Teatro_Caupolic%C3%A1n&revid=1353024456&groups=_d3c0866b1ed8354ef8c5ed0a37f6f1e21db1a266&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=Teatro_Caupolic%C3%A1n&revid=1353024456&groups=_d3c0866b1ed8354ef8c5ed0a37f6f1e21db1a266&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Teatro Caupolicán"
+        },
+        {
+          "fileTitle": "File:FreiMontalva Zaldivar3.jpg",
+          "fileName": "FreiMontalva Zaldivar3.jpg",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:FreiMontalva_Zaldivar3.jpg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/FreiMontalva_Zaldivar3.jpg/250px-FreiMontalva_Zaldivar3.jpg",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/FreiMontalva_Zaldivar3.jpg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/FreiMontalva_Zaldivar3.jpg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/FreiMontalva_Zaldivar3.jpg",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 200,
+          "height": 141,
+          "originalWidth": 500,
+          "originalHeight": 353,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Zaldivar with Eduardo Frei Montalva voting no in the Chilean constitutional referendum of 1980 in the Teatro Caupolicán"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 84,
+          "rowText": "Teatro Caupolicán\n1936\n4,500",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Teatro_Caupolic%C3%A1n\" title=\"Teatro Caupolicán\">Teatro Caupolicán</a>\n</td>\n<td>1936\n</td>\n<td>4,500\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 82,
+              "cell": {
+                "text": "Chile",
+                "lines": [
+                  "Chile"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Chile",
+                    "title": "Chile",
+                    "wikiTitle": "Chile",
+                    "href": "https://en.wikipedia.org/wiki/Chile",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 82,
+              "cell": {
+                "text": "Santiago",
+                "lines": [
+                  "Santiago"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Santiago",
+                    "title": "Santiago de Chile",
+                    "wikiTitle": "Santiago de Chile",
+                    "href": "https://en.wikipedia.org/wiki/Santiago_de_Chile",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 84,
+              "cell": {
+                "text": "Teatro Caupolicán",
+                "lines": [
+                  "Teatro Caupolicán"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Teatro Caupolicán",
+                    "title": "Teatro Caupolicán",
+                    "wikiTitle": "Teatro Caupolicán",
+                    "href": "https://en.wikipedia.org/wiki/Teatro_Caupolic%C3%A1n",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 84,
+              "cell": {
+                "text": "1936",
+                "lines": [
+                  "1936"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 84,
+              "cell": {
+                "text": "4,500",
+                "lines": [
+                  "4,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 84,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Teatro Caupolicán",
+            "lines": [
+              "Teatro Caupolicán"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Teatro Caupolicán",
+                "title": "Teatro Caupolicán",
+                "wikiTitle": "Teatro Caupolicán",
+                "href": "https://en.wikipedia.org/wiki/Teatro_Caupolic%C3%A1n",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:30.399Z"
+    },
+    {
+      "id": "wikipedia-page-5136545",
+      "pageId": 5136545,
+      "revisionId": null,
+      "title": "Víctor Jara Stadium",
+      "displayTitle": "Víctor Jara Stadium",
+      "url": "https://en.wikipedia.org/wiki/V%C3%ADctor_Jara_Stadium",
+      "wikidataItem": "Q3058826",
+      "wikidataUrl": "https://www.wikidata.org/wiki/Q3058826",
+      "aliases": [
+        "Estadio Víctor Jara",
+        "Estadio Chile (1949–2004)",
+        "Víctor Jara Stadium"
+      ],
+      "requestedTitles": [
+        "Estadio Víctor Jara"
+      ],
+      "sourceLinkTexts": [
+        "Estadio Víctor Jara"
+      ],
+      "sourceLinkUrls": [
+        "https://en.wikipedia.org/wiki/Estadio_V%C3%ADctor_Jara"
+      ],
+      "sourcePages": [
+        "List of indoor arenas"
+      ],
+      "sourceTypes": [
+        "world_master_list"
+      ],
+      "sourceCountries": [],
+      "coordinates": {
+        "latitude": -33.4507722,
+        "longitude": -70.6746056,
+        "raw": "-33.4507722; -70.6746056"
+      },
+      "leadParagraphs": [],
+      "infobox": {
+        "title": "Estadio Víctor Jara",
+        "groups": [
+          "Construction"
+        ],
+        "fields": [
+          {
+            "label": "Former names",
+            "key": "former_names",
+            "group": null,
+            "text": "Estadio Chile (1949–2004)",
+            "lines": [
+              "Estadio Chile (1949–2004)"
+            ],
+            "html": "<td class=\"infobox-data nickname\">Estadio Chile (1949–2004)</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Location",
+            "key": "location",
+            "group": null,
+            "text": "Santiago, Chile",
+            "lines": [
+              "Santiago, Chile"
+            ],
+            "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Santiago\" title=\"Santiago\">Santiago</a>, <a href=\"https://en.wikipedia.org/wiki/Chile\" title=\"Chile\">Chile</a></td>",
+            "links": [
+              {
+                "text": "Santiago",
+                "title": "Santiago",
+                "wikiTitle": "Santiago",
+                "href": "https://en.wikipedia.org/wiki/Santiago",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              },
+              {
+                "text": "Chile",
+                "title": "Chile",
+                "wikiTitle": "Chile",
+                "href": "https://en.wikipedia.org/wiki/Chile",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Capacity",
+            "key": "capacity",
+            "group": null,
+            "text": "3,500",
+            "lines": [
+              "3,500"
+            ],
+            "html": "<td class=\"infobox-data\">3,500</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Opened",
+            "key": "opened",
+            "group": "Construction",
+            "text": "1969",
+            "lines": [
+              "1969"
+            ],
+            "html": "<td class=\"infobox-data\">1969</td>",
+            "links": [],
+            "media": [],
+            "references": []
+          },
+          {
+            "label": "Architect",
+            "key": "architect",
+            "group": "Construction",
+            "text": "Mario Recordón and Jorge Patiño",
+            "lines": [
+              "Mario Recordón and Jorge Patiño"
+            ],
+            "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Mario_Record%C3%B3n\" title=\"Mario Recordón\">Mario Recordón</a> and Jorge Patiño</td>",
+            "links": [
+              {
+                "text": "Mario Recordón",
+                "title": "Mario Recordón",
+                "wikiTitle": "Mario Recordón",
+                "href": "https://en.wikipedia.org/wiki/Mario_Record%C3%B3n",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        ],
+        "facts": {
+          "former_names": [
+            {
+              "label": "Former names",
+              "key": "former_names",
+              "group": null,
+              "text": "Estadio Chile (1949–2004)",
+              "lines": [
+                "Estadio Chile (1949–2004)"
+              ],
+              "html": "<td class=\"infobox-data nickname\">Estadio Chile (1949–2004)</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "location": [
+            {
+              "label": "Location",
+              "key": "location",
+              "group": null,
+              "text": "Santiago, Chile",
+              "lines": [
+                "Santiago, Chile"
+              ],
+              "html": "<td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Santiago\" title=\"Santiago\">Santiago</a>, <a href=\"https://en.wikipedia.org/wiki/Chile\" title=\"Chile\">Chile</a></td>",
+              "links": [
+                {
+                  "text": "Santiago",
+                  "title": "Santiago",
+                  "wikiTitle": "Santiago",
+                  "href": "https://en.wikipedia.org/wiki/Santiago",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                },
+                {
+                  "text": "Chile",
+                  "title": "Chile",
+                  "wikiTitle": "Chile",
+                  "href": "https://en.wikipedia.org/wiki/Chile",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ],
+          "capacity": [
+            {
+              "label": "Capacity",
+              "key": "capacity",
+              "group": null,
+              "text": "3,500",
+              "lines": [
+                "3,500"
+              ],
+              "html": "<td class=\"infobox-data\">3,500</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "opened": [
+            {
+              "label": "Opened",
+              "key": "opened",
+              "group": "Construction",
+              "text": "1969",
+              "lines": [
+                "1969"
+              ],
+              "html": "<td class=\"infobox-data\">1969</td>",
+              "links": [],
+              "media": [],
+              "references": []
+            }
+          ],
+          "architect": [
+            {
+              "label": "Architect",
+              "key": "architect",
+              "group": "Construction",
+              "text": "Mario Recordón and Jorge Patiño",
+              "lines": [
+                "Mario Recordón and Jorge Patiño"
+              ],
+              "html": "<td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Mario_Record%C3%B3n\" title=\"Mario Recordón\">Mario Recordón</a> and Jorge Patiño</td>",
+              "links": [
+                {
+                  "text": "Mario Recordón",
+                  "title": "Mario Recordón",
+                  "wikiTitle": "Mario Recordón",
+                  "href": "https://en.wikipedia.org/wiki/Mario_Record%C3%B3n",
+                  "blueArticle": true,
+                  "redLink": false,
+                  "external": false
+                }
+              ],
+              "media": [],
+              "references": []
+            }
+          ]
+        },
+        "factsText": {
+          "former_names": [
+            "Estadio Chile (1949–2004)"
+          ],
+          "location": [
+            "Santiago, Chile"
+          ],
+          "capacity": [
+            "3,500"
+          ],
+          "opened": [
+            "1969"
+          ],
+          "architect": [
+            "Mario Recordón and Jorge Patiño"
+          ]
+        },
+        "formerNames": [
+          "Estadio Chile (1949–2004)"
+        ],
+        "capacities": [
+          "3,500"
+        ],
+        "tenants": [],
+        "websites": [],
+        "media": [
+          {
+            "fileTitle": "File:Cancha Estadio Victor Jara.JPG",
+            "fileName": "Cancha Estadio Victor Jara.JPG",
+            "kind": "photo",
+            "filePageUrl": "https://en.wikipedia.org/wiki/File:Cancha_Estadio_Victor_Jara.JPG",
+            "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cancha_Estadio_Victor_Jara.JPG/250px-Cancha_Estadio_Victor_Jara.JPG",
+            "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cancha_Estadio_Victor_Jara.JPG",
+            "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Cancha_Estadio_Victor_Jara.JPG",
+            "srcset": [
+              {
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cancha_Estadio_Victor_Jara.JPG/500px-Cancha_Estadio_Victor_Jara.JPG",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 188,
+            "originalWidth": 4288,
+            "originalHeight": 3216,
+            "fileType": null,
+            "alt": null,
+            "title": null,
+            "caption": "Interior view of Víctor Jara Stadium"
+          },
+          {
+            "fileTitle": null,
+            "fileName": null,
+            "kind": "map",
+            "filePageUrl": null,
+            "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=V%C3%ADctor_Jara_Stadium&revid=1327984885&groups=_0750634f5585e8a7cae908a5cbf6ab88354c07cd&parser=legacy",
+            "originalRedirectUrl": null,
+            "enwikiOriginalRedirectUrl": null,
+            "srcset": [
+              {
+                "url": "https://maps.wikimedia.org/img/osm-intl",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/13",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/a",
+                "descriptor": null
+              },
+              {
+                "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=V%C3%ADctor_Jara_Stadium&revid=1327984885&groups=_0750634f5585e8a7cae908a5cbf6ab88354c07cd&parser=legacy",
+                "descriptor": "2x"
+              }
+            ],
+            "width": 250,
+            "height": 200,
+            "originalWidth": null,
+            "originalHeight": null,
+            "fileType": null,
+            "alt": "Map",
+            "title": null,
+            "caption": "Interactive map of Estadio Víctor Jara"
+          }
+        ],
+        "html": "<table class=\"infobox vcard\"><caption class=\"infobox-title fn org\">Estadio Víctor Jara</caption><tbody><tr><td colspan=\"2\" class=\"infobox-image\"><span class=\"mw-default-size pageimage\"><a href=\"https://en.wikipedia.org/wiki/File:Cancha_Estadio_Victor_Jara.JPG\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cancha_Estadio_Victor_Jara.JPG/250px-Cancha_Estadio_Victor_Jara.JPG\" width=\"250\" height=\"188\" class=\"mw-file-element mw-file-upright\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cancha_Estadio_Victor_Jara.JPG/500px-Cancha_Estadio_Victor_Jara.JPG 2x\" data-file-width=\"4288\" data-file-height=\"3216\"></a></span><div class=\"infobox-caption\">Interior view of Víctor Jara Stadium</div></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><a class=\"mw-kartographer-map notheme mw-kartographer-container center\" data-mw-kartographer=\"mapframe\" data-style=\"osm-intl\" data-width=\"250\" data-height=\"200\" data-zoom=\"13\" data-overlays=\"[&quot;_0750634f5585e8a7cae908a5cbf6ab88354c07cd&quot;]\"><img src=\"https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&amp;domain=en.wikipedia.org&amp;title=V%C3%ADctor_Jara_Stadium&amp;revid=1327984885&amp;groups=_0750634f5585e8a7cae908a5cbf6ab88354c07cd&amp;parser=legacy\" width=\"250\" height=\"200\" srcset=\"https://maps.wikimedia.org/img/osm-intl, https://en.wikipedia.org/13, https://en.wikipedia.org/a, https://en.wikipedia.org/a, https://en.wikipedia.org/250x200@2x.png?lang=en&amp;domain=en.wikipedia.org&amp;title=V%C3%ADctor_Jara_Stadium&amp;revid=1327984885&amp;groups=_0750634f5585e8a7cae908a5cbf6ab88354c07cd&amp;parser=legacy 2x\" alt=\"Map\"></a><div class=\"infobox-caption\">Interactive map of Estadio Víctor Jara</div></td></tr><tr><th scope=\"row\" class=\"infobox-label\"><div>Former names</div></th><td class=\"infobox-data nickname\">Estadio Chile (1949–2004)</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Location</th><td class=\"infobox-data label\"><a href=\"https://en.wikipedia.org/wiki/Santiago\" title=\"Santiago\">Santiago</a>, <a href=\"https://en.wikipedia.org/wiki/Chile\" title=\"Chile\">Chile</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\">Capacity</th><td class=\"infobox-data\">3,500</td></tr><tr><th colspan=\"2\" class=\"infobox-header\">Construction</th></tr><tr><th scope=\"row\" class=\"infobox-label\">Opened</th><td class=\"infobox-data\">1969</td></tr><tr><th scope=\"row\" class=\"infobox-label\">Architect</th><td class=\"infobox-data\"><a href=\"https://en.wikipedia.org/wiki/Mario_Record%C3%B3n\" title=\"Mario Recordón\">Mario Recordón</a> and Jorge Patiño</td></tr></tbody></table>"
+      },
+      "categories": [
+        "CS1_Spanish-language_sources_(es)",
+        "CS1_European_Spanish-language_sources_(es-es)",
+        "Pages_using_gadget_WikiMiniAtlas",
+        "Articles_with_short_description",
+        "Short_description_is_different_from_Wikidata",
+        "Pages_using_infobox_mapframe_without_shape_links_in_Wikidata",
+        "All_articles_with_vague_or_ambiguous_time",
+        "Vague_or_ambiguous_time_from_May_2024",
+        "Commons_category_link_is_on_Wikidata",
+        "Articles_with_Spanish-language_sources_(es)",
+        "Coordinates_on_Wikidata",
+        "Sports_venues_in_Santiago,_Chile",
+        "Indoor_arenas_in_Chile",
+        "Music_venues_in_Chile",
+        "Internment_camps_in_Chile",
+        "Torture_in_Chile",
+        "Basketball_venues_in_Chile",
+        "Volleyball_venues_in_Chile",
+        "1949_establishments_in_Chile",
+        "Sports_venues_completed_in_1949",
+        "Pages_using_the_Kartographer_extension"
+      ],
+      "externalLinks": [
+        "https://www.jstor.org/stable/24361632",
+        "https://www.monumentos.gob.cl/monumentos/monumentos-monumentos/estadio-victor-jara-estadio-chile",
+        "https://pagina19.cl/opinion/el-significado-del-estadio-victor-jara-ex-estadio-chile/",
+        "https://www.monumentos.gob.cl/sites/default/files/decretos/MH_01187_2009_D00483.PDF",
+        "https://www.bbc.com/mundo/noticias-america-latina-36646756",
+        "https://radio.uchile.cl/2018/07/03/ministro-vazquez-esclarece-los-homicidios-de-victor-jara-y-littre-quiroga/",
+        "https://www.cultura.gob.ar/victor-jara-la-cancion-de-los-pueblos-11163/",
+        "https://geohack.toolforge.org/geohack.php?pagename=V%C3%ADctor_Jara_Stadium&params=33_27_02.78_S_70_40_28.58_W_scale:2000",
+        "http://www.monumentos.cl/catalogo/625/w3-article-27255.html",
+        "https://viaf.org/viaf/688145858127923022230",
+        "https://musicbrainz.org/place/c957dab6-ea9f-4c30-a129-73d76e3c9a07"
+      ],
+      "sections": [
+        {
+          "index": "1",
+          "level": 2,
+          "line": "Concerts and festivals",
+          "anchor": "Concerts_and_festivals"
+        },
+        {
+          "index": "2",
+          "level": 2,
+          "line": "Use as a detention center",
+          "anchor": "Use_as_a_detention_center"
+        },
+        {
+          "index": "3",
+          "level": 2,
+          "line": "Victor Jara Stadium today",
+          "anchor": "Victor_Jara_Stadium_today"
+        },
+        {
+          "index": "4",
+          "level": 2,
+          "line": "References",
+          "anchor": "References"
+        },
+        {
+          "index": "5",
+          "level": 2,
+          "line": "External links",
+          "anchor": "External_links"
+        }
+      ],
+      "referencedFileTitles": [
+        "Cancha_Estadio_Victor_Jara.JPG",
+        "Estadio_Víctor_Jara_(calle).PNG",
+        "Commons-logo.svg",
+        "OOjs_UI_icon_edit-ltr-progressive.svg"
+      ],
+      "media": [
+        {
+          "fileTitle": "File:Cancha Estadio Victor Jara.JPG",
+          "fileName": "Cancha Estadio Victor Jara.JPG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Cancha_Estadio_Victor_Jara.JPG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cancha_Estadio_Victor_Jara.JPG/250px-Cancha_Estadio_Victor_Jara.JPG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cancha_Estadio_Victor_Jara.JPG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Cancha_Estadio_Victor_Jara.JPG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Cancha_Estadio_Victor_Jara.JPG/500px-Cancha_Estadio_Victor_Jara.JPG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 188,
+          "originalWidth": 4288,
+          "originalHeight": 3216,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Interior view of Víctor Jara Stadium"
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "map",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://maps.wikimedia.org/img/osm-intl,13,a,a,250x200.png?lang=en&domain=en.wikipedia.org&title=V%C3%ADctor_Jara_Stadium&revid=1327984885&groups=_0750634f5585e8a7cae908a5cbf6ab88354c07cd&parser=legacy",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [
+            {
+              "url": "https://maps.wikimedia.org/img/osm-intl",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/13",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/a",
+              "descriptor": null
+            },
+            {
+              "url": "https://en.wikipedia.org/250x200@2x.png?lang=en&domain=en.wikipedia.org&title=V%C3%ADctor_Jara_Stadium&revid=1327984885&groups=_0750634f5585e8a7cae908a5cbf6ab88354c07cd&parser=legacy",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 250,
+          "height": 200,
+          "originalWidth": null,
+          "originalHeight": null,
+          "fileType": null,
+          "alt": "Map",
+          "title": null,
+          "caption": "Interactive map of Estadio Víctor Jara"
+        },
+        {
+          "fileTitle": "File:Estadio Víctor Jara (calle).PNG",
+          "fileName": "Estadio Víctor Jara (calle).PNG",
+          "kind": "photo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Estadio_V%C3%ADctor_Jara_(calle).PNG",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Estadio_V%C3%ADctor_Jara_%28calle%29.PNG/330px-Estadio_V%C3%ADctor_Jara_%28calle%29.PNG",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Estadio_V%C3%ADctor_Jara_(calle).PNG",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Estadio_V%C3%ADctor_Jara_(calle).PNG",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Estadio_V%C3%ADctor_Jara_%28calle%29.PNG/960px-Estadio_V%C3%ADctor_Jara_%28calle%29.PNG",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 280,
+          "height": 210,
+          "originalWidth": 1333,
+          "originalHeight": 1000,
+          "fileType": null,
+          "alt": null,
+          "title": null,
+          "caption": "Outside view of Víctor Jara Stadium"
+        },
+        {
+          "fileTitle": "File:Commons-logo.svg",
+          "fileName": "Commons-logo.svg",
+          "kind": "logo",
+          "filePageUrl": "https://en.wikipedia.org/wiki/File:Commons-logo.svg",
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png",
+          "originalRedirectUrl": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "enwikiOriginalRedirectUrl": "https://en.wikipedia.org/wiki/Special:Redirect/file/Commons-logo.svg",
+          "srcset": [
+            {
+              "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png",
+              "descriptor": "2x"
+            }
+          ],
+          "width": 12,
+          "height": 16,
+          "originalWidth": 1024,
+          "originalHeight": 1376,
+          "fileType": null,
+          "alt": "Wikimedia Commons logo",
+          "title": null,
+          "caption": null
+        },
+        {
+          "fileTitle": null,
+          "fileName": null,
+          "kind": "photo",
+          "filePageUrl": null,
+          "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png",
+          "originalRedirectUrl": null,
+          "enwikiOriginalRedirectUrl": null,
+          "srcset": [],
+          "width": 10,
+          "height": 10,
+          "originalWidth": 20,
+          "originalHeight": 20,
+          "fileType": null,
+          "alt": "Edit this at Wikidata",
+          "title": null,
+          "caption": null
+        }
+      ],
+      "sources": [
+        {
+          "sourcePageTitle": "List of indoor arenas",
+          "sourcePageUrl": "https://en.wikipedia.org/wiki/List_of_indoor_arenas",
+          "sourceRevisionId": null,
+          "sourceType": "world_master_list",
+          "countryHint": null,
+          "sectionPath": [
+            "South America"
+          ],
+          "tableIndex": 5,
+          "tableCaption": null,
+          "rowIndex": 83,
+          "rowText": "Estadio Víctor Jara\n1969\n4,500",
+          "rowHtml": "<tr>\n<td><a href=\"https://en.wikipedia.org/wiki/Estadio_V%C3%ADctor_Jara\" class=\"mw-redirect\" title=\"Estadio Víctor Jara\">Estadio Víctor Jara</a>\n</td>\n<td>1969\n</td>\n<td>4,500\n</td>\n<td>\n</td></tr>",
+          "columns": [
+            {
+              "index": 0,
+              "header": "Country",
+              "headerKey": "country",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 82,
+              "cell": {
+                "text": "Chile",
+                "lines": [
+                  "Chile"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Chile",
+                    "title": "Chile",
+                    "wikiTitle": "Chile",
+                    "href": "https://en.wikipedia.org/wiki/Chile",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 1,
+              "header": "Location",
+              "headerKey": "location",
+              "inheritedFromRowspan": true,
+              "sourceRowIndex": 82,
+              "cell": {
+                "text": "Santiago",
+                "lines": [
+                  "Santiago"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Santiago",
+                    "title": "Santiago de Chile",
+                    "wikiTitle": "Santiago de Chile",
+                    "href": "https://en.wikipedia.org/wiki/Santiago_de_Chile",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 2,
+              "header": "Venue",
+              "headerKey": "venue",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 83,
+              "cell": {
+                "text": "Estadio Víctor Jara",
+                "lines": [
+                  "Estadio Víctor Jara"
+                ],
+                "html": null,
+                "links": [
+                  {
+                    "text": "Estadio Víctor Jara",
+                    "title": "Estadio Víctor Jara",
+                    "wikiTitle": "Estadio Víctor Jara",
+                    "href": "https://en.wikipedia.org/wiki/Estadio_V%C3%ADctor_Jara",
+                    "blueArticle": true,
+                    "redLink": false,
+                    "external": false
+                  }
+                ],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 3,
+              "header": "Date built",
+              "headerKey": "date_built",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 83,
+              "cell": {
+                "text": "1969",
+                "lines": [
+                  "1969"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 4,
+              "header": "Capacity",
+              "headerKey": "capacity",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 83,
+              "cell": {
+                "text": "4,500",
+                "lines": [
+                  "4,500"
+                ],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            },
+            {
+              "index": 5,
+              "header": "Tenant/use",
+              "headerKey": "tenant_use",
+              "inheritedFromRowspan": false,
+              "sourceRowIndex": 83,
+              "cell": {
+                "text": "",
+                "lines": [],
+                "html": null,
+                "links": [],
+                "media": [],
+                "references": []
+              }
+            }
+          ],
+          "rowMedia": [],
+          "arenaCell": {
+            "text": "Estadio Víctor Jara",
+            "lines": [
+              "Estadio Víctor Jara"
+            ],
+            "html": null,
+            "links": [
+              {
+                "text": "Estadio Víctor Jara",
+                "title": "Estadio Víctor Jara",
+                "wikiTitle": "Estadio Víctor Jara",
+                "href": "https://en.wikipedia.org/wiki/Estadio_V%C3%ADctor_Jara",
+                "blueArticle": true,
+                "redLink": false,
+                "external": false
+              }
+            ],
+            "media": [],
+            "references": []
+          }
+        }
+      ],
+      "scrapedAt": "2026-07-23T12:50:30.55Z"
+    }
+  ]
+}
