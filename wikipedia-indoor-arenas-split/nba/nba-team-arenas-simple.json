@@ -51,9 +51,13 @@
         "names": {
           "1961": "Anderson High School Wigwam"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Anderson_High_School_Wigwam"
+        "wikipedia": "https://en.wikipedia.org/wiki/Anderson_High_School_Wigwam",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "ATL": {
     "id": "wikipedia-page-753713",
@@ -113,7 +117,9 @@
         "names": {
           "1972": "Omni Coliseum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Omni_Coliseum"
+        "wikipedia": "https://en.wikipedia.org/wiki/Omni_Coliseum",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2000": {
         "id": "wikipedia-page-753713",
@@ -143,7 +149,9 @@
           "1999": "Philips Arena",
           "2018": "State Farm Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/State_Farm_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/State_Farm_Arena",
+        "sponsor": "Philips",
+        "hasNamingRights": true
       }
     },
     "alternate": [
@@ -177,7 +185,9 @@
         "wikipedia": "https://en.wikipedia.org/wiki/McCamish_Pavilion",
         "startSeason": 1969,
         "endSeason": 1972,
-        "note": "1968–1972"
+        "note": "1968–1972",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       {
         "id": "wikipedia-page-2344705",
@@ -210,7 +220,9 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Lakefront_Arena",
         "startSeason": 1985,
         "endSeason": 1985,
-        "note": "1984–1985 (partial schedule)"
+        "note": "1984–1985 (partial schedule)",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       {
         "id": "wikipedia-page-752278",
@@ -245,7 +257,9 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Georgia_Dome",
         "startSeason": 1998,
         "endSeason": 1999,
-        "note": "1997–1999 (partial schedule, primary stadium)"
+        "note": "1997–1999 (partial schedule, primary stadium)",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       {
         "id": "wikipedia-page-759806",
@@ -277,9 +291,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/McCamish_Pavilion",
         "startSeason": 1998,
         "endSeason": 1999,
-        "note": "1997–1999"
+        "note": "1997–1999",
+        "sponsor": "McDonald's",
+        "hasNamingRights": true
       }
-    ]
+    ],
+    "sponsor": "State Farm",
+    "hasNamingRights": true
   },
   "BAL": {
     "alternate": [
@@ -326,7 +344,9 @@
         "wikipedia": "https://en.wikipedia.org/wiki/CFG_Bank_Arena",
         "startSeason": 1964,
         "endSeason": 1973,
-        "note": "1963–1973"
+        "note": "1963–1973",
+        "sponsor": "CFG Bank",
+        "hasNamingRights": true
       }
     ]
   },
@@ -382,9 +402,13 @@
           "1939": "Baltimore Coliseum",
           "1930": "Baltimore Coliseum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Baltimore_Coliseum"
+        "wikipedia": "https://en.wikipedia.org/wiki/Baltimore_Coliseum",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "BOS": {
     "id": "wikipedia-page-498890",
@@ -443,7 +467,9 @@
         "names": {
           "1928": "Boston Garden"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Boston_Garden"
+        "wikipedia": "https://en.wikipedia.org/wiki/Boston_Garden",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1996": {
         "id": "wikipedia-page-498890",
@@ -473,7 +499,9 @@
           "2005": "TD Banknorth Garden",
           "2009": "TD Garden"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/TD_Garden"
+        "wikipedia": "https://en.wikipedia.org/wiki/TD_Garden",
+        "sponsor": "FleetBoston Financial",
+        "hasNamingRights": true
       }
     },
     "alternate": [
@@ -513,7 +541,9 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Matthews_Arena",
         "startSeason": 1947,
         "endSeason": 1947,
-        "note": "1946–1947\n(partial schedule)"
+        "note": "1946–1947\n(partial schedule)",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       {
         "id": "wikipedia-page-1754468",
@@ -555,9 +585,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/PeoplesBank_Arena",
         "startSeason": 1976,
         "endSeason": 1995,
-        "note": "1975–1995\n(occasionally for home games)"
+        "note": "1975–1995\n(occasionally for home games)",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    ]
+    ],
+    "sponsor": "TD Bank",
+    "hasNamingRights": true
   },
   "BRK": {
     "id": "wikipedia-page-1658814",
@@ -615,9 +649,13 @@
         "names": {
           "2012": "Barclays Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Barclays_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Barclays_Center",
+        "sponsor": "Barclays",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Barclays",
+    "hasNamingRights": true
   },
   "BUF": {
     "id": "wikipedia-page-753499",
@@ -697,7 +735,9 @@
         "names": {
           "1940": "Buffalo Memorial Auditorium"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Buffalo_Memorial_Auditorium"
+        "wikipedia": "https://en.wikipedia.org/wiki/Buffalo_Memorial_Auditorium",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1972": {
         "id": "wikipedia-page-753499",
@@ -743,9 +783,13 @@
         "names": {
           "1931": "Maple Leaf Gardens"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Maple_Leaf_Gardens"
+        "wikipedia": "https://en.wikipedia.org/wiki/Maple_Leaf_Gardens",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "CAP": {
     "id": "wikipedia-page-771002",
@@ -815,9 +859,13 @@
           "1996": "US Airways Arena",
           "1997": "Capital Centre (Landover, Maryland)"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Capital_Centre_(Landover,_Maryland)"
+        "wikipedia": "https://en.wikipedia.org/wiki/Capital_Centre_(Landover,_Maryland)",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "CHA": {
     "id": "wikipedia-page-417260",
@@ -877,7 +925,9 @@
         "names": {
           "1988": "Charlotte Coliseum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Coliseum"
+        "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Coliseum",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2006": {
         "id": "wikipedia-page-417260",
@@ -907,9 +957,13 @@
           "2008": "Time Warner Cable Arena",
           "2016": "Spectrum Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Spectrum_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Spectrum_Center",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "CHH": {
     "id": "wikipedia-page-417265",
@@ -969,9 +1023,13 @@
         "names": {
           "1988": "Charlotte Coliseum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Coliseum"
+        "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Coliseum",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "CHI": {
     "id": "wikipedia-page-547184",
@@ -1028,7 +1086,9 @@
         "names": {
           "1934": "International Amphitheatre"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/International_Amphitheatre"
+        "wikipedia": "https://en.wikipedia.org/wiki/International_Amphitheatre",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1968": {
         "id": "wikipedia-page-760001",
@@ -1057,7 +1117,9 @@
         "names": {
           "1929": "Chicago Stadium"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Chicago_Stadium"
+        "wikipedia": "https://en.wikipedia.org/wiki/Chicago_Stadium",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1995": {
         "id": "wikipedia-page-547184",
@@ -1083,9 +1145,13 @@
         "names": {
           "1994": "United Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/United_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/United_Center",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "CHO": {
     "id": "wikipedia-page-417260",
@@ -1145,9 +1211,13 @@
           "2008": "Time Warner Cable Arena",
           "2016": "Spectrum Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Spectrum_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Spectrum_Center",
+        "sponsor": "Time Warner Cable",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Spectrum",
+    "hasNamingRights": true
   },
   "CHP": {
     "id": "wikipedia-page-772393",
@@ -1209,9 +1279,13 @@
         "names": {
           "1934": "International Amphitheatre"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/International_Amphitheatre"
+        "wikipedia": "https://en.wikipedia.org/wiki/International_Amphitheatre",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "CHS": {
     "id": "wikipedia-page-760001",
@@ -1269,9 +1343,13 @@
         "names": {
           "1929": "Chicago Stadium"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Chicago_Stadium"
+        "wikipedia": "https://en.wikipedia.org/wiki/Chicago_Stadium",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "CHZ": {
     "id": "wikipedia-page-759961",
@@ -1317,9 +1395,13 @@
         "names": {
           "1899": "Chicago Coliseum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Chicago_Coliseum"
+        "wikipedia": "https://en.wikipedia.org/wiki/Chicago_Coliseum",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "CIN": {
     "id": "wikipedia-page-754153",
@@ -1395,9 +1477,13 @@
         "names": {
           "1949": "Cincinnati Gardens"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Cincinnati_Gardens"
+        "wikipedia": "https://en.wikipedia.org/wiki/Cincinnati_Gardens",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "CLE": {
     "id": "wikipedia-page-745240",
@@ -1462,7 +1548,9 @@
         "names": {
           "1937": "Cleveland Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Cleveland_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Cleveland_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1975": {
         "id": "wikipedia-page-752125",
@@ -1494,7 +1582,9 @@
         "names": {
           "1974": "Richfield Coliseum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Richfield_Coliseum"
+        "wikipedia": "https://en.wikipedia.org/wiki/Richfield_Coliseum",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1995": {
         "id": "wikipedia-page-745240",
@@ -1529,9 +1619,13 @@
           "2019": "Rocket Mortgage FieldHouse",
           "2025": "Rocket Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Rocket_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Rocket_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": "Rocket",
+    "hasNamingRights": true
   },
   "CLR": {
     "id": "wikipedia-page-752144",
@@ -1591,9 +1685,13 @@
         "names": {
           "1937": "Cleveland Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Cleveland_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Cleveland_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "DAL": {
     "id": "wikipedia-page-277398",
@@ -1652,7 +1750,9 @@
         "names": {
           "1980": "Reunion Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Reunion_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Reunion_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2002": {
         "id": "wikipedia-page-277398",
@@ -1680,9 +1780,13 @@
         "names": {
           "2001": "American Airlines Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/American_Airlines_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/American_Airlines_Center",
+        "sponsor": "American Airlines",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "American Airlines",
+    "hasNamingRights": true
   },
   "DEN": {
     "id": "wikipedia-page-328099",
@@ -1740,7 +1844,9 @@
           "1908": "Denver Municipal Auditorium",
           "1948": "Denver Auditorium Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Denver_Auditorium_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Denver_Auditorium_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1977": {
         "id": "wikipedia-page-768360",
@@ -1776,7 +1882,9 @@
         "names": {
           "1975": "McNichols Sports Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/McNichols_Sports_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/McNichols_Sports_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2000": {
         "id": "wikipedia-page-328099",
@@ -1805,7 +1913,9 @@
           "1999": "Pepsi Center",
           "2020": "Ball Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Ball_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Ball_Arena",
+        "sponsor": "Pepsi",
+        "hasNamingRights": true
       }
     },
     "alternate": [
@@ -1848,9 +1958,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Denver_Coliseum",
         "startSeason": 1968,
         "endSeason": 1970,
-        "note": "1967–1970 (partial schedule)"
+        "note": "1967–1970 (partial schedule)",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    ]
+    ],
+    "sponsor": "Ball Corporation",
+    "hasNamingRights": true
   },
   "DET": {
     "id": "wikipedia-page-43907729",
@@ -1906,7 +2020,9 @@
         "names": {
           "1927": "Detroit Olympia"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Detroit_Olympia"
+        "wikipedia": "https://en.wikipedia.org/wiki/Detroit_Olympia",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1962": {
         "id": "wikipedia-page-1469518",
@@ -1932,7 +2048,9 @@
           "2019": "TCF Center",
           "2021": "Huntington Place"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Huntington_Place"
+        "wikipedia": "https://en.wikipedia.org/wiki/Huntington_Place",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1979": {
         "id": "wikipedia-page-754366",
@@ -1964,7 +2082,9 @@
           "1975": "Pontiac Metropolitan Stadium",
           "1976": "Pontiac Silverdome"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Pontiac_Silverdome"
+        "wikipedia": "https://en.wikipedia.org/wiki/Pontiac_Silverdome",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1989": {
         "id": "wikipedia-page-623472",
@@ -1995,7 +2115,9 @@
         "names": {
           "1988": "The Palace of Auburn Hills"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Palace_of_Auburn_Hills"
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Palace_of_Auburn_Hills",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2018": {
         "id": "wikipedia-page-43907729",
@@ -2023,7 +2145,9 @@
         "names": {
           "2017": "Little Caesars Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Little_Caesars_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_Caesars_Arena",
+        "sponsor": "Little Caesars",
+        "hasNamingRights": true
       }
     },
     "alternate": [
@@ -2059,9 +2183,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Joe_Louis_Arena",
         "startSeason": 1985,
         "endSeason": 1985,
-        "note": "1984–1985 (partial schedule)"
+        "note": "1984–1985 (partial schedule)",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    ]
+    ],
+    "sponsor": "Little Caesars",
+    "hasNamingRights": true
   },
   "DNN": {
     "id": "wikipedia-page-3768733",
@@ -2117,9 +2245,13 @@
           "2002": "Quigg Newton Municipal Auditorium",
           "2005": "Ellie Caulkins Opera House"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Ellie_Caulkins_Opera_House"
+        "wikipedia": "https://en.wikipedia.org/wiki/Ellie_Caulkins_Opera_House",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "DTF": {
     "id": "wikipedia-page-908679",
@@ -2175,9 +2307,13 @@
         "names": {
           "1927": "Detroit Olympia"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Detroit_Olympia"
+        "wikipedia": "https://en.wikipedia.org/wiki/Detroit_Olympia",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "FTW": {
     "id": "wikipedia-page-1890423",
@@ -2234,7 +2370,9 @@
         "names": {
           "1927": "North Side High School (Fort Wayne, Indiana)"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/North_Side_High_School_(Fort_Wayne,_Indiana)"
+        "wikipedia": "https://en.wikipedia.org/wiki/North_Side_High_School_(Fort_Wayne,_Indiana)",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1953": {
         "id": "wikipedia-page-1890423",
@@ -2268,9 +2406,13 @@
         "names": {
           "1952": "Allen County War Memorial Coliseum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Allen_County_War_Memorial_Coliseum"
+        "wikipedia": "https://en.wikipedia.org/wiki/Allen_County_War_Memorial_Coliseum",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "GSW": {
     "id": "wikipedia-page-40062288",
@@ -2333,7 +2475,9 @@
           "2005": "Oakland Arena",
           "2006": "Oracle Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Oakland_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Oakland_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1997": {
         "id": "wikipedia-page-660966",
@@ -2371,7 +2515,9 @@
           "2002": "HP Pavilion at San Jose",
           "2013": "SAP Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/SAP_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/SAP_Center",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1998": {
         "id": "wikipedia-page-753580",
@@ -2407,7 +2553,9 @@
           "2005": "Oakland Arena",
           "2006": "Oracle Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Oakland_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Oakland_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2020": {
         "id": "wikipedia-page-40062288",
@@ -2434,9 +2582,13 @@
         "names": {
           "2019": "Chase Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Chase_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Chase_Center",
+        "sponsor": "Chase",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Chase",
+    "hasNamingRights": true
   },
   "HOU": {
     "id": "wikipedia-page-316397",
@@ -2490,7 +2642,9 @@
           "1969": "Hofheinz Pavilion",
           "2018": "Fertitta Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Fertitta_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Fertitta_Center",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1976": {
         "id": "wikipedia-page-316483",
@@ -2525,7 +2679,9 @@
           "1998": "Compaq Center",
           "2003": "Lakewood Church Central Campus"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Lakewood_Church_Central_Campus"
+        "wikipedia": "https://en.wikipedia.org/wiki/Lakewood_Church_Central_Campus",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2004": {
         "id": "wikipedia-page-316397",
@@ -2552,9 +2708,13 @@
         "names": {
           "2003": "Toyota Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Toyota_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Toyota_Center",
+        "sponsor": "Toyota",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Toyota",
+    "hasNamingRights": true
   },
   "IND": {
     "id": "wikipedia-page-624938",
@@ -2630,7 +2790,9 @@
           "2015": "Indiana Farmers Coliseum",
           "2024": "Corteva Coliseum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Corteva_Coliseum"
+        "wikipedia": "https://en.wikipedia.org/wiki/Corteva_Coliseum",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1977": {
         "id": "wikipedia-page-768379",
@@ -2659,7 +2821,9 @@
         "names": {
           "1974": "Market Square Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Market_Square_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Market_Square_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2000": {
         "id": "wikipedia-page-624938",
@@ -2690,9 +2854,13 @@
           "2011": "Bankers Life Fieldhouse",
           "2021": "Gainbridge Fieldhouse"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Gainbridge_Fieldhouse"
+        "wikipedia": "https://en.wikipedia.org/wiki/Gainbridge_Fieldhouse",
+        "sponsor": "Conseco",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Gainbridge",
+    "hasNamingRights": true
   },
   "INJ": {
     "id": "wikipedia-page-4987928",
@@ -2748,9 +2916,13 @@
         "names": {
           "1928": "Hinkle Fieldhouse"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Hinkle_Fieldhouse"
+        "wikipedia": "https://en.wikipedia.org/wiki/Hinkle_Fieldhouse",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "INO": {
     "id": "wikipedia-page-4987928",
@@ -2806,9 +2978,13 @@
         "names": {
           "1928": "Hinkle Fieldhouse"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Hinkle_Fieldhouse"
+        "wikipedia": "https://en.wikipedia.org/wiki/Hinkle_Fieldhouse",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "KCK": {
     "id": "wikipedia-page-766960",
@@ -2862,7 +3038,9 @@
           "2017": "Mosaic Arena",
           "2018": "Hy-Vee Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Hy-Vee_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Hy-Vee_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       }
     },
     "alternate": [
@@ -2899,9 +3077,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Omaha_Civic_Auditorium",
         "startSeason": 1976,
         "endSeason": 1978,
-        "note": "1972–1978\n(partial schedule)"
+        "note": "1972–1978\n(partial schedule)",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    ]
+    ],
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "KCO": {
     "id": "wikipedia-page-766960",
@@ -2951,7 +3133,9 @@
         "names": {
           "1935": "Municipal Auditorium (Kansas City, Missouri)"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Municipal_Auditorium_(Kansas_City,_Missouri)"
+        "wikipedia": "https://en.wikipedia.org/wiki/Municipal_Auditorium_(Kansas_City,_Missouri)",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1975": {
         "id": "wikipedia-page-766960",
@@ -2978,7 +3162,9 @@
           "2017": "Mosaic Arena",
           "2018": "Hy-Vee Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Hy-Vee_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Hy-Vee_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       }
     },
     "alternate": [
@@ -3015,9 +3201,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Omaha_Civic_Auditorium",
         "startSeason": 1973,
         "endSeason": 1975,
-        "note": "1972–1978\n(partial schedule)"
+        "note": "1972–1978\n(partial schedule)",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    ]
+    ],
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "LAC": {
     "id": "wikipedia-page-56652338",
@@ -3080,7 +3270,9 @@
         "names": {
           "1959": "Los Angeles Memorial Sports Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Los_Angeles_Memorial_Sports_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Los_Angeles_Memorial_Sports_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2000": {
         "id": "wikipedia-page-516154",
@@ -3111,7 +3303,9 @@
           "1999": "Staples Center",
           "2021": "Crypto.com Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Crypto.com_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Crypto.com_Arena",
+        "sponsor": "Staples",
+        "hasNamingRights": true
       },
       "2025": {
         "id": "wikipedia-page-56652338",
@@ -3136,7 +3330,9 @@
         "names": {
           "2024": "Intuit Dome"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Intuit_Dome"
+        "wikipedia": "https://en.wikipedia.org/wiki/Intuit_Dome",
+        "sponsor": "Intuit",
+        "hasNamingRights": true
       }
     },
     "alternate": [
@@ -3174,9 +3370,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Honda_Center",
         "startSeason": 1995,
         "endSeason": 1999,
-        "note": "1994–1999\n(partial schedule)"
+        "note": "1994–1999\n(partial schedule)",
+        "sponsor": "Arrowhead Water",
+        "hasNamingRights": true
       }
-    ]
+    ],
+    "sponsor": "Intuit",
+    "hasNamingRights": true
   },
   "LAL": {
     "id": "wikipedia-page-516154",
@@ -3245,7 +3445,9 @@
         "names": {
           "1959": "Los Angeles Memorial Sports Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Los_Angeles_Memorial_Sports_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Los_Angeles_Memorial_Sports_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1968": {
         "id": "wikipedia-page-2316357",
@@ -3269,7 +3471,9 @@
           "1978": "Long Beach Convention Center",
           "1990": "Long Beach Convention and Entertainment Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Long_Beach_Convention_and_Entertainment_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Long_Beach_Convention_and_Entertainment_Center",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2000": {
         "id": "wikipedia-page-516154",
@@ -3300,9 +3504,13 @@
           "1999": "Staples Center",
           "2021": "Crypto.com Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Crypto.com_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Crypto.com_Arena",
+        "sponsor": "Staples",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Crypto.com",
+    "hasNamingRights": true
   },
   "MEM": {
     "id": "wikipedia-page-636734",
@@ -3353,7 +3561,9 @@
         "names": {
           "1991": "Memphis Pyramid"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Memphis_Pyramid"
+        "wikipedia": "https://en.wikipedia.org/wiki/Memphis_Pyramid",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2005": {
         "id": "wikipedia-page-636734",
@@ -3381,9 +3591,13 @@
         "names": {
           "2004": "FedExForum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/FedExForum"
+        "wikipedia": "https://en.wikipedia.org/wiki/FedExForum",
+        "sponsor": "FedEx",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "FedEx",
+    "hasNamingRights": true
   },
   "MIA": {
     "id": "wikipedia-page-327817",
@@ -3443,7 +3657,9 @@
         "names": {
           "1988": "Miami Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Miami_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Miami_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2000": {
         "id": "wikipedia-page-327817",
@@ -3471,9 +3687,13 @@
           "2021": "FTX Arena",
           "2023": "Kaseya Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Kaseya_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Kaseya_Center",
+        "sponsor": "American Airlines",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Kaseya",
+    "hasNamingRights": true
   },
   "MIL": {
     "id": "wikipedia-page-46354257",
@@ -3539,7 +3759,9 @@
           "2000": "U.S. Cellular Arena",
           "2014": "UW–Milwaukee Panther Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/UW%E2%80%93Milwaukee_Panther_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/UW%E2%80%93Milwaukee_Panther_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1989": {
         "id": "wikipedia-page-753644",
@@ -3570,7 +3792,9 @@
           "2012": "BMO Harris Bradley Center",
           "2018": "Bradley Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Bradley_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Bradley_Center",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2019": {
         "id": "wikipedia-page-46354257",
@@ -3596,9 +3820,13 @@
         "names": {
           "2018": "Fiserv Forum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Fiserv_Forum"
+        "wikipedia": "https://en.wikipedia.org/wiki/Fiserv_Forum",
+        "sponsor": "Fiserv",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Fiserv",
+    "hasNamingRights": true
   },
   "MIN": {
     "id": "wikipedia-page-237003",
@@ -3653,7 +3881,9 @@
         "names": {
           "1982": "Hubert H. Humphrey Metrodome"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Hubert_H._Humphrey_Metrodome"
+        "wikipedia": "https://en.wikipedia.org/wiki/Hubert_H._Humphrey_Metrodome",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1991": {
         "id": "wikipedia-page-237003",
@@ -3683,9 +3913,13 @@
         "names": {
           "1990": "Target Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Target_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Target_Center",
+        "sponsor": "Target",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Target",
+    "hasNamingRights": true
   },
   "MLH": {
     "id": "wikipedia-page-771023",
@@ -3765,9 +3999,13 @@
           "2000": "U.S. Cellular Arena",
           "2014": "UW–Milwaukee Panther Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/UW%E2%80%93Milwaukee_Panther_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/UW%E2%80%93Milwaukee_Panther_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "MNL": {
     "id": "wikipedia-page-4193691",
@@ -3819,7 +4057,9 @@
         "names": {
           "1927": "Minneapolis Auditorium"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Minneapolis_Auditorium"
+        "wikipedia": "https://en.wikipedia.org/wiki/Minneapolis_Auditorium",
+        "sponsor": null,
+        "hasNamingRights": false
       }
     },
     "alternate": [
@@ -3847,7 +4087,9 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Minneapolis_Armory",
         "startSeason": 1949,
         "endSeason": 1959,
-        "note": "1947–1959"
+        "note": "1947–1959",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       {
         "id": "wikipedia-page-6900179",
@@ -3873,9 +4115,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Minneapolis_Armory",
         "startSeason": 1960,
         "endSeason": 1960,
-        "note": "1959–1960"
+        "note": "1959–1960",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    ]
+    ],
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "NJN": {
     "id": "wikipedia-page-3517532",
@@ -3938,7 +4184,9 @@
           "1986": "Louis Brown Athletic Center",
           "2019": "Jersey Mike's Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Jersey_Mike%27s_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Jersey_Mike%27s_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1982": {
         "id": "wikipedia-page-625007",
@@ -3974,7 +4222,9 @@
           "2007": "Izod Center",
           "2015": "Meadowlands Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Meadowlands_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Meadowlands_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2011": {
         "id": "wikipedia-page-3517532",
@@ -4006,9 +4256,13 @@
         "names": {
           "2007": "Prudential Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Prudential_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Prudential_Center",
+        "sponsor": "Prudential Financial",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Prudential Financial",
+    "hasNamingRights": true
   },
   "NOH": {
     "id": "wikipedia-page-753673",
@@ -4064,7 +4318,9 @@
           "1999": "New Orleans Arena",
           "2014": "Smoothie King Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Smoothie_King_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Smoothie_King_Center",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2006": {
         "id": "wikipedia-page-1698323",
@@ -4098,9 +4354,13 @@
           "2011": "Chesapeake Energy Arena",
           "2021": "Paycom Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Paycom_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Paycom_Center",
+        "sponsor": "Oklahoma Ford Dealers",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "NOJ": {
     "id": "wikipedia-page-626568",
@@ -4163,7 +4423,9 @@
         "names": {
           "1930": "Municipal Auditorium (New Orleans)"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Municipal_Auditorium_(New_Orleans)"
+        "wikipedia": "https://en.wikipedia.org/wiki/Municipal_Auditorium_(New_Orleans)",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1976": {
         "id": "wikipedia-page-626568",
@@ -4199,7 +4461,9 @@
           "2011": "Mercedes-Benz Superdome",
           "2021": "Caesars Superdome"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Caesars_Superdome"
+        "wikipedia": "https://en.wikipedia.org/wiki/Caesars_Superdome",
+        "sponsor": null,
+        "hasNamingRights": false
       }
     },
     "alternate": [
@@ -4231,9 +4495,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Loyola_Field_House",
         "startSeason": 1975,
         "endSeason": 1975,
-        "note": "1974–1975\n(partial schedule)"
+        "note": "1974–1975\n(partial schedule)",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    ]
+    ],
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "NOP": {
     "id": "wikipedia-page-753673",
@@ -4289,9 +4557,13 @@
           "1999": "New Orleans Arena",
           "2014": "Smoothie King Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Smoothie_King_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Smoothie_King_Center",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": "Smoothie King",
+    "hasNamingRights": true
   },
   "NYK": {
     "id": "wikipedia-page-75129",
@@ -4356,7 +4628,9 @@
         "names": {
           "1925": "Madison Square Garden (1925)"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Madison_Square_Garden_(1925)"
+        "wikipedia": "https://en.wikipedia.org/wiki/Madison_Square_Garden_(1925)",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1968": {
         "id": "wikipedia-page-75129",
@@ -4391,7 +4665,9 @@
         "names": {
           "1879": "Madison Square Garden"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Madison_Square_Garden"
+        "wikipedia": "https://en.wikipedia.org/wiki/Madison_Square_Garden",
+        "sponsor": null,
+        "hasNamingRights": false
       }
     },
     "alternate": [
@@ -4419,9 +4695,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/69th_Regiment_Armory",
         "startSeason": 1947,
         "endSeason": 1960,
-        "note": "1946–1960\n(partial schedule)"
+        "note": "1946–1960\n(partial schedule)",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    ]
+    ],
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "NYN": {
     "id": "wikipedia-page-516595",
@@ -4480,7 +4760,9 @@
         "names": {
           "1936": "Teaneck Armory"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Teaneck_Armory"
+        "wikipedia": "https://en.wikipedia.org/wiki/Teaneck_Armory",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1969": {
         "id": "wikipedia-page-768300",
@@ -4510,7 +4792,9 @@
           "1959": "Long Island Arena",
           "1957": "Long Island Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Long_Island_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Long_Island_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1970": {
         "id": "wikipedia-page-4194881",
@@ -4533,7 +4817,9 @@
         "names": {
           "1956": "Island Garden"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Island_Garden"
+        "wikipedia": "https://en.wikipedia.org/wiki/Island_Garden",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1977": {
         "id": "wikipedia-page-516595",
@@ -4569,9 +4855,13 @@
         "names": {
           "1972": "Nassau Coliseum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Nassau_Coliseum"
+        "wikipedia": "https://en.wikipedia.org/wiki/Nassau_Coliseum",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "OKC": {
     "id": "wikipedia-page-1698323",
@@ -4639,7 +4929,9 @@
           "2011": "Chesapeake Energy Arena",
           "2021": "Paycom Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Paycom_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Paycom_Center",
+        "sponsor": "Oklahoma Ford Dealers",
+        "hasNamingRights": true
       }
     },
     "future": [
@@ -4668,9 +4960,13 @@
         },
         "wikipedia": "https://en.wikipedia.org/wiki/Continental_Coliseum",
         "startSeason": 2029,
-        "note": "Continental Coliseum\nOklahoma City Thunder\nOklahoma City, Oklahoma\nTBD\n2028"
+        "note": "Continental Coliseum\nOklahoma City Thunder\nOklahoma City, Oklahoma\nTBD\n2028",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    ]
+    ],
+    "sponsor": "Paycom",
+    "hasNamingRights": true
   },
   "ORL": {
     "id": "wikipedia-page-7221822",
@@ -4734,7 +5030,9 @@
           "1999": "TD Waterhouse Centre",
           "2006": "Amway Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Amway_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Amway_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2011": {
         "id": "wikipedia-page-7221822",
@@ -4764,9 +5062,13 @@
           "2010": "Amway Center",
           "2023": "Kia Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Kia_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Kia_Center",
+        "sponsor": "Amway",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Kia",
+    "hasNamingRights": true
   },
   "PHI": {
     "id": "wikipedia-page-753781",
@@ -4842,7 +5144,9 @@
           "1980": "Martin Luther King Jr Arena",
           "1983": "Philadelphia Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Philadelphia_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Philadelphia_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1968": {
         "id": "wikipedia-page-754110",
@@ -4879,7 +5183,9 @@
           "2003": "Wachovia Spectrum",
           "2009": "Spectrum (arena)"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Spectrum_(arena)"
+        "wikipedia": "https://en.wikipedia.org/wiki/Spectrum_(arena)",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1997": {
         "id": "wikipedia-page-753781",
@@ -4910,7 +5216,9 @@
           "2010": "CoreStates Center (1996–1998)First Union Center (1998–2003)Wachovia Center (2003–2010)Wells Fargo Center",
           "2025": "Xfinity Mobile Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Xfinity_Mobile_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Xfinity_Mobile_Arena",
+        "sponsor": "Xfinity Mobile",
+        "hasNamingRights": true
       }
     },
     "future": [
@@ -4939,9 +5247,13 @@
         },
         "wikipedia": "https://en.wikipedia.org/wiki/New_South_Philadelphia_Arena",
         "startSeason": 2031,
-        "note": "New South Philadelphia Arena\nPhiladelphia 76ers\nPhiladelphia, Pennsylvania\nTBD\n2030"
+        "note": "New South Philadelphia Arena\nPhiladelphia 76ers\nPhiladelphia, Pennsylvania\nTBD\n2030",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    ]
+    ],
+    "sponsor": "Xfinity Mobile",
+    "hasNamingRights": true
   },
   "PHO": {
     "id": "wikipedia-page-66144639",
@@ -4997,7 +5309,9 @@
         "names": {
           "1965": "Arizona Veterans Memorial Coliseum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Arizona_Veterans_Memorial_Coliseum"
+        "wikipedia": "https://en.wikipedia.org/wiki/Arizona_Veterans_Memorial_Coliseum",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1993": {
         "id": "wikipedia-page-66144639",
@@ -5028,9 +5342,13 @@
           "2020": "Phoenix Suns Arena",
           "2021": "Mortgage Matchup Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Mortgage_Matchup_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Mortgage_Matchup_Center",
+        "sponsor": "Mortgage Matchup",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Mortgage Matchup",
+    "hasNamingRights": true
   },
   "PHW": {
     "id": "wikipedia-page-1955087",
@@ -5092,7 +5410,9 @@
         "names": {
           "1931": "Philadelphia Convention Hall and Civic Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Philadelphia_Convention_Hall_and_Civic_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Philadelphia_Convention_Hall_and_Civic_Center",
+        "sponsor": null,
+        "hasNamingRights": false
       }
     },
     "alternate": [
@@ -5142,7 +5462,9 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Philadelphia_Arena",
         "startSeason": 1947,
         "endSeason": 1962,
-        "note": "1946–1962"
+        "note": "1946–1962",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       {
         "id": "wikipedia-page-1766985",
@@ -5190,9 +5512,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Philadelphia_Arena",
         "startSeason": 1953,
         "endSeason": 1962,
-        "note": "1952–1962"
+        "note": "1952–1962",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    ]
+    ],
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "PIT": {
     "id": "wikipedia-page-2965951",
@@ -5290,9 +5616,13 @@
           "1940": "The Gardens",
           "1956": "Duquesne Gardens"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Duquesne_Gardens"
+        "wikipedia": "https://en.wikipedia.org/wiki/Duquesne_Gardens",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "POR": {
     "id": "wikipedia-page-263703",
@@ -5359,7 +5689,9 @@
           "1960": "Veterans Memorial Coliseum (Portland, Oregon)",
           "2011": "Veterans Memorial Coliseum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Veterans_Memorial_Coliseum_(Portland,_Oregon)"
+        "wikipedia": "https://en.wikipedia.org/wiki/Veterans_Memorial_Coliseum_(Portland,_Oregon)",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1996": {
         "id": "wikipedia-page-263703",
@@ -5393,9 +5725,13 @@
           "1995": "Rose Garden",
           "2013": "Moda Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Moda_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Moda_Center",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": "Moda Health",
+    "hasNamingRights": true
   },
   "PRO": {
     "id": "wikipedia-page-4923995",
@@ -5449,9 +5785,13 @@
         "names": {
           "1926": "Rhode Island Auditorium"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Rhode_Island_Auditorium"
+        "wikipedia": "https://en.wikipedia.org/wiki/Rhode_Island_Auditorium",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "ROC": {
     "id": "wikipedia-page-1270307",
@@ -5513,7 +5853,9 @@
         "names": {
           "1892": "Edgerton Park Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Edgerton_Park_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Edgerton_Park_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1956": {
         "id": "wikipedia-page-1270307",
@@ -5549,9 +5891,13 @@
           "1955": "Rochester Community War Memorial",
           "1998": "Blue Cross Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Blue_Cross_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Blue_Cross_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "SAC": {
     "id": "wikipedia-page-35080638",
@@ -5602,7 +5948,9 @@
         "names": {
           "1985": "ARCO Arena (1985)"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/ARCO_Arena_(1985)"
+        "wikipedia": "https://en.wikipedia.org/wiki/ARCO_Arena_(1985)",
+        "sponsor": "ARCO",
+        "hasNamingRights": true
       },
       "1989": {
         "id": "wikipedia-page-753547",
@@ -5634,7 +5982,9 @@
           "2012": "Sleep Train Arena",
           "2022": "ARCO Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/ARCO_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/ARCO_Arena",
+        "sponsor": "ARCO",
+        "hasNamingRights": true
       },
       "2017": {
         "id": "wikipedia-page-35080638",
@@ -5659,9 +6009,13 @@
         "names": {
           "2016": "Golden 1 Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Golden_1_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Golden_1_Center",
+        "sponsor": "Golden 1 Credit Union",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Golden 1 Credit Union",
+    "hasNamingRights": true
   },
   "SAS": {
     "id": "wikipedia-page-753598",
@@ -5715,7 +6069,9 @@
           "2013": "Kay Bailey Hutchison Convention Center",
           "1957": "Dallas Memorial Auditorium"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Kay_Bailey_Hutchison_Convention_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Kay_Bailey_Hutchison_Convention_Center",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1977": {
         "id": "wikipedia-page-1477274",
@@ -5741,7 +6097,9 @@
         "names": {
           "1968": "HemisFair Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/HemisFair_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/HemisFair_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1994": {
         "id": "wikipedia-page-759780",
@@ -5774,7 +6132,9 @@
         "names": {
           "1993": "Alamodome"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Alamodome"
+        "wikipedia": "https://en.wikipedia.org/wiki/Alamodome",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2003": {
         "id": "wikipedia-page-753598",
@@ -5803,7 +6163,9 @@
           "2006": "AT&T Center",
           "2023": "Frost Bank Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Frost_Bank_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Frost_Bank_Center",
+        "sponsor": "SBC Communications",
+        "hasNamingRights": true
       }
     },
     "alternate": [
@@ -5836,7 +6198,9 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Moody_Coliseum",
         "startSeason": 1968,
         "endSeason": 1973,
-        "note": "1967–1973; shared Dallas Chaparrals home venue"
+        "note": "1967–1973; shared Dallas Chaparrals home venue",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       {
         "id": "wikipedia-page-1890576",
@@ -5872,7 +6236,9 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Lubbock_Municipal_Coliseum",
         "startSeason": 1971,
         "endSeason": 1971,
-        "note": "1970–1971 (partial schedule)"
+        "note": "1970–1971 (partial schedule)",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       {
         "id": "wikipedia-page-1958510",
@@ -5899,9 +6265,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Fort_Worth_Convention_Center",
         "startSeason": 1971,
         "endSeason": 1971,
-        "note": "1970–1971 (partial schedule)"
+        "note": "1970–1971 (partial schedule)",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    ]
+    ],
+    "sponsor": "Frost Bank",
+    "hasNamingRights": true
   },
   "SDC": {
     "id": "wikipedia-page-1764480",
@@ -6021,9 +6391,13 @@
           "2010": "Valley View Casino Center",
           "2018": "Pechanga Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Pechanga_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Pechanga_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "SDR": {
     "id": "wikipedia-page-1764480",
@@ -6143,9 +6517,13 @@
           "2010": "Valley View Casino Center",
           "2018": "Pechanga Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Pechanga_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Pechanga_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "SEA": {
     "id": "wikipedia-page-1698323",
@@ -6215,7 +6593,9 @@
           "1995": "Washington State Pavilion (1962)Washington State Coliseum (1962–1964)Seattle Center Coliseum (1964–1994)KeyArena at Seattle Center",
           "2021": "Climate Pledge Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Climate_Pledge_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Climate_Pledge_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1979": {
         "id": "wikipedia-page-634056",
@@ -6243,7 +6623,9 @@
         "names": {
           "1976": "Kingdome"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Kingdome"
+        "wikipedia": "https://en.wikipedia.org/wiki/Kingdome",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1986": {
         "id": "wikipedia-page-644494",
@@ -6279,7 +6661,9 @@
           "1995": "Washington State Pavilion (1962)Washington State Coliseum (1962–1964)Seattle Center Coliseum (1964–1994)KeyArena at Seattle Center",
           "2021": "Climate Pledge Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Climate_Pledge_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Climate_Pledge_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1995": {
         "id": "wikipedia-page-770834",
@@ -6311,7 +6695,9 @@
         "names": {
           "1983": "Tacoma Dome"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Tacoma_Dome"
+        "wikipedia": "https://en.wikipedia.org/wiki/Tacoma_Dome",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1996": {
         "id": "wikipedia-page-644494",
@@ -6347,7 +6733,9 @@
           "1995": "Washington State Pavilion (1962)Washington State Coliseum (1962–1964)Seattle Center Coliseum (1964–1994)KeyArena at Seattle Center",
           "2021": "Climate Pledge Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Climate_Pledge_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Climate_Pledge_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "2006": {
         "id": "wikipedia-page-1698323",
@@ -6381,9 +6769,13 @@
           "2011": "Chesapeake Energy Arena",
           "2021": "Paycom Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Paycom_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Paycom_Center",
+        "sponsor": "Oklahoma Ford Dealers",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Oklahoma Ford Dealers",
+    "hasNamingRights": true
   },
   "SFW": {
     "id": "wikipedia-page-4194859",
@@ -6435,7 +6827,9 @@
         "names": {
           "1958": "Sobrato Center"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Sobrato_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Sobrato_Center",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1965": {
         "id": "wikipedia-page-4194859",
@@ -6462,7 +6856,9 @@
           "1916": "San Francisco Civic Auditorium",
           "1992": "Bill Graham Civic Auditorium"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Bill_Graham_Civic_Auditorium"
+        "wikipedia": "https://en.wikipedia.org/wiki/Bill_Graham_Civic_Auditorium",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1967": {
         "id": "wikipedia-page-762931",
@@ -6498,7 +6894,9 @@
           "1941": "California State Livestock Pavilion",
           "1944": "Cow Palace"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Cow_Palace"
+        "wikipedia": "https://en.wikipedia.org/wiki/Cow_Palace",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1969": {
         "id": "wikipedia-page-4194859",
@@ -6525,9 +6923,13 @@
           "1916": "San Francisco Civic Auditorium",
           "1992": "Bill Graham Civic Auditorium"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Bill_Graham_Civic_Auditorium"
+        "wikipedia": "https://en.wikipedia.org/wiki/Bill_Graham_Civic_Auditorium",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "SHE": {
     "id": "wikipedia-page-4924036",
@@ -6573,9 +6975,13 @@
         "names": {
           "1942": "Sheboygan Armory"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Sheboygan_Armory"
+        "wikipedia": "https://en.wikipedia.org/wiki/Sheboygan_Armory",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "STB": {
     "id": "wikipedia-page-770656",
@@ -6657,9 +7063,13 @@
           "1977": "The Checkerdome",
           "1983": "St. Louis Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/St._Louis_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/St._Louis_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "STL": {
     "id": "wikipedia-page-766974",
@@ -6715,7 +7125,9 @@
           "1934": "Municipal Auditorium",
           "1943": "Kiel Auditorium"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Kiel_Auditorium"
+        "wikipedia": "https://en.wikipedia.org/wiki/Kiel_Auditorium",
+        "sponsor": null,
+        "hasNamingRights": false
       }
     },
     "alternate": [
@@ -6761,9 +7173,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/St._Louis_Arena",
         "startSeason": 1956,
         "endSeason": 1968,
-        "note": "1955–1968\n(partial schedule)"
+        "note": "1955–1968\n(partial schedule)",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    ]
+    ],
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "SYR": {
     "id": "wikipedia-page-1886937",
@@ -6823,7 +7239,9 @@
         "names": {
           "1927": "Toyota Coliseum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Toyota_Coliseum"
+        "wikipedia": "https://en.wikipedia.org/wiki/Toyota_Coliseum",
+        "sponsor": "Toyota",
+        "hasNamingRights": true
       },
       "1952": {
         "id": "wikipedia-page-1886937",
@@ -6860,9 +7278,13 @@
           "2000": "Oncenter War Memorial Arena",
           "2019": "Upstate Medical University Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Upstate_Medical_University_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Upstate_Medical_University_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "TOR": {
     "id": "wikipedia-page-436436",
@@ -6929,7 +7351,9 @@
           "2024": "Hamilton Arena",
           "2025": "TD Coliseum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/TD_Coliseum"
+        "wikipedia": "https://en.wikipedia.org/wiki/TD_Coliseum",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1998": {
         "id": "wikipedia-page-753499",
@@ -6975,7 +7399,9 @@
         "names": {
           "1931": "Maple Leaf Gardens"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Maple_Leaf_Gardens"
+        "wikipedia": "https://en.wikipedia.org/wiki/Maple_Leaf_Gardens",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1999": {
         "id": "wikipedia-page-436436",
@@ -7004,7 +7430,9 @@
           "1999": "Air Canada Centre",
           "2018": "Scotiabank Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Scotiabank_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Scotiabank_Arena",
+        "sponsor": "Scotiabank",
+        "hasNamingRights": true
       },
       "2021": {
         "id": "wikipedia-page-624911",
@@ -7033,9 +7461,13 @@
           "2014": "Amalie Arena",
           "2025": "Benchmark International Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Benchmark_International_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Benchmark_International_Arena",
+        "sponsor": "Amalie Oil",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Scotiabank",
+    "hasNamingRights": true
   },
   "TRH": {
     "id": "wikipedia-page-753499",
@@ -7127,9 +7559,13 @@
         "names": {
           "1931": "Maple Leaf Gardens"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Maple_Leaf_Gardens"
+        "wikipedia": "https://en.wikipedia.org/wiki/Maple_Leaf_Gardens",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "TRI": {
     "id": "wikipedia-page-4194701",
@@ -7185,9 +7621,13 @@
         "names": {
           "1928": "Wharton Field House"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Wharton_Field_House"
+        "wikipedia": "https://en.wikipedia.org/wiki/Wharton_Field_House",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "UTA": {
     "id": "wikipedia-page-8054629",
@@ -7249,7 +7689,9 @@
         "names": {
           "1969": "Salt Palace (arena)"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Salt_Palace_(arena)"
+        "wikipedia": "https://en.wikipedia.org/wiki/Salt_Palace_(arena)",
+        "sponsor": null,
+        "hasNamingRights": false
       },
       "1992": {
         "id": "wikipedia-page-8054629",
@@ -7283,7 +7725,9 @@
           "2015": "Vivint Smart Home Arena",
           "2020": "Vivint Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Delta_Center"
+        "wikipedia": "https://en.wikipedia.org/wiki/Delta_Center",
+        "sponsor": "Delta Air Lines",
+        "hasNamingRights": true
       }
     },
     "alternate": [
@@ -7325,9 +7769,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/Thomas_%26_Mack_Center",
         "startSeason": 1984,
         "endSeason": 1984,
-        "note": "1983–1984\n(partial schedule)"
+        "note": "1983–1984\n(partial schedule)",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    ]
+    ],
+    "sponsor": "Vivint",
+    "hasNamingRights": true
   },
   "VAN": {
     "id": "wikipedia-page-754072",
@@ -7387,9 +7835,13 @@
           "1995": "General Motors Place",
           "2010": "Rogers Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Rogers_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Rogers_Arena",
+        "sponsor": "General Motors",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "General Motors",
+    "hasNamingRights": true
   },
   "WAS": {
     "id": "wikipedia-page-575052",
@@ -7453,9 +7905,13 @@
           "2006": "Verizon Center",
           "2017": "Capital One Arena"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Capital_One_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Capital_One_Arena",
+        "sponsor": "MCI",
+        "hasNamingRights": true
       }
-    }
+    },
+    "sponsor": "Capital One",
+    "hasNamingRights": true
   },
   "WAT": {
     "id": "wikipedia-page-3767505",
@@ -7523,9 +7979,13 @@
           "1965": "McElroy Auditorium",
           "2018": "The Hippodrome"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Hippodrome"
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Hippodrome",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "WSB": {
     "id": "wikipedia-page-771002",
@@ -7595,7 +8055,9 @@
           "1996": "US Airways Arena",
           "1997": "Capital Centre (Landover, Maryland)"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Capital_Centre_(Landover,_Maryland)"
+        "wikipedia": "https://en.wikipedia.org/wiki/Capital_Centre_(Landover,_Maryland)",
+        "sponsor": null,
+        "hasNamingRights": false
       }
     },
     "alternate": [
@@ -7642,9 +8104,13 @@
         "wikipedia": "https://en.wikipedia.org/wiki/CFG_Bank_Arena",
         "startSeason": 1990,
         "endSeason": 1997,
-        "note": "1989–1997"
+        "note": "1989–1997",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    ]
+    ],
+    "sponsor": null,
+    "hasNamingRights": false
   },
   "WSC": {
     "id": "wikipedia-page-4196654",
@@ -7718,8 +8184,12 @@
           "1941": "Uline Arena",
           "1959": "Washington Coliseum"
         },
-        "wikipedia": "https://en.wikipedia.org/wiki/Uline_Arena"
+        "wikipedia": "https://en.wikipedia.org/wiki/Uline_Arena",
+        "sponsor": null,
+        "hasNamingRights": false
       }
-    }
+    },
+    "sponsor": null,
+    "hasNamingRights": false
   }
 }
