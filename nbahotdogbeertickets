@@ -1,0 +1,274 @@
+{
+  "nba_arena_prices": [
+    {
+      "team": "San Antonio Spurs",
+      "food_and_drink": 18.00,
+      "tickets": 131.00,
+      "total_cost": 150.00,
+      "hotdog": 6.30,
+      "beer": 11.70,
+      "data_computed": true
+    },
+    {
+      "team": "Cleveland Cavaliers",
+      "food_and_drink": 19.00,
+      "tickets": 200.00,
+      "total_cost": 222.00,
+      "hotdog": 6.65,
+      "beer": 12.35,
+      "data_computed": true
+    },
+    {
+      "team": "Indiana Pacers",
+      "food_and_drink": 19.00,
+      "tickets": 160.00,
+      "total_cost": 181.00,
+      "hotdog": 6.65,
+      "beer": 12.35,
+      "data_computed": true
+    },
+    {
+      "team": "Milwaukee Bucks",
+      "food_and_drink": 20.00,
+      "tickets": 215.00,
+      "total_cost": 235.00,
+      "hotdog": 7.00,
+      "beer": 13.00,
+      "data_computed": true
+    },
+    {
+      "team": "Memphis Grizzlies",
+      "food_and_drink": 20.00,
+      "tickets": 146.00,
+      "total_cost": 167.00,
+      "hotdog": 7.00,
+      "beer": 13.00,
+      "data_computed": true
+    },
+    {
+      "team": "Charlotte Hornets",
+      "food_and_drink": 20.00,
+      "tickets": 137.00,
+      "total_cost": 159.00,
+      "hotdog": 7.00,
+      "beer": 13.00,
+      "data_computed": true
+    },
+    {
+      "team": "Utah Jazz",
+      "food_and_drink": 20.00,
+      "tickets": 164.00,
+      "total_cost": 184.00,
+      "hotdog": 7.00,
+      "beer": 13.00,
+      "data_computed": true
+    },
+    {
+      "team": "New Orleans Pelicans",
+      "food_and_drink": 20.00,
+      "tickets": 144.00,
+      "total_cost": 165.00,
+      "hotdog": 7.00,
+      "beer": 13.00,
+      "data_computed": true
+    },
+    {
+      "team": "Detroit Pistons",
+      "food_and_drink": 20.00,
+      "tickets": 160.00,
+      "total_cost": 182.00,
+      "hotdog": 7.00,
+      "beer": 13.00,
+      "data_computed": true
+    },
+    {
+      "team": "Oklahoma City Thunder",
+      "food_and_drink": 20.00,
+      "tickets": 210.00,
+      "total_cost": 231.00,
+      "hotdog": 7.00,
+      "beer": 13.00,
+      "data_computed": true
+    },
+    {
+      "team": "Philadelphia 76ers",
+      "food_and_drink": 21.00,
+      "tickets": 300.00,
+      "total_cost": 324.00,
+      "hotdog": 7.35,
+      "beer": 13.65,
+      "data_computed": true
+    },
+    {
+      "team": "Orlando Magic",
+      "food_and_drink": 21.00,
+      "tickets": 145.00,
+      "total_cost": 168.00,
+      "hotdog": 8.99,
+      "beer": 11.99,
+      "data_computed": false
+    },
+    {
+      "team": "Phoenix Suns",
+      "food_and_drink": 21.00,
+      "tickets": 223.00,
+      "total_cost": 246.00,
+      "hotdog": 7.35,
+      "beer": 13.65,
+      "data_computed": true
+    },
+    {
+      "team": "Chicago Bulls",
+      "food_and_drink": 22.00,
+      "tickets": 282.00,
+      "total_cost": 307.00,
+      "hotdog": 7.50,
+      "beer": 15.75,
+      "data_computed": false
+    },
+    {
+      "team": "Sacramento Kings",
+      "food_and_drink": 22.00,
+      "tickets": 181.00,
+      "total_cost": 206.00,
+      "hotdog": 7.70,
+      "beer": 14.30,
+      "data_computed": true
+    },
+    {
+      "team": "Houston Rockets",
+      "food_and_drink": 22.00,
+      "tickets": 196.00,
+      "total_cost": 220.00,
+      "hotdog": 7.70,
+      "beer": 14.30,
+      "data_computed": true
+    },
+    {
+      "team": "Minnesota Timberwolves",
+      "food_and_drink": 22.00,
+      "tickets": 188.00,
+      "total_cost": 212.00,
+      "hotdog": 7.70,
+      "beer": 14.30,
+      "data_computed": true
+    },
+    {
+      "team": "Portland Trail Blazers",
+      "food_and_drink": 22.00,
+      "tickets": 193.00,
+      "total_cost": 218.00,
+      "hotdog": 7.70,
+      "beer": 14.30,
+      "data_computed": true
+    },
+    {
+      "team": "Atlanta Hawks",
+      "food_and_drink": 23.00,
+      "tickets": 200.00,
+      "total_cost": 226.00,
+      "hotdog": 8.05,
+      "beer": 14.95,
+      "data_computed": true
+    },
+    {
+      "team": "Dallas Mavericks",
+      "food_and_drink": 23.00,
+      "tickets": 256.00,
+      "total_cost": 282.00,
+      "hotdog": 8.05,
+      "beer": 14.95,
+      "data_computed": true
+    },
+    {
+      "team": "Denver Nuggets",
+      "food_and_drink": 23.00,
+      "tickets": 242.00,
+      "total_cost": 268.00,
+      "hotdog": 6.50,
+      "beer": 17.32,
+      "data_computed": false
+    },
+    {
+      "team": "Washington Wizards",
+      "food_and_drink": 24.00,
+      "tickets": 214.00,
+      "total_cost": 241.00,
+      "hotdog": 8.40,
+      "beer": 15.60,
+      "data_computed": true
+    },
+    {
+      "team": "Miami Heat",
+      "food_and_drink": 25.00,
+      "tickets": 350.00,
+      "total_cost": 375.00,
+      "hotdog": 8.75,
+      "beer": 16.25,
+      "data_computed": true
+    },
+    {
+      "team": "Brooklyn Nets",
+      "food_and_drink": 25.00,
+      "tickets": 230.00,
+      "total_cost": 258.00,
+      "hotdog": 7.42,
+      "beer": 15.47,
+      "data_computed": false
+    },
+    {
+      "team": "Toronto Raptors",
+      "food_and_drink": 25.00,
+      "tickets": 371.00,
+      "total_cost": 400.00,
+      "hotdog": 8.75,
+      "beer": 16.25,
+      "data_computed": true
+    },
+    {
+      "team": "Boston Celtics",
+      "food_and_drink": 26.00,
+      "tickets": 437.00,
+      "total_cost": 465.00,
+      "hotdog": 6.65,
+      "beer": 20.32,
+      "data_computed": false
+    },
+    {
+      "team": "LA Clippers",
+      "food_and_drink": 26.00,
+      "tickets": 279.00,
+      "total_cost": 308.00,
+      "hotdog": 8.00,
+      "beer": 13.50,
+      "data_computed": false
+    },
+    {
+      "team": "Los Angeles Lakers",
+      "food_and_drink": 27.00,
+      "tickets": 445.00,
+      "total_cost": 474.00,
+      "hotdog": 11.50,
+      "beer": 14.39,
+      "data_computed": false
+    },
+    {
+      "team": "New York Knicks",
+      "food_and_drink": 28.00,
+      "tickets": 649.00,
+      "total_cost": 677.00,
+      "hotdog": 9.20,
+      "beer": 16.11,
+      "data_computed": false
+    },
+    {
+      "team": "Golden State Warriors",
+      "food_and_drink": 29.00,
+      "tickets": 485.00,
+      "total_cost": 517.00,
+      "hotdog": 10.50,
+      "beer": 17.00,
+      "data_computed": false
+    }
+  ]
+}
