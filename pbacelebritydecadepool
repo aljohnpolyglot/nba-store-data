@@ -1,0 +1,898 @@
+{
+  "summary": {
+    "sourceFile": "pba_celebrity_decade_pools.json",
+    "total": 100,
+    "foundImages": 82,
+    "pageOnly": 17,
+    "missing": 1,
+    "skipped": 0,
+    "reusedDuplicateRecords": 0,
+    "failed": 0,
+    "directFileWrite": true,
+    "directWriteFailed": false,
+    "writableClosed": true,
+    "completedAt": "2026-07-29T21:12:03.128Z"
+  },
+  "records": [
+    {
+      "index": 0,
+      "name": "Richard Gomez",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Richard Gomez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Richard_Gomez",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Rep._Richard_Gomez%2C_DPA_%2820th_Congress%29.jpg"
+    },
+    {
+      "index": 1,
+      "name": "Joey Marquez",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Joey Marquez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joey_Marquez"
+    },
+    {
+      "index": 2,
+      "name": "Ronnie Ricketts",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Ronnie Ricketts",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ronnie_Ricketts"
+    },
+    {
+      "index": 3,
+      "name": "Monsour del Rosario",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Monsour del Rosario",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Monsour_del_Rosario",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Monsour_Del_Rosario_III_2016.jpg"
+    },
+    {
+      "index": 4,
+      "name": "Jestoni Alarcon",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Jestoni Alarcon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jestoni_Alarcon",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Jestoni_Alarcon%2C_Official_Portrait_2025.jpg"
+    },
+    {
+      "index": 5,
+      "name": "Gabby Concepcion",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Gabby Concepcion",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gabby_Concepcion",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Gabby_Concepcion_at_the_KC_Concepcion_Live_US_Concert_Tour%2C_November_2010.jpg"
+    },
+    {
+      "index": 6,
+      "name": "Aga Muhlach",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Aga Muhlach",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aga_Muhlach",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Aga_Muhlach_Uninvited_2024_film4.jpg"
+    },
+    {
+      "index": 7,
+      "name": "Albert Martinez",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Albert Martinez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Albert_Martinez"
+    },
+    {
+      "index": 8,
+      "name": "Cesar Montano",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Cesar Montano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cesar_Montano",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/2017_Cesar_Montano_as_COO_of_TPB.jpg"
+    },
+    {
+      "index": 9,
+      "name": "Edu Manzano",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Edu Manzano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Edu_Manzano",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Eduardo_Manzano.jpg"
+    },
+    {
+      "index": 10,
+      "name": "Philip Salvador",
+      "decade": "1980s",
+      "status": "not-found"
+    },
+    {
+      "index": 11,
+      "name": "Rudy Fernandez",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Rudy Fernandez (actor)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rudy_Fernandez_(actor)"
+    },
+    {
+      "index": 12,
+      "name": "Gary Valenciano",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Gary Valenciano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Valenciano",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Gary_Valenciano_in_Toronto_2014_02.jpg"
+    },
+    {
+      "index": 13,
+      "name": "Martin Nievera",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Martin Nievera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Nievera",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Martin_Nievera_by_Arthur_Comia.jpg"
+    },
+    {
+      "index": 14,
+      "name": "Randy Santiago",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Randy Santiago",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Randy_Santiago"
+    },
+    {
+      "index": 15,
+      "name": "Francis Magalona",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Francis Magalona",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francis_Magalona",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Francis_Magalona.jpg"
+    },
+    {
+      "index": 16,
+      "name": "Lydia de Vega",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Lydia de Vega",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lydia_de_Vega",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/3rd_Batch_of_Inductees_to_Philippine_Sports_Hall_of_Fame_2018.jpg/1280px-3rd_Batch_of_Inductees_to_Philippine_Sports_Hall_of_Fame_2018.jpg"
+    },
+    {
+      "index": 17,
+      "name": "Elma Muros-Posadas",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Elma Muros",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elma_Muros"
+    },
+    {
+      "index": 18,
+      "name": "Lea Salonga",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Lea Salonga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lea_Salonga",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/LeaSalonga-byPhilipRomano_%28cropped%29.jpg"
+    },
+    {
+      "index": 19,
+      "name": "Sharon Cuneta",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Sharon Cuneta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sharon_Cuneta",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Sharon_Cuneta_performing_%22Love_Again%22_in_2019.jpg"
+    },
+    {
+      "index": 20,
+      "name": "Robin Padilla",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Robin Padilla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robin_Padilla",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Senator_Robin_Padilla_%282023%29_%28cropped%29.jpg"
+    },
+    {
+      "index": 21,
+      "name": "Jericho Rosales",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Jericho Rosales",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jericho_Rosales",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/JVR.jpg"
+    },
+    {
+      "index": 22,
+      "name": "Piolo Pascual",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Piolo Pascual",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Piolo_Pascual",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Piolo_Pascual_at_the_Star_Magic_Concert_Tour_in_Ontario%2C_CA%2C_June_2009.jpg"
+    },
+    {
+      "index": 23,
+      "name": "Diether Ocampo",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Diether Ocampo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diether_Ocampo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/DILG_Disiplina_Muna_Ambassador_Diether_Ocampo_Promoting_Safety_Seal.jpg"
+    },
+    {
+      "index": 24,
+      "name": "Dominic Ochoa",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Dominic Ochoa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dominic_Ochoa"
+    },
+    {
+      "index": 25,
+      "name": "Vhong Navarro",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Vhong Navarro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vhong_Navarro",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Vhong_Navarro_at_ABS-CBN_Ball_2023_%284%29.jpg"
+    },
+    {
+      "index": 26,
+      "name": "Jhong Hilario",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Jhong Hilario",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jhong_Hilario",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Hon._Virgilio_V._Hilario%2C_Jr.png"
+    },
+    {
+      "index": 27,
+      "name": "Carlos Agassi",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Carlos Agassi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Agassi"
+    },
+    {
+      "index": 28,
+      "name": "Dingdong Dantes",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Dingdong Dantes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dingdong_Dantes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Dingdong_Dantes_-_2014_%28cropped%29.jpg"
+    },
+    {
+      "index": 29,
+      "name": "Ogie Alcasid",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Ogie Alcasid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ogie_Alcasid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ogie_Alcasid_-_2012.jpg"
+    },
+    {
+      "index": 30,
+      "name": "Andrew E.",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Andrew E.",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_E.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Andrew_E._at_the_2024_Bagong_Pilipinas_Serbisyo_Fair_cropped.jpg"
+    },
+    {
+      "index": 31,
+      "name": "Michael V.",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Michael V.",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_V.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bitoy_in_eatbulaga.jpg"
+    },
+    {
+      "index": 32,
+      "name": "Bayani Agbayani",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Bayani Agbayani",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bayani_Agbayani",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bayani_Agbayani_KorinaInterviews.jpg"
+    },
+    {
+      "index": 33,
+      "name": "Willie Revillame",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Willie Revillame",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Willie_Revillame",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Willie_Revillame_files_his_candidacy_for_Senator_%2810-08-2024%29_%28cropped%29.jpg"
+    },
+    {
+      "index": 34,
+      "name": "Anjo Yllana",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Anjo Yllana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anjo_Yllana",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/7700jfQuezon_City_Hall_Manila_Legislativefvf_30.JPG/1280px-7700jfQuezon_City_Hall_Manila_Legislativefvf_30.JPG"
+    },
+    {
+      "index": 35,
+      "name": "Smokey Manaloto",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Smokey Manaloto",
+      "wikipediaUrl": "https://tl.wikipedia.org/wiki/Smokey_Manaloto"
+    },
+    {
+      "index": 36,
+      "name": "Manny Pacquiao",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Manny Pacquiao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manny_Pacquiao",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Former_senator_Manny_Pacquiao_speaks_in_event_%2810-01-2025%29_%28cropped%29.jpg"
+    },
+    {
+      "index": 37,
+      "name": "Onyok Velasco",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Onyok Velasco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Onyok_Velasco",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Mansueto_Velasco_2017_stamp_of_the_Philippines.jpg"
+    },
+    {
+      "index": 38,
+      "name": "Charlene Gonzales",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Charlene Gonzales",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Charlene_Gonzales",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Charlene_Gonzales.jpg"
+    },
+    {
+      "index": 39,
+      "name": "Ina Raymundo",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Ina Raymundo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ina_Raymundo"
+    },
+    {
+      "index": 40,
+      "name": "Gerald Anderson",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Gerald Anderson",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gerald_Anderson",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/GERALD_ANDERSON_2014_%28cropped%29.jpg"
+    },
+    {
+      "index": 41,
+      "name": "Derek Ramsay",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Derek Ramsay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Derek_Ramsay",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Derek_Ramsay_at_the_KC_Concepcion_Live_Concert_Press_Conference%2C_November_2010.jpg"
+    },
+    {
+      "index": 42,
+      "name": "Sam Milby",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Sam Milby",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sam_Milby",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Sam_Milby_by_Ronn_Tan%2C_April_2010.png"
+    },
+    {
+      "index": 43,
+      "name": "Zanjoe Marudo",
+      "decade": "2000s",
+      "status": "page-no-image",
+      "resolvedTitle": "Zanjoe Marudo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zanjoe_Marudo"
+    },
+    {
+      "index": 44,
+      "name": "Enchong Dee",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Enchong Dee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Enchong_Dee",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Enchong_Dee_from_%22The_Fisher%22_at_Red_Carpet_of_the_Tokyo_International_Film_Festival_2023_%2853348506485%29.jpg"
+    },
+    {
+      "index": 45,
+      "name": "Rayver Cruz",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Rayver Cruz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rayver_Cruz",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Rayver_Cruz_Dilim_The_Making.jpg"
+    },
+    {
+      "index": 46,
+      "name": "Billy Crawford",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Billy Crawford",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Billy_Crawford",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Billy_Crawford%2C_2018_%28cropped%29.jpg"
+    },
+    {
+      "index": 47,
+      "name": "John Prats",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "John Prats",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/John_Prats",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Prats_in_2013-_2014-05-18_19-50.png"
+    },
+    {
+      "index": 48,
+      "name": "Marc Nelson",
+      "decade": "2000s",
+      "status": "page-no-image",
+      "resolvedTitle": "Marc Nelson (entertainer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marc_Nelson_(entertainer)"
+    },
+    {
+      "index": 49,
+      "name": "Rovilson Fernandez",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Rovilson Fernandez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rovilson_Fernandez",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Rovilson_Fernandez.jpg"
+    },
+    {
+      "index": 50,
+      "name": "JC de Vera",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "JC de Vera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/JC_de_Vera",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Shake%2C_Rattle_and_Roll_XV_Official_Trailer_-_JC_de_Vera.jpg"
+    },
+    {
+      "index": 51,
+      "name": "Wendell Ramos",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Wendell Ramos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wendell_Ramos",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Wendell_%282251378393%29.jpg"
+    },
+    {
+      "index": 52,
+      "name": "Jake Cuenca",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Jake Cuenca",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jake_Cuenca",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Jakejf1505.JPG"
+    },
+    {
+      "index": 53,
+      "name": "Apl.de.ap",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Apl.de.ap",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Apl.de.ap",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Apl.de.ap_at_San_Diego_Comic_Con_2026.jpg"
+    },
+    {
+      "index": 54,
+      "name": "Young JV",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Young JV",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Young_JV",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Young_JV_%40_Adamson_-_Flickr_%28cropped%29.jpg"
+    },
+    {
+      "index": 55,
+      "name": "Efren Reyes",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Efren Reyes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Efren_Reyes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Efren_Reyes_in_the_World_9-Ball_Pool_Championship_%282%29.jpg"
+    },
+    {
+      "index": 56,
+      "name": "Angel Locsin",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Angel Locsin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Angel_Locsin",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Angel_Locsin_at_the_premiere_of_Love_Me_Again_in_LA%2C_December_2008.jpg"
+    },
+    {
+      "index": 57,
+      "name": "Anne Curtis",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Anne Curtis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anne_Curtis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Anne_Curtis_%282009%29.jpg"
+    },
+    {
+      "index": 58,
+      "name": "Dyan Castillejo",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Dyan Castillejo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dyan_Castillejo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Dyan_Castillejo_%28cropped%29.png"
+    },
+    {
+      "index": 59,
+      "name": "Miriam Quiambao",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Miriam Quiambao",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Miriam_Quiambao",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Miriam_Quiambao%2C_2009_%28cropped%29.jpg"
+    },
+    {
+      "index": 60,
+      "name": "Daniel Padilla",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Daniel Padilla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Padilla",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Daniel_Padilla_at_Celebrate_Mega_in_Iceland_2016_%286%29.jpg"
+    },
+    {
+      "index": 61,
+      "name": "James Reid",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "James Reid (actor)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Reid_(actor)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/JAMES_REID_MINT_PERFUME_HOLIDAYS_2015_%2826253072737%29_%28cropped%29.jpg"
+    },
+    {
+      "index": 62,
+      "name": "Enrique Gil",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Enrique Gil",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Enrique_Gil",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Enrique_Gil_in_Toronto_2014_02.jpg"
+    },
+    {
+      "index": 63,
+      "name": "Matteo Guidicelli",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Matteo Guidicelli",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Matteo_Guidicelli",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/IPOPHL_welcomes_Matteo_Guidicelli_as_newest_anti-piracy_ambassador.jpg"
+    },
+    {
+      "index": 64,
+      "name": "McCoy de Leon",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "McCoy de Leon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/McCoy_de_Leon",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Floats_of_the_48th_Metro_Manila_Festival_Parade_of_Stars_23.jpg"
+    },
+    {
+      "index": 65,
+      "name": "Joshua Garcia",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Joshua Garcia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joshua_Garcia",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/Garcia_in_2024.jpg"
+    },
+    {
+      "index": 66,
+      "name": "Xian Lim",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Xian Lim",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Xian_Lim",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/XIAN_LIM_%2840393132714%29_%28cropped%29.jpg"
+    },
+    {
+      "index": 67,
+      "name": "Aljur Abrenica",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Aljur Abrenica",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aljur_Abrenica",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Aljur_Abrenica_at_SM_City_Gensan_%28P._Jones_pic%29_-_Flickr_%28cropped%29.jpg"
+    },
+    {
+      "index": 68,
+      "name": "Ejay Falcon",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Ejay Falcon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ejay_Falcon",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ejay_Falcon_In_2022_after_Taking_His_Oath_as_Vice_Governor.jpg"
+    },
+    {
+      "index": 69,
+      "name": "Coco Martin",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Coco Martin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Coco_Martin",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Floats_of_the_48th_Metro_Manila_Film_Festival_Festival_Parade_of_Stars_27.jpg"
+    },
+    {
+      "index": 70,
+      "name": "Paulo Avelino",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Paulo Avelino",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paulo_Avelino",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Paulo_Avelino_at_the_2015_Gapan_City_Tsinelas_Festivaljf.jpg"
+    },
+    {
+      "index": 71,
+      "name": "Elmo Magalona",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Elmo Magalona",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elmo_Magalona",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Elmo_Magalona_and_Korina_Sanchez_%282020%29_%28cropped%29.jpg"
+    },
+    {
+      "index": 72,
+      "name": "Gerald Napoles",
+      "decade": "2010s",
+      "status": "page-no-image",
+      "resolvedTitle": "Jerald",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jerald"
+    },
+    {
+      "index": 73,
+      "name": "Ion Perez",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Ion Perez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ion_Perez",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Ion_Perez_COC_2025.jpg"
+    },
+    {
+      "index": 74,
+      "name": "Phil Younghusband",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Phil Younghusband",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Phil_Younghusband",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Phil_Younghusband_Davao_Aguilas.jpg"
+    },
+    {
+      "index": 75,
+      "name": "Hidilyn Diaz",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Hidilyn Diaz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hidilyn_Diaz",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hidilyn_Diaz_with_her_gold_medal_2021_%281-44_screenshot%29.jpg"
+    },
+    {
+      "index": 76,
+      "name": "Alyssa Valdez",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Alyssa Valdez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alyssa_Valdez",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/2025_PVL_IC_Creamline_AlyssaValdez_1.jpg"
+    },
+    {
+      "index": 77,
+      "name": "Gretchen Ho",
+      "decade": "2010s",
+      "status": "page-no-image",
+      "resolvedTitle": "Gretchen Ho",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gretchen_Ho"
+    },
+    {
+      "index": 78,
+      "name": "Pia Wurtzbach",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Pia Wurtzbach",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pia_Wurtzbach",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Pia_Wurtzbach_-_2019_%28cropped%29.jpg"
+    },
+    {
+      "index": 79,
+      "name": "Kim Chiu",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Kim Chiu",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kim_Chiu",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Kim_Chiu_in_2025.png"
+    },
+    {
+      "index": 80,
+      "name": "Donny Pangilinan",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Donny Pangilinan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Donny_Pangilinan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Donny_Pangilinan.jpg"
+    },
+    {
+      "index": 81,
+      "name": "Kyle Echarri",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Kyle Echarri",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kyle_Echarri",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Kyle_Echarri_in_Tarlac.jpg"
+    },
+    {
+      "index": 82,
+      "name": "Seth Fedelin",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Seth Fedelin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Seth_Fedelin",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/81/Seth_Fedelin_My_Future_You_50tk_Metro_Manila_Film_Festival10.jpg"
+    },
+    {
+      "index": 83,
+      "name": "Mavy Legaspi",
+      "decade": "2020s",
+      "status": "page-no-image",
+      "resolvedTitle": "Mavy Legaspi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mavy_Legaspi"
+    },
+    {
+      "index": 84,
+      "name": "Jeremiah Lisbo",
+      "decade": "2020s",
+      "status": "page-no-image",
+      "resolvedTitle": "Jeremiah Lisbo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jeremiah_Lisbo"
+    },
+    {
+      "index": 85,
+      "name": "David Licauco",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "David Licauco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/David_Licauco",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/David_Licauco_at_the_Miss_World_Philippines_2022.jpg"
+    },
+    {
+      "index": 86,
+      "name": "Ronnie Alonte",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Ronnie Alonte",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ronnie_Alonte",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Ronnie_Alonte_12-22-16.jpg"
+    },
+    {
+      "index": 87,
+      "name": "Alden Richards",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Alden Richards",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alden_Richards",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Alden_Richards_in_Family_of_Two_2023_MMFF.png"
+    },
+    {
+      "index": 88,
+      "name": "Ruru Madrid",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Ruru Madrid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruru_Madrid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Facing_up_Ruru_Madrid_Green_Bones8.jpg"
+    },
+    {
+      "index": 89,
+      "name": "Jak Roberto",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Jak Roberto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jak_Roberto",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Jak_Roberto_at_the_Meant_to_Be_production_presentation.jpg"
+    },
+    {
+      "index": 90,
+      "name": "Cong TV",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Cong TV",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cong_TV",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/CongTV%2C_photo_with_Angelo6397%2C_cropped.png"
+    },
+    {
+      "index": 91,
+      "name": "Wil Dasovich",
+      "decade": "2020s",
+      "status": "page-no-image",
+      "resolvedTitle": "Wil Dasovich",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wil_Dasovich"
+    },
+    {
+      "index": 92,
+      "name": "Bretman Rock",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Bretman Rock",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bretman_Rock",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bretman_Rock_2019.jpg"
+    },
+    {
+      "index": 93,
+      "name": "Robi Domingo",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Robi Domingo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Robi_Domingo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Robi_Domingo_2022_%28cropped%29.jpg"
+    },
+    {
+      "index": 94,
+      "name": "Carlos Yulo",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Carlos Yulo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carlos_Yulo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Carlos_Yulo-20240813-FilOlympians-ph8-1_%28cropped%29.jpg"
+    },
+    {
+      "index": 95,
+      "name": "EJ Obiena",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "EJ Obiena",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/EJ_Obiena",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bongbong_Marcos_with_EJ_Obiena_%28cropped%29.jpg"
+    },
+    {
+      "index": 96,
+      "name": "Margielyn Didal",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Margielyn Didal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Margielyn_Didal",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Hey._it%27s_Margie.jpg"
+    },
+    {
+      "index": 97,
+      "name": "Nesthy Petecio",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Nesthy Petecio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nesthy_Petecio",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Petecio_2024.jpg"
+    },
+    {
+      "index": 98,
+      "name": "Sisi Rondina",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Sisi Rondina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sisi_Rondina",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Sisi_Rondina_at_Ninoy_Aquino_Stadium%2C_July_2024.jpg"
+    },
+    {
+      "index": 99,
+      "name": "Michelle Dee",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Michelle Dee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michelle_Dee",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Michelle_Marquez_Dee_in_2026.png"
+    }
+  ]
+}
