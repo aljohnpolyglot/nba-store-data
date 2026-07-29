@@ -1,0 +1,2587 @@
+{
+  "summary": {
+    "sourceFile": "pba_invite_performance_artists.json",
+    "total": 300,
+    "foundImages": 166,
+    "pageOnly": 124,
+    "missing": 10,
+    "skipped": 0,
+    "reusedDuplicateRecords": 75,
+    "failed": 0,
+    "directFileWrite": true,
+    "directWriteFailed": false,
+    "completedAt": "2026-07-29T13:09:32.162Z"
+  },
+  "records": [
+    {
+      "index": 0,
+      "name": "Pilita Corrales",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Pilita Corrales",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pilita_Corrales",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pilita_Corrales_-_2017.jpg"
+    },
+    {
+      "index": 1,
+      "name": "Nora Aunor",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Nora Aunor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nora_Aunor",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Nora_Aunor_at_the_69th_Venice_International_Film_Festival%2C_September_2012.jpg"
+    },
+    {
+      "index": 2,
+      "name": "Vilma Santos",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Vilma Santos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vilma_Santos",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Governor_Vilma_Santos%2C_Official_portrait_2025.jpg"
+    },
+    {
+      "index": 3,
+      "name": "Eddie Peregrina",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Eddie Peregrina",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eddie_Peregrina",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Eddie_Peregrina_Majalah_Varianada_Edisi_77_Tahun_1972.jpg"
+    },
+    {
+      "index": 4,
+      "name": "Victor Wood",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Victor Wood",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Victor_Wood"
+    },
+    {
+      "index": 5,
+      "name": "Diomedes Maturan",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Diomedes Maturan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diomedes_Maturan"
+    },
+    {
+      "index": 6,
+      "name": "Sylvia La Torre",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Sylvia La Torre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sylvia_La_Torre"
+    },
+    {
+      "index": 7,
+      "name": "Mabuhay Singers",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Mabuhay Singers",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mabuhay_Singers"
+    },
+    {
+      "index": 8,
+      "name": "Fred Panopio",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Fred Panopio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fred_Panopio"
+    },
+    {
+      "index": 9,
+      "name": "Yoyoy Villame",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Yoyoy Villame",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yoyoy_Villame"
+    },
+    {
+      "index": 10,
+      "name": "Tirso Cruz III",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Tirso Cruz III",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tirso_Cruz_III",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/FDCP_-_Tirso_Cruz_III.jpg"
+    },
+    {
+      "index": 11,
+      "name": "Apo Hiking Society",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Apo Hiking Society",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Apo_Hiking_Society",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/APO_Hiking_Society_performing_in_May_2010.jpg"
+    },
+    {
+      "index": 12,
+      "name": "Hotdog (band)",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Hotdog (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hotdog_(band)"
+    },
+    {
+      "index": 13,
+      "name": "Cinderella (Filipino band)",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Cinderella (Filipino band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cinderella_(Filipino_band)"
+    },
+    {
+      "index": 14,
+      "name": "VST & Company",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "VST & Company",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/VST_%26_Company"
+    },
+    {
+      "index": 15,
+      "name": "Boyfriends (Filipino band)",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Boyfriends (Filipino band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Boyfriends_(Filipino_band)"
+    },
+    {
+      "index": 16,
+      "name": "Hagibis (band)",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Hagibis (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hagibis_(band)"
+    },
+    {
+      "index": 17,
+      "name": "Rico J. Puno",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Rico J. Puno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rico_J._Puno",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Rico_J._Puno_in_2016.jpg"
+    },
+    {
+      "index": 18,
+      "name": "Hajji Alejandro",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Hajji Alejandro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hajji_Alejandro",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Hajji_Alejandro_in_2024_%28cropped%29.png"
+    },
+    {
+      "index": 19,
+      "name": "Basil Valdez",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Basil Valdez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Basil_Valdez"
+    },
+    {
+      "index": 20,
+      "name": "Celeste Legaspi",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Celeste Legaspi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Celeste_Legaspi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Celeste_Legaspi_2021_-_Metropolitan_Theater_90th_Anniversary_%28cropped%29.jpg"
+    },
+    {
+      "index": 21,
+      "name": "Leah Navarro",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Leah Navarro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leah_Navarro",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Leah_Navarro_2025.jpg"
+    },
+    {
+      "index": 22,
+      "name": "Rey Valera",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Rey Valera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rey_Valera",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/82/Rey-valera.jpg"
+    },
+    {
+      "index": 23,
+      "name": "Freddie Aguilar",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Freddie Aguilar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Freddie_Aguilar",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Freddie-_aguilar.jpg"
+    },
+    {
+      "index": 24,
+      "name": "Florante (singer)",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Florante",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Florante"
+    },
+    {
+      "index": 25,
+      "name": "Asin (band)",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Asin (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Asin_(band)"
+    },
+    {
+      "index": 26,
+      "name": "Sampaguita (singer)",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Sampaguita (singer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sampaguita_(singer)"
+    },
+    {
+      "index": 27,
+      "name": "Juan de la Cruz Band",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Juan de la Cruz Band",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_de_la_Cruz_Band"
+    },
+    {
+      "index": 28,
+      "name": "Mike Hanopol",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Mike Hanopol",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Hanopol"
+    },
+    {
+      "index": 29,
+      "name": "Pepe Smith",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Pepe Smith",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pepe_Smith",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Pepe_Smith_%282008%29.jpg"
+    },
+    {
+      "index": 30,
+      "name": "Wally Gonzalez",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Wally Gonzalez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wally_Gonzalez"
+    },
+    {
+      "index": 31,
+      "name": "Maria Cafra",
+      "decade": "1970s",
+      "status": "not-found"
+    },
+    {
+      "index": 32,
+      "name": "Coritha",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Coritha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Coritha"
+    },
+    {
+      "index": 33,
+      "name": "Didith Reyes",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Didith Reyes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Didith_Reyes"
+    },
+    {
+      "index": 34,
+      "name": "Claire dela Fuente",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Claire dela Fuente",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claire_dela_Fuente"
+    },
+    {
+      "index": 35,
+      "name": "Imelda Papin",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Imelda Papin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Imelda_Papin",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Imelda_Papin_%28cropped%29.jpg"
+    },
+    {
+      "index": 36,
+      "name": "Anthony Castelo",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Anthony Castelo",
+      "wikipediaUrl": "https://tl.wikipedia.org/wiki/Anthony_Castelo"
+    },
+    {
+      "index": 37,
+      "name": "Marco Sison",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Marco Sison",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marco_Sison",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Marco_Sison.jpg"
+    },
+    {
+      "index": 38,
+      "name": "Nonoy Zuñiga",
+      "decade": "1970s",
+      "status": "image-found",
+      "resolvedTitle": "Nonoy Zuñiga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nonoy_Zu%C3%B1iga",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Nonoy_Zu%C3%B1iga_in_January_2026.jpg"
+    },
+    {
+      "index": 39,
+      "name": "Dulce (singer)",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Dulce",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dulce"
+    },
+    {
+      "index": 40,
+      "name": "The New Minstrels",
+      "decade": "1970s",
+      "status": "not-found"
+    },
+    {
+      "index": 41,
+      "name": "Circus Band (Filipino band)",
+      "decade": "1970s",
+      "status": "not-found"
+    },
+    {
+      "index": 42,
+      "name": "Pat Castillo",
+      "decade": "1970s",
+      "status": "not-found"
+    },
+    {
+      "index": 43,
+      "name": "Jun Polistico",
+      "decade": "1970s",
+      "status": "not-found"
+    },
+    {
+      "index": 44,
+      "name": "Ella del Rosario",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Ella del Rosario",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ella_del_Rosario"
+    },
+    {
+      "index": 45,
+      "name": "Yolly Samson",
+      "decade": "1970s",
+      "status": "not-found"
+    },
+    {
+      "index": 46,
+      "name": "Eva Eugenio",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Eva Eugenio",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eva_Eugenio"
+    },
+    {
+      "index": 47,
+      "name": "Bing Rodrigo",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Bing Rodrigo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bing_Rodrigo"
+    },
+    {
+      "index": 48,
+      "name": "Carmen Soriano",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Carmen Soriano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carmen_Soriano"
+    },
+    {
+      "index": 49,
+      "name": "Bert Dominic",
+      "decade": "1970s",
+      "status": "page-no-image",
+      "resolvedTitle": "Bert Dominic",
+      "wikipediaUrl": "https://tl.wikipedia.org/wiki/Bert_Dominic"
+    },
+    {
+      "index": 50,
+      "name": "Pilita Corrales",
+      "decade": "1980s",
+      "status": "cached-image",
+      "resolvedTitle": "Pilita Corrales",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pilita_Corrales",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pilita_Corrales_-_2017.jpg"
+    },
+    {
+      "index": 51,
+      "name": "Nora Aunor",
+      "decade": "1980s",
+      "status": "cached-image",
+      "resolvedTitle": "Nora Aunor",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nora_Aunor",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Nora_Aunor_at_the_69th_Venice_International_Film_Festival%2C_September_2012.jpg"
+    },
+    {
+      "index": 52,
+      "name": "Apo Hiking Society",
+      "decade": "1980s",
+      "status": "cached-image",
+      "resolvedTitle": "Apo Hiking Society",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Apo_Hiking_Society",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/APO_Hiking_Society_performing_in_May_2010.jpg"
+    },
+    {
+      "index": 53,
+      "name": "Rico J. Puno",
+      "decade": "1980s",
+      "status": "cached-image",
+      "resolvedTitle": "Rico J. Puno",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rico_J._Puno",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Rico_J._Puno_in_2016.jpg"
+    },
+    {
+      "index": 54,
+      "name": "Hajji Alejandro",
+      "decade": "1980s",
+      "status": "cached-image",
+      "resolvedTitle": "Hajji Alejandro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hajji_Alejandro",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Hajji_Alejandro_in_2024_%28cropped%29.png"
+    },
+    {
+      "index": 55,
+      "name": "Basil Valdez",
+      "decade": "1980s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Basil Valdez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Basil_Valdez",
+      "imageUrl": null
+    },
+    {
+      "index": 56,
+      "name": "Celeste Legaspi",
+      "decade": "1980s",
+      "status": "cached-image",
+      "resolvedTitle": "Celeste Legaspi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Celeste_Legaspi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Celeste_Legaspi_2021_-_Metropolitan_Theater_90th_Anniversary_%28cropped%29.jpg"
+    },
+    {
+      "index": 57,
+      "name": "Leah Navarro",
+      "decade": "1980s",
+      "status": "cached-image",
+      "resolvedTitle": "Leah Navarro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leah_Navarro",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Leah_Navarro_2025.jpg"
+    },
+    {
+      "index": 58,
+      "name": "Rey Valera",
+      "decade": "1980s",
+      "status": "cached-image",
+      "resolvedTitle": "Rey Valera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rey_Valera",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/82/Rey-valera.jpg"
+    },
+    {
+      "index": 59,
+      "name": "Freddie Aguilar",
+      "decade": "1980s",
+      "status": "cached-image",
+      "resolvedTitle": "Freddie Aguilar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Freddie_Aguilar",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Freddie-_aguilar.jpg"
+    },
+    {
+      "index": 60,
+      "name": "Florante (singer)",
+      "decade": "1980s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Florante",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Florante",
+      "imageUrl": null
+    },
+    {
+      "index": 61,
+      "name": "Asin (band)",
+      "decade": "1980s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Asin (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Asin_(band)",
+      "imageUrl": null
+    },
+    {
+      "index": 62,
+      "name": "Sampaguita (singer)",
+      "decade": "1980s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Sampaguita (singer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sampaguita_(singer)",
+      "imageUrl": null
+    },
+    {
+      "index": 63,
+      "name": "Mike Hanopol",
+      "decade": "1980s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Mike Hanopol",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mike_Hanopol",
+      "imageUrl": null
+    },
+    {
+      "index": 64,
+      "name": "Claire dela Fuente",
+      "decade": "1980s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Claire dela Fuente",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Claire_dela_Fuente",
+      "imageUrl": null
+    },
+    {
+      "index": 65,
+      "name": "Imelda Papin",
+      "decade": "1980s",
+      "status": "cached-image",
+      "resolvedTitle": "Imelda Papin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Imelda_Papin",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Imelda_Papin_%28cropped%29.jpg"
+    },
+    {
+      "index": 66,
+      "name": "Marco Sison",
+      "decade": "1980s",
+      "status": "cached-image",
+      "resolvedTitle": "Marco Sison",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marco_Sison",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Marco_Sison.jpg"
+    },
+    {
+      "index": 67,
+      "name": "Nonoy Zuñiga",
+      "decade": "1980s",
+      "status": "cached-image",
+      "resolvedTitle": "Nonoy Zuñiga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nonoy_Zu%C3%B1iga",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Nonoy_Zu%C3%B1iga_in_January_2026.jpg"
+    },
+    {
+      "index": 68,
+      "name": "Dulce (singer)",
+      "decade": "1980s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Dulce",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dulce",
+      "imageUrl": null
+    },
+    {
+      "index": 69,
+      "name": "Kuh Ledesma",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Kuh Ledesma",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kuh_Ledesma",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kuh_Ledesma_in_2023.jpg"
+    },
+    {
+      "index": 70,
+      "name": "Sharon Cuneta",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Sharon Cuneta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sharon_Cuneta",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Sharon_Cuneta_performing_%22Love_Again%22_in_2019.jpg"
+    },
+    {
+      "index": 71,
+      "name": "Gary Valenciano",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Gary Valenciano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Valenciano",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Gary_Valenciano_in_Toronto_2014_02.jpg"
+    },
+    {
+      "index": 72,
+      "name": "Martin Nievera",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Martin Nievera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Nievera",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Martin_Nievera_by_Arthur_Comia.jpg"
+    },
+    {
+      "index": 73,
+      "name": "Regine Velasquez",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Regine Velasquez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Regine_Velasquez",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/RVA_in_2010_%28cropped%29.jpg"
+    },
+    {
+      "index": 74,
+      "name": "Pops Fernandez",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Pops Fernandez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pops_Fernandez",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Pops_Fernandez_-_2021.jpg"
+    },
+    {
+      "index": 75,
+      "name": "Zsa Zsa Padilla",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Zsa Zsa Padilla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zsa_Zsa_Padilla",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Zsa_Zsa_Padilla_in_2023.jpg"
+    },
+    {
+      "index": 76,
+      "name": "Joey Albert",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Joey Albert",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joey_Albert",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Joey_Albert.png"
+    },
+    {
+      "index": 77,
+      "name": "Odette Quesada",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Odette Quesada",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Odette_Quesada"
+    },
+    {
+      "index": 78,
+      "name": "Ric Segreto",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Ric Segreto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ric_Segreto"
+    },
+    {
+      "index": 79,
+      "name": "Gino Padilla",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Gino Padilla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gino_Padilla"
+    },
+    {
+      "index": 80,
+      "name": "Raymond Lauchengco",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Raymond Lauchengco",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raymond_Lauchengco"
+    },
+    {
+      "index": 81,
+      "name": "Randy Santiago",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Randy Santiago",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Randy_Santiago"
+    },
+    {
+      "index": 82,
+      "name": "Dingdong Avanzado",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Dingdong Avanzado",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dingdong_Avanzado"
+    },
+    {
+      "index": 83,
+      "name": "Ogie Alcasid",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Ogie Alcasid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ogie_Alcasid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ogie_Alcasid_-_2012.jpg"
+    },
+    {
+      "index": 84,
+      "name": "Janno Gibbs",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Janno Gibbs",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Janno_Gibbs"
+    },
+    {
+      "index": 85,
+      "name": "Manilyn Reynes",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Manilyn Reynes",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Manilyn_Reynes"
+    },
+    {
+      "index": 86,
+      "name": "Vina Morales",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Vina Morales",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vina_Morales",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Vina_Morales.jpg"
+    },
+    {
+      "index": 87,
+      "name": "Lea Salonga",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Lea Salonga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lea_Salonga",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/LeaSalonga-byPhilipRomano_%28cropped%29.jpg"
+    },
+    {
+      "index": 88,
+      "name": "Jamie Rivera",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Jamie Rivera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jamie_Rivera",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Singer_Jamie_Rivera_%28cropped%29.jpg"
+    },
+    {
+      "index": 89,
+      "name": "Jose Mari Chan",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Jose Mari Chan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jose_Mari_Chan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Jose_Mari_Chan_%28cropped%29.jpg"
+    },
+    {
+      "index": 90,
+      "name": "The Dawn (band)",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "The Dawn (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Dawn_(band)"
+    },
+    {
+      "index": 91,
+      "name": "Side A (band)",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Side A (group)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Side_A_(group)"
+    },
+    {
+      "index": 92,
+      "name": "Neocolours",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Neocolours",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Neocolours"
+    },
+    {
+      "index": 93,
+      "name": "Introvoys",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Introvoys",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Introvoys"
+    },
+    {
+      "index": 94,
+      "name": "Smokey Mountain (band)",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Smokey Mountain (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Smokey_Mountain_(band)"
+    },
+    {
+      "index": 95,
+      "name": "Joey Ayala",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Joey Ayala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joey_Ayala",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Joey_Ayala.JPG"
+    },
+    {
+      "index": 96,
+      "name": "Grace Nono",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "Grace Nono",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Grace_Nono",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Grace_Nono_%282008%29_%28cropped%29.jpg"
+    },
+    {
+      "index": 97,
+      "name": "Vernie Varga",
+      "decade": "1980s",
+      "status": "page-no-image",
+      "resolvedTitle": "Vernie Varga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vernie_Varga"
+    },
+    {
+      "index": 98,
+      "name": "Ivy Violan",
+      "decade": "1980s",
+      "status": "not-found"
+    },
+    {
+      "index": 99,
+      "name": "The Company (vocal group)",
+      "decade": "1980s",
+      "status": "image-found",
+      "resolvedTitle": "The Company (vocal group)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Company_(vocal_group)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_CompanY.jpg"
+    },
+    {
+      "index": 100,
+      "name": "Gary Valenciano",
+      "decade": "1990s",
+      "status": "cached-image",
+      "resolvedTitle": "Gary Valenciano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Valenciano",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Gary_Valenciano_in_Toronto_2014_02.jpg"
+    },
+    {
+      "index": 101,
+      "name": "Martin Nievera",
+      "decade": "1990s",
+      "status": "cached-image",
+      "resolvedTitle": "Martin Nievera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Nievera",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Martin_Nievera_by_Arthur_Comia.jpg"
+    },
+    {
+      "index": 102,
+      "name": "Regine Velasquez",
+      "decade": "1990s",
+      "status": "cached-image",
+      "resolvedTitle": "Regine Velasquez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Regine_Velasquez",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/RVA_in_2010_%28cropped%29.jpg"
+    },
+    {
+      "index": 103,
+      "name": "Sharon Cuneta",
+      "decade": "1990s",
+      "status": "cached-image",
+      "resolvedTitle": "Sharon Cuneta",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sharon_Cuneta",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Sharon_Cuneta_performing_%22Love_Again%22_in_2019.jpg"
+    },
+    {
+      "index": 104,
+      "name": "Ogie Alcasid",
+      "decade": "1990s",
+      "status": "cached-image",
+      "resolvedTitle": "Ogie Alcasid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ogie_Alcasid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ogie_Alcasid_-_2012.jpg"
+    },
+    {
+      "index": 105,
+      "name": "Janno Gibbs",
+      "decade": "1990s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Janno Gibbs",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Janno_Gibbs",
+      "imageUrl": null
+    },
+    {
+      "index": 106,
+      "name": "Lea Salonga",
+      "decade": "1990s",
+      "status": "cached-image",
+      "resolvedTitle": "Lea Salonga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lea_Salonga",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/LeaSalonga-byPhilipRomano_%28cropped%29.jpg"
+    },
+    {
+      "index": 107,
+      "name": "Jose Mari Chan",
+      "decade": "1990s",
+      "status": "cached-image",
+      "resolvedTitle": "Jose Mari Chan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jose_Mari_Chan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Jose_Mari_Chan_%28cropped%29.jpg"
+    },
+    {
+      "index": 108,
+      "name": "The Company (vocal group)",
+      "decade": "1990s",
+      "status": "cached-image",
+      "resolvedTitle": "The Company (vocal group)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Company_(vocal_group)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_CompanY.jpg"
+    },
+    {
+      "index": 109,
+      "name": "Side A (band)",
+      "decade": "1990s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Side A (group)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Side_A_(group)",
+      "imageUrl": null
+    },
+    {
+      "index": 110,
+      "name": "The Dawn (band)",
+      "decade": "1990s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "The Dawn (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Dawn_(band)",
+      "imageUrl": null
+    },
+    {
+      "index": 111,
+      "name": "Introvoys",
+      "decade": "1990s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Introvoys",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Introvoys",
+      "imageUrl": null
+    },
+    {
+      "index": 112,
+      "name": "Neocolours",
+      "decade": "1990s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Neocolours",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Neocolours",
+      "imageUrl": null
+    },
+    {
+      "index": 113,
+      "name": "Smokey Mountain (band)",
+      "decade": "1990s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Smokey Mountain (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Smokey_Mountain_(band)",
+      "imageUrl": null
+    },
+    {
+      "index": 114,
+      "name": "Joey Ayala",
+      "decade": "1990s",
+      "status": "cached-image",
+      "resolvedTitle": "Joey Ayala",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Joey_Ayala",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Joey_Ayala.JPG"
+    },
+    {
+      "index": 115,
+      "name": "Grace Nono",
+      "decade": "1990s",
+      "status": "cached-image",
+      "resolvedTitle": "Grace Nono",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Grace_Nono",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Grace_Nono_%282008%29_%28cropped%29.jpg"
+    },
+    {
+      "index": 116,
+      "name": "Eraserheads",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Eraserheads",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eraserheads",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Eraserheads-Credit-WEU-Event-Management-Service-HERO%402000x1270.jpg"
+    },
+    {
+      "index": 117,
+      "name": "Rivermaya",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Rivermaya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rivermaya",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/RivermayaNew.jpg"
+    },
+    {
+      "index": 118,
+      "name": "Parokya ni Edgar",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Parokya ni Edgar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Parokya_ni_Edgar",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Fusion_Parokya_ni_Edgar.jpg"
+    },
+    {
+      "index": 119,
+      "name": "Yano (band)",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Yano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yano"
+    },
+    {
+      "index": 120,
+      "name": "Teeth (Filipino band)",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Teeth (Filipino band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Teeth_(Filipino_band)"
+    },
+    {
+      "index": 121,
+      "name": "Color It Red",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Red",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Red",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Delicious_fresh_strawberries_%284735910403%29.jpg"
+    },
+    {
+      "index": 122,
+      "name": "AfterImage (band)",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "AfterImage",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/AfterImage"
+    },
+    {
+      "index": 123,
+      "name": "The Youth (band)",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "The Youth (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Youth_(band)"
+    },
+    {
+      "index": 124,
+      "name": "Wolfgang (band)",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Wolfgang (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wolfgang_(band)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Wolfgang_withfrancis.jpg"
+    },
+    {
+      "index": 125,
+      "name": "Razorback (band)",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Razorback (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Razorback_(band)"
+    },
+    {
+      "index": 126,
+      "name": "Alamid (band)",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Alamid (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alamid_(band)"
+    },
+    {
+      "index": 127,
+      "name": "True Faith (band)",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "True Faith (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/True_Faith_(band)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/True_Faith_%282005%29.jpg"
+    },
+    {
+      "index": 128,
+      "name": "South Border",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "South Border",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Border"
+    },
+    {
+      "index": 129,
+      "name": "Freestyle (Filipino band)",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Freestyle (Filipino band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Freestyle_(Filipino_band)"
+    },
+    {
+      "index": 130,
+      "name": "Aegis (band)",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Aegis (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aegis_(band)"
+    },
+    {
+      "index": 131,
+      "name": "April Boy Regino",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "April Boy Regino",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/April_Boy_Regino"
+    },
+    {
+      "index": 132,
+      "name": "Jaya (singer)",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Jaya (singer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jaya_(singer)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Jaya_%28Singer%29.jpg"
+    },
+    {
+      "index": 133,
+      "name": "Lani Misalucha",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Lani Misalucha",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lani_Misalucha",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Lani_Misalucha_The_Aces_2019.jpg"
+    },
+    {
+      "index": 134,
+      "name": "Donna Cruz",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Donna Cruz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Donna_Cruz"
+    },
+    {
+      "index": 135,
+      "name": "Geneva Cruz",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Geneva Cruz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Geneva_Cruz"
+    },
+    {
+      "index": 136,
+      "name": "Jolina Magdangal",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Jolina Magdangal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jolina_Magdangal",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Jolina_Magdangal_%28cropped%29.jpg"
+    },
+    {
+      "index": 137,
+      "name": "Jessa Zaragoza",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Jessa Zaragoza",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jessa_Zaragoza"
+    },
+    {
+      "index": 138,
+      "name": "Roselle Nava",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Roselle Nava",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Roselle_Nava"
+    },
+    {
+      "index": 139,
+      "name": "Carol Banawa",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Carol Banawa",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Carol_Banawa"
+    },
+    {
+      "index": 140,
+      "name": "Vina Morales",
+      "decade": "1990s",
+      "status": "cached-image",
+      "resolvedTitle": "Vina Morales",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vina_Morales",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Vina_Morales.jpg"
+    },
+    {
+      "index": 141,
+      "name": "Agot Isidro",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Agot Isidro",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agot_Isidro"
+    },
+    {
+      "index": 142,
+      "name": "Dessa (singer)",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Dessa (Filipina singer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dessa_(Filipina_singer)"
+    },
+    {
+      "index": 143,
+      "name": "Wency Cornejo",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Wency Cornejo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wency_Cornejo"
+    },
+    {
+      "index": 144,
+      "name": "Francis Magalona",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Francis Magalona",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Francis_Magalona",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Francis_Magalona.jpg"
+    },
+    {
+      "index": 145,
+      "name": "Andrew E.",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Andrew E.",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Andrew_E.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Andrew_E._at_the_2024_Bagong_Pilipinas_Serbisyo_Fair_cropped.jpg"
+    },
+    {
+      "index": 146,
+      "name": "Michael V.",
+      "decade": "1990s",
+      "status": "image-found",
+      "resolvedTitle": "Michael V.",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Michael_V.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bitoy_in_eatbulaga.jpg"
+    },
+    {
+      "index": 147,
+      "name": "Blakdyak",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Blakdyak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Blakdyak"
+    },
+    {
+      "index": 148,
+      "name": "Slapshock",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Slapshock",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Slapshock"
+    },
+    {
+      "index": 149,
+      "name": "Greyhoundz",
+      "decade": "1990s",
+      "status": "page-no-image",
+      "resolvedTitle": "Greyhoundz",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Greyhoundz"
+    },
+    {
+      "index": 150,
+      "name": "Regine Velasquez",
+      "decade": "2000s",
+      "status": "cached-image",
+      "resolvedTitle": "Regine Velasquez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Regine_Velasquez",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/RVA_in_2010_%28cropped%29.jpg"
+    },
+    {
+      "index": 151,
+      "name": "Gary Valenciano",
+      "decade": "2000s",
+      "status": "cached-image",
+      "resolvedTitle": "Gary Valenciano",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gary_Valenciano",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Gary_Valenciano_in_Toronto_2014_02.jpg"
+    },
+    {
+      "index": 152,
+      "name": "Martin Nievera",
+      "decade": "2000s",
+      "status": "cached-image",
+      "resolvedTitle": "Martin Nievera",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Martin_Nievera",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Martin_Nievera_by_Arthur_Comia.jpg"
+    },
+    {
+      "index": 153,
+      "name": "Ogie Alcasid",
+      "decade": "2000s",
+      "status": "cached-image",
+      "resolvedTitle": "Ogie Alcasid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ogie_Alcasid",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ogie_Alcasid_-_2012.jpg"
+    },
+    {
+      "index": 154,
+      "name": "Lea Salonga",
+      "decade": "2000s",
+      "status": "cached-image",
+      "resolvedTitle": "Lea Salonga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lea_Salonga",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/LeaSalonga-byPhilipRomano_%28cropped%29.jpg"
+    },
+    {
+      "index": 155,
+      "name": "Sarah Geronimo",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Sarah Geronimo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sarah_Geronimo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sarah_G_Dubai_2011.jpg"
+    },
+    {
+      "index": 156,
+      "name": "Bamboo (Filipino band)",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Bamboo (Filipino band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bamboo_(Filipino_band)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Bamboo_band.jpg"
+    },
+    {
+      "index": 157,
+      "name": "Hale (band)",
+      "decade": "2000s",
+      "status": "page-no-image",
+      "resolvedTitle": "Hale (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hale_(band)"
+    },
+    {
+      "index": 158,
+      "name": "Cueshé",
+      "decade": "2000s",
+      "status": "page-no-image",
+      "resolvedTitle": "Cueshé",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cuesh%C3%A9"
+    },
+    {
+      "index": 159,
+      "name": "Sponge Cola",
+      "decade": "2000s",
+      "status": "page-no-image",
+      "resolvedTitle": "Sponge Cola",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sponge_Cola"
+    },
+    {
+      "index": 160,
+      "name": "6cyclemind",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "6cyclemind",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/6cyclemind",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/6cyclemind_Concert_in_Pasacao%2C_Camarines_Sur.jpg"
+    },
+    {
+      "index": 161,
+      "name": "The Itchyworms",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "The Itchyworms",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Itchyworms",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_Itchyworms_2021_Band_Photo.jpg"
+    },
+    {
+      "index": 162,
+      "name": "Silent Sanctuary",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Silent Sanctuary",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Silent_Sanctuary",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Silent_Sanctuary.jpg"
+    },
+    {
+      "index": 163,
+      "name": "Callalily",
+      "decade": "2000s",
+      "status": "page-no-image",
+      "resolvedTitle": "Callalily (album)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Callalily_(album)"
+    },
+    {
+      "index": 164,
+      "name": "Orange and Lemons",
+      "decade": "2000s",
+      "status": "page-no-image",
+      "resolvedTitle": "Orange and Lemons",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Orange_and_Lemons"
+    },
+    {
+      "index": 165,
+      "name": "Rocksteddy",
+      "decade": "2000s",
+      "status": "page-no-image",
+      "resolvedTitle": "Rocksteddy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rocksteddy"
+    },
+    {
+      "index": 166,
+      "name": "Kamikazee",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Kamikazee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamikazee",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kamikazeecornflakes.jpg"
+    },
+    {
+      "index": 167,
+      "name": "Chicosci",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Chicosci",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chicosci",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Chicosci_%282008%29.jpg"
+    },
+    {
+      "index": 168,
+      "name": "Urbandub",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Urbandub",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Urbandub",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Urbandub_deftones_tour_2011.jpg"
+    },
+    {
+      "index": 169,
+      "name": "Imago (band)",
+      "decade": "2000s",
+      "status": "page-no-image",
+      "resolvedTitle": "Imago (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Imago_(band)"
+    },
+    {
+      "index": 170,
+      "name": "Up Dharma Down",
+      "decade": "2000s",
+      "status": "not-found"
+    },
+    {
+      "index": 171,
+      "name": "Moonstar88",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Moonstar88",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moonstar88",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Moonstar88.jpg"
+    },
+    {
+      "index": 172,
+      "name": "Kitchie Nadal",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Kitchie Nadal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kitchie_Nadal",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Kitchie_Nadal_June_09.jpg"
+    },
+    {
+      "index": 173,
+      "name": "Barbie Almalbis",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Barbie Almalbis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Barbie_Almalbis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Barbie_Almalbis.jpg"
+    },
+    {
+      "index": 174,
+      "name": "Nina Girado",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Nina Girado",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nina_Girado",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/OnlyNina_2023.jpg"
+    },
+    {
+      "index": 175,
+      "name": "Kyla (Filipino singer)",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Kyla (Filipino singer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kyla_(Filipino_singer)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kyla_in_Dubai_-_2018.jpg"
+    },
+    {
+      "index": 176,
+      "name": "Sitti",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Sitti",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sitti",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/SittiConcert.jpg"
+    },
+    {
+      "index": 177,
+      "name": "Rachelle Ann Go",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Rachelle Ann Go",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rachelle_Ann_Go",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Rachelle_Ann_Go%2C_2010_%28cropped%29.jpg"
+    },
+    {
+      "index": 178,
+      "name": "Christian Bautista",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Christian Bautista",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Bautista",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Christian_Bautista.jpg"
+    },
+    {
+      "index": 179,
+      "name": "Erik Santos",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Erik Santos",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erik_Santos",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Erik_Santos_-_Chicago_Concert_2008.jpg"
+    },
+    {
+      "index": 180,
+      "name": "Mark Bautista",
+      "decade": "2000s",
+      "status": "page-no-image",
+      "resolvedTitle": "Mark Bautista",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mark_Bautista"
+    },
+    {
+      "index": 181,
+      "name": "Jed Madela",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Jed Madela",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jed_Madela",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jed_Madela_2024.jpg"
+    },
+    {
+      "index": 182,
+      "name": "Yeng Constantino",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Yeng Constantino",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yeng_Constantino",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Yeng_Constantino.png"
+    },
+    {
+      "index": 183,
+      "name": "Sam Concepcion",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Sam Concepcion",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sam_Concepcion",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sam_Concepcion_at_Rob_Magnolia%2C_2013.jpg"
+    },
+    {
+      "index": 184,
+      "name": "Toni Gonzaga",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Toni Gonzaga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Toni_Gonzaga",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/TONI_GONZAGA_%28cropped%29.jpg"
+    },
+    {
+      "index": 185,
+      "name": "Karylle",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Karylle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Karylle",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/Karylle_by_Mickey_Miranda%2C_June_2011.jpg"
+    },
+    {
+      "index": 186,
+      "name": "Jay R",
+      "decade": "2000s",
+      "status": "page-no-image",
+      "resolvedTitle": "Jay R",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jay_R"
+    },
+    {
+      "index": 187,
+      "name": "Billy Crawford",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Billy Crawford",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Billy_Crawford",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Billy_Crawford%2C_2018_%28cropped%29.jpg"
+    },
+    {
+      "index": 188,
+      "name": "MYMP",
+      "decade": "2000s",
+      "status": "page-no-image",
+      "resolvedTitle": "MYMP",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/MYMP"
+    },
+    {
+      "index": 189,
+      "name": "Aegis (band)",
+      "decade": "2000s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Aegis (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aegis_(band)",
+      "imageUrl": null
+    },
+    {
+      "index": 190,
+      "name": "Freestyle (Filipino band)",
+      "decade": "2000s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Freestyle (Filipino band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Freestyle_(Filipino_band)",
+      "imageUrl": null
+    },
+    {
+      "index": 191,
+      "name": "South Border",
+      "decade": "2000s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "South Border",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Border",
+      "imageUrl": null
+    },
+    {
+      "index": 192,
+      "name": "Gloc-9",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Gloc-9",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gloc-9",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/GLOC-9.png"
+    },
+    {
+      "index": 193,
+      "name": "Loonie (rapper)",
+      "decade": "2000s",
+      "status": "page-no-image",
+      "resolvedTitle": "Loonie (musician)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Loonie_(musician)"
+    },
+    {
+      "index": 194,
+      "name": "Dice & K9",
+      "decade": "2000s",
+      "status": "page-no-image",
+      "resolvedTitle": "Dice and K9",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dice_and_K9"
+    },
+    {
+      "index": 195,
+      "name": "Parokya ni Edgar",
+      "decade": "2000s",
+      "status": "cached-image",
+      "resolvedTitle": "Parokya ni Edgar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Parokya_ni_Edgar",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Fusion_Parokya_ni_Edgar.jpg"
+    },
+    {
+      "index": 196,
+      "name": "Rivermaya",
+      "decade": "2000s",
+      "status": "cached-image",
+      "resolvedTitle": "Rivermaya",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rivermaya",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/RivermayaNew.jpg"
+    },
+    {
+      "index": 197,
+      "name": "Sandwich (band)",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "Sandwich (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sandwich_(band)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sandwich_Band_at_The_70%27s_Bistro.jpg/1280px-Sandwich_Band_at_The_70%27s_Bistro.jpg"
+    },
+    {
+      "index": 198,
+      "name": "Sugarfree (Filipino band)",
+      "decade": "2000s",
+      "status": "page-no-image",
+      "resolvedTitle": "Sugarfree (Filipino band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sugarfree_(Filipino_band)"
+    },
+    {
+      "index": 199,
+      "name": "SexBomb Girls",
+      "decade": "2000s",
+      "status": "image-found",
+      "resolvedTitle": "SexBomb Girls",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/SexBomb_Girls",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/SexBomb-Girl-howlersmanila-2.0-2023.jpg"
+    },
+    {
+      "index": 200,
+      "name": "Sarah Geronimo",
+      "decade": "2010s",
+      "status": "cached-image",
+      "resolvedTitle": "Sarah Geronimo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sarah_Geronimo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sarah_G_Dubai_2011.jpg"
+    },
+    {
+      "index": 201,
+      "name": "Bamboo Mañalac",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Bamboo Mañalac",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bamboo_Ma%C3%B1alac",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bamboo_Manalac.jpg"
+    },
+    {
+      "index": 202,
+      "name": "Gloc-9",
+      "decade": "2010s",
+      "status": "cached-image",
+      "resolvedTitle": "Gloc-9",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gloc-9",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/GLOC-9.png"
+    },
+    {
+      "index": 203,
+      "name": "Yeng Constantino",
+      "decade": "2010s",
+      "status": "cached-image",
+      "resolvedTitle": "Yeng Constantino",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yeng_Constantino",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Yeng_Constantino.png"
+    },
+    {
+      "index": 204,
+      "name": "KZ Tandingan",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "KZ Tandingan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/KZ_Tandingan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/KZ_Tandingan_at_Pagibang_Damara_Festival_2025_%28cropped%29.jpg"
+    },
+    {
+      "index": 205,
+      "name": "Moira Dela Torre",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Moira Dela Torre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moira_Dela_Torre",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Moira_performing_in_2019.jpg"
+    },
+    {
+      "index": 206,
+      "name": "Morissette (singer)",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Morissette (singer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Morissette_(singer)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Morissette_Amon_at_the_2018_RAWR_Awards_%28cropped%29.jpg"
+    },
+    {
+      "index": 207,
+      "name": "Angeline Quinto",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Angeline Quinto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Angeline_Quinto",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Angeline_Quinto_2023_%28cropped%29.jpg"
+    },
+    {
+      "index": 208,
+      "name": "Julie Anne San Jose",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Julie Anne San Jose",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Julie_Anne_San_Jose",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Julie_Anne_San_Jose_at_Culture_and_the_Arts_2020.jpg"
+    },
+    {
+      "index": 209,
+      "name": "Darren Espanto",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Darren Espanto",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Darren_Espanto",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/Darren_Espanto_%282023%29.jpg"
+    },
+    {
+      "index": 210,
+      "name": "James Reid",
+      "decade": "2010s",
+      "status": "page-no-image",
+      "resolvedTitle": "James Reid",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/James_Reid"
+    },
+    {
+      "index": 211,
+      "name": "Nadine Lustre",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Nadine Lustre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nadine_Lustre",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/20240315_Nadine_Lustre_at_BVLGARI_05.jpg"
+    },
+    {
+      "index": 212,
+      "name": "Daniel Padilla",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Daniel Padilla",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Daniel_Padilla",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Daniel_Padilla_at_Celebrate_Mega_in_Iceland_2016_%286%29.jpg"
+    },
+    {
+      "index": 213,
+      "name": "Janella Salvador",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Janella Salvador",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Janella_Salvador",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Janella_Salvador_in_2019.jpg"
+    },
+    {
+      "index": 214,
+      "name": "Janine Teñoso",
+      "decade": "2010s",
+      "status": "page-no-image",
+      "resolvedTitle": "Janine Teñoso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Janine_Te%C3%B1oso"
+    },
+    {
+      "index": 215,
+      "name": "Iñigo Pascual",
+      "decade": "2010s",
+      "status": "page-no-image",
+      "resolvedTitle": "Iñigo Pascual",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/I%C3%B1igo_Pascual"
+    },
+    {
+      "index": 216,
+      "name": "Ylona Garcia",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Ylona Garcia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ylona_Garcia",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Ylona_2019.jpg"
+    },
+    {
+      "index": 217,
+      "name": "Sam Concepcion",
+      "decade": "2010s",
+      "status": "cached-image",
+      "resolvedTitle": "Sam Concepcion",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sam_Concepcion",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Sam_Concepcion_at_Rob_Magnolia%2C_2013.jpg"
+    },
+    {
+      "index": 218,
+      "name": "Christian Bautista",
+      "decade": "2010s",
+      "status": "cached-image",
+      "resolvedTitle": "Christian Bautista",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Christian_Bautista",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Christian_Bautista.jpg"
+    },
+    {
+      "index": 219,
+      "name": "Jed Madela",
+      "decade": "2010s",
+      "status": "cached-image",
+      "resolvedTitle": "Jed Madela",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Jed_Madela",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Jed_Madela_2024.jpg"
+    },
+    {
+      "index": 220,
+      "name": "Parokya ni Edgar",
+      "decade": "2010s",
+      "status": "cached-image",
+      "resolvedTitle": "Parokya ni Edgar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Parokya_ni_Edgar",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Fusion_Parokya_ni_Edgar.jpg"
+    },
+    {
+      "index": 221,
+      "name": "Sponge Cola",
+      "decade": "2010s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Sponge Cola",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sponge_Cola",
+      "imageUrl": null
+    },
+    {
+      "index": 222,
+      "name": "The Itchyworms",
+      "decade": "2010s",
+      "status": "cached-image",
+      "resolvedTitle": "The Itchyworms",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Itchyworms",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/The_Itchyworms_2021_Band_Photo.jpg"
+    },
+    {
+      "index": 223,
+      "name": "Silent Sanctuary",
+      "decade": "2010s",
+      "status": "cached-image",
+      "resolvedTitle": "Silent Sanctuary",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Silent_Sanctuary",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Silent_Sanctuary.jpg"
+    },
+    {
+      "index": 224,
+      "name": "Kamikazee",
+      "decade": "2010s",
+      "status": "cached-image",
+      "resolvedTitle": "Kamikazee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kamikazee",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Kamikazeecornflakes.jpg"
+    },
+    {
+      "index": 225,
+      "name": "Up Dharma Down",
+      "decade": "2010s",
+      "status": "not-found"
+    },
+    {
+      "index": 226,
+      "name": "Autotelic",
+      "decade": "2010s",
+      "status": "page-no-image",
+      "resolvedTitle": "Autotelic",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Autotelic"
+    },
+    {
+      "index": 227,
+      "name": "December Avenue",
+      "decade": "2010s",
+      "status": "page-no-image",
+      "resolvedTitle": "December Avenue",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/December_Avenue"
+    },
+    {
+      "index": 228,
+      "name": "Ben&Ben",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Ben&Ben",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben%26Ben",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Ben%26Ben_in_2018_2.png"
+    },
+    {
+      "index": 229,
+      "name": "IV of Spades",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "IV of Spades",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/IV_of_Spades",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Iv-of-spades-live-at-moa-2025.jpg"
+    },
+    {
+      "index": 230,
+      "name": "Unique Salonga",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Unique Salonga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Unique_Salonga",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Unique_Salonga_IVOS_2025.jpg"
+    },
+    {
+      "index": 231,
+      "name": "Juan Karlos Labajo",
+      "decade": "2010s",
+      "status": "page-no-image",
+      "resolvedTitle": "Juan Karlos Labajo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Karlos_Labajo"
+    },
+    {
+      "index": 232,
+      "name": "The Ransom Collective",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "The Ransom Collective",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Ransom_Collective",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/TRCband2016.jpg"
+    },
+    {
+      "index": 233,
+      "name": "Reese Lansangan",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Reese Lansangan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Reese_Lansangan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Reese_Lansangan_Makati_on_17_June_2016.jpg"
+    },
+    {
+      "index": 234,
+      "name": "Clara Benin",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Clara Benin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Clara_Benin",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Clara_Benin_2025_001.jpg"
+    },
+    {
+      "index": 235,
+      "name": "Bullet Dumas",
+      "decade": "2010s",
+      "status": "page-no-image",
+      "resolvedTitle": "Bullet Dumas",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bullet_Dumas"
+    },
+    {
+      "index": 236,
+      "name": "Ebe Dancel",
+      "decade": "2010s",
+      "status": "page-no-image",
+      "resolvedTitle": "Ebe Dancel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ebe_Dancel"
+    },
+    {
+      "index": 237,
+      "name": "Quest (Filipino singer)",
+      "decade": "2010s",
+      "status": "page-no-image",
+      "resolvedTitle": "Quest (disambiguation)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Quest_(disambiguation)"
+    },
+    {
+      "index": 238,
+      "name": "Abra (rapper)",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Abra (rapper)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Abra_(rapper)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Abra_%28rapper%29.jpg"
+    },
+    {
+      "index": 239,
+      "name": "Loonie (rapper)",
+      "decade": "2010s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Loonie (musician)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Loonie_(musician)",
+      "imageUrl": null
+    },
+    {
+      "index": 240,
+      "name": "Shanti Dope",
+      "decade": "2010s",
+      "status": "page-no-image",
+      "resolvedTitle": "Shanti Dope",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shanti_Dope"
+    },
+    {
+      "index": 241,
+      "name": "Ex Battalion",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Ex Battalion",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ex_Battalion",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Ex_Battalion_performed_at_the_Aurora_Music_Festival_in_2025.jpg"
+    },
+    {
+      "index": 242,
+      "name": "O.C. Dawgs",
+      "decade": "2010s",
+      "status": "page-no-image",
+      "resolvedTitle": "O.C. Dawgs",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/O.C._Dawgs"
+    },
+    {
+      "index": 243,
+      "name": "Flow G",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Flow G",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Flow_G",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flow_G_performed_at_the_Anilag_Festival_in_2025.jpg"
+    },
+    {
+      "index": 244,
+      "name": "Skusta Clee",
+      "decade": "2010s",
+      "status": "page-no-image",
+      "resolvedTitle": "Skusta Clee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Skusta_Clee"
+    },
+    {
+      "index": 245,
+      "name": "Al James",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Al James",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Al_James",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Al_James_Animusika_2024.jpg"
+    },
+    {
+      "index": 246,
+      "name": "Arthur Nery",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "Arthur Nery",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Nery",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Arthur_Nery_25Apr2025_03.jpg"
+    },
+    {
+      "index": 247,
+      "name": "I Belong to the Zoo",
+      "decade": "2010s",
+      "status": "page-no-image",
+      "resolvedTitle": "I Belong to the Zoo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/I_Belong_to_the_Zoo"
+    },
+    {
+      "index": 248,
+      "name": "MNL48",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "MNL48",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/MNL48",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/MNL48_Logo.svg"
+    },
+    {
+      "index": 249,
+      "name": "SB19",
+      "decade": "2010s",
+      "status": "image-found",
+      "resolvedTitle": "SB19",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/SB19",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/SB19_at_Binibining_Pilipinas_2022_%28cropped%29.jpg"
+    },
+    {
+      "index": 250,
+      "name": "Bini (group)",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Bini (group)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bini_(group)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/BINI_at_the_Senate_2026.jpg"
+    },
+    {
+      "index": 251,
+      "name": "SB19",
+      "decade": "2020s",
+      "status": "cached-image",
+      "resolvedTitle": "SB19",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/SB19",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/SB19_at_Binibining_Pilipinas_2022_%28cropped%29.jpg"
+    },
+    {
+      "index": 252,
+      "name": "BGYO",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "BGYO",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/BGYO",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/BGYO_%281%29%2C_February_2023.jpg"
+    },
+    {
+      "index": 253,
+      "name": "Alamat (band)",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Alamat (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alamat_(band)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Alamat_in_March_2025.jpg/1280px-Alamat_in_March_2025.jpg"
+    },
+    {
+      "index": 254,
+      "name": "MNL48",
+      "decade": "2020s",
+      "status": "cached-image",
+      "resolvedTitle": "MNL48",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/MNL48",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2d/MNL48_Logo.svg"
+    },
+    {
+      "index": 255,
+      "name": "KAIA",
+      "decade": "2020s",
+      "status": "page-no-image",
+      "resolvedTitle": "Kaia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kaia"
+    },
+    {
+      "index": 256,
+      "name": "G22 (girl group)",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "G22 (Filipino group)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/G22_(Filipino_group)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/G22_group.jpg"
+    },
+    {
+      "index": 257,
+      "name": "VXON",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Vxon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vxon",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/44/VXON_band.jpg"
+    },
+    {
+      "index": 258,
+      "name": "1st.One",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "1st.One",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/1st.One",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/1st_One_in_2025.png"
+    },
+    {
+      "index": 259,
+      "name": "Press Hit Play",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Press Hit Play",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Press_Hit_Play",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Press_Hit_Play_in_2025.png"
+    },
+    {
+      "index": 260,
+      "name": "Hori7on",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Hori7on",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hori7on",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Hori7on_at_Music_Bank_2024_%28030824%29.jpg"
+    },
+    {
+      "index": 261,
+      "name": "4th Impact",
+      "decade": "2020s",
+      "status": "not-found"
+    },
+    {
+      "index": 262,
+      "name": "Zack Tabudlo",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Zack Tabudlo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zack_Tabudlo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Zack_Tabudlo.png"
+    },
+    {
+      "index": 263,
+      "name": "Adie (singer)",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Adie (Filipino singer)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Adie_(Filipino_singer)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Adie_%40_Araw_ng_Bi%C3%B1an_2023_01.jpg"
+    },
+    {
+      "index": 264,
+      "name": "Arthur Nery",
+      "decade": "2020s",
+      "status": "cached-image",
+      "resolvedTitle": "Arthur Nery",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Arthur_Nery",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Arthur_Nery_25Apr2025_03.jpg"
+    },
+    {
+      "index": 265,
+      "name": "Maki (Filipino singer)",
+      "decade": "2020s",
+      "status": "page-no-image",
+      "resolvedTitle": "Maki",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Maki"
+    },
+    {
+      "index": 266,
+      "name": "Dionela",
+      "decade": "2020s",
+      "status": "page-no-image",
+      "resolvedTitle": "Dionela",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dionela"
+    },
+    {
+      "index": 267,
+      "name": "Cup of Joe (band)",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Cup of Joe (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cup_of_Joe_(band)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Cup_of_Joe_at_Aurora_Music_Festival_in_2025.jpg"
+    },
+    {
+      "index": 268,
+      "name": "Lola Amour",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Lola Amour",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lola_Amour",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Lola_Amour_February_17_2024.jpg"
+    },
+    {
+      "index": 269,
+      "name": "Dilaw",
+      "decade": "2020s",
+      "status": "page-no-image",
+      "resolvedTitle": "Dilaw",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dilaw"
+    },
+    {
+      "index": 270,
+      "name": "SunKissed Lola",
+      "decade": "2020s",
+      "status": "page-no-image",
+      "resolvedTitle": "SunKissed Lola",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/SunKissed_Lola"
+    },
+    {
+      "index": 271,
+      "name": "Nobita (band)",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Nobita (band)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Nobita_(band)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Nobita_at_Ayala_Malls_Feliz.jpg"
+    },
+    {
+      "index": 272,
+      "name": "Bandang Lapis",
+      "decade": "2020s",
+      "status": "page-no-image",
+      "resolvedTitle": "Bandang Lapis",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bandang_Lapis"
+    },
+    {
+      "index": 273,
+      "name": "Magnus Haven",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Magnus Haven",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Magnus_Haven",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Magnus_Haven_at_BSU_in_2023.jpg"
+    },
+    {
+      "index": 274,
+      "name": "Over October",
+      "decade": "2020s",
+      "status": "page-no-image",
+      "resolvedTitle": "Over October",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Over_October"
+    },
+    {
+      "index": 275,
+      "name": "The Vowels They Orbit",
+      "decade": "2020s",
+      "status": "page-no-image",
+      "resolvedTitle": "The Vowels They Orbit",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Vowels_They_Orbit"
+    },
+    {
+      "index": 276,
+      "name": "Any Name's Okay",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "OK",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/OK",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/OK-button_-_Macro_photography_of_a_remote_control.jpg"
+    },
+    {
+      "index": 277,
+      "name": "Rob Deniel",
+      "decade": "2020s",
+      "status": "page-no-image",
+      "resolvedTitle": "Rob Deniel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rob_Deniel"
+    },
+    {
+      "index": 278,
+      "name": "Mrld",
+      "decade": "2020s",
+      "status": "page-no-image",
+      "resolvedTitle": "Mrld",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mrld"
+    },
+    {
+      "index": 279,
+      "name": "Janine Teñoso",
+      "decade": "2020s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Janine Teñoso",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Janine_Te%C3%B1oso",
+      "imageUrl": null
+    },
+    {
+      "index": 280,
+      "name": "Moira Dela Torre",
+      "decade": "2020s",
+      "status": "cached-image",
+      "resolvedTitle": "Moira Dela Torre",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moira_Dela_Torre",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Moira_performing_in_2019.jpg"
+    },
+    {
+      "index": 281,
+      "name": "Ben&Ben",
+      "decade": "2020s",
+      "status": "cached-image",
+      "resolvedTitle": "Ben&Ben",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ben%26Ben",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Ben%26Ben_in_2018_2.png"
+    },
+    {
+      "index": 282,
+      "name": "December Avenue",
+      "decade": "2020s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "December Avenue",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/December_Avenue",
+      "imageUrl": null
+    },
+    {
+      "index": 283,
+      "name": "Juan Karlos Labajo",
+      "decade": "2020s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Juan Karlos Labajo",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Juan_Karlos_Labajo",
+      "imageUrl": null
+    },
+    {
+      "index": 284,
+      "name": "Unique Salonga",
+      "decade": "2020s",
+      "status": "cached-image",
+      "resolvedTitle": "Unique Salonga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Unique_Salonga",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Unique_Salonga_IVOS_2025.jpg"
+    },
+    {
+      "index": 285,
+      "name": "Zild Benitez",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Zild Benitez",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zild_Benitez",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zild_Benitez_IVOS_2025.jpg"
+    },
+    {
+      "index": 286,
+      "name": "Blaster Silonga",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Blaster Silonga",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Blaster_Silonga",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Blaster_Silonga_IVOS_2025.jpg"
+    },
+    {
+      "index": 287,
+      "name": "Ebe Dancel",
+      "decade": "2020s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Ebe Dancel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ebe_Dancel",
+      "imageUrl": null
+    },
+    {
+      "index": 288,
+      "name": "Clara Benin",
+      "decade": "2020s",
+      "status": "cached-image",
+      "resolvedTitle": "Clara Benin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Clara_Benin",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Clara_Benin_2025_001.jpg"
+    },
+    {
+      "index": 289,
+      "name": "Reese Lansangan",
+      "decade": "2020s",
+      "status": "cached-image",
+      "resolvedTitle": "Reese Lansangan",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Reese_Lansangan",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Reese_Lansangan_Makati_on_17_June_2016.jpg"
+    },
+    {
+      "index": 290,
+      "name": "Ena Mori",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Ena Mori",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ena_Mori",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ena_Mori_performing_in_2024.jpg"
+    },
+    {
+      "index": 291,
+      "name": "Denise Julia",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Denise Julia",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Denise_Julia",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Denise_Julia_in_December_2024_%282%29.jpg"
+    },
+    {
+      "index": 292,
+      "name": "Hev Abi",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Hev Abi",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hev_Abi",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Hev_Abi_performed_at_the_Cabuyao_Town_Festival_in_2025_%28cropped%29.jpg"
+    },
+    {
+      "index": 293,
+      "name": "Flow G",
+      "decade": "2020s",
+      "status": "cached-image",
+      "resolvedTitle": "Flow G",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Flow_G",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flow_G_performed_at_the_Anilag_Festival_in_2025.jpg"
+    },
+    {
+      "index": 294,
+      "name": "Skusta Clee",
+      "decade": "2020s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Skusta Clee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Skusta_Clee",
+      "imageUrl": null
+    },
+    {
+      "index": 295,
+      "name": "Ex Battalion",
+      "decade": "2020s",
+      "status": "cached-image",
+      "resolvedTitle": "Ex Battalion",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ex_Battalion",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Ex_Battalion_performed_at_the_Aurora_Music_Festival_in_2025.jpg"
+    },
+    {
+      "index": 296,
+      "name": "Al James",
+      "decade": "2020s",
+      "status": "cached-image",
+      "resolvedTitle": "Al James",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Al_James",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Al_James_Animusika_2024.jpg"
+    },
+    {
+      "index": 297,
+      "name": "Shanti Dope",
+      "decade": "2020s",
+      "status": "cached-page-no-image",
+      "resolvedTitle": "Shanti Dope",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Shanti_Dope",
+      "imageUrl": null
+    },
+    {
+      "index": 298,
+      "name": "Felip (singer)",
+      "decade": "2020s",
+      "status": "image-found",
+      "resolvedTitle": "Felip (musician)",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Felip_(musician)",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Ken_at_the_One_Zone_fanmeeting%2C_2023_%28cropped%29.jpg"
+    },
+    {
+      "index": 299,
+      "name": "Josh Cullen",
+      "decade": "2020s",
+      "status": "page-no-image",
+      "resolvedTitle": "Josh Cullen",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Josh_Cullen"
+    }
+  ]
+}
