@@ -1,0 +1,453 @@
+{
+  "nba_sportsmanship_award": {
+    "award_name": "NBA Sportsmanship Award",
+    "trophy_name": "Joe Dumars Trophy",
+    "league": "National Basketball Association (NBA)",
+    "first_awarded": "1995–96",
+    "most_recent_winner": "Derrick White",
+    "description": "Awarded annually to an NBA player who most exemplifies the ideals of sportsmanship on the court with ethical behavior, fair play, and integrity.",
+    "most_frequent_winners": [
+      {
+        "player": "Mike Conley",
+        "wins": 4
+      },
+      {
+        "player": "Grant Hill",
+        "wins": 3
+      },
+      {
+        "player": "Jason Kidd",
+        "wins": 2
+      },
+      {
+        "player": "Kemba Walker",
+        "wins": 2
+      },
+      {
+        "player": "Jrue Holiday",
+        "wins": 2
+      }
+    ],
+    "winners": [
+      {
+        "season": "1995–96",
+        "player": "Joe Dumars",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Detroit Pistons"
+      },
+      {
+        "season": "1996–97",
+        "player": "Terrell Brandon",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Cleveland Cavaliers"
+      },
+      {
+        "season": "1997–98",
+        "player": "Avery Johnson",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "San Antonio Spurs"
+      },
+      {
+        "season": "1998–99",
+        "player": "Hersey Hawkins",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Seattle SuperSonics"
+      },
+      {
+        "season": "1999–00",
+        "player": "Eric Snow",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Philadelphia 76ers"
+      },
+      {
+        "season": "2000–01",
+        "player": "David Robinson",
+        "position": "Center",
+        "nationality": "United States",
+        "team": "San Antonio Spurs"
+      },
+      {
+        "season": "2001–02",
+        "player": "Steve Smith",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "San Antonio Spurs"
+      },
+      {
+        "season": "2002–03",
+        "player": "Ray Allen",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Seattle SuperSonics"
+      },
+      {
+        "season": "2003–04",
+        "player": "P. J. Brown",
+        "position": "Center/forward",
+        "nationality": "United States",
+        "team": "New Orleans Hornets"
+      },
+      {
+        "season": "2004–05",
+        "player": "Grant Hill",
+        "position": "Forward",
+        "nationality": "United States",
+        "team": "Orlando Magic"
+      },
+      {
+        "season": "2005–06",
+        "player": "Elton Brand",
+        "position": "Forward",
+        "nationality": "United States",
+        "team": "Los Angeles Clippers"
+      },
+      {
+        "season": "2006–07",
+        "player": "Luol Deng",
+        "position": "Forward",
+        "nationality": "United Kingdom",
+        "team": "Chicago Bulls"
+      },
+      {
+        "season": "2007–08",
+        "player": "Grant Hill",
+        "position": "Forward",
+        "nationality": "United States",
+        "team": "Phoenix Suns"
+      },
+      {
+        "season": "2008–09",
+        "player": "Chauncey Billups",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Denver Nuggets"
+      },
+      {
+        "season": "2009–10",
+        "player": "Grant Hill",
+        "position": "Forward",
+        "nationality": "United States",
+        "team": "Phoenix Suns"
+      },
+      {
+        "season": "2010–11",
+        "player": "Stephen Curry",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Golden State Warriors"
+      },
+      {
+        "season": "2011–12",
+        "player": "Jason Kidd",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Dallas Mavericks"
+      },
+      {
+        "season": "2012–13",
+        "player": "Jason Kidd",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "New York Knicks"
+      },
+      {
+        "season": "2013–14",
+        "player": "Mike Conley",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Memphis Grizzlies"
+      },
+      {
+        "season": "2014–15",
+        "player": "Kyle Korver",
+        "position": "Guard/forward",
+        "nationality": "United States",
+        "team": "Atlanta Hawks"
+      },
+      {
+        "season": "2015–16",
+        "player": "Mike Conley",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Memphis Grizzlies"
+      },
+      {
+        "season": "2016–17",
+        "player": "Kemba Walker",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Charlotte Hornets"
+      },
+      {
+        "season": "2017–18",
+        "player": "Kemba Walker",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Charlotte Hornets"
+      },
+      {
+        "season": "2018–19",
+        "player": "Mike Conley",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Memphis Grizzlies"
+      },
+      {
+        "season": "2019–20",
+        "player": "Vince Carter",
+        "position": "Forward",
+        "nationality": "United States",
+        "team": "Atlanta Hawks"
+      },
+      {
+        "season": "2020–21",
+        "player": "Jrue Holiday",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Milwaukee Bucks"
+      },
+      {
+        "season": "2021–22",
+        "player": "Patty Mills",
+        "position": "Guard",
+        "nationality": "Australia",
+        "team": "Brooklyn Nets"
+      },
+      {
+        "season": "2022–23",
+        "player": "Mike Conley",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Minnesota Timberwolves"
+      },
+      {
+        "season": "2023–24",
+        "player": "Tyrese Maxey",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Philadelphia 76ers"
+      },
+      {
+        "season": "2024–25",
+        "player": "Jrue Holiday",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Boston Celtics"
+      },
+      {
+        "season": "2025–26",
+        "player": "Derrick White",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Boston Celtics"
+      }
+    ]
+  },
+  "nba_hustle_award": {
+    "award_name": "NBA Hustle Award",
+    "league": "National Basketball Association",
+    "first_awarded": "2016–17",
+    "most_recent_winner": "Moussa Diabaté",
+    "description": "Given to the NBA player that best utilizes hustle to help their team win on a nightly basis, determined via metric hustle stats.",
+    "most_frequent_winners": [
+      {
+        "player": "Marcus Smart",
+        "wins": 3
+      }
+    ],
+    "winners": [
+      {
+        "season": "2016–17",
+        "player": "Patrick Beverley",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Houston Rockets"
+      },
+      {
+        "season": "2017–18",
+        "player": "Amir Johnson",
+        "position": "Center",
+        "nationality": "United States",
+        "team": "Philadelphia 76ers"
+      },
+      {
+        "season": "2018–19",
+        "player": "Marcus Smart",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Boston Celtics"
+      },
+      {
+        "season": "2019–20",
+        "player": "Montrezl Harrell",
+        "position": "Center",
+        "nationality": "United States",
+        "team": "Los Angeles Clippers"
+      },
+      {
+        "season": "2020–21",
+        "player": "Thaddeus Young",
+        "position": "Forward",
+        "nationality": "United States",
+        "team": "Chicago Bulls"
+      },
+      {
+        "season": "2021–22",
+        "player": "Marcus Smart",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Boston Celtics"
+      },
+      {
+        "season": "2022–23",
+        "player": "Marcus Smart",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Boston Celtics"
+      },
+      {
+        "season": "2023–24",
+        "player": "Alex Caruso",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Chicago Bulls"
+      },
+      {
+        "season": "2024–25",
+        "player": "Draymond Green",
+        "position": "Forward",
+        "nationality": "United States",
+        "team": "Golden State Warriors"
+      },
+      {
+        "season": "2025–26",
+        "player": "Moussa Diabaté",
+        "position": "Center",
+        "nationality": "France",
+        "team": "Charlotte Hornets"
+      }
+    ]
+  },
+  "twyman_stokes_teammate_of_the_year_award": {
+    "award_name": "Twyman-Stokes Teammate of the Year Award",
+    "league": "National Basketball Association (NBA)",
+    "first_awarded": "2012–13",
+    "most_recent_winner": "DeAndre Jordan",
+    "description": "Recognizes the player deemed the best teammate based on selfless play, on- and off-court leadership as a mentor and role model to other NBA players, and commitment and dedication to team.",
+    "most_frequent_winners": [
+      {
+        "player": "Jrue Holiday",
+        "wins": 3
+      },
+      {
+        "player": "Mike Conley",
+        "wins": 2
+      }
+    ],
+    "winners": [
+      {
+        "season": "2012–13",
+        "player": "Chauncey Billups",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Los Angeles Clippers"
+      },
+      {
+        "season": "2013–14",
+        "player": "Shane Battier",
+        "position": "Forward",
+        "nationality": "United States",
+        "team": "Miami Heat"
+      },
+      {
+        "season": "2014–15",
+        "player": "Tim Duncan",
+        "position": "Forward/center",
+        "nationality": "United States",
+        "team": "San Antonio Spurs"
+      },
+      {
+        "season": "2015–16",
+        "player": "Vince Carter",
+        "position": "Guard/forward",
+        "nationality": "United States",
+        "team": "Memphis Grizzlies"
+      },
+      {
+        "season": "2016–17",
+        "player": "Dirk Nowitzki",
+        "position": "Forward",
+        "nationality": "Germany",
+        "team": "Dallas Mavericks"
+      },
+      {
+        "season": "2017–18",
+        "player": "Jamal Crawford",
+        "position": "Guard/forward",
+        "nationality": "United States",
+        "team": "Minnesota Timberwolves"
+      },
+      {
+        "season": "2018–19",
+        "player": "Mike Conley",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Memphis Grizzlies"
+      },
+      {
+        "season": "2019–20",
+        "player": "Jrue Holiday",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "New Orleans Pelicans"
+      },
+      {
+        "season": "2020–21",
+        "player": "Damian Lillard",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Portland Trail Blazers"
+      },
+      {
+        "season": "2021–22",
+        "player": "Jrue Holiday",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Milwaukee Bucks"
+      },
+      {
+        "season": "2022–23",
+        "player": "Jrue Holiday",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Milwaukee Bucks"
+      },
+      {
+        "season": "2023–24",
+        "player": "Mike Conley",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Minnesota Timberwolves"
+      },
+      {
+        "season": "2024–25",
+        "player": "Stephen Curry",
+        "position": "Guard",
+        "nationality": "United States",
+        "team": "Golden State Warriors"
+      },
+      {
+        "season": "2025–26",
+        "player": "DeAndre Jordan",
+        "position": "Center",
+        "nationality": "United States",
+        "team": "New Orleans Pelicans"
+      }
+    ]
+  }
+}
