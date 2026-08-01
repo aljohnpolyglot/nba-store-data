@@ -1,0 +1,32 @@
+{
+  "id": "domestic-montenegro",
+  "name": "Erste Liga",
+  "market": "Montenegro",
+  "level": "domestic",
+  "countrySlug": "Montenegro",
+  "countryRootUrl": "https://www.eurobasket.com/Montenegro/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Montenegro/basketball-erste-liga_2025-2026.aspx",
+  "recapCount": 14,
+  "coverage": {
+    "competitionId": "domestic-montenegro",
+    "competitionName": "Erste Liga",
+    "market": "Montenegro",
+    "level": "domestic",
+    "folder": "Montenegro",
+    "countryRootUrl": "https://www.eurobasket.com/Montenegro/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Montenegro/basketball-erste-liga_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Montenegro/basketball-erste-liga_2025-2026.aspx",
+      "https://www.eurobasket.com/Montenegro/basketball-Erste-Liga-History.aspx"
+    ],
+    "discoveredSeasons": 14,
+    "recapSeasons": 14,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 8,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [],
+    "firstSeason": "2012-2013",
+    "lastSeason": "2025-2026"
+  }
+}

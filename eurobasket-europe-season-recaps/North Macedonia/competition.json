@@ -1,0 +1,89 @@
+{
+  "id": "domestic-north-macedonia",
+  "name": "Super League",
+  "market": "North Macedonia",
+  "level": "domestic",
+  "countrySlug": "North-Macedonia",
+  "countryRootUrl": "https://www.eurobasket.com/North-Macedonia/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/North-Macedonia/basketball-super-league_2025-2026.aspx",
+  "recapCount": 19,
+  "coverage": {
+    "competitionId": "domestic-north-macedonia",
+    "competitionName": "Super League",
+    "market": "North Macedonia",
+    "level": "domestic",
+    "folder": "North Macedonia",
+    "countryRootUrl": "https://www.eurobasket.com/North-Macedonia/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/North-Macedonia/basketball-super-league_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/North-Macedonia/basketball-super-league_2025-2026.aspx",
+      "https://www.eurobasket.com/North-Macedonia/basketball-Super-League-History.aspx"
+    ],
+    "discoveredSeasons": 26,
+    "recapSeasons": 19,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 13,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2019-2020",
+        "candidates": [
+          "https://www.eurobasket.com/North-Macedonia/basketball-prva-liga_2019-2020.aspx",
+          "https://www.eurobasket.com/North-Macedonia/basketball-Prva-Liga_2019-2020.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2006-2007",
+        "candidates": [
+          "https://www.eurobasket.com/North-Macedonia/basketball-prva-liga_2006-2007.aspx",
+          "https://www.eurobasket.com/North-Macedonia/basketball-Prva-Liga_2006-2007.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2005-2006",
+        "candidates": [
+          "https://www.eurobasket.com/North-Macedonia/basketball-prva-liga_2005-2006.aspx",
+          "https://www.eurobasket.com/North-Macedonia/basketball-Prva-Liga_2005-2006.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2004-2005",
+        "candidates": [
+          "https://www.eurobasket.com/North-Macedonia/basketball-prva-liga_2004-2005.aspx",
+          "https://www.eurobasket.com/North-Macedonia/basketball-Prva-Liga_2004-2005.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2003-2004",
+        "candidates": [
+          "https://www.eurobasket.com/North-Macedonia/basketball-prva-liga_2003-2004.aspx",
+          "https://www.eurobasket.com/North-Macedonia/basketball-Prva-Liga_2003-2004.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2002-2003",
+        "candidates": [
+          "https://www.eurobasket.com/North-Macedonia/basketball-prva-liga_2002-2003.aspx",
+          "https://www.eurobasket.com/North-Macedonia/basketball-Prva-Liga_2002-2003.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2001-2002",
+        "candidates": [
+          "https://www.eurobasket.com/North-Macedonia/basketball-prva-liga_2001-2002.aspx",
+          "https://www.eurobasket.com/North-Macedonia/basketball-Prva-Liga_2001-2002.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "2000-2001",
+    "lastSeason": "2025-2026"
+  }
+}

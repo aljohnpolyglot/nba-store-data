@@ -1,0 +1,32 @@
+{
+  "id": "domestic-poland",
+  "name": "U19 League",
+  "market": "Poland",
+  "level": "domestic",
+  "countrySlug": "Poland",
+  "countryRootUrl": "https://www.eurobasket.com/Poland/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Poland/basketball-league-u19_2025-2026.aspx",
+  "recapCount": 5,
+  "coverage": {
+    "competitionId": "domestic-poland",
+    "competitionName": "U19 League",
+    "market": "Poland",
+    "level": "domestic",
+    "folder": "Poland",
+    "countryRootUrl": "https://www.eurobasket.com/Poland/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Poland/basketball-league-u19_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Poland/basketball-league-u19_2025-2026.aspx",
+      "https://www.eurobasket.com/Poland/basketball-League-U19-History.aspx"
+    ],
+    "discoveredSeasons": 5,
+    "recapSeasons": 5,
+    "articleRecaps": 3,
+    "imageCaptionRecaps": 2,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [],
+    "firstSeason": "2018-2019",
+    "lastSeason": "2025-2026"
+  }
+}

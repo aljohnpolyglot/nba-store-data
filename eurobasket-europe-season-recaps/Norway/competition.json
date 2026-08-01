@@ -1,0 +1,65 @@
+{
+  "id": "domestic-norway",
+  "name": "BLNO",
+  "market": "Norway",
+  "level": "domestic",
+  "countrySlug": "Norway",
+  "countryRootUrl": "https://www.eurobasket.com/Norway/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Norway/basketball-league-blno_2025-2026.aspx",
+  "recapCount": 20,
+  "coverage": {
+    "competitionId": "domestic-norway",
+    "competitionName": "BLNO",
+    "market": "Norway",
+    "level": "domestic",
+    "folder": "Norway",
+    "countryRootUrl": "https://www.eurobasket.com/Norway/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Norway/basketball-league-blno_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Norway/basketball-league-blno_2025-2026.aspx",
+      "https://www.eurobasket.com/Norway/basketball-League-BLNO-History.aspx"
+    ],
+    "discoveredSeasons": 24,
+    "recapSeasons": 20,
+    "articleRecaps": 5,
+    "imageCaptionRecaps": 14,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2005-2006",
+        "candidates": [
+          "https://www.eurobasket.com/Norway/basketball-league-blno_2005-2006.aspx",
+          "https://www.eurobasket.com/Norway/basketball-League-BLNO_2005-2006.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2004-2005",
+        "candidates": [
+          "https://www.eurobasket.com/Norway/basketball-league-blno_2004-2005.aspx",
+          "https://www.eurobasket.com/Norway/basketball-League-BLNO_2004-2005.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2003-2004",
+        "candidates": [
+          "https://www.eurobasket.com/Norway/basketball-league-blno_2003-2004.aspx",
+          "https://www.eurobasket.com/Norway/basketball-League-BLNO_2003-2004.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2001-2002",
+        "candidates": [
+          "https://www.eurobasket.com/Norway/basketball-league-blno_2001-2002.aspx",
+          "https://www.eurobasket.com/Norway/basketball-League-BLNO_2001-2002.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "2000-2001",
+    "lastSeason": "2025-2026"
+  }
+}
