@@ -1,0 +1,65 @@
+{
+  "id": "domestic-turkey",
+  "name": "BSL",
+  "market": "Turkey",
+  "level": "domestic",
+  "countrySlug": "Turkey",
+  "countryRootUrl": "https://www.eurobasket.com/Turkey/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Turkey/basketball-league-bsl_2025-2026.aspx",
+  "recapCount": 60,
+  "coverage": {
+    "competitionId": "domestic-turkey",
+    "competitionName": "BSL",
+    "market": "Turkey",
+    "level": "domestic",
+    "folder": "Turkey",
+    "countryRootUrl": "https://www.eurobasket.com/Turkey/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Turkey/basketball-league-bsl_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Turkey/basketball-league-bsl_2025-2026.aspx",
+      "https://www.eurobasket.com/Turkey/basketball-League-BSL-History.aspx"
+    ],
+    "discoveredSeasons": 64,
+    "recapSeasons": 60,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 18,
+    "historyOnlyRecaps": 1,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "1948",
+        "candidates": [
+          "https://www.eurobasket.com/Turkey/basketball-tbc_1948.aspx",
+          "https://www.eurobasket.com/Turkey/basketball-TBC_1948.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1947",
+        "candidates": [
+          "https://www.eurobasket.com/Turkey/basketball-tbc_1947.aspx",
+          "https://www.eurobasket.com/Turkey/basketball-TBC_1947.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1946",
+        "candidates": [
+          "https://www.eurobasket.com/Turkey/basketball-tbc_1946.aspx",
+          "https://www.eurobasket.com/Turkey/basketball-TBC_1946.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1945",
+        "candidates": [
+          "https://www.eurobasket.com/Turkey/basketball-istanbul-league_1945.aspx",
+          "https://www.eurobasket.com/Turkey/basketball-Istanbul-League_1945.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "1949-1950",
+    "lastSeason": "2025-2026"
+  }
+}

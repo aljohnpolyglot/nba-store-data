@@ -1,0 +1,69 @@
+{
+  "id": "domestic-ukraine",
+  "name": "1 League",
+  "market": "Ukraine",
+  "level": "domestic",
+  "countrySlug": "Ukraine",
+  "countryRootUrl": "https://www.eurobasket.com/Ukraine/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Ukraine/1-league_2025-2026.aspx",
+  "recapCount": 7,
+  "coverage": {
+    "competitionId": "domestic-ukraine",
+    "competitionName": "1 League",
+    "market": "Ukraine",
+    "level": "domestic",
+    "folder": "Ukraine",
+    "countryRootUrl": "https://www.eurobasket.com/Ukraine/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Ukraine/1-league_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Ukraine/1-league_2025-2026.aspx",
+      "https://www.eurobasket.com/Ukraine/1-League-History.aspx"
+    ],
+    "discoveredSeasons": 12,
+    "recapSeasons": 7,
+    "articleRecaps": 4,
+    "imageCaptionRecaps": 3,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2022-2023",
+        "candidates": [
+          "https://www.eurobasket.com/Ukraine/1League_2022-2023.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2021-2022",
+        "candidates": [
+          "https://www.eurobasket.com/Ukraine/1League_2021-2022.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2019-2020",
+        "candidates": [
+          "https://www.eurobasket.com/Ukraine/1League_2019-2020.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2013-2014",
+        "candidates": [
+          "https://www.eurobasket.com/Ukraine/1League_2013-2014.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2012-2013",
+        "candidates": [
+          "https://www.eurobasket.com/Ukraine/1league_2012-2013.aspx",
+          "https://www.eurobasket.com/Ukraine/1League_2012-2013.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "2016-2017",
+    "lastSeason": "2025-2026"
+  }
+}
