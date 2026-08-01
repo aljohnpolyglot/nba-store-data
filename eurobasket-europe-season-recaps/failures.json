@@ -1,0 +1,29 @@
+[
+  {
+    "competitionId": "domestic-slovenia",
+    "competitionName": "Liga OTP banka",
+    "market": "Slovenia",
+    "season": "2000-2001",
+    "stage": "season-page",
+    "url": "https://www.eurobasket.com/Slovenia/basketball-liga-kolinska_2000-2001.aspx",
+    "error": "HTTP 500 "
+  },
+  {
+    "competitionId": "domestic-slovenia",
+    "competitionName": "Liga OTP banka",
+    "market": "Slovenia",
+    "season": "2000-2001",
+    "stage": "season-page",
+    "url": "https://www.eurobasket.com/Slovenia/basketball-Liga-Kolinska_2000-2001.aspx",
+    "error": "HTTP 500 "
+  },
+  {
+    "competitionId": "eurocup",
+    "competitionName": "EuroCup",
+    "market": "Europe",
+    "season": "2021-2022",
+    "stage": "season-page",
+    "url": "https://www.eurobasket.com/Eurocup/basketball_2021-2022_men.aspx",
+    "error": "HTTP 500 "
+  }
+]
