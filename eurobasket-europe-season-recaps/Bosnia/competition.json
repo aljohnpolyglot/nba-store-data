@@ -1,0 +1,97 @@
+{
+  "id": "domestic-bosnia",
+  "name": "Division I",
+  "market": "Bosnia",
+  "level": "domestic",
+  "countrySlug": "Bosnia",
+  "countryRootUrl": "https://www.eurobasket.com/Bosnia/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Bosnia/basketball-division-i_2025-2026.aspx",
+  "recapCount": 19,
+  "coverage": {
+    "competitionId": "domestic-bosnia",
+    "competitionName": "Division I",
+    "market": "Bosnia",
+    "level": "domestic",
+    "folder": "Bosnia",
+    "countryRootUrl": "https://www.eurobasket.com/Bosnia/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Bosnia/basketball-division-i_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Bosnia/basketball-division-i_2025-2026.aspx",
+      "https://www.eurobasket.com/Bosnia/basketball-Division-I-History.aspx"
+    ],
+    "discoveredSeasons": 27,
+    "recapSeasons": 19,
+    "articleRecaps": 4,
+    "imageCaptionRecaps": 15,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2006-2007",
+        "candidates": [
+          "https://www.eurobasket.com/Bosnia/basketball-division-i_2006-2007.aspx",
+          "https://www.eurobasket.com/Bosnia/basketball-Division-I_2006-2007.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2005-2006",
+        "candidates": [
+          "https://www.eurobasket.com/Bosnia/basketball-division-i_2005-2006.aspx",
+          "https://www.eurobasket.com/Bosnia/basketball-Division-I_2005-2006.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2001-2002",
+        "candidates": [
+          "https://www.eurobasket.com/Bosnia/basketball-division-i_2001-2002.aspx",
+          "https://www.eurobasket.com/Bosnia/basketball-Division-I_2001-2002.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2000-2001",
+        "candidates": [
+          "https://www.eurobasket.com/Bosnia/basketball-division-i_2000-2001.aspx",
+          "https://www.eurobasket.com/Bosnia/basketball-Division-I_2000-2001.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1999-2000",
+        "candidates": [
+          "https://www.eurobasket.com/Bosnia/basketball-division-i_1999-2000.aspx",
+          "https://www.eurobasket.com/Bosnia/basketball-Division-I_1999-2000.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1998-1999",
+        "candidates": [
+          "https://www.eurobasket.com/Bosnia/basketball-division-i_1998-1999.aspx",
+          "https://www.eurobasket.com/Bosnia/basketball-Division-I_1998-1999.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1997-1998",
+        "candidates": [
+          "https://www.eurobasket.com/Bosnia/basketball-division-i_1997-1998.aspx",
+          "https://www.eurobasket.com/Bosnia/basketball-Division-I_1997-1998.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1996-1997",
+        "candidates": [
+          "https://www.eurobasket.com/Bosnia/basketball-division-i_1996-1997.aspx",
+          "https://www.eurobasket.com/Bosnia/basketball-Division-I_1996-1997.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "2002-2003",
+    "lastSeason": "2025-2026"
+  }
+}

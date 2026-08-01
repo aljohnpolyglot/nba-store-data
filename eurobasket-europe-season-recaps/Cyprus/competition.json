@@ -1,0 +1,73 @@
+{
+  "id": "domestic-cyprus",
+  "name": "ECOMMBX BL",
+  "market": "Cyprus",
+  "level": "domestic",
+  "countrySlug": "Cyprus",
+  "countryRootUrl": "https://www.eurobasket.com/Cyprus/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Cyprus/basketball-ecommbx-basket-league_2025-2026.aspx",
+  "recapCount": 24,
+  "coverage": {
+    "competitionId": "domestic-cyprus",
+    "competitionName": "ECOMMBX BL",
+    "market": "Cyprus",
+    "level": "domestic",
+    "folder": "Cyprus",
+    "countryRootUrl": "https://www.eurobasket.com/Cyprus/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Cyprus/basketball-ecommbx-basket-league_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Cyprus/basketball-ecommbx-basket-league_2025-2026.aspx",
+      "https://www.eurobasket.com/Cyprus/basketball-ECOMMBX-Basket-League-History.aspx"
+    ],
+    "discoveredSeasons": 29,
+    "recapSeasons": 24,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 18,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2019-2020",
+        "candidates": [
+          "https://www.eurobasket.com/Cyprus/basketball-opap-basket-league_2019-2020.aspx",
+          "https://www.eurobasket.com/Cyprus/basketball-OPAP-Basket-League_2019-2020.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2002-2003",
+        "candidates": [
+          "https://www.eurobasket.com/Cyprus/basketball-division-a_2002-2003.aspx",
+          "https://www.eurobasket.com/Cyprus/basketball-Division-A_2002-2003.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1998-1999",
+        "candidates": [
+          "https://www.eurobasket.com/Cyprus/basketball-division-a_1998-1999.aspx",
+          "https://www.eurobasket.com/Cyprus/basketball-Division-A_1998-1999.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1997-1998",
+        "candidates": [
+          "https://www.eurobasket.com/Cyprus/basketball-division-a_1997-1998.aspx",
+          "https://www.eurobasket.com/Cyprus/basketball-Division-A_1997-1998.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1996-1997",
+        "candidates": [
+          "https://www.eurobasket.com/Cyprus/basketball-division-a_1996-1997.aspx",
+          "https://www.eurobasket.com/Cyprus/basketball-Division-A_1996-1997.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "1999-2000",
+    "lastSeason": "2025-2026"
+  }
+}
