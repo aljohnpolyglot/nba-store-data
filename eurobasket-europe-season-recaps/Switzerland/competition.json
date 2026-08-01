@@ -1,0 +1,68 @@
+{
+  "id": "domestic-switzerland",
+  "name": "SBL",
+  "market": "Switzerland",
+  "level": "domestic",
+  "countrySlug": "Switzerland",
+  "countryRootUrl": "https://www.eurobasket.com/Switzerland/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Switzerland/swiss-basketball-league_2025-2026.aspx",
+  "recapCount": 93,
+  "coverage": {
+    "competitionId": "domestic-switzerland",
+    "competitionName": "SBL",
+    "market": "Switzerland",
+    "level": "domestic",
+    "folder": "Switzerland",
+    "countryRootUrl": "https://www.eurobasket.com/Switzerland/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Switzerland/swiss-basketball-league_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Switzerland/swiss-basketball-league_2025-2026.aspx",
+      "https://www.eurobasket.com/Switzerland/Swiss-Basketball-League-History.aspx"
+    ],
+    "discoveredSeasons": 98,
+    "recapSeasons": 93,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 37,
+    "historyOnlyRecaps": 4,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "1960",
+        "candidates": [
+          "https://www.eurobasket.com/Switzerland/basketball-championnat-lna_1960.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1959",
+        "candidates": [
+          "https://www.eurobasket.com/Switzerland/basketball-championnat-lna_1959.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1958",
+        "candidates": [
+          "https://www.eurobasket.com/Switzerland/basketball-championnat-lna_1958.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1957",
+        "candidates": [
+          "https://www.eurobasket.com/Switzerland/basketball-championnat-lna_1957.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1956",
+        "candidates": [
+          "https://www.eurobasket.com/Switzerland/basketball-championnat-lna_1956.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "1930-1931",
+    "lastSeason": "2025-2026"
+  }
+}

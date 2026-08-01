@@ -1,0 +1,89 @@
+{
+  "id": "domestic-sweden",
+  "name": "SuperEttan",
+  "market": "Sweden",
+  "level": "domestic",
+  "countrySlug": "Sweden",
+  "countryRootUrl": "https://www.eurobasket.com/Sweden/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Sweden/basketball-league-superettan_2025-2026.aspx",
+  "recapCount": 11,
+  "coverage": {
+    "competitionId": "domestic-sweden",
+    "competitionName": "SuperEttan",
+    "market": "Sweden",
+    "level": "domestic",
+    "folder": "Sweden",
+    "countryRootUrl": "https://www.eurobasket.com/Sweden/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Sweden/basketball-league-superettan_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Sweden/basketball-league-superettan_2025-2026.aspx",
+      "https://www.eurobasket.com/Sweden/basketball-League-SuperEttan-History.aspx"
+    ],
+    "discoveredSeasons": 18,
+    "recapSeasons": 11,
+    "articleRecaps": 5,
+    "imageCaptionRecaps": 6,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2007-2008",
+        "candidates": [
+          "https://www.eurobasket.com/Sweden/basketball-league-basketettan_2007-2008.aspx",
+          "https://www.eurobasket.com/Sweden/basketball-League-Basketettan_2007-2008.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2006-2007",
+        "candidates": [
+          "https://www.eurobasket.com/Sweden/basketball-league-basketettan_2006-2007.aspx",
+          "https://www.eurobasket.com/Sweden/basketball-League-Basketettan_2006-2007.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2004-2005",
+        "candidates": [
+          "https://www.eurobasket.com/Sweden/basketball-league-basketettan_2004-2005.aspx",
+          "https://www.eurobasket.com/Sweden/basketball-League-Basketettan_2004-2005.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2003-2004",
+        "candidates": [
+          "https://www.eurobasket.com/Sweden/basketball-league-basketettan_2003-2004.aspx",
+          "https://www.eurobasket.com/Sweden/basketball-League-Basketettan_2003-2004.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2002-2003",
+        "candidates": [
+          "https://www.eurobasket.com/Sweden/basketball-league-basketettan_2002-2003.aspx",
+          "https://www.eurobasket.com/Sweden/basketball-League-Basketettan_2002-2003.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2001-2002",
+        "candidates": [
+          "https://www.eurobasket.com/Sweden/basketball-league-basketettan_2001-2002.aspx",
+          "https://www.eurobasket.com/Sweden/basketball-League-Basketettan_2001-2002.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2000-2001",
+        "candidates": [
+          "https://www.eurobasket.com/Sweden/basketball-league-basketettan_2000-2001.aspx",
+          "https://www.eurobasket.com/Sweden/basketball-League-Basketettan_2000-2001.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "2005-2006",
+    "lastSeason": "2025-2026"
+  }
+}

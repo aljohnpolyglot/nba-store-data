@@ -1,0 +1,49 @@
+{
+  "id": "domestic-slovenia",
+  "name": "Liga OTP banka",
+  "market": "Slovenia",
+  "level": "domestic",
+  "countrySlug": "Slovenia",
+  "countryRootUrl": "https://www.eurobasket.com/Slovenia/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Slovenia/basketball-liga-otp-banka_2025-2026.aspx",
+  "recapCount": 24,
+  "coverage": {
+    "competitionId": "domestic-slovenia",
+    "competitionName": "Liga OTP banka",
+    "market": "Slovenia",
+    "level": "domestic",
+    "folder": "Slovenia",
+    "countryRootUrl": "https://www.eurobasket.com/Slovenia/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Slovenia/basketball-liga-otp-banka_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Slovenia/basketball-liga-otp-banka_2025-2026.aspx",
+      "https://www.eurobasket.com/Slovenia/basketball-Liga-OTP-banka-History.aspx"
+    ],
+    "discoveredSeasons": 26,
+    "recapSeasons": 24,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 18,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2010-2011",
+        "candidates": [
+          "https://www.eurobasket.com/Slovenia/basketball-liga-telemach_2010-2011.aspx",
+          "https://www.eurobasket.com/Slovenia/basketball-Liga-Telemach_2010-2011.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2000-2001",
+        "candidates": [
+          "https://www.eurobasket.com/Slovenia/basketball-liga-kolinska_2000-2001.aspx",
+          "https://www.eurobasket.com/Slovenia/basketball-Liga-Kolinska_2000-2001.aspx"
+        ],
+        "reason": "https://www.eurobasket.com/Slovenia/basketball-liga-kolinska_2000-2001.aspx: HTTP 500  | https://www.eurobasket.com/Slovenia/basketball-Liga-Kolinska_2000-2001.aspx: HTTP 500 "
+      }
+    ],
+    "firstSeason": "2001-2002",
+    "lastSeason": "2025-2026"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": "domestic-spain",
+  "name": "Liga Endesa",
+  "market": "Spain",
+  "level": "domestic",
+  "countrySlug": "Spain",
+  "countryRootUrl": "https://www.eurobasket.com/Spain/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Spain/basketball-liga-endesa_2025-2026.aspx",
+  "recapCount": 74,
+  "coverage": {
+    "competitionId": "domestic-spain",
+    "competitionName": "Liga Endesa",
+    "market": "Spain",
+    "level": "domestic",
+    "folder": "Spain",
+    "countryRootUrl": "https://www.eurobasket.com/Spain/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Spain/basketball-liga-endesa_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Spain/basketball-liga-endesa_2025-2026.aspx",
+      "https://www.eurobasket.com/Spain/basketball-Liga-Endesa-History.aspx"
+    ],
+    "discoveredSeasons": 92,
+    "recapSeasons": 74,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 42,
+    "historyOnlyRecaps": 3,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "1950",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1950.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1950.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1949",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1949.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1949.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1948",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1948.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1948.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1947",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1947.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1947.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1946",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1946.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1946.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1945",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1945.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1945.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1944",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1944.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1944.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1943",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1943.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1943.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1942",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1942.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1942.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1941",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1941.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1941.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1940",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1940.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1940.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1939",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1939.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1939.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1938",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1938.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1938.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1937",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1937.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1937.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1936",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1936.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1936.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1935",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1935.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1935.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1934",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1934.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1934.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1933",
+        "candidates": [
+          "https://www.eurobasket.com/Spain/basketball-primera-liga-nacional_1933.aspx",
+          "https://www.eurobasket.com/Spain/basketball-Primera-Liga-Nacional_1933.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "1932-1933",
+    "lastSeason": "2025-2026"
+  }
+}
