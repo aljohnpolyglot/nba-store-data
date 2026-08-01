@@ -1,0 +1,47 @@
+{
+  "id": "domestic-estonia",
+  "name": "U19 League",
+  "market": "Estonia",
+  "level": "domestic",
+  "countrySlug": "Estonia",
+  "countryRootUrl": "https://www.eurobasket.com/Estonia/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Estonia/basketball-league-u19_2025-2026.aspx",
+  "recapCount": 6,
+  "coverage": {
+    "competitionId": "domestic-estonia",
+    "competitionName": "U19 League",
+    "market": "Estonia",
+    "level": "domestic",
+    "folder": "Estonia",
+    "countryRootUrl": "https://www.eurobasket.com/Estonia/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Estonia/basketball-league-u19_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Estonia/basketball-league-u19_2025-2026.aspx",
+      "https://www.eurobasket.com/Estonia/basketball-League-U19-History.aspx"
+    ],
+    "discoveredSeasons": 8,
+    "recapSeasons": 6,
+    "articleRecaps": 4,
+    "imageCaptionRecaps": 2,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2020-2021",
+        "candidates": [
+          "https://www.eurobasket.com/Estonia/basketball-league-u19_2020-2021.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2019-2020",
+        "candidates": [
+          "https://www.eurobasket.com/Estonia/basketball-league-u19_2019-2020.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "2018-2019",
+    "lastSeason": "2025-2026"
+  }
+}

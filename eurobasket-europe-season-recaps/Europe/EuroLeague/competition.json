@@ -1,0 +1,30 @@
+{
+  "id": "euroleague",
+  "name": "EuroLeague",
+  "market": "Europe",
+  "level": "continental",
+  "primaryLeagueUrl": "/Euroleague/basketball_2025-2026.aspx",
+  "recapCount": 68,
+  "coverage": {
+    "competitionId": "euroleague",
+    "competitionName": "EuroLeague",
+    "market": "Europe",
+    "level": "continental",
+    "folder": "Europe/EuroLeague",
+    "countryRootUrl": "",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Euroleague/basketball_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Euroleague/basketball_2025-2026.aspx",
+      "https://www.eurobasket.com/Euroleague/Basketball-History.aspx"
+    ],
+    "discoveredSeasons": 68,
+    "recapSeasons": 68,
+    "articleRecaps": 24,
+    "imageCaptionRecaps": 0,
+    "historyOnlyRecaps": 44,
+    "cachedSeasons": 0,
+    "missingSeasons": [],
+    "firstSeason": "1957-1958",
+    "lastSeason": "2025-2026"
+  }
+}

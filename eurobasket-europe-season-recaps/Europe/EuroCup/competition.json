@@ -1,0 +1,30 @@
+{
+  "id": "eurocup",
+  "name": "EuroCup",
+  "market": "Europe",
+  "level": "continental",
+  "primaryLeagueUrl": "/Eurocup/basketball_2025-2026_men.aspx",
+  "recapCount": 59,
+  "coverage": {
+    "competitionId": "eurocup",
+    "competitionName": "EuroCup",
+    "market": "Europe",
+    "level": "continental",
+    "folder": "Europe/EuroCup",
+    "countryRootUrl": "",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Eurocup/basketball_2025-2026_men.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Eurocup/basketball_2025-2026_men.aspx",
+      "https://www.eurobasket.com/Eurocup/basketball-History.aspx"
+    ],
+    "discoveredSeasons": 59,
+    "recapSeasons": 59,
+    "articleRecaps": 5,
+    "imageCaptionRecaps": 5,
+    "historyOnlyRecaps": 49,
+    "cachedSeasons": 0,
+    "missingSeasons": [],
+    "firstSeason": "1966-1967",
+    "lastSeason": "2025-2026"
+  }
+}

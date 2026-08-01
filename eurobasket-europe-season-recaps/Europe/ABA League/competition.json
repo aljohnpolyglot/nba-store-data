@@ -1,0 +1,30 @@
+{
+  "id": "aba-league",
+  "name": "ABA League",
+  "market": "Regional Europe",
+  "level": "regional",
+  "primaryLeagueUrl": "/ABA-League/basketball_2025-2026.aspx",
+  "recapCount": 24,
+  "coverage": {
+    "competitionId": "aba-league",
+    "competitionName": "ABA League",
+    "market": "Regional Europe",
+    "level": "regional",
+    "folder": "Europe/ABA League",
+    "countryRootUrl": "",
+    "primaryLeagueUrl": "https://www.eurobasket.com/ABA-League/basketball-1_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/ABA-League/basketball-1_2025-2026.aspx",
+      "https://www.eurobasket.com/ABA-League/Basketball-History.aspx"
+    ],
+    "discoveredSeasons": 24,
+    "recapSeasons": 24,
+    "articleRecaps": 7,
+    "imageCaptionRecaps": 7,
+    "historyOnlyRecaps": 10,
+    "cachedSeasons": 0,
+    "missingSeasons": [],
+    "firstSeason": "2001-2002",
+    "lastSeason": "2025-2026"
+  }
+}
