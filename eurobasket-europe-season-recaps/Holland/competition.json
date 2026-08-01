@@ -1,0 +1,41 @@
+{
+  "id": "domestic-holland",
+  "name": "DBL",
+  "market": "Holland",
+  "level": "domestic",
+  "countrySlug": "Holland",
+  "countryRootUrl": "https://www.eurobasket.com/Holland/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Holland/dutch-basketball-league_2025-2026.aspx",
+  "recapCount": 16,
+  "coverage": {
+    "competitionId": "domestic-holland",
+    "competitionName": "DBL",
+    "market": "Holland",
+    "level": "domestic",
+    "folder": "Holland",
+    "countryRootUrl": "https://www.eurobasket.com/Holland/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Holland/dutch-basketball-league_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Holland/dutch-basketball-league_2025-2026.aspx",
+      "https://www.eurobasket.com/Holland/Dutch-Basketball-League-History.aspx"
+    ],
+    "discoveredSeasons": 17,
+    "recapSeasons": 16,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 10,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2000-2001",
+        "candidates": [
+          "https://www.eurobasket.com/Holland/basketball-eredivisie_2000-2001.aspx",
+          "https://www.eurobasket.com/Holland/basketball-Eredivisie_2000-2001.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "2001-2002",
+    "lastSeason": "2025-2026"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "domestic-germany",
+  "name": "BBL",
+  "market": "Germany",
+  "level": "domestic",
+  "countrySlug": "Germany",
+  "countryRootUrl": "https://www.eurobasket.com/Germany/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Germany/basketball-bundesliga_2025-2026.aspx",
+  "recapCount": 81,
+  "coverage": {
+    "competitionId": "domestic-germany",
+    "competitionName": "BBL",
+    "market": "Germany",
+    "level": "domestic",
+    "folder": "Germany",
+    "countryRootUrl": "https://www.eurobasket.com/Germany/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Germany/basketball-bundesliga_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Germany/basketball-bundesliga_2025-2026.aspx",
+      "https://www.eurobasket.com/Germany/Basketball-Bundesliga-History.aspx"
+    ],
+    "discoveredSeasons": 81,
+    "recapSeasons": 81,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 25,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [],
+    "firstSeason": "1938-1939",
+    "lastSeason": "2025-2026"
+  }
+}

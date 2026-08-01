@@ -1,0 +1,40 @@
+{
+  "id": "domestic-france",
+  "name": "Betclic ELITE",
+  "market": "France",
+  "level": "domestic",
+  "countrySlug": "France",
+  "countryRootUrl": "https://www.eurobasket.com/France/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/france/basketball-betclic-elite_2025-2026.aspx",
+  "recapCount": 102,
+  "coverage": {
+    "competitionId": "domestic-france",
+    "competitionName": "Betclic ELITE",
+    "market": "France",
+    "level": "domestic",
+    "folder": "France",
+    "countryRootUrl": "https://www.eurobasket.com/France/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/france/basketball-betclic-elite_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/france/basketball-betclic-elite_2025-2026.aspx",
+      "https://www.eurobasket.com/France/basketball-Betclic-Elite-History.aspx"
+    ],
+    "discoveredSeasons": 103,
+    "recapSeasons": 102,
+    "articleRecaps": 5,
+    "imageCaptionRecaps": 46,
+    "historyOnlyRecaps": 2,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "1921",
+        "candidates": [
+          "https://www.eurobasket.com/France/basketball-excellence_1921.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "1920-1921",
+    "lastSeason": "2025-2026"
+  }
+}

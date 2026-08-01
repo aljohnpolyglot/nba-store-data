@@ -1,0 +1,49 @@
+{
+  "id": "domestic-georgia",
+  "name": "A-League",
+  "market": "Georgia",
+  "level": "domestic",
+  "countrySlug": "Georgia",
+  "countryRootUrl": "https://www.eurobasket.com/Georgia/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Georgia/basketball-a-league_2025-2026.aspx",
+  "recapCount": 9,
+  "coverage": {
+    "competitionId": "domestic-georgia",
+    "competitionName": "A-League",
+    "market": "Georgia",
+    "level": "domestic",
+    "folder": "Georgia",
+    "countryRootUrl": "https://www.eurobasket.com/Georgia/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Georgia/basketball-a-league_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Georgia/basketball-a-league_2025-2026.aspx",
+      "https://www.eurobasket.com/Georgia/basketball-A-League-History.aspx"
+    ],
+    "discoveredSeasons": 11,
+    "recapSeasons": 9,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 3,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2019-2020",
+        "candidates": [
+          "https://www.eurobasket.com/Georgia/basketball-a-league_2019-2020.aspx",
+          "https://www.eurobasket.com/Georgia/basketball-A-League_2019-2020.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2015-2016",
+        "candidates": [
+          "https://www.eurobasket.com/Georgia/basketball-a-league_2015-2016.aspx",
+          "https://www.eurobasket.com/Georgia/basketball-A-League_2015-2016.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "2016-2017",
+    "lastSeason": "2025-2026"
+  }
+}

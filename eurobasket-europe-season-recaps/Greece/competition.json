@@ -1,0 +1,32 @@
+{
+  "id": "domestic-greece",
+  "name": "Elite League",
+  "market": "Greece",
+  "level": "domestic",
+  "countrySlug": "Greece",
+  "countryRootUrl": "https://www.eurobasket.com/Greece/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Greece/elite-league_2025-2026.aspx",
+  "recapCount": 5,
+  "coverage": {
+    "competitionId": "domestic-greece",
+    "competitionName": "Elite League",
+    "market": "Greece",
+    "level": "domestic",
+    "folder": "Greece",
+    "countryRootUrl": "https://www.eurobasket.com/Greece/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Greece/elite-league_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Greece/elite-league_2025-2026.aspx",
+      "https://www.eurobasket.com/Greece/Elite-League-History.aspx"
+    ],
+    "discoveredSeasons": 5,
+    "recapSeasons": 5,
+    "articleRecaps": 5,
+    "imageCaptionRecaps": 0,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [],
+    "firstSeason": "2021-2022",
+    "lastSeason": "2025-2026"
+  }
+}
