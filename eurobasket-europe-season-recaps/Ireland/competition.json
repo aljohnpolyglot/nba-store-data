@@ -1,0 +1,81 @@
+{
+  "id": "domestic-ireland",
+  "name": "Super League",
+  "market": "Ireland",
+  "level": "domestic",
+  "countrySlug": "Ireland",
+  "countryRootUrl": "https://www.eurobasket.com/Ireland/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Ireland/basketball-super-league_2025-2026.aspx",
+  "recapCount": 18,
+  "coverage": {
+    "competitionId": "domestic-ireland",
+    "competitionName": "Super League",
+    "market": "Ireland",
+    "level": "domestic",
+    "folder": "Ireland",
+    "countryRootUrl": "https://www.eurobasket.com/Ireland/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Ireland/basketball-super-league_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Ireland/basketball-super-league_2025-2026.aspx",
+      "https://www.eurobasket.com/Ireland/basketball-Super-League-History.aspx"
+    ],
+    "discoveredSeasons": 24,
+    "recapSeasons": 18,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 12,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2019-2020",
+        "candidates": [
+          "https://www.eurobasket.com/Ireland/basketball-super-league_2019-2020.aspx",
+          "https://www.eurobasket.com/Ireland/basketball-Super-League_2019-2020.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2008-2009",
+        "candidates": [
+          "https://www.eurobasket.com/Ireland/basketball-super-league_2008-2009.aspx",
+          "https://www.eurobasket.com/Ireland/basketball-Super-League_2008-2009.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2003-2004",
+        "candidates": [
+          "https://www.eurobasket.com/Ireland/basketball-super-league_2003-2004.aspx",
+          "https://www.eurobasket.com/Ireland/basketball-Super-League_2003-2004.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2002-2003",
+        "candidates": [
+          "https://www.eurobasket.com/Ireland/basketball-super-league_2002-2003.aspx",
+          "https://www.eurobasket.com/Ireland/basketball-Super-League_2002-2003.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2001-2002",
+        "candidates": [
+          "https://www.eurobasket.com/Ireland/basketball-super-league_2001-2002.aspx",
+          "https://www.eurobasket.com/Ireland/basketball-Super-League_2001-2002.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2000-2001",
+        "candidates": [
+          "https://www.eurobasket.com/Ireland/basketball-super-league_2000-2001.aspx",
+          "https://www.eurobasket.com/Ireland/basketball-Super-League_2000-2001.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "2004-2005",
+    "lastSeason": "2025-2026"
+  }
+}

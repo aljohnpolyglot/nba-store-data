@@ -1,0 +1,41 @@
+{
+  "id": "domestic-iceland",
+  "name": "Bonus League",
+  "market": "Iceland",
+  "level": "domestic",
+  "countrySlug": "Iceland",
+  "countryRootUrl": "https://www.eurobasket.com/Iceland/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Iceland/basketball-bonus-league_2025-2026.aspx",
+  "recapCount": 23,
+  "coverage": {
+    "competitionId": "domestic-iceland",
+    "competitionName": "Bonus League",
+    "market": "Iceland",
+    "level": "domestic",
+    "folder": "Iceland",
+    "countryRootUrl": "https://www.eurobasket.com/Iceland/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Iceland/basketball-bonus-league_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Iceland/basketball-bonus-league_2025-2026.aspx",
+      "https://www.eurobasket.com/Iceland/basketball-Bonus-League-History.aspx"
+    ],
+    "discoveredSeasons": 24,
+    "recapSeasons": 23,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 17,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2002-2003",
+        "candidates": [
+          "https://www.eurobasket.com/Iceland/basketball-epson-league_2002-2003.aspx",
+          "https://www.eurobasket.com/Iceland/basketball-Epson-League_2002-2003.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "2003-2004",
+    "lastSeason": "2025-2026"
+  }
+}

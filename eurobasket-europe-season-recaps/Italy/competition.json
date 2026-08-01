@@ -1,0 +1,157 @@
+{
+  "id": "domestic-italy",
+  "name": "Serie A",
+  "market": "Italy",
+  "level": "domestic",
+  "countrySlug": "Italy",
+  "countryRootUrl": "https://www.eurobasket.com/Italy/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Italy/basketball-league-serie-a_2025-2026.aspx",
+  "recapCount": 104,
+  "coverage": {
+    "competitionId": "domestic-italy",
+    "competitionName": "Serie A",
+    "market": "Italy",
+    "level": "domestic",
+    "folder": "Italy",
+    "countryRootUrl": "https://www.eurobasket.com/Italy/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Italy/basketball-league-serie-a_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Italy/basketball-league-serie-a_2025-2026.aspx",
+      "https://www.eurobasket.com/Italy/basketball-League-Serie-A-History.aspx"
+    ],
+    "discoveredSeasons": 121,
+    "recapSeasons": 104,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 67,
+    "historyOnlyRecaps": 15,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "1944",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/basketball-league-serie-a_1944.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1935",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/divisione-nazionale_1935.aspx",
+          "https://www.eurobasket.com/Italy/Divisione-Nazionale_1935.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1934",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/divisione-nazionale_1934.aspx",
+          "https://www.eurobasket.com/Italy/Divisione-Nazionale_1934.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1933",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/divisione-nazionale_1933.aspx",
+          "https://www.eurobasket.com/Italy/Divisione-Nazionale_1933.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1932",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/divisione-nazionale_1932.aspx",
+          "https://www.eurobasket.com/Italy/Divisione-Nazionale_1932.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1931",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/divisione-nazionale_1931.aspx",
+          "https://www.eurobasket.com/Italy/Divisione-Nazionale_1931.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1930",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/italian-basketball-championship_1930.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1929",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/italian-basketball-championship_1929.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1928",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/italian-basketball-championship_1928.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1927",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/italian-basketball-championship_1927.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1926",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/italian-basketball-championship_1926.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1925",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/italian-basketball-championship_1925.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1924",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/italian-basketball-championship_1924.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1923",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/italian-basketball-championship_1923.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1922",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/italian-basketball-championship_1922.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1921",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/italian-basketball-championship_1921.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1920",
+        "candidates": [
+          "https://www.eurobasket.com/Italy/italian-basketball-championship_1920.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "1919-1920",
+    "lastSeason": "2025-2026"
+  }
+}

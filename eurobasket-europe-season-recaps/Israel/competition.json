@@ -1,0 +1,273 @@
+{
+  "id": "domestic-israel",
+  "name": "Winner League",
+  "market": "Israel",
+  "level": "domestic",
+  "countrySlug": "Israel",
+  "countryRootUrl": "https://www.eurobasket.com/Israel/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Israel/basketball-winner-league_2025-2026.aspx",
+  "recapCount": 34,
+  "coverage": {
+    "competitionId": "domestic-israel",
+    "competitionName": "Winner League",
+    "market": "Israel",
+    "level": "domestic",
+    "folder": "Israel",
+    "countryRootUrl": "https://www.eurobasket.com/Israel/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Israel/basketball-winner-league_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Israel/basketball-winner-league_2025-2026.aspx",
+      "https://www.eurobasket.com/Israel/basketball-Winner-League-History.aspx"
+    ],
+    "discoveredSeasons": 64,
+    "recapSeasons": 34,
+    "articleRecaps": 5,
+    "imageCaptionRecaps": 19,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "1984-1985",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1984-1985.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1984-1985.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1983-1984",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1983-1984.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1983-1984.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1982-1983",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1982-1983.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1982-1983.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1981-1982",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1981-1982.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1981-1982.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1980-1981",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1980-1981.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1980-1981.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1979-1980",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1979-1980.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1979-1980.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1978-1979",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1978-1979.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1978-1979.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1977-1978",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1977-1978.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1977-1978.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1974-1975",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1974-1975.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1974-1975.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1973-1974",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1973-1974.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1973-1974.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1972-1973",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1972-1973.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1972-1973.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1971-1972",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1971-1972.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1971-1972.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1970-1971",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1970-1971.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1970-1971.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1969-1970",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1969-1970.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1969-1970.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1968-1969",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1968-1969.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1968-1969.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1967-1968",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1967-1968.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1967-1968.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1966-1967",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1966-1967.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1966-1967.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1965-1966",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1965-1966.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1965-1966.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1964-1965",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1964-1965.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1964-1965.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1963-1964",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1963-1964.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1963-1964.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1962-1963",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1962-1963.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1962-1963.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1961-1962",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1961-1962.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1961-1962.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1960-1961",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1960-1961.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1960-1961.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1959-1960",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1959-1960.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1959-1960.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1958-1959",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1958-1959.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1958-1959.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1957-1958",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1957-1958.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1957-1958.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1956-1957",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1956-1957.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1956-1957.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1955-1956",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1955-1956.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1955-1956.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1954-1955",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1954-1955.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1954-1955.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1953-1954",
+        "candidates": [
+          "https://www.eurobasket.com/Israel/basketball-premier-league_1953-1954.aspx",
+          "https://www.eurobasket.com/Israel/basketball-Premier-League_1953-1954.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "1975-1976",
+    "lastSeason": "2025-2026"
+  }
+}
