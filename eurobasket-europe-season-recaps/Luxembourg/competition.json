@@ -1,0 +1,57 @@
+{
+  "id": "domestic-luxembourg",
+  "name": "LBBL",
+  "market": "Luxembourg",
+  "level": "domestic",
+  "countrySlug": "Luxembourg",
+  "countryRootUrl": "https://www.eurobasket.com/Luxembourg/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/luxembourg/luxembourg-basketball-league_2025-2026.aspx",
+  "recapCount": 23,
+  "coverage": {
+    "competitionId": "domestic-luxembourg",
+    "competitionName": "LBBL",
+    "market": "Luxembourg",
+    "level": "domestic",
+    "folder": "Luxembourg",
+    "countryRootUrl": "https://www.eurobasket.com/Luxembourg/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/luxembourg/luxembourg-basketball-league_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/luxembourg/luxembourg-basketball-league_2025-2026.aspx",
+      "https://www.eurobasket.com/Luxembourg/Luxembourg-Basketball-League-History.aspx"
+    ],
+    "discoveredSeasons": 26,
+    "recapSeasons": 23,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 17,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2005-2006",
+        "candidates": [
+          "https://www.eurobasket.com/Luxembourg/basketball-league-dbbl_2005-2006.aspx",
+          "https://www.eurobasket.com/Luxembourg/basketball-League-DBBL_2005-2006.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2001-2002",
+        "candidates": [
+          "https://www.eurobasket.com/Luxembourg/basketball-nationale-1_2001-2002.aspx",
+          "https://www.eurobasket.com/Luxembourg/basketball-Nationale-1_2001-2002.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2000-2001",
+        "candidates": [
+          "https://www.eurobasket.com/Luxembourg/basketball-nationale-1_2000-2001.aspx",
+          "https://www.eurobasket.com/Luxembourg/basketball-Nationale-1_2000-2001.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "2002-2003",
+    "lastSeason": "2025-2026"
+  }
+}

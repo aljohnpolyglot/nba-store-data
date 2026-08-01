@@ -1,0 +1,40 @@
+{
+  "id": "domestic-lithuania",
+  "name": "U19 League",
+  "market": "Lithuania",
+  "level": "domestic",
+  "countrySlug": "Lithuania",
+  "countryRootUrl": "https://www.eurobasket.com/Lithuania/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Lithuania/basketball-league-u19_2025-2026.aspx",
+  "recapCount": 7,
+  "coverage": {
+    "competitionId": "domestic-lithuania",
+    "competitionName": "U19 League",
+    "market": "Lithuania",
+    "level": "domestic",
+    "folder": "Lithuania",
+    "countryRootUrl": "https://www.eurobasket.com/Lithuania/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Lithuania/basketball-league-u19_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Lithuania/basketball-league-u19_2025-2026.aspx",
+      "https://www.eurobasket.com/Lithuania/basketball-League-U19-History.aspx"
+    ],
+    "discoveredSeasons": 8,
+    "recapSeasons": 7,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 1,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2019-2020",
+        "candidates": [
+          "https://www.eurobasket.com/Lithuania/basketball-league-u19_2019-2020.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "2018-2019",
+    "lastSeason": "2025-2026"
+  }
+}

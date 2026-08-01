@@ -1,0 +1,40 @@
+{
+  "id": "domestic-latvia",
+  "name": "U19 League",
+  "market": "Latvia",
+  "level": "domestic",
+  "countrySlug": "Latvia",
+  "countryRootUrl": "https://www.eurobasket.com/Latvia/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Latvia/basketball-league-u19_2025-2026.aspx",
+  "recapCount": 7,
+  "coverage": {
+    "competitionId": "domestic-latvia",
+    "competitionName": "U19 League",
+    "market": "Latvia",
+    "level": "domestic",
+    "folder": "Latvia",
+    "countryRootUrl": "https://www.eurobasket.com/Latvia/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Latvia/basketball-league-u19_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Latvia/basketball-league-u19_2025-2026.aspx",
+      "https://www.eurobasket.com/Latvia/basketball-League-U19-History.aspx"
+    ],
+    "discoveredSeasons": 8,
+    "recapSeasons": 7,
+    "articleRecaps": 5,
+    "imageCaptionRecaps": 2,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2019-2020",
+        "candidates": [
+          "https://www.eurobasket.com/Latvia/basketball-league-u19_2019-2020.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "2018-2019",
+    "lastSeason": "2025-2026"
+  }
+}

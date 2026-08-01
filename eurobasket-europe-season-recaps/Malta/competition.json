@@ -1,0 +1,73 @@
+{
+  "id": "domestic-malta",
+  "name": "BOV Division 1",
+  "market": "Malta",
+  "level": "domestic",
+  "countrySlug": "Malta",
+  "countryRootUrl": "https://www.eurobasket.com/Malta/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Malta/basketball-bov-league-d1_2025-2026.aspx",
+  "recapCount": 17,
+  "coverage": {
+    "competitionId": "domestic-malta",
+    "competitionName": "BOV Division 1",
+    "market": "Malta",
+    "level": "domestic",
+    "folder": "Malta",
+    "countryRootUrl": "https://www.eurobasket.com/Malta/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Malta/basketball-bov-league-d1_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Malta/basketball-bov-league-d1_2025-2026.aspx",
+      "https://www.eurobasket.com/Malta/basketball-BOV-League-D1-History.aspx"
+    ],
+    "discoveredSeasons": 22,
+    "recapSeasons": 17,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 11,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2019-2020",
+        "candidates": [
+          "https://www.eurobasket.com/Malta/basketball-bov-league-d1_2019-2020.aspx",
+          "https://www.eurobasket.com/Malta/basketball-BOV-League-D1_2019-2020.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2010-2011",
+        "candidates": [
+          "https://www.eurobasket.com/Malta/basketball-division-1_2010-2011.aspx",
+          "https://www.eurobasket.com/Malta/basketball-Division-1_2010-2011.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2008-2009",
+        "candidates": [
+          "https://www.eurobasket.com/Malta/basketball-division-1_2008-2009.aspx",
+          "https://www.eurobasket.com/Malta/basketball-Division-1_2008-2009.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2005-2006",
+        "candidates": [
+          "https://www.eurobasket.com/Malta/basketball-division-1_2005-2006.aspx",
+          "https://www.eurobasket.com/Malta/basketball-Division-1_2005-2006.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2004-2005",
+        "candidates": [
+          "https://www.eurobasket.com/Malta/basketball-division-1_2004-2005.aspx",
+          "https://www.eurobasket.com/Malta/basketball-Division-1_2004-2005.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "2006-2007",
+    "lastSeason": "2025-2026"
+  }
+}
