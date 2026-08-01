@@ -1,0 +1,97 @@
+{
+  "id": "domestic-belarus",
+  "name": "Premier League",
+  "market": "Belarus",
+  "level": "domestic",
+  "countrySlug": "Belarus",
+  "countryRootUrl": "https://www.eurobasket.com/Belarus/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Belarus/basketball-premier-league_2025-2026.aspx",
+  "recapCount": 17,
+  "coverage": {
+    "competitionId": "domestic-belarus",
+    "competitionName": "Premier League",
+    "market": "Belarus",
+    "level": "domestic",
+    "folder": "Belarus",
+    "countryRootUrl": "https://www.eurobasket.com/Belarus/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Belarus/basketball-premier-league_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Belarus/basketball-premier-league_2025-2026.aspx",
+      "https://www.eurobasket.com/Belarus/basketball-Premier-League-History.aspx"
+    ],
+    "discoveredSeasons": 25,
+    "recapSeasons": 17,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 11,
+    "historyOnlyRecaps": 0,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "2008-2009",
+        "candidates": [
+          "https://www.eurobasket.com/Belarus/basketball-premier-league_2008-2009.aspx",
+          "https://www.eurobasket.com/Belarus/basketball-Premier-League_2008-2009.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2007-2008",
+        "candidates": [
+          "https://www.eurobasket.com/Belarus/basketball-premier-league_2007-2008.aspx",
+          "https://www.eurobasket.com/Belarus/basketball-Premier-League_2007-2008.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2006-2007",
+        "candidates": [
+          "https://www.eurobasket.com/Belarus/basketball-premier-league_2006-2007.aspx",
+          "https://www.eurobasket.com/Belarus/basketball-Premier-League_2006-2007.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2005-2006",
+        "candidates": [
+          "https://www.eurobasket.com/Belarus/basketball-premier-league_2005-2006.aspx",
+          "https://www.eurobasket.com/Belarus/basketball-Premier-League_2005-2006.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2003-2004",
+        "candidates": [
+          "https://www.eurobasket.com/Belarus/basketball-premier-league_2003-2004.aspx",
+          "https://www.eurobasket.com/Belarus/basketball-Premier-League_2003-2004.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2002-2003",
+        "candidates": [
+          "https://www.eurobasket.com/Belarus/basketball-premier-league_2002-2003.aspx",
+          "https://www.eurobasket.com/Belarus/basketball-Premier-League_2002-2003.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2001-2002",
+        "candidates": [
+          "https://www.eurobasket.com/Belarus/basketball-premier-league_2001-2002.aspx",
+          "https://www.eurobasket.com/Belarus/basketball-Premier-League_2001-2002.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "2000-2001",
+        "candidates": [
+          "https://www.eurobasket.com/Belarus/basketball-premier-league_2000-2001.aspx",
+          "https://www.eurobasket.com/Belarus/basketball-Premier-League_2000-2001.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "2004-2005",
+    "lastSeason": "2025-2026"
+  }
+}
