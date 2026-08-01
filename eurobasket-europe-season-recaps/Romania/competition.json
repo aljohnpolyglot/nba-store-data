@@ -1,0 +1,32 @@
+{
+  "id": "domestic-romania",
+  "name": "Liga Nationala",
+  "market": "Romania",
+  "level": "domestic",
+  "countrySlug": "Romania",
+  "countryRootUrl": "https://www.eurobasket.com/Romania/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Romania/basketball-liga-nationala_2025-2026.aspx",
+  "recapCount": 75,
+  "coverage": {
+    "competitionId": "domestic-romania",
+    "competitionName": "Liga Nationala",
+    "market": "Romania",
+    "level": "domestic",
+    "folder": "Romania",
+    "countryRootUrl": "https://www.eurobasket.com/Romania/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Romania/basketball-liga-nationala_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Romania/basketball-liga-nationala_2025-2026.aspx",
+      "https://www.eurobasket.com/Romania/basketball-Liga-Nationala-History.aspx"
+    ],
+    "discoveredSeasons": 75,
+    "recapSeasons": 75,
+    "articleRecaps": 6,
+    "imageCaptionRecaps": 11,
+    "historyOnlyRecaps": 2,
+    "cachedSeasons": 0,
+    "missingSeasons": [],
+    "firstSeason": "1950-1951",
+    "lastSeason": "2025-2026"
+  }
+}

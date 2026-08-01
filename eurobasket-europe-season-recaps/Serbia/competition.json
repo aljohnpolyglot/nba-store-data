@@ -1,0 +1,217 @@
+{
+  "id": "domestic-serbia",
+  "name": "KLS",
+  "market": "Serbia",
+  "level": "domestic",
+  "countrySlug": "Serbia",
+  "countryRootUrl": "https://www.eurobasket.com/Serbia/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/Serbia/kosarkaska-liga-srbije_2025-2026.aspx",
+  "recapCount": 80,
+  "coverage": {
+    "competitionId": "domestic-serbia",
+    "competitionName": "KLS",
+    "market": "Serbia",
+    "level": "domestic",
+    "folder": "Serbia",
+    "countryRootUrl": "https://www.eurobasket.com/Serbia/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/Serbia/kosarkaska-liga-srbije_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/Serbia/kosarkaska-liga-srbije_2025-2026.aspx",
+      "https://www.eurobasket.com/Serbia/Kosarkaska-Liga-Srbije-History.aspx"
+    ],
+    "discoveredSeasons": 103,
+    "recapSeasons": 80,
+    "articleRecaps": 8,
+    "imageCaptionRecaps": 15,
+    "historyOnlyRecaps": 23,
+    "cachedSeasons": 0,
+    "missingSeasons": [
+      {
+        "season": "1967",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1967.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1967.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1966",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1966.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1966.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1965",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1965.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1965.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1964",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1964.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1964.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1963",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1963.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1963.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1962",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1962.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1962.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1961",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1961.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1961.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1960",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1960.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1960.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1959",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1959.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1959.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1958",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1958.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1958.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1957",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1957.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1957.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1956",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1956.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1956.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1955",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1955.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1955.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1954",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1954.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1954.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1953",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1953.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1953.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1952",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1952.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1952.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1951",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1951.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1951.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1950",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1950.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1950.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1949",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1949.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1949.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1948",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1948.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1948.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1947",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1947.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1947.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1946",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1946.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1946.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      },
+      {
+        "season": "1945",
+        "candidates": [
+          "https://www.eurobasket.com/Serbia/basketball-prva-liga_1945.aspx",
+          "https://www.eurobasket.com/Serbia/basketball-Prva-Liga_1945.aspx"
+        ],
+        "reason": "No championship article, championship photo/caption, final summary, or title-holder fallback found"
+      }
+    ],
+    "firstSeason": "1944-1945",
+    "lastSeason": "2025-2026"
+  }
+}

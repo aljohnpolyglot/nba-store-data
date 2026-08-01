@@ -1,0 +1,32 @@
+{
+  "id": "domestic-portugal",
+  "name": "Liga Betclic",
+  "market": "Portugal",
+  "level": "domestic",
+  "countrySlug": "Portugal",
+  "countryRootUrl": "https://www.eurobasket.com/Portugal/basketball.aspx",
+  "primaryLeagueUrl": "https://www.eurobasket.com/portugal/basketball-liga-betclic-masculina_2025-2026.aspx",
+  "recapCount": 92,
+  "coverage": {
+    "competitionId": "domestic-portugal",
+    "competitionName": "Liga Betclic",
+    "market": "Portugal",
+    "level": "domestic",
+    "folder": "Portugal",
+    "countryRootUrl": "https://www.eurobasket.com/Portugal/basketball.aspx",
+    "primaryLeagueUrl": "https://www.eurobasket.com/portugal/basketball-liga-betclic-masculina_2025-2026.aspx",
+    "discoverySources": [
+      "https://www.eurobasket.com/portugal/basketball-liga-betclic-masculina_2025-2026.aspx",
+      "https://www.eurobasket.com/Portugal/basketball-Liga-Betclic-Masculina-History.aspx"
+    ],
+    "discoveredSeasons": 92,
+    "recapSeasons": 92,
+    "articleRecaps": 5,
+    "imageCaptionRecaps": 16,
+    "historyOnlyRecaps": 1,
+    "cachedSeasons": 0,
+    "missingSeasons": [],
+    "firstSeason": "1932-1933",
+    "lastSeason": "2025-2026"
+  }
+}
