@@ -1,0 +1,171 @@
+{
+  "title": "United States College Men's Basketball Head Coaches",
+  "sourceRootCategory": "Category:College men's basketball head coaches in the United States",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Category:College_men%27s_basketball_head_coaches_in_the_United_States",
+  "alternativeListCategory": "Category:Lists of college men's basketball head coaches in the United States",
+  "alternativeListUrl": "https://en.wikipedia.org/wiki/Category:Lists_of_college_men%27s_basketball_head_coaches_in_the_United_States",
+  "sourceChoice": "The direct category was selected because it exposes individual coach biography pages immediately. The alternative category contains team list articles and would require an additional list-table parsing pass.",
+  "generatedAt": "2026-08-02T03:31:26.267Z",
+  "discoveredCategoryMembers": 1513,
+  "coachCount": 1513,
+  "failedPageCount": 0,
+  "downloadedImageCount": 829,
+  "failedImageCount": 1,
+  "shardCount": 22,
+  "ratingExplanation": "Role-weighted coaching honors, head-coaching experience, and available career record data are combined into a raw score. Raw scores are then percentile-ranked within this scraped college-coach pool. The 99th percentile and above is capped at a coach rating of 92.",
+  "ratingRange": {
+    "minimum": 20,
+    "maximum": 92,
+    "ceilingPercentile": 99
+  },
+  "packageLayout": {
+    "metadata": "data/metadata.json",
+    "compactIndex": "data/index.json",
+    "fullCoachShards": "data/coaches/<SHARD>.json",
+    "imageShards": "images/<SHARD>/",
+    "weights": "config/award-weights.json",
+    "failures": "logs/failures.json",
+    "csvIncluded": false
+  },
+  "compactSettings": {
+    "rawInfoboxIncluded": false,
+    "imagesDownloaded": true,
+    "imagesConvertedToWebP": true,
+    "maximumImageDimension": 512,
+    "webpQuality": 0.82
+  },
+  "shards": [
+    {
+      "shard": "A",
+      "count": 47,
+      "dataFile": "data/coaches/A.json",
+      "imageFolder": "images/A/"
+    },
+    {
+      "shard": "B",
+      "count": 180,
+      "dataFile": "data/coaches/B.json",
+      "imageFolder": "images/B/"
+    },
+    {
+      "shard": "C",
+      "count": 72,
+      "dataFile": "data/coaches/C.json",
+      "imageFolder": "images/C/"
+    },
+    {
+      "shard": "D",
+      "count": 141,
+      "dataFile": "data/coaches/D.json",
+      "imageFolder": "images/D/"
+    },
+    {
+      "shard": "E",
+      "count": 54,
+      "dataFile": "data/coaches/E.json",
+      "imageFolder": "images/E/"
+    },
+    {
+      "shard": "F",
+      "count": 40,
+      "dataFile": "data/coaches/F.json",
+      "imageFolder": "images/F/"
+    },
+    {
+      "shard": "G",
+      "count": 66,
+      "dataFile": "data/coaches/G.json",
+      "imageFolder": "images/G/"
+    },
+    {
+      "shard": "H",
+      "count": 46,
+      "dataFile": "data/coaches/H.json",
+      "imageFolder": "images/H/"
+    },
+    {
+      "shard": "I",
+      "count": 2,
+      "dataFile": "data/coaches/I.json",
+      "imageFolder": "images/I/"
+    },
+    {
+      "shard": "J",
+      "count": 240,
+      "dataFile": "data/coaches/J.json",
+      "imageFolder": "images/J/"
+    },
+    {
+      "shard": "K",
+      "count": 51,
+      "dataFile": "data/coaches/K.json",
+      "imageFolder": "images/K/"
+    },
+    {
+      "shard": "L",
+      "count": 59,
+      "dataFile": "data/coaches/L.json",
+      "imageFolder": "images/L/"
+    },
+    {
+      "shard": "M",
+      "count": 117,
+      "dataFile": "data/coaches/M.json",
+      "imageFolder": "images/M/"
+    },
+    {
+      "shard": "N",
+      "count": 20,
+      "dataFile": "data/coaches/N.json",
+      "imageFolder": "images/N/"
+    },
+    {
+      "shard": "O",
+      "count": 5,
+      "dataFile": "data/coaches/O.json",
+      "imageFolder": "images/O/"
+    },
+    {
+      "shard": "P",
+      "count": 53,
+      "dataFile": "data/coaches/P.json",
+      "imageFolder": "images/P/"
+    },
+    {
+      "shard": "R",
+      "count": 111,
+      "dataFile": "data/coaches/R.json",
+      "imageFolder": "images/R/"
+    },
+    {
+      "shard": "S",
+      "count": 87,
+      "dataFile": "data/coaches/S.json",
+      "imageFolder": "images/S/"
+    },
+    {
+      "shard": "T",
+      "count": 85,
+      "dataFile": "data/coaches/T.json",
+      "imageFolder": "images/T/"
+    },
+    {
+      "shard": "V",
+      "count": 2,
+      "dataFile": "data/coaches/V.json",
+      "imageFolder": "images/V/"
+    },
+    {
+      "shard": "W",
+      "count": 32,
+      "dataFile": "data/coaches/W.json",
+      "imageFolder": "images/W/"
+    },
+    {
+      "shard": "Z",
+      "count": 3,
+      "dataFile": "data/coaches/Z.json",
+      "imageFolder": "images/Z/"
+    }
+  ]
+}
