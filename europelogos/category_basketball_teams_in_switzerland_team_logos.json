@@ -1,0 +1,502 @@
+{
+  "generatedAt": "2026-08-09T21:32:01.368Z",
+  "sourceTitle": "Category:Basketball teams in Switzerland",
+  "sourceUrl": "https://en.wikipedia.org/wiki/Category:Basketball_teams_in_Switzerland",
+  "detection": {
+    "plainListCount": 0,
+    "plainListLinks": 0,
+    "matchedTables": 0,
+    "tableLinks": 0,
+    "categoryLinks": 27,
+    "navboxLinks": 0,
+    "uniqueTeams": 27,
+    "logosFound": 20,
+    "logosMissing": 7
+  },
+  "teams": [
+    {
+      "displayName": "Switzerland women's national basketball team",
+      "articleTitle": "Switzerland women's national basketball team",
+      "pageUrl": "https://en.wikipedia.org/wiki/Switzerland_women%27s_national_basketball_team",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Increase2.svg",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Increase2.svg/20px-Increase2.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Increase",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "AS Viganello Basket",
+      "articleTitle": "AS Viganello Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/AS_Viganello_Basket",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "A"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Kit_body_basketballwhiteborder.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Kit_body_basketballwhiteborder.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": null,
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "BBC Lausanne",
+      "articleTitle": "BBC Lausanne",
+      "pageUrl": "https://en.wikipedia.org/wiki/BBC_Lausanne",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "B"
+      ],
+      "rowValues": [],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox",
+      "error": null
+    },
+    {
+      "displayName": "BBC Monthey-Chablais",
+      "articleTitle": "BBC Monthey-Chablais",
+      "pageUrl": "https://en.wikipedia.org/wiki/BBC_Monthey-Chablais",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "B"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/BBC_Monthey-Chablais_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/BBC_Monthey-Chablais_logo.png/250px-BBC_Monthey-Chablais_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "BBC Monthey-Chablais logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "BBC Nyon",
+      "articleTitle": "BBC Nyon",
+      "pageUrl": "https://en.wikipedia.org/wiki/BBC_Nyon",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "B"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/BBC_Nyon_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/BBC_Nyon_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "BBC Nyon logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "BC Arlesheim",
+      "articleTitle": "BC Arlesheim",
+      "pageUrl": "https://en.wikipedia.org/wiki/BC_Arlesheim",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "B"
+      ],
+      "rowValues": [],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox image",
+      "error": null
+    },
+    {
+      "displayName": "BC Boncourt",
+      "articleTitle": "BC Boncourt",
+      "pageUrl": "https://en.wikipedia.org/wiki/BC_Boncourt",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "B"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ee/BC_Boncourt.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/e/ee/BC_Boncourt.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "Boncourt logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Brunnen Basket",
+      "articleTitle": "Brunnen Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Brunnen_Basket",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "B"
+      ],
+      "rowValues": [],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox image",
+      "error": null
+    },
+    {
+      "displayName": "Elfic Fribourg",
+      "articleTitle": "Elfic Fribourg",
+      "pageUrl": "https://en.wikipedia.org/wiki/Elfic_Fribourg",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "E"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f6/Elfic_Fribourg_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Elfic_Fribourg_logo.png/250px-Elfic_Fribourg_logo.png",
+      "logoAlt": "Elfic Fribourg logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Fribourg Olympic Basket",
+      "articleTitle": "Fribourg Olympic Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Fribourg_Olympic_Basket",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "F"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/9d/Fribourg_Olympic_Basket_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Fribourg_Olympic_Basket_logo.png/250px-Fribourg_Olympic_Basket_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Fribourg Olympic logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Jonction Basket",
+      "articleTitle": "Jonction Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Jonction_Basket",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "J"
+      ],
+      "rowValues": [],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox",
+      "error": null
+    },
+    {
+      "displayName": "Lions de Genève",
+      "articleTitle": "Lions de Genève",
+      "pageUrl": "https://en.wikipedia.org/wiki/Lions_de_Gen%C3%A8ve",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "L"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b9/Lions_de_Gen%C3%A8ve.svg",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Lions_de_Gen%C3%A8ve.svg/250px-Lions_de_Gen%C3%A8ve.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Lions de Genève logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Lugano Tigers",
+      "articleTitle": "Lugano Tigers",
+      "pageUrl": "https://en.wikipedia.org/wiki/Lugano_Tigers",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "L"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/1f/Lugano_Basket.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/Lugano_Basket.png/250px-Lugano_Basket.png",
+      "logoAlt": "Lugano Tigers logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Pallacanestro Bellinzona",
+      "articleTitle": "Pallacanestro Bellinzona",
+      "pageUrl": "https://en.wikipedia.org/wiki/Pallacanestro_Bellinzona",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "P"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/90/Pallacanestro_Bellinzona_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Pallacanestro_Bellinzona_logo.png/250px-Pallacanestro_Bellinzona_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Pallacanestro Bellinzona logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Pully Lausanne Foxes",
+      "articleTitle": "Pully Lausanne Foxes",
+      "pageUrl": "https://en.wikipedia.org/wiki/Pully_Lausanne_Foxes",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "P"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/27/Pully_Lausanne_Foxes_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Pully_Lausanne_Foxes_logo.png/250px-Pully_Lausanne_Foxes_logo.png",
+      "logoAlt": "Pully Lausanne Foxes logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "SAM Basket Massagno",
+      "articleTitle": "SAM Basket Massagno",
+      "pageUrl": "https://en.wikipedia.org/wiki/SAM_Basket_Massagno",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "S"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d9/SAM_Basket_Massagno_lgo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/SAM_Basket_Massagno_lgo.png/250px-SAM_Basket_Massagno_lgo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "SAM Massagno logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "SAV Vacallo Basket",
+      "articleTitle": "SAV Vacallo Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/SAV_Vacallo_Basket",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "S"
+      ],
+      "rowValues": [],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox",
+      "error": null
+    },
+    {
+      "displayName": "SP Federale Lugano",
+      "articleTitle": "SP Federale Lugano",
+      "pageUrl": "https://en.wikipedia.org/wiki/SP_Federale_Lugano",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "S"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/CHE_Lugano_COA.svg",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/CHE_Lugano_COA.svg/20px-CHE_Lugano_COA.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": null,
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Stade Français Genève",
+      "articleTitle": "Stade Français Genève",
+      "pageUrl": "https://en.wikipedia.org/wiki/Stade_Fran%C3%A7ais_Gen%C3%A8ve",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "S"
+      ],
+      "rowValues": [],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox",
+      "error": null
+    },
+    {
+      "displayName": "Starwings Basel",
+      "articleTitle": "Starwings Basel",
+      "pageUrl": "https://en.wikipedia.org/wiki/Starwings_Basel",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "S"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/0/0f/Star_Wings_Basel.jpg",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Star_Wings_Basel.jpg/250px-Star_Wings_Basel.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Starwings Basel logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Swiss Central Basket",
+      "articleTitle": "Swiss Central Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Swiss_Central_Basket",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "S"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/89/Swiss_Central_Basket_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Swiss_Central_Basket_logo.png/250px-Swiss_Central_Basket_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Swiss Central Basketball logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Switzerland men's national under-16 basketball team",
+      "articleTitle": "Switzerland men's national under-16 basketball team",
+      "pageUrl": "https://en.wikipedia.org/wiki/Switzerland_men%27s_national_under-16_basketball_team",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "U"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/120px-Flag_of_Switzerland.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": null,
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Switzerland men's national under-18 basketball team",
+      "articleTitle": "Switzerland men's national under-18 basketball team",
+      "pageUrl": "https://en.wikipedia.org/wiki/Switzerland_men%27s_national_under-18_basketball_team",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "U"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/120px-Flag_of_Switzerland.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": null,
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Union Neuchâtel",
+      "articleTitle": "Union Neuchâtel",
+      "pageUrl": "https://en.wikipedia.org/wiki/Union_Neuch%C3%A2tel",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "U"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/cd/Union_Neuchatel_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/c/cd/Union_Neuchatel_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "Union Neuchâtel logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Urania Genève Sport (basketball)",
+      "articleTitle": "Urania Genève Sport (basketball)",
+      "pageUrl": "https://en.wikipedia.org/wiki/Urania_Gen%C3%A8ve_Sport_(basketball)",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "U"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Kit_body.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Kit_body.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": null,
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Vevey Riviera Basket",
+      "articleTitle": "Vevey Riviera Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Vevey_Riviera_Basket",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "V"
+      ],
+      "rowValues": [],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox image",
+      "error": null
+    },
+    {
+      "displayName": "BC Winterthur",
+      "articleTitle": "BC Winterthur",
+      "pageUrl": "https://en.wikipedia.org/wiki/BC_Winterthur",
+      "sourceTypes": [
+        "category"
+      ],
+      "sourceSections": [
+        "W"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d1/BC_Winterthur_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/d/d1/BC_Winterthur_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "BC Winterthur logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    }
+  ]
+}

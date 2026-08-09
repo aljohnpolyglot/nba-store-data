@@ -1,0 +1,1809 @@
+{
+  "generatedAt": "2026-08-09T21:14:44.058Z",
+  "sourceTitle": "List of basketball clubs in France",
+  "sourceUrl": "https://en.wikipedia.org/wiki/List_of_basketball_clubs_in_France",
+  "detection": {
+    "matchingContentTables": 18,
+    "uniqueClubPages": 73,
+    "logosFound": 63,
+    "logosMissing": 10
+  },
+  "clubs": [
+    {
+      "displayName": "Aix Maurienne",
+      "articleTitle": "Aix Maurienne Savoie Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Aix_Maurienne_Savoie_Basket",
+      "sourceTypes": [
+        "navbox"
+      ],
+      "sourceSections": [
+        "Teams"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/90/Aix_Maurienne_Savoie_Basket_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Aix_Maurienne_Savoie_Basket_logo.png/250px-Aix_Maurienne_Savoie_Basket_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Aix Maurienne Savoie Basket logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Alliance Alsace",
+      "articleTitle": "Alliance Sport Alsace",
+      "pageUrl": "https://en.wikipedia.org/wiki/Alliance_Sport_Alsace",
+      "sourceTypes": [
+        "navbox",
+        "table"
+      ],
+      "sourceSections": [
+        "Teams",
+        "G"
+      ],
+      "rowValues": [
+        {
+          "Club": "Alliance Sport Alsace",
+          "Full name": "Alliance Sport Alsace",
+          "Town (department)": "Gries &Souffelweyersheim (Bas-Rhin)",
+          "2021–22": "Pro B"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4d/Alliance_Sport_Alsace_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Alliance_Sport_Alsace_logo.png/250px-Alliance_Sport_Alsace_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "ASA logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Antibes",
+      "articleTitle": "Olympique Antibes",
+      "pageUrl": "https://en.wikipedia.org/wiki/Olympique_Antibes",
+      "sourceTypes": [
+        "navbox",
+        "table"
+      ],
+      "sourceSections": [
+        "Teams",
+        "A"
+      ],
+      "rowValues": [
+        {
+          "Club": "Antibes Sharks",
+          "Full name": "Olympique d'Antibes Juan-les-Pins",
+          "Town (department)": "Antibes (Alpes-Maritimes)",
+          "2021–22": "Pro B"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/41/Antibes_Sharks_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Antibes_Sharks_logo.png/250px-Antibes_Sharks_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Antibes Sharks logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Boulazac",
+      "articleTitle": "Boulazac Basket Dordogne",
+      "pageUrl": "https://en.wikipedia.org/wiki/Boulazac_Basket_Dordogne",
+      "sourceTypes": [
+        "navbox",
+        "table"
+      ],
+      "sourceSections": [
+        "Teams",
+        "B"
+      ],
+      "rowValues": [
+        {
+          "Club": "Boulazac Basket Dordogne",
+          "Full name": "Boulazac Basket Dordogne",
+          "Town (department)": "Boulazac (Dordogne)",
+          "2021–22": "Pro B"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d4/Boulazac_Basket_logo_2019.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Boulazac_Basket_logo_2019.png/250px-Boulazac_Basket_logo_2019.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Boulazac Basket Dordogne logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Chalon",
+      "articleTitle": "Élan Chalon",
+      "pageUrl": "https://en.wikipedia.org/wiki/%C3%89lan_Chalon",
+      "sourceTypes": [
+        "navbox",
+        "table"
+      ],
+      "sourceSections": [
+        "Teams",
+        "C"
+      ],
+      "rowValues": [
+        {
+          "Club": "Élan Chalon",
+          "Full name": "Élan Sportif Chalonnais",
+          "Town (department)": "Chalon-sur-Saône (Saône-et-Loire)",
+          "2019–20": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ed/%C3%89lan_Chalon_logo_%282018%29.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/%C3%89lan_Chalon_logo_%282018%29.png/250px-%C3%89lan_Chalon_logo_%282018%29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Élan Chalon logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Châlons-Reims",
+      "articleTitle": "Champagne Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Champagne_Basket",
+      "sourceTypes": [
+        "navbox",
+        "table"
+      ],
+      "sourceSections": [
+        "Teams",
+        "C"
+      ],
+      "rowValues": [
+        {
+          "Club": "Champagne Basket",
+          "Full name": "Champagne Basket",
+          "Town (department)": "Châlons-en-Champagne - Reims (Marne)",
+          "2019–20": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/dd/Reims_Champagne_Basket_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Reims_Champagne_Basket_logo.png/250px-Reims_Champagne_Basket_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Champagne Basket logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Denain Voltaire",
+      "articleTitle": "Denain Voltaire Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Denain_Voltaire_Basket",
+      "sourceTypes": [
+        "navbox"
+      ],
+      "sourceSections": [
+        "Teams"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Denain_Voltaire_Basket_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Denain_Voltaire_Basket_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "Denain Voltaire Basket logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Évreux",
+      "articleTitle": "ALM Évreux Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/ALM_%C3%89vreux_Basket",
+      "sourceTypes": [
+        "navbox"
+      ],
+      "sourceSections": [
+        "Teams"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kit_body_blueshoulders.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Kit_body_blueshoulders.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": null,
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "La Rochelle",
+      "articleTitle": "Stade Rochelais Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Stade_Rochelais_Basket",
+      "sourceTypes": [
+        "navbox"
+      ],
+      "sourceSections": [
+        "Teams"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2f/Stade_rochelais_basket.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/2/2f/Stade_rochelais_basket.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "Stade Rochelais logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Lille",
+      "articleTitle": "Lille Métropole BC",
+      "pageUrl": "https://en.wikipedia.org/wiki/Lille_M%C3%A9tropole_BC",
+      "sourceTypes": [
+        "navbox",
+        "table"
+      ],
+      "sourceSections": [
+        "Teams",
+        "L"
+      ],
+      "rowValues": [
+        {
+          "Club": "Lille Métropole BC",
+          "Full name": "Lille Métropole Basket Club",
+          "Town (department)": "Lille (Nord)",
+          "2021–22": "Pro B"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/af/LMBC_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/a/af/LMBC_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "LMBC logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Nantes",
+      "articleTitle": "Hermine Nantes Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Hermine_Nantes_Basket",
+      "sourceTypes": [
+        "navbox",
+        "table"
+      ],
+      "sourceSections": [
+        "Teams",
+        "N"
+      ],
+      "rowValues": [
+        {
+          "Club": "Hermine Nantes Basket",
+          "Full name": "Nantes Basket Hermine",
+          "Town (department)": "Nantes (Loire-Atlantique)",
+          "2019–20": "Pro B"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/50/Hermine_Nantes_Basket_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/5/50/Hermine_Nantes_Basket_logo.png",
+      "logoAlt": "Hermine Nantes logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Orléans",
+      "articleTitle": "Orléans Loiret Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Orl%C3%A9ans_Loiret_Basket",
+      "sourceTypes": [
+        "navbox",
+        "table"
+      ],
+      "sourceSections": [
+        "Teams",
+        "O"
+      ],
+      "rowValues": [
+        {
+          "Club": "Orléans Loiret Basket",
+          "Full name": "Orléans Loiret Basket",
+          "Town (department)": "Orléans (Loiret)",
+          "2021–22": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4a/Orl%C3%A9ans_Loiret_logo_2014.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Orl%C3%A9ans_Loiret_logo_2014.png/250px-Orl%C3%A9ans_Loiret_logo_2014.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Orléans Loiret Basket logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Quimper",
+      "articleTitle": "Béliers de Kemper",
+      "pageUrl": "https://en.wikipedia.org/wiki/B%C3%A9liers_de_Kemper",
+      "sourceTypes": [
+        "navbox",
+        "table"
+      ],
+      "sourceSections": [
+        "Teams",
+        "Q"
+      ],
+      "rowValues": [
+        {
+          "Club": "Béliers de Kemper",
+          "Full name": "Béliers de Kemper – UJAP 1984",
+          "Town (department)": "Quimper (Finistère)",
+          "2021–22": "Pro B"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/bf/UJAP_Quimper_29_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UJAP_Quimper_29_logo.png/250px-UJAP_Quimper_29_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Béliers de Kemper logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Saint-Chamond",
+      "articleTitle": "Saint-Chamond Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Saint-Chamond_Basket",
+      "sourceTypes": [
+        "navbox",
+        "table"
+      ],
+      "sourceSections": [
+        "Teams",
+        "S"
+      ],
+      "rowValues": [
+        {
+          "Club": "Saint-Chamond Basket",
+          "Full name": "Saint-Chamond Basket",
+          "Town (department)": "Saint-Chamond (Loire)",
+          "2021–22": "Pro B"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/35/Saint-Chamond_Basket.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/3/35/Saint-Chamond_Basket.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "Saint-Chamond logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Saint-Quentin",
+      "articleTitle": "Saint-Quentin Basket-Ball",
+      "pageUrl": "https://en.wikipedia.org/wiki/Saint-Quentin_Basket-Ball",
+      "sourceTypes": [
+        "navbox"
+      ],
+      "sourceSections": [
+        "Teams"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/19/Saint-Quentin_Basketball_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Saint-Quentin_Basketball_logo.png/250px-Saint-Quentin_Basketball_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Saint-Quentin logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Saint-Vallier",
+      "articleTitle": "Saint-Vallier Basket Drôme",
+      "pageUrl": "https://en.wikipedia.org/wiki/Saint-Vallier_Basket_Dr%C3%B4me",
+      "sourceTypes": [
+        "navbox"
+      ],
+      "sourceSections": [
+        "Teams"
+      ],
+      "rowValues": [],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/SVBD_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/SVBD_logo.png/250px-SVBD_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "SVBD logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Vichy-Clermont",
+      "articleTitle": "JA Vichy Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/JA_Vichy_Basket",
+      "sourceTypes": [
+        "navbox"
+      ],
+      "sourceSections": [
+        "Teams"
+      ],
+      "rowValues": [],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox image",
+      "error": null
+    },
+    {
+      "displayName": "AMSB",
+      "articleTitle": "Aix Maurienne Savoie Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/AMSB",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "A"
+      ],
+      "rowValues": [
+        {
+          "Club": "AMSB",
+          "Full name": "Aix Maurienne Savoie Basket",
+          "Town (department)": "Aix-les-Bains (Savoie)",
+          "2021–22": "Pro B"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/90/Aix_Maurienne_Savoie_Basket_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Aix_Maurienne_Savoie_Basket_logo.png/250px-Aix_Maurienne_Savoie_Basket_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Aix Maurienne Savoie Basket logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Berck Basket Club",
+      "articleTitle": "Berck Basket Club",
+      "pageUrl": "https://en.wikipedia.org/wiki/Berck_Basket_Club",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "B"
+      ],
+      "rowValues": [
+        {
+          "Club": "Berck Basket Club",
+          "Full name": "Avenir Basket Berck Rang du Fliers",
+          "Town (department)": "Berck (Pas-de-Calais)",
+          "2021–22": "Nationale 2 (4th division)"
+        }
+      ],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox",
+      "error": null
+    },
+    {
+      "displayName": "Besançon BCD",
+      "articleTitle": "Besançon BCD",
+      "pageUrl": "https://en.wikipedia.org/wiki/Besan%C3%A7on_BCD",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "B"
+      ],
+      "rowValues": [
+        {
+          "Club": "Besançon BCD",
+          "Full name": "Besançon Basket Comté Doubs",
+          "Town (department)": "Besançon (Doubs)",
+          "2021–22": "Defunct"
+        }
+      ],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox",
+      "error": null
+    },
+    {
+      "displayName": "ADA Blois Basket 41",
+      "articleTitle": "ADA Blois Basket 41",
+      "pageUrl": "https://en.wikipedia.org/wiki/ADA_Blois_Basket_41",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "B"
+      ],
+      "rowValues": [
+        {
+          "Club": "ADA Blois Basket 41",
+          "Full name": "L'Abeille des Aydes Blois Basket 41",
+          "Town (department)": "Blois (Loir-et-Cher)",
+          "2021–22": "Pro B"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/dc/ADA_Blois_Basket_41_2017_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/ADA_Blois_Basket_41_2017_logo.png/250px-ADA_Blois_Basket_41_2017_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "ADA Blois Basket 41 logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "JSA Bordeaux Basket",
+      "articleTitle": "JSA Bordeaux Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/JSA_Bordeaux_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "B"
+      ],
+      "rowValues": [
+        {
+          "Club": "JSA Bordeaux Basket",
+          "Full name": "Jeunes de Saint-Augustin Bordeaux Métropole",
+          "Town (department)": "Bordeaux (Gironde)",
+          "2021–22": "Nationale 1 (3rd division)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/1c/JSA_Bordeaux_M%C3%A9tropole_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/JSA_Bordeaux_M%C3%A9tropole_logo.png/250px-JSA_Bordeaux_M%C3%A9tropole_logo.png",
+      "logoAlt": "JSA Bordeaux logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "SOMB Boulogne-sur-Mer",
+      "articleTitle": "SOMB Boulogne-sur-Mer",
+      "pageUrl": "https://en.wikipedia.org/wiki/SOMB_Boulogne-sur-Mer",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "B"
+      ],
+      "rowValues": [
+        {
+          "Club": "SOMB Boulogne-sur-Mer",
+          "Full name": "Stade Olympique Maritime Boulonnais",
+          "Town (department)": "Boulogne-sur-Mer (Pas-de-Calais)",
+          "2021–22": "Nationale 1 (3rd division)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7d/SOMB_Boulogne-sur-Mer_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/SOMB_Boulogne-sur-Mer_logo.png/250px-SOMB_Boulogne-sur-Mer_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "SOMB logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "JL Bourg Basket",
+      "articleTitle": "JL Bourg Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/JL_Bourg_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "B"
+      ],
+      "rowValues": [
+        {
+          "Club": "JL Bourg Basket",
+          "Full name": "Jeunesse Laïque de Bourg-en-Bresse",
+          "Town (department)": "Bourg-en-Bresse (Ain)",
+          "2021–22": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/5c/JL_Bourg_Basket_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/JL_Bourg_Basket_logo.png/250px-JL_Bourg_Basket_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "JL Bourg logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Tango Bourges Basket",
+      "articleTitle": "Tango Bourges Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Tango_Bourges_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "B"
+      ],
+      "rowValues": [
+        {
+          "Club": "Tango Bourges Basket",
+          "Full name": "Tango Bourges Basket",
+          "Town (department)": "Bourges (Cher)",
+          "2021–22": "LFB (women)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/38/CJM_Bourges_Basket.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CJM_Bourges_Basket.png/250px-CJM_Bourges_Basket.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Bourges logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Étendard de Brest",
+      "articleTitle": "Étendard de Brest",
+      "pageUrl": "https://en.wikipedia.org/wiki/%C3%89tendard_de_Brest",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "B"
+      ],
+      "rowValues": [
+        {
+          "Club": "Étendard de Brest",
+          "Full name": "Étendard de Brest",
+          "Town (department)": "Brest (Finistère)",
+          "2021–22": "Defunct"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d9/%C3%89tendard29.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/d/d9/%C3%89tendard29.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "Étendard de Brest logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Caen Basket Calvados",
+      "articleTitle": "Caen Basket Calvados",
+      "pageUrl": "https://en.wikipedia.org/wiki/Caen_Basket_Calvados",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "C"
+      ],
+      "rowValues": [
+        {
+          "Club": "Caen Basket Calvados",
+          "Full name": "Caen Basket Calvados",
+          "Town (department)": "Caen (Calvados)",
+          "2019–20": "Nationale 1 (3rd division)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e6/Caen_Basket_Calvados.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e6/Caen_Basket_Calvados.png/250px-Caen_Basket_Calvados.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Caen Basket Calvados logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Centre Fédéral de Basket-ball",
+      "articleTitle": "Centre Fédéral de Basket-ball",
+      "pageUrl": "https://en.wikipedia.org/wiki/Centre_F%C3%A9d%C3%A9ral_de_Basket-ball",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "C"
+      ],
+      "rowValues": [
+        {
+          "Club": "Centre Fédéral de Basket-ball",
+          "Full name": "Centre Fédéral de Basket-ball",
+          "Town (department)": "Paris (12th arrondissement)",
+          "2019–20": "Nationale 1 (3rd division)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b1/CFBB_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/CFBB_logo.png/250px-CFBB_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "CFBB logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Étoile Charleville-Mézières",
+      "articleTitle": "Étoile Charleville-Mézières",
+      "pageUrl": "https://en.wikipedia.org/wiki/%C3%89toile_Charleville-M%C3%A9zi%C3%A8res",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "C"
+      ],
+      "rowValues": [
+        {
+          "Club": "Étoile Charleville-Mézières",
+          "Full name": "Étoile de Charleville-Mézières",
+          "Town (department)": "Charleville-Mézières (Ardennes)",
+          "2019–20": "Nationale 2 (4th division)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4b/%C3%89toile_de_Charleville-M%C3%A9zi%C3%A8res_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/%C3%89toile_de_Charleville-M%C3%A9zi%C3%A8res_logo.png/250px-%C3%89toile_de_Charleville-M%C3%A9zi%C3%A8res_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Étoile Charleville-Mézières logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "C' Chartres Basket",
+      "articleTitle": "UB Chartres Métropole",
+      "pageUrl": "https://en.wikipedia.org/wiki/UB_Chartres_M%C3%A9tropole",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "C"
+      ],
+      "rowValues": [
+        {
+          "Club": "C' Chartres Basket",
+          "Full name": "C' Chartres Basket Masculin",
+          "Town (department)": "Chartres (Eure-et-Loir)",
+          "2019–20": "Nationale 1 (3rd division)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/UB_Chartres_M%C3%A9tropole_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/2/2d/UB_Chartres_M%C3%A9tropole_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "UB Chartres Métropole logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Cholet Basket",
+      "articleTitle": "Cholet Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Cholet_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "C"
+      ],
+      "rowValues": [
+        {
+          "Club": "Cholet Basket",
+          "Full name": "Cholet Basket",
+          "Town (department)": "Cholet (Maine-et-Loire)",
+          "2019–20": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f8/Cholet_Basket_2019_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Cholet_Basket_2019_logo.png/250px-Cholet_Basket_2019_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Cholet logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Stade Clermontois BA",
+      "articleTitle": "Stade Clermontois BA",
+      "pageUrl": "https://en.wikipedia.org/wiki/Stade_Clermontois_BA",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "C"
+      ],
+      "rowValues": [
+        {
+          "Club": "Stade Clermontois BA",
+          "Full name": "Stade Clermontois Basket Auvergne",
+          "Town (department)": "Clermont-Ferrand (Puy-de-Dôme)",
+          "2019–20": "Defunct[a]"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/SCBA1.jpg",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/SCBA1.jpg/250px-SCBA1.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Stade Clermontois BA logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Cognac Charente Basket-ball",
+      "articleTitle": "Cognac Basket Ball",
+      "pageUrl": "https://en.wikipedia.org/wiki/Cognac_Basket_Ball",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "C"
+      ],
+      "rowValues": [
+        {
+          "Club": "Cognac Charente Basket-ball",
+          "Full name": "Cognac Charente Basket-ball",
+          "Town (department)": "Cognac (Charente)",
+          "2019–20": "Nationale 2 (4th division)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/83/Cognac_Basket_Ball.jpg",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/8/83/Cognac_Basket_Ball.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "Cognac Basket Ball logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "ASC Denain-Voltaire PH",
+      "articleTitle": "Denain Voltaire Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/ASC_Denain-Voltaire_PH",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "D"
+      ],
+      "rowValues": [
+        {
+          "Club": "ASC Denain-Voltaire PH",
+          "Full name": "Association Sportive Cail Denain Voltaire Porte du Hainaut",
+          "Town (department)": "Denain (Nord)",
+          "2021–22": "Pro B"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Denain_Voltaire_Basket_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/e/e1/Denain_Voltaire_Basket_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "Denain Voltaire Basket logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "JDA Dijon Basket",
+      "articleTitle": "JDA Dijon Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/JDA_Dijon_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "D"
+      ],
+      "rowValues": [
+        {
+          "Club": "JDA Dijon Basket",
+          "Full name": "JDA Dijon Basket",
+          "Town (department)": "Dijon (Côte-d'Or)",
+          "2021–22": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/JDA_Dijon_Basket.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/JDA_Dijon_Basket.png/250px-JDA_Dijon_Basket.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "JDA Dijon logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "GET Vosges",
+      "articleTitle": "GET Vosges",
+      "pageUrl": "https://en.wikipedia.org/wiki/GET_Vosges",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "E"
+      ],
+      "rowValues": [
+        {
+          "Club": "GET Vosges",
+          "Full name": "Golbey Épinal Thaon Vosges",
+          "Town (department)": "Épinal (Vosges)",
+          "2021–22": "Nationale 1 (3rd division)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d4/GET_Vosges_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/d/d4/GET_Vosges_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "GET Vosges logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Fos Provence Basket",
+      "articleTitle": "Fos Provence Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Fos_Provence_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "F"
+      ],
+      "rowValues": [
+        {
+          "Club": "Fos Provence Basket",
+          "Full name": "Provence Basket",
+          "Town (department)": "Fos-sur-Mer (Bouches-du-Rhône)",
+          "2021–22": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/1/1d/Fos_Provence_Basket_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Fos_Provence_Basket_logo.png/250px-Fos_Provence_Basket_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Fos Provence Basket logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "BCM Gravelines-Dunkerque",
+      "articleTitle": "BCM Gravelines-Dunkerque",
+      "pageUrl": "https://en.wikipedia.org/wiki/BCM_Gravelines-Dunkerque",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "G"
+      ],
+      "rowValues": [
+        {
+          "Club": "BCM Gravelines-Dunkerque",
+          "Full name": "Basket Club Maritime Gravelines-Dunkerque",
+          "Town (department)": "Gravelines (Nord)",
+          "2021–22": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Kit_body_thintransparenthoopsupper.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Kit_body_thintransparenthoopsupper.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": null,
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "BC Gries Oberhoffen",
+      "articleTitle": "Nationale Masculine 1",
+      "pageUrl": "https://en.wikipedia.org/wiki/BC_Gries_Oberhoffen",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "G"
+      ],
+      "rowValues": [
+        {
+          "Club": "BC Gries Oberhoffen",
+          "Full name": "Basket Club Gries Oberhoffen",
+          "Town (department)": "Gries (Bas-Rhin)",
+          "2021–22": "Defunct[b]"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/9d/Nationale_Masculine_1_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Nationale_Masculine_1_logo.png/120px-Nationale_Masculine_1_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": null,
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "HTV Basket",
+      "articleTitle": "HTV Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/HTV_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "H"
+      ],
+      "rowValues": [
+        {
+          "Club": "HTV Basket",
+          "Full name": "Hyères Toulon Var Basket",
+          "Town (department)": "Hyères (Var)",
+          "2021–22": "Nationale 2 (4th division)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/51/Hy%C3%A8res-Toulon_Var_Basket_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Hy%C3%A8res-Toulon_Var_Basket_logo.png/250px-Hy%C3%A8res-Toulon_Var_Basket_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "HTV logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Basket Lattes Montpellier Agglomération",
+      "articleTitle": "Basket Lattes Montpellier Agglomération",
+      "pageUrl": "https://en.wikipedia.org/wiki/Basket_Lattes_Montpellier_Agglom%C3%A9ration",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "L"
+      ],
+      "rowValues": [
+        {
+          "Club": "Basket Lattes Montpellier Agglomération",
+          "Full name": "Basket Lattes Montpellier Agglomération",
+          "Town (department)": "Lattes (Hérault)",
+          "2021–22": "LFB (women)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8f/Basket_Lattes.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/8/8f/Basket_Lattes.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "Lattes Montpellier logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "STB Le Havre",
+      "articleTitle": "STB Le Havre",
+      "pageUrl": "https://en.wikipedia.org/wiki/STB_Le_Havre",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "L"
+      ],
+      "rowValues": [
+        {
+          "Club": "STB Le Havre",
+          "Full name": "Saint Thomas Basket Le Havre",
+          "Town (department)": "Le Havre (Seine-Maritime)",
+          "2021–22": "Nationale 1 (3rd division)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/9/98/STB_Le_Havre_logo_2014.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/STB_Le_Havre_logo_2014.png/250px-STB_Le_Havre_logo_2014.png",
+      "logoAlt": "STB Le Havre logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Le Mans Sarthe Basket",
+      "articleTitle": "Le Mans Sarthe Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Le_Mans_Sarthe_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "L"
+      ],
+      "rowValues": [
+        {
+          "Club": "Le Mans Sarthe Basket",
+          "Full name": "Le Mans Sarthe Basket",
+          "Town (department)": "Le Mans (Sarthe)",
+          "2021–22": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d9/Le_Mans_Sarthe_Basket_logo_2009.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Le_Mans_Sarthe_Basket_logo_2009.png/250px-Le_Mans_Sarthe_Basket_logo_2009.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Le Mans logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "ESSM Le Portel",
+      "articleTitle": "ESSM Le Portel",
+      "pageUrl": "https://en.wikipedia.org/wiki/ESSM_Le_Portel",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "L"
+      ],
+      "rowValues": [
+        {
+          "Club": "ESSM Le Portel",
+          "Full name": "Étoile Sportive Saint-Michel Le Portel Côte d'Opale",
+          "Town (department)": "Le Portel (Pas-de-Calais)",
+          "2021–22": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a3/ESSM_Le_Portel_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/ESSM_Le_Portel_logo.png/250px-ESSM_Le_Portel_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "ESSM Le Portel logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Olympique Lille Basket",
+      "articleTitle": "Olympique Lille Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Olympique_Lille_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "L"
+      ],
+      "rowValues": [
+        {
+          "Club": "Olympique Lille Basket",
+          "Full name": "Olympique Lillois",
+          "Town (department)": "Lille (Nord)",
+          "2021–22": "Defunct"
+        }
+      ],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox image",
+      "error": null
+    },
+    {
+      "displayName": "Limoges CSP",
+      "articleTitle": "Limoges CSP",
+      "pageUrl": "https://en.wikipedia.org/wiki/Limoges_CSP",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "L"
+      ],
+      "rowValues": [
+        {
+          "Club": "Limoges CSP",
+          "Full name": "Limoges Cercle Saint-Pierre",
+          "Town (department)": "Limoges (Haute-Vienne)",
+          "2021–22": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Logo_Limoges_Cercle_Saint-Pierre.svg",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_Limoges_Cercle_Saint-Pierre.svg/250px-Logo_Limoges_Cercle_Saint-Pierre.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Limoges CSP logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "CEP Lorient",
+      "articleTitle": "CEP Lorient",
+      "pageUrl": "https://en.wikipedia.org/wiki/CEP_Lorient",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "L"
+      ],
+      "rowValues": [
+        {
+          "Club": "CEP Lorient",
+          "Full name": "CEP Lorient Breizh Basket",
+          "Town (department)": "Lorient (Morbihan)",
+          "2021–22": "Nationale 1 (3rd division)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/42/CEP_Lorient_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/4/42/CEP_Lorient_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "CEP Lorient logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Basket CRO Lyon",
+      "articleTitle": "Basket CRO Lyon",
+      "pageUrl": "https://en.wikipedia.org/wiki/Basket_CRO_Lyon",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "L"
+      ],
+      "rowValues": [
+        {
+          "Club": "Basket CRO Lyon",
+          "Full name": "Basket Croix Rousse Olympique Lyon",
+          "Town (department)": "Lyon (Métropole de Lyon)",
+          "2021–22": "Nationale 3 (fifth level; amateur)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/de/Basket_CRO_Lyon.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/d/de/Basket_CRO_Lyon.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "Basket CRO Lyon logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "AS Monaco Basket",
+      "articleTitle": "AS Monaco Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/AS_Monaco_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "M"
+      ],
+      "rowValues": [
+        {
+          "Club": "AS Monaco Basket",
+          "Full name": "Association Sportive de Monaco",
+          "Town (department)": "Fontvieille, Monaco",
+          "2019–20": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d3/AS_Monaco_Basket.svg",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/AS_Monaco_Basket.svg/250px-AS_Monaco_Basket.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "AS Monaco logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Metropolitans 92",
+      "articleTitle": "Metropolitans 92",
+      "pageUrl": "https://en.wikipedia.org/wiki/Metropolitans_92",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "M"
+      ],
+      "rowValues": [
+        {
+          "Club": "Metropolitans 92[c]",
+          "Full name": "Metropolitans 92",
+          "Town (department)": "Levallois-Perret (Hauts-de-Seine)",
+          "2019–20": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Metropolitans_92_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Metropolitans_92_logo.png/250px-Metropolitans_92_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Metropolitans 92 logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "USO Mondeville",
+      "articleTitle": "USO Mondeville",
+      "pageUrl": "https://en.wikipedia.org/wiki/USO_Mondeville",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "M"
+      ],
+      "rowValues": [
+        {
+          "Club": "USO Mondeville",
+          "Full name": "Union Sportive Ouvrière de Mondeville",
+          "Town (department)": "Mondeville (Calvados)",
+          "2019–20": "LFB (women)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Kit_body.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Kit_body.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": null,
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "CA Mulhouse",
+      "articleTitle": "Cercle athlétique mulhousien",
+      "pageUrl": "https://en.wikipedia.org/wiki/Cercle_athl%C3%A9tique_mulhousien",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "M"
+      ],
+      "rowValues": [
+        {
+          "Club": "CA Mulhouse",
+          "Full name": "Cercle Athlétique Mulhousien",
+          "Town (department)": "Mulhouse (Haut-Rhin)",
+          "2019–20": "Defunct"
+        }
+      ],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox",
+      "error": null
+    },
+    {
+      "displayName": "FC Mulhouse Basket",
+      "articleTitle": "FC Mulhouse Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/FC_Mulhouse_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "M"
+      ],
+      "rowValues": [
+        {
+          "Club": "FC Mulhouse Basket",
+          "Full name": "Football Club Mulhouse Basket",
+          "Town (department)": "Mulhouse (Haut-Rhin)",
+          "2019–20": "Nationale 1 (3rd division)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/45/Fcmbasket.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Fcmbasket.png/250px-Fcmbasket.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "FC Mulhouse Basket logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "SLUC Nancy Basket",
+      "articleTitle": "SLUC Nancy Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/SLUC_Nancy_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "N"
+      ],
+      "rowValues": [
+        {
+          "Club": "SLUC Nancy Basket",
+          "Full name": "Stade Lorrain Université Club Nancy",
+          "Town (department)": "Nancy (Meurthe-et-Moselle)",
+          "2019–20": "Pro B"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8c/SLUC_Nancy_logo_2015.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/SLUC_Nancy_logo_2015.png/250px-SLUC_Nancy_logo_2015.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "SLUC Nancy Basket logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Nanterre 92",
+      "articleTitle": "Nanterre 92",
+      "pageUrl": "https://en.wikipedia.org/wiki/Nanterre_92",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "N"
+      ],
+      "rowValues": [
+        {
+          "Club": "Nanterre 92",
+          "Full name": "Nanterre 92",
+          "Town (department)": "Nanterre (Hauts-de-Seine)",
+          "2019–20": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/d/d2/Nanterre_92_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Nanterre_92_logo.png/330px-Nanterre_92_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Nanterre 92 logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "ABC Nantes",
+      "articleTitle": "ABC Nantes",
+      "pageUrl": "https://en.wikipedia.org/wiki/ABC_Nantes",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "N"
+      ],
+      "rowValues": [
+        {
+          "Club": "ABC Nantes",
+          "Full name": "Amicale Basket Club de Nantes",
+          "Town (department)": "Nantes (Loire-Atlantique)",
+          "2019–20": "Defunct"
+        }
+      ],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox",
+      "error": null
+    },
+    {
+      "displayName": "Cavigal Nice Basket",
+      "articleTitle": "Cavigal Nice Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Cavigal_Nice_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "N"
+      ],
+      "rowValues": [
+        {
+          "Club": "Cavigal Nice Basket",
+          "Full name": "Cavigal Nice Basket 06",
+          "Town (department)": "Nice (Alpes-Maritimes)",
+          "2019–20": "LFB (women)"
+        }
+      ],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox image",
+      "error": null
+    },
+    {
+      "displayName": "Paris Basketball",
+      "articleTitle": "Paris Basketball",
+      "pageUrl": "https://en.wikipedia.org/wiki/Paris_Basketball",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "P"
+      ],
+      "rowValues": [
+        {
+          "Club": "Paris Basketball",
+          "Full name": "Paris Basketball",
+          "Town (department)": "Paris (13th arrondissement)",
+          "2021–22": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/86/Logo_Paris_Basketball.svg",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Logo_Paris_Basketball.svg/250px-Logo_Paris_Basketball.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Paris Basketball logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "ÉB Pau-Lacq-Orthez",
+      "articleTitle": "Élan Béarnais",
+      "pageUrl": "https://en.wikipedia.org/wiki/%C3%89lan_B%C3%A9arnais",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "P"
+      ],
+      "rowValues": [
+        {
+          "Club": "ÉB Pau-Lacq-Orthez",
+          "Full name": "Élan Béarnais Pau-Lacq-Orthez",
+          "Town (department)": "Pau (Pyrénées-Atlantiques)",
+          "2021–22": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/3/3a/%C3%89lan_B%C3%A9arnais_Pau-Orthez_logo_2013.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/3/3a/%C3%89lan_B%C3%A9arnais_Pau-Orthez_logo_2013.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": "Élan Béarnais Pau-Lacq-Orthez logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Poitiers Basket 86",
+      "articleTitle": "Poitiers Basket 86",
+      "pageUrl": "https://en.wikipedia.org/wiki/Poitiers_Basket_86",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "P"
+      ],
+      "rowValues": [
+        {
+          "Club": "Poitiers Basket 86",
+          "Full name": "Poitiers Basket 86",
+          "Town (department)": "Poitiers (Poitou-Charentes)",
+          "2021–22": "Nationale 1 (3rd division)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/ce/Poitiers_Basket_logo_18.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Poitiers_Basket_logo_18.png/250px-Poitiers_Basket_logo_18.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Poitiers Basket 86 logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "CAUFA Reims",
+      "articleTitle": "CAUFA Reims",
+      "pageUrl": "https://en.wikipedia.org/wiki/CAUFA_Reims",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "R"
+      ],
+      "rowValues": [
+        {
+          "Club": "CAUFA Reims",
+          "Full name": "Centre Athlétique de l'Union Franco-Américaine de Reims",
+          "Town (department)": "Reims (Marne)",
+          "2021–22": "Defunct"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/CAUFA_champ_france_basket_8231.jpg",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/CAUFA_champ_france_basket_8231.jpg/250px-CAUFA_champ_france_basket_8231.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "CAUFA Reims logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Chorale Roanne Basket",
+      "articleTitle": "Chorale Roanne Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Chorale_Roanne_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "R"
+      ],
+      "rowValues": [
+        {
+          "Club": "Chorale Roanne Basket",
+          "Full name": "Chorale Roanne Basket",
+          "Town (department)": "Roanne (Loire)",
+          "2021–22": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/46/Chorale_Roanne_Basket.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Chorale_Roanne_Basket.png/250px-Chorale_Roanne_Basket.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Chorale Roanne logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Rouen Métropole Basket",
+      "articleTitle": "Rouen Métropole Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Rouen_M%C3%A9tropole_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "R"
+      ],
+      "rowValues": [
+        {
+          "Club": "Rouen Métropole Basket",
+          "Full name": "Rouen Métropole Basket",
+          "Town (department)": "Rouen (Seine-Maritime)",
+          "2021–22": "Pro B"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b8/Rouen_M%C3%A9tropole_Basket_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Rouen_M%C3%A9tropole_Basket_logo.png/250px-Rouen_M%C3%A9tropole_Basket_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Rouen Métropole Basket logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "SIG Strasbourg",
+      "articleTitle": "SIG Strasbourg",
+      "pageUrl": "https://en.wikipedia.org/wiki/SIG_Strasbourg",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "S"
+      ],
+      "rowValues": [
+        {
+          "Club": "SIG Strasbourg",
+          "Full name": "SIG Strasbourg",
+          "Town (department)": "Strasbourg (Bas-Rhin)",
+          "2021–22": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_officiel_SIG_Strasbourg.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Logo_officiel_SIG_Strasbourg.png/120px-Logo_officiel_SIG_Strasbourg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "SIG Strasbourg logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "BC Souffelweyersheim",
+      "articleTitle": "Alliance Sport Alsace",
+      "pageUrl": "https://en.wikipedia.org/wiki/BC_Souffelweyersheim",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "S"
+      ],
+      "rowValues": [
+        {
+          "Club": "BC Souffelweyersheim",
+          "Full name": "Basket Club Souffelweyersheim",
+          "Town (department)": "Souffelweyersheim (Bas-Rhin)",
+          "2021–22": "Defunct[b]"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/4d/Alliance_Sport_Alsace_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Alliance_Sport_Alsace_logo.png/250px-Alliance_Sport_Alsace_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "ASA logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Tarbes Gespe Bigorre",
+      "articleTitle": "Tarbes Gespe Bigorre",
+      "pageUrl": "https://en.wikipedia.org/wiki/Tarbes_Gespe_Bigorre",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "T"
+      ],
+      "rowValues": [
+        {
+          "Club": "Tarbes Gespe Bigorre",
+          "Full name": "Tarbes Gespe Bigorre",
+          "Town (department)": "Tarbes (Hautes-Pyrénées)",
+          "2021–22": "LFB (women)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Kit_body_thinpurplesides.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Kit_body_thinpurplesides.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",
+      "logoAlt": null,
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "Tours Métropole Basket",
+      "articleTitle": "Tours Métropole Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/Tours_M%C3%A9tropole_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "T"
+      ],
+      "rowValues": [
+        {
+          "Club": "Tours Métropole Basket",
+          "Full name": "Tours Métropole Basket",
+          "Town (department)": "Tours (Indre-et-Loire)",
+          "2021–22": "Pro B"
+        }
+      ],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox image",
+      "error": null
+    },
+    {
+      "displayName": "US Valenciennes Olympic",
+      "articleTitle": "Union Sportive Valenciennes Olympic",
+      "pageUrl": "https://en.wikipedia.org/wiki/Union_Sportive_Valenciennes_Olympic",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "V"
+      ],
+      "rowValues": [
+        {
+          "Club": "US Valenciennes Olympic",
+          "Full name": "Union Sportive Valenciennes Olympic",
+          "Town (department)": "Valenciennes (Nord)",
+          "2019–20": "Defunct[d]"
+        }
+      ],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox image",
+      "error": null
+    },
+    {
+      "displayName": "JA Vichy",
+      "articleTitle": "JA Vichy",
+      "pageUrl": "https://en.wikipedia.org/wiki/JA_Vichy",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "V"
+      ],
+      "rowValues": [
+        {
+          "Club": "JA Vichy",
+          "Full name": "Jeanne d’Arc de Vichy Val d’Allier Auvergne Basket",
+          "Town (department)": "Vichy (Allier)",
+          "2019–20": "Defunct[a]"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/4/41/JA_Vichy_logo.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/JA_Vichy_logo.png/250px-JA_Vichy_logo.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "JA Vichy logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "JA Vichy-Clermont Métropole",
+      "articleTitle": "JA Vichy Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/JA_Vichy-Clermont_M%C3%A9tropole_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "V"
+      ],
+      "rowValues": [
+        {
+          "Club": "JA Vichy-Clermont Métropole",
+          "Full name": "Jeanne d'Arc Vichy-Clermont Métropole",
+          "Town (department)": "Clermont-Ferrand (Puy-de-Dôme)",
+          "2019–20": "Pro B"
+        }
+      ],
+      "logoUrl": null,
+      "logoThumbUrl": null,
+      "logoAlt": null,
+      "logoFound": false,
+      "logoReason": "No infobox image",
+      "error": null
+    },
+    {
+      "displayName": "ASVEL Basket",
+      "articleTitle": "ASVEL Basket",
+      "pageUrl": "https://en.wikipedia.org/wiki/ASVEL_Basket",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "V"
+      ],
+      "rowValues": [
+        {
+          "Club": "ASVEL Basket",
+          "Full name": "Association Sportive de Villeurbanne et Éveil Lyonnais",
+          "Town (department)": "Villeurbanne (Métropole de Lyon)",
+          "2019–20": "Pro A"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/71/LDLC_ASVEL_Basket.svg",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/LDLC_ASVEL_Basket.svg/120px-LDLC_ASVEL_Basket.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "LDLC ASVEL logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "ASVEL Féminin",
+      "articleTitle": "ASVEL Féminin",
+      "pageUrl": "https://en.wikipedia.org/wiki/ASVEL_F%C3%A9minin",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "V"
+      ],
+      "rowValues": [
+        {
+          "Club": "ASVEL Féminin",
+          "Full name": "Association Sportive de Villeurbanne et Éveil Lyonnais",
+          "Town (department)": "Villeurbanne (Métropole de Lyon)",
+          "2019–20": "LFB (women)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/40px-Flag_of_France.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "France",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    },
+    {
+      "displayName": "ESB Villeneuve-d'Ascq",
+      "articleTitle": "ESB Villeneuve-d'Ascq",
+      "pageUrl": "https://en.wikipedia.org/wiki/ESB_Villeneuve-d'Ascq",
+      "sourceTypes": [
+        "table"
+      ],
+      "sourceSections": [
+        "V"
+      ],
+      "rowValues": [
+        {
+          "Club": "ESB Villeneuve-d'Ascq",
+          "Full name": "Entente Sportive Basket de Villeneuve-d'Ascq - Lille Métropole",
+          "Town (department)": "Villeneuve-d'Ascq (Nord)",
+          "2019–20": "LFB (women)"
+        }
+      ],
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/b/b3/ESBVA.png",
+      "logoThumbUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b3/ESBVA.png/250px-ESBVA.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+      "logoAlt": "Villeneuve-d'Ascq logo",
+      "logoFound": true,
+      "logoReason": null,
+      "error": null
+    }
+  ]
+}
