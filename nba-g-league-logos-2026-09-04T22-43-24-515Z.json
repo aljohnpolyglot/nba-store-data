@@ -1,0 +1,256 @@
+{
+  "league": "NBA G League",
+  "leagueId": 17,
+  "fetchedAt": "2026-09-04T22:43:24.514Z",
+  "count": 31,
+  "teams": [
+    {
+      "teamId": "5476",
+      "name": "Austin Spurs",
+      "era": "2014/15 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/5476/full/547679382019.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/5476/thumbs/547679382019.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/5476/Austin-Spurs-Logos/"
+    },
+    {
+      "teamId": "6810",
+      "name": "Birmingham Squadron",
+      "era": "2021/22 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6810/full/681024372022.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6810/thumbs/681024372022.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6810/Birmingham-Squadron-Logos/"
+    },
+    {
+      "teamId": "6612",
+      "name": "Capital City Go-Go",
+      "era": "2018/19 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6612/full/661273152019.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6612/thumbs/661273152019.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6612/Capital-City-Go-Go-Logos/"
+    },
+    {
+      "teamId": "6833",
+      "name": "Cleveland Charge",
+      "era": "2021/22 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6833/full/cleveland-charge-logo-primary-2026-683338702026.png",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6833/thumbs/cleveland-charge-logo-primary-2026-683338702026-thumb.png",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6833/Cleveland-Charge-Logos/"
+    },
+    {
+      "teamId": "6709",
+      "name": "College Park Skyhawks",
+      "era": "2019/20 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6709/full/670956372020.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6709/thumbs/670956372020.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6709/College-Park-Skyhawks-Logos/"
+    },
+    {
+      "teamId": "6613",
+      "name": "Delaware Blue Coats",
+      "era": "2018/19 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6613/full/661341742022.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6613/thumbs/661341742022.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6613/Delaware-Blue-Coats-Logos/"
+    },
+    {
+      "teamId": "6802",
+      "name": "Grand Rapids Gold",
+      "era": "2021/22 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6802/full/680290662022.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6802/thumbs/680290662022.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6802/Grand-Rapids-Gold-Logos/"
+    },
+    {
+      "teamId": "5934",
+      "name": "Greensboro Swarm",
+      "era": "2016/17 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/5934/full/593491532017.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/5934/thumbs/593491532017.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/5934/Greensboro-Swarm-Logos/"
+    },
+    {
+      "teamId": "6516",
+      "name": "Iowa Wolves",
+      "era": "2017/18 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6516/full/iowa-wolves-logo-primary-2027-651626472027.png",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6516/thumbs/iowa-wolves-logo-primary-2027-651626472027-thumb.png",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6516/Iowa-Wolves-Logos/"
+    },
+    {
+      "teamId": "6014",
+      "name": "Long Island Nets",
+      "era": "2016/17 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6014/full/601425202017.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6014/thumbs/601425202017.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6014/Long-Island-Nets-Logos/"
+    },
+    {
+      "teamId": "6787",
+      "name": "Maine Celtics",
+      "era": "2021/22 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6787/full/678777852022.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6787/thumbs/678777852022.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6787/Maine-Celtics-Logos/"
+    },
+    {
+      "teamId": "6517",
+      "name": "Memphis Hustle",
+      "era": "2017/18 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6517/full/651731662018.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6517/thumbs/651731662018.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6517/Memphis-Hustle-Logos/"
+    },
+    {
+      "teamId": "6788",
+      "name": "Capitanes de Ciudad de Mexico",
+      "era": "2021/22 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6788/full/678865502022.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6788/thumbs/678865502022.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6788/Capitanes-de-Ciudad-de-Mexico-Logos/"
+    },
+    {
+      "teamId": "6781",
+      "name": "Motor City Cruise",
+      "era": "2021/22 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6781/full/678129712022.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6781/thumbs/678129712022.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6781/Motor-City-Cruise-Logos/"
+    },
+    {
+      "teamId": "6945",
+      "name": "Noblesville Boom",
+      "era": "2025/26 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6945/full/noblesville-boom-logo-primary-2026-694560602026.png",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6945/thumbs/noblesville-boom-logo-primary-2026-694560602026-thumb.png",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6945/Noblesville-Boom-Logos/"
+    },
+    {
+      "teamId": "5465",
+      "name": "Oklahoma City Blue",
+      "era": "2014/15 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/5465/full/546598842017.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/5465/thumbs/546598842017.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/5465/Oklahoma-City-Blue-Logos/"
+    },
+    {
+      "teamId": "6884",
+      "name": "Osceola Magic",
+      "era": "2023/24 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6884/full/osceola-magic-logo-primary-2026-688481332026.png",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6884/thumbs/osceola-magic-logo-primary-2026-688481332026-thumb.png",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6884/Osceola-Magic-Logos/"
+    },
+    {
+      "teamId": "5797",
+      "name": "Raptors 905",
+      "era": "2015/16 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/5797/full/579763682016.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/5797/thumbs/579763682016.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/5797/Raptors-905-Logos/"
+    },
+    {
+      "teamId": "2612",
+      "name": "Rio Grande Valley Vipers",
+      "era": "2007/08 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/2612/full/261268102018.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/2612/thumbs/261268102018.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/2612/Rio-Grande-Valley-Vipers-Logos/"
+    },
+    {
+      "teamId": "6881",
+      "name": "Rip City Remix",
+      "era": "2023/24 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6881/full/688120772024.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6881/thumbs/688120772024.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6881/Rip-City-Remix-Logos/"
+    },
+    {
+      "teamId": "6017",
+      "name": "Salt Lake City Stars",
+      "era": "2016/17 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6017/full/salt-lake-city-stars-logo-primary-2026-601740912026.png",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6017/thumbs/salt-lake-city-stars-logo-primary-2026-601740912026-thumb.png",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6017/Salt-Lake-City-Stars-Logos/"
+    },
+    {
+      "teamId": "6919",
+      "name": "San Diego Clippers",
+      "era": "2024/25 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6919/full/691949952025.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6919/thumbs/691949952025.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6919/San-Diego-Clippers-Logos/"
+    },
+    {
+      "teamId": "5042",
+      "name": "Santa Cruz Warriors",
+      "era": "2011/12 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/5042/full/504217162013.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/5042/thumbs/504217162013.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/5042/Santa-Cruz-Warriors-Logos/"
+    },
+    {
+      "teamId": "2129",
+      "name": "Sioux Falls Skyforce",
+      "era": "2005/06 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/2129/full/212980382013.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/2129/thumbs/212980382013.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/2129/Sioux-Falls-Skyforce-Logos/"
+    },
+    {
+      "teamId": "6512",
+      "name": "South Bay Lakers",
+      "era": "2017/18 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6512/full/651292322018.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6512/thumbs/651292322018.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6512/South-Bay-Lakers-Logos/"
+    },
+    {
+      "teamId": "6611",
+      "name": "Stockton Kings",
+      "era": "2018/19 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6611/full/661174352019.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6611/thumbs/661174352019.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6611/Stockton-Kings-Logos/"
+    },
+    {
+      "teamId": "3766",
+      "name": "Texas Legends",
+      "era": "2009/10 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/3766/full/376674392019.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/3766/thumbs/376674392019.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/3766/Texas-Legends-Logos/"
+    },
+    {
+      "teamId": "6920",
+      "name": "Valley Suns",
+      "era": "2024/25 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6920/full/692085922025.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6920/thumbs/692085922025.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6920/Valley-Suns-Logos/"
+    },
+    {
+      "teamId": "5206",
+      "name": "Westchester Knicks",
+      "era": "2013/14 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/5206/full/520677242016.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/5206/thumbs/520677242016.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/5206/Westchester-Knicks-Logos/"
+    },
+    {
+      "teamId": "5999",
+      "name": "Windy City Bulls",
+      "era": "2016/17 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/5999/full/599950802017.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/5999/thumbs/599950802017.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/5999/Windy-City-Bulls-Logos/"
+    },
+    {
+      "teamId": "6523",
+      "name": "Wisconsin Herd",
+      "era": "2017/18 - Pres",
+      "logo": "https://content.sportslogos.net/logos/17/6523/full/652374142018.gif",
+      "thumbnail": "https://content.sportslogos.net/logos/17/6523/thumbs/652374142018.gif",
+      "page": "https://www.sportslogos.net/logos/list_by_team/6523/Wisconsin-Herd-Logos/"
+    }
+  ]
+}
